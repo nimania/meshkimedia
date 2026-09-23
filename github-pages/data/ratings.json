@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T07:09:55.577Z",
+  "updatedAt": "2026-09-23T13:37:37.130Z",
   "metric": "Rating %",
   "windowDays": 10,
   "source": {
@@ -27,6 +27,81 @@
     }
   },
   "days": [
+    {
+      "date": "22.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": false,
+        "abc1": false
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 5.57
+          },
+          {
+            "rank": 2,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 4.27
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.08
+          },
+          {
+            "rank": 4,
+            "program": "A.B.I.",
+            "network": "ATV",
+            "rating": 3.32
+          },
+          {
+            "rank": 5,
+            "program": "TUZLU KAHVE (OZET)",
+            "network": "STAR TV",
+            "rating": 3.31
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.17
+          },
+          {
+            "rank": 7,
+            "program": "ANNE YARISI",
+            "network": "NOW",
+            "rating": 3.13
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.97
+          },
+          {
+            "rank": 9,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.85
+          },
+          {
+            "rank": 10,
+            "program": "A.B.I. (OZET)",
+            "network": "ATV",
+            "rating": 2.79
+          }
+        ],
+        "ab": [],
+        "abc1": []
+      }
+    },
     {
       "date": "21.09.2026",
       "weekday": "",
