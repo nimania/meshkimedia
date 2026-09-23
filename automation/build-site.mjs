@@ -45,8 +45,8 @@ for (const s of seriesArr) {
 // ---- shared HTML shell with full SEO ---------------------------------------
 const SITE_NAV = (root, active) => {
   const items = [
-    ["", "خانه"], ["diziler/", "سریال‌ها"], ["oyuncular/", "بازیگران"], ["karakterler/", "کاراکترها"],
-    ["takvim/", "تقویم"], ["ozetler/", "خلاصه‌ها"], ["fragmanlar/", "فراگمان‌ها"], ["kanal/", "شبکه‌ها"], ["ara/", "جستجو"],
+    ["", "خانه"], ["diziler/", "سریال‌ها"], ["takvim/", "تقویم"], ["ozetler/", "خلاصه‌ها"], ["fragmanlar/", "فراگمان‌ها"],
+    ["reyting/", "ریتینگ"], ["oyuncular/", "بازیگران"], ["karakterler/", "کاراکترها"], ["kanal/", "شبکه‌ها"], ["ara/", "جستجو"],
   ];
   return `<nav class="site-nav" aria-label="بخش‌ها">${items.map(([h, t]) => `<a href="${root}${h}"${active === h ? ' class="on"' : ""}>${t}</a>`).join("")}</nav>`;
 };
@@ -67,15 +67,17 @@ function head(root, { title, desc, path, ogImage, jsonld, ogType = "website" }) 
 <meta property="og:url" content="${canonical}"><meta property="og:image" content="${img}"><meta property="og:locale" content="fa_IR">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(desc)}"><meta name="twitter:image" content="${img}">
 <link rel="icon" href="${root}images/meshki-media-logo.png" type="image/png"><link rel="apple-touch-icon" href="${root}images/meshki-media-logo.png">
-<link rel="stylesheet" href="${root}styles.css?v=20260918d">${ld}
+<link rel="preload" href="${root}vazirmatn.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="${root}styles.css?v=20260923a">
+<script>try{var t=localStorage.getItem("dizimeter-theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>${ld}
 </head>
 <body>
-<header class="app-header"><a class="brand" href="${root}"><img class="brand-logo" src="${root}images/meshki-media-logo.png" alt="مشکی مدیا" width="34" height="34"><span class="brand-text"><strong>مشکی مدیا</strong><span>هوش سریال ترکی</span></span></a><div class="header-actions"><button id="theme-toggle" class="icon-button" aria-label="روشن یا تیره">◐</button><a class="icon-button" href="${root}ara/" aria-label="جستجو">⌕</a></div></header>
+<header class="app-header"><a class="brand" href="${root}"><img class="brand-logo" src="${root}images/meshki-media-logo.png" alt="مشکی مدیا" width="34" height="34"><span class="brand-text"><strong>مشکی مدیا</strong><span>دنیای سریال‌های ترکی</span></span></a><div class="header-actions"><button id="theme-toggle" class="icon-button" aria-label="روشن یا تیره">◐</button><a class="icon-button" href="${root}ara/" aria-label="جستجو">⌕</a></div></header>
 ${SITE_NAV(root, path.split("/")[0] === "" ? "" : (path.split("/").slice(0, 1)[0] + "/"))}`;
 }
 const boot = (root, obj, scripts) => `<script>window.DM=${JSON.stringify(Object.assign({ root }, obj))};</script>
-<script src="${root}dizimeter.js?v=20260918d" defer></script>
-${scripts.map((s) => `<script src="${root}${s}?v=20260918d" defer></script>`).join("\n")}
+<script src="${root}dizimeter.js?v=20260923a" defer></script>
+${scripts.map((s) => `<script src="${root}${s}?v=20260923a" defer></script>`).join("\n")}
 </body></html>
 `;
 const BOTTOM = (root, items) => `<nav class="bottom-nav">${items.map(([h, b, t, on]) => `<a href="${root}${h}"${on ? ' class="active"' : ""}><b>${b}</b><span>${t}</span></a>`).join("")}</nav>`;
@@ -208,6 +210,32 @@ ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"
   return h + body + boot(root, {}, [script]);
 }
 
+// ---- Ratings page (full TİAK table; moved off the homepage) ----------------
+function ratingsPage() {
+  const root = "../";
+  const jsonld = { "@context": "https://schema.org", "@type": "CollectionPage", name: "ریتینگ تلویزیون ترکیه", url: `${BASE}/reyting/` };
+  const h = head(root, { title: "ریتینگ روزانهٔ تلویزیون ترکیه (Total، AB، ABC1) | مشکی مدیا", desc: "جدول ریتینگ روزانهٔ تلویزیون ترکیه از منبع رسمی TİAK: Total، AB و ABC1 در ده روز اخیر، با فیلتر شبکه و نوع برنامه.", path: "reyting/", jsonld });
+  const body = `
+<main class="app-shell">
+<section class="intro"><h1>ریتینگ تلویزیون ترکیه</h1><p>آخرین روز ثبت‌شده: <span id="fetched-at">در حال دریافت…</span> · منبع رسمی TİAK</p></section>
+<section class="summary-card" aria-label="خلاصه ریتینگ"><div class="summary-number"><strong id="summary-count">—</strong><span>برنامه در جدول</span></div><div class="summary-number"><strong id="summary-date">—</strong><span>تاریخ</span></div><div class="summary-number"><strong id="summary-top">—</strong><span>بالاترین</span></div><div class="spark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></section>
+<section id="leader" class="leader-card"><div><small>صدرنشین این روز</small><h2 id="top-program">در حال دریافت داده…</h2><span id="top-network">—</span></div><strong id="top-rating">—</strong></section>
+<section id="ratings" class="feed-section">
+<div class="feed-label"><span>جدول ریتینگ</span><i></i></div>
+<div class="cat-tabs" id="cat-tabs" role="group" aria-label="حالت ریتینگ"></div>
+<p class="cat-note" id="cat-note"></p>
+<div class="day-strip"><span class="day-strip-label">۱۰ روز اخیر:</span><div class="day-tabs" id="day-tabs"></div></div>
+<div class="filter-row" role="group" aria-label="فیلتر برنامه‌ها"><button class="filter active" data-filter="all">همه</button><button class="filter" data-filter="series">سریال‌ها</button><button class="filter" data-filter="entertainment">سرگرمی</button><button class="filter" data-filter="news">خبر</button><select id="net-filter" class="net-filter" aria-label="فیلتر شبکه"></select></div>
+<div id="loading" class="notice">در حال بارگذاری آخرین دادهٔ منتشرشده…</div>
+<div id="error" class="notice error" hidden>داده موقتاً در دسترس نیست؛ سامانه دوباره تلاش می‌کند.</div>
+<div id="ratings-list" class="ratings-list" hidden></div>
+</section>
+<section id="method" class="method-card"><span>شفافیت داده</span><h2>عدد حدس نمی‌زنیم.</h2><p>ریتینگ Total مستقیماً از جدول عمومی TİAK خوانده می‌شود. رتبه‌بندی AB و ABC1 از اعلان‌های رسمی روزانه است؛ اعداد دقیق این دو دسته نیازمند دادهٔ عضویت TİAK است و تا آن زمان تنها رتبه نمایش داده می‌شود.</p><a href="https://tiak.com.tr/" target="_blank" rel="noreferrer">مشاهده منبع رسمی ↗</a></section>
+</main>
+${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["takvim/", "▤", "تقویم"], ["reyting/", "⌁", "ریتینگ", true]])}`;
+  return h + body + boot(root, {}, ["ratings.js"]);
+}
+
 // ---- write all -------------------------------------------------------------
 const count = { logos: 0, networks: 0, series: 0, episodes: 0, actors: 0, characters: 0, lists: 0 };
 const urls = [{ loc: `${BASE}/`, pri: "1.0" }];
@@ -256,6 +284,9 @@ const lists = [
   { path: "ara/", title: "جستجو | مشکی مدیا", desc: "جستجو در سریال‌ها، بازیگران، کاراکترها و قسمت‌های مشکی مدیا.", kicker: "جستجو", h1: "جستجو", sub: "در سریال‌ها، بازیگران، کاراکترها و قسمت‌ها", containerId: "search-results", script: "search.js", active: "ara/" },
 ];
 for (const l of lists) { await mkdir(p(l.path), { recursive: true }); await writeFile(p(l.path + "index.html"), listPage(l), "utf8"); count.lists++; urls.push({ loc: `${BASE}/${l.path}`, pri: "0.7" }); }
+await mkdir(p("reyting/"), { recursive: true });
+await writeFile(p("reyting/index.html"), ratingsPage(), "utf8"); count.lists++;
+urls.push({ loc: `${BASE}/reyting/`, pri: "0.8" });
 
 // ---- search index ----------------------------------------------------------
 const searchIndex = [];
