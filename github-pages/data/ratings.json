@@ -1,97 +1,498 @@
 {
-  "updatedAt": "2026-09-17T20:35:33.123Z",
+  "updatedAt": "2026-09-23T07:09:55.577Z",
   "metric": "Rating %",
   "windowDays": 10,
-  "source": { "name": "TİAK", "url": "https://tiak.com.tr/" },
+  "source": {
+    "name": "TİAK",
+    "url": "https://tiak.com.tr/"
+  },
   "categories": {
-    "total": { "key": "total", "label": "Total", "labelFa": "کل (۵+)", "audience": "5+ Yaş Tüm Kişiler" },
-    "ab": { "key": "ab", "label": "AB", "labelFa": "AB", "audience": "AB" },
-    "abc1": { "key": "abc1", "label": "ABC1", "labelFa": "ABC1 (۲۰+)", "audience": "ABC1 20+" }
+    "total": {
+      "key": "total",
+      "label": "Total",
+      "labelFa": "کل (۵+)",
+      "audience": "5+ Yaş Tüm Kişiler"
+    },
+    "ab": {
+      "key": "ab",
+      "label": "AB",
+      "labelFa": "AB",
+      "audience": "AB"
+    },
+    "abc1": {
+      "key": "abc1",
+      "label": "ABC1",
+      "labelFa": "ABC1 (۲۰+)",
+      "audience": "ABC1 20+"
+    }
   },
   "days": [
     {
-      "date": "16.09.2026",
-      "weekday": "چهارشنبه",
-      "hasNumbers": { "total": true, "ab": false, "abc1": false },
+      "date": "21.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": false,
+        "abc1": false
+      },
       "categories": {
         "total": [
-          { "rank": 1, "program": "SEVDAN BIR ATES", "network": "SHOW TV", "rating": 7.42 },
-          { "rank": 2, "program": "MUGE ANLI ILE TATLI SERT", "network": "ATV", "rating": 4.3 },
-          { "rank": 3, "program": "SEVDAN BIR ATES (OZET)", "network": "SHOW TV", "rating": 3.68 },
-          { "rank": 4, "program": "MASTERCHEF TURKIYE", "network": "TV8", "rating": 3.34 },
-          { "rank": 5, "program": "ESRA EROL'DA", "network": "ATV", "rating": 3.31 },
-          { "rank": 6, "program": "ATV ANA HABER", "network": "ATV", "rating": 2.78 },
-          { "rank": 7, "program": "OZAN GUNDOGDU ILE NOW ANA HABER", "network": "NOW", "rating": 2.49 },
-          { "rank": 8, "program": "SHOW ANA HABER", "network": "SHOW TV", "rating": 2.29 },
-          { "rank": 9, "program": "ATV GUN ORTASI", "network": "ATV", "rating": 2.28 },
-          { "rank": 10, "program": "KANAL D ANA HABER", "network": "KANAL D", "rating": 2.13 }
+          {
+            "rank": 1,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 7.1
+          },
+          {
+            "rank": 2,
+            "program": "UZAK SEHIR",
+            "network": "KANAL D",
+            "rating": 6.97
+          },
+          {
+            "rank": 3,
+            "program": "UZAK SEHIR (OZET)",
+            "network": "KANAL D",
+            "rating": 4.6
+          },
+          {
+            "rank": 4,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 4.54
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.96
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.03
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.77
+          },
+          {
+            "rank": 8,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.77
+          },
+          {
+            "rank": 9,
+            "program": "EVLILIK GUZELDIR",
+            "network": "TRT 1",
+            "rating": 2.73
+          },
+          {
+            "rank": 10,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.51
+          }
+        ],
+        "ab": [],
+        "abc1": []
+      }
+    },
+    {
+      "date": "16.09.2026",
+      "weekday": "چهارشنبه",
+      "hasNumbers": {
+        "total": true,
+        "ab": false,
+        "abc1": false
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": 7.42
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.3
+          },
+          {
+            "rank": 3,
+            "program": "SEVDAN BIR ATES (OZET)",
+            "network": "SHOW TV",
+            "rating": 3.68
+          },
+          {
+            "rank": 4,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.34
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.31
+          },
+          {
+            "rank": 6,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.78
+          },
+          {
+            "rank": 7,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.49
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.29
+          },
+          {
+            "rank": 9,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 2.28
+          },
+          {
+            "rank": 10,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 2.13
+          }
         ],
         "ab": [
-          { "rank": 1, "program": "SEVDAN BIR ATES", "network": "SHOW TV", "rating": null },
-          { "rank": 2, "program": "MASTERCHEF TURKIYE", "network": "TV8", "rating": null },
-          { "rank": 3, "program": "MUGE ANLI ILE TATLI SERT", "network": "ATV", "rating": null },
-          { "rank": 4, "program": "SEVDAN BIR ATES (OZET)", "network": "SHOW TV", "rating": null },
-          { "rank": 5, "program": "ESRA EROL'DA", "network": "ATV", "rating": null },
-          { "rank": 6, "program": "OZAN GUNDOGDU ILE NOW ANA HABER", "network": "NOW", "rating": null },
-          { "rank": 7, "program": "SHOW ANA HABER", "network": "SHOW TV", "rating": null },
-          { "rank": 8, "program": "MASTERCHEF TURKIYE OZET", "network": "TV8", "rating": null },
-          { "rank": 9, "program": "ASK VE TAHT", "network": "ATV", "rating": null },
-          { "rank": 10, "program": "ATV ANA HABER", "network": "ATV", "rating": null }
+          {
+            "rank": 1,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": null
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": null
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 4,
+            "program": "SEVDAN BIR ATES (OZET)",
+            "network": "SHOW TV",
+            "rating": null
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": null
+          },
+          {
+            "rank": 7,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": null
+          },
+          {
+            "rank": 8,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": null
+          },
+          {
+            "rank": 9,
+            "program": "ASK VE TAHT",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 10,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": null
+          }
         ],
         "abc1": [
-          { "rank": 1, "program": "SEVDAN BIR ATES", "network": "SHOW TV", "rating": null },
-          { "rank": 2, "program": "MUGE ANLI ILE TATLI SERT", "network": "ATV", "rating": null },
-          { "rank": 3, "program": "SEVDAN BIR ATES (OZET)", "network": "SHOW TV", "rating": null },
-          { "rank": 4, "program": "MASTERCHEF TURKIYE", "network": "TV8", "rating": null },
-          { "rank": 5, "program": "ESRA EROL'DA", "network": "ATV", "rating": null },
-          { "rank": 6, "program": "OZAN GUNDOGDU ILE NOW ANA HABER", "network": "NOW", "rating": null },
-          { "rank": 7, "program": "ATV ANA HABER", "network": "ATV", "rating": null },
-          { "rank": 8, "program": "SHOW ANA HABER", "network": "SHOW TV", "rating": null },
-          { "rank": 9, "program": "KANAL D ANA HABER", "network": "KANAL D", "rating": null },
-          { "rank": 10, "program": "ASK VE TAHT", "network": "ATV", "rating": null }
+          {
+            "rank": 1,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": null
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 3,
+            "program": "SEVDAN BIR ATES (OZET)",
+            "network": "SHOW TV",
+            "rating": null
+          },
+          {
+            "rank": 4,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": null
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": null
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": null
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": null
+          },
+          {
+            "rank": 10,
+            "program": "ASK VE TAHT",
+            "network": "ATV",
+            "rating": null
+          }
         ]
       }
     },
     {
       "date": "09.09.2026",
       "weekday": "چهارشنبه",
-      "hasNumbers": { "total": false, "ab": false, "abc1": false },
+      "hasNumbers": {
+        "total": false,
+        "ab": false,
+        "abc1": false
+      },
       "categories": {
         "total": [
-          { "rank": 1, "program": "SPORTING CP - GALATASARAY", "network": "TRT 1", "rating": null },
-          { "rank": 2, "program": "SEVDAN BIR ATES", "network": "SHOW TV", "rating": null },
-          { "rank": 3, "program": "MUGE ANLI ILE TATLI SERT", "network": "ATV", "rating": null },
-          { "rank": 4, "program": "ESRA EROL'DA", "network": "ATV", "rating": null },
-          { "rank": 5, "program": "MASTERCHEF TURKIYE", "network": "TV8", "rating": null },
-          { "rank": 6, "program": "ASK VE TAHT", "network": "ATV", "rating": null },
-          { "rank": 7, "program": "OZAN GUNDOGDU ILE NOW ANA HABER", "network": "NOW", "rating": null },
-          { "rank": 8, "program": "ATV ANA HABER", "network": "ATV", "rating": null },
-          { "rank": 9, "program": "GELINIM MUTFAKTA", "network": "KANAL D", "rating": null },
-          { "rank": 10, "program": "SHOW ANA HABER", "network": "SHOW TV", "rating": null }
+          {
+            "rank": 1,
+            "program": "SPORTING CP - GALATASARAY",
+            "network": "TRT 1",
+            "rating": null
+          },
+          {
+            "rank": 2,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": null
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 4,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 5,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": null
+          },
+          {
+            "rank": 6,
+            "program": "ASK VE TAHT",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 7,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": null
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 9,
+            "program": "GELINIM MUTFAKTA",
+            "network": "KANAL D",
+            "rating": null
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": null
+          }
         ],
         "ab": [
-          { "rank": 1, "program": "SPORTING CP - GALATASARAY", "network": "TRT 1", "rating": null },
-          { "rank": 2, "program": "MASTERCHEF TURKIYE", "network": "TV8", "rating": null },
-          { "rank": 3, "program": "SEVDAN BIR ATES", "network": "SHOW TV", "rating": null },
-          { "rank": 4, "program": "MUGE ANLI ILE TATLI SERT", "network": "ATV", "rating": null },
-          { "rank": 5, "program": "TUZLU KAHVE", "network": "STAR TV", "rating": null },
-          { "rank": 6, "program": "ESRA EROL'DA", "network": "ATV", "rating": null },
-          { "rank": 7, "program": "OZAN GUNDOGDU ILE NOW ANA HABER", "network": "NOW", "rating": null },
-          { "rank": 8, "program": "ASK VE TAHT", "network": "ATV", "rating": null },
-          { "rank": 9, "program": "MASTERCHEF TURKIYE OZET", "network": "TV8", "rating": null },
-          { "rank": 10, "program": "SHOW ANA HABER", "network": "SHOW TV", "rating": null }
+          {
+            "rank": 1,
+            "program": "SPORTING CP - GALATASARAY",
+            "network": "TRT 1",
+            "rating": null
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": null
+          },
+          {
+            "rank": 3,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": null
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 5,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": null
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 7,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": null
+          },
+          {
+            "rank": 8,
+            "program": "ASK VE TAHT",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 9,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": null
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": null
+          }
         ],
         "abc1": [
-          { "rank": 1, "program": "SPORTING CP - GALATASARAY", "network": "TRT 1", "rating": null },
-          { "rank": 2, "program": "MUGE ANLI ILE TATLI SERT", "network": "ATV", "rating": null },
-          { "rank": 3, "program": "SEVDAN BIR ATES", "network": "SHOW TV", "rating": null },
-          { "rank": 4, "program": "MASTERCHEF TURKIYE", "network": "TV8", "rating": null },
-          { "rank": 5, "program": "ESRA EROL'DA", "network": "ATV", "rating": null },
-          { "rank": 6, "program": "ASK VE TAHT", "network": "ATV", "rating": null },
-          { "rank": 7, "program": "OZAN GUNDOGDU ILE NOW ANA HABER", "network": "NOW", "rating": null },
-          { "rank": 8, "program": "TUZLU KAHVE", "network": "STAR TV", "rating": null },
-          { "rank": 9, "program": "KANAL D ANA HABER", "network": "KANAL D", "rating": null },
-          { "rank": 10, "program": "SHOW ANA HABER", "network": "SHOW TV", "rating": null }
+          {
+            "rank": 1,
+            "program": "SPORTING CP - GALATASARAY",
+            "network": "TRT 1",
+            "rating": null
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 3,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": null
+          },
+          {
+            "rank": 4,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": null
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 6,
+            "program": "ASK VE TAHT",
+            "network": "ATV",
+            "rating": null
+          },
+          {
+            "rank": 7,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": null
+          },
+          {
+            "rank": 8,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": null
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": null
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": null
+          }
         ]
       }
     }
