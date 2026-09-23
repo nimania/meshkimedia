@@ -13,13 +13,15 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write # commit the refreshed ratings window back to main
   pages: write
   id-token: write
 
+# One run at a time, and never cancel one halfway: it may be deploying or
+# committing ratings.json. Newer queued runs simply wait their turn.
 concurrency:
   group: github-pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build-and-deploy:
@@ -28,22 +30,57 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
       - name: Refresh official ratings
+        id: refresh
         run: node automation/build-pages-data.mjs
         continue-on-error: true
       - name: Regenerate static pages from data
         run: node automation/build-site.mjs
       - name: Configure Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
         with:
           enablement: true
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: github-pages
       - name: Deploy
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
+      # Without this step every run starts again from the committed ratings.json, so
+      # the 10-day window never grows and a failed TİAK fetch rolls the site back.
+      # It runs after deploy (and even if deploy failed) so publishing is never
+      # blocked by it; if the push fails, the run turns red.
+      - name: Persist ratings window to main
+        if: ${{ !cancelled() && steps.refresh.outcome == 'success' }}
+        run: |
+          file=github-pages/data/ratings.json
+          # Skip when nothing but the updatedAt timestamp moved.
+          if node -e '
+            const fs = require("fs"), { execSync } = require("child_process");
+            const content = (s) => { const { updatedAt, ...rest } = JSON.parse(s); return JSON.stringify(rest); };
+            const now = content(fs.readFileSync(process.argv[1], "utf8"));
+            const committed = content(execSync("git show HEAD:" + process.argv[1], { encoding: "utf8" }));
+            process.exit(now === committed ? 0 : 1);
+          ' "$file"; then
+            echo "Ratings window unchanged; nothing to persist."
+            exit 0
+          fi
+          latest=$(node -p "require('./$file').days[0].date")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$file"
+          git commit -m "data: TİAK ratings through ${latest} [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Persisted ratings window (latest day ${latest})."
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 10))
+          done
+          echo "::error::Could not push ratings.json to main"
+          exit 1
