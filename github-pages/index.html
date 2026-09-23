@@ -2,71 +2,78 @@
 <html lang="fa" dir="rtl">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>مشکی مدیا | ریتینگ تازه تلویزیون ترکیه</title>
-  <meta name="description" content="مشکی مدیا: ریتینگ روزانهٔ تلویزیون ترکیه (Total، AB، ABC1)، پروفایل سریال‌ها و قسمت‌ها، بازیگران و کاراکترها، تقویم پخش و آرشیو خلاصه‌ها و فراگمان‌ها — با منبع رسمی TİAK.">
+  <title>مشکی مدیا | دنیای سریال‌های ترکی</title>
+  <meta name="description" content="مشکی مدیا: سریال‌های ترکی امشب، قسمت‌های تازه و خلاصه‌ها، فراگمان‌ها، بازیگران و کاراکترها، تقویم پخش و ریتینگ روزانه از منبع رسمی TİAK — به فارسی.">
   <link rel="canonical" href="https://nimania.github.io/meshkimedia/">
   <meta property="og:type" content="website"><meta property="og:site_name" content="مشکی مدیا">
-  <meta property="og:title" content="مشکی مدیا | ریتینگ تازه تلویزیون ترکیه"><meta property="og:description" content="ریتینگ روزانهٔ تلویزیون ترکیه، پروفایل سریال‌ها و قسمت‌ها، بازیگران، تقویم پخش و آرشیوها.">
+  <meta property="og:title" content="مشکی مدیا | دنیای سریال‌های ترکی"><meta property="og:description" content="سریال‌های ترکی امشب، قسمت‌های تازه و خلاصه‌ها، فراگمان‌ها، بازیگران و ریتینگ روزانه — به فارسی.">
   <meta property="og:url" content="https://nimania.github.io/meshkimedia/"><meta property="og:image" content="https://nimania.github.io/meshkimedia/images/meshki-media-logo.png"><meta property="og:locale" content="fa_IR">
   <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="مشکی مدیا"><meta name="twitter:image" content="https://nimania.github.io/meshkimedia/images/meshki-media-logo.png">
   <link rel="icon" href="images/meshki-media-logo.png" type="image/png"><link rel="apple-touch-icon" href="images/meshki-media-logo.png">
-  <link rel="stylesheet" href="styles.css?v=20260918d">
+  <link rel="preload" href="vazirmatn.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css?v=20260923a">
+  <script>try{var t=localStorage.getItem("dizimeter-theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"مشکی مدیا","alternateName":"Meshki Media","url":"https://nimania.github.io/meshkimedia/","potentialAction":{"@type":"SearchAction","target":"https://nimania.github.io/meshkimedia/ara/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
 </head>
-<body>
+<body class="home">
   <header class="app-header">
-    <a class="brand" href="./"><img class="brand-logo" src="images/meshki-media-logo.png" alt="مشکی مدیا" width="34" height="34"><span class="brand-text"><strong>مشکی مدیا</strong><span>هوش سریال ترکی</span></span></a>
+    <a class="brand" href="./"><img class="brand-logo" src="images/meshki-media-logo.png" alt="مشکی مدیا" width="34" height="34"><span class="brand-text"><strong>مشکی مدیا</strong><span>دنیای سریال‌های ترکی</span></span></a>
     <div class="header-actions"><button id="theme-toggle" class="icon-button" aria-label="روشن یا تیره">◐</button><a class="icon-button" href="ara/" aria-label="جستجو">⌕</a></div>
   </header>
-  <nav class="site-nav" aria-label="بخش‌ها"><a href="./" class="on">خانه</a><a href="diziler/">سریال‌ها</a><a href="oyuncular/">بازیگران</a><a href="karakterler/">کاراکترها</a><a href="takvim/">تقویم</a><a href="ozetler/">خلاصه‌ها</a><a href="fragmanlar/">فراگمان‌ها</a><a href="kanal/">شبکه‌ها</a><a href="ara/">جستجو</a></nav>
+  <nav class="site-nav" aria-label="بخش‌ها"><a href="./" class="on">خانه</a><a href="diziler/">سریال‌ها</a><a href="takvim/">تقویم</a><a href="ozetler/">خلاصه‌ها</a><a href="fragmanlar/">فراگمان‌ها</a><a href="reyting/">ریتینگ</a><a href="oyuncular/">بازیگران</a><a href="karakterler/">کاراکترها</a><a href="kanal/">شبکه‌ها</a><a href="ara/">جستجو</a></nav>
 
-  <main class="app-shell">
-    <section class="intro"><h1>ریتینگ تلویزیون ترکیه، در یک نگاه</h1><p>آخرین روز ثبت‌شده: <span id="fetched-at">در حال دریافت…</span> · منبع رسمی TİAK</p>
-      <form class="home-search" action="ara/" method="get"><input name="q" type="search" placeholder="جستجوی سریال، بازیگر، کاراکتر…" aria-label="جستجو"><button type="submit">جستجو</button></form>
+  <main class="home-shell">
+    <h1 class="sr-only">مشکی مدیا — دنیای سریال‌های ترکی، به فارسی</h1>
+
+    <section id="spotlight" class="spotlight is-loading" aria-label="سریال ویژه"><div class="spot-copy"><span class="skel skel-line" style="width:160px"></span><span class="skel skel-title"></span><span class="skel skel-line" style="width:70%"></span></div></section>
+
+    <form class="quick-search" action="ara/" method="get" role="search"><input name="q" type="search" placeholder="جستجوی سریال، بازیگر یا کاراکتر…" aria-label="جستجو"><button type="submit">جستجو</button></form>
+
+    <section class="home-block" id="tonight" aria-labelledby="tonight-title">
+      <div class="block-head"><div><span class="kicker" id="tonight-kicker">برنامهٔ پخش</span><h2 id="tonight-title">امشب از تلویزیون ترکیه</h2></div><a class="block-link" href="takvim/">تقویم کامل ←</a></div>
+      <div id="tonight-list" class="tonight-list"><div class="skel skel-row"></div><div class="skel skel-row"></div></div>
     </section>
 
-    <section class="summary-card" aria-label="خلاصه ریتینگ">
-      <div class="summary-number"><strong id="summary-count">—</strong><span>برنامه در جدول</span></div><div class="summary-number"><strong id="summary-date">—</strong><span>تاریخ</span></div><div class="summary-number"><strong id="summary-top">—</strong><span>بالاترین</span></div>
-      <div class="spark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+    <div class="home-split">
+      <section class="home-block" id="top" aria-labelledby="top-title">
+        <div class="block-head"><div><span class="kicker">ریتینگ رسمی TİAK</span><h2 id="top-title">پربیننده‌ترین سریال‌ها</h2></div><a class="block-link" href="reyting/">جدول کامل ←</a></div>
+        <p class="block-note">آخرین ریتینگ هر سریال در ۱۰ روز اخیر (همهٔ مخاطبان)</p>
+        <ol id="top-list" class="top-list"><li class="skel skel-row"></li><li class="skel skel-row"></li><li class="skel skel-row"></li></ol>
+      </section>
+
+      <section class="home-block" id="fresh" aria-labelledby="fresh-title">
+        <div class="block-head"><div><span class="kicker">تازه پخش‌شده</span><h2 id="fresh-title">قسمت‌های تازه</h2></div><a class="block-link" href="ozetler/">همهٔ خلاصه‌ها ←</a></div>
+        <div id="fresh-row" class="rail ep-rail"><div class="skel skel-card"></div><div class="skel skel-card"></div></div>
+      </section>
+    </div>
+
+    <section class="home-block" id="series" aria-labelledby="series-title">
+      <div class="block-head"><div><span class="kicker">به ترتیب روز پخش</span><h2 id="series-title">سریال‌های این فصل</h2></div><a class="block-link" href="diziler/">همهٔ سریال‌ها ←</a></div>
+      <div id="poster-grid" class="poster-grid"></div>
     </section>
 
-    <section id="leader" class="leader-card"><div><small>صدرنشین این روز</small><h2 id="top-program">در حال دریافت داده…</h2><span id="top-network">—</span></div><strong id="top-rating">—</strong></section>
-
-    <section id="ratings" class="feed-section">
-      <div class="feed-label"><span>جدول ریتینگ</span><i></i></div>
-      <div class="cat-tabs" id="cat-tabs" role="group" aria-label="حالت ریتینگ"></div>
-      <p class="cat-note" id="cat-note"></p>
-      <div class="day-strip"><span class="day-strip-label">۱۰ روز اخیر:</span><div class="day-tabs" id="day-tabs"></div></div>
-      <div class="filter-row" role="group" aria-label="فیلتر برنامه‌ها">
-        <button class="filter active" data-filter="all">همه</button>
-        <button class="filter" data-filter="series">سریال‌ها</button>
-        <button class="filter" data-filter="entertainment">سرگرمی</button>
-        <button class="filter" data-filter="news">خبر</button>
-        <select id="net-filter" class="net-filter" aria-label="فیلتر شبکه"></select>
-      </div>
-      <div id="loading" class="notice">در حال بارگذاری آخرین دادهٔ منتشرشده…</div>
-      <div id="error" class="notice error" hidden>داده موقتاً در دسترس نیست؛ سامانه دوباره تلاش می‌کند.</div>
-      <div id="ratings-list" class="ratings-list" hidden></div>
-    </section>
-
-    <section id="networks" class="feed-section">
-      <div class="feed-label"><span>مرور بر اساس شبکه</span><i></i></div>
+    <section class="home-block" id="networks" aria-labelledby="networks-title">
+      <div class="block-head"><div><span class="kicker">مرور بر اساس شبکه</span><h2 id="networks-title">شبکه‌ها</h2></div><a class="block-link" href="kanal/">همهٔ شبکه‌ها ←</a></div>
       <div id="home-nets" class="net-grid"></div>
-      <a class="see-all" href="kanal/">فهرست کامل شبکه‌ها ←</a>
     </section>
 
-    <section id="method" class="method-card"><span>شفافیت داده</span><h2>عدد حدس نمی‌زنیم.</h2><p>ریتینگ Total مستقیماً از جدول عمومی TİAK خوانده می‌شود. رتبه‌بندی AB و ABC1 از اعلان‌های رسمی روزانه است؛ اعداد دقیق این دو دسته نیازمند دادهٔ عضویت TİAK است و تا آن زمان تنها رتبه نمایش داده می‌شود.</p><a href="https://tiak.com.tr/" target="_blank" rel="noreferrer">مشاهده منبع رسمی ↗</a></section>
+    <div id="error" class="notice error" hidden>داده موقتاً در دسترس نیست؛ کمی بعد دوباره سر بزنید.</div>
+
+    <footer class="site-foot">
+      <div><strong>مشکی مدیا</strong><span>دنیای سریال‌های ترکی، به فارسی</span></div>
+      <p>ریتینگ‌ها فقط از منبع رسمی TİAK · <a href="reyting/#method">دربارهٔ داده‌ها</a></p>
+    </footer>
   </main>
 
   <nav class="bottom-nav" aria-label="ناوبری اصلی">
-    <a class="active" href="#ratings"><b>☰</b><span>ریتینگ</span></a>
+    <a class="active" href="./"><b>⌂</b><span>خانه</span></a>
     <a href="diziler/"><b>▤</b><span>سریال‌ها</span></a>
     <a href="takvim/"><b>▦</b><span>تقویم</span></a>
-    <a href="ara/"><b>⌕</b><span>جستجو</span></a>
+    <a href="reyting/"><b>⌁</b><span>ریتینگ</span></a>
   </nav>
 
   <script>window.DM = { root: "" };</script>
-  <script src="dizimeter.js?v=20260918d" defer></script>
-  <script src="home.js?v=20260918d" defer></script>
+  <script src="dizimeter.js?v=20260923a" defer></script>
+  <script src="home.js?v=20260923a" defer></script>
 </body>
 </html>

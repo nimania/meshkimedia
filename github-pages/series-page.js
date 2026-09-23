@@ -34,8 +34,12 @@
         const photo = c.image ? `style="background-image:url('${c.image}')"` : "";
         const aName = c.nameFa || c.name;
         const cName = c.roleFa || c.role || "";
-        const inner = `<div class="cast-photo" ${photo}>${c.image ? "" : (aName || "?").slice(0, 1)}</div><div><strong>${D.esc(aName)}</strong>${charUrl ? `<a class="role-link" href="${charUrl}">${D.esc(cName)}</a>` : `<span>${D.esc(cName)}</span>`}</div>`;
-        return actorUrl ? `<a class="cast-card" href="${actorUrl}">${inner}</a>` : `<article class="cast-card">${inner}</article>`;
+        // No link wraps the whole card: the role link inside it would be a nested <a>, which the
+        // browser splits into two grid cells. Photo + name go to the actor, the role to the character.
+        const photoEl = `${c.image ? "" : D.esc((aName || "?").slice(0, 1))}`;
+        const inner = (actorUrl ? `<a class="cast-photo" href="${actorUrl}" ${photo}>${photoEl}</a>` : `<div class="cast-photo" ${photo}>${photoEl}</div>`)
+          + `<div>${actorUrl ? `<a href="${actorUrl}"><strong>${D.esc(aName)}</strong></a>` : `<strong>${D.esc(aName)}</strong>`}${charUrl ? `<a class="role-link" href="${charUrl}">${D.esc(cName)}</a>` : `<span>${D.esc(cName)}</span>`}</div>`;
+        return `<article class="cast-card">${inner}</article>`;
       }).join("");
     } else { $("#cast-section").hidden = true; }
 
