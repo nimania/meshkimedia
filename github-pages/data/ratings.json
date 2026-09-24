@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T13:37:37.130Z",
+  "updatedAt": "2026-09-24T11:42:39.062Z",
   "metric": "Rating %",
   "windowDays": 10,
   "source": {
@@ -27,6 +27,81 @@
     }
   },
   "days": [
+    {
+      "date": "23.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": false,
+        "abc1": false
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": 8.85
+          },
+          {
+            "rank": 2,
+            "program": "SEVDAN BIR ATES (OZET)",
+            "network": "SHOW TV",
+            "rating": 4.63
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.17
+          },
+          {
+            "rank": 4,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.68
+          },
+          {
+            "rank": 5,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.98
+          },
+          {
+            "rank": 6,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.83
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.7
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.23
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 2.17
+          },
+          {
+            "rank": 10,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.99
+          }
+        ],
+        "ab": [],
+        "abc1": []
+      }
+    },
     {
       "date": "22.09.2026",
       "weekday": "",
