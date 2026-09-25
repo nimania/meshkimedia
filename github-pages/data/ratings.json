@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:42:39.062Z",
+  "updatedAt": "2026-09-25T13:44:57.056Z",
   "metric": "Rating %",
   "windowDays": 10,
   "source": {
@@ -27,6 +27,81 @@
     }
   },
   "days": [
+    {
+      "date": "24.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": false,
+        "abc1": false
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 5.13
+          },
+          {
+            "rank": 2,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 4.35
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.9
+          },
+          {
+            "rank": 4,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.68
+          },
+          {
+            "rank": 5,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 3.53
+          },
+          {
+            "rank": 6,
+            "program": "HALEF KOKLERIN CAGRISI",
+            "network": "NOW",
+            "rating": 3.3
+          },
+          {
+            "rank": 7,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.68
+          },
+          {
+            "rank": 8,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.63
+          },
+          {
+            "rank": 9,
+            "program": "HALEF KOKLERIN CAGRISI (OZET)",
+            "network": "NOW",
+            "rating": 2.54
+          },
+          {
+            "rank": 10,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.36
+          }
+        ],
+        "ab": [],
+        "abc1": []
+      }
+    },
     {
       "date": "23.09.2026",
       "weekday": "",
