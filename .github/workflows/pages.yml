@@ -56,7 +56,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v5
       # Without this step every run starts again from the committed ratings.json, so
-      # the 10-day window never grows and a failed TİAK fetch rolls the site back.
+      # the ratings history never grows and a failed TİAK fetch rolls the site back.
       # It runs after deploy (and even if deploy failed) so publishing is never
       # blocked by it; if the push fails, the run turns red.
       - name: Persist ratings window to main

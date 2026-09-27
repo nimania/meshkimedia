@@ -3,8 +3,33 @@
 (async function () {
   "use strict";
   const D = window.DiziMeter;
+  const T = window.RatingTrends;
   const $ = (s) => document.querySelector(s);
   let data, seriesByKey = {}, activeCat = "total", activeDayIdx = 0, activeFilter = "all", activeNet = "all";
+  let trendMode = "total", trendMetric = "rating", trendItems = [], hiddenTrends = new Set();
+
+  function renderTrends() {
+    const mode = trendMode, metric = trendMetric;
+    $("#trend-modes").innerHTML = T.modes.map((m) => `<button class="trend-button ${mode === m ? "active" : ""}" data-mode="${m}" aria-pressed="${mode === m}">${T.labels[m]}</button>`).join("");
+    $("#trend-metric").innerHTML = `<button class="trend-button ${metric === "rating" ? "active" : ""}" data-metric="rating" aria-pressed="${metric === "rating"}" ${mode !== "total" ? "disabled title=\"عدد ریتینگ AB و ABC1 موجود نیست\"" : ""}>ریتینگ ٪</button><button class="trend-button ${metric === "rank" ? "active" : ""}" data-metric="rank" aria-pressed="${metric === "rank"}">رتبه</button>`;
+    $("#trend-modes").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => { trendMode = b.dataset.mode; if (trendMode !== "total") trendMetric = "rank"; renderTrends(); }));
+    $("#trend-metric").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => { trendMetric = b.dataset.metric; renderTrends(); }));
+    const available = trendItems.filter((x) => x.points.some((p) => Number.isFinite(p.rows[mode]?.[metric])));
+    const visible = available.filter((x) => !hiddenTrends.has(x.s.slug));
+    const lines = visible.map((x) => ({ name: x.s.titleFa, color: x.color,
+      points: x.points.map((p, i) => ({ value: p.rows[mode]?.[metric] ?? null,
+        label: p.episode ? `قسمت ${p.episode.number}` : `پخش ثبت‌شدهٔ ${i + 1}`, date: p.date })) }));
+    $("#trend-chart").innerHTML = T.chart(lines, { metric, xCount: Math.max(0, ...available.map((x) => x.points.length)),
+      aria: `مقایسهٔ ${metric === "rank" ? "رتبه" : "ریتینگ درصد"} ${T.labels[mode]} سریال‌های در حال پخش، به ترتیب پخش‌های ثبت‌شده` });
+    $("#trend-legend").innerHTML = available.map((x) => `<button class="trend-legend-item ${hiddenTrends.has(x.s.slug) ? "off" : ""}" style="--trend-color:${x.color}" data-slug="${D.esc(x.s.slug)}" aria-pressed="${!hiddenTrends.has(x.s.slug)}"><i></i>${D.esc(x.s.titleFa)}</button>`).join("");
+    $("#trend-legend").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => { if (hiddenTrends.has(b.dataset.slug)) hiddenTrends.delete(b.dataset.slug); else hiddenTrends.add(b.dataset.slug); renderTrends(); }));
+    const ranked = available.map((x) => ({ ...x, change: T.changes(x.points, mode, metric) })).filter((x) => x.change).sort((a, b) => b.change.delta - a.change.delta);
+    const best = ranked[0], worst = ranked[ranked.length - 1];
+    $("#trend-note").textContent = `${T.fa(available.length)} سریال از ${T.fa(trendItems.length)} سریال در حال پخشِ دارای کلید ریتینگ در این نما داده دارند. محور افقی: ترتیب پخش‌های ثبت‌شدهٔ هر سریال. ${metric === "rank" ? "رتبهٔ ۱ بالاترین جایگاه است. بالا رفتن خط یعنی بهبود رتبه." : "مقدار Rating %؛ بالا رفتن خط یعنی رشد مخاطب."} پخش‌های بدون داده برآورد نمی‌شوند. برای جزئیات روی نقطه مکث کنید یا فهرست زیر را باز کنید.`;
+    const summary = ranked.length ? `<div class="trend-insight"><small>${best.change.delta > 0 ? "بیشترین رشد" : "بهترین تغییر"} بین دو پخش دارای داده</small><strong>${D.esc(best.s.titleFa)}</strong><b class="${best.change.delta >= 0 ? "up" : "down"}">${best.change.delta > 0 ? "+" : ""}${T.fa(best.change.delta)} ${metric === "rank" ? "پله" : "واحد"}</b></div><div class="trend-insight"><small>${worst.change.delta < 0 ? "بیشترین افت" : "کمترین رشد"} بین دو پخش دارای داده</small><strong>${D.esc(worst.s.titleFa)}</strong><b class="${worst.change.delta < 0 ? "down" : "up"}">${worst.change.delta > 0 ? "+" : ""}${T.fa(worst.change.delta)} ${metric === "rank" ? "پله" : "واحد"}</b></div>` : "";
+    $("#trend-analysis").innerHTML = summary + (ranked.length ? `<div class="trend-change-list"><h3>تغییر آخرین دو پخشِ دارای داده</h3>${ranked.map((x) => `<a href="${D.ROOT}dizi/${x.s.slug}/"><i style="--trend-color:${x.color}"></i><span>${D.esc(x.s.titleFa)}<small>${x.change.firstDate} ← ${x.change.lastDate}</small></span><b class="${x.change.delta >= 0 ? "up" : "down"}">${x.change.delta > 0 ? "+" : ""}${T.fa(x.change.delta)} ${metric === "rank" ? "پله" : "واحد"}</b></a>`).join("")}</div>` : '<div class="trend-empty">برای محاسبهٔ رشد یا افت، دست‌کم دو پخش دارای داده برای یک سریال لازم است. تاریخچه با انتشار داده‌های جدید کامل می‌شود.</div>');
+    $("#trend-details").innerHTML = `<h3>جزئیات هر پخش</h3>${available.map((x) => `<details><summary><i style="--trend-color:${x.color}"></i>${D.esc(x.s.titleFa)} <small>${T.fa(x.points.filter((p) => Number.isFinite(p.rows[mode]?.[metric])).length)} پخش دارای داده</small></summary><div class="trend-detail-rows">${x.points.filter((p) => Number.isFinite(p.rows[mode]?.[metric])).map((p, i) => `<a href="${D.ROOT}dizi/${x.s.slug}/${p.episode ? `bolum-${p.episode.number}/` : ""}"><span>${p.episode ? `قسمت ${D.fmtInt(p.episode.number)}` : `پخش ثبت‌شدهٔ ${D.fmtInt(i + 1)}`}</span><time>${D.esc(p.date)}</time><b>${metric === "rank" ? `رتبهٔ ${D.fmtInt(p.rows[mode].rank)}` : `${T.fa(p.rows[mode].rating)}٪`}</b></a>`).join("")}</div></details>`).join("")}${trendItems.filter((x) => !available.includes(x)).length ? `<p class="trend-help">بدون داده در این نما: ${trendItems.filter((x) => !available.includes(x)).map((x) => D.esc(x.s.titleFa)).join("، ")}</p>` : ""}`;
+  }
 
   function classify(row) {
     const key = (row.program || "").toUpperCase().replace(/\s*\(OZET\)\s*/, "").trim();
@@ -21,7 +46,7 @@
   }
 
   function renderDayTabs() {
-    $("#day-tabs").innerHTML = data.ratings.days
+    $("#day-tabs").innerHTML = data.ratings.days.slice(0, 10)
       .map((d, i) => `<button class="day-tab ${i === activeDayIdx ? "active" : ""}" data-idx="${i}">${d.date}</button>`)
       .join("");
     $("#day-tabs").querySelectorAll(".day-tab").forEach((b) =>
@@ -116,6 +141,8 @@
   try {
     data = await D.loadData();
     buildKeyMap();
+    trendItems = T.onAir(data.series).map((s, i) => ({ s, color: T.colors[i % T.colors.length], points: T.broadcasts(data.ratings, s) }));
+    renderTrends();
     renderNetChips();
     // network filter dropdown
     $("#net-filter").innerHTML = `<option value="all">همهٔ شبکه‌ها</option>` +
