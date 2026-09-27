@@ -80,7 +80,7 @@
       ? `<i></i>${when}${net ? " از " + esc(net.name) : ""}${t ? ` · ساعت ${t.ir} به وقت ایران` : ""}`
       : `سریال ویژه${net ? " · " + esc(net.name) : ""}`;
     const actions = [`<a class="btn btn-red" href="${R}dizi/${s.slug}/">صفحهٔ سریال</a>`];
-    if (ep && ep.summary) actions.push(`<a class="btn btn-glass" href="${R}dizi/${s.slug}/bolum-${ep.number}/">خلاصهٔ قسمت ${D.fmtInt(ep.number)}</a>`);
+    if (ep && ep.summary) actions.push(`<a class="btn btn-glass" href="${R}dizi/${s.slug}/bolum-${ep.number}/">${ep.preview ? "معرفی" : "خلاصهٔ"} قسمت ${D.fmtInt(ep.number)}</a>`);
     const fr = (ep && ep.fragman) || s.fragman;
     if (fr) actions.push(`<a class="btn btn-glass" href="${esc(fr)}" target="_blank" rel="noreferrer">▶ فراگمان</a>`);
     const el = $("#spotlight");
@@ -146,7 +146,7 @@
     const rows = [];
     const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Istanbul", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
     Object.values(data.series).forEach((s) => D.allEpisodes(s).forEach((e) => {
-      if (e.summary && e.summary.trim() && e.date && e.date <= today) rows.push({ s, e });
+      if (!e.preview && e.summary && e.summary.trim() && e.date && e.date <= today) rows.push({ s, e });
     }));
     rows.sort((a, b) => (b.e.date || "").localeCompare(a.e.date || "")
       || ((b.e.summary ? 2 : 0) + (epImage(b.s, b.e) ? 1 : 0)) - ((a.e.summary ? 2 : 0) + (epImage(a.s, a.e) ? 1 : 0)));
