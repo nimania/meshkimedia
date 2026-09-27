@@ -8,7 +8,9 @@
   try {
     const { series } = await D.loadData();
     const rows = [];
-    D.seriesList(series).forEach((s) => D.allEpisodes(s).forEach((e) => rows.push({ s, e })));
+    D.seriesList(series).forEach((s) => D.allEpisodes(s).forEach((e) => {
+      if (e.summary && e.summary.trim()) rows.push({ s, e });
+    }));
     rows.sort((a, b) => (b.e.date || "").localeCompare(a.e.date || ""));
     if (!rows.length) { el.innerHTML = `<div class="notice">هنوز خلاصه‌ای ثبت نشده است.</div>`; return; }
     el.innerHTML = rows.map(({ s, e }) => {

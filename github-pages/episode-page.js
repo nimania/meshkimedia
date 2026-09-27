@@ -31,7 +31,7 @@
 
     // Hero image = first photo or series hero
     const heroImg = ep.image || (ep.images && ep.images[0]) || s.hero || "";
-    if (heroImg) $("#ep-hero").style.backgroundImage = `url('${heroImg}')`;
+    if (heroImg) $(".ep-hero-image").src = heroImg;
     else $("#ep-hero").classList.add("no-image");
 
     // Ratings (Total / AB / ABC1)
@@ -43,11 +43,16 @@
       : "ریتینگ این قسمت هنوز در سیستم ثبت نشده است.";
 
     // Photos gallery
-    const gallery = (ep.images && ep.images.length ? ep.images : (ep.image ? [ep.image] : []));
+    const gallery = [...new Set((ep.images && ep.images.length ? ep.images : (ep.image ? [ep.image] : []))
+      .filter((url) => /^https:\/\//.test(url)))];
     if (gallery.length) {
       $("#ep-gallery").innerHTML = gallery
-        .map((src) => `<a class="shot" href="${src}" target="_blank" rel="noreferrer" style="background-image:url('${src}')"></a>`)
+        .map((src, index) => `<a class="shot" href="${D.esc(src)}" target="_blank" rel="noopener noreferrer" aria-label="عکس ${D.fmtInt(index + 1)} از قسمت ${D.fmtInt(ep.number)}"><img src="${D.esc(src)}" alt="${D.esc(s.titleFa)}، قسمت ${D.fmtInt(ep.number)}؛ عکس ${D.fmtInt(index + 1)}" loading="lazy" referrerpolicy="no-referrer"></a>`)
         .join("");
+      if (ep.photosSource && /^https:\/\//.test(ep.photosSource)) {
+        $("#ep-gallery-source").href = ep.photosSource;
+        $("#ep-gallery-source").hidden = false;
+      }
     } else {
       $("#gallery-section").hidden = true;
     }

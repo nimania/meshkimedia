@@ -68,6 +68,7 @@
 .crumbs{display:flex;gap:6px;align-items:center;margin-top:18px;color:var(--muted);font-size:11px}
 .crumbs a{color:var(--green);font-weight:700}
 .ep-hero{position:relative;min-height:320px;margin-top:12px;border-radius:20px;overflow:hidden;background:#16090b;background-size:cover;background-position:center}
+.ep-hero-image{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .ep-hero.no-image{background:linear-gradient(135deg,#1a0c0e,#3a1418)}
 .ep-hero:after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(12,7,8,.95),rgba(12,7,8,.1) 70%)}
 .ep-hero-copy{position:absolute;right:0;bottom:0;left:0;padding:28px;color:#fff;z-index:1}
@@ -84,6 +85,10 @@
 .ratings-note{margin:12px 0 0;color:var(--muted);font-size:10px}
 .gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}
 .shot{display:block;aspect-ratio:16/9;border-radius:12px;background:var(--surface-soft);background-size:cover;background-position:center;border:1px solid var(--line)}
+.shot img{display:block;width:100%;height:100%;object-fit:cover;border-radius:inherit}
+.gallery-source{display:inline-block;margin-top:14px;color:var(--green);font-size:11px;font-weight:800}
+.gallery-source[hidden]{display:none}
+.section-headline .gallery-source{margin:0}
 .ep-summary{font-size:15px;line-height:2.15;color:var(--ink)}
 .ep-links{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}
 .btn-primary{padding:11px 18px;border-radius:999px;background:var(--green);color:#fff;font-size:12px;font-weight:800}
@@ -97,9 +102,9 @@
 /* ---- Base profile / cast / episode styles (shared by generated pages) ---- */
 .profile-shell{width:min(900px,calc(100% - 28px));margin:auto}
 .profile-hero{position:relative;min-height:470px;margin-top:12px;overflow:hidden;border-radius:20px;background:#16090b;color:#fff}
-.hero-cover{position:absolute;inset:0;background-size:cover;background-position:center}
-.hero-cover:after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(12,7,8,.97),rgba(12,7,8,.15) 72%)}
-.profile-title{position:absolute;right:0;bottom:0;left:0;padding:34px}
+.hero-cover{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.profile-hero:after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(12,7,8,.97),rgba(12,7,8,.15) 72%)}
+.profile-title{position:absolute;right:0;bottom:0;left:0;padding:34px;z-index:1}
 .profile-tags{display:flex;gap:7px}
 .profile-tags span{padding:5px 9px;border:1px solid rgba(255,255,255,.28);border-radius:999px;background:rgba(12,7,8,.48);font-size:10px}
 .profile-title h1{margin:13px 0 4px;font-size:clamp(34px,7vw,60px);letter-spacing:-.06em}

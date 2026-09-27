@@ -16,8 +16,12 @@
     $("#airing").textContent = d.airing || "";
     $("#studio").textContent = d.studio || "";
     $("#net-badge").innerHTML = D.netBadge(networks, d.network);
-    if (d.hero) $(".hero-cover").style.backgroundImage = `url('${d.hero}')`;
+    if (d.hero) $(".hero-cover").src = d.hero;
     $("#synopsis").textContent = d.synopsis && d.synopsis.trim() ? d.synopsis : "خلاصهٔ داستان به‌زودی افزوده می‌شود.";
+    if (d.synopsisSource && /^https:\/\//.test(d.synopsisSource)) {
+      $("#synopsis-source").href = d.synopsisSource;
+      $("#synopsis-source").hidden = false;
+    }
     $("#genre").innerHTML = (d.genre || []).map((g) => `<span class="genre-chip">${g}</span>`).join("");
 
     const off = d.official || {}; const links = [];
@@ -26,6 +30,18 @@
     if (d.fragman) links.push(`<a href="${d.fragman}" target="_blank" rel="noreferrer">فراگمان ↗</a>`);
     if (off.youtube) links.push(`<a href="${off.youtube}" target="_blank" rel="noreferrer">یوتیوب رسمی ↗</a>`);
     $("#official-links").innerHTML = links.join("");
+
+    const photos = [...new Set((d.photos || []).filter((url) => /^https:\/\//.test(url)))];
+    if (photos.length) {
+      $("#series-gallery").innerHTML = photos.map((url, index) =>
+        `<a class="shot" href="${D.esc(url)}" target="_blank" rel="noopener noreferrer" aria-label="عکس ${D.fmtInt(index + 1)} از سریال ${D.esc(d.titleFa)}"><img src="${D.esc(url)}" alt="${D.esc(d.titleFa)}؛ عکس ${D.fmtInt(index + 1)}" loading="lazy" referrerpolicy="no-referrer"></a>`
+      ).join("");
+      $("#series-gallery-section").hidden = false;
+      if (d.photosSource && /^https:\/\//.test(d.photosSource)) {
+        $("#series-gallery-source").href = d.photosSource;
+        $("#series-gallery-source").hidden = false;
+      }
+    }
 
     if (d.cast && d.cast.length) {
       $("#cast").innerHTML = d.cast.map((c) => {

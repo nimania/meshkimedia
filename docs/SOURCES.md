@@ -14,4 +14,4 @@ TİAK says its detailed measurement results are contract-protected commercial da
 
 ## Copyright boundary
 
-Meshki Media stores factual metadata, short attributed excerpts when necessary, source hashes, and original Persian analysis. It does not republish full recaps, subtitles, images, or articles from Dizilah or broadcasters.
+Meshki Media stores factual metadata, source links and original Persian summaries. It does not copy full recaps, subtitles, articles, or third-party image files into the repository. Where the broadcaster exposes public press/gallery images, the site displays their original hosted URLs with a visible link to the official gallery; those links may stop working if the broadcaster removes the files.
