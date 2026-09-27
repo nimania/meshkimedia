@@ -1,6 +1,13 @@
 name: Daily editorial queue
 
 on:
+  pull_request:
+    paths:
+      - ".github/workflows/editorial-queue.yml"
+      - "automation/discover-episodes.mjs"
+      - "automation/discover-episodes.test.mjs"
+      - "automation/editorial-queue.mjs"
+      - "github-pages/data/series.json"
   schedule:
     - cron: "37 4 * * *"
   workflow_dispatch:
@@ -16,12 +23,21 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Check episode discovery parser
+        run: node --test automation/discover-episodes.test.mjs
       - name: Generate editorial queue
         run: |
           node automation/editorial-queue.mjs --output editorial-queue.md
           cat editorial-queue.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Discover official episode candidates
+        run: |
+          node automation/discover-episodes.mjs --output episode-candidates.md
+          cat episode-candidates.md >> "$GITHUB_STEP_SUMMARY"
       - uses: actions/upload-artifact@v4
         with:
           name: editorial-queue
-          path: editorial-queue.md
+          path: |
+            editorial-queue.md
+            episode-candidates.md
+            episode-candidates.json
           retention-days: 30

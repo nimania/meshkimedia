@@ -17,6 +17,13 @@ use the broadcaster's story, episode and gallery pages, verify an air date, writ
 an original Persian summary, and then pass `npm run content:check` before
 publishing. The queue deliberately leaves missing facts empty.
 
+The same daily workflow checks the official episode-list URLs and records possible
+unregistered episode links in a Markdown report and JSON artifact. It ignores
+trailers, recaps, galleries and links to other shows. Discovery does not update
+`series.json` or declare an air date; a network site can publish a URL ahead of
+broadcast. An inaccessible listing stays marked as an error so the last verified
+public data remains untouched.
+
 To make this a daily content pipeline, add a source adapter for each broadcaster
 that records changed official episode and gallery URLs in a review queue. Generate
 Persian drafts only from captured evidence; check episode number, air date,
