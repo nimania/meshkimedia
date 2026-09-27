@@ -268,7 +268,7 @@ function ratingsPage() {
 <section id="method" class="method-card"><span>شفافیت داده</span><h2>عدد حدس نمی‌زنیم.</h2><p>ریتینگ Total مستقیماً از جدول عمومی TİAK خوانده می‌شود. رتبه‌بندی AB و ABC1 از اعلان‌های رسمی روزانه است؛ اعداد دقیق این دو دسته نیازمند دادهٔ عضویت TİAK است و تا آن زمان تنها رتبه نمایش داده می‌شود.</p><a href="https://tiak.com.tr/" target="_blank" rel="noreferrer">مشاهده منبع رسمی ↗</a></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["takvim/", "▤", "تقویم"], ["reyting/", "⌁", "ریتینگ", true]])}`;
-  return h + body + boot(root, {}, ["rating-trends.js", "ratings.js"], "20260927trend1");
+  return h + body + boot(root, {}, ["rating-trends.js", "ratings.js"], "20260927trend2");
 }
 
 // ---- write all -------------------------------------------------------------
