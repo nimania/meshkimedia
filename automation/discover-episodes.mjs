@@ -23,7 +23,8 @@ export function candidateLinks(html, listingUrl, slug) {
     if (!fold(path).includes(fold(slug))) continue;
     if (/(fragman|ozet|ön-izleme|on-izleme|foto|galeri|haber|tanitim|tanıtım)/i.test(path)) continue;
     const number = path.match(/(?:^|[-/])(\d+)[.-]?bolum(?:\/|$)/i)?.[1]
-      || path.match(/\/bolum\/(\d+)(?:\/|$)/i)?.[1];
+      || path.match(/\/bolum\/(\d+)(?:\/|$)/i)?.[1]
+      || path.match(/-bolum-(\d+)-izle(?:\/|$)/i)?.[1];
     if (!number || Number(number) < 1) continue;
     url.hash = "";
     url.search = "";

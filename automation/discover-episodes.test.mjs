@@ -28,7 +28,7 @@ test("separates unregistered candidates from known episodes without publishing",
 test("recognizes episode URL patterns on other broadcasters", () => {
   const cases = [
     ["https://www.kanald.com.tr/haysiyet/bolumler", "haysiyet", "/haysiyet/bolumler/haysiyet-2-bolum", 2],
-    ["https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates/3087", "sevdan-bir-ates", "/dizi/bolum/sevdan-bir-ates-3-bolum/12345", 3],
+    ["https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087", "sevdan-bir-ates", "/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-3-izle/134992", 3],
     ["https://www.nowtv.com.tr/Anne-Yarisi/bolumler", "anne-yarisi", "/Anne-Yarisi/bolum/1", 1],
   ];
   for (const [listing, slug, href, number] of cases) {
