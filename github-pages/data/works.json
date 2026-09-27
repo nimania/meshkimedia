@@ -1,0 +1,76 @@
+{
+  "babam-ve-oglum": {
+    "slug": "babam-ve-oglum",
+    "kind": "film",
+    "titleFa": "پدرم و پسرم",
+    "titleTr": "Babam ve Oğlum",
+    "year": 2005,
+    "image": "",
+    "source": "https://kurumsal.avsarfilm.com.tr/yapimlarimiz/babam-ve-oglum",
+    "cast": [
+      {
+        "personSlug": "fikret-kuskan",
+        "role": "Sadık",
+        "roleFa": "صادق"
+      }
+    ]
+  },
+  "bir-zamanlar-cukurova": {
+    "slug": "bir-zamanlar-cukurova",
+    "kind": "series",
+    "titleFa": "روزی روزگاری در چوکوروا",
+    "titleTr": "Bir Zamanlar Çukurova",
+    "year": 2018,
+    "image": "",
+    "source": "https://www.atv.com.tr/haberler/2020/12/14/hande-soral-bir-zamanlar-cukurovanin-umiti-oldu",
+    "cast": [
+      {
+        "personSlug": "murat-unalmis",
+        "role": "Demir Yaman",
+        "roleFa": "دمیر یامان"
+      },
+      {
+        "personSlug": "hande-soral",
+        "role": "Ümit Kahraman",
+        "roleFa": "امید قهرمان"
+      }
+    ]
+  },
+  "ates-kuslari": {
+    "slug": "ates-kuslari",
+    "kind": "series",
+    "titleFa": "پرندگان آتش",
+    "titleTr": "Ateş Kuşları",
+    "year": 2023,
+    "image": "",
+    "source": "https://www.atv.com.tr/ates-kuslari/hakkinda",
+    "cast": [
+      {
+        "personSlug": "hande-soral",
+        "role": "Mercan Ateş",
+        "roleFa": "مرجان آتش"
+      },
+      {
+        "personSlug": "ilayda-alisan",
+        "role": "Gülayşe",
+        "roleFa": "گولایشه"
+      }
+    ]
+  },
+  "gulcemal": {
+    "slug": "gulcemal",
+    "kind": "series",
+    "titleFa": "گل‌جمال",
+    "titleTr": "Gülcemal",
+    "year": 2023,
+    "image": "",
+    "source": "https://www.nowtv.com.tr/Gulcemal/bilgi",
+    "cast": [
+      {
+        "personSlug": "murat-unalmis",
+        "role": "Gülcemal Şahin",
+        "roleFa": "گل‌جمال شاهین"
+      }
+    ]
+  }
+}

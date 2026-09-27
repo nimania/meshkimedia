@@ -16,7 +16,8 @@
     "collect:dry": "node automation/collector.mjs --dry-run",
     "content:check": "node automation/audit-content.mjs --require ask-ve-taht --require sevdan-bir-ates --require abi --require gunesin-dogdugu-yer --require mercan-kosk",
     "content:queue": "node automation/editorial-queue.mjs",
-    "content:discover": "node automation/discover-episodes.mjs"
+    "content:discover": "node automation/discover-episodes.mjs",
+    "cast:check": "node automation/audit-cast.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

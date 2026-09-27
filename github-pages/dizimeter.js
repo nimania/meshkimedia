@@ -31,12 +31,14 @@
   async function loadData() {
     if (_cache) return _cache;
     const v = Date.now();
-    const [networks, series, ratings] = await Promise.all([
+    const [networks, series, ratings, profiles, works] = await Promise.all([
       fetch(`${ROOT}data/networks.json?v=${v}`, { cache: "no-store" }).then((r) => r.json()),
       fetch(`${ROOT}data/series.json?v=${v}`, { cache: "no-store" }).then((r) => r.json()),
       fetch(`${ROOT}data/ratings.json?v=${v}`, { cache: "no-store" }).then((r) => r.json()),
+      fetch(`${ROOT}data/people.json?v=${v}`, { cache: "no-store" }).then((r) => r.json()),
+      fetch(`${ROOT}data/works.json?v=${v}`, { cache: "no-store" }).then((r) => r.json()),
     ]);
-    _cache = { networks, series, ratings };
+    _cache = { networks, series, ratings, profiles, works };
     return _cache;
   }
 
@@ -50,18 +52,27 @@
   }
 
   // ---- People & characters derived from series cast -------------------------
-  function buildPeople(series) {
+  function buildPeople(series, profiles = {}, works = {}) {
     const people = {};
+    for (const [slug, profile] of Object.entries(profiles)) {
+      people[slug] = { slug, ...profile, credits: [] };
+    }
     seriesList(series).forEach((s) => {
       (s.cast || []).forEach((c) => {
         if (!c.name) return;
-        const slug = slugify(c.name);
+        const slug = c.personSlug || slugify(c.name);
         const p = (people[slug] = people[slug] || { slug, name: c.name, nameFa: "", photo: "", credits: [] });
         if (!p.nameFa && c.nameFa) p.nameFa = c.nameFa;
         if (!p.photo && c.image) p.photo = c.image;
-        p.credits.push({ seriesSlug: s.slug, seriesTitleFa: s.titleFa, seriesTitleTr: s.titleTr, character: c.role || "", characterFa: c.roleFa || "", charSlug: c.role ? slugify(s.slug + "-" + c.role) : "" });
+        p.credits.push({ kind: "series", seriesSlug: s.slug, titleFa: s.titleFa, titleTr: s.titleTr, year: s.year, image: s.hero, character: c.role || "", characterFa: c.roleFa || "", charSlug: c.role ? slugify(s.slug + "-" + c.role) : "" });
       });
     });
+    for (const w of Object.values(works)) for (const c of w.cast || []) {
+      const p = people[c.personSlug];
+      if (!p) continue;
+      p.credits.push({ kind: w.kind, workSlug: w.slug, titleFa: w.titleFa, titleTr: w.titleTr, year: w.year, image: w.image, character: c.role || "", characterFa: c.roleFa || "" });
+    }
+    for (const p of Object.values(people)) p.credits.sort((a, b) => (b.year || 0) - (a.year || 0));
     return people;
   }
   function buildCharacters(series) {
@@ -70,7 +81,7 @@
       (s.cast || []).forEach((c) => {
         if (!c.role) return;
         const slug = slugify(s.slug + "-" + c.role);
-        chars[slug] = { slug, name: c.role, nameFa: c.roleFa || "", seriesSlug: s.slug, seriesTitleFa: s.titleFa, seriesTitleTr: s.titleTr, personSlug: c.name ? slugify(c.name) : "", personName: c.name || "", personNameFa: c.nameFa || "", image: c.image || "" };
+        chars[slug] = { slug, name: c.role, nameFa: c.roleFa || "", description: c.description || "", source: c.source || "", seriesSlug: s.slug, seriesTitleFa: s.titleFa, seriesTitleTr: s.titleTr, personSlug: c.name ? (c.personSlug || slugify(c.name)) : "", personName: c.name || "", personNameFa: c.nameFa || "", image: c.roleImage || c.image || "" };
       });
     });
     return chars;

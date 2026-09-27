@@ -45,9 +45,9 @@
 
     if (d.cast && d.cast.length) {
       $("#cast").innerHTML = d.cast.map((c) => {
-        const actorUrl = c.name ? `${root}oyuncu/${D.slugify(c.name)}/` : null;
+        const actorUrl = c.name ? `${root}oyuncu/${c.personSlug || D.slugify(c.name)}/` : null;
         const charUrl = c.role ? `${root}karakter/${D.slugify(d.slug + "-" + c.role)}/` : null;
-        const photo = c.image ? `style="background-image:url('${c.image}')"` : "";
+        const photo = c.image ? `style="background-image:url('${D.esc(c.image)}')"` : "";
         const aName = c.nameFa || c.name;
         const cName = c.roleFa || c.role || "";
         // No link wraps the whole card: the role link inside it would be a nested <a>, which the
@@ -55,9 +55,9 @@
         const photoEl = `${c.image ? "" : D.esc((aName || "?").slice(0, 1))}`;
         const inner = (actorUrl ? `<a class="cast-photo" href="${actorUrl}" ${photo}>${photoEl}</a>` : `<div class="cast-photo" ${photo}>${photoEl}</div>`)
           + `<div>${actorUrl ? `<a href="${actorUrl}"><strong>${D.esc(aName)}</strong></a>` : `<strong>${D.esc(aName)}</strong>`}${charUrl ? `<a class="role-link" href="${charUrl}">${D.esc(cName)}</a>` : `<span>${D.esc(cName)}</span>`}</div>`;
-        return `<article class="cast-card">${inner}</article>`;
+        return `<article class="cast-card">${inner}${c.description ? `<p class="cast-teaser">${D.esc(c.description)}</p>` : ""}</article>`;
       }).join("");
-    } else { $("#cast-section").hidden = true; }
+    } else { $("#cast-empty").hidden = false; }
 
     const eps = D.allEpisodes(d);
     if (eps.length) {

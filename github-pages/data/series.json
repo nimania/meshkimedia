@@ -31,42 +31,60 @@
         "nameFa": "مورات اونالمیش",
         "role": "Mirza Kozaklı",
         "roleFa": "میرزا کوزاکلی",
-        "image": "https://im.showtv.com.tr/5/8233/murat-unalmis-500x500.png?v=1788170289"
+        "image": "https://im.showtv.com.tr/5/8233/murat-unalmis-500x500.png?v=1788170289",
+        "personSlug": "murat-unalmis",
+        "description": "مردی که هفت سال پس از ناپدیدشدن لیلا، دوباره با او و دخترش هوما روبه‌رو می‌شود و میان عشق و رنج گذشته می‌ماند.",
+        "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087"
       },
       {
         "name": "Özge Özacar",
         "nameFa": "اوزگه اوزآجار",
         "role": "Leyla Kızılırmak",
         "roleFa": "لیلا کیزیل‌ایرماک",
-        "image": "https://im.showtv.com.tr/5/8234/ozge-ozacar-500x500.png?v=1788192470"
+        "image": "https://im.showtv.com.tr/5/8234/ozge-ozacar-500x500.png?v=1788192470",
+        "personSlug": "ozge-ozacar",
+        "description": "زنی که در آستانهٔ ازدواج ربوده شد و پس از هفت سال برای نجات فرزندش و روشن‌کردن حقیقت بازمی‌گردد.",
+        "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087"
       },
       {
         "name": "Gökçe Eyüboğlu",
         "nameFa": "گؤکچه ایوب‌اوغلو",
         "role": "Mihre Kozaklı",
         "roleFa": "میهره کوزاکلی",
-        "image": "https://im.showtv.com.tr/5/8235/gokce-eyuboglu-500x500.png?v=1788176554"
+        "image": "https://im.showtv.com.tr/5/8235/gokce-eyuboglu-500x500.png?v=1788176554",
+        "personSlug": "gokce-eyuboglu",
+        "description": "عضوی از خانوادهٔ کوزاکلی که تحولات بازگشت لیلا، جایگاه او را در کشمکش‌های خانوادگی تحت تأثیر می‌گذارد.",
+        "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087"
       },
       {
         "name": "Sitare Akbaş",
         "nameFa": "سیتاره آکباش",
         "role": "Destan Kızılırmak",
         "roleFa": "دستان کیزیل‌ایرماک",
-        "image": ""
+        "image": "",
+        "personSlug": "sitare-akbas",
+        "description": "بازگشت لیلا به عمارت را نمی‌پذیرد و برای دور نگه‌داشتن او از خانواده تلاش می‌کند.",
+        "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087"
       },
       {
         "name": "Taner Rumeli",
         "nameFa": "تانر رومه‌لی",
         "role": "Yaman",
         "roleFa": "یامان",
-        "image": ""
+        "image": "",
+        "personSlug": "taner-rumeli",
+        "description": "شخصیتی در سوی دیگر تنش‌های خاندان کوزاکلی که ماجراهای میهره با او پیوند می‌خورد.",
+        "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087"
       },
       {
         "name": "Sezin Bozacı",
         "nameFa": "سزین بوزاجی",
         "role": "Macide",
         "roleFa": "ماجیده",
-        "image": ""
+        "image": "",
+        "personSlug": "sezin-bozaci",
+        "description": "از چهره‌های خانواده در داستان بازگشت لیلا و اختلاف‌های قدیمی.",
+        "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087"
       }
     ],
     "seasons": [
@@ -171,7 +189,38 @@
       "episodes": "https://www.atv.com.tr/ask-ve-taht/bolumler",
       "youtube": "https://www.youtube.com/@atv"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Akın Akınözü",
+        "nameFa": "آکین آکین‌اوزو",
+        "personSlug": "akin-akinozu",
+        "role": "Sultan Alaeddin Keykubat",
+        "roleFa": "سلطان علاءالدین کیقباد",
+        "description": "شاهزاده‌ای سلجوقی که پس از هشت سال زندان راهی تخت پادشاهی می‌شود و دستانا آزمون تازهٔ زندگی اوست.",
+        "source": "https://www.atv.com.tr/ask-ve-taht/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788776053702.jpg"
+      },
+      {
+        "name": "Merjem Šiljak",
+        "nameFa": "مرجم شیلیاک",
+        "personSlug": "merjem-siljak",
+        "role": "Destina",
+        "roleFa": "دستانا",
+        "description": "دختر و وارث فرمانروای قلعهٔ آلانیا؛ جنگجویی که در سیاست نیز مهارت دارد و میان قدرت و عشق تصمیم می‌گیرد.",
+        "source": "https://www.atv.com.tr/ask-ve-taht/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/17/204x204/1789593587217.jpg"
+      },
+      {
+        "name": "Simay Barlas",
+        "nameFa": "سیمای بارلاس",
+        "personSlug": "simay-barlas",
+        "role": "Melike Hüma",
+        "roleFa": "ملیکه هما",
+        "description": "بانویی از خاندان سلجوقی که سال‌ها به علاءالدین دل بسته و از دست‌دادن او بزرگ‌ترین نگرانی‌اش است.",
+        "source": "https://www.atv.com.tr/ask-ve-taht/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788776329782.jpg"
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -265,7 +314,38 @@
       "episodes": "https://www.atv.com.tr/abi/bolumler",
       "youtube": "https://www.youtube.com/@atv"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Kenan İmirzalıoğlu",
+        "nameFa": "کنان ایمیرزالی‌اوغلو",
+        "personSlug": "kenan-imirzalioglu",
+        "role": "Doğan",
+        "roleFa": "دوغان",
+        "description": "پس از نجات از مرگ، هویت سابقش را پشت سر می‌گذارد تا از خانواده دفاع کند و با ساروحان تسویه‌حساب کند.",
+        "source": "https://www.atv.com.tr/abi/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528466402.jpg"
+      },
+      {
+        "name": "Bergüzar Korel",
+        "nameFa": "برگوزار کورل",
+        "personSlug": "berguzar-korel",
+        "role": "Leyla",
+        "roleFa": "لیلا",
+        "description": "زنی مستقل و نیرومند که پیوندش با ساروحان، رابطهٔ تازه‌اش با دوغان را پیچیده می‌کند.",
+        "source": "https://www.atv.com.tr/abi/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528543809.jpg"
+      },
+      {
+        "name": "Asude Kalebek",
+        "nameFa": "آسوده کالبک",
+        "personSlug": "asude-kalebek",
+        "role": "Melek",
+        "roleFa": "ملک",
+        "description": "مرگ ظاهری دوغان زندگی او را دگرگون می‌کند و تصمیم‌هایش سرنوشت خانواده را تحت تأثیر می‌گذارد.",
+        "source": "https://www.atv.com.tr/abi/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528782849.jpg"
+      }
+    ],
     "seasons": [
       {
         "number": 2,
@@ -360,7 +440,38 @@
       "episodes": "https://www.atv.com.tr/gunesin-dogdugu-yer/bolumler",
       "youtube": "https://www.youtube.com/@atv"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Burak Özçivit",
+        "nameFa": "بوراک اوزچیویت",
+        "personSlug": "burak-ozcivit",
+        "role": "Kenan Kozan",
+        "roleFa": "کنان کوزان",
+        "description": "تاجر مسئولیت‌پذیر خانوادهٔ کوزان که عشق به لیلا باورهای قدیمی‌اش دربارهٔ خانواده را به چالش می‌کشد.",
+        "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/15/204x204/1789482854996.jpg"
+      },
+      {
+        "name": "Sibel Taşçıoğlu",
+        "nameFa": "سیبل تاشچی‌اوغلو",
+        "personSlug": "sibel-tascioglu",
+        "role": "Celadet Kozan",
+        "roleFa": "جلادت کوزان",
+        "description": "مادر سخت‌گیر خانواده که برای حفظ نظم و آیندهٔ فرزندانش می‌خواهد همه‌چیز را زیر نظر داشته باشد.",
+        "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/15/204x204/1789485872577.jpg"
+      },
+      {
+        "name": "Görkem Sevindik",
+        "nameFa": "گورکم سوین‌دیک",
+        "personSlug": "gorkem-sevindik",
+        "role": "Ceyhun Atahanlı",
+        "roleFa": "جیهون آتاهانلی",
+        "description": "پسر بزرگ خاندان آتاهانلی که پس از مرگ پدر ادارهٔ کارهای خانواده را برعهده گرفته و دوست نزدیک کنان است.",
+        "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/15/204x204/1789485887290.jpg"
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -436,7 +547,38 @@
       "episodes": "https://www.atv.com.tr/mercan-kosk/bolumler",
       "youtube": "https://www.youtube.com/@atv"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Kubilay Aka",
+        "nameFa": "کوبیلای آکا",
+        "personSlug": "kubilay-aka",
+        "role": "Aras Akıncı",
+        "roleFa": "آراس آکینجی",
+        "description": "کارآفرینی از خانواده‌ای قدرتمند که می‌کوشد راه خودش را پیدا کند و از نزدیکانش محافظت کند.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787320534904.jpg"
+      },
+      {
+        "name": "Hafsanur Sancaktutan",
+        "nameFa": "هفسانور سانجاک‌توتان",
+        "personSlug": "hafsanur-sancaktutan",
+        "role": "Cemre Demiray",
+        "roleFa": "جمره دمیرای",
+        "description": "پس از ناپدیدشدن شوهرش به عمارت مرجان می‌رسد و برای یافتن حقیقت وارد دنیایی پر از راز می‌شود.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787320841716.jpg"
+      },
+      {
+        "name": "Bertan Asllani",
+        "nameFa": "برتان آسلانی",
+        "personSlug": "bertan-asllani",
+        "role": "Toprak Mercandağ",
+        "roleFa": "توپراک مرجان‌داغ",
+        "description": "چهرهٔ بلندپرواز خاندان مرجان‌داغ که برای حفظ قدرت حاضر است خطرهای بزرگی بپذیرد.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787320950041.jpg"
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -555,42 +697,96 @@
         "nameFa": "اوزان آکبابا",
         "role": "Cihan Albora",
         "roleFa": "جیهان آلبورا",
-        "image": ""
+        "image": "",
+        "personSlug": "ozan-akbaba",
+        "description": "رئیس خانوادهٔ آلبورا که پس از رفتن برادرش مسئولیت ادارهٔ خانواده و زمین‌ها را به دوش می‌کشد؛ آرام و حسابگر است.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
       },
       {
         "name": "Sinem Ünsal",
         "nameFa": "سینم اونسال",
         "role": "Alya Smith Albora",
         "roleFa": "آلیا اسمیت آلبورا",
-        "image": ""
+        "image": "",
+        "personSlug": "sinem-unsal",
+        "description": "پزشکی که پس از مرگ همسرش از کانادا همراه پسرش به ماردین می‌آید و برای آیندهٔ فرزندش با خانوادهٔ آلبورا درگیر می‌شود.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
       },
       {
         "name": "Müfit Kayacan",
         "nameFa": "مؤفیت کایاجان",
         "role": "Ecmel Albora",
         "roleFa": "اجمل آلبورا",
-        "image": ""
+        "image": "",
+        "personSlug": "mufit-kayacan",
+        "description": "عموی جیهان که قدرت‌طلبی و زندانی‌شدنش شکاف عمیقی در خانواده ایجاد کرده است.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
       },
       {
         "name": "Ferit Kaya",
         "nameFa": "فریت کایا",
         "role": "Demir Baybars",
         "roleFa": "دمیر بای‌بارس",
-        "image": ""
+        "image": "",
+        "personSlug": "ferit-kaya",
+        "description": "پسر خانوادهٔ رقیب آلبورا که دشمنی قدیمی با جیهان دارد و خشمش تصمیم‌های او را هدایت می‌کند.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
       },
       {
         "name": "Kuzey Gezer",
         "nameFa": "کوزی گزر",
         "role": "Deniz Cihan Albora",
         "roleFa": "دنیز جیهان آلبورا",
-        "image": ""
+        "image": "",
+        "personSlug": "kuzey-gezer",
+        "description": "پسر خردسال آلیا و بوران که بازگشتش به ماردین سرنوشت مادرش را با خانوادهٔ آلبورا گره می‌زند.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
       },
       {
         "name": "Atakan Özkaya",
         "nameFa": "آتاکان اوزکایا",
         "role": "Kaya Albora",
         "roleFa": "کایا آلبورا",
-        "image": ""
+        "image": "",
+        "personSlug": "atakan-ozkaya",
+        "description": "کوچک‌ترین پسر خانوادهٔ آلبورا؛ تندخو و بی‌پروا، اما به کسانی که دوستشان دارد وفادار است.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+      },
+      {
+        "name": "Gonca Cilasun",
+        "nameFa": "گونجا جیلاسون",
+        "role": "Sadakat Albora",
+        "roleFa": "صداقت آلبورا",
+        "description": "مادر جیهان که به رسم‌های خانواده پایبند است و برای حفظ قدرت آلبوراها سخت‌گیرانه تصمیم می‌گیرد.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+        "personSlug": "gonca-cilasun"
+      },
+      {
+        "name": "Alper Çankaya",
+        "nameFa": "آلپر چانکایا",
+        "role": "Şahin Albora",
+        "roleFa": "شاهین آلبورا",
+        "description": "پسر اجمل که میان وفاداری به پدرش و پیوند قدیمی با پسرعموهایش گرفتار است.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+        "personSlug": "alper-cankaya"
+      },
+      {
+        "name": "Sahra Şaş",
+        "nameFa": "صحرا شاش",
+        "role": "Nare Albora Bulut",
+        "roleFa": "ناره آلبورا بولوت",
+        "description": "خواهر جیهان که تجربه‌های تلخ زندگی او را محتاط کرده، اما همچنان در جست‌وجوی آرامش است.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+        "personSlug": "sahra-sas"
+      },
+      {
+        "name": "Dilin Döğer",
+        "nameFa": "دیلین دوئر",
+        "role": "Zerrin Albora",
+        "roleFa": "زرین آلبورا",
+        "description": "دختر اجمل که در میانهٔ اختلاف دو شاخهٔ خانوادهٔ آلبورا مانده است.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+        "personSlug": "dilin-doger"
       }
     ],
     "seasons": [
@@ -626,7 +822,38 @@
       "episodes": "https://www.kanald.com.tr/haysiyet/bolumler",
       "youtube": "https://www.youtube.com/@KanalD"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Kerem Alışık",
+        "nameFa": "کرم آلیشیک",
+        "personSlug": "kerem-alisik",
+        "role": "Sadık Karlıova",
+        "roleFa": "صادق کارلی‌اوا",
+        "description": "از چهره‌های محوری خانوادهٔ کارلی‌اوا که آبرو و پیوندهای خانوادگی در تصمیم‌هایش نقش دارد.",
+        "source": "https://www.kanald.com.tr/haysiyet/",
+        "image": ""
+      },
+      {
+        "name": "Doğukan Güngör",
+        "nameFa": "دوغوکان گونگور",
+        "personSlug": "dogukan-gungor",
+        "role": "Mehmet Karlıova",
+        "roleFa": "محمد کارلی‌اوا",
+        "description": "عضوی از خانوادهٔ کارلی‌اوا که در کانون ماجراهای تازهٔ آن قرار می‌گیرد.",
+        "source": "https://www.kanald.com.tr/haysiyet/",
+        "image": ""
+      },
+      {
+        "name": "Reha Özcan",
+        "nameFa": "رها اوزجان",
+        "personSlug": "reha-ozcan",
+        "role": "Haluk Tarman",
+        "roleFa": "هالوک تارمان",
+        "description": "از اعضای خاندان تارمان که در رویارویی دو خانواده نقش دارد.",
+        "source": "https://www.kanald.com.tr/haysiyet/",
+        "image": ""
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -678,7 +905,38 @@
       "episodes": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
       "youtube": "https://www.youtube.com/@KanalD"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Murat Yıldırım",
+        "nameFa": "مورات ییلدیریم",
+        "personSlug": "murat-yildirim",
+        "role": "Serhat",
+        "roleFa": "سرحات",
+        "description": "تاجری که رازهای زندگی خانوادگی‌اش مسیر او را به زینب گره می‌زند.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular",
+        "image": ""
+      },
+      {
+        "name": "Cemre Baysel",
+        "nameFa": "جمره بایسل",
+        "personSlug": "cemre-baysel",
+        "role": "Zeynep",
+        "roleFa": "زینب",
+        "description": "دختر جسور محله که رابطه‌اش با سرحات میان اختلاف طبقاتی و رازهای گذشته شکل می‌گیرد.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular",
+        "image": ""
+      },
+      {
+        "name": "Oya Unustası",
+        "nameFa": "اویا اونوستاسی",
+        "personSlug": "oya-unustasi",
+        "role": "Berrak",
+        "roleFa": "برّاک",
+        "description": "شخصیتی در خانوادهٔ سرحات که گذشته‌اش در پیشبرد داستان اثر می‌گذارد.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular",
+        "image": ""
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -723,7 +981,38 @@
       "episodes": "https://www.showtv.com.tr/dizi/tanitim/kizilcik-serbeti/2875",
       "youtube": "https://www.youtube.com/@showtv"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Barış Kılıç",
+        "nameFa": "باریش کیلیچ",
+        "personSlug": "baris-kilic",
+        "role": "Ömer Ünal",
+        "roleFa": "عمر اونال",
+        "description": "عضو خانوادهٔ اونال که رابطه‌ها و اختلاف‌نظرهای خانوادگی بر زندگی‌اش سایه می‌اندازد.",
+        "source": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875",
+        "image": ""
+      },
+      {
+        "name": "Evrim Alasya",
+        "nameFa": "اوریم آلاسیا",
+        "personSlug": "evrim-alasya",
+        "role": "Kıvılcım Arslan",
+        "roleFa": "کیویلجیم ارسلان",
+        "description": "مادری مستقل که در برابر چالش‌های خانوادگی و اجتماعی بر ارزش‌های خود پافشاری می‌کند.",
+        "source": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875",
+        "image": ""
+      },
+      {
+        "name": "Ahmet Mümtaz Taylan",
+        "nameFa": "احمد ممتاز تایلان",
+        "personSlug": "ahmet-mumtaz-taylan",
+        "role": "Abdullah Ünal",
+        "roleFa": "عبدالله اونال",
+        "description": "پدر خانوادهٔ اونال که تصمیم‌هایش بر سرنوشت اعضای خانواده تأثیر دارد.",
+        "source": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875",
+        "image": ""
+      }
+    ],
     "seasons": [
       {
         "number": 4,
@@ -757,7 +1046,38 @@
       "episodes": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler",
       "youtube": "https://www.youtube.com/@startv"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Nebahat Çehre",
+        "nameFa": "نباهت چهره",
+        "personSlug": "nebahat-cehre",
+        "role": "Feryal İpekli",
+        "roleFa": "فریال ایپکلی",
+        "description": "از بزرگ‌ترهای خانوادهٔ ایپکلی که انتظارهایش بر تصمیم‌های نسل جوان اثر می‌گذارد.",
+        "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/oyuncular",
+        "image": "https://media.startv.com.tr/star-tv/images/1%28266%29.jpg?format=webp&height=220&quality=85&width=220"
+      },
+      {
+        "name": "Eda Ece",
+        "nameFa": "ادا اجه",
+        "personSlug": "eda-ece",
+        "role": "Derin Kutaygil",
+        "roleFa": "درین کوتایگیل",
+        "description": "دختری از خانواده‌ای مرفه که زیر فشار برنامه‌های ازدواج و انتظارهای نزدیکانش قرار دارد.",
+        "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/oyuncular",
+        "image": "https://media.startv.com.tr/star-tv/images/2%28251%29.jpg?format=webp&height=220&quality=85&width=220"
+      },
+      {
+        "name": "Buğra Gülsoy",
+        "nameFa": "بوغرا گولسوی",
+        "personSlug": "bugra-gulsoy",
+        "role": "Mehmet Aydınoğlu",
+        "roleFa": "محمد آیدین‌اوغلو",
+        "description": "پس از سال‌ها زندگی در خارج به ترکیه بازمی‌گردد و خانواده‌اش برای زندگی آیندهٔ او برنامه دارند.",
+        "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/oyuncular",
+        "image": ""
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -819,7 +1139,38 @@
       "episodes": "https://www.startv.com.tr/dizi/sevdigim-sensin/bolumler",
       "youtube": "https://www.youtube.com/@startv"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Aytaç Şaşmaz",
+        "nameFa": "آیتاچ شاشماز",
+        "personSlug": "aytac-sasmaz",
+        "role": "Erkan Aldur",
+        "roleFa": "ارکان آلدور",
+        "description": "سربازی اهل استانبول که در واپسین روزهای خدمت با دیجه آشنا می‌شود و برای نجات جانش با او ازدواج می‌کند.",
+        "source": "https://www.startv.com.tr/dizi/sevdigim-sensin/oyuncular",
+        "image": "https://media.startv.com.tr/star-tv/images/aytac.jpg?format=webp&height=220&quality=85&width=220"
+      },
+      {
+        "name": "Helin Kandemir",
+        "nameFa": "هلین کاندمیر",
+        "personSlug": "helin-kandemir",
+        "role": "Dicle Demir",
+        "roleFa": "دیجه دمیر",
+        "description": "دختر روستایی که پس از ازدواج با ارکان وارد دنیای ناآشنای خانوادهٔ او در استانبول می‌شود.",
+        "source": "https://www.startv.com.tr/dizi/sevdigim-sensin/oyuncular",
+        "image": "https://media.startv.com.tr/star-tv/images/helin.jpg?format=webp&height=220&quality=85&width=220"
+      },
+      {
+        "name": "Alper Çankaya",
+        "nameFa": "آلپر چانکایا",
+        "personSlug": "alper-cankaya",
+        "role": "Ali Cabbar",
+        "roleFa": "علی جبار",
+        "description": "زندانی‌ای که ارکان در زندان با او آشنا می‌شود و پیوندی با رازهای گذشتهٔ داستان دارد.",
+        "source": "https://www.startv.com.tr/dizi/sevdigim-sensin/oyuncular",
+        "image": ""
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -863,7 +1214,38 @@
       "episodes": "https://www.trt1.com.tr/diziler/gonul-dagi/bolum",
       "youtube": "https://www.youtube.com/@trt1"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Berk Atan",
+        "nameFa": "برک آتان",
+        "personSlug": "berk-atan",
+        "role": "Taner",
+        "roleFa": "تانر",
+        "description": "از چهره‌های اصلی داستان شهر کوچک و خانواده‌هایی که آرزوها و دشواری‌هایشان به هم پیوند خورده است.",
+        "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu",
+        "image": ""
+      },
+      {
+        "name": "Cihat Süvarioğlu",
+        "nameFa": "جیهات سوواری‌اوغلو",
+        "personSlug": "cihat-suvarioglu",
+        "role": "Ramazan",
+        "roleFa": "رمضان",
+        "description": "یکی از همراهان تانر در ماجراهای زندگی و دوستی‌های شهرشان.",
+        "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu",
+        "image": ""
+      },
+      {
+        "name": "Semih Ertürk",
+        "nameFa": "سمیح ارتورک",
+        "personSlug": "semih-erturk",
+        "role": "Veysel",
+        "roleFa": "ویصل",
+        "description": "از نزدیکان تانر و رمضان که در ماجراهای خانوادگی و کارهای مشترکشان حضور دارد.",
+        "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu",
+        "image": ""
+      }
+    ],
     "seasons": [
       {
         "number": 6,
@@ -897,7 +1279,68 @@
       "episodes": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/bolum",
       "youtube": "https://www.youtube.com/@trt1"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Fikret Kuşkan",
+        "nameFa": "فیکرت کوشکان",
+        "role": "Mesut Bahtiyar",
+        "roleFa": "مسعود بختیار",
+        "description": "سردفتر ازدواجی که صدهزار پیوند ثبت کرده، اما نگرانی اصلی‌اش آینده و خوشبختی پنج دختر خودش است.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/mesut-bahtiyar",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/webp/w1200/q75/mesut-fikret-kuskan-21750719-0-0-1199-1799.png",
+        "personSlug": "fikret-kuskan"
+      },
+      {
+        "name": "Hande Soral",
+        "nameFa": "هانده سورال",
+        "role": "Zeynep Bahtiyar",
+        "roleFa": "زینب بختیار",
+        "description": "دختر بزرگ خانواده که سال‌ها از خواهرانش مراقبت کرده است. بازگشت عشق قدیمی‌اش، مورات، تصمیم او برای ازدواج با علی‌رضا را زیر سؤال می‌برد.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/zeynep",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/webp/w1200/q75/zeynep-hande-soral-21750223-0-0-1199-1799.png",
+        "personSlug": "hande-soral"
+      },
+      {
+        "name": "İlayda Alişan",
+        "nameFa": "ایلایدا آلیشان",
+        "role": "Yasemin Bahtiyar",
+        "roleFa": "یاسمین بختیار",
+        "description": "دختری رمانتیک که سه سال با سینان رابطه داشته، اما برخورد خانواده‌ها آیندهٔ این رابطه را دشوار می‌کند.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/yasemin",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/webp/w1200/q75/yasemin-ilayda-alisan-21750718-0-0-1199-1799.png",
+        "personSlug": "ilayda-alisan"
+      },
+      {
+        "name": "Seçkin Özdemir",
+        "nameFa": "سچکین اوزدمیر",
+        "role": "Murat",
+        "roleFa": "مورات",
+        "description": "عشق قدیمی زینب که پس از سال‌ها با پرسش‌های بی‌پاسخ به محله بازمی‌گردد.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/murat",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/webp/w1200/q75/murat-seckin-ozdemir-21750133-0-0-1199-1799.png",
+        "personSlug": "seckin-ozdemir"
+      },
+      {
+        "name": "Yusuf Çim",
+        "nameFa": "یوسف چیم",
+        "role": "Can",
+        "roleFa": "جان",
+        "description": "وکیل طلاقی که نگاه محتاطانه‌ای به ازدواج دارد. آشنایی با آسلی او را وارد ماجرای یک رابطهٔ نمایشی می‌کند.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/can",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/webp/w1200/q75/can-yusuf-cim-21749723-0-0-1199-1799.png",
+        "personSlug": "yusuf-cim"
+      },
+      {
+        "name": "Nil Sude Albayrak",
+        "nameFa": "نیل سوده آلبایراک",
+        "role": "Aslı Bahtiyar",
+        "roleFa": "آسلی بختیار",
+        "description": "دختری جاه‌طلب و مدیر خلاقیت که برای رهایی از دروغی در محل کار، با جان نقش یک زوج را بازی می‌کند.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/asli",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/webp/w1200/q75/asli-nil-sude-albayrak-21749724-0-0-1199-1799.png",
+        "personSlug": "nil-sude-albayrak"
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -980,7 +1423,38 @@
       "episodes": "https://www.nowtv.com.tr/anne-yarisi/bolumler",
       "youtube": "https://www.youtube.com/@nowtv"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Cihangir Ceyhan",
+        "nameFa": "جهانگیر جیهان",
+        "personSlug": "cihangir-ceyhan",
+        "role": "Ali Altay",
+        "roleFa": "علی آلتای",
+        "description": "پدری که پس از سال‌ها برای زندگی با دخترش بازمی‌گردد و اختلاف بر سر سرپرستی او آغاز می‌شود.",
+        "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular",
+        "image": ""
+      },
+      {
+        "name": "Burcu Özberk",
+        "nameFa": "بورجو اوزبرک",
+        "personSlug": "burcu-ozberk",
+        "role": "Zeynep Aksoy",
+        "roleFa": "زینب آکسوی",
+        "description": "زنی که پیوند عاطفی عمیقی با اگه دارد و برای ماندن کنار او می‌جنگد.",
+        "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular",
+        "image": ""
+      },
+      {
+        "name": "Esra Dermancıoğlu",
+        "nameFa": "اسرا درمانجی‌اوغلو",
+        "personSlug": "esra-dermancioglu",
+        "role": "Meryem Altay",
+        "roleFa": "مریم آلتای",
+        "description": "یکی از بزرگ‌ترهای خانوادهٔ آلتای که در کشمکش بر سر کودک و رازهای گذشته حضور دارد.",
+        "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular",
+        "image": ""
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -1013,7 +1487,38 @@
       "episodes": "https://www.nowtv.com.tr/omur-usta/bolumler",
       "youtube": "https://www.youtube.com/@nowtv"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Nurgül Yeşilçay",
+        "nameFa": "نورگول یشیلچای",
+        "personSlug": "nurgul-yesilcay",
+        "role": "Ömür Uçar",
+        "roleFa": "عمر اوچار",
+        "description": "مادری که برای آیندهٔ فرزندانش و ساختن زندگی مستقل با دشواری‌های اقتصادی و خانوادگی روبه‌رو می‌شود.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/bilgi",
+        "image": ""
+      },
+      {
+        "name": "Bülent İnal",
+        "nameFa": "بولنت اینال",
+        "personSlug": "bulent-inal",
+        "role": "Tunç Arıkan",
+        "roleFa": "تونچ آریکان",
+        "description": "مردی آرام که دیدار دوباره با عمر، خاطرات و انتخاب‌های گذشته‌اش را زنده می‌کند.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/bilgi",
+        "image": ""
+      },
+      {
+        "name": "Gonca Vuslateri",
+        "nameFa": "گونجا ووسلاتری",
+        "personSlug": "gonca-vuslateri",
+        "role": "Nevra",
+        "roleFa": "نورا",
+        "description": "همسر تونچ که رفتار و حساسیتش نسبت به عمر، میان این سه نفر تنش می‌آفریند.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/bilgi",
+        "image": ""
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -1081,7 +1586,38 @@
       "episodes": "https://www.nowtv.com.tr/yeralti/bolumler",
       "youtube": "https://www.youtube.com/@nowtv"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Deniz Can Aktaş",
+        "nameFa": "دنیز جان آکتاش",
+        "personSlug": "deniz-can-aktas",
+        "role": "Haydar Ali Aslan",
+        "roleFa": "حیدرعلی اصلان",
+        "description": "پس از انتقام‌گرفتن از قاتل خانواده‌اش زندانی می‌شود و درگیر شبکه‌ای خطرناک از تبهکاران می‌گردد.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular",
+        "image": ""
+      },
+      {
+        "name": "Devrim Özkan",
+        "nameFa": "دوریم اوزکان",
+        "personSlug": "devrim-ozkan",
+        "role": "Halide Ceylan",
+        "roleFa": "حالیده جیلان",
+        "description": "یکی از چهره‌های محوری روابط و درگیری‌های پیرامون حیدرعلی.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular",
+        "image": ""
+      },
+      {
+        "name": "Uraz Kaygılaroğlu",
+        "nameFa": "اوراز کایگیلاراوغلو",
+        "personSlug": "uraz-kaygilaroglu",
+        "role": "Bozkurt Hanoğlu",
+        "roleFa": "بوزکورت هان‌اوغلو",
+        "description": "از اعضای خاندان هان‌اوغلو در دنیای پرخطر و پرتنش سریال.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular",
+        "image": ""
+      }
+    ],
     "seasons": [
       {
         "number": 2,

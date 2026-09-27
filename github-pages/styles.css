@@ -120,12 +120,16 @@
 .section-headline{display:flex;align-items:end;justify-content:space-between;margin-bottom:18px}
 .section-headline h2{margin:5px 0 0;font-size:26px}
 .section-headline small{color:var(--muted);font-size:9px}
-.cast-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
-.cast-card{overflow:hidden;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
-.cast-photo{aspect-ratio:1;background:var(--surface-soft);background-size:cover;background-position:center;display:grid;place-items:center;color:var(--green);font-size:26px}
-.cast-card div:last-child{padding:12px}
-.cast-card strong{display:block;font-size:13px;direction:ltr;text-align:right}
+.cast-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.cast-card{overflow:hidden;border:1px solid var(--line);border-radius:18px;background:var(--surface);box-shadow:var(--shadow);transition:transform .2s ease,box-shadow .2s ease}
+.cast-card:hover{transform:translateY(-3px)}
+.cast-photo{aspect-ratio:4/3;background:linear-gradient(135deg,var(--green-soft),var(--surface-soft));background-size:cover;background-position:center;display:grid;place-items:center;color:var(--green);font-size:38px}
+.cast-card>div{padding:12px}
+.cast-card strong{display:block;font-size:15px;text-align:right}
 .cast-card span{display:block;margin-top:5px;color:var(--muted);font-size:10px;direction:ltr;text-align:right}
+.cast-card .role-link{display:inline-flex;direction:rtl;align-items:center;gap:5px;margin-top:8px;padding:6px 10px;border-radius:8px;background:var(--green-soft);font-size:12px}
+.cast-card .role-link::before{content:'نقش:';font-weight:400}
+.cast-teaser{padding:0 12px 15px;margin:0;color:var(--muted);font-size:11px;line-height:1.8;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .episodes{display:grid;gap:12px}
 .episode-card{display:grid;grid-template-columns:230px 1fr;overflow:hidden;border:1px solid var(--line);border-radius:16px;background:var(--surface);box-shadow:var(--shadow)}
 .episode-image{min-height:180px;background-size:cover;background-position:center}
@@ -170,6 +174,16 @@
 .credit-card strong{display:block;padding:12px 12px 0;font-size:14px}
 .credit-role{padding:6px 12px 14px;color:var(--muted);font-size:11px}
 .credit-role a{color:var(--green);font-weight:700}
+.credit-thumb{position:relative}.credit-thumb span{position:absolute;right:9px;bottom:9px;padding:5px 9px;border-radius:8px;background:var(--green);color:#fff;font-size:10px;font-weight:700}
+.actor-hero{background:linear-gradient(135deg,var(--surface),var(--green-soft))}
+.actor-hero .person-photo{width:120px;height:120px}
+.work-hero{margin-top:16px;padding:32px;border:1px solid var(--line);border-radius:20px;background:linear-gradient(125deg,var(--surface),var(--green-soft))}
+.work-hero h1{margin:12px 0;font-size:clamp(28px,6vw,48px)}.work-hero p{color:var(--muted);text-align:right}
+.work-people{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px;margin-bottom:16px}
+.work-person{display:flex;align-items:center;gap:10px;padding:12px;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+.work-avatar{width:48px;height:48px;flex:none;border-radius:50%;display:grid;place-items:center;background:var(--green-soft);background-size:cover;background-position:center;color:var(--green)}
+.work-person span:nth-child(2){flex:1}.work-person strong,.work-person small{display:block}.work-person small{color:var(--muted);margin-top:4px}.work-person>b{color:var(--green)}
+.char-info{margin-top:20px}
 .char-info{display:grid;gap:8px}
 .info-row{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border:1px solid var(--line);border-radius:13px;background:var(--surface)}
 .info-row span{color:var(--muted);font-size:11px}
@@ -213,6 +227,7 @@
 .result-row{display:flex;align-items:center;gap:12px;padding:14px 16px;border:1px solid var(--line);border-radius:13px;background:var(--surface)}
 .result-type{flex:none;padding:5px 10px;border-radius:999px;font-size:10px;font-weight:800;background:var(--green-soft);color:var(--green)}
 .result-type.t-actor,.result-type.t-character{background:#efe6ff;color:#6b3fb5}
+.result-type.t-work{background:var(--green-soft);color:var(--green)}
 .result-type.t-network{background:#e6f0ff;color:#1d5fb0}
 .result-copy{min-width:0}
 .result-copy strong{display:block;font-size:14px}
