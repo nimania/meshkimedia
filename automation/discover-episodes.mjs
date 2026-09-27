@@ -34,17 +34,29 @@ export function candidateLinks(html, listingUrl, slug) {
   return [...found.values()].sort((a, b) => b.number - a.number || a.url.localeCompare(b.url));
 }
 
-async function fetchListing(url) {
+async function fetchListingOnce(url) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 12_000);
   try {
     const response = await fetch(url, { headers: { "user-agent": USER_AGENT, accept: "text/html" }, signal: controller.signal });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    if (!response.ok) {
+      const error = new Error(`HTTP ${response.status}`);
+      error.retryable = response.status >= 500;
+      throw error;
+    }
     if (!(response.headers.get("content-type") || "").includes("text/html")) throw new Error("non-HTML listing");
     const body = await response.text();
     if (body.length > 2_000_000) throw new Error("listing too large");
     return body;
   } finally { clearTimeout(timer); }
+}
+
+async function fetchListing(url) {
+  try { return await fetchListingOnce(url); }
+  catch (error) {
+    if (!error.retryable && error.name !== "AbortError" && !/fetch failed/i.test(error.message)) throw error;
+    return fetchListingOnce(url);
+  }
 }
 
 export async function discover(data, fetchPage = fetchListing) {

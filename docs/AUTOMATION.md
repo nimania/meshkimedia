@@ -31,6 +31,11 @@ image URL and source attribution; approve the draft before updating `series.json
 Record the last successful fetch and alert on repeated source failures. Never
 publish a future episode's trailer as an aired recap.
 
+The Persian drafting stage needs a separately configured language-model API and
+an explicit budget. GitHub Models' inference API was retired in July 2026; the
+GitHub Actions token cannot be treated as a free replacement for that service.
+Do not put provider keys in source files or workflow logs.
+
 ## Pipeline
 
 1. **Discover** — scheduled collectors request a small registry of high-value pages.
