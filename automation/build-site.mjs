@@ -58,7 +58,7 @@ const SITE_NAV = (root, active) => {
   return `<nav class="site-nav" aria-label="بخش‌ها">${items.map(([h, t]) => `<a href="${root}${h}"${active === h ? ' class="on"' : ""}>${t}</a>`).join("")}</nav>`;
 };
 
-function head(root, { title, desc, path, ogImage, jsonld, ogType = "website" }) {
+function head(root, { title, desc, path, ogImage, jsonld, ogType = "website", version = "20260927d" }) {
   const canonical = `${BASE}/${path}`;
   const img = ogImage ? (ogImage.startsWith("http") ? ogImage : BASE + ogImage) : BASE + LOGO;
   const ld = jsonld ? `\n<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : "";
@@ -75,16 +75,16 @@ function head(root, { title, desc, path, ogImage, jsonld, ogType = "website" }) 
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(desc)}"><meta name="twitter:image" content="${img}">
 <link rel="icon" href="${root}images/meshki-media-logo.png" type="image/png"><link rel="apple-touch-icon" href="${root}images/meshki-media-logo.png">
 <link rel="preload" href="${root}vazirmatn.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="${root}styles.css?v=20260927d">
+<link rel="stylesheet" href="${root}styles.css?v=${version}">
 <script>try{var t=localStorage.getItem("dizimeter-theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>${ld}
 </head>
 <body>
 <header class="app-header"><a class="brand" href="${root}"><img class="brand-logo" src="${root}images/meshki-media-logo.png" alt="مشکی مدیا" width="34" height="34"><span class="brand-text"><strong>مشکی مدیا</strong><span>دنیای سریال‌های ترکی</span></span></a><div class="header-actions"><button id="theme-toggle" class="icon-button" aria-label="روشن یا تیره">◐</button><a class="icon-button" href="${root}ara/" aria-label="جستجو">⌕</a></div></header>
 ${SITE_NAV(root, path.split("/")[0] === "" ? "" : (path.split("/").slice(0, 1)[0] + "/"))}`;
 }
-const boot = (root, obj, scripts) => `<script>window.DM=${JSON.stringify(Object.assign({ root }, obj))};</script>
-<script src="${root}dizimeter.js?v=20260927d" defer></script>
-${scripts.map((s) => `<script src="${root}${s}?v=20260927d" defer></script>`).join("\n")}
+const boot = (root, obj, scripts, version = "20260927d") => `<script>window.DM=${JSON.stringify(Object.assign({ root }, obj))};</script>
+<script src="${root}dizimeter.js?v=${version}" defer></script>
+${scripts.map((s) => `<script src="${root}${s}?v=${version}" defer></script>`).join("\n")}
 </body></html>
 `;
 const BOTTOM = (root, items) => `<nav class="bottom-nav">${items.map(([h, b, t, on]) => `<a href="${root}${h}"${on ? ' class="active"' : ""}><b>${b}</b><span>${t}</span></a>`).join("")}</nav>`;
@@ -224,17 +224,22 @@ function workPage(w) {
 // ---- Generic list page -----------------------------------------------------
 function listPage({ path, title, desc, kicker, h1, sub, containerId, script, active }) {
   const root = "../";
+  const isCalendar = path === "takvim/";
+  const version = isCalendar ? "20260927e" : "20260927d";
   const jsonld = { "@context": "https://schema.org", "@type": "CollectionPage", name: title, url: `${BASE}/${path}` };
-  const h = head(root, { title, desc, path, jsonld });
+  const h = head(root, { title, desc, path, jsonld, version });
   const search = `<div class="list-search"><input id="q" type="search" placeholder="جستجو…" aria-label="جستجو"></div>`;
+  const calendar = `<div class="calendar-tools"><label class="calendar-search-wrap"><span>جستجوی سریال</span><input id="calendar-search" type="search" placeholder="نام سریال…" autocomplete="off"></label><label class="calendar-network-wrap"><span>شبکه</span><select id="calendar-network"><option value="">همهٔ شبکه‌ها</option></select></label><button id="calendar-today" class="calendar-today" type="button">برو به امروز</button></div>
+<div class="calendar-meta"><p id="calendar-status" role="status">در حال دریافت برنامه…</p><a id="calendar-source" href="https://dizilah.com/calendar" target="_blank" rel="noopener noreferrer">منبع برنامه: Dizilah ↗</a></div>
+<p id="calendar-note" class="calendar-stale" hidden></p><nav id="calendar-strip" class="calendar-strip" aria-label="روزهای پخش"></nav><div id="calendar-feed" class="calendar-feed"></div>`;
   const body = `
-<main class="app-shell">
+<main class="app-shell${isCalendar ? " calendar-shell" : ""}">
 <section class="intro"><span class="kicker">${kicker}</span><h1>${h1}</h1><p>${sub}</p></section>
-${containerId === "no-search" ? "" : search}
-<section class="feed-section"><div id="list" class="${containerId}"></div></section>
+${isCalendar ? calendar : containerId === "no-search" ? "" : search}
+${isCalendar ? "" : `<section class="feed-section"><div id="list" class="${containerId}"></div></section>`}
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها", active === "diziler/"], ["takvim/", "▤", "تقویم", active === "takvim/"], ["ara/", "⌕", "جستجو", active === "ara/"]])}`;
-  return h + body + boot(root, {}, [script]);
+  return h + body + boot(root, {}, [script], version);
 }
 
 // ---- Ratings page (full TİAK table; moved off the homepage) ----------------
@@ -319,7 +324,7 @@ const lists = [
   { path: "karakterler/", title: "کاراکترها | مشکی مدیا", desc: "فهرست کاراکترهای سریال‌های ترکی و بازیگرانشان.", kicker: "فهرست", h1: "کاراکترها", sub: "کاراکترهای ثبت‌شده", containerId: "people-grid", script: "list-characters.js", active: "karakterler/" },
   { path: "ozetler/", title: "آرشیو خلاصه‌ها (ری‌کپ) | مشکی مدیا", desc: "آرشیو خلاصهٔ داستان (ری‌کپ) قسمت‌های سریال‌های ترکی.", kicker: "آرشیو", h1: "خلاصه‌ها / ری‌کپ", sub: "خلاصهٔ داستان قسمت‌ها", containerId: "recap-list", script: "recaps.js", active: "ozetler/" },
   { path: "fragmanlar/", title: "آرشیو فراگمان‌ها (تیزر) | مشکی مدیا", desc: "آرشیو فراگمان (تیزر) سریال‌ها و قسمت‌های تلویزیون ترکیه.", kicker: "آرشیو", h1: "فراگمان‌ها", sub: "تیزر سریال‌ها و قسمت‌ها", containerId: "fragman-grid", script: "fragmans.js", active: "fragmanlar/" },
-  { path: "takvim/", title: "تقویم پخش | مشکی مدیا", desc: "تقویم پخش سریال‌های ترکی با ساعت ترکیه، ایران و آمریکا (لس‌آنجلس).", kicker: "برنامه", h1: "تقویم پخش", sub: "به وقت ترکیه، ایران و آمریکا (PT)", containerId: "calendar no-search", script: "calendar.js", active: "takvim/" },
+  { path: "takvim/", title: "تقویم پخش سریال‌های ترکی | مشکی مدیا", desc: "برنامهٔ پخش روزانهٔ سریال‌های ترکی با نام سریال، شبکه، شماره فصل و قسمت بر پایهٔ تقویم Dizilah.", kicker: "برنامهٔ روزانه", h1: "تقویم پخش", sub: "سریال‌ها، شبکه‌ها و شمارهٔ قسمت‌ها به تفکیک روز؛ بر پایهٔ برنامهٔ منتشرشده در Dizilah", containerId: "calendar no-search", script: "calendar.js", active: "takvim/" },
   { path: "ara/", title: "جستجو | مشکی مدیا", desc: "جستجو در سریال‌ها، بازیگران، کاراکترها و قسمت‌های مشکی مدیا.", kicker: "جستجو", h1: "جستجو", sub: "در سریال‌ها، بازیگران، کاراکترها و قسمت‌ها", containerId: "search-results", script: "search.js", active: "ara/" },
 ];
 for (const l of lists) { await mkdir(p(l.path), { recursive: true }); await writeFile(p(l.path + "index.html"), listPage(l), "utf8"); count.lists++; urls.push({ loc: `${BASE}/${l.path}`, pri: "0.7" }); }
