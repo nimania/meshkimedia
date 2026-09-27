@@ -889,9 +889,9 @@
       "کمدی",
       "درام"
     ],
-    "hero": "",
-    "fragman": "https://www.trt1.com.tr/",
-    "synopsis": "",
+    "hero": "https://cdn-i.pr.trt.com.tr/trt1/evlilik-guzeldir-headline-mobil-image-21749339-0-0-1439-1080.jpeg",
+    "fragman": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/fragman",
+    "synopsis": "مسعود بختیار سال‌هاست به‌عنوان مأمور ثبت ازدواج، پیوند هزاران زوج را رسمی کرده، اما هر پنج دختر خودش هنوز مجردند. او آرزو دارد دخترانش زندگی دلخواهشان را بسازند؛ آرزویی که در خانهٔ قدیمی خانواده و میان عشق‌های تازه، رازهای گذشته و تفاوت نگاه نسل‌ها بارها به آزمون کشیده می‌شود.",
     "official": {
       "website": "https://www.trt1.com.tr/diziler/evlilik-guzeldir",
       "episodes": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/bolum",
@@ -906,24 +906,55 @@
           {
             "number": 1,
             "date": "2026-09-07",
-            "title": "",
-            "image": "",
-            "images": [],
-            "summary": "",
-            "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/bolumler"
+            "title": "جشن صدهزارمین ازدواج",
+            "image": "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-195-21750867.jpeg",
+            "images": [
+              "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-195-21750867.jpeg",
+              "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-127-kopyasi-3-21750866.jpeg",
+              "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-1-14-21750868.jpeg",
+              "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-131-kopyasi-6-21750869.jpeg",
+              "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-131-kopyasi-2-21750873.jpeg",
+              "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-1-26-21750872.jpeg"
+            ],
+            "summary": "مسعود بختیار صدهزارمین ازدواج دوران کاری‌اش را ثبت می‌کند، اما جشن دخترانش خیلی زود به پرسش‌هایی دربارهٔ زندگی خودشان می‌رسد. او اتفاقی با سینان، دوست‌پسر سه‌سالهٔ یاسمین، روبه‌رو می‌شود و خانوادهٔ سینان نیز به استانبول می‌آیند. بازگشت مورات زخم قدیمی زینب را باز می‌کند؛ هم‌زمان آسلی برای پوشاندن دروغی در محل کار از جان می‌خواهد نقش دوست‌پسرش را بازی کند و نرگس با مأمور مالیات، سزایی، آشنا می‌شود. جمع‌شدن مهمانان بی‌خبر از یکدیگر در عمارت، خانواده را در موقعیتی پرآشوب قرار می‌دهد.",
+            "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/bolum/1-bolum",
+            "photosSource": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/fotogaleri/1-bolum"
           },
           {
             "number": 2,
             "date": "2026-09-14",
-            "title": "",
+            "title": "خواستگاری ناتمام",
             "image": "",
             "images": [],
-            "summary": "",
-            "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/bolumler"
+            "summary": "شب خواستگاری زینب و علی‌رضا با ورود ناگهانی پدر و مادر سینان و درگیری با مردانی که دنبال سروت هستند به هم می‌ریزد. سینان هنگام دفاع از یاسمین آسیب می‌بیند و عکسی که ملک منتشر می‌کند، رابطهٔ آن دو را تا آستانهٔ جدایی می‌برد. مورات با شنیدن تصمیم ازدواج زینب قصد رفتن دارد، ولی خبری از سعادت مسیرش را عوض می‌کند. مسعود برای حفظ آبروی دخترش به یادگار ارزشمند همسرش فکر می‌کند؛ آسلی و جان به هم نزدیک‌تر می‌شوند و رقیب تازه‌ای به زندگی دانشگاهی بهار وارد می‌شود.",
+            "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/bolum/2-bolum"
+          },
+          {
+            "number": 3,
+            "date": "2026-09-21",
+            "title": "تصمیم تازهٔ سینان",
+            "image": "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-132-kopyasi-21753120.jpeg",
+            "images": [
+              "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-132-kopyasi-21753120.jpeg",
+              "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-161-21753122.jpeg",
+              "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-157-1-21753121.jpeg"
+            ],
+            "summary": "تنش میان دو خانواده رابطهٔ سه‌سالهٔ یاسمین و سینان را به نقطهٔ حساسی می‌رساند. پدر و مادر سینان از ملک کمک می‌خواهند تا او را از یاسمین دور کنند، اما تصمیم غیرمنتظرهٔ سینان همه‌چیز را تغییر می‌دهد. در همین حال، گم‌شدن سنجاق‌سینهٔ به‌جامانده از امینه، مورات و سروت و علی‌رضا را به جست‌وجو می‌کشاند. نرگس از شکایت علیه سزایی منصرف می‌شود؛ بهار و دیار در پروژهٔ دانشگاهی رقابت می‌کنند و رابطهٔ ساختگی آسلی و جان کم‌کم رنگ دیگری می‌گیرد. مورات نیز با خواسته‌ای تازه مسعود را غافلگیر می‌کند.",
+            "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/bolum/3-bolum",
+            "photosSource": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/fotogaleri/3-bolum"
           }
         ]
       }
-    ]
+    ],
+    "photos": [
+      "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-195-21750867.jpeg",
+      "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-127-kopyasi-3-21750866.jpeg",
+      "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-1-14-21750868.jpeg",
+      "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-132-kopyasi-21753120.jpeg",
+      "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-161-21753122.jpeg",
+      "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-157-1-21753121.jpeg"
+    ],
+    "photosSource": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/fotogaleri"
   },
   "anne-yarisi": {
     "slug": "anne-yarisi",
