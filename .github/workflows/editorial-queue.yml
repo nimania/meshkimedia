@@ -1,0 +1,27 @@
+name: Daily editorial queue
+
+on:
+  schedule:
+    - cron: "37 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Generate editorial queue
+        run: |
+          node automation/editorial-queue.mjs --output editorial-queue.md
+          cat editorial-queue.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: editorial-queue
+          path: editorial-queue.md
+          retention-days: 30

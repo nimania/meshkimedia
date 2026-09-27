@@ -1,5 +1,29 @@
 # Automation architecture
 
+## What runs today on GitHub Pages
+
+The Pages workflow refreshes public TİAK ratings every two hours. It rebuilds
+pages from `github-pages/data/series.json`, but does not discover new episodes,
+write Persian summaries, or collect gallery photos. The separate collector
+workflow sends snapshots to an optional ingest service and does not update the
+GitHub Pages content file.
+
+`Daily editorial queue` runs once per day and on demand. Its job summary and
+downloadable artifact list incomplete profiles and registered episodes, plus
+active shows with no recorded episode or whose last recorded episode is at least seven days old. The latter
+are prompts to check official episode lists, not evidence that anything aired.
+Run the same report locally with `npm run content:queue`. Editorial work should
+use the broadcaster's story, episode and gallery pages, verify an air date, write
+an original Persian summary, and then pass `npm run content:check` before
+publishing. The queue deliberately leaves missing facts empty.
+
+To make this a daily content pipeline, add a source adapter for each broadcaster
+that records changed official episode and gallery URLs in a review queue. Generate
+Persian drafts only from captured evidence; check episode number, air date,
+image URL and source attribution; approve the draft before updating `series.json`.
+Record the last successful fetch and alert on repeated source failures. Never
+publish a future episode's trailer as an aired recap.
+
 ## Pipeline
 
 1. **Discover** — scheduled collectors request a small registry of high-value pages.
