@@ -10,6 +10,11 @@
     const ch = chars[slug];
     if (!ch) throw new Error("character not found");
     document.title = `${ch.nameFa || ch.name} — کاراکتر ${ch.seriesTitleFa} | مشکی مدیا`;
+    $("#char-description").textContent = ch.description || "توضیح این نقش در حال تکمیل است.";
+    if (ch.source && /^https:\/\//.test(ch.source)) {
+      $("#char-source").href = ch.source;
+      $("#char-source").hidden = false;
+    }
     $("#char-sub").innerHTML = `از سریال <a href="${root}dizi/${ch.seriesSlug}/">${D.esc(ch.seriesTitleFa)}</a>`;
     const rows = [];
     rows.push(`<a class="info-row" href="${root}dizi/${ch.seriesSlug}/"><span>سریال</span><b>${D.esc(ch.seriesTitleFa)}</b></a>`);

@@ -7,6 +7,7 @@ on:
       - "github-pages/**"
       - "automation/build-pages-data.mjs"
       - "automation/build-site.mjs"
+      - "automation/audit-cast.mjs"
       - ".github/workflows/pages.yml"
   schedule:
     - cron: "17 */2 * * *"
@@ -42,6 +43,8 @@ jobs:
         run: node automation/build-site.mjs
       - name: Check editorial content
         run: node automation/audit-content.mjs --require ask-ve-taht --require sevdan-bir-ates --require abi --require gunesin-dogdugu-yer --require mercan-kosk
+      - name: Check cast connections
+        run: node automation/audit-cast.mjs
       - name: Configure Pages
         uses: actions/configure-pages@v6
         with:

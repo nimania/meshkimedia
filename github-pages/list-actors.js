@@ -6,8 +6,8 @@
   const el = document.querySelector("#list");
   const q = document.querySelector("#q");
   try {
-    const { series } = await D.loadData();
-    const people = Object.values(D.buildPeople(series)).sort((a, b) => a.name.localeCompare(b.name));
+    const { series, profiles, works } = await D.loadData();
+    const people = Object.values(D.buildPeople(series, profiles, works)).sort((a, b) => a.name.localeCompare(b.name));
     if (!people.length) { el.innerHTML = `<div class="notice">هنوز بازیگری ثبت نشده است.</div>`; return; }
     el.innerHTML = people.map((pr) => {
       const disp = pr.nameFa || pr.name;

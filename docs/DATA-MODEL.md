@@ -1,6 +1,6 @@
 # Data model
 
-All public content is driven by three JSON files in
+All public content is driven by the JSON files in
 [`github-pages/data/`](../github-pages/data). Edit these, regenerate the pages, and
 the whole site updates. Nothing here is invented — see the honesty policy below.
 
@@ -60,7 +60,7 @@ Map of `slug → series`. Episodes carry photos and the trailer (`fragman`).
     "synopsis": "…",
     "synopsisSource": "https://…/official-story", // evidence for the Persian synopsis
     "official": { "website": "…", "episodes": "…", "youtube": "…" },
-    "cast": [{ "name": "Murat Ünalmış", "nameFa": "مورات اونالمیش", "role": "Mirza Kozaklı", "roleFa": "میرزا کوزاکلی", "image": "…" }],
+    "cast": [{ "name": "Murat Ünalmış", "nameFa": "مورات اونالمیش", "personSlug": "murat-unalmis", "role": "Mirza Kozaklı", "roleFa": "میرزا کوزاکلی", "description": "…", "source": "https://…/official-cast", "image": "…" }],
     "seasons": [
       {
         "number": 1,
@@ -83,6 +83,47 @@ Map of `slug → series`. Episodes carry photos and the trailer (`fragman`).
   }
 }
 ```
+
+## Connected cast and filmography
+
+`series.json` owns each show's cast and character descriptions. Each cast row
+points to a stable `personSlug`, the key of the actor in `people.json`. The
+character URL is derived from the series slug and Turkish role name. Actor,
+character, and series pages link in both directions.
+
+`people.json` holds reusable actor metadata: `name`, `nameFa`, `photo`, `bio`,
+and `source`. Keep one entry per person; never duplicate a person for a later
+show. `works.json` holds films and series outside the current TV catalogue:
+
+```json
+{
+  "babam-ve-oglum": {
+    "slug": "babam-ve-oglum",
+    "kind": "film",
+    "titleFa": "پدرم و پسرم",
+    "titleTr": "Babam ve Oğlum",
+    "year": 2005,
+    "source": "https://…/verified-credit",
+    "image": "",
+    "cast": [{ "personSlug": "fikret-kuskan", "role": "Sadık", "roleFa": "صادق" }]
+  }
+}
+```
+
+To add a new film, add it to `works.json` and link its actors by
+`personSlug`; the build then creates `/asar/<slug>/`, adds the film to search
+and the sitemap, and displays it in every linked actor's filmography. When a
+new main-catalogue series is added to `series.json`, its cast likewise appears
+automatically in each actor's filmography. Run `npm run cast:check` and
+`node automation/build-site.mjs` before publishing. The check reports cast
+coverage and rejects broken person references or duplicate roles.
+
+Where a broadcaster has not published a verified actor–role pair, leave the
+cast section visibly pending. Do not infer an actor's role from a general
+cast list. Source and write an original Persian character description before
+claiming the role profile is complete. A person bio can be expanded as more
+verified works are recorded; the displayed filmography never needs to be
+maintained separately.
 
 Notes:
 - `ratingKey` is the bridge to `ratings.json`. It must be the **ASCII, uppercase**

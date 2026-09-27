@@ -10,6 +10,8 @@ const LOGO = "/images/meshki-media-logo.png";
 
 const networks = JSON.parse(await readFile(p("data/networks.json"), "utf8"));
 const series = JSON.parse(await readFile(p("data/series.json"), "utf8"));
+const profiles = JSON.parse(await readFile(p("data/people.json"), "utf8"));
+const works = JSON.parse(await readFile(p("data/works.json"), "utf8"));
 const seriesArr = Object.values(series);
 
 // ---- slug (MUST match github-pages/dizimeter.js) ---------------------------
@@ -24,23 +26,28 @@ function slugify(s) {
 const esc = (s) => String(s == null ? "" : s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
 // ---- derive people & characters --------------------------------------------
-const people = {};
+const people = Object.fromEntries(Object.entries(profiles).map(([slug, profile]) => [slug, { slug, ...profile, credits: [] }]));
 const characters = {};
 for (const s of seriesArr) {
   for (const c of s.cast || []) {
     if (c.name) {
-      const slug = slugify(c.name);
+      const slug = c.personSlug || slugify(c.name);
       const pr = (people[slug] = people[slug] || { slug, name: c.name, nameFa: "", photo: "", credits: [] });
       if (!pr.nameFa && c.nameFa) pr.nameFa = c.nameFa;
       if (!pr.photo && c.image) pr.photo = c.image;
-      pr.credits.push({ seriesSlug: s.slug, seriesTitleFa: s.titleFa, character: c.role || "", characterFa: c.roleFa || "" });
+      pr.credits.push({ kind: "series", seriesSlug: s.slug, titleFa: s.titleFa, titleTr: s.titleTr, year: s.year, character: c.role || "", characterFa: c.roleFa || "" });
     }
     if (c.role) {
       const slug = slugify(s.slug + "-" + c.role);
-      characters[slug] = { slug, name: c.role, nameFa: c.roleFa || "", seriesSlug: s.slug, seriesTitleFa: s.titleFa, personName: c.name || "", personNameFa: c.nameFa || "", personSlug: c.name ? slugify(c.name) : "", image: c.image || "" };
+      characters[slug] = { slug, name: c.role, nameFa: c.roleFa || "", description: c.description || "", seriesSlug: s.slug, seriesTitleFa: s.titleFa, personName: c.name || "", personNameFa: c.nameFa || "", personSlug: c.name ? (c.personSlug || slugify(c.name)) : "", image: c.roleImage || c.image || "" };
     }
   }
 }
+for (const w of Object.values(works)) for (const c of w.cast || []) {
+  if (!people[c.personSlug]) throw new Error(`Unknown actor ${c.personSlug} in work ${w.slug}`);
+  people[c.personSlug].credits.push({ kind: w.kind, workSlug: w.slug, titleFa: w.titleFa, titleTr: w.titleTr, year: w.year, character: c.role || "", characterFa: c.roleFa || "" });
+}
+for (const pr of Object.values(people)) pr.credits.sort((a, b) => (b.year || 0) - (a.year || 0));
 
 // ---- shared HTML shell with full SEO ---------------------------------------
 const SITE_NAV = (root, active) => {
@@ -68,7 +75,7 @@ function head(root, { title, desc, path, ogImage, jsonld, ogType = "website" }) 
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(desc)}"><meta name="twitter:image" content="${img}">
 <link rel="icon" href="${root}images/meshki-media-logo.png" type="image/png"><link rel="apple-touch-icon" href="${root}images/meshki-media-logo.png">
 <link rel="preload" href="${root}vazirmatn.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="${root}styles.css?v=20260927a">
+<link rel="stylesheet" href="${root}styles.css?v=20260927b">
 <script>try{var t=localStorage.getItem("dizimeter-theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>${ld}
 </head>
 <body>
@@ -76,8 +83,8 @@ function head(root, { title, desc, path, ogImage, jsonld, ogType = "website" }) 
 ${SITE_NAV(root, path.split("/")[0] === "" ? "" : (path.split("/").slice(0, 1)[0] + "/"))}`;
 }
 const boot = (root, obj, scripts) => `<script>window.DM=${JSON.stringify(Object.assign({ root }, obj))};</script>
-<script src="${root}dizimeter.js?v=20260927a" defer></script>
-${scripts.map((s) => `<script src="${root}${s}?v=20260927a" defer></script>`).join("\n")}
+<script src="${root}dizimeter.js?v=20260927b" defer></script>
+${scripts.map((s) => `<script src="${root}${s}?v=20260927b" defer></script>`).join("\n")}
 </body></html>
 `;
 const BOTTOM = (root, items) => `<nav class="bottom-nav">${items.map(([h, b, t, on]) => `<a href="${root}${h}"${on ? ' class="active"' : ""}><b>${b}</b><span>${t}</span></a>`).join("")}</nav>`;
@@ -114,7 +121,7 @@ function seriesPage(s) {
 <div id="genre" class="genre-chips"></div></div></section>
 <section class="profile-section"><div class="section-kicker">داستان</div><p id="synopsis" class="synopsis"></p><a id="synopsis-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع داستان ↗</a><div id="official-links" class="official-links"></div></section>
 <section id="series-gallery-section" class="profile-section" hidden><div class="section-headline"><div><span>تصاویر رسمی</span><h2>عکس‌های سریال</h2></div><a id="series-gallery-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع عکس‌ها ↗</a></div><div id="series-gallery" class="gallery"></div></section>
-<section id="cast-section" class="profile-section"><div class="section-headline"><div><span>بازیگران و کاراکترها</span><h2>کست اصلی</h2></div><small>منبع: شبکهٔ پخش</small></div><div id="cast" class="cast-grid"></div></section>
+<section id="cast-section" class="profile-section"><div class="section-headline"><div><span>بازیگران و نقش‌ها</span><h2>چه کسی چه نقشی دارد؟</h2></div><small>روی نام بازیگر یا نقش بزنید</small></div><div id="cast" class="cast-grid"></div><p id="cast-empty" class="notice" hidden>فهرست تأییدشدهٔ بازیگران این سریال هنوز تکمیل نشده است.</p></section>
 <section class="profile-section"><div class="section-headline"><div><span>قسمت‌ها</span><h2>ری‌کپ و ریتینگ قسمت‌ها</h2></div><small>Total · AB · ABC1</small></div><div id="episodes" class="episodes"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/#episodes`, "☰", "قسمت‌ها", true], [`dizi/${s.slug}/#cast`, "◉", "بازیگران"], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
@@ -167,12 +174,14 @@ function actorPage(pr) {
   if (pr.nameFa) jsonld.alternateName = pr.nameFa;
   const disp = pr.nameFa || pr.name;
   const roles = pr.credits.map((c) => c.characterFa || c.character).filter(Boolean).slice(0, 3).join("، ");
-  const h = head(root, { title: `${disp} — بازیگر | مشکی مدیا`, desc: `${disp} (${pr.name})، بازیگر ترکیه‌ای${roles ? "؛ نقش‌ها: " + roles : ""}. سریال‌ها و کاراکترها در مشکی مدیا.`, path: `oyuncu/${pr.slug}/`, ogImage: pr.photo, ogType: "profile", jsonld });
+  if (pr.bio) jsonld.description = pr.bio;
+  const h = head(root, { title: `${disp} — بازیگر | مشکی مدیا`, desc: (pr.bio || `${disp} (${pr.name})، بازیگر؛ ${roles}. فیلم‌ها و سریال‌ها در مشکی مدیا.`).slice(0, 180), path: `oyuncu/${pr.slug}/`, ogImage: pr.photo, ogType: "profile", jsonld });
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}oyuncular/">بازیگران</a><span>/</span><span>${esc(disp)}</span></div>
-<section class="person-hero"><div class="person-photo ${pr.photo ? "" : "no-image"}" ${pr.photo ? `style="background-image:url('${esc(pr.photo)}')"` : ""}>${pr.photo ? "" : esc(disp.slice(0, 1))}</div><div><span class="kicker">بازیگر</span><h1>${esc(disp)}</h1><p class="muted-line" dir="ltr">${esc(pr.name)}</p><p class="muted-line">${esc(roles || "")}</p></div></section>
-<section class="profile-section"><div class="section-headline"><div><span>کارنامه</span><h2>سریال‌ها و کاراکترها</h2></div></div><div id="credits" class="credits-grid"></div></section>
+<section class="person-hero actor-hero"><div class="person-photo ${pr.photo ? "" : "no-image"}" ${pr.photo ? `style="background-image:url('${esc(pr.photo)}')"` : ""}>${pr.photo ? "" : esc(disp.slice(0, 1))}</div><div><span class="kicker">بازیگر</span><h1>${esc(disp)}</h1><p class="muted-line" dir="ltr">${esc(pr.name)}</p><p class="muted-line">${esc(roles || "")}</p></div></section>
+<section class="profile-section"><div class="section-headline"><div><span>دربارهٔ بازیگر</span><h2>معرفی</h2></div></div><p id="actor-bio" class="synopsis"></p><a id="actor-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع معرفی ↗</a></section>
+<section class="profile-section"><div class="section-headline"><div><span>کارنامهٔ پیوسته</span><h2>فیلم‌ها و سریال‌ها</h2></div><small id="credit-count"></small></div><div id="credits" class="credits-grid"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["oyuncular/", "◉", "بازیگران", true], ["diziler/", "☰", "سریال‌ها"], ["ara/", "⌕", "جستجو"]])}`;
   return h + body + boot(root, { slug: pr.slug }, ["actor-page.js"]);
@@ -184,15 +193,31 @@ function characterPage(ch) {
   const disp = ch.nameFa || ch.name;
   const jsonld = { "@context": "https://schema.org", "@type": "Person", name: ch.name, url: `${BASE}/karakter/${ch.slug}/`, description: `کاراکتر سریال ${ch.seriesTitleFa}` };
   if (ch.nameFa) jsonld.alternateName = ch.nameFa;
-  const h = head(root, { title: `${disp} — کاراکتر ${ch.seriesTitleFa} | مشکی مدیا`, desc: `${disp}، کاراکتر سریال ${ch.seriesTitleFa}${ch.personNameFa || ch.personName ? "، با بازیِ " + (ch.personNameFa || ch.personName) : ""}.`, path: `karakter/${ch.slug}/`, ogImage: ch.image, ogType: "profile", jsonld });
+  if (ch.description) jsonld.description = ch.description;
+  const h = head(root, { title: `${disp} — کاراکتر ${ch.seriesTitleFa} | مشکی مدیا`, desc: (ch.description || `${disp}، کاراکتر سریال ${ch.seriesTitleFa}${ch.personNameFa || ch.personName ? "، با بازیِ " + (ch.personNameFa || ch.personName) : ""}.`).slice(0, 180), path: `karakter/${ch.slug}/`, ogImage: ch.image, ogType: "profile", jsonld });
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}karakterler/">کاراکترها</a><span>/</span><span>${esc(disp)}</span></div>
 <section class="person-hero"><div class="person-photo ${ch.image ? "" : "no-image"}" ${ch.image ? `style="background-image:url('${esc(ch.image)}')"` : ""}>${ch.image ? "" : esc(disp.slice(0, 1))}</div><div><span class="kicker">کاراکتر</span><h1>${esc(disp)}</h1><p class="muted-line" dir="ltr">${esc(ch.name)}</p><p class="muted-line" id="char-sub"></p></div></section>
-<section class="profile-section"><div id="char-info" class="char-info"></div></section>
+<section class="profile-section"><div class="section-headline"><div><span>داستان نقش</span><h2>دربارهٔ ${esc(disp)}</h2></div></div><p id="char-description" class="synopsis"></p><a id="char-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع نقش ↗</a><div id="char-info" class="char-info"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["karakterler/", "◈", "کاراکترها", true], ["diziler/", "☰", "سریال‌ها"], ["ara/", "⌕", "جستجو"]])}`;
   return h + body + boot(root, { slug: ch.slug }, ["character-page.js"]);
+}
+
+// ---- Other works (films and series outside the main TV catalogue) ----------
+function workPage(w) {
+  const root = "../../";
+  const disp = w.titleFa || w.titleTr;
+  const type = w.kind === "film" ? "فیلم" : "سریال";
+  const jsonld = { "@context": "https://schema.org", "@type": w.kind === "film" ? "Movie" : "TVSeries", name: w.titleTr, alternateName: w.titleFa, url: `${BASE}/asar/${w.slug}/` };
+  if (w.image) jsonld.image = w.image;
+  const h = head(root, { title: `${disp} — ${type} | مشکی مدیا`, desc: (w.synopsis || `${type} ${disp}؛ بازیگران و نقش‌های ثبت‌شده.`).slice(0, 180), path: `asar/${w.slug}/`, ogImage: w.image, jsonld });
+  const cast = (w.cast || []).map((c) => {
+    const pr = people[c.personSlug];
+    return `<a class="work-person" href="${root}oyuncu/${esc(c.personSlug)}/"><span class="work-avatar ${pr.photo ? "" : "no-image"}" ${pr.photo ? `style="background-image:url('${esc(pr.photo)}')"` : ""}>${pr.photo ? "" : esc((pr.nameFa || pr.name).slice(0, 1))}</span><span><strong>${esc(pr.nameFa || pr.name)}</strong><small>${esc(c.roleFa || c.role || "بازیگر")}</small></span><b>←</b></a>`;
+  }).join("");
+  return h + `<main class="profile-shell"><div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}oyuncular/">بازیگران</a><span>/</span>${esc(disp)}</div><section class="work-hero"><span class="kicker">${type} · ${esc(w.year || "")}</span><h1>${esc(disp)}</h1><p dir="ltr">${esc(w.titleTr)}</p></section><section class="profile-section"><div class="section-headline"><div><span>بازیگران</span><h2>در این اثر</h2></div></div><div class="work-people">${cast}</div>${w.source ? `<a class="gallery-source" href="${esc(w.source)}" target="_blank" rel="noopener noreferrer">منبع اطلاعات ↗</a>` : ""}</section></main>` + boot(root, {}, []);
 }
 
 // ---- Generic list page -----------------------------------------------------
@@ -238,7 +263,7 @@ ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"
 }
 
 // ---- write all -------------------------------------------------------------
-const count = { logos: 0, networks: 0, series: 0, episodes: 0, actors: 0, characters: 0, lists: 0 };
+const count = { logos: 0, networks: 0, series: 0, episodes: 0, actors: 0, characters: 0, works: 0, lists: 0 };
 const urls = [{ loc: `${BASE}/`, pri: "1.0" }];
 
 await mkdir(p("images/networks/"), { recursive: true });
@@ -280,6 +305,11 @@ for (const ch of Object.values(characters)) {
   await writeFile(p(`karakter/${ch.slug}/index.html`), characterPage(ch), "utf8"); count.characters++;
   urls.push({ loc: `${BASE}/karakter/${ch.slug}/`, pri: "0.4" });
 }
+for (const w of Object.values(works)) {
+  await mkdir(p(`asar/${w.slug}/`), { recursive: true });
+  await writeFile(p(`asar/${w.slug}/index.html`), workPage(w), "utf8"); count.works++;
+  urls.push({ loc: `${BASE}/asar/${w.slug}/`, pri: "0.4" });
+}
 
 // list pages
 const lists = [
@@ -302,6 +332,7 @@ for (const s of seriesArr) searchIndex.push({ t: "series", titleFa: s.titleFa, t
 for (const s of seriesArr) for (const se of s.seasons || []) for (const e of se.episodes || []) searchIndex.push({ t: "episode", titleFa: `${s.titleFa} — قسمت ${e.number}`, titleTr: e.title || "", sub: s.titleTr, url: `dizi/${s.slug}/bolum-${e.number}/` });
 for (const pr of Object.values(people)) searchIndex.push({ t: "actor", titleFa: pr.nameFa || pr.name, titleTr: pr.name, sub: "بازیگر", url: `oyuncu/${pr.slug}/` });
 for (const ch of Object.values(characters)) searchIndex.push({ t: "character", titleFa: ch.nameFa || ch.name, titleTr: ch.name + (ch.personNameFa ? " · " + ch.personNameFa : ""), sub: ch.seriesTitleFa, url: `karakter/${ch.slug}/` });
+for (const w of Object.values(works)) searchIndex.push({ t: "work", titleFa: w.titleFa || w.titleTr, titleTr: w.titleTr, sub: w.kind === "film" ? "فیلم" : "سریال", url: `asar/${w.slug}/` });
 for (const net of Object.values(networks)) searchIndex.push({ t: "network", titleFa: net.name, titleTr: net.nameFa || "", sub: "شبکه", url: `kanal/${net.slug}/` });
 await writeFile(p("data/search-index.json"), JSON.stringify(searchIndex) + "\n", "utf8");
 
@@ -314,4 +345,4 @@ ${urls.map((u) => `<url><loc>${u.loc}</loc><priority>${u.pri}</priority></url>`)
 await writeFile(p("sitemap.xml"), sitemap, "utf8");
 await writeFile(p("robots.txt"), `User-agent: *\nAllow: /\nSitemap: ${BASE}/sitemap.xml\n`, "utf8");
 
-console.log(`Built: ${count.logos} logos, ${count.networks} networks, ${count.series} series, ${count.episodes} episodes, ${count.actors} actors, ${count.characters} characters, ${count.lists} lists, ${urls.length} sitemap urls, ${searchIndex.length} search entries.`);
+console.log(`Built: ${count.logos} logos, ${count.networks} networks, ${count.series} series, ${count.episodes} episodes, ${count.actors} actors, ${count.characters} characters, ${count.works} works, ${count.lists} lists, ${urls.length} sitemap urls, ${searchIndex.length} search entries.`);
