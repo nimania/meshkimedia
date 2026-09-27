@@ -15,6 +15,12 @@
       $("#actor-source").href = pr.source;
       $("#actor-source").hidden = false;
     }
+    const socialLabels = { instagram: "اینستاگرام", x: "ایکس", youtube: "یوتیوب", tiktok: "تیک‌تاک", facebook: "فیسبوک", website: "وب‌سایت" };
+    const socials = Object.entries(pr.socials || {}).filter(([key, url]) => socialLabels[key] && /^https:\/\//.test(url));
+    if (socials.length) {
+      $("#actor-socials").innerHTML = socials.map(([key, url]) => `<a href="${D.esc(url)}" target="_blank" rel="noopener noreferrer">${socialLabels[key]} ↗</a>`).join("");
+      $("#actor-socials").hidden = false;
+    }
     $("#credit-count").textContent = `${D.fmtInt(pr.credits.length)} اثر ثبت‌شده`;
     $("#credits").innerHTML = pr.credits.map((c) => {
       const s = c.seriesSlug ? series[c.seriesSlug] : works[c.workSlug];

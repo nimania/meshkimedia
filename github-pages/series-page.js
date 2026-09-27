@@ -28,7 +28,7 @@
     if (off.website) links.push(`<a href="${off.website}" target="_blank" rel="noreferrer">صفحهٔ رسمی ↗</a>`);
     if (d.heroSource && d.heroSource !== off.website) links.push(`<a href="${D.esc(d.heroSource)}" target="_blank" rel="noreferrer">منبع تصویر ↗</a>`);
     if (off.episodes) links.push(`<a href="${off.episodes}" target="_blank" rel="noreferrer">قسمت‌ها در شبکه ↗</a>`);
-    if (d.fragman) links.push(`<a href="${d.fragman}" target="_blank" rel="noreferrer">فراگمان ↗</a>`);
+    if (d.fragman) links.push(`<a href="${D.esc(d.fragman)}" target="_blank" rel="noopener noreferrer">فراگمان‌ها ↗</a>`);
     if (off.youtube) links.push(`<a href="${off.youtube}" target="_blank" rel="noreferrer">یوتیوب رسمی ↗</a>`);
     $("#official-links").innerHTML = links.join("");
 
@@ -48,13 +48,12 @@
       $("#cast").innerHTML = d.cast.map((c) => {
         const actorUrl = c.name ? `${root}oyuncu/${c.personSlug || D.slugify(c.name)}/` : null;
         const charUrl = c.role ? `${root}karakter/${D.slugify(d.slug + "-" + c.role)}/` : null;
-        const photo = c.image ? `style="background-image:url('${D.esc(c.image)}')"` : "";
         const aName = c.nameFa || c.name;
         const cName = c.roleFa || c.role || "";
         // No link wraps the whole card: the role link inside it would be a nested <a>, which the
         // browser splits into two grid cells. Photo + name go to the actor, the role to the character.
-        const photoEl = `${c.image ? "" : D.esc((aName || "?").slice(0, 1))}`;
-        const inner = (actorUrl ? `<a class="cast-photo" href="${actorUrl}" ${photo}>${photoEl}</a>` : `<div class="cast-photo" ${photo}>${photoEl}</div>`)
+        const photoEl = `${c.image ? `<img src="${D.esc(c.image)}" alt="" loading="lazy" onerror="this.remove()">` : ""}<span class="avatar-initial">${D.esc((aName || "?").slice(0, 1))}</span>`;
+        const inner = (actorUrl ? `<a class="cast-photo" href="${actorUrl}">${photoEl}</a>` : `<div class="cast-photo">${photoEl}</div>`)
           + `<div>${actorUrl ? `<a href="${actorUrl}"><strong>${D.esc(aName)}</strong></a>` : `<strong>${D.esc(aName)}</strong>`}${charUrl ? `<a class="role-link" href="${charUrl}">${D.esc(cName)}</a>` : `<span>${D.esc(cName)}</span>`}</div>`;
         return `<article class="cast-card">${inner}${c.description ? `<p class="cast-teaser">${D.esc(c.description)}</p>` : ""}</article>`;
       }).join("");
@@ -68,7 +67,8 @@
         const img = e.image || (e.images && e.images[0]) || "";
         const title = e.title && e.title.trim() ? e.title : `قسمت ${D.fmtInt(e.number)}`;
         const summary = e.summary && e.summary.trim() ? e.summary : "خلاصه به‌زودی افزوده می‌شود.";
-        return `<article class="episode-card"><a class="episode-image ${img ? "" : "no-image"}" href="${href}" ${img ? `style="background-image:url('${img}')"` : ""}>${img ? "" : "<span>بدون تصویر</span>"}</a><div class="episode-copy"><div class="episode-meta"><span>قسمت ${D.fmtInt(e.number)}</span><span>${D.isoToFa(e.date)}</span></div><h3><a href="${href}">${title}</a></h3><p>${summary}</p>${D.ratingPills(modes, ratings)}<a class="ep-open" href="${href}">صفحهٔ کامل قسمت ←</a></div></article>`;
+        const ext = e.watchUrl || (d.official && d.official.episodes);
+        return `<article class="episode-card"><a class="episode-image ${img ? "" : "no-image"}" href="${href}" ${img ? `style="background-image:url('${D.esc(img)}')"` : ""}>${img ? "" : "<span>بدون تصویر</span>"}</a><div class="episode-copy"><div class="episode-meta"><span>قسمت ${D.fmtInt(e.number)}</span><span>${D.isoToFa(e.date)}</span></div><h3><a href="${href}">${D.esc(title)}</a></h3><p>${D.esc(summary)}</p>${D.ratingPills(modes, ratings)}<div class="episode-actions"><a class="ep-open" href="${href}">خلاصه و عکس‌ها ←</a>${ext ? `<a href="${D.esc(ext)}" target="_blank" rel="noopener noreferrer">تماشای قسمت ↗</a>` : ""}${e.fragman ? `<a href="${D.esc(e.fragman)}" target="_blank" rel="noopener noreferrer">تیزر ↗</a>` : ""}</div></div></article>`;
       }).join("");
     } else { $("#episodes").innerHTML = `<div class="notice">قسمت‌های این ${d.kind === "entertainment" ? "برنامه" : "سریال"} به‌زودی ثبت می‌شوند.</div>`; }
   } catch (e) { console.error(e); const el = $("#synopsis"); if (el) el.textContent = "اطلاعات این سریال موقتاً در دسترس نیست."; }

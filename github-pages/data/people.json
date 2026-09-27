@@ -4,7 +4,11 @@
     "nameFa": "مورات اونالمیش",
     "photo": "https://im.showtv.com.tr/5/8233/murat-unalmis-500x500.png?v=1788170289",
     "bio": "مورات اونالمیش بازیگر سینما و تلویزیون ترکیه است. او در سریال‌های «عشق زمین و آسمان» و «روزی روزگاری در چوکوروا» نقش‌های اصلی داشت و در «گل‌جمال» شخصیت اصلی را بازی کرد. در مشکی مدیا نقش میرزا در «سِودان بیر آتش» نیز به کارنامه‌اش پیوند خورده است.",
-    "source": "https://www.nowtv.com.tr/murat-unalmis-kimdir"
+    "source": "https://www.nowtv.com.tr/murat-unalmis-kimdir",
+    "socials": {
+      "instagram": "https://www.instagram.com/mrtunlms/",
+      "x": "https://twitter.com/mrtunalmis"
+    }
   },
   "ozge-ozacar": {
     "name": "Özge Özacar",
@@ -23,65 +27,83 @@
   "sitare-akbas": {
     "name": "Sitare Akbaş",
     "nameFa": "سیتاره آکباش",
-    "photo": "",
+    "photo": "https://im.showtv.com.tr/5/8241/sitare-akbas-500x500.png?v=1788272451",
     "bio": "سیتاره آکباش بازیگر نقش دستان کیزیل‌ایرماک در سریال «سِودان بیر آتش» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087"
+    "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087",
+    "photoSource": "https://www.showtv.com.tr/dizi/oyuncular/sevdan-bir-ates/3087"
   },
   "taner-rumeli": {
     "name": "Taner Rumeli",
     "nameFa": "تانر رومه‌لی",
-    "photo": "",
+    "photo": "https://im.showtv.com.tr/5/8242/taner-rumeli-500x500.png?v=1788272758",
     "bio": "تانر رومه‌لی بازیگر نقش یامان در سریال «سِودان بیر آتش» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087"
+    "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087",
+    "photoSource": "https://www.showtv.com.tr/dizi/oyuncular/sevdan-bir-ates/3087"
   },
   "sezin-bozaci": {
     "name": "Sezin Bozacı",
     "nameFa": "سزین بوزاجی",
-    "photo": "",
+    "photo": "https://im.showtv.com.tr/5/8243/sezin-bozaci-500x500.png?v=1788354159",
     "bio": "سزین بوزاجی بازیگر نقش ماجیده در سریال «سِودان بیر آتش» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087"
+    "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087",
+    "photoSource": "https://www.showtv.com.tr/dizi/oyuncular/sevdan-bir-ates/3087"
   },
   "ozan-akbaba": {
     "name": "Ozan Akbaba",
     "nameFa": "اوزان آکبابا",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8fdcf62483f9cfa5e19.jpg",
     "bio": "اوزان آکبابا بازیگر نقش جیهان آلبورا در سریال «شهر دور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+    "photoSource": "https://www.kanald.com.tr/uzak-sehir/oyuncular/ozan-akbaba",
+    "socials": {
+      "instagram": "https://www.instagram.com/ozanakbaba/"
+    }
   },
   "sinem-unsal": {
     "name": "Sinem Ünsal",
     "nameFa": "سینم اونسال",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8f6cf62483f9cfa5e16.jpg",
     "bio": "سینم اونسال بازیگر نقش آلیا اسمیت آلبورا در سریال «شهر دور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+    "photoSource": "https://www.kanald.com.tr/uzak-sehir/oyuncular/sinem-unsal",
+    "socials": {
+      "instagram": "https://www.instagram.com/sinemunsal/"
+    }
   },
   "mufit-kayacan": {
     "name": "Müfit Kayacan",
     "nameFa": "مؤفیت کایاجان",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8e2cf62483f9cfa5e0d.jpg",
     "bio": "مؤفیت کایاجان بازیگر نقش اجمل آلبورا در سریال «شهر دور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+    "photoSource": "https://www.kanald.com.tr/uzak-sehir/oyuncular/mufit-kayacan"
   },
   "ferit-kaya": {
     "name": "Ferit Kaya",
     "nameFa": "فریت کایا",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8d3cf62483f9cfa5e07.jpg",
     "bio": "فریت کایا بازیگر نقش دمیر بای‌بارس در سریال «شهر دور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+    "photoSource": "https://www.kanald.com.tr/uzak-sehir/oyuncular/ferit-kaya"
   },
   "kuzey-gezer": {
     "name": "Kuzey Gezer",
     "nameFa": "کوزی گزر",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8e8cf62483f9cfa5e10.jpg",
     "bio": "کوزی گزر بازیگر نقش دنیز جیهان آلبورا در سریال «شهر دور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+    "photoSource": "https://www.kanald.com.tr/uzak-sehir/oyuncular/kuzey-gezer"
   },
   "atakan-ozkaya": {
     "name": "Atakan Özkaya",
     "nameFa": "آتاکان اوزکایا",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8c4cf62483f9cfa5e01.jpg",
     "bio": "آتاکان اوزکایا بازیگر نقش کایا آلبورا در سریال «شهر دور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+    "photoSource": "https://www.kanald.com.tr/uzak-sehir/oyuncular/atakan-ozkaya",
+    "socials": {
+      "instagram": "https://www.instagram.com/ozkayatakan/"
+    }
   },
   "fikret-kuskan": {
     "name": "Fikret Kuşkan",
@@ -128,30 +150,34 @@
   "gonca-cilasun": {
     "name": "Gonca Cilasun",
     "nameFa": "گونجا جیلاسون",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8f0cf62483f9cfa5e13.jpg",
     "bio": "گونجا جیلاسون بازیگر نقش صداقت آلبورا در سریال «شهر دور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+    "photoSource": "https://www.kanald.com.tr/uzak-sehir/oyuncular/gonca-cilasun"
   },
   "alper-cankaya": {
     "name": "Alper Çankaya",
     "nameFa": "آلپر چانکایا",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8d9cf62483f9cfa5e0a.jpg",
     "bio": "آلپر چانکایا بازیگر نقش شاهین آلبورا در سریال «شهر دور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+    "photoSource": "https://www.kanald.com.tr/uzak-sehir/oyuncular/alper-cankaya"
   },
   "sahra-sas": {
     "name": "Sahra Şaş",
     "nameFa": "صحرا شاش",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8cbcf62483f9cfa5e04.jpg",
     "bio": "صحرا شاش بازیگر نقش ناره آلبورا بولوت در سریال «شهر دور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+    "photoSource": "https://www.kanald.com.tr/uzak-sehir/oyuncular/sahra-sas"
   },
   "dilin-doger": {
     "name": "Dilin Döğer",
     "nameFa": "دیلین دوئر",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8bdcf62483f9cfa5dfe.jpg",
     "bio": "دیلین دوئر بازیگر نقش زرین آلبورا در سریال «شهر دور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+    "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+    "photoSource": "https://www.kanald.com.tr/uzak-sehir/oyuncular/dilin-doger"
   },
   "akin-akinozu": {
     "name": "Akın Akınözü",
@@ -240,65 +266,74 @@
   "kerem-alisik": {
     "name": "Kerem Alışık",
     "nameFa": "کرم آلیشیک",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82eef9ff409388416e9f35.jpg",
     "bio": "کرم آلیشیک بازیگر نقش صادق کارلی‌اوا در سریال «حیثیت» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.kanald.com.tr/haysiyet/"
+    "source": "https://www.kanald.com.tr/haysiyet/",
+    "photoSource": "https://www.kanald.com.tr/haysiyet/oyuncular/kerem-alisik"
   },
   "dogukan-gungor": {
     "name": "Doğukan Güngör",
     "nameFa": "دوغوکان گونگور",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82ee7dff409388416e9f14.jpg",
     "bio": "دوغوکان گونگور بازیگر نقش محمد کارلی‌اوا در سریال «حیثیت» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.kanald.com.tr/haysiyet/"
+    "source": "https://www.kanald.com.tr/haysiyet/",
+    "photoSource": "https://www.kanald.com.tr/haysiyet/oyuncular/dogukan-gungor"
   },
   "reha-ozcan": {
     "name": "Reha Özcan",
     "nameFa": "رها اوزجان",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82ef19ff409388416e9f3b.jpg",
     "bio": "رها اوزجان بازیگر نقش هالوک تارمان در سریال «حیثیت» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.kanald.com.tr/haysiyet/"
+    "source": "https://www.kanald.com.tr/haysiyet/",
+    "photoSource": "https://www.kanald.com.tr/haysiyet/oyuncular/reha-ozcan"
   },
   "murat-yildirim": {
     "name": "Murat Yıldırım",
     "nameFa": "مورات ییلدیریم",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/68cb0a80eb665959b9b4a9d9.jpg",
     "bio": "مورات ییلدیریم بازیگر نقش سرحات در سریال «گل‌ها و گناهان» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular"
+    "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular",
+    "photoSource": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/murat-yildirim"
   },
   "cemre-baysel": {
     "name": "Cemre Baysel",
     "nameFa": "جمره بایسل",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/68cb0a0ceb665959b9b4a9d2.jpg",
     "bio": "جمره بایسل بازیگر نقش زینب در سریال «گل‌ها و گناهان» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular"
+    "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular",
+    "photoSource": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/cemre-baysel"
   },
   "oya-unustasi": {
     "name": "Oya Unustası",
     "nameFa": "اویا اونوستاسی",
-    "photo": "",
+    "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/68cb0b0ceb665959b9b4a9e0.jpg",
     "bio": "اویا اونوستاسی بازیگر نقش برّاک در سریال «گل‌ها و گناهان» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular"
+    "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular",
+    "photoSource": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/oya-unustasi"
   },
   "baris-kilic": {
     "name": "Barış Kılıç",
     "nameFa": "باریش کیلیچ",
-    "photo": "",
+    "photo": "https://im.showtv.com.tr/5/8035/baris-kilic-500x500.png?v=1789645083",
     "bio": "باریش کیلیچ بازیگر نقش عمر اونال در سریال «شربت زغال‌اخته» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875"
+    "source": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875",
+    "photoSource": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875"
   },
   "evrim-alasya": {
     "name": "Evrim Alasya",
     "nameFa": "اوریم آلاسیا",
-    "photo": "",
+    "photo": "https://im.showtv.com.tr/5/8034/evrim-alasya-500x500.png?v=1789645044",
     "bio": "اوریم آلاسیا بازیگر نقش کیویلجیم ارسلان در سریال «شربت زغال‌اخته» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875"
+    "source": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875",
+    "photoSource": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875"
   },
   "ahmet-mumtaz-taylan": {
     "name": "Ahmet Mümtaz Taylan",
     "nameFa": "احمد ممتاز تایلان",
-    "photo": "",
+    "photo": "https://im.showtv.com.tr/5/8128/ahmet-mumtaz-taylan-500x500.png?v=1789645129",
     "bio": "احمد ممتاز تایلان بازیگر نقش عبدالله اونال در سریال «شربت زغال‌اخته» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875"
+    "source": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875",
+    "photoSource": "https://www.showtv.com.tr/dizi/oyuncular/kizilcik-serbeti/2875"
   },
   "nebahat-cehre": {
     "name": "Nebahat Çehre",
@@ -317,9 +352,10 @@
   "bugra-gulsoy": {
     "name": "Buğra Gülsoy",
     "nameFa": "بوغرا گولسوی",
-    "photo": "",
+    "photo": "https://media.startv.com.tr/star-tv/images/3(244).jpg?width=220&height=220&format=webp&quality=85",
     "bio": "بوغرا گولسوی بازیگر نقش محمد آیدین‌اوغلو در سریال «قهوهٔ شور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/oyuncular"
+    "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/oyuncular",
+    "photoSource": "https://www.startv.com.tr/dizi/tuzlu-kahve"
   },
   "aytac-sasmaz": {
     "name": "Aytaç Şaşmaz",
@@ -338,85 +374,100 @@
   "berk-atan": {
     "name": "Berk Atan",
     "nameFa": "برک آتان",
-    "photo": "",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/webp/w533/h800/q75/ftp-trt1-trt1-public-dm_upload-modul11-efb05c75-8fa2-4457-b300-072dbedfd384jpg-21289217.jpeg",
     "bio": "برک آتان بازیگر نقش تانر در سریال «کوه دل» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu"
+    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu",
+    "photoSource": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/taner",
+    "socials": {
+      "instagram": "https://www.instagram.com/berkatan/"
+    }
   },
   "cihat-suvarioglu": {
     "name": "Cihat Süvarioğlu",
     "nameFa": "جیهات سوواری‌اوغلو",
-    "photo": "",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/webp/w533/h800/q75/ftp-trt1-trt1-public-dm_upload-modul11-ecb7be3f-22ce-425c-94cc-370b10a17a89jpg-21289114.jpeg",
     "bio": "جیهات سوواری‌اوغلو بازیگر نقش رمضان در سریال «کوه دل» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu"
+    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu",
+    "photoSource": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/ramazan"
   },
   "semih-erturk": {
     "name": "Semih Ertürk",
     "nameFa": "سمیح ارتورک",
-    "photo": "",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/webp/w533/h800/q75/ftp-trt1-trt1-public-dm_upload-modul11-ebbedb5a-fb6a-4f0a-be02-d07ce63ce75ajpg-21289214.jpeg",
     "bio": "سمیح ارتورک بازیگر نقش ویصل در سریال «کوه دل» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu"
+    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu",
+    "photoSource": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/veysel"
   },
   "cihangir-ceyhan": {
     "name": "Cihangir Ceyhan",
     "nameFa": "جهانگیر جیهان",
-    "photo": "",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Anne-Yarisi/Oyuncular/Anne-Yarisi-act-image-efb18bfc-489a-44af-93b5-46c8d0a0d195.jpg",
     "bio": "جهانگیر جیهان بازیگر نقش علی آلتای در سریال «نیمهٔ مادر» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular"
+    "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular",
+    "photoSource": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular"
   },
   "burcu-ozberk": {
     "name": "Burcu Özberk",
     "nameFa": "بورجو اوزبرک",
-    "photo": "",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Anne-Yarisi/Oyuncular/Anne-Yarisi-act-image-37fc0c11-fc65-4f81-abdb-b256dba53e2e.jpg",
     "bio": "بورجو اوزبرک بازیگر نقش زینب آکسوی در سریال «نیمهٔ مادر» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular"
+    "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular",
+    "photoSource": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular"
   },
   "esra-dermancioglu": {
     "name": "Esra Dermancıoğlu",
     "nameFa": "اسرا درمانجی‌اوغلو",
-    "photo": "",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Anne-Yarisi/Oyuncular/Anne-Yarisi-act-image-94035648-ba20-49bd-bdd3-216c219d74eb.jpg",
     "bio": "اسرا درمانجی‌اوغلو بازیگر نقش مریم آلتای در سریال «نیمهٔ مادر» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular"
+    "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular",
+    "photoSource": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular"
   },
   "nurgul-yesilcay": {
     "name": "Nurgül Yeşilçay",
     "nameFa": "نورگول یشیلچای",
-    "photo": "",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790347104_picture.jpg",
     "bio": "نورگول یشیلچای بازیگر نقش عمر اوچار در سریال «اوستا عمور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.nowtv.com.tr/Omur-Usta/bilgi"
+    "source": "https://www.nowtv.com.tr/Omur-Usta/bilgi",
+    "photoSource": "https://www.nowtv.com.tr/Omur-Usta/oyuncular"
   },
   "bulent-inal": {
     "name": "Bülent İnal",
     "nameFa": "بولنت اینال",
-    "photo": "",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346668_picture.jpg",
     "bio": "بولنت اینال بازیگر نقش تونچ آریکان در سریال «اوستا عمور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.nowtv.com.tr/Omur-Usta/bilgi"
+    "source": "https://www.nowtv.com.tr/Omur-Usta/bilgi",
+    "photoSource": "https://www.nowtv.com.tr/Omur-Usta/oyuncular"
   },
   "gonca-vuslateri": {
     "name": "Gonca Vuslateri",
     "nameFa": "گونجا ووسلاتری",
-    "photo": "",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346696_picture.jpg",
     "bio": "گونجا ووسلاتری بازیگر نقش نورا در سریال «اوستا عمور» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.nowtv.com.tr/Omur-Usta/bilgi"
+    "source": "https://www.nowtv.com.tr/Omur-Usta/bilgi",
+    "photoSource": "https://www.nowtv.com.tr/Omur-Usta/oyuncular"
   },
   "deniz-can-aktas": {
     "name": "Deniz Can Aktaş",
     "nameFa": "دنیز جان آکتاش",
-    "photo": "",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-6f517cf7-6f19-4e6f-96ab-cbdd83cdd84e.jpg",
     "bio": "دنیز جان آکتاش بازیگر نقش حیدرعلی اصلان در سریال «زیرزمین» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular"
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular",
+    "photoSource": "https://www.nowtv.com.tr/Yeralti/oyuncular"
   },
   "devrim-ozkan": {
     "name": "Devrim Özkan",
     "nameFa": "دوریم اوزکان",
-    "photo": "",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-bbe54fa5-8d91-4b3c-9342-71ad73ebc624.jpg",
     "bio": "دوریم اوزکان بازیگر نقش حالیده جیلان در سریال «زیرزمین» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular"
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular",
+    "photoSource": "https://www.nowtv.com.tr/Yeralti/oyuncular"
   },
   "uraz-kaygilaroglu": {
     "name": "Uraz Kaygılaroğlu",
     "nameFa": "اوراز کایگیلاراوغلو",
-    "photo": "",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-d6e0d4c6-3490-4ff0-9a3c-bc0779540fcc.jpg",
     "bio": "اوراز کایگیلاراوغلو بازیگر نقش بوزکورت هان‌اوغلو در سریال «زیرزمین» است. آثار دیگر او پس از ثبت و تأیید به این کارنامه اضافه می‌شوند.",
-    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular"
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular",
+    "photoSource": "https://www.nowtv.com.tr/Yeralti/oyuncular"
   }
 }

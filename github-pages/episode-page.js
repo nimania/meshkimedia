@@ -65,8 +65,10 @@
     // Links: fragman + official source
     const links = [];
     const fragman = ep.fragman || s.fragman;
-    if (fragman) links.push(`<a class="btn-primary" href="${fragman}" target="_blank" rel="noreferrer">▶ تماشای فراگمان</a>`);
-    if (ep.source) links.push(`<a class="btn-ghost" href="${ep.source}" target="_blank" rel="noreferrer">منبع رسمی قسمت ↗</a>`);
+    if (ep.watchUrl) links.push(`<a class="btn-primary" href="${D.esc(ep.watchUrl)}" target="_blank" rel="noopener noreferrer">▶ تماشای قسمت در شبکه</a>`);
+    else if (s.official && s.official.episodes) links.push(`<a class="btn-primary" href="${D.esc(s.official.episodes)}" target="_blank" rel="noopener noreferrer">قسمت‌ها در شبکه ↗</a>`);
+    if (fragman) links.push(`<a class="btn-ghost" href="${D.esc(fragman)}" target="_blank" rel="noopener noreferrer">${ep.fragman ? '▶ تماشای تیزر قسمت' : 'فراگمان‌های سریال ↗'}</a>`);
+    if (ep.source && ep.source !== ep.watchUrl) links.push(`<a class="btn-ghost" href="${D.esc(ep.source)}" target="_blank" rel="noopener noreferrer">منبع خلاصه ↗</a>`);
     $("#ep-links").innerHTML = links.join("");
 
     // Prev / next episode nav
