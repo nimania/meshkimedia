@@ -6,12 +6,14 @@
   const R = D.ROOT;
   const esc = D.esc;
   const $ = (s) => document.querySelector(s);
-  const WEEK = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]; // same scale as series.dayIndex (0 = Monday)
-  let data;
+  let data, calendar;
 
   // ---- time helpers -----------------------------------------------------------
-  const trWeekday = (addDays = 0) =>
-    WEEK.indexOf(new Intl.DateTimeFormat("en-US", { timeZone: "Europe/Istanbul", weekday: "short" }).format(new Date(Date.now() + addDays * 864e5)));
+  const trToday = () => {
+    const parts = new Intl.DateTimeFormat("en-US", { timeZone: "Europe/Istanbul", year: "numeric", month: "2-digit", day: "2-digit" }).formatToParts(new Date());
+    const value = (type) => parts.find((part) => part.type === type).value;
+    return `${value("year")}-${value("month")}-${value("day")}`;
+  };
   const tiakToIso = (d) => { const [dd, mm, yy] = String(d || "").split("."); return yy ? `${yy}-${mm}-${dd}` : ""; };
   const faFmt = (iso, opts) => (iso ? new Intl.DateTimeFormat("fa-IR", opts).format(new Date(iso + "T12:00:00")) : "");
   const faWeekday = (iso) => faFmt(iso, { weekday: "long" });
@@ -91,20 +93,34 @@
     el.classList.remove("is-loading");
   }
 
-  function renderTonight(list, when, offset) {
-    $("#tonight-title").textContent = `${when} از تلویزیون ترکیه`;
+  function renderTonight(date, today) {
     const el = $("#tonight-list");
-    if (!list.length) { el.innerHTML = `<div class="notice">برنامهٔ پخش این هفته هنوز ثبت نشده است.</div>`; return; }
-    el.innerHTML = list.map((s) => {
-      const t = airTime(s);
-      const net = netOf(s);
-      const time = t
-        ? `<span class="tonight-time"><b>${t.ir}</b><small>به وقت ایران</small></span>`
-        : `<span class="tonight-time"><b>${offset === 0 ? "امشب" : offset === 1 ? "فردا" : esc(when)}</b><small>${net ? esc(net.name) : ""}</small></span>`;
-      const note = isOnAir(s) ? (t ? `ترکیه ${t.tr}` : "") : esc(s.status);
-      return `<a class="tonight-item" href="${R}dizi/${s.slug}/">${art(s, { title: false })}`
-        + `<span class="tonight-copy"><strong>${esc(s.titleFa)}</strong><span dir="ltr">${esc(s.titleTr)}</span>${note ? `<em>${note}</em>` : ""}</span>`
-        + `${time}</a>`;
+    if (!calendar) {
+      $("#tonight-title").textContent = "برنامهٔ پخش";
+      el.innerHTML = '<div class="notice">دادهٔ تقویم موقتاً در دسترس نیست.</div>';
+      return;
+    }
+    const checked = calendar.source?.checkedAt ? ` · بررسی ${D.isoToFa(calendar.source.checkedAt)}` : "";
+    $("#tonight-source").textContent = `منبع: Dizilah${checked}`;
+    if (!date) {
+      $("#tonight-title").textContent = "برنامهٔ پخش آینده";
+      el.innerHTML = '<div class="notice">برنامهٔ روزهای آینده هنوز در تقویم ثبت نشده است.</div>';
+      return;
+    }
+    const when = date === today ? "امشب" : `روز ${faWeekday(date)} ${faDayMonth(date)}`;
+    $("#tonight-title").textContent = `${when} از تلویزیون ترکیه`;
+    el.innerHTML = calendar.days[date].map((entry) => {
+      const s = data.series[entry.slug] || calendar.shows?.[entry.slug];
+      if (!s) return "";
+      const show = { ...s, slug: entry.slug, titleFa: s.titleFa || s.titleTr };
+      const net = netOf(show);
+      const known = Boolean(data.series[entry.slug]);
+      const episode = known ? D.allEpisodes(show).find((e) => e.date === date) : null;
+      const href = known ? `${R}dizi/${show.slug}/${episode ? `bolum-${episode.number}/` : ""}` : calendar.source.url;
+      const note = `فصل ${D.fmtInt(entry.season)} · قسمت ${D.fmtInt(entry.episode)}`;
+      return `<a class="tonight-item" href="${esc(href)}"${known ? "" : ' target="_blank" rel="noopener noreferrer"'}>${art(show, { title: false })}`
+        + `<span class="tonight-copy"><strong>${esc(show.titleFa)}</strong>${s.titleFa ? `<span dir="ltr">${esc(s.titleTr)}</span>` : ""}<em>${note}${entry.premiere === "series" ? " · شروع سریال" : ""}</em></span>`
+        + `<span class="tonight-time"><b>${D.fmtInt(entry.episode)}</b><small>${net ? esc(net.name) : "قسمت"}</small></span></a>`;
     }).join("");
   }
 
@@ -147,12 +163,15 @@
   }
 
   function renderPosters(today) {
-    const order = (s) => (s.dayIndex == null || s.dayIndex < 0 || s.dayIndex > 6 ? 99 : (s.dayIndex - today + 7) % 7);
+    const upcoming = new Map();
+    Object.keys(calendar?.days || {}).sort().filter((date) => date >= today).forEach((date) =>
+      calendar.days[date].forEach((entry) => { if (!upcoming.has(entry.slug)) upcoming.set(entry.slug, date); }));
+    const order = (s) => upcoming.get(s.slug) || "9999-99-99";
     const all = Object.values(data.series).slice().sort((a, b) =>
-      (isOnAir(b) ? 1 : 0) - (isOnAir(a) ? 1 : 0) || order(a) - order(b) || a.titleFa.localeCompare(b.titleFa, "fa"));
+      order(a).localeCompare(order(b)) || a.titleFa.localeCompare(b.titleFa, "fa"));
     $("#poster-grid").innerHTML = all.map((s) => {
       const net = netOf(s);
-      const badge = isOnAir(s) ? (order(s) === 0 ? `<span class="art-badge hot">امشب</span>` : "") : `<span class="art-badge">${esc(s.status)}</span>`;
+      const badge = order(s) === today ? '<span class="art-badge hot">امشب</span>' : !isOnAir(s) ? `<span class="art-badge">${esc(s.status)}</span>` : "";
       const sub = s.airing || (net ? net.name : "");
       return `<a class="poster" href="${R}dizi/${s.slug}/">${art(s, { badge })}<span class="poster-sub">${esc(sub)}</span></a>`;
     }).join("");
@@ -167,27 +186,22 @@
 
   // ---- boot ---------------------------------------------------------------------
   try {
+    const calendarRequest = fetch(`${R}data/calendar.json?v=${Date.now()}`, { cache: "no-store" })
+      .then((response) => { if (!response.ok) throw new Error(`Calendar HTTP ${response.status}`); return response.json(); })
+      .catch((error) => { console.error("Calendar unavailable", error); return null; });
     data = await D.loadData();
+    calendar = await calendarRequest;
     const all = Object.values(data.series);
-    const today = trWeekday();
-
-    // Tonight in Turkey; if nothing is scheduled today, the next day that has something.
-    let offset = 0, tonight = [];
-    for (; offset < 7; offset++) {
-      const idx = (today + offset) % 7;
-      tonight = all.filter((s) => s.kind === "series" && s.dayIndex === idx);
-      if (tonight.length) break;
-    }
-    if (!tonight.length) offset = 0;
-    tonight.sort((a, b) => (isOnAir(b) ? 1 : 0) - (isOnAir(a) ? 1 : 0) || (a.time || "99").localeCompare(b.time || "99"));
-    const when = offset === 0 ? "امشب" : offset === 1 ? "فردا شب" : `${D.WEEKDAYS_FA[(today + offset) % 7]} شب`;
+    const today = trToday();
+    const nextDate = Object.keys(calendar?.days || {}).sort().find((date) => date >= today);
+    const scheduled = nextDate ? calendar.days[nextDate].map((entry) => data.series[entry.slug]).filter(Boolean) : [];
 
     const rated = seriesLatestRatings().map((x) => x.s);
-    const spot = tonight.find((s) => seriesImage(s) && isOnAir(s)) || tonight.find((s) => s.synopsis && isOnAir(s))
+    const spot = scheduled.find((s) => seriesImage(s) && isOnAir(s)) || scheduled.find((s) => s.synopsis && isOnAir(s))
       || all.find((s) => seriesImage(s) && s.synopsis) || rated[0] || all[0];
-    if (spot) renderSpotlight(spot, tonight.includes(spot) ? when : "");
+    if (spot) renderSpotlight(spot, nextDate === today && scheduled.includes(spot) ? "امشب" : "");
 
-    renderTonight(tonight, when, offset);
+    renderTonight(nextDate, today);
     renderTop();
     renderFresh();
     renderPosters(today);
