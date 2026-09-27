@@ -22,7 +22,7 @@ Full, open documentation lives in [`docs/`](./docs):
 - Every fact keeps provenance, fetch time, content hash, and confidence.
 - Primary sources win conflicts. TİAK and official broadcasters are primary; Dizilah is a valuable secondary discovery and cross-check source.
 - Raw source documents live in R2; structured, searchable records live in D1.
-- The public site never republishes full copyrighted articles, subtitles, episodes, or source pages.
+- The public site never republishes full copyrighted articles, subtitles, episodes, or source pages. Official gallery images are linked from their broadcaster-hosted URLs with attribution.
 
 ## Current slice
 

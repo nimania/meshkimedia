@@ -54,8 +54,11 @@ Map of `slug → series`. Episodes carry photos and the trailer (`fragman`).
     "airing": "چهارشنبه‌ها ساعت ۲۰:۰۰",
     "genre": ["درام", "عاشقانه"],
     "hero": "https://…/hero.jpg",       // large cover image (optional)
+    "photos": ["https://…/series-still.jpg"], // official series gallery photos
+    "photosSource": "https://…/official-gallery", // attribution for those photos
     "fragman": "https://…",             // series trailer page (optional)
     "synopsis": "…",
+    "synopsisSource": "https://…/official-story", // evidence for the Persian synopsis
     "official": { "website": "…", "episodes": "…", "youtube": "…" },
     "cast": [{ "name": "Murat Ünalmış", "nameFa": "مورات اونالمیش", "role": "Mirza Kozaklı", "roleFa": "میرزا کوزاکلی", "image": "…" }],
     "seasons": [
@@ -69,6 +72,7 @@ Map of `slug → series`. Episodes carry photos and the trailer (`fragman`).
             "title": "بازگشت به خانه",   // optional
             "image": "https://…",         // main still (optional)
             "images": ["https://…"],      // gallery (optional)
+            "photosSource": "https://…/official-episode-gallery",
             "fragman": "https://…",       // episode trailer (optional; falls back to series.fragman)
             "summary": "…",               // recap (optional)
             "source": "https://…"          // official episode page
@@ -133,6 +137,14 @@ configured).
    node automation/build-site.mjs
    ```
 4. Commit and push. The Pages workflow redeploys.
+
+For a complete profile, add a verified Persian synopsis and a link to its official
+source; an official cover and a sourced series gallery; and, for every published
+episode, an original Persian summary, its exact broadcaster episode URL, and
+multiple photos from that episode's broadcaster gallery. The episode date and
+number must be checked against the broadcaster, rather than inferred from the
+weekly schedule. `node automation/audit-content.mjs` reports the remaining gaps;
+`--require <slug>` turns completeness into a publication gate for a curated show.
 
 To add an episode, push a new object into the series’ `seasons[].episodes` with at
 least `number` and `date`; a page at `/dizi/<slug>/bolum-<number>/` is generated,

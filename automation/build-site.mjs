@@ -1,6 +1,6 @@
 // Generates the whole static site (pages + SEO + sitemap + search index) from JSON.
 // Data-driven: edit github-pages/data/*.json and re-run.
-import { mkdir, readFile, writeFile, rm } from "node:fs/promises";
+import { mkdir, readFile, writeFile, rm, readdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 
 const PAGES = new URL("../github-pages/", import.meta.url);
@@ -68,7 +68,7 @@ function head(root, { title, desc, path, ogImage, jsonld, ogType = "website" }) 
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(desc)}"><meta name="twitter:image" content="${img}">
 <link rel="icon" href="${root}images/meshki-media-logo.png" type="image/png"><link rel="apple-touch-icon" href="${root}images/meshki-media-logo.png">
 <link rel="preload" href="${root}vazirmatn.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="${root}styles.css?v=20260923a">
+<link rel="stylesheet" href="${root}styles.css?v=20260927a">
 <script>try{var t=localStorage.getItem("dizimeter-theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>${ld}
 </head>
 <body>
@@ -76,8 +76,8 @@ function head(root, { title, desc, path, ogImage, jsonld, ogType = "website" }) 
 ${SITE_NAV(root, path.split("/")[0] === "" ? "" : (path.split("/").slice(0, 1)[0] + "/"))}`;
 }
 const boot = (root, obj, scripts) => `<script>window.DM=${JSON.stringify(Object.assign({ root }, obj))};</script>
-<script src="${root}dizimeter.js?v=20260923a" defer></script>
-${scripts.map((s) => `<script src="${root}${s}?v=20260923a" defer></script>`).join("\n")}
+<script src="${root}dizimeter.js?v=20260927a" defer></script>
+${scripts.map((s) => `<script src="${root}${s}?v=20260927a" defer></script>`).join("\n")}
 </body></html>
 `;
 const BOTTOM = (root, items) => `<nav class="bottom-nav">${items.map(([h, b, t, on]) => `<a href="${root}${h}"${on ? ' class="active"' : ""}><b>${b}</b><span>${t}</span></a>`).join("")}</nav>`;
@@ -107,12 +107,13 @@ function seriesPage(s) {
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}diziler/">سریال‌ها</a><span>/</span><span id="net-badge"></span></div>
-<section id="profile-hero" class="profile-hero"><div class="hero-cover"></div><div class="profile-title">
+<section id="profile-hero" class="profile-hero"><img class="hero-cover" alt="" referrerpolicy="no-referrer"><div class="profile-title">
 <div class="profile-tags"><span id="kind-tag">سریال</span><span id="status"></span></div>
 <h1 id="title-fa">${esc(s.titleFa)}</h1><p id="title-tr" dir="ltr">${esc(s.titleTr)}</p>
 <div class="profile-facts"><span id="network"></span><span id="airing"></span><span id="studio"></span></div>
 <div id="genre" class="genre-chips"></div></div></section>
-<section class="profile-section"><div class="section-kicker">داستان</div><p id="synopsis" class="synopsis"></p><div id="official-links" class="official-links"></div></section>
+<section class="profile-section"><div class="section-kicker">داستان</div><p id="synopsis" class="synopsis"></p><a id="synopsis-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع داستان ↗</a><div id="official-links" class="official-links"></div></section>
+<section id="series-gallery-section" class="profile-section" hidden><div class="section-headline"><div><span>تصاویر رسمی</span><h2>عکس‌های سریال</h2></div><a id="series-gallery-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع عکس‌ها ↗</a></div><div id="series-gallery" class="gallery"></div></section>
 <section id="cast-section" class="profile-section"><div class="section-headline"><div><span>بازیگران و کاراکترها</span><h2>کست اصلی</h2></div><small>منبع: شبکهٔ پخش</small></div><div id="cast" class="cast-grid"></div></section>
 <section class="profile-section"><div class="section-headline"><div><span>قسمت‌ها</span><h2>ری‌کپ و ریتینگ قسمت‌ها</h2></div><small>Total · AB · ABC1</small></div><div id="episodes" class="episodes"></div></section>
 </main>
@@ -133,9 +134,9 @@ function episodePage(s, ep) {
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a id="crumb-series" href="#">سریال</a><span>/</span><span>قسمت ${ep.number}</span></div>
-<section id="ep-hero" class="ep-hero"><span id="ep-badge" class="net-chip"></span><div class="ep-hero-copy"><p class="ep-kicker" id="ep-kicker"></p><h1 id="ep-title">قسمت ${ep.number}</h1><div class="ep-facts" id="ep-facts"></div></div></section>
+<section id="ep-hero" class="ep-hero"><img class="ep-hero-image" alt="" referrerpolicy="no-referrer"><span id="ep-badge" class="net-chip"></span><div class="ep-hero-copy"><p class="ep-kicker" id="ep-kicker"></p><h1 id="ep-title">قسمت ${ep.number}</h1><div class="ep-facts" id="ep-facts"></div></div></section>
 <section class="ep-block ratings-big"><span class="kicker">ریتینگ این قسمت</span><h2>Total · AB · ABC1</h2><div id="ep-ratings"></div><p class="ratings-note" id="ratings-note"></p></section>
-<section id="gallery-section" class="ep-block"><span class="kicker">تصاویر قسمت</span><h2>گالری</h2><div id="ep-gallery" class="gallery"></div></section>
+<section id="gallery-section" class="ep-block"><span class="kicker">تصاویر قسمت</span><h2>گالری</h2><div id="ep-gallery" class="gallery"></div><a id="ep-gallery-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع عکس‌ها در شبکهٔ پخش ↗</a></section>
 <section class="ep-block"><span class="kicker">خلاصهٔ قسمت (ری‌کپ)</span><h2>چه گذشت؟</h2><p id="ep-summary" class="ep-summary"></p><div id="ep-links" class="ep-links"></div></section>
 <div id="ep-nav" class="ep-nav"></div>
 </main>
@@ -253,10 +254,17 @@ urls.push({ loc: `${BASE}/kanal/`, pri: "0.7" });
 
 for (const s of seriesArr) {
   await mkdir(p(`dizi/${s.slug}/`), { recursive: true });
+  const episodes = (s.seasons || []).flatMap((season) => season.episodes || []);
+  const validEpisodeDirs = new Set(episodes.map((ep) => `bolum-${ep.number}`));
+  for (const entry of await readdir(p(`dizi/${s.slug}/`), { withFileTypes: true })) {
+    if (entry.isDirectory() && /^bolum-\d+$/.test(entry.name) && !validEpisodeDirs.has(entry.name)) {
+      await rm(p(`dizi/${s.slug}/${entry.name}/`), { recursive: true, force: true });
+    }
+  }
   await writeFile(p(`dizi/${s.slug}/index.html`), seriesPage(s), "utf8"); count.series++;
   urls.push({ loc: `${BASE}/dizi/${s.slug}/`, pri: "0.8" });
   for (const legacy of ["profile.js", "profile.css"]) { const lp = p(`dizi/${s.slug}/${legacy}`); if (existsSync(lp)) await rm(lp); }
-  for (const season of s.seasons || []) for (const ep of season.episodes || []) {
+  for (const ep of episodes) {
     await mkdir(p(`dizi/${s.slug}/bolum-${ep.number}/`), { recursive: true });
     await writeFile(p(`dizi/${s.slug}/bolum-${ep.number}/index.html`), episodePage(s, ep), "utf8"); count.episodes++;
     urls.push({ loc: `${BASE}/dizi/${s.slug}/bolum-${ep.number}/`, pri: "0.6" });

@@ -128,7 +128,10 @@
 
   function renderFresh() {
     const rows = [];
-    Object.values(data.series).forEach((s) => D.allEpisodes(s).forEach((e) => rows.push({ s, e })));
+    const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Istanbul", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
+    Object.values(data.series).forEach((s) => D.allEpisodes(s).forEach((e) => {
+      if (e.summary && e.summary.trim() && e.date && e.date <= today) rows.push({ s, e });
+    }));
     rows.sort((a, b) => (b.e.date || "").localeCompare(a.e.date || "")
       || ((b.e.summary ? 2 : 0) + (epImage(b.s, b.e) ? 1 : 0)) - ((a.e.summary ? 2 : 0) + (epImage(a.s, a.e) ? 1 : 0)));
     const el = $("#fresh-row");

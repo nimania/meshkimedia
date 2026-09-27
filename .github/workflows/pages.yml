@@ -40,6 +40,8 @@ jobs:
         continue-on-error: true
       - name: Regenerate static pages from data
         run: node automation/build-site.mjs
+      - name: Check editorial content
+        run: node automation/audit-content.mjs --require ask-ve-taht --require sevdan-bir-ates --require abi --require gunesin-dogdugu-yer --require mercan-kosk
       - name: Configure Pages
         uses: actions/configure-pages@v6
         with:
