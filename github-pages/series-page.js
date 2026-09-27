@@ -16,7 +16,7 @@
     $("#airing").textContent = d.airing || "";
     $("#studio").textContent = d.studio || "";
     $("#net-badge").innerHTML = D.netBadge(networks, d.network);
-    if (d.hero) $(".hero-cover").src = d.hero;
+    if (d.hero) { $(".hero-cover").src = d.hero; $(".hero-cover").onerror = function () { this.hidden = true; }; }
     $("#synopsis").textContent = d.synopsis && d.synopsis.trim() ? d.synopsis : "خلاصهٔ داستان به‌زودی افزوده می‌شود.";
     if (d.synopsisSource && /^https:\/\//.test(d.synopsisSource)) {
       $("#synopsis-source").href = d.synopsisSource;
@@ -26,6 +26,7 @@
 
     const off = d.official || {}; const links = [];
     if (off.website) links.push(`<a href="${off.website}" target="_blank" rel="noreferrer">صفحهٔ رسمی ↗</a>`);
+    if (d.heroSource && d.heroSource !== off.website) links.push(`<a href="${D.esc(d.heroSource)}" target="_blank" rel="noreferrer">منبع تصویر ↗</a>`);
     if (off.episodes) links.push(`<a href="${off.episodes}" target="_blank" rel="noreferrer">قسمت‌ها در شبکه ↗</a>`);
     if (d.fragman) links.push(`<a href="${d.fragman}" target="_blank" rel="noreferrer">فراگمان ↗</a>`);
     if (off.youtube) links.push(`<a href="${off.youtube}" target="_blank" rel="noreferrer">یوتیوب رسمی ↗</a>`);

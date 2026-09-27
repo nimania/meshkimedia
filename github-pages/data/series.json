@@ -683,7 +683,7 @@
       "درام",
       "عاشقانه"
     ],
-    "hero": "",
+    "hero": "https://image.kanald.com.tr/i/kanald/100/840x0/6a917300d73360a4285520f2.jpg",
     "fragman": "https://www.kanald.com.tr/uzak-sehir",
     "synopsis": "آلیا از کانادا همراه پسرش دنیز به ماردین بازمی‌گردد تا آرزوی همسر درگذشته‌اش برای بازگشت خانواده به وطن را برآورده کند؛ آنجا زندگی‌اش با خاندان آلبورا و جیهان گره می‌خورد.",
     "official": {
@@ -796,7 +796,9 @@
         "episodes": []
       }
     ],
-    "time": "20:00"
+    "time": "20:00",
+    "heroSource": "https://eurod.kanald.com.tr/uzak-sehir/haber/uzak-sehirin-3-sezon-afisi-gorucuye-cikti",
+    "synopsisSource": "https://www.kanald.com.tr/uzak-sehir/hikaye-ve-kunye"
   },
   "haysiyet": {
     "slug": "haysiyet",
@@ -814,9 +816,9 @@
     "genre": [
       "درام"
     ],
-    "hero": "",
+    "hero": "https://image.kanald.com.tr/i/kanald/100/0x0/6a89a573d62e6058c69ba5fe.jpg",
     "fragman": "https://www.kanald.com.tr/",
-    "synopsis": "",
+    "synopsis": "دو خانواده با سبک زندگی، ارزش‌ها و باورهای کاملاً متفاوت در برابر هم قرار می‌گیرند. در میانهٔ این کشمکش، عشق محمد و سیمای از دو دنیای جدا شکل می‌گیرد؛ عشقی که هر دو خانواده را با پرسش‌هایی دربارهٔ آبرو، وفاداری و انتخاب‌هایشان روبه‌رو می‌کند.",
     "official": {
       "website": "https://www.kanald.com.tr/haysiyet",
       "episodes": "https://www.kanald.com.tr/haysiyet/bolumler",
@@ -863,23 +865,53 @@
             "number": 1,
             "date": "2026-09-08",
             "title": "",
-            "image": "",
-            "images": [],
-            "summary": "",
-            "source": "https://www.kanald.com.tr/haysiyet/bolumler"
+            "image": "https://image.kanald.com.tr/i/kanald/100/0x0/6a9e5d96db6b70dfad8c79fd.jpg",
+            "images": [
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6a9e5d96db6b70dfad8c79fd.jpg",
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6a9e5d95db6b70dfad8c79fb.jpg"
+            ],
+            "summary": "خانوادهٔ کارلی‌اوا که از راه باربری گذران زندگی می‌کند، با خانوادهٔ ثروتمند تارمان روبه‌رو می‌شود. آشنایی محمد و سیمای، بی‌خبر از پیشینهٔ خانواده‌هایشان، به عشقی تبدیل می‌شود که اختلاف طبقاتی و خواست پدرانشان آن را تهدید می‌کند. محمد میان انتظارهای پدرش و آینده‌ای که برای خود می‌خواهد می‌ماند.",
+            "source": "https://www.kanald.com.tr/haysiyet/ozetler/haysiyet-1-bolum-ozeti",
+            "photosSource": "https://www.kanald.com.tr/haysiyet/foto-galeri/haysiyet-1-bolum-fotograflari"
           },
           {
             "number": 2,
             "date": "2026-09-15",
             "title": "",
-            "image": "",
-            "images": [],
-            "summary": "",
-            "source": "https://www.kanald.com.tr/haysiyet/bolumler"
+            "image": "https://image.kanald.com.tr/i/kanald/100/0x0/6aa8dc9c8e6adc7618128e67.jpg",
+            "images": [
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6aa8dc9c8e6adc7618128e67.jpg",
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6aa8dc9b8e6adc7618128e5c.jpg"
+            ],
+            "summary": "محمد و سیمای برخلاف خواست خانواده‌هایشان پنهانی ازدواج می‌کنند. بازگشت آنان، اختلاف‌های قدیمی را تازه می‌کند و درگیری طارق با برادران کارلی‌اوا تنش را بالا می‌برد. هالوک ازدواج دخترش را رویارویی با آبروی خانواده می‌بیند و محمد در تنگنای تازه‌ای تصمیمی غافلگیرکننده می‌گیرد.",
+            "source": "https://www.kanald.com.tr/haysiyet/ozetler/haysiyet-2-bolum-ozeti",
+            "photosSource": "https://www.kanald.com.tr/haysiyet/foto-galeri/haysiyet-2-bolum-fotograflari"
+          },
+          {
+            "number": 3,
+            "date": "2026-09-22",
+            "title": "",
+            "image": "https://image.kanald.com.tr/i/kanald/100/0x0/6ab0dde98e6adc7618129b43.jpg",
+            "images": [
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6ab0dde98e6adc7618129b43.jpg",
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6ab0dde98e6adc7618129b45.jpg"
+            ],
+            "summary": "بدهی‌های قدیمی خانوادهٔ کارلی‌اوا، زندگی مشترک تازهٔ محمد و سیمای را تهدید می‌کند و خطر از دست دادن زمین خانواده جدی می‌شود. محمد برای کمک دوباره کار می‌کند؛ در همین حال هالوک برای دور کردن سیمای از او نقشه می‌کشد. فداکاری سیمای نیز ناخواسته به بحرانی تازه میان دو خانواده تبدیل می‌شود.",
+            "source": "https://www.kanald.com.tr/haysiyet/ozetler/haysiyet-3-bolum-ozeti",
+            "photosSource": "https://www.kanald.com.tr/haysiyet/foto-galeri/haysiyet-3-bolum-fotograflari"
           }
         ]
       }
-    ]
+    ],
+    "heroSource": "https://www.kanald.com.tr/haysiyet/haber/yildizlar-bir-arada",
+    "synopsisSource": "https://www.kanald.com.tr/haysiyet/hikaye-ve-kunye",
+    "photos": [
+      "https://image.kanald.com.tr/i/kanald/100/0x0/6a9e5d96db6b70dfad8c79fd.jpg",
+      "https://image.kanald.com.tr/i/kanald/100/0x0/6a9e5d95db6b70dfad8c79fb.jpg",
+      "https://image.kanald.com.tr/i/kanald/100/0x0/6aa8dc9c8e6adc7618128e67.jpg",
+      "https://image.kanald.com.tr/i/kanald/100/0x0/6aa8dc9b8e6adc7618128e5c.jpg"
+    ],
+    "photosSource": "https://www.kanald.com.tr/haysiyet/foto-galeri/haysiyet-1-bolum-fotograflari"
   },
   "guller-ve-gunahlar": {
     "slug": "guller-ve-gunahlar",
@@ -888,7 +920,7 @@
     "ratingKey": "GULLER VE GUNAHLAR",
     "network": "kanal-d",
     "studio": "",
-    "year": 2026,
+    "year": 2025,
     "status": "در حال پخش",
     "kind": "series",
     "day": "شنبه",
@@ -897,9 +929,9 @@
     "genre": [
       "درام"
     ],
-    "hero": "",
+    "hero": "https://image.kanald.com.tr/i/kanald/100/0x0/68ea328d78516dcf7a0b9bb8.jpg",
     "fragman": "https://www.kanald.com.tr/",
-    "synopsis": "",
+    "synopsis": "زندگی آرام سرحات تجر با همسر و دخترانش وقتی دگرگون می‌شود که از راز پنهان همسرش، برّاک، باخبر می‌شود: او فرزند دیگری به نام کادر دارد. سرحات در جست‌وجوی حقیقت با زینب آشنا می‌شود؛ زنی صریح و شجاع که در پیگیری ردّ این راز کنار او قرار می‌گیرد.",
     "official": {
       "website": "https://www.kanald.com.tr/guller-ve-gunahlar",
       "episodes": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
@@ -944,16 +976,27 @@
         "episodes": [
           {
             "number": 1,
-            "date": "2026-09-12",
+            "date": "2025-10-11",
             "title": "",
-            "image": "",
-            "images": [],
-            "summary": "",
-            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler"
+            "image": "https://image.kanald.com.tr/i/kanald/100/0x0/68e8aabd5230f6fc7d0a59e3.jpg",
+            "images": [
+              "https://image.kanald.com.tr/i/kanald/100/0x0/68e8aabd5230f6fc7d0a59e3.jpg",
+              "https://image.kanald.com.tr/i/kanald/100/0x0/68e8aabd5230f6fc7d0a59e4.jpg"
+            ],
+            "summary": "سرحات که با همسر و دخترانش زندگی آرامی دارد، درمی‌یابد برّاک سال‌ها وجود فرزند دیگری به نام کادر را پنهان کرده است. پیگیری این راز او را به زینب می‌رساند؛ زنی صریح که در جست‌وجوی حقیقت به مهم‌ترین همراهش تبدیل می‌شود.",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/ozetler/guller-ve-gunahlar-1-bolum-ozeti",
+            "photosSource": "https://www.kanald.com.tr/guller-ve-gunahlar/foto-galeri/guller-ve-gunahlar-1-bolum-fotograflari"
           }
         ]
       }
-    ]
+    ],
+    "heroSource": "https://www.kanald.com.tr/guller-ve-gunahlar/hikaye-ve-kunye",
+    "synopsisSource": "https://www.kanald.com.tr/guller-ve-gunahlar/hikaye-ve-kunye",
+    "photos": [
+      "https://image.kanald.com.tr/i/kanald/100/0x0/68e8aabd5230f6fc7d0a59e3.jpg",
+      "https://image.kanald.com.tr/i/kanald/100/0x0/68e8aabd5230f6fc7d0a59e4.jpg"
+    ],
+    "photosSource": "https://www.kanald.com.tr/guller-ve-gunahlar/foto-galeri/guller-ve-gunahlar-1-bolum-fotograflari"
   },
   "kizilcik-serbeti": {
     "slug": "kizilcik-serbeti",
@@ -973,9 +1016,9 @@
       "خانوادگی",
       "اجتماعی"
     ],
-    "hero": "",
+    "hero": "https://im.showtv.com.tr/2026/09/11/ver1789134338/3911853_1920x1080.jpg",
     "fragman": "https://www.showtv.com.tr/",
-    "synopsis": "",
+    "synopsis": "پیوند دو خانواده با سبک زندگی و ارزش‌های متفاوت، رابطه‌های عاشقانه و خانوادگی آنان را در برابر سوءتفاهم‌ها و اختلاف‌نظرها قرار می‌دهد. این مجموعه از ماجرای ازدواج دوغا و فاتح آغاز می‌شود و در فصل‌های بعد زندگی اعضای دو خانواده را دنبال می‌کند.",
     "official": {
       "website": "https://www.showtv.com.tr/dizi/tanitim/kizilcik-serbeti/2875",
       "episodes": "https://www.showtv.com.tr/dizi/tanitim/kizilcik-serbeti/2875",
@@ -1015,11 +1058,13 @@
     ],
     "seasons": [
       {
-        "number": 4,
-        "label": "فصل جدید",
+        "number": 5,
+        "label": "فصل پنجم",
         "episodes": []
       }
-    ]
+    ],
+    "heroSource": "https://www.showtv.com.tr/dizi/haber/3911853-kizilcik-serbeti-nin-merakla-beklenen-5-sezon-afisi-yayinlandi",
+    "synopsisSource": "https://www.showtv.com.tr/dizi/haber/3524713-show-tv-nin-yeni-dizisi-kizilcik-serbeti-nin-afisi-yayinlandi"
   },
   "tuzlu-kahve": {
     "slug": "tuzlu-kahve",
@@ -1038,9 +1083,9 @@
       "درام",
       "عاشقانه"
     ],
-    "hero": "",
+    "hero": "https://static.sayidaty.net/2026-08/506804.jpg",
     "fragman": "https://www.startv.com.tr/",
-    "synopsis": "",
+    "synopsis": "درین، دختر خانواده‌ای مرفه در استانبول، زیر فشار انتظارهای خانواده و برنامه‌های ازدواجش زندگی می‌کند. محمد پس از سال‌ها زندگی در خارج به ترکیه بازمی‌گردد. وقتی آماده‌سازی ازدواج برادر محمد، مورات، پای خانواده‌ها را به زندگی هم باز می‌کند، گذشته و احساسات پنهان، رابطهٔ درین و محمد را با آزمونی تازه روبه‌رو می‌کند.",
     "official": {
       "website": "https://www.startv.com.tr/dizi/tuzlu-kahve",
       "episodes": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler",
@@ -1087,32 +1132,49 @@
             "number": 1,
             "date": "2026-09-01",
             "title": "",
-            "image": "",
+            "image": "https://static.sayidaty.net/2026-08/506804.jpg",
             "images": [],
-            "summary": "",
-            "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler"
+            "summary": "دختران دو خانوادهٔ قدیمیِ دشمن، بی‌خبر از پیوندهای یکدیگر، در آستانهٔ ازدواج با دو برادر از خانوادهٔ آیدین‌اوغلو قرار می‌گیرند. درین پس از آگاهی از خیانت هاکان رابطه‌اش را قطع می‌کند و آشنایی‌اش با محمد، برادر تازه‌برگشتهٔ مورات، مسیر تازه‌ای پیش پایش می‌گذارد.",
+            "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum"
           },
           {
             "number": 2,
             "date": "2026-09-08",
             "title": "",
-            "image": "",
-            "images": [],
-            "summary": "",
-            "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler"
+            "image": "https://media.startv.com.tr/star-tv/images/tuzlukahve1.png?format=webp&height=596&quality=85&width=1000",
+            "images": [
+              "https://media.startv.com.tr/star-tv/images/tuzlukahve1.png?format=webp&height=596&quality=85&width=1000",
+              "https://media.startv.com.tr/star-tv/images/tuzlukahve2.png?format=webp&height=596&quality=85&width=1000"
+            ],
+            "summary": "نزدیکی درین و محمد، رقابت و سوءتفاهم میان دو خانواده را آشکار می‌کند. الیت در پی برهم زدن این رابطه است و جاندان می‌خواهد محمد را به دخترخواهرش نزدیک کند. درین نیز با هاکان روبه‌رو می‌شود تا رابطهٔ گذشته را برای همیشه تمام کند.",
+            "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/2-bolum",
+            "photosSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/2-bolum-fotograflari"
           },
           {
             "number": 3,
             "date": "2026-09-15",
             "title": "",
-            "image": "",
-            "images": [],
+            "image": "https://media.startv.com.tr/star-tv/images/nur01309.jpg?format=webp&height=596&quality=85&width=1000",
+            "images": [
+              "https://media.startv.com.tr/star-tv/images/nur01309.jpg?format=webp&height=596&quality=85&width=1000",
+              "https://media.startv.com.tr/star-tv/images/nur01434.jpg?format=webp&height=596&quality=85&width=1000"
+            ],
             "summary": "",
-            "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler"
+            "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler",
+            "photosSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/3-bolum-fotograflari"
           }
         ]
       }
-    ]
+    ],
+    "heroSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
+    "synopsisSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/ilk-tanitim",
+    "photos": [
+      "https://media.startv.com.tr/star-tv/images/tuzlukahve1.png?format=webp&height=596&quality=85&width=1000",
+      "https://media.startv.com.tr/star-tv/images/tuzlukahve2.png?format=webp&height=596&quality=85&width=1000",
+      "https://media.startv.com.tr/star-tv/images/nur01309.jpg?format=webp&height=596&quality=85&width=1000",
+      "https://media.startv.com.tr/star-tv/images/nur01434.jpg?format=webp&height=596&quality=85&width=1000"
+    ],
+    "photosSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/2-bolum-fotograflari"
   },
   "sevdigim-sensin": {
     "slug": "sevdigim-sensin",
@@ -1131,9 +1193,9 @@
       "درام",
       "عاشقانه"
     ],
-    "hero": "",
+    "hero": "https://media.startv.com.tr/star-tv/images/1%28228%29.jpg?format=webp&height=596&quality=85&width=1000",
     "fragman": "https://www.startv.com.tr/",
-    "synopsis": "",
+    "synopsis": "دیجله که تمام عمر در روستای خود و زیر فشار برادرانش زندگی کرده، در پی یک حادثه با ارکان آشنا می‌شود. ارکان برای نجات جان او ناچار به ازدواج با دیجله می‌شود و سپس او را به استانبول می‌برد؛ جایی که خانوادهٔ ارکان برای آیندهٔ او نقشهٔ دیگری دارند و این ازدواج زندگی هر دو را دگرگون می‌کند.",
     "official": {
       "website": "https://www.startv.com.tr/dizi/sevdigim-sensin",
       "episodes": "https://www.startv.com.tr/dizi/sevdigim-sensin/bolumler",
@@ -1178,16 +1240,27 @@
         "episodes": [
           {
             "number": 1,
-            "date": "2026-09-17",
+            "date": "2026-02-12",
             "title": "",
-            "image": "",
-            "images": [],
-            "summary": "",
-            "source": "https://www.startv.com.tr/dizi/sevdigim-sensin/bolumler"
+            "image": "https://media.startv.com.tr/star-tv/images/1%28228%29.jpg?format=webp&height=596&quality=85&width=1000",
+            "images": [
+              "https://media.startv.com.tr/star-tv/images/1%28228%29.jpg?format=webp&height=596&quality=85&width=1000",
+              "https://media.startv.com.tr/star-tv/images/2%28215%29.jpg?format=webp&height=596&quality=85&width=1000"
+            ],
+            "summary": "دیجله در روستای کوهستانی زیر فشار برادرانش زندگی می‌کند. پس از زلزله، راه او با ارکان، سربازی اهل استانبول، تلاقی می‌کند. ارکان برای نجاتش از خطر قتل ناموسی با او ازدواج می‌کند و سپس دیجله را به استانبول می‌برد؛ در حالی که خانواده‌اش برای ازدواج او برنامهٔ دیگری دارند.",
+            "source": "https://www.startv.com.tr/dizi/sevdigim-sensin/bolumler/1-bolum",
+            "photosSource": "https://www.startv.com.tr/dizi/sevdigim-sensin/foto-galeriler/1-bolum-fotograflari"
           }
         ]
       }
-    ]
+    ],
+    "heroSource": "https://www.startv.com.tr/dizi/sevdigim-sensin/foto-galeriler/1-bolum-fotograflari",
+    "synopsisSource": "https://www.startv.com.tr/dizi/sevdigim-sensin/foto-galeriler/1-bolum-fotograflari",
+    "photos": [
+      "https://media.startv.com.tr/star-tv/images/1%28228%29.jpg?format=webp&height=596&quality=85&width=1000",
+      "https://media.startv.com.tr/star-tv/images/2%28215%29.jpg?format=webp&height=596&quality=85&width=1000"
+    ],
+    "photosSource": "https://www.startv.com.tr/dizi/sevdigim-sensin/foto-galeriler/1-bolum-fotograflari"
   },
   "gonul-dagi": {
     "slug": "gonul-dagi",
@@ -1206,9 +1279,9 @@
       "درام",
       "خانوادگی"
     ],
-    "hero": "",
+    "hero": "https://cdn-i.pr.trt.com.tr/trt1/gonul-dagi-headline-mobil-image-21749889-0-0-1439-1080.jpeg",
     "fragman": "https://www.trt1.com.tr/",
-    "synopsis": "",
+    "synopsis": "در شهر کوچک گِدَلّی در دل آناتولی، تانر، رمضان و ویصل با دوستی، کارهای مشترک و ایده‌هایشان برای ساختن آینده‌ای بهتر تلاش می‌کنند. قصهٔ آنان با زندگی خانواده‌ها، عشق‌ها و فراز و فرودهای مردم شهر گره می‌خورد.",
     "official": {
       "website": "https://www.trt1.com.tr/diziler/gonul-dagi",
       "episodes": "https://www.trt1.com.tr/diziler/gonul-dagi/bolum",
@@ -1248,11 +1321,13 @@
     ],
     "seasons": [
       {
-        "number": 6,
-        "label": "فصل جدید",
+        "number": 7,
+        "label": "فصل هفتم",
         "episodes": []
       }
-    ]
+    ],
+    "heroSource": "https://www.trt1.com.tr/diziler/gonul-dagi",
+    "synopsisSource": "https://www.trt1.com.tr/diziler/gonul-dagi"
   },
   "evlilik-guzeldir": {
     "slug": "evlilik-guzeldir",
@@ -1397,7 +1472,8 @@
       "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-161-21753122.jpeg",
       "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/1453-157-1-21753121.jpeg"
     ],
-    "photosSource": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/fotogaleri"
+    "photosSource": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/fotogaleri",
+    "synopsisSource": "https://www.trt1.com.tr/diziler/evlilik-guzeldir"
   },
   "anne-yarisi": {
     "slug": "anne-yarisi",
@@ -1415,9 +1491,9 @@
     "genre": [
       "درام"
     ],
-    "hero": "",
+    "hero": "https://www.nowtv.com.tr/Programlar/Diger/diger-resim-8f2c9088-3051-45d8-b4b2-71e9282841b5.jpg",
     "fragman": "https://www.nowtv.com.tr/",
-    "synopsis": "",
+    "synopsis": "هشت سال پس از یک فقدان بزرگ، مسیر زندگی علی و زینب دوباره دور یک کودک به هم می‌رسد. رازهای گذشته، کشمکش بر سر سرپرستی و فداکاری‌های خانواده، آن‌ها را در برابر تصمیم‌هایی دشوار قرار می‌دهد.",
     "official": {
       "website": "https://www.nowtv.com.tr/anne-yarisi",
       "episodes": "https://www.nowtv.com.tr/anne-yarisi/bolumler",
@@ -1461,7 +1537,9 @@
         "label": "فصل اول",
         "episodes": []
       }
-    ]
+    ],
+    "heroSource": "https://www.nowtv.com.tr/Anne-Yarisi/haber/4378/Heyecanla-Beklenen-Anne-Yarisi-nin-Afisi-Yayinlandi",
+    "synopsisSource": "https://www.nowtv.com.tr/Anne-Yarisi/haber/4378/Heyecanla-Beklenen-Anne-Yarisi-nin-Afisi-Yayinlandi"
   },
   "omur-usta": {
     "slug": "omur-usta",
@@ -1479,9 +1557,9 @@
     "genre": [
       "درام"
     ],
-    "hero": "",
+    "hero": "https://etbilarabi.com/sites/default/files/styles/article_landing/public/2026-06/whatsapp-image-2026-06-10-at-5.32.24-pm.jpeg?itok=6bjRXBHB",
     "fragman": "https://www.nowtv.com.tr/",
-    "synopsis": "",
+    "synopsis": "اومور، مکانیکی که با سه فرزند و مادرشوهرش در تنگنای مالی زندگی می‌کند، برای آیندهٔ بچه‌هایش از تلاش دست نمی‌کشد. زندگی او در میان فشار اقتصادی، پیوندهای خانوادگی و برخورد با دنیایی متفاوت به آزمونی برای ایستادگی و شروع دوباره تبدیل می‌شود.",
     "official": {
       "website": "https://www.nowtv.com.tr/omur-usta",
       "episodes": "https://www.nowtv.com.tr/omur-usta/bolumler",
@@ -1525,7 +1603,9 @@
         "label": "فصل اول",
         "episodes": []
       }
-    ]
+    ],
+    "heroSource": "https://etbilarabi.com/ميكس/مخرجة-العشق-الممنوع-تعيد-بولنت-إينال-ونورغول-يشيلتشاي-إلى-الواجهة-في-المعلمة-أومور",
+    "synopsisSource": "https://www.nowtv.com.tr/Omur-Usta/bilgi"
   },
   "masterchef-turkiye": {
     "slug": "masterchef-turkiye",
@@ -1544,9 +1624,9 @@
       "مسابقه",
       "آشپزی"
     ],
-    "hero": "",
+    "hero": "https://image.pmgstatic.com/cache/resized/w936/files/images/film/posters/167/176/167176234_061da8.jpg",
     "fragman": "https://www.tv8.com.tr/",
-    "synopsis": "",
+    "synopsis": "مسابقهٔ آشپزی مسترشف ترکیه، رقابت آشپزهای علاقه‌مند و حرفه‌ای را زیر نظر داوران دنبال می‌کند. شرکت‌کنندگان در چالش‌های فردی و گروهی مهارت، خلاقیت و مدیریت زمان خود را محک می‌زنند تا به مراحل پایانی برسند.",
     "official": {
       "website": "https://www.tv8.com.tr/masterchef-turkiye",
       "episodes": "https://www.tv8.com.tr/masterchef-turkiye/bolumler",
@@ -1559,7 +1639,9 @@
         "label": "فصل جاری",
         "episodes": []
       }
-    ]
+    ],
+    "heroSource": "https://www.csfd.cz/en/film/771340-masterchef-turkiye/overview/",
+    "synopsisSource": "https://www.tv8.com.tr/masterchef-turkiye"
   },
   "yeralti": {
     "slug": "yeralti",
@@ -1578,7 +1660,7 @@
       "درام",
       "جنایی"
     ],
-    "hero": "",
+    "hero": "https://www.nowtv.com.tr/Programlar/Diger/diger-resim-42049875-0bec-40df-a620-e0033d8372c5.jpg",
     "fragman": "https://www.nowtv.com.tr/",
     "synopsis": "«زیرزمین» درامی جنایی از شبکهٔ NOW است که در دنیای زیرزمینی و مافیایی استانبول جریان دارد.",
     "official": {
@@ -1624,7 +1706,9 @@
         "label": "فصل جدید",
         "episodes": []
       }
-    ]
+    ],
+    "heroSource": "https://www.nowtv.com.tr/Yeralti/haber/4245/yeraltinin-merakla-beklenen-afisi-yayinlandi",
+    "synopsisSource": "https://www.nowtv.com.tr/Yeralti/bilgi"
   },
   "sevdam-karadeniz": {
     "slug": "sevdam-karadeniz",
@@ -1643,9 +1727,9 @@
       "درام",
       "عاشقانه"
     ],
-    "hero": "",
+    "hero": "https://kgrthabercom.teimg.com/kgrthaber-com/uploads/2026/07/sevdam-karadeniz-kadrosunda-degisiklik-iste-surpriz-isim1.jpeg",
     "fragman": "https://www.nowtv.com.tr/",
-    "synopsis": "«سِودام قره‌دنیز» درامی عاشقانه از شبکهٔ NOW با حال‌وهوای منطقهٔ دریای سیاه (قره‌دنیز) ترکیه است.",
+    "synopsis": "دشمنی دو خانوادهٔ قدیمی در منطقهٔ دریای سیاه از عشق ناکام حفیظه و دورالی آغاز شده است. سال‌ها بعد، این کینهٔ قدیمی نوه‌هایشان، کوزی و زیشان، را به ازدواجی اجباری می‌کشاند. آن دو میان رازهای خانوادگی، عشق و انتقام باید برای آیندهٔ خود تصمیم بگیرند.",
     "official": {
       "website": "https://www.nowtv.com.tr/sevdam-karadeniz",
       "episodes": "https://www.nowtv.com.tr/sevdam-karadeniz/bolumler",
@@ -1658,6 +1742,8 @@
         "label": "فصل اول",
         "episodes": []
       }
-    ]
+    ],
+    "heroSource": "https://www.kgrthaber.com/sevdam-karadeniz-kadrosunda-degisiklik-iste-surpriz-isim",
+    "synopsisSource": "https://www.nowtv.com.tr/Sevdam-Karadeniz/haber/4375/NOW-in-Merakla-Beklenen-Yeni-Dizisi-Sevdam-Karadeniz-in-Afisi-Yayinlandi"
   }
 }

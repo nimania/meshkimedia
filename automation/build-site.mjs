@@ -75,7 +75,7 @@ function head(root, { title, desc, path, ogImage, jsonld, ogType = "website" }) 
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(desc)}"><meta name="twitter:image" content="${img}">
 <link rel="icon" href="${root}images/meshki-media-logo.png" type="image/png"><link rel="apple-touch-icon" href="${root}images/meshki-media-logo.png">
 <link rel="preload" href="${root}vazirmatn.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="${root}styles.css?v=20260927b">
+<link rel="stylesheet" href="${root}styles.css?v=20260927c">
 <script>try{var t=localStorage.getItem("dizimeter-theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>${ld}
 </head>
 <body>
@@ -83,8 +83,8 @@ function head(root, { title, desc, path, ogImage, jsonld, ogType = "website" }) 
 ${SITE_NAV(root, path.split("/")[0] === "" ? "" : (path.split("/").slice(0, 1)[0] + "/"))}`;
 }
 const boot = (root, obj, scripts) => `<script>window.DM=${JSON.stringify(Object.assign({ root }, obj))};</script>
-<script src="${root}dizimeter.js?v=20260927b" defer></script>
-${scripts.map((s) => `<script src="${root}${s}?v=20260927b" defer></script>`).join("\n")}
+<script src="${root}dizimeter.js?v=20260927c" defer></script>
+${scripts.map((s) => `<script src="${root}${s}?v=20260927c" defer></script>`).join("\n")}
 </body></html>
 `;
 const BOTTOM = (root, items) => `<nav class="bottom-nav">${items.map(([h, b, t, on]) => `<a href="${root}${h}"${on ? ' class="active"' : ""}><b>${b}</b><span>${t}</span></a>`).join("")}</nav>`;
