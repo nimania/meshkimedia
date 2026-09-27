@@ -100,8 +100,8 @@
       el.innerHTML = '<div class="notice">دادهٔ تقویم موقتاً در دسترس نیست.</div>';
       return;
     }
-    const checked = calendar.source?.checkedAt ? ` · بررسی ${D.isoToFa(calendar.source.checkedAt)}` : "";
-    $("#tonight-source").textContent = `منبع: Dizilah${checked}`;
+    $("#tonight-source").textContent = calendar.source?.checkedAt
+      ? `آخرین بررسی: ${D.isoToFa(calendar.source.checkedAt)}` : "برنامهٔ ثبت‌شده در تقویم";
     if (!date) {
       $("#tonight-title").textContent = "برنامهٔ پخش آینده";
       el.innerHTML = '<div class="notice">برنامهٔ روزهای آینده هنوز در تقویم ثبت نشده است.</div>';

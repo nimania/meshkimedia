@@ -57,6 +57,11 @@
       $("#gallery-section").hidden = true;
     }
 
+    // An official preview is not an after-airing recap.
+    if (ep.preview) {
+      $("#ep-summary").parentElement.querySelector(".kicker").textContent = "معرفی رسمی قسمت";
+      $("#ep-summary").parentElement.querySelector("h2").textContent = "در این قسمت چه می‌شود؟";
+    }
     // Summary
     $("#ep-summary").textContent = ep.summary && ep.summary.trim()
       ? ep.summary
@@ -68,7 +73,7 @@
     if (ep.watchUrl) links.push(`<a class="btn-primary" href="${D.esc(ep.watchUrl)}" target="_blank" rel="noopener noreferrer">▶ تماشای قسمت در شبکه</a>`);
     else if (s.official && s.official.episodes) links.push(`<a class="btn-primary" href="${D.esc(s.official.episodes)}" target="_blank" rel="noopener noreferrer">قسمت‌ها در شبکه ↗</a>`);
     if (fragman) links.push(`<a class="btn-ghost" href="${D.esc(fragman)}" target="_blank" rel="noopener noreferrer">${ep.fragman ? '▶ تماشای تیزر قسمت' : 'فراگمان‌های سریال ↗'}</a>`);
-    if (ep.source && ep.source !== ep.watchUrl) links.push(`<a class="btn-ghost" href="${D.esc(ep.source)}" target="_blank" rel="noopener noreferrer">منبع خلاصه ↗</a>`);
+    if (ep.source && ep.source !== ep.watchUrl) links.push(`<a class="btn-ghost" href="${D.esc(ep.source)}" target="_blank" rel="noopener noreferrer">${ep.preview ? "منبع معرفی قسمت" : "منبع خلاصه"} ↗</a>`);
     $("#ep-links").innerHTML = links.join("");
 
     // Prev / next episode nav

@@ -148,7 +148,7 @@ function episodePage(s, ep) {
 <div id="ep-nav" class="ep-nav"></div>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/`, "☰", "سریال"], [`dizi/${s.slug}/bolum-${ep.number}/#ep-ratings`, "⌁", "ریتینگ", true], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
-  return h + body + boot(root, { slug: s.slug, epNumber: ep.number }, ["episode-page.js", "gallery.js"]);
+  return h + body + boot(root, { slug: s.slug, epNumber: ep.number }, ["episode-page.js", "gallery.js"], s.slug === "daha-17" ? "20260927f" : "20260927d");
 }
 
 // ---- Network page ----------------------------------------------------------
@@ -225,13 +225,14 @@ function workPage(w) {
 function listPage({ path, title, desc, kicker, h1, sub, containerId, script, active }) {
   const root = "../";
   const isCalendar = path === "takvim/";
-  const version = isCalendar ? "20260927e" : "20260927d";
+  const version = isCalendar ? "20260927f" : "20260927d";
   const jsonld = { "@context": "https://schema.org", "@type": "CollectionPage", name: title, url: `${BASE}/${path}` };
   const h = head(root, { title, desc, path, jsonld, version });
   const search = `<div class="list-search"><input id="q" type="search" placeholder="جستجو…" aria-label="جستجو"></div>`;
   const calendar = `<div class="calendar-tools"><label class="calendar-search-wrap"><span>جستجوی سریال</span><input id="calendar-search" type="search" placeholder="نام سریال…" autocomplete="off"></label><label class="calendar-network-wrap"><span>شبکه</span><select id="calendar-network"><option value="">همهٔ شبکه‌ها</option></select></label><button id="calendar-today" class="calendar-today" type="button">برو به امروز</button></div>
-<div class="calendar-meta"><p id="calendar-status" role="status">در حال دریافت برنامه…</p><a id="calendar-source" href="https://dizilah.com/calendar" target="_blank" rel="noopener noreferrer">منبع برنامه: Dizilah ↗</a></div>
-<p id="calendar-note" class="calendar-stale" hidden></p><nav id="calendar-strip" class="calendar-strip" aria-label="روزهای پخش"></nav><div id="calendar-feed" class="calendar-feed"></div>`;
+<div class="calendar-meta"><p id="calendar-status" role="status">در حال دریافت برنامه…</p></div>
+<p id="calendar-note" class="calendar-stale" hidden></p><nav id="calendar-strip" class="calendar-strip" aria-label="روزهای پخش"></nav><div id="calendar-feed" class="calendar-feed"></div>
+<p class="calendar-credit"><a id="calendar-source" href="https://dizilah.com/calendar" target="_blank" rel="noopener noreferrer">قدرت‌گرفته از دیزیلا ↗</a></p>`;
   const body = `
 <main class="app-shell${isCalendar ? " calendar-shell" : ""}">
 <section class="intro"><span class="kicker">${kicker}</span><h1>${h1}</h1><p>${sub}</p></section>
@@ -324,7 +325,7 @@ const lists = [
   { path: "karakterler/", title: "کاراکترها | مشکی مدیا", desc: "فهرست کاراکترهای سریال‌های ترکی و بازیگرانشان.", kicker: "فهرست", h1: "کاراکترها", sub: "کاراکترهای ثبت‌شده", containerId: "people-grid", script: "list-characters.js", active: "karakterler/" },
   { path: "ozetler/", title: "آرشیو خلاصه‌ها (ری‌کپ) | مشکی مدیا", desc: "آرشیو خلاصهٔ داستان (ری‌کپ) قسمت‌های سریال‌های ترکی.", kicker: "آرشیو", h1: "خلاصه‌ها / ری‌کپ", sub: "خلاصهٔ داستان قسمت‌ها", containerId: "recap-list", script: "recaps.js", active: "ozetler/" },
   { path: "fragmanlar/", title: "آرشیو فراگمان‌ها (تیزر) | مشکی مدیا", desc: "آرشیو فراگمان (تیزر) سریال‌ها و قسمت‌های تلویزیون ترکیه.", kicker: "آرشیو", h1: "فراگمان‌ها", sub: "تیزر سریال‌ها و قسمت‌ها", containerId: "fragman-grid", script: "fragmans.js", active: "fragmanlar/" },
-  { path: "takvim/", title: "تقویم پخش سریال‌های ترکی | مشکی مدیا", desc: "برنامهٔ پخش روزانهٔ سریال‌های ترکی با نام سریال، شبکه، شماره فصل و قسمت بر پایهٔ تقویم Dizilah.", kicker: "برنامهٔ روزانه", h1: "تقویم پخش", sub: "سریال‌ها، شبکه‌ها و شمارهٔ قسمت‌ها به تفکیک روز؛ بر پایهٔ برنامهٔ منتشرشده در Dizilah", containerId: "calendar no-search", script: "calendar.js", active: "takvim/" },
+  { path: "takvim/", title: "تقویم پخش سریال‌های ترکی | مشکی مدیا", desc: "برنامهٔ پخش روزانهٔ سریال‌های ترکی با نام سریال، شبکه و شمارهٔ فصل و قسمت.", kicker: "برنامهٔ روزانه", h1: "تقویم پخش", sub: "سریال‌ها، شبکه‌ها و شمارهٔ قسمت‌ها به تفکیک روز", containerId: "calendar no-search", script: "calendar.js", active: "takvim/" },
   { path: "ara/", title: "جستجو | مشکی مدیا", desc: "جستجو در سریال‌ها، بازیگران، کاراکترها و قسمت‌های مشکی مدیا.", kicker: "جستجو", h1: "جستجو", sub: "در سریال‌ها، بازیگران، کاراکترها و قسمت‌ها", containerId: "search-results", script: "search.js", active: "ara/" },
 ];
 for (const l of lists) { await mkdir(p(l.path), { recursive: true }); await writeFile(p(l.path + "index.html"), listPage(l), "utf8"); count.lists++; urls.push({ loc: `${BASE}/${l.path}`, pri: "0.7" }); }

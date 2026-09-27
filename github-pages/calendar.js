@@ -38,7 +38,7 @@
     status.textContent = `${numeral.format(count)} پخش در ${numeral.format(dates.length)} روز · آخرین بررسی: ${D.isoToFa(data.source.checkedAt)}`;
     const source = document.querySelector("#calendar-source");
     source.href = data.source.url;
-    source.textContent = `منبع برنامه: ${data.source.name} ↗`;
+    source.textContent = "قدرت‌گرفته از دیزیلا ↗";
     note.hidden = today <= dates.at(-1);
     if (!note.hidden) note.textContent = `آخرین تاریخ تأییدشده ${D.isoToFa(dates.at(-1))} است؛ پخش‌های بعدی هنوز ثبت نشده‌اند.`;
     function render() {

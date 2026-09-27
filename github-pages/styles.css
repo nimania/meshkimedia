@@ -437,4 +437,6 @@ body.home{--page-w:1120px}
 .calendar-episode{margin-top:3px;color:var(--ink);font-size:12px;font-weight:800}
 .calendar-premiere,.calendar-external{padding:4px 8px;border-radius:7px;background:var(--green-soft);color:var(--green);font-size:10px;font-style:normal;font-weight:700}
 .calendar-external{background:var(--surface-soft);color:var(--muted)}
+.calendar-credit{margin:0 0 38px;color:var(--muted);font-size:11px;text-align:center}
+.calendar-credit a:hover{color:var(--green)}
 @media(max-width:700px){.calendar-cards{grid-template-columns:1fr}.calendar-card{min-height:124px}.calendar-poster{width:92px;min-height:124px}.calendar-tools{padding:12px}.calendar-network-wrap{flex-basis:135px}}

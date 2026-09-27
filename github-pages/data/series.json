@@ -1798,5 +1798,57 @@
       "https://cdn.nowtv.com.tr/Programlar/Diger/diger-resim-53d0bf72-2128-4c3a-841b-28ae9a2e02b2.jpg"
     ],
     "photosSource": "https://www.nowtv.com.tr/Sevdam-Karadeniz/haber/4381/Sevdam-Karadeniz-in-Heyecan-Dolu-Fragmani-Yayinlandi"
+  },
+  "daha-17": {
+    "slug": "daha-17",
+    "titleFa": "Daha 17",
+    "titleTr": "Daha 17",
+    "ratingKey": "DAHA 17",
+    "network": "kanal-d",
+    "studio": "Pastel Film",
+    "year": 2026,
+    "status": "در حال پخش",
+    "kind": "series",
+    "day": "یکشنبه",
+    "dayIndex": 6,
+    "airing": "یکشنبه‌ها ساعت ۲۰:۰۰",
+    "time": "20:00",
+    "genre": [
+      "درام",
+      "خانوادگی"
+    ],
+    "hero": "https://image.kanald.com.tr/i/kanald/100/1200x630/6a0b708b6857e013a393b8de.jpg",
+    "heroSource": "https://www.kanald.com.tr/daha-17",
+    "fragman": "https://www.kanald.com.tr/daha-17/fragmanlar",
+    "synopsis": "آراس، نوجوان هفده‌ساله‌ای که خانواده‌اش را در کودکی از دست داده، برای پیدا کردن برادرش به بدروم می‌رود. ورود او به این شهر، دوستی‌ها و رابطه‌هایی تازه می‌سازد و جست‌وجویش برای یافتن برادر، رازهایی از گذشتهٔ خانواده را پیش رویش می‌گذارد.",
+    "synopsisSource": "https://www.kanald.com.tr/daha-17/hikaye-ve-kunye",
+    "official": {
+      "website": "https://www.kanald.com.tr/daha-17",
+      "episodes": "https://www.kanald.com.tr/daha-17/bolumler"
+    },
+    "cast": [],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "number": 18,
+            "date": "2026-09-27",
+            "title": "آراس و تئومان در برابر گذشته",
+            "preview": true,
+            "summary": "آراس پس از زخمی‌شدن در جنگل برای زنده ماندن می‌جنگد و تئومان برای نجات او تلاش می‌کند. لیلا و دنیز منتظر خبری از آراس‌اند و هاکان در فکر اقدامی تازه است. آراس پس از ترک بیمارستان سراغ سرنخ‌های شب مرگ سرحات می‌رود، در حالی که تئومان برای یافتن رازهای پنهان برادرش نقشه‌ای می‌چیند.",
+            "source": "https://www.kanald.com.tr/daha-17/ozetler/daha-17-18-bolum-ozeti",
+            "image": "https://image.kanald.com.tr/i/kanald/100/1200x630/6ab619f4c25ae5c7a303c8f9.jpg",
+            "images": [
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6ab61981c25ae5c7a303c8e8.jpg",
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6ab61981c25ae5c7a303c8dd.jpg",
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6ab61981c25ae5c7a303c8e3.jpg"
+            ],
+            "photosSource": "https://www.kanald.com.tr/daha-17/foto-galeri/daha-17-18-bolum-fotograflari",
+            "fragman": "https://www.kanald.com.tr/daha-17/fragmanlar/daha-17-18-bolum-fragmani"
+          }
+        ]
+      }
+    ]
   }
 }
