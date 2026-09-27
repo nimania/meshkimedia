@@ -24,7 +24,7 @@
       const image = s && (s.hero || s.image);
       return `<article class="credit-card">
         <a class="credit-series" href="${href}">
-          <div class="credit-thumb ${image ? "" : "no-image"}" ${image ? `style="background-image:url('${D.esc(image)}')"` : ""}><span>${c.kind === "film" ? "فیلم" : "سریال"}${c.year ? ` · ${D.fmtInt(c.year)}` : ""}</span></div>
+          <div class="credit-thumb ${image ? "" : "no-image"}" ${image ? `style="background-image:url('${D.esc(image)}')"` : ""}><span>${c.kind === "film" ? "فیلم" : "سریال"}${c.year ? ` · ${new Intl.NumberFormat('fa-IR', { useGrouping: false }).format(c.year)}` : ""}</span></div>
           <strong>${D.esc(c.titleFa || c.titleTr)}</strong>
         </a>
         <div class="credit-role">${charUrl ? `نقش: <a href="${charUrl}">${D.esc(cName)}</a>` : (cName ? "نقش: " + D.esc(cName) : "اطلاعات نقش در حال تکمیل")}</div>

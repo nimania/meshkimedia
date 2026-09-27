@@ -30,7 +30,7 @@
             : (head ? `<span class="mini-rating">رتبهٔ Total #${D.fmtRank((head.modes.total || head.modes.ab || head.modes.abc1).rank)}</span>` : `<span class="mini-rating muted">—</span>`);
           const img = s.hero || "";
           return `<a class="series-card" href="${D.ROOT}dizi/${s.slug}/">
-            <div class="series-thumb ${img ? "" : "no-image"}" ${img ? `style="background-image:url('${img}')"` : ""}></div>
+            <div class="series-thumb ${img ? "" : "no-image"}">${img ? `<img src="${D.esc(img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.hidden=true;this.parentElement.classList.add('no-image')">` : ""}</div>
             <div class="series-body">
               <div class="series-top"><span class="day-chip">${s.airing || s.day || ""}</span><span class="status-chip">${s.status}</span></div>
               <h3>${s.titleFa}</h3>

@@ -19,6 +19,9 @@ for (const [slug, show] of Object.entries(series)) {
     for (const url of [ep.image, ...(ep.images || [])].filter(Boolean)) if (!isHttps(url)) issues.push(`${slug} episode ${ep.number}: invalid image URL`);
   }
   if ((show.photos || []).length && !isHttps(show.photosSource)) issues.push(`${slug}: series gallery needs a source URL`);
+  if (!show.hero || !show.synopsis?.trim()) issues.push(`${slug}: series cover and synopsis are required`);
+  if (show.synopsis && !isHttps(show.synopsisSource)) issues.push(`${slug}: synopsis needs a source URL`);
+  if (show.heroSource && !isHttps(show.heroSource)) issues.push(`${slug}: cover needs a valid source URL`);
   if (required.includes(slug) && show.synopsis && !isHttps(show.synopsisSource)) issues.push(`${slug}: synopsis needs a source URL`);
   for (const url of [show.hero, ...(show.photos || [])].filter(Boolean)) if (!isHttps(url)) issues.push(`${slug}: invalid image URL`);
   const row = {
