@@ -801,14 +801,38 @@
     ],
     "seasons": [
       {
-        "number": 2,
-        "label": "فصل جدید",
-        "episodes": []
+        "number": 3,
+        "label": "فصل سوم",
+        "episodes": [
+          {
+            "number": 65,
+            "date": "2026-09-21",
+            "title": "بازگشت دنیز به ماردین",
+            "summary": "جیهان، دنیز را به ماردین می‌آورد و آلیا برای رسیدن به پسرش در برابر او می‌ایستد. میان آن دو، رنج‌های گذشته و احساسات فروخورده دوباره زنده می‌شود. حرکت غیرمنتظرهٔ اجمل، آلیا را بر سر انتخابی خطرناک می‌گذارد؛ در همان حال خواست زرین برای دیدن دخترش، کشمکش آلبورا و بای‌بارس را شدیدتر می‌کند و راز قدیمی صداقت به آشکار شدن نزدیک می‌شود. ورود کارتال و آزادی قریب‌الوقوع آتش نیز نوید رویارویی تازه‌ای را می‌دهد.",
+            "source": "https://www.kanald.com.tr/uzak-sehir/ozetler/uzak-sehir-65-bolum-ozeti",
+            "images": [
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3a8e6adc7618129484.jpg",
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3a8e6adc7618129482.jpg",
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3b8e6adc7618129495.jpg",
+              "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3a8e6adc7618129486.jpg"
+            ],
+            "image": "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3a8e6adc7618129484.jpg",
+            "photosSource": "https://www.kanald.com.tr/uzak-sehir/foto-galeri/uzak-sehir-65-bolum-fotograflari",
+            "fragman": "https://www.kanald.com.tr/uzak-sehir/fragmanlar/uzak-sehir-65-bolum-fragmani-2"
+          }
+        ]
       }
     ],
     "time": "20:00",
     "heroSource": "https://eurod.kanald.com.tr/uzak-sehir/haber/uzak-sehirin-3-sezon-afisi-gorucuye-cikti",
-    "synopsisSource": "https://www.kanald.com.tr/uzak-sehir/hikaye-ve-kunye"
+    "synopsisSource": "https://www.kanald.com.tr/uzak-sehir/hikaye-ve-kunye",
+    "photos": [
+      "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3a8e6adc7618129484.jpg",
+      "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3a8e6adc7618129482.jpg",
+      "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3b8e6adc7618129495.jpg",
+      "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3a8e6adc7618129486.jpg"
+    ],
+    "photosSource": "https://www.kanald.com.tr/uzak-sehir/foto-galeri/uzak-sehir-65-bolum-fotograflari"
   },
   "haysiyet": {
     "slug": "haysiyet",
@@ -1674,7 +1698,7 @@
     "network": "now",
     "studio": "",
     "year": 2025,
-    "status": "در حال پخش",
+    "status": "فصل جدید به‌زودی",
     "kind": "series",
     "day": "",
     "dayIndex": null,
@@ -1741,7 +1765,7 @@
     "network": "now",
     "studio": "",
     "year": 2026,
-    "status": "در حال پخش",
+    "status": "به‌زودی",
     "kind": "series",
     "day": "",
     "dayIndex": null,
@@ -1767,6 +1791,12 @@
       }
     ],
     "heroSource": "https://www.kgrthaber.com/sevdam-karadeniz-kadrosunda-degisiklik-iste-surpriz-isim",
-    "synopsisSource": "https://www.nowtv.com.tr/Sevdam-Karadeniz/haber/4375/NOW-in-Merakla-Beklenen-Yeni-Dizisi-Sevdam-Karadeniz-in-Afisi-Yayinlandi"
+    "synopsisSource": "https://www.nowtv.com.tr/Sevdam-Karadeniz/haber/4375/NOW-in-Merakla-Beklenen-Yeni-Dizisi-Sevdam-Karadeniz-in-Afisi-Yayinlandi",
+    "photos": [
+      "https://cdn.nowtv.com.tr/Programlar/Diger/diger-resim-a5eb16c2-c477-40b4-9e9a-1bc171921f11.jpg",
+      "https://cdn.nowtv.com.tr/Programlar/Diger/diger-resim-0cea14d8-2d7c-4c5b-8c53-af2e9731aae3.jpg",
+      "https://cdn.nowtv.com.tr/Programlar/Diger/diger-resim-53d0bf72-2128-4c3a-841b-28ae9a2e02b2.jpg"
+    ],
+    "photosSource": "https://www.nowtv.com.tr/Sevdam-Karadeniz/haber/4381/Sevdam-Karadeniz-in-Heyecan-Dolu-Fragmani-Yayinlandi"
   }
 }

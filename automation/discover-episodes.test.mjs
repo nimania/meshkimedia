@@ -35,3 +35,12 @@ test("recognizes episode URL patterns on other broadcasters", () => {
     assert.equal(candidateLinks(`<a href="${href}">Episode</a>`, listing, slug)[0]?.number, number);
   }
 });
+
+test("discovers a numbered latest-episode alias only when its label matches the show", () => {
+  const html = `<a href="/uzak-sehir/bolumler/uzak-sehir-son-bolum">Uzak Şehir 65. Bölüm</a>
+    <a href="/uzak-sehir/bolumler/uzak-sehir-son-bolum">Other show 66. Bölüm</a>
+    <a href="/uzak-sehir/fragmanlar/uzak-sehir-67-bolum-fragmani">Uzak Şehir 67. Bölüm</a>`;
+  assert.deepEqual(candidateLinks(html, "https://www.kanald.com.tr/uzak-sehir/bolumler", "uzak-sehir"), [
+    { number: 65, url: "https://www.kanald.com.tr/uzak-sehir/bolumler/uzak-sehir-son-bolum" },
+  ]);
+});

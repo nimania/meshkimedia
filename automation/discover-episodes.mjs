@@ -13,7 +13,7 @@ const fold = (s) => s.toLocaleLowerCase("tr")
 export function candidateLinks(html, listingUrl, slug) {
   const listing = new URL(listingUrl);
   const found = new Map();
-  const anchor = /<a\b[^>]*?\bhref\s*=\s*["']([^"']+)["'][^>]*>/gi;
+  const anchor = /<a\b[^>]*?\bhref\s*=\s*["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
   for (const match of html.matchAll(anchor)) {
     let url;
     try { url = new URL(match[1].replaceAll("&amp;", "&"), listing); } catch { continue; }
@@ -24,7 +24,13 @@ export function candidateLinks(html, listingUrl, slug) {
     if (/(fragman|ozet|ön-izleme|on-izleme|foto|galeri|haber|tanitim|tanıtım)/i.test(path)) continue;
     const number = path.match(/(?:^|[-/])(\d+)[.-]?bolum(?:\/|$)/i)?.[1]
       || path.match(/\/bolum\/(\d+)(?:\/|$)/i)?.[1]
-      || path.match(/-bolum-(\d+)-izle(?:\/|$)/i)?.[1];
+      || path.match(/-bolum-(\d+)-izle(?:\/|$)/i)?.[1]
+      // Kanal D uses a moving "son-bolum" URL for its latest episode.
+      // Its label gives the number, but the link must be reviewed before use.
+      || (/\/bolumler\/[^/]*son-bolum\/?$/.test(path)
+        && fold(match[2].replace(/<[^>]*>/g, " ")).includes(fold(slug))
+        ? match[2].replace(/<[^>]*>/g, " ").match(/(\d+)[.\s]*bölüm/i)?.[1]
+        : null);
     if (!number || Number(number) < 1) continue;
     url.hash = "";
     url.search = "";
