@@ -8,7 +8,9 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 
 const SOURCE_URL = "https://tiak.com.tr/";
 const OUTPUT_URL = new URL("../github-pages/data/ratings.json", import.meta.url);
-const WINDOW_DAYS = 10;
+// Keep roughly a season of observations for episode trends. The daily table UI
+// still shows only the ten newest available days.
+const WINDOW_DAYS = 120;
 
 const DEFAULTS = {
   metric: "Rating %",
@@ -87,7 +89,7 @@ try {
   const out = {
     updatedAt: new Date().toISOString(),
     metric: existing.metric || DEFAULTS.metric,
-    windowDays: existing.windowDays || WINDOW_DAYS,
+    windowDays: WINDOW_DAYS,
     source: existing.source || DEFAULTS.source,
     categories: existing.categories || DEFAULTS.categories,
     days: Array.isArray(existing.days) ? existing.days.slice() : [],

@@ -3,6 +3,7 @@
 (async function () {
   "use strict";
   const D = window.DiziMeter;
+  const T = window.RatingTrends;
   const R = D.ROOT;
   const esc = D.esc;
   const $ = (s) => document.querySelector(s);
@@ -142,6 +143,21 @@
     }).join("");
   }
 
+  function renderHomeTrends() {
+    const items = T.onAir(data.series).map((s, i) => ({ s, color: T.colors[i % T.colors.length], points: T.broadcasts(data.ratings, s) }))
+      .filter((x) => x.points.some((p) => p.rows.total?.rating != null));
+    const changed = items.map((x) => ({ ...x, change: T.changes(x.points, "total", "rating") })).filter((x) => x.change)
+      .sort((a, b) => b.change.delta - a.change.delta);
+    const featured = changed.slice(0, 3);
+    const chartItems = [...featured, ...items.filter((x) => !featured.includes(x))].slice(0, 6);
+    if (!items.length) { $("#home-trends-content").innerHTML = '<div class="notice">هنوز ریتینگ عددی برای سریال‌های در حال پخش ثبت نشده است.</div>'; return; }
+    const lines = chartItems.map((x) => ({ name: x.s.titleFa, color: x.color,
+      points: x.points.map((p, i) => ({ value: p.rows.total?.rating ?? null, date: p.date,
+        label: p.episode ? `قسمت ${p.episode.number}` : `پخش ثبت‌شدهٔ ${i + 1}` })) }));
+    const cards = changed.length ? changed.slice(0, 3).map((x, i) => `<a class="home-trend-card" href="${R}dizi/${x.s.slug}/" style="--trend-color:${x.color}"><small>${i === 0 ? "بیشترین رشد ثبت‌شده" : "تغییر دو پخش اخیر"}</small><strong>${esc(x.s.titleFa)}</strong><span class="${x.change.delta >= 0 ? "up" : "down"}">${x.change.delta > 0 ? "+" : ""}${T.fa(x.change.delta)} واحد ریتینگ</span><em>${x.change.firstDate} ← ${x.change.lastDate}</em></a>`).join("") : '<div class="trend-empty">رشد و افت پس از ثبت دو ریتینگ عددی برای هر سریال محاسبه می‌شود.</div>';
+    $("#home-trends-content").innerHTML = `<div class="home-trend-layout"><div><div class="home-trend-chart">${T.chart(lines, { xCount: Math.max(...chartItems.map((x) => x.points.length)), aria: "روند ریتینگ Total سریال‌های در حال پخش در پخش‌های ثبت‌شده" })}</div><div class="trend-legend">${chartItems.map((x) => `<a class="trend-legend-item" style="--trend-color:${x.color}" href="${R}dizi/${x.s.slug}/"><i></i>${esc(x.s.titleFa)}</a>`).join("")}</div></div><div class="home-trend-cards">${cards}</div></div><p class="trend-help">روند Total بر اساس پخش‌های دارای داده؛ مقایسهٔ کامل رتبه‌های Total، AB و ABC1 در صفحهٔ ریتینگ.</p>`;
+  }
+
   function renderFresh() {
     const rows = [];
     const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Istanbul", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
@@ -203,6 +219,7 @@
 
     renderTonight(nextDate, today);
     renderTop();
+    renderHomeTrends();
     renderFresh();
     renderPosters(today);
     renderNets();

@@ -137,18 +137,19 @@ function episodePage(s, ep) {
   if (ep.date) jsonld.datePublished = ep.date;
   if (img) jsonld.image = img;
   if (ep.summary) jsonld.description = ep.summary.slice(0, 300);
-  const h = head(root, { title: `${s.titleFa} — قسمت ${ep.number}${ep.title ? "؛ " + ep.title : ""} | مشکی مدیا`, desc: (ep.summary || `ریتینگ، عکس‌ها و خلاصهٔ قسمت ${ep.number} سریال ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/bolum-${ep.number}/`, ogImage: img, ogType: "video.episode", jsonld });
+  const h = head(root, { title: `${s.titleFa} — قسمت ${ep.number}${ep.title ? "؛ " + ep.title : ""} | مشکی مدیا`, desc: (ep.summary || `ریتینگ، عکس‌ها و خلاصهٔ قسمت ${ep.number} سریال ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/bolum-${ep.number}/`, ogImage: img, ogType: "video.episode", jsonld, version: "20260927trend1" });
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a id="crumb-series" href="#">سریال</a><span>/</span><span>قسمت ${ep.number}</span></div>
 <section id="ep-hero" class="ep-hero"><img class="ep-hero-image" alt="" referrerpolicy="no-referrer"><span id="ep-badge" class="net-chip"></span><div class="ep-hero-copy"><p class="ep-kicker" id="ep-kicker"></p><h1 id="ep-title">قسمت ${ep.number}</h1><div class="ep-facts" id="ep-facts"></div></div></section>
 <section class="ep-block ratings-big"><span class="kicker">ریتینگ این قسمت</span><h2>Total · AB · ABC1</h2><div id="ep-ratings"></div><p class="ratings-note" id="ratings-note"></p></section>
+<section class="ep-block" id="ep-trend-section"><span class="kicker">مسیر سریال</span><h2>جایگاه این قسمت در روند ریتینگ</h2><p class="trend-help">در نمای رتبه، عدد کمتر بهتر است و بالا رفتن خط یعنی بهبود جایگاه. نقطهٔ پررنگ قسمت فعلی است.</p><div id="ep-trend"></div><a class="trend-more" href="${root}reyting/#trends">مقایسه با سریال‌های دیگر ←</a></section>
 <section id="gallery-section" class="ep-block"><span class="kicker">تصاویر قسمت</span><h2>گالری</h2><div id="ep-gallery" class="gallery"></div><a id="ep-gallery-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع عکس‌ها در شبکهٔ پخش ↗</a></section>
 <section class="ep-block"><span class="kicker">خلاصهٔ قسمت (ری‌کپ)</span><h2>چه گذشت؟</h2><p id="ep-summary" class="ep-summary"></p><div id="ep-links" class="ep-links"></div></section>
 <div id="ep-nav" class="ep-nav"></div>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/`, "☰", "سریال"], [`dizi/${s.slug}/bolum-${ep.number}/#ep-ratings`, "⌁", "ریتینگ", true], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
-  return h + body + boot(root, { slug: s.slug, epNumber: ep.number }, ["episode-page.js", "gallery.js"], s.slug === "daha-17" ? "20260927f" : "20260927d");
+  return h + body + boot(root, { slug: s.slug, epNumber: ep.number }, ["rating-trends.js", "episode-page.js", "gallery.js"], "20260927trend1");
 }
 
 // ---- Network page ----------------------------------------------------------
@@ -247,12 +248,13 @@ ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"
 function ratingsPage() {
   const root = "../";
   const jsonld = { "@context": "https://schema.org", "@type": "CollectionPage", name: "ریتینگ تلویزیون ترکیه", url: `${BASE}/reyting/` };
-  const h = head(root, { title: "ریتینگ روزانهٔ تلویزیون ترکیه (Total، AB، ABC1) | مشکی مدیا", desc: "جدول ریتینگ روزانهٔ تلویزیون ترکیه از منبع رسمی TİAK: Total، AB و ABC1 در ده روز اخیر، با فیلتر شبکه و نوع برنامه.", path: "reyting/", jsonld });
+  const h = head(root, { title: "ریتینگ روزانهٔ تلویزیون ترکیه (Total، AB، ABC1) | مشکی مدیا", desc: "جدول ریتینگ روزانه و مقایسهٔ روند سریال‌های در حال پخش در Total، AB و ABC1، با دادهٔ رسمی موجود.", path: "reyting/", jsonld, version: "20260927trend1" });
   const body = `
 <main class="app-shell">
 <section class="intro"><h1>ریتینگ تلویزیون ترکیه</h1><p>آخرین روز ثبت‌شده: <span id="fetched-at">در حال دریافت…</span> · منبع رسمی TİAK</p></section>
 <section class="summary-card" aria-label="خلاصه ریتینگ"><div class="summary-number"><strong id="summary-count">—</strong><span>برنامه در جدول</span></div><div class="summary-number"><strong id="summary-date">—</strong><span>تاریخ</span></div><div class="summary-number"><strong id="summary-top">—</strong><span>بالاترین</span></div><div class="spark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></section>
 <section id="leader" class="leader-card"><div><small>صدرنشین این روز</small><h2 id="top-program">در حال دریافت داده…</h2><span id="top-network">—</span></div><strong id="top-rating">—</strong></section>
+<section id="trends" class="trend-section"><div class="feed-label"><span>مقایسهٔ روند سریال‌های در حال پخش</span><i></i></div><h2>هر سریال، پخش‌به‌پخش</h2><p class="trend-help">خط‌ها به ترتیب پخش‌های ثبت‌شدهٔ هر سریال رسم شده‌اند. رنگ هر سریال ثابت می‌ماند؛ تاریخ و شمارهٔ قسمت در فهرست زیر نمودار آمده است.</p><div class="trend-controls"><div id="trend-modes" class="trend-switch" role="group" aria-label="دستهٔ مخاطب"></div><div id="trend-metric" class="trend-switch" role="group" aria-label="نوع سنجه"></div></div><div id="trend-chart"></div><div id="trend-legend" class="trend-legend"></div><p id="trend-note" class="trend-help"></p><div id="trend-analysis" class="trend-analysis"></div><div id="trend-details" class="trend-details"></div></section>
 <section id="ratings" class="feed-section">
 <div class="feed-label"><span>جدول ریتینگ</span><i></i></div>
 <div class="cat-tabs" id="cat-tabs" role="group" aria-label="حالت ریتینگ"></div>
@@ -266,7 +268,7 @@ function ratingsPage() {
 <section id="method" class="method-card"><span>شفافیت داده</span><h2>عدد حدس نمی‌زنیم.</h2><p>ریتینگ Total مستقیماً از جدول عمومی TİAK خوانده می‌شود. رتبه‌بندی AB و ABC1 از اعلان‌های رسمی روزانه است؛ اعداد دقیق این دو دسته نیازمند دادهٔ عضویت TİAK است و تا آن زمان تنها رتبه نمایش داده می‌شود.</p><a href="https://tiak.com.tr/" target="_blank" rel="noreferrer">مشاهده منبع رسمی ↗</a></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["takvim/", "▤", "تقویم"], ["reyting/", "⌁", "ریتینگ", true]])}`;
-  return h + body + boot(root, {}, ["ratings.js"]);
+  return h + body + boot(root, {}, ["rating-trends.js", "ratings.js"], "20260927trend1");
 }
 
 // ---- write all -------------------------------------------------------------
