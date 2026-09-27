@@ -149,7 +149,8 @@
     const changed = items.map((x) => ({ ...x, change: T.changes(x.points, "total", "rating") })).filter((x) => x.change)
       .sort((a, b) => b.change.delta - a.change.delta);
     const featured = changed.slice(0, 3);
-    const chartItems = [...featured, ...items.filter((x) => !featured.includes(x))].slice(0, 6);
+    const featuredSlugs = new Set(featured.map((x) => x.s.slug));
+    const chartItems = [...featured, ...items.filter((x) => !featuredSlugs.has(x.s.slug))].slice(0, 6);
     if (!items.length) { $("#home-trends-content").innerHTML = '<div class="notice">هنوز ریتینگ عددی برای سریال‌های در حال پخش ثبت نشده است.</div>'; return; }
     const lines = chartItems.map((x) => ({ name: x.s.titleFa, color: x.color,
       points: x.points.map((p, i) => ({ value: p.rows.total?.rating ?? null, date: p.date,
