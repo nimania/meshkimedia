@@ -9,6 +9,7 @@ for (const s of Object.values(series)) {
   for (const c of s.cast || []) {
     if (!c.name || !c.role) errors.push(`${s.slug}: بازیگر یا نام نقش خالی است`);
     if (!c.description || !c.source) errors.push(`${s.slug}: شرح یا منبع نقش ${c.role} خالی است`);
+    if (!c.image || !/^https:\/\//.test(c.image)) errors.push(`${s.slug}: عکس بازیگر نقش ${c.role} خالی یا نامعتبر است`);
     const personSlug = c.personSlug || slugify(c.name);
     if (!people[personSlug]) errors.push(`${s.slug}: ${c.name} در people.json ثبت نشده`);
     else if (people[personSlug].name !== c.name) errors.push(`${s.slug}: شناسهٔ ${personSlug} با نام بازیگر نمی‌خواند`);
@@ -26,7 +27,15 @@ for (const [id, w] of Object.entries(works)) {
     seen.add(c.personSlug);
   }
 }
-for (const id of Object.keys(people)) if (!seen.has(id)) errors.push(`${id}: پروفایل بدون اثر ثبت‌شده`);
+for (const [id, person] of Object.entries(people)) {
+  if (!seen.has(id)) errors.push(`${id}: پروفایل بدون اثر ثبت‌شده`);
+  if (!person.photo || !/^https:\/\//.test(person.photo)) errors.push(`${id}: عکس پروفایل خالی یا نامعتبر است`);
+  for (const [platform, url] of Object.entries(person.socials || {})) {
+    const hosts = { instagram: ['instagram.com'], x: ['x.com', 'twitter.com'], youtube: ['youtube.com'], tiktok: ['tiktok.com'], facebook: ['facebook.com'], website: [] };
+    const host = /^https:\/\//.test(url) ? new URL(url).hostname.replace(/^www\./, '') : '';
+    if (!(platform in hosts) || !host || (hosts[platform].length && !hosts[platform].includes(host))) errors.push(`${id}: پیوند ${platform} نامعتبر است`);
+  }
+}
 const filled = Object.values(series).filter((s) => (s.cast || []).length).length;
 console.log(`بازیگران: ${Object.keys(people).length} · نقش‌ها: ${Object.values(series).reduce((n,s) => n+(s.cast||[]).length,0)} · آثار مستقل: ${Object.keys(works).length} · سریال‌های دارای کست: ${filled}/${Object.keys(series).length}`);
 if (errors.length) { console.error(errors.join("\n")); process.exitCode = 1; }

@@ -9,7 +9,7 @@
     const { networks, series } = await D.loadData();
     const items = [];
     D.seriesList(series).forEach((s) => {
-      if (s.fragman) items.push({ k: (s.titleFa + " " + s.titleTr).toLowerCase(), title: s.titleFa, sub: "فراگمان سریال", url: s.fragman, page: `${root}dizi/${s.slug}/`, img: s.hero || "" });
+      if (s.fragman) items.push({ k: (s.titleFa + " " + s.titleTr).toLowerCase(), title: s.titleFa, sub: "فراگمان‌های سریال", url: s.fragman, page: `${root}dizi/${s.slug}/`, img: s.hero || "" });
       D.allEpisodes(s).forEach((e) => { if (e.fragman) items.push({ k: (s.titleFa + " قسمت " + e.number).toLowerCase(), title: `${s.titleFa} — قسمت ${e.number}`, sub: "فراگمان قسمت", url: e.fragman, page: `${root}dizi/${s.slug}/bolum-${e.number}/`, img: e.image || (e.images && e.images[0]) || s.hero || "" }); });
     });
     if (!items.length) { el.innerHTML = `<div class="notice">هنوز فراگمانی ثبت نشده است.</div>`; return; }

@@ -13,7 +13,7 @@
       const disp = ch.nameFa || ch.name;
       const person = ch.personNameFa || ch.personName;
       return `<a class="person-card" href="${root}karakter/${ch.slug}/" data-k="${D.esc((ch.name + " " + (ch.nameFa || "") + " " + ch.personName).toLowerCase())}">
-      <div class="person-thumb ${ch.image ? "" : "no-image"}" ${ch.image ? `style="background-image:url('${ch.image}')"` : ""}>${ch.image ? "" : D.esc(disp.slice(0, 1))}</div>
+      <div class="person-thumb ${ch.image ? "" : "no-image"}">${ch.image ? `<img src="${D.esc(ch.image)}" alt="" loading="lazy" onerror="this.remove();this.parentElement.classList.add('no-image')">` : ""}<span class="avatar-initial">${D.esc(disp.slice(0, 1))}</span></div>
       <strong>${D.esc(disp)}</strong><span>${D.esc(ch.seriesTitleFa)}${person ? " · " + person : ""}</span></a>`;
     }).join("");
     if (q) q.addEventListener("input", () => { const v = q.value.trim().toLowerCase(); el.querySelectorAll(".person-card").forEach((c) => { c.style.display = !v || c.dataset.k.includes(v) ? "" : "none"; }); });
