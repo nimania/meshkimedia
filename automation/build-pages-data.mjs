@@ -8,6 +8,10 @@ const OUTPUT_URL = new URL("../github-pages/data/ratings.json", import.meta.url)
 const WINDOW_DAYS = 120;
 const MODES = { total: "Top10 5+", ab: "Top10 SES AB", abc1: "Top10 20+ABC1" };
 const repairExisting = process.argv.includes("--repair-existing");
+const backfillDays = Number(process.argv.find((arg) => arg.startsWith("--backfill-days="))?.split("=")[1] || 30);
+if (!Number.isInteger(backfillDays) || backfillDays < 1 || backfillDays > WINDOW_DAYS) {
+  throw new Error("--backfill-days must be between 1 and 120");
+}
 const dateKey = (d) => { const [dd, mm, yy] = d.split("."); return Number(`${yy}${mm}${dd}`); };
 const toRequestDate = (d) => { const [dd, mm, yy] = d.split("."); return `${Number(mm)}.${Number(dd)}.${yy}`; };
 
@@ -46,11 +50,21 @@ try {
   const latest = await getLatestDate();
   const days = Array.isArray(existing.days) ? existing.days.slice() : [];
   const targets = [latest];
-  // Scheduled runs repair one older partial day; --repair-existing repairs all.
-  const incomplete = days.filter((d) => d.date !== latest &&
-    !["total", "ab", "abc1"].every((mode) => d.hasNumbers?.[mode]))
-    .sort((a, b) => dateKey(b.date) - dateKey(a.date));
-  targets.push(...(repairExisting ? incomplete : incomplete.slice(0, 1)).map((d) => d.date));
+  // Backfill missing calendar dates, not only partial records already present.
+  // Never ask TİAK for dates newer than its latest published report.
+  const nowInTehran = new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Tehran", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
+  const [year, month, date] = nowInTehran.split("-").map(Number);
+  const start = new Date(Date.UTC(year, month - 1, date));
+  const missing = [];
+  for (let offset = 0; offset < backfillDays; offset++) {
+    const current = new Date(start.getTime() - offset * 86400000);
+    const day = `${String(current.getUTCDate()).padStart(2, "0")}.${String(current.getUTCMonth() + 1).padStart(2, "0")}.${current.getUTCFullYear()}`;
+    if (dateKey(day) > dateKey(latest) || day === latest) continue;
+    const found = days.find((item) => item.date === day);
+    if (!found || !["total", "ab", "abc1"].every((mode) => found.hasNumbers?.[mode])) missing.push(day);
+  }
+  // Normal scheduled runs repair two dates at a time; an explicit repair scans the full month.
+  targets.push(...(repairExisting ? missing : missing.slice(0, 2)));
 
   let changed = 0;
   for (const date of targets) {
@@ -69,7 +83,7 @@ try {
   const out = { ...existing, updatedAt: new Date().toISOString(), windowDays: WINDOW_DAYS,
     source: { name: "TİAK", url: "https://tiak.com.tr/tablolar" }, days: days.slice(0, WINDOW_DAYS) };
   await writeFile(OUTPUT_URL, `${JSON.stringify(out, null, 2)}\n`, "utf8");
-  console.log(`TİAK report ${latest}: validated ${changed} day(s) in Total, AB and ABC1.`);
+  console.log(`TİAK report ${latest}: validated ${changed} day(s) in Total, AB and ABC1; ${missing.length} dates needed backfill.`);
 } catch (error) {
   console.error(`Ratings refresh failed; keeping the previous data: ${error.message}`);
   process.exitCode = 1;

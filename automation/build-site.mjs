@@ -260,7 +260,7 @@ function ratingsPage() {
 <div class="feed-label"><span>جدول ریتینگ</span><i></i></div><p class="trend-help"><a href="${root}social/">اتاق انتشار: کارت و کپشن آماده برای اینستاگرام و X ←</a></p>
 <div class="cat-tabs" id="cat-tabs" role="group" aria-label="حالت ریتینگ"></div>
 <p class="cat-note" id="cat-note"></p>
-<div class="day-strip"><span class="day-strip-label">۱۰ روز اخیر:</span><div class="day-tabs" id="day-tabs"></div></div>
+<div class="day-strip"><span class="day-strip-label">ماه اخیر، تاریخ‌های دارای داده:</span><div class="day-tabs" id="day-tabs"></div></div>
 <div class="filter-row" role="group" aria-label="فیلتر برنامه‌ها"><button class="filter active" data-filter="all">همه</button><button class="filter" data-filter="series">سریال‌ها</button><button class="filter" data-filter="entertainment">سرگرمی</button><button class="filter" data-filter="news">خبر</button><select id="net-filter" class="net-filter" aria-label="فیلتر شبکه"></select></div>
 <div id="loading" class="notice">در حال بارگذاری آخرین دادهٔ منتشرشده…</div>
 <div id="error" class="notice error" hidden>داده موقتاً در دسترس نیست؛ سامانه دوباره تلاش می‌کند.</div>
