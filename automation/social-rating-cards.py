@@ -7,6 +7,8 @@ from pathlib import Path
 import urllib.request
 from functools import lru_cache
 from PIL import Image, ImageDraw, ImageFont, ImageOps
+import cairosvg
+from solar_date import solar_date
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "github-pages" / "data"
@@ -32,6 +34,27 @@ def font(size, bold=False):
 
 def fa(text):
     return str(text).translate(str.maketrans("0123456789.-", "۰۱۲۳۴۵۶۷۸۹٫−"))
+
+@lru_cache(maxsize=16)
+def network_logo(slug):
+    path = ROOT / "github-pages" / "images" / "networks" / f"{slug}.svg"
+    if not path.is_file(): return None
+    try:
+        return Image.open(io.BytesIO(cairosvg.svg2png(url=str(path), output_width=330))).convert("RGBA")
+    except Exception as exc:
+        print(f"Network logo unavailable ({slug}): {exc}")
+        return None
+
+def network_badge(canvas, slug, xy):
+    mark = network_logo(slug)
+    if mark is None: return
+    x, y = xy
+    tile = ImageOps.contain(mark, (150, 62), method=Image.Resampling.LANCZOS)
+    panel = Image.new("RGBA", (176, 84), (255, 255, 255, 240))
+    panel.alpha_composite(tile, ((176-tile.width)//2, (84-tile.height)//2))
+    mask = Image.new("L", panel.size)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, 175, 83), radius=16, fill=255)
+    canvas.paste(panel.convert("RGB"), (x, y), mask)
 
 def fmt(value):
     return fa(f"{value:.2f}") if value is not None else "—"
@@ -121,11 +144,12 @@ def card(show, rows, episode, art, landscape=False, report=None):
     title = show["titleFa"]
     if landscape:
         fitted(d, (W - 44, 125), title, W - 95, 49, "#ffffff")
-        line = f"{fa(report['date'])}  •  {show['titleTr']}"
+        line = f"{solar_date(report['date'])}  •  {show['titleTr']}"
         txt(d, (W - 46, 193), line, 20, "#b9a6ac", rtl=True)
         subtitle = f"فصل {fa(episode['season'])} · قسمت {fa(episode['number'])}" if episode else "شمارهٔ قسمت هنوز در تقویم ثبت نشده"
         txt(d, (W - 46, 224), subtitle, 22, "#ffffff", rtl=True)
         cover(canvas, (714, 255, 445, 340), art, title)
+        network_badge(canvas, show.get("network", ""), (W-219, 273))
         d = ImageDraw.Draw(canvas)
         for i, mode in enumerate(("total", "ab", "abc1")):
             metric(d, (39, 256 + i * 112, 645, 100), mode.upper(), rows[mode], previous(show, mode) if report['source'] == 'TİAK' else None, True)
@@ -133,12 +157,13 @@ def card(show, rows, episode, art, landscape=False, report=None):
         txt(d, (W - 43, H - 39), f"داده: {report['source']}", 17, "#b9a6ac", rtl=True)
     else:
         fitted(d, (W - 44, 150), title, W - 88, 61, "#ffffff")
-        txt(d, (W - 45, 229), f"{fa(report['date'])}  •  {show['titleTr']}", 23, "#b9a6ac", rtl=True)
+        txt(d, (W - 45, 229), f"{solar_date(report['date'])}  •  {show['titleTr']}", 23, "#b9a6ac", rtl=True)
         subtitle = f"فصل {fa(episode['season'])} · قسمت {fa(episode['number'])}" if episode else "شمارهٔ قسمت هنوز در تقویم ثبت نشده"
         txt(d, (W - 45, 256), subtitle, 26, "#ffffff", rtl=True)
         for i, mode in enumerate(("total", "ab", "abc1")):
             metric(d, (40, 293 + i * 152, 1000, 135), mode.upper(), rows[mode], previous(show, mode) if report['source'] == 'TİAK' else None)
         cover(canvas, (40, 773, 1000, 460), art, title)
+        network_badge(canvas, show.get("network", ""), (W-225, 793))
         d = ImageDraw.Draw(canvas)
         txt(d, (40, H - 52), "nimania.github.io/meshkimedia", 17, "#eebbc2")
         txt(d, (W - 45, H - 52), f"داده: {report['source']}  •  @meshki.media", 17, "#b9a6ac", rtl=True)
@@ -187,7 +212,7 @@ for entry in reviewed.get("entries", []):
 
 from html import escape
 cards.sort(key=lambda item: tuple(map(int, reversed(item[3]["date"].split(".")))), reverse=True)
-items = "".join(f'<article><h2>{escape(show["titleFa"])}</h2><p>قسمت {fa(ep["number"])} · {fa(report["date"])} · <a href="{escape(report["url"], quote=True)}" target="_blank" rel="noopener">منبع: {escape(report["source"])}</a></p><img src="{name}-instagram.png" alt="کارت ریتینگ {escape(show["titleFa"])}" loading="lazy"><p><a download href="{name}-instagram.png">دریافت اینستاگرام (۱۰۸۰×۱۳۵۰)</a> · <a download href="{name}-x.png">دریافت X (۱۲۰۰×۶۷۵)</a></p></article>' for show, name, ep, report in cards)
+items = "".join(f'<article><h2>{escape(show["titleFa"])}</h2><p>قسمت {fa(ep["number"])} · {solar_date(report["date"])} · <a href="{escape(report["url"], quote=True)}" target="_blank" rel="noopener">منبع: {escape(report["source"])}</a></p><img src="{name}-instagram.png" alt="کارت ریتینگ {escape(show["titleFa"])}" loading="lazy"><p><a download href="{name}-instagram.png">دریافت اینستاگرام (۱۰۸۰×۱۳۵۰)</a> · <a download href="{name}-x.png">دریافت X (۱۲۰۰×۶۷۵)</a></p></article>' for show, name, ep, report in cards)
 index = f'''<!doctype html><html lang="fa" dir="rtl"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>کارت‌های ریتینگ | مشکی‌مدیا</title><style>@font-face{{font-family:Vazirmatn;src:url(../../vazirmatn.woff2)}}body{{font-family:Vazirmatn,Tahoma,sans-serif;background:#120f11;color:#fff;max-width:1050px;margin:auto;padding:26px}}h1{{font-size:clamp(24px,4vw,40px)}}p{{color:#c7b7bc}}a{{color:#ff6579}}main{{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}}article{{padding:18px;background:#241c20;border-radius:20px}}article img{{width:100%;border-radius:14px}}</style><a href="../">← اتاق انتشار</a><h1>کارت‌های آمادهٔ انتشار</h1><p>تاریخ و منبع روی هر کارت مشخص است. دادهٔ رسمی TİAK و نتیجهٔ بازبینی‌شدهٔ دیزیلا جدا نمایش داده می‌شوند؛ پیش از انتشار تصویر و ارقام را مرور کنید.</p><main>{items or '<p>برای این تاریخ کارتی ثبت نشده است.</p>'}</main></html>'''
 (DEST / "index.html").write_text(index)
-print(f"Created {len(cards)} series cards; official TİAK through {day['date']}, reviewed posts included where newer, in {DEST}")
+print(f"Created {len(cards)} series cards; official TİAK through {solar_date(day['date'])}, reviewed posts included where newer, in {DEST}")

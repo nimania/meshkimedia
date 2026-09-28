@@ -2,8 +2,8 @@ name: Check Dizilah Instagram ratings
 
 on:
   schedule:
-    # Every five hours, including 11:00 Tehran (UTC+03:30).
-    - cron: "30 2,7,12,17,22 * * *"
+    # 10:00, 11:00, 12:00 and 17:00 Tehran (UTC+03:30).
+    - cron: "30 6,7,8,13 * * *"
   workflow_dispatch:
 
 permissions:

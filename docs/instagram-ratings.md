@@ -1,6 +1,6 @@
 # پایش ریتینگ‌های دیزیلا
 
-گردش‌کار `.github/workflows/instagram-ratings.yml` پنج بار در شبانه‌روز، با فاصلهٔ پنج ساعت (از جمله حدود ساعت ۱۱ تهران)، آخرین پست‌های ریتینگ `@dizilah` را از Meta Business Discovery دریافت می‌کند. زمان اجرای GitHub Actions ممکن است کمی تأخیر داشته باشد.
+گردش‌کار `.github/workflows/instagram-ratings.yml` هر روز حدود ساعت‌های ۱۰، ۱۱، ۱۲ و ۱۷ تهران، آخرین پست‌های ریتینگ `@dizilah` را از Meta Business Discovery دریافت می‌کند. زمان اجرای GitHub Actions ممکن است کمی تأخیر داشته باشد.
 
 ## راه‌اندازی دسترسی
 
