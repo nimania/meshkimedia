@@ -12,6 +12,10 @@
   const fmtInt = (n) => faInt.format(n);
   const fmtScore = (n) => (n == null || Number.isNaN(n) ? "—" : faScore.format(n));
   const fmtRank = (n) => (n == null ? "—" : faInt.format(n));
+  const faDigits = (value) => String(value ?? "").replace(/[0-9٠-٩]/g, (digit) =>
+    "۰۱۲۳۴۵۶۷۸۹"[digit.charCodeAt(0) <= 57 ? digit.charCodeAt(0) - 48 : digit.charCodeAt(0) - 0x660]);
+  const asciiDigits = (value) => String(value ?? "").replace(/[۰-۹٠-٩]/g, (digit) =>
+    String(digit.charCodeAt(0) - (digit.charCodeAt(0) >= 0x6f0 ? 0x6f0 : 0x660)));
   const isoToFa = (iso) => (iso ? faDate.format(new Date(iso + "T00:00:00")) : "");
   const isoToTiak = (iso) => { if (!iso) return ""; const [y, m, d] = iso.split("-"); return `${d}.${m}.${y}`; };
   const esc = (s) => String(s == null ? "" : s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -148,6 +152,47 @@
     const img = `<img class="net-logo" src="${ROOT}images/networks/${n.slug}.svg" alt="${esc(n.name)}" loading="lazy">`;
     return opts.link === false ? `<span class="net-chip">${img}</span>` : `<a class="net-chip" href="${ROOT}kanal/${n.slug}/" title="${esc(n.name)}">${img}</a>`;
   }
+  // Compact network marks retain a readable name for screen readers and hover.
+  // Source tables sometimes spell a broadcaster differently from its catalogue key.
+  function networkMark(networks, key, opts = {}) {
+    const n = networks[key] || Object.values(networks).find((item) =>
+      item.name.toUpperCase() === String(key || "").toUpperCase() ||
+      (item.ratingKeys || []).some((alias) => alias.toUpperCase() === String(key || "").toUpperCase()));
+    if (!n) return `<span class="network-mark-fallback">${esc(key || "")}</span>`;
+    const img = `<img src="${ROOT}images/networks/${n.slug}.svg" alt="${esc(n.name)}" loading="lazy">`;
+    return opts.link ? `<a class="network-mark" href="${ROOT}kanal/${n.slug}/" title="${esc(n.name)}">${img}</a>`
+      : `<span class="network-mark" title="${esc(n.name)}">${img}</span>`;
+  }
+
+  // Localize display text, including dynamically inserted cards and SVG chart labels.
+  // URLs, data keys, dates used for comparison, input values and JSON-LD are untouched.
+  function localizeVisibleDigits(root) {
+    if (root.nodeType === Node.TEXT_NODE) {
+      if (root.parentElement?.closest("script,style,code,pre,textarea")) return;
+      const next = faDigits(root.nodeValue);
+      if (next !== root.nodeValue) root.nodeValue = next;
+      return;
+    }
+    if (root.nodeType !== Node.ELEMENT_NODE) return;
+    if (root.matches("script,style,code,pre,textarea")) return;
+    for (const attr of ["aria-label", "title", "alt", "placeholder"]) {
+      if (root.hasAttribute(attr)) {
+        const old = root.getAttribute(attr), next = faDigits(old);
+        if (next !== old) root.setAttribute(attr, next);
+      }
+    }
+    for (const child of root.childNodes) localizeVisibleDigits(child);
+  }
+  function initPersianDigits() {
+    localizeVisibleDigits(document.body);
+    document.title = faDigits(document.title);
+    new MutationObserver((records) => {
+      for (const record of records) {
+        if (record.type === "characterData") localizeVisibleDigits(record.target);
+        else for (const node of record.addedNodes) localizeVisibleDigits(node);
+      }
+    }).observe(document.documentElement, { subtree: true, childList: true, characterData: true });
+  }
   function ratingPills(modes, ratings) {
     const cat = (ratings && ratings.categories) || {};
     const cell = (m, meta) => {
@@ -170,13 +215,13 @@
 
   window.DiziMeter = {
     ROOT, esc, slugify,
-    fmtInt, fmtScore, fmtRank, isoToFa, isoToTiak,
+    fmtInt, fmtScore, fmtRank, faDigits, asciiDigits, isoToFa, isoToTiak,
     loadData, seriesList, seriesForNetwork, allEpisodes, scheduledEpisodes,
     buildPeople, buildCharacters,
     ratingFor, ratingModesFor, seriesHeadlineRating, latestDay,
     calendarTimes, WEEKDAYS_FA,
-    netBadge, ratingPills, initTheme,
+    netBadge, networkMark, ratingPills, initTheme,
   };
   document.addEventListener("DOMContentLoaded", initTheme);
+  document.addEventListener("DOMContentLoaded", initPersianDigits);
 })();
-

@@ -31,7 +31,7 @@
     $("#ep-facts").innerHTML = [
       ep.date ? `<span>📅 ${D.isoToFa(ep.date)}</span>` : "",
       `<span>قسمت ${D.fmtInt(ep.number)}</span>`,
-      net ? `<span>${net.name}</span>` : "",
+      net ? D.networkMark(networks, s.network) : "",
     ].join("");
 
     // Hero image = first photo or series hero

@@ -48,7 +48,7 @@
 
   function renderDayTabs() {
     $("#day-tabs").innerHTML = data.ratings.days.slice(0, 10)
-      .map((d, i) => `<button class="day-tab ${i === activeDayIdx ? "active" : ""}" data-idx="${i}">${d.date}</button>`)
+      .map((d, i) => `<button class="day-tab ${i === activeDayIdx ? "active" : ""}" data-idx="${i}">${D.faDigits(d.date)}</button>`)
       .join("");
     $("#day-tabs").querySelectorAll(".day-tab").forEach((b) =>
       b.addEventListener("click", () => { activeDayIdx = Number(b.dataset.idx); renderAll(); })
@@ -81,9 +81,9 @@
 
   function renderSummary() {
     const { day, rows } = currentRows();
-    $("#fetched-at").textContent = day.date + (day.weekday ? ` · ${day.weekday}` : "");
+    $("#fetched-at").textContent = D.faDigits(day.date + (day.weekday ? ` · ${day.weekday}` : ""));
     $("#summary-count").textContent = D.fmtInt(rows.length);
-    $("#summary-date").textContent = day.date;
+    $("#summary-date").textContent = D.faDigits(day.date);
     $("#summary-top").textContent = rows[0] ? (rows[0].rating != null ? D.fmtScore(rows[0].rating) : `#${D.fmtInt(rows[0].rank)}`) : "—";
     // Leader
     if (rows[0]) {
@@ -92,7 +92,7 @@
       $("#top-program").textContent = meta.series ? meta.series.titleFa : top.program;
       $("#top-program").title = top.program;
       if (meta.series) { $("#top-program").innerHTML = `<a href="${D.ROOT}dizi/${meta.series.slug}/">${meta.series.titleFa}</a>`; }
-      $("#top-network").textContent = top.network;
+      $("#top-network").innerHTML = D.networkMark(data.networks, top.network);
       $("#top-rating").textContent = top.rating != null ? D.fmtScore(top.rating) : `#${D.fmtInt(top.rank)}`;
     }
   }
@@ -116,7 +116,7 @@
         return `<article class="rating-card ${meta.kind === "series" ? "is-series" : ""}">
           <b class="rank">${D.fmtInt(r.rank)}</b>
           <div class="rating-main">
-            <div class="rating-meta"><span class="tag">${catLabel(meta.kind)}</span><span class="network">${r.network}</span></div>
+            <div class="rating-meta"><span class="tag">${catLabel(meta.kind)}</span>${D.networkMark(data.networks, r.network)}</div>
             <h3 dir="rtl">${titleHtml}</h3>
             <p dir="ltr">${r.program}</p>
           </div>

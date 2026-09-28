@@ -25,6 +25,9 @@
 .rp-r{font-size:8px;color:var(--muted)}
 /* ---- Network chips / logos ---- */
 .net-chip{display:inline-grid;place-items:center;padding:0}
+.network-mark{display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;flex:none;min-width:42px;min-height:21px;line-height:1}
+.network-mark img{display:block;max-width:66px;width:auto;height:22px;object-fit:contain;border-radius:5px}
+.network-mark-fallback{color:var(--muted);font-size:11px}
 .net-logo{height:26px;width:auto;display:block;border-radius:6px}
 .net-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
 .net-tile{display:flex;align-items:center;gap:11px;padding:13px;border:1px solid var(--line);border-radius:14px;background:var(--surface);box-shadow:var(--shadow);border-inline-start:4px solid var(--net-color,var(--green))}
@@ -360,6 +363,7 @@ body.home{--page-w:1120px}
 .tonight-time{min-width:58px;padding:7px 10px;border-radius:13px;background:var(--green-soft);color:var(--green);text-align:center}
 .tonight-time b{display:block;font-size:16px;font-weight:900;line-height:1.3}
 .tonight-time small{display:block;font-size:9px;font-weight:700}
+.tonight-time .network-mark{margin-top:4px}.tonight-time .network-mark img{height:17px;max-width:48px}
 
 /* ---- Split: most-watched + fresh episodes ---- */
 .home-split{display:grid}
@@ -376,6 +380,7 @@ body.home{--page-w:1120px}
 .top-info{min-width:0}
 .top-info strong{display:block;overflow:hidden;font-size:15px;font-weight:800;text-overflow:ellipsis;white-space:nowrap}
 .top-info>span{display:block;margin-top:2px;color:var(--muted);font-size:11px}
+.top-info>.top-meta{display:flex;align-items:center;gap:7px}.top-meta .network-mark img{height:18px;max-width:49px}
 .top-bar{display:block;height:6px;margin-top:8px;overflow:hidden;border-radius:99px;background:var(--surface-soft)}
 .top-bar i{display:block;height:100%;border-radius:inherit;background:linear-gradient(270deg,var(--brand),#ff8a3d)}
 .top-score{min-width:54px;text-align:center}

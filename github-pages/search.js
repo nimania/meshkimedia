@@ -9,7 +9,7 @@
   try {
     const index = await fetch(`${root}data/search-index.json?v=${Date.now()}`, { cache: "no-store" }).then((r) => r.json());
     const render = (v) => {
-      v = (v || "").trim().toLowerCase();
+      v = D.asciiDigits((v || "").trim().toLowerCase());
       if (!v) { el.innerHTML = `<div class="notice">نام سریال، فیلم، بازیگر، نقش یا قسمت را بنویس…</div>`; return; }
       const hits = index.filter((r) => (r.titleFa + " " + (r.titleTr || "") + " " + (r.sub || "")).toLowerCase().includes(v)).slice(0, 60);
       if (!hits.length) { el.innerHTML = `<div class="notice">چیزی پیدا نشد.</div>`; return; }
