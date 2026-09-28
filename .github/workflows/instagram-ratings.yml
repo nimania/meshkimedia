@@ -1,0 +1,40 @@
+name: Check Dizilah Instagram ratings
+
+on:
+  schedule:
+    # 11:00 Tehran = 07:30 UTC throughout the year; a second check covers late posts.
+    - cron: "30 7 * * *"
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install OCR languages
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-tur
+      - name: Check recent ratings posts
+        env:
+          INSTAGRAM_GRAPH_TOKEN: ${{ secrets.INSTAGRAM_GRAPH_TOKEN }}
+          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+        run: |
+          if [ -z "$INSTAGRAM_GRAPH_TOKEN" ] || [ -z "$INSTAGRAM_USER_ID" ]; then
+            echo 'Meta credentials are required for @dizilah Business Discovery. Add INSTAGRAM_GRAPH_TOKEN and INSTAGRAM_USER_ID to repository secrets.' >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          node automation/dizilah-instagram.mjs
+          cat instagram-review/review.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: ${{ hashFiles('instagram-review/candidates.json') != '' }}
+        with:
+          name: dizilah-ratings-review
+          path: instagram-review/
+          retention-days: 14

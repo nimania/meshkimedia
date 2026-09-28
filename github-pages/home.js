@@ -148,17 +148,26 @@
       .filter((x) => x.points.some((p) => p.rows.total?.rating != null));
     const changed = items.map((x) => ({ ...x, change: T.changes(x.points, "total", "rating") })).filter((x) => x.change)
       .sort((a, b) => b.change.delta - a.change.delta);
-    const featured = changed.slice(0, 3);
-    const featuredSlugs = new Set(featured.map((x) => x.s.slug));
-    const chartItems = [...featured, ...items.filter((x) => !featuredSlugs.has(x.s.slug) && x.points.filter((p) => p.rows.total?.rating != null).length >= 2)].slice(0, 6);
     if (!items.length) { $("#home-trends-content").innerHTML = '<div class="notice">هنوز ریتینگ عددی برای سریال‌های در حال پخش ثبت نشده است.</div>'; return; }
-    const lines = chartItems.map((x) => ({ name: x.s.titleFa, color: x.color,
-      points: x.points.map((p, i) => ({ value: p.rows.total?.rating ?? null, date: p.date,
-        label: p.episode ? `قسمت ${p.episode.number}` : `پخش ثبت‌شدهٔ ${i + 1}` })) }));
-    const cards = changed.length ? changed.slice(0, 3).map((x, i) => `<a class="home-trend-card" href="${R}dizi/${x.s.slug}/" style="--trend-color:${x.color}"><small>${i === 0 ? "بیشترین رشد ثبت‌شده" : "تغییر دو پخش اخیر"}</small><strong>${esc(x.s.titleFa)}</strong><span class="${x.change.delta >= 0 ? "up" : "down"}">${x.change.delta > 0 ? "+" : ""}${T.fa(x.change.delta)} واحد ریتینگ</span><em>${x.change.firstDate} ← ${x.change.lastDate}</em></a>`).join("") : '<div class="trend-empty">رشد و افت پس از ثبت دو ریتینگ عددی برای هر سریال محاسبه می‌شود.</div>';
-    const single = items.filter((x) => x.points.filter((p) => p.rows.total?.rating != null).length === 1);
-    const singles = single.length ? `<div class="trend-single-list"><strong>فقط یک پخشِ دارای داده؛ هنوز روند ندارند</strong>${single.map((x) => { const p = x.points.find((row) => row.rows.total?.rating != null); return `<a href="${R}dizi/${x.s.slug}/"><i style="--trend-color:${x.color}"></i><span>${esc(x.s.titleFa)}<small>${p.episode ? `قسمت ${D.fmtInt(p.episode.number)} · ` : ""}${D.isoToFa(p.date)}</small></span><b>${D.fmtScore(p.rows.total.rating)}٪</b></a>`; }).join("")}</div>` : "";
-    $("#home-trends-content").innerHTML = `<div class="home-trend-layout"><div><div class="home-trend-chart">${chartItems.length ? T.chart(lines, { aria: "روند ریتینگ Total سریال‌های در حال پخش بر اساس تاریخ واقعی پخش" }) : '<div class="trend-empty">با ثبت ریتینگ دو قسمت از یک سریال، روند زمانی آن اینجا نمایش داده می‌شود.</div>'}</div><div class="trend-legend">${chartItems.map((x) => `<a class="trend-legend-item" style="--trend-color:${x.color}" href="${R}dizi/${x.s.slug}/"><i></i>${esc(x.s.titleFa)}</a>`).join("")}</div>${singles}</div><div class="home-trend-cards">${cards}</div></div><p class="trend-help">محور افقی تاریخ پخش و محور عمودی Rating % است. روی نقطه مکث کنید تا نام سریال، قسمت و مقدار دیده شود. فقط سریال‌های دارای دست‌کم دو پخش در نمودار خط دارند؛ مقایسهٔ کامل در صفحهٔ ریتینگ است.</p>`;
+    const latest = (x, mode) => x.points.filter((p) => Number.isFinite(p.rows[mode]?.rating)).at(-1);
+    const highest = [...items].sort((a, b) => latest(b, "total").rows.total.rating - latest(a, "total").rows.total.rating)[0];
+    const bestAb = [...items].filter((x) => latest(x, "ab"))
+      .sort((a, b) => latest(b, "ab").rows.ab.rating - latest(a, "ab").rows.ab.rating)[0];
+    const growth = changed.find((x) => x.change.delta > 0);
+    const decline = [...changed].reverse().find((x) => x.change.delta < 0);
+    const facts = [
+      growth && { x: growth, heading: "بیشترین رشد در دو پخش", value: `+${T.fa(growth.change.delta)} واحد`, detail: "ریتینگ Total نسبت به پخش قبلی", point: latest(growth, "total"), type: "up" },
+      decline && { x: decline, heading: "بیشترین افت در دو پخش", value: `${T.fa(decline.change.delta)} واحد`, detail: "ریتینگ Total نسبت به پخش قبلی", point: latest(decline, "total"), type: "down" },
+      highest && { x: highest, heading: "بالاترین Total ثبت‌شده", value: `${D.fmtScore(latest(highest, "total").rows.total.rating)}٪`, detail: "آخرین پخشِ دارای ریتینگ این سریال", point: latest(highest, "total") },
+      bestAb && { x: bestAb, heading: "پیشتاز مخاطبان AB", value: `${D.fmtScore(latest(bestAb, "ab").rows.ab.rating)}٪`, detail: "آخرین پخشِ دارای ریتینگ AB", point: latest(bestAb, "ab") },
+    ].filter(Boolean);
+    const cards = facts.map(({ x, heading, value, detail, point, type }) => {
+      const href = `${R}dizi/${x.s.slug}/${point.episode ? `bolum-${point.episode.number}/` : ""}`;
+      const date = point.date ? D.isoToFa(point.date) : "";
+      return `<a class="home-insight" href="${href}" style="--trend-color:${x.color}"><small>${heading}</small><strong>${esc(x.s.titleFa)}</strong><b class="${type || ""}">${value}</b><span>${detail}</span><em>${point.episode ? `قسمت ${D.fmtInt(point.episode.number)} · ` : ""}${date}</em></a>`;
+    }).join("");
+    const newest = tiakToIso(data.ratings.days[0]?.date);
+    $("#home-trends-content").innerHTML = `<div class="home-insights">${cards}</div><div class="home-insights-foot"><span>آخرین دادهٔ ثبت‌شده: ${newest ? D.isoToFa(newest) : "نامشخص"}</span><a class="home-insights-more" href="${R}reyting/#trends">نمودارها و مقایسهٔ همهٔ سریال‌ها ←</a></div>`;
   }
 
   function renderFresh() {
