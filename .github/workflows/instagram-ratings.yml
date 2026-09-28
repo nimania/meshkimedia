@@ -2,9 +2,8 @@ name: Check Dizilah Instagram ratings
 
 on:
   schedule:
-    # 11:00 Tehran = 07:30 UTC throughout the year; a second check covers late posts.
-    - cron: "30 7 * * *"
-    - cron: "0 8 * * *"
+    # Every five hours, including 11:00 Tehran (UTC+03:30).
+    - cron: "30 2,7,12,17,22 * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,8 +26,9 @@ jobs:
           INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
         run: |
           if [ -z "$INSTAGRAM_GRAPH_TOKEN" ] || [ -z "$INSTAGRAM_USER_ID" ]; then
-            echo 'Meta credentials are required for @dizilah Business Discovery. Add INSTAGRAM_GRAPH_TOKEN and INSTAGRAM_USER_ID to repository secrets.' >> "$GITHUB_STEP_SUMMARY"
-            exit 0
+            echo 'Instagram monitoring is not configured. Add INSTAGRAM_GRAPH_TOKEN and INSTAGRAM_USER_ID to repository secrets.' >> "$GITHUB_STEP_SUMMARY"
+            echo '::error::Instagram monitor cannot run without Meta credentials'
+            exit 1
           fi
           node automation/dizilah-instagram.mjs
           cat instagram-review/review.md >> "$GITHUB_STEP_SUMMARY"

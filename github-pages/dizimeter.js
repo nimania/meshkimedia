@@ -35,13 +35,33 @@
   async function loadData() {
     if (_cache) return _cache;
     const v = Date.now();
-    const [networks, series, ratings, profiles, works] = await Promise.all([
+    const [networks, series, ratings, profiles, works, social] = await Promise.all([
       fetch(`${ROOT}data/networks.json?v=${v}`, { cache: "no-store" }).then((r) => r.json()),
       fetch(`${ROOT}data/series.json?v=${v}`, { cache: "no-store" }).then((r) => r.json()),
       fetch(`${ROOT}data/ratings.json?v=${v}`, { cache: "no-store" }).then((r) => r.json()),
       fetch(`${ROOT}data/people.json?v=${v}`, { cache: "no-store" }).then((r) => r.json()),
       fetch(`${ROOT}data/works.json?v=${v}`, { cache: "no-store" }).then((r) => r.json()),
+      fetch(`${ROOT}data/social-ratings.json?v=${v}`, { cache: "no-store" }).then((r) => r.ok ? r.json() : { entries: [] }).catch(() => ({ entries: [] })),
     ]);
+    // A social post can supply a series result before the full official table
+    // is public. Preserve official rows when both sources cover the same show.
+    for (const item of social.entries || []) {
+      if (!series[item.slug]?.ratingKey || !/^\d{2}\.\d{2}\.\d{4}$/.test(item.date || "")) continue;
+      let day = ratings.days.find((d) => d.date === item.date);
+      if (!day) {
+        day = { date: item.date, weekday: "", partial: true, source: { name: "Dizilah", url: item.source.url },
+          hasNumbers: { total: true, ab: true, abc1: true }, categories: { total: [], ab: [], abc1: [] } };
+        ratings.days.push(day);
+      }
+      for (const mode of ["total", "ab", "abc1"]) {
+        const r = item.categories?.[mode];
+        if (!r || day.categories[mode].some((row) => row.program.toUpperCase() === item.program.toUpperCase())) continue;
+        day.categories[mode].push({ ...r, program: item.program, network: item.network,
+          source: item.source, episode: item.episode });
+        day.categories[mode].sort((a, b) => a.rank - b.rank);
+      }
+    }
+    ratings.days.sort((a, b) => b.date.split(".").reverse().join("").localeCompare(a.date.split(".").reverse().join("")));
     _cache = { networks, series, ratings, profiles, works };
     return _cache;
   }

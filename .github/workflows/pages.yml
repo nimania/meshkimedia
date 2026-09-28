@@ -10,6 +10,7 @@ on:
       - "automation/build-site.mjs"
       - "automation/social-rating-cards.py"
       - "automation/social-content.py"
+      - "automation/build-social-ratings.mjs"
       - "automation/reviewed-social-ratings.json"
       - "automation/audit-cast.mjs"
       - ".github/workflows/pages.yml"
@@ -48,6 +49,8 @@ jobs:
         continue-on-error: true
       - name: Regenerate static pages from data
         run: node automation/build-site.mjs
+      - name: Publish reviewed Instagram rating supplement
+        run: node automation/build-social-ratings.mjs
       - name: Create daily social rating cards
         run: |
           python3 -m pip install --break-system-packages Pillow
