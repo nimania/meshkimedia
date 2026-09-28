@@ -49,7 +49,7 @@
     if (day) {
       const keys = (net.ratingKeys || [net.name]).map((k) => k.toUpperCase());
       const rows = day.categories.total.filter((r) => keys.includes((r.network || "").toUpperCase()));
-      $("#net-day-date").textContent = day.date;
+      $("#net-day-date").textContent = D.tiakToFa(day.date);
       $("#net-ratings").innerHTML = rows.length
         ? rows.map((r) => `<div class="net-rating-row"><b>#${D.fmtInt(r.rank)}</b><span>${r.program}</span><strong>${D.fmtScore(r.rating)}</strong></div>`).join("")
         : `<div class="notice">برنامه‌ای از این شبکه در Top جدول اخیر نیست.</div>`;

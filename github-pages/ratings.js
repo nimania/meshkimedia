@@ -28,8 +28,8 @@
     const best = ranked[0], worst = ranked[ranked.length - 1];
     $("#trend-note").textContent = `${T.fa(available.length)} سریال داده دارند؛ ${T.fa(plottable.length)} سریال با دست‌کم دو پخش در نمودار آمده‌اند. محور افقی تاریخ واقعی پخش است. ${metric === "rank" ? "رتبهٔ ۱ بالاترین جایگاه است. بالا رفتن خط یعنی بهبود رتبه." : "محور عمودی Rating % است؛ بالا رفتن خط یعنی رشد مخاطب."} روی نقطه مکث کنید تا نام سریال، شمارهٔ قسمت، تاریخ و مقدار را ببینید. پخش‌های بدون داده برآورد نمی‌شوند.`;
     const summary = ranked.length ? `<div class="trend-insight"><small>${best.change.delta > 0 ? "بیشترین رشد" : "بهترین تغییر"} بین دو پخش دارای داده</small><strong>${D.esc(best.s.titleFa)}</strong><b class="${best.change.delta >= 0 ? "up" : "down"}">${best.change.delta > 0 ? "+" : ""}${T.fa(best.change.delta)} ${metric === "rank" ? "پله" : "واحد"}</b></div>${ranked.length > 1 ? `<div class="trend-insight"><small>${worst.change.delta < 0 ? "بیشترین افت" : "کمترین رشد"} بین دو پخش دارای داده</small><strong>${D.esc(worst.s.titleFa)}</strong><b class="${worst.change.delta < 0 ? "down" : "up"}">${worst.change.delta > 0 ? "+" : ""}${T.fa(worst.change.delta)} ${metric === "rank" ? "پله" : "واحد"}</b></div>` : ""}` : "";
-    $("#trend-analysis").innerHTML = summary + (ranked.length ? `<div class="trend-change-list"><h3>تغییر آخرین دو پخشِ دارای داده</h3>${ranked.map((x) => `<a href="${D.ROOT}dizi/${x.s.slug}/"><i style="--trend-color:${x.color}"></i><span>${D.esc(x.s.titleFa)}<small>${x.change.firstDate} ← ${x.change.lastDate}</small></span><b class="${x.change.delta >= 0 ? "up" : "down"}">${x.change.delta > 0 ? "+" : ""}${T.fa(x.change.delta)} ${metric === "rank" ? "پله" : "واحد"}</b></a>`).join("")}</div>` : '<div class="trend-empty">برای محاسبهٔ رشد یا افت، دست‌کم دو پخش دارای داده برای یک سریال لازم است. تاریخچه با انتشار داده‌های جدید کامل می‌شود.</div>');
-    $("#trend-details").innerHTML = `<h3>جزئیات هر پخش</h3>${available.map((x) => `<details><summary><i style="--trend-color:${x.color}"></i>${D.esc(x.s.titleFa)} <small>${T.fa(x.points.filter((p) => Number.isFinite(p.rows[mode]?.[metric])).length)} پخش دارای داده</small></summary><div class="trend-detail-rows">${x.points.filter((p) => Number.isFinite(p.rows[mode]?.[metric])).map((p, i) => `<a href="${D.ROOT}dizi/${x.s.slug}/${p.episode ? `bolum-${p.episode.number}/` : ""}"><span>${p.episode ? `قسمت ${D.fmtInt(p.episode.number)}` : `پخش ثبت‌شدهٔ ${D.fmtInt(i + 1)}`}</span><time>${D.esc(p.date)}</time><b>${metric === "rank" ? `رتبهٔ ${D.fmtInt(p.rows[mode].rank)}` : `${T.fa(p.rows[mode].rating)}٪`}</b></a>`).join("")}</div></details>`).join("")}${trendItems.filter((x) => !available.includes(x)).length ? `<p class="trend-help">بدون داده در این نما: ${trendItems.filter((x) => !available.includes(x)).map((x) => D.esc(x.s.titleFa)).join("، ")}</p>` : ""}`;
+    $("#trend-analysis").innerHTML = summary + (ranked.length ? `<div class="trend-change-list"><h3>تغییر آخرین دو پخشِ دارای داده</h3>${ranked.map((x) => `<a href="${D.ROOT}dizi/${x.s.slug}/"><i style="--trend-color:${x.color}"></i><span>${D.esc(x.s.titleFa)}<small>${D.isoToFa(x.change.firstDate)} ← ${D.isoToFa(x.change.lastDate)}</small></span><b class="${x.change.delta >= 0 ? "up" : "down"}">${x.change.delta > 0 ? "+" : ""}${T.fa(x.change.delta)} ${metric === "rank" ? "پله" : "واحد"}</b></a>`).join("")}</div>` : '<div class="trend-empty">برای محاسبهٔ رشد یا افت، دست‌کم دو پخش دارای داده برای یک سریال لازم است. تاریخچه با انتشار داده‌های جدید کامل می‌شود.</div>');
+    $("#trend-details").innerHTML = `<h3>جزئیات هر پخش</h3>${available.map((x) => `<details><summary><i style="--trend-color:${x.color}"></i>${D.esc(x.s.titleFa)} <small>${T.fa(x.points.filter((p) => Number.isFinite(p.rows[mode]?.[metric])).length)} پخش دارای داده</small></summary><div class="trend-detail-rows">${x.points.filter((p) => Number.isFinite(p.rows[mode]?.[metric])).map((p, i) => `<a href="${D.ROOT}dizi/${x.s.slug}/${p.episode ? `bolum-${p.episode.number}/` : ""}"><span>${p.episode ? `قسمت ${D.fmtInt(p.episode.number)}` : `پخش ثبت‌شدهٔ ${D.fmtInt(i + 1)}`}</span><time>${D.isoToFa(p.date)}</time><b>${metric === "rank" ? `رتبهٔ ${D.fmtInt(p.rows[mode].rank)}` : `${T.fa(p.rows[mode].rating)}٪`}</b></a>`).join("")}</div></details>`).join("")}${trendItems.filter((x) => !available.includes(x)).length ? `<p class="trend-help">بدون داده در این نما: ${trendItems.filter((x) => !available.includes(x)).map((x) => D.esc(x.s.titleFa)).join("، ")}</p>` : ""}`;
   }
 
   function classify(row) {
@@ -48,7 +48,7 @@
 
   function renderDayTabs() {
     $("#day-tabs").innerHTML = data.ratings.days.slice(0, 30)
-      .map((d, i) => `<button class="day-tab ${i === activeDayIdx ? "active" : ""}" data-idx="${i}">${D.faDigits(d.date)}</button>`)
+      .map((d, i) => `<button class="day-tab ${i === activeDayIdx ? "active" : ""}" data-idx="${i}">${D.tiakToFa(d.date, true)}</button>`)
       .join("");
     $("#day-tabs").querySelectorAll(".day-tab").forEach((b) =>
       b.addEventListener("click", () => { activeDayIdx = Number(b.dataset.idx); renderAll(); })
@@ -81,9 +81,9 @@
 
   function renderSummary() {
     const { day, rows } = currentRows();
-    $("#fetched-at").textContent = D.faDigits(day.date + (day.weekday ? ` · ${day.weekday}` : ""));
+    $("#fetched-at").textContent = D.tiakToFa(day.date) + (day.weekday ? ` · ${day.weekday}` : "");
     $("#summary-count").textContent = D.fmtInt(rows.length);
-    $("#summary-date").textContent = D.faDigits(day.date);
+    $("#summary-date").textContent = D.tiakToFa(day.date, true);
     $("#summary-top").textContent = rows[0] ? (rows[0].rating != null ? D.fmtScore(rows[0].rating) : `#${D.fmtInt(rows[0].rank)}`) : "—";
     // Leader
     $("#leader").style.display = day.partial ? "none" : "";

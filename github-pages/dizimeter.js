@@ -8,7 +8,8 @@
   // ---- Formatting -----------------------------------------------------------
   const faInt = new Intl.NumberFormat("fa-IR");
   const faScore = new Intl.NumberFormat("fa-IR", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-  const faDate = new Intl.DateTimeFormat("fa-IR", { dateStyle: "medium" });
+  const faDate = new Intl.DateTimeFormat("fa-IR-u-ca-persian", { dateStyle: "medium", timeZone: "UTC" });
+  const faNumericDate = new Intl.DateTimeFormat("fa-IR-u-ca-persian", { year: "numeric", month: "2-digit", day: "2-digit", timeZone: "UTC" });
   const fmtInt = (n) => faInt.format(n);
   const fmtScore = (n) => (n == null || Number.isNaN(n) ? "—" : faScore.format(n));
   const fmtRank = (n) => (n == null ? "—" : faInt.format(n));
@@ -16,7 +17,9 @@
     "۰۱۲۳۴۵۶۷۸۹"[digit.charCodeAt(0) <= 57 ? digit.charCodeAt(0) - 48 : digit.charCodeAt(0) - 0x660]);
   const asciiDigits = (value) => String(value ?? "").replace(/[۰-۹٠-٩]/g, (digit) =>
     String(digit.charCodeAt(0) - (digit.charCodeAt(0) >= 0x6f0 ? 0x6f0 : 0x660)));
-  const isoToFa = (iso) => (iso ? faDate.format(new Date(iso + "T00:00:00")) : "");
+  const isoToFa = (iso) => (iso ? faDate.format(new Date(iso.slice(0, 10) + "T12:00:00Z")) : "");
+  const isoToFaNumeric = (iso) => (iso ? faNumericDate.format(new Date(iso.slice(0, 10) + "T12:00:00Z")) : "");
+  const tiakToFa = (value, numeric = false) => { const [d, m, y] = String(value || "").split("."); return y ? (numeric ? isoToFaNumeric : isoToFa)(`${y}-${m}-${d}`) : ""; };
   const isoToTiak = (iso) => { if (!iso) return ""; const [y, m, d] = iso.split("-"); return `${d}.${m}.${y}`; };
   const esc = (s) => String(s == null ? "" : s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
@@ -235,7 +238,7 @@
 
   window.DiziMeter = {
     ROOT, esc, slugify,
-    fmtInt, fmtScore, fmtRank, faDigits, asciiDigits, isoToFa, isoToTiak,
+    fmtInt, fmtScore, fmtRank, faDigits, asciiDigits, isoToFa, isoToFaNumeric, tiakToFa, isoToTiak,
     loadData, seriesList, seriesForNetwork, allEpisodes, scheduledEpisodes,
     buildPeople, buildCharacters,
     ratingFor, ratingModesFor, seriesHeadlineRating, latestDay,

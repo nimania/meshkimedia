@@ -58,7 +58,7 @@
       feed.innerHTML = visible.length ? visible.map(([date, entries]) => `
         <section class="calendar-day${date === today ? " is-today" : ""}" id="day-${date}">
           <div class="calendar-day-heading"><div><span>${date === today ? "امروز · " : ""}${longDate.format(dateObject(date))}</span>
-            <small dir="ltr">${date}</small></div><b>${numeral.format(entries.length)} سریال</b></div>
+            <small>${D.isoToFaNumeric(date)}</small></div><b>${numeral.format(entries.length)} سریال</b></div>
           <div class="calendar-cards">${entries.map((entry) => {
             const show = series[entry.slug] || data.shows[entry.slug];
             const net = networks[show.network];

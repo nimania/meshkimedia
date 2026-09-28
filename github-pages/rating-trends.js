@@ -64,7 +64,7 @@
         // Do not bridge a missing episode/category; explicit broadcasts remain adjacent.
         if (last && (p.x ?? i) === last.index + 1) paths += `<path d="M${last.x.toFixed(1)},${last.y.toFixed(1)} L${px.toFixed(1)},${py.toFixed(1)}" fill="none" stroke="${line.color}" stroke-width="3" stroke-linecap="round"/>`;
         last = { x: px, y: py, index: p.x ?? i };
-        const title = `${line.name} · ${p.label || `پخش ${i + 1}`} · ${p.date || ""} · ${metric === "rank" ? "رتبه" : "ریتینگ"} ${fa(p.value)}${metric === "rating" ? "٪" : ""}`;
+        const title = `${line.name} · ${p.label || `پخش ${i + 1}`} · ${p.date ? new Intl.DateTimeFormat("fa-IR-u-ca-persian", { dateStyle: "medium", timeZone: "UTC" }).format(new Date(`${p.date}T12:00:00Z`)) : ""} · ${metric === "rank" ? "رتبه" : "ریتینگ"} ${fa(p.value)}${metric === "rating" ? "٪" : ""}`;
         return `<circle class="trend-point" cx="${px.toFixed(1)}" cy="${py.toFixed(1)}" r="${p.current ? 7 : 5.5}" fill="${line.color}" stroke="var(--surface)" stroke-width="${p.current ? 3 : 2}" tabindex="0" role="img" aria-label="${esc(title)}" data-tip="${esc(title)}"><title>${esc(title)}</title></circle>`;
       }).join("");
       return paths + points;

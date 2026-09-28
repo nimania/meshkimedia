@@ -10,6 +10,8 @@ on:
       - "automation/build-site.mjs"
       - "automation/social-rating-cards.py"
       - "automation/social-content.py"
+      - "automation/solar_date.py"
+      - "automation/social-episode-galleries.py"
       - "automation/build-social-ratings.mjs"
       - "automation/reviewed-social-ratings.json"
       - "automation/audit-cast.mjs"
@@ -53,8 +55,10 @@ jobs:
         run: node automation/build-social-ratings.mjs
       - name: Create daily social rating cards
         run: |
-          python3 -m pip install --break-system-packages Pillow
+          python3 -m pip install --break-system-packages Pillow CairoSVG
           python3 automation/social-rating-cards.py
+      - name: Create episode gallery carousels
+        run: python3 automation/social-episode-galleries.py
       - name: Create social publication room
         run: python3 automation/social-content.py
       - name: Check editorial content
