@@ -11,8 +11,8 @@
   function renderTrends() {
     const mode = trendMode, metric = trendMetric;
     $("#trend-modes").innerHTML = T.modes.map((m) => `<button class="trend-button ${mode === m ? "active" : ""}" data-mode="${m}" aria-pressed="${mode === m}">${T.labels[m]}</button>`).join("");
-    $("#trend-metric").innerHTML = `<button class="trend-button ${metric === "rating" ? "active" : ""}" data-metric="rating" aria-pressed="${metric === "rating"}" ${mode !== "total" ? "disabled title=\"عدد ریتینگ AB و ABC1 موجود نیست\"" : ""}>ریتینگ ٪</button><button class="trend-button ${metric === "rank" ? "active" : ""}" data-metric="rank" aria-pressed="${metric === "rank"}">رتبه</button>`;
-    $("#trend-modes").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => { trendMode = b.dataset.mode; if (trendMode !== "total") trendMetric = "rank"; renderTrends(); }));
+    $("#trend-metric").innerHTML = `<button class="trend-button ${metric === "rating" ? "active" : ""}" data-metric="rating" aria-pressed="${metric === "rating"}">ریتینگ ٪</button><button class="trend-button ${metric === "rank" ? "active" : ""}" data-metric="rank" aria-pressed="${metric === "rank"}">رتبه</button>`;
+    $("#trend-modes").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => { trendMode = b.dataset.mode; renderTrends(); }));
     $("#trend-metric").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => { trendMetric = b.dataset.metric; renderTrends(); }));
     const available = trendItems.filter((x) => x.points.some((p) => Number.isFinite(p.rows[mode]?.[metric])));
     const visible = available.filter((x) => !hiddenTrends.has(x.s.slug));
@@ -130,7 +130,7 @@
     const has = day.hasNumbers && day.hasNumbers[activeCat];
     $("#cat-note").textContent = has
       ? `اعداد Rating % واقعی از ${data.ratings.source.name}.`
-      : `برای این دسته/روز فقط رتبه‌بندی رسمی موجود است؛ اعداد دقیق AB/ABC1 نیازمند دادهٔ عضویت ${data.ratings.source.name} است.`;
+      : `برای این تاریخ هنوز مقدار عددی در بایگانی ما ثبت نشده است؛ پس از بازیابی جدول عمومی ${data.ratings.source.name} کامل می‌شود.`;
   }
 
   function renderAll() {
