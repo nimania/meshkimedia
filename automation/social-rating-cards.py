@@ -5,6 +5,7 @@ import json
 import os
 from pathlib import Path
 import urllib.request
+from functools import lru_cache
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -16,14 +17,18 @@ ratings = json.loads((DATA / "ratings.json").read_text())
 calendar = json.loads((DATA / "calendar.json").read_text())
 day = ratings["days"][0]
 date = "-".join(reversed(day["date"].split(".")))
-FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+FONT = str(ROOT / "github-pages" / "vazirmatn.woff2")
+BOLD = FONT
 if not Path(FONT).exists():
-    FONT = str(Path(os.environ.get("CODEX_PRIMARY_RUNTIME_ROOT", "/usr/share/fonts")) / "DejaVuSans.ttf")
-    BOLD = FONT
+    FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+    BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
+@lru_cache(maxsize=128)
 def font(size, bold=False):
-    return ImageFont.truetype(BOLD if bold else FONT, size)
+    face = ImageFont.truetype(BOLD if bold else FONT, size)
+    if FONT.endswith(".woff2"):
+        face.set_variation_by_name("Bold" if bold else "Regular")
+    return face
 
 def fa(text):
     return str(text).translate(str.maketrans("0123456789.-", "۰۱۲۳۴۵۶۷۸۹٫−"))
@@ -42,6 +47,8 @@ def fitted(draw, xy, value, max_width, size, fill, rtl=True):
     txt(draw, xy, value, size, fill, bold=True, rtl=rtl)
 
 def official_art(url):
+    if os.environ.get("SOCIAL_SKIP_ART") == "1":
+        return None
     if not url or not url.startswith("https://"):
         return None
     try:
@@ -89,12 +96,13 @@ def metric(draw, box, label, row, prior, compact=False):
         txt(draw, (x + w - 22, y + (45 if compact else 71)), f"سهم {fmt(row['share'])}٪", 16 if compact else 19, "#d9cdd0", rtl=True)
     if row and row.get("rating") is not None and prior is not None:
         delta = row["rating"] - prior
-        txt(draw, (x + 22, y + h - (22 if compact else 26)), f"{'↑' if delta > 0 else '↓' if delta < 0 else '＝'} {fmt(abs(delta))} نسبت به پخش قبلی", 15 if compact else 18,
-            "#7be2b7" if delta > 0 else "#ff8392" if delta < 0 else "#d9cdd0", rtl=True, anchor="la")
+        txt(draw, (x + w - 22, y + h - (24 if compact else 29)), f"{'↑' if delta > 0 else '↓' if delta < 0 else '＝'} {fmt(abs(delta))} نسبت به پخش قبلی", 15 if compact else 17,
+            "#7be2b7" if delta > 0 else "#ff8392" if delta < 0 else "#d9cdd0", rtl=True)
     elif row:
-        txt(draw, (x + 22, y + h - (22 if compact else 26)), "بدون مقایسهٔ قبلی", 15 if compact else 17, "#a9949b", rtl=True, anchor="la")
+        txt(draw, (x + w - 22, y + h - (24 if compact else 29)), "بدون مقایسهٔ قبلی", 15 if compact else 16, "#a9949b", rtl=True)
 
-def card(show, rows, episode, art, landscape=False):
+def card(show, rows, episode, art, landscape=False, report=None):
+    report = report or {"date": day["date"], "source": "TİAK"}
     W, H = (1200, 675) if landscape else (1080, 1350)
     canvas = Image.new("RGB", (W, H), "#120f11")
     d = ImageDraw.Draw(canvas)
@@ -113,27 +121,27 @@ def card(show, rows, episode, art, landscape=False):
     title = show["titleFa"]
     if landscape:
         fitted(d, (W - 44, 125), title, W - 95, 49, "#ffffff")
-        line = f"{fa(day['date'])}  •  {show['titleTr']}"
+        line = f"{fa(report['date'])}  •  {show['titleTr']}"
         txt(d, (W - 46, 193), line, 20, "#b9a6ac", rtl=True)
         subtitle = f"فصل {fa(episode['season'])} · قسمت {fa(episode['number'])}" if episode else "شمارهٔ قسمت هنوز در تقویم ثبت نشده"
         txt(d, (W - 46, 224), subtitle, 22, "#ffffff", rtl=True)
         cover(canvas, (714, 255, 445, 340), art, title)
         d = ImageDraw.Draw(canvas)
         for i, mode in enumerate(("total", "ab", "abc1")):
-            metric(d, (39, 256 + i * 112, 645, 100), mode.upper(), rows[mode], previous(show, mode), True)
-        txt(d, (39, H - 39), "instagram.com/meshki.media", 17, "#eebbc2")
-        txt(d, (W - 43, H - 39), "داده: TİAK", 17, "#b9a6ac", rtl=True)
+            metric(d, (39, 256 + i * 112, 645, 100), mode.upper(), rows[mode], previous(show, mode) if report['source'] == 'TİAK' else None, True)
+        txt(d, (39, H - 39), "nimania.github.io/meshkimedia", 16, "#eebbc2")
+        txt(d, (W - 43, H - 39), f"داده: {report['source']}", 17, "#b9a6ac", rtl=True)
     else:
         fitted(d, (W - 44, 150), title, W - 88, 61, "#ffffff")
-        txt(d, (W - 45, 229), f"{fa(day['date'])}  •  {show['titleTr']}", 23, "#b9a6ac", rtl=True)
+        txt(d, (W - 45, 229), f"{fa(report['date'])}  •  {show['titleTr']}", 23, "#b9a6ac", rtl=True)
         subtitle = f"فصل {fa(episode['season'])} · قسمت {fa(episode['number'])}" if episode else "شمارهٔ قسمت هنوز در تقویم ثبت نشده"
         txt(d, (W - 45, 256), subtitle, 26, "#ffffff", rtl=True)
         for i, mode in enumerate(("total", "ab", "abc1")):
-            metric(d, (40, 293 + i * 152, 1000, 135), mode.upper(), rows[mode], previous(show, mode))
+            metric(d, (40, 293 + i * 152, 1000, 135), mode.upper(), rows[mode], previous(show, mode) if report['source'] == 'TİAK' else None)
         cover(canvas, (40, 773, 1000, 460), art, title)
         d = ImageDraw.Draw(canvas)
-        txt(d, (40, H - 52), "instagram.com/meshki.media", 18, "#eebbc2")
-        txt(d, (W - 45, H - 52), "داده: TİAK  •  تصویر: شبکهٔ پخش", 18, "#b9a6ac", rtl=True)
+        txt(d, (40, H - 52), "nimania.github.io/meshkimedia", 17, "#eebbc2")
+        txt(d, (W - 45, H - 52), f"داده: {report['source']}  •  @meshki.media", 17, "#b9a6ac", rtl=True)
     return canvas
 
 DEST.mkdir(parents=True, exist_ok=True)
@@ -154,10 +162,32 @@ for show in series.values():
     name = show["slug"]
     for kind, landscape in (("instagram", False), ("x", True)):
         card(show, rows, episode, photo, landscape).save(DEST / f"{name}-{kind}.png", optimize=True)
-    cards.append((show, name, episode))
+    cards.append((show, name, episode, {"date": day["date"], "source": "TİAK", "url": "https://tiak.com.tr/tablolar"}))
+
+# Editorially reviewed public posts can be fresher than TİAK's delayed public Top 10.
+# Keep their provenance separate; do not insert these numbers into ratings.json.
+reviewed = json.loads((ROOT / "automation" / "reviewed-social-ratings.json").read_text())
+for entry in reviewed.get("entries", []):
+    show = series.get(entry.get("slug"))
+    source = entry.get("source", {})
+    order = lambda value: tuple(map(int, reversed(value.split("."))))
+    if order(entry["date"]) <= order(day["date"]):
+        continue
+    if not show or not source.get("url", "").startswith("https://www.instagram.com/p/"):
+        continue
+    rows = entry["categories"]
+    if not all(mode in rows and all(field in rows[mode] for field in ("rank", "rating", "share")) for mode in ("total", "ab", "abc1")):
+        continue
+    report = {"date": entry["date"], "source": source["name"], "url": source["url"]}
+    episode = {"season": entry["season"], "number": entry["episode"]}
+    photo = official_art(show.get("hero", ""))
+    for kind, landscape in (("instagram", False), ("x", True)):
+        card(show, rows, episode, photo, landscape, report).save(DEST / f"{show['slug']}-{kind}.png", optimize=True)
+    cards.append((show, show["slug"], episode, report))
 
 from html import escape
-items = "".join(f'<article><h2>{escape(show["titleFa"])}</h2><p>{"قسمت " + fa(ep["number"]) if ep else "شمارهٔ قسمت ثبت نشده"}</p><img src="{name}-instagram.png" alt="کارت ریتینگ {escape(show["titleFa"])}" loading="lazy"><p><a download href="{name}-instagram.png">دریافت اینستاگرام (۱۰۸۰×۱۳۵۰)</a> · <a download href="{name}-x.png">دریافت X (۱۲۰۰×۶۷۵)</a></p></article>' for show, name, ep in cards)
-index = f'''<!doctype html><html lang="fa" dir="rtl"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>کارت‌های ریتینگ | مشکی‌مدیا</title><style>body{{font-family:system-ui,sans-serif;background:#120f11;color:#fff;max-width:1050px;margin:auto;padding:26px}}h1{{font-size:clamp(24px,4vw,40px)}}p{{color:#c7b7bc}}a{{color:#ff6579}}main{{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}}article{{padding:18px;background:#241c20;border-radius:20px}}article img{{width:100%;border-radius:14px}}</style><a href="../../reyting/">← ریتینگ سایت</a><h1>کارت‌های آمادهٔ انتشار</h1><p>دادهٔ رسمی {fa(day['date'])} از TİAK؛ برای هر سریال، نسخهٔ اینستاگرام و X آمادهٔ دریافت است. پیش از انتشار، تصویر و اطلاعات را مرور کنید.</p><main>{items or '<p>امروز سریالی در جدول عمومی ثبت نشده است.</p>'}</main></html>'''
+cards.sort(key=lambda item: tuple(map(int, reversed(item[3]["date"].split(".")))), reverse=True)
+items = "".join(f'<article><h2>{escape(show["titleFa"])}</h2><p>قسمت {fa(ep["number"])} · {fa(report["date"])} · <a href="{escape(report["url"], quote=True)}" target="_blank" rel="noopener">منبع: {escape(report["source"])}</a></p><img src="{name}-instagram.png" alt="کارت ریتینگ {escape(show["titleFa"])}" loading="lazy"><p><a download href="{name}-instagram.png">دریافت اینستاگرام (۱۰۸۰×۱۳۵۰)</a> · <a download href="{name}-x.png">دریافت X (۱۲۰۰×۶۷۵)</a></p></article>' for show, name, ep, report in cards)
+index = f'''<!doctype html><html lang="fa" dir="rtl"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>کارت‌های ریتینگ | مشکی‌مدیا</title><style>@font-face{{font-family:Vazirmatn;src:url(../../vazirmatn.woff2)}}body{{font-family:Vazirmatn,Tahoma,sans-serif;background:#120f11;color:#fff;max-width:1050px;margin:auto;padding:26px}}h1{{font-size:clamp(24px,4vw,40px)}}p{{color:#c7b7bc}}a{{color:#ff6579}}main{{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}}article{{padding:18px;background:#241c20;border-radius:20px}}article img{{width:100%;border-radius:14px}}</style><a href="../">← اتاق انتشار</a><h1>کارت‌های آمادهٔ انتشار</h1><p>تاریخ و منبع روی هر کارت مشخص است. دادهٔ رسمی TİAK و نتیجهٔ بازبینی‌شدهٔ دیزیلا جدا نمایش داده می‌شوند؛ پیش از انتشار تصویر و ارقام را مرور کنید.</p><main>{items or '<p>برای این تاریخ کارتی ثبت نشده است.</p>'}</main></html>'''
 (DEST / "index.html").write_text(index)
-print(f"Created {len(cards)} series cards for {day['date']} in {DEST}")
+print(f"Created {len(cards)} series cards; official TİAK through {day['date']}, reviewed posts included where newer, in {DEST}")
