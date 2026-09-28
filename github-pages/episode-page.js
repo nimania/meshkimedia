@@ -51,11 +51,11 @@
           label: `قسمت ${item.number}`, date: item.date, current: item.number === ep.number })) }));
       const graph = T.chart(lines, { metric: "rank", xCount: eps.length,
         aria: `روند رتبهٔ Total، AB و ABC1 سریال ${s.titleFa} در قسمت‌های ثبت‌شده` });
-      const totalLine = [{ name: "Total", color: T.colors[0], points: points.map(({ item, modes }) => ({
-        value: modes.total?.rating ?? null, label: `قسمت ${item.number}`, date: item.date,
-        current: item.number === ep.number })) }];
-      const totalGraph = T.chart(totalLine, { metric: "rating", xCount: eps.length,
-        aria: `روند ریتینگ درصد Total سریال ${s.titleFa} در قسمت‌های ثبت‌شده` });
+      const numericLines = T.modes.map((mode, i) => ({ name: T.labels[mode], color: T.colors[i],
+        points: points.map(({ item, modes }) => ({ value: modes[mode]?.rating ?? null,
+          label: `قسمت ${item.number}`, date: item.date, current: item.number === ep.number })) }));
+      const numericGraph = T.chart(numericLines, { metric: "rating", xCount: eps.length,
+        aria: `روند ریتینگ درصد Total، AB و ABC1 سریال ${s.titleFa} در قسمت‌های ثبت‌شده` });
       const legend = lines.map((line, i) => `<span class="trend-legend-item"><i style="--trend-color:${line.color}"></i>${line.name}</span>`).join("");
       const seriesRows = T.broadcasts(ratings, s);
       const current = seriesRows.find((p) => p.date === ep.date);
@@ -66,11 +66,10 @@
         delta = `<p class="trend-delta ${diff >= 0 ? "up" : "down"}">Total این پخش: ${diff >= 0 ? "افزایش" : "کاهش"} ${T.fa(Math.abs(diff))} واحد ریتینگ نسبت به پخش ثبت‌شدهٔ قبلی</p>`;
       }
       const chartEl = $("#ep-trend");
-      chartEl.innerHTML = `<div class="trend-switch" role="group" aria-label="سنجهٔ نمودار قسمت"><button class="trend-button active" data-ep-metric="rank" aria-pressed="true">رتبهٔ سه دسته</button><button class="trend-button" data-ep-metric="rating" aria-pressed="false">ریتینگ ٪ Total</button></div><div id="ep-trend-graph">${graph}</div><div class="trend-legend" id="ep-trend-legend">${legend}</div><div class="trend-episodes">${points.map(({ item, modes }) => `<a class="trend-episode ${item.number === ep.number ? "current" : ""}" href="${D.ROOT}dizi/${s.slug}/bolum-${item.number}/" title="${D.esc(item.date || "")}">قسمت ${D.fmtInt(item.number)}<small>${T.modes.map((mode) => modes[mode] ? `${T.labels[mode]} #${D.fmtInt(modes[mode].rank)}` : "").filter(Boolean).join(" · ") || "بدون داده"}</small></a>`).join("")}</div>${delta}`;
+      chartEl.innerHTML = `<div class="trend-switch" role="group" aria-label="سنجهٔ نمودار قسمت"><button class="trend-button active" data-ep-metric="rank" aria-pressed="true">رتبهٔ سه دسته</button><button class="trend-button" data-ep-metric="rating" aria-pressed="false">ریتینگ ٪ سه دسته</button></div><div id="ep-trend-graph">${graph}</div><div class="trend-legend" id="ep-trend-legend">${legend}</div><div class="trend-episodes">${points.map(({ item, modes }) => `<a class="trend-episode ${item.number === ep.number ? "current" : ""}" href="${D.ROOT}dizi/${s.slug}/bolum-${item.number}/" title="${D.esc(item.date || "")}">قسمت ${D.fmtInt(item.number)}<small>${T.modes.map((mode) => modes[mode] ? `${T.labels[mode]} #${D.fmtInt(modes[mode].rank)}` : "").filter(Boolean).join(" · ") || "بدون داده"}</small></a>`).join("")}</div>${delta}`;
       chartEl.querySelectorAll("[data-ep-metric]").forEach((button) => button.addEventListener("click", () => {
         const numeric = button.dataset.epMetric === "rating";
-        chartEl.querySelector("#ep-trend-graph").innerHTML = numeric ? totalGraph : graph;
-        chartEl.querySelector("#ep-trend-legend").innerHTML = numeric ? '<span class="trend-legend-item"><i style="--trend-color:#d10a1e"></i>Total Rating %</span>' : legend;
+        chartEl.querySelector("#ep-trend-graph").innerHTML = numeric ? numericGraph : graph;
         chartEl.querySelectorAll("[data-ep-metric]").forEach((b) => { b.classList.toggle("active", b === button); b.setAttribute("aria-pressed", String(b === button)); });
       }));
     } else {

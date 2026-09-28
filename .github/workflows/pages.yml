@@ -6,11 +6,15 @@ on:
     paths:
       - "github-pages/**"
       - "automation/build-pages-data.mjs"
+      - "automation/tiak-daily.mjs"
       - "automation/build-site.mjs"
       - "automation/audit-cast.mjs"
       - ".github/workflows/pages.yml"
   schedule:
-    - cron: "17 */2 * * *"
+    # 10:47, 11:47 and 12:47 Tehran; public report availability can vary.
+    - cron: "17 7-9 * * *"
+    # Later checks cover publication delays and missed scheduled runs.
+    - cron: "17 */6 * * *"
   workflow_dispatch:
 
 permissions:

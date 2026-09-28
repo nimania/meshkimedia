@@ -1,130 +1,76 @@
-// Refreshes github-pages/data/ratings.json from TİAK's public daily table.
-// New model: a rolling window of the last N days, each with Total / AB / ABC1
-// categories. TİAK's public homepage exposes only the Total table with real
-// Rating % numbers; AB and ABC1 rankings come from official daily announcements
-// and are preserved across runs (numbers stay null until a member-data source
-// is wired in). This script never invents numbers.
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+// Refresh all three public TİAK daily Top 10 tables. Never infer unpublished results.
+import { readFile, writeFile } from "node:fs/promises";
+import { parseDailyTable, parseLatestDate } from "./tiak-daily.mjs";
 
 const SOURCE_URL = "https://tiak.com.tr/";
+const TABLE_URL = "https://tiak.com.tr/icerik/cek.php";
 const OUTPUT_URL = new URL("../github-pages/data/ratings.json", import.meta.url);
-// Keep roughly a season of observations for episode trends. The daily table UI
-// still shows only the ten newest available days.
 const WINDOW_DAYS = 120;
-
-const DEFAULTS = {
-  metric: "Rating %",
-  windowDays: WINDOW_DAYS,
-  source: { name: "TİAK", url: SOURCE_URL },
-  categories: {
-    total: { key: "total", label: "Total", labelFa: "کل (۵+)", audience: "5+ Yaş Tüm Kişiler" },
-    ab: { key: "ab", label: "AB", labelFa: "AB", audience: "AB" },
-    abc1: { key: "abc1", label: "ABC1", labelFa: "ABC1 (۲۰+)", audience: "ABC1 20+" },
-  },
-};
-
-// Fold Turkish letters to ASCII uppercase so program names match series ratingKeys.
-function foldUpper(value) {
-  return value
-    .replace(/İ/g, "I").replace(/I/g, "I").replace(/ı/g, "I")
-    .replace(/Ş/g, "S").replace(/ş/g, "S")
-    .replace(/Ğ/g, "G").replace(/ğ/g, "G")
-    .replace(/Ü/g, "U").replace(/ü/g, "U")
-    .replace(/Ö/g, "O").replace(/ö/g, "O")
-    .replace(/Ç/g, "C").replace(/ç/g, "C")
-    .toUpperCase();
-}
-
-function clean(value) {
-  return value
-    .replace(/<[^>]+>/g, " ")
-    .replace(/&nbsp;/g, " ")
-    .replace(/&amp;/g, "&")
-    .replace(/&#39;/g, "'")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-function parseTiakTotal(html) {
-  const section = html.match(/<div class="anatablolar">([\s\S]*?)<\/div>\s*<\/div>\s*<div class="altalan">/)?.[1] ?? html;
-  const date = section.match(/<div class="tablobaslik">\s*([^<]+?)\s*<\/div>/)?.[1]?.trim();
-  const rows = [];
-  const pattern = /<div class="item">[\s\S]*?<span class="yazi">\s*([\d.,]+)\s*<\/span>[\s\S]*?<div class="kanal">\s*([\s\S]*?)\s*<\/div>[\s\S]*?<div class="program">\s*([\s\S]*?)\s*<\/div>/g;
-  for (const match of section.matchAll(pattern)) {
-    rows.push({
-      rank: rows.length + 1,
-      program: foldUpper(clean(match[3])),
-      network: foldUpper(clean(match[2])),
-      rating: Number(match[1].replace(",", ".")),
-    });
-    if (rows.length === 10) break;
-  }
-  if (!date || rows.length < 5 || rows.some((r) => !Number.isFinite(r.rating))) {
-    throw new Error("TİAK page shape changed; refusing to publish incomplete data.");
-  }
-  return { date, rows };
-}
-
+const MODES = { total: "Top10 5+", ab: "Top10 SES AB", abc1: "Top10 20+ABC1" };
+const repairExisting = process.argv.includes("--repair-existing");
 const dateKey = (d) => { const [dd, mm, yy] = d.split("."); return Number(`${yy}${mm}${dd}`); };
+const toRequestDate = (d) => { const [dd, mm, yy] = d.split("."); return `${Number(mm)}.${Number(dd)}.${yy}`; };
 
-async function loadExisting() {
-  try {
-    return JSON.parse(await readFile(OUTPUT_URL, "utf8"));
-  } catch {
-    return { ...DEFAULTS, days: [] };
-  }
+async function getLatestDate() {
+  const response = await fetch(SOURCE_URL, {
+    headers: { accept: "text/html", "user-agent": "MeshkiMedia/1.0 (+https://nimania.github.io/meshkimedia/)" },
+    signal: AbortSignal.timeout(30_000),
+  });
+  if (!response.ok) throw new Error(`TİAK home HTTP ${response.status}`);
+  return parseLatestDate(await response.text());
 }
 
-const controller = new AbortController();
-const timeout = setTimeout(() => controller.abort(), 25_000);
-try {
-  const response = await fetch(SOURCE_URL, {
-    headers: { accept: "text/html,application/xhtml+xml", "user-agent": "MeshkiMedia/1.0 (+https://nimania.github.io/meshkimedia/)" },
-    signal: controller.signal,
+async function getTable(date, mode) {
+  const requestDate = toRequestDate(date);
+  const body = new URLSearchParams({ nere: "tablo", tarih: requestDate, lang: "tr", url: "http://tiak.com.tr/", dosya: MODES[mode] });
+  const response = await fetch(TABLE_URL, {
+    method: "POST", body,
+    headers: { accept: "text/html", "content-type": "application/x-www-form-urlencoded",
+      referer: "https://tiak.com.tr/tablolar", "user-agent": "MeshkiMedia/1.0 (+https://nimania.github.io/meshkimedia/)" },
+    signal: AbortSignal.timeout(30_000),
   });
-  if (!response.ok) throw new Error(`TİAK returned HTTP ${response.status}`);
-  const { date, rows } = parseTiakTotal(await response.text());
+  if (!response.ok) throw new Error(`TİAK ${mode} HTTP ${response.status}`);
+  const html = await response.text();
+  if (html.trim() === requestDate) throw new Error(`TİAK has no ${mode} report for ${date}`);
+  return parseDailyTable(html);
+}
 
-  const existing = await loadExisting();
-  const out = {
-    updatedAt: new Date().toISOString(),
-    metric: existing.metric || DEFAULTS.metric,
-    windowDays: WINDOW_DAYS,
-    source: existing.source || DEFAULTS.source,
-    categories: existing.categories || DEFAULTS.categories,
-    days: Array.isArray(existing.days) ? existing.days.slice() : [],
-  };
+async function getDay(date) {
+  // All three modes must pass validation before replacing a day's record.
+  const pairs = await Promise.all(Object.keys(MODES).map(async (mode) => [mode, await getTable(date, mode)]));
+  return { date, weekday: "", hasNumbers: { total: true, ab: true, abc1: true }, categories: Object.fromEntries(pairs) };
+}
 
-  const idx = out.days.findIndex((d) => d.date === date);
-  if (idx >= 0) {
-    // Refresh Total for an existing day, keep any AB/ABC1 already collected.
-    out.days[idx].categories = out.days[idx].categories || {};
-    out.days[idx].categories.total = rows;
-    out.days[idx].hasNumbers = { ...(out.days[idx].hasNumbers || {}), total: true };
-  } else {
-    out.days.unshift({
-      date,
-      weekday: "",
-      hasNumbers: { total: true, ab: false, abc1: false },
-      categories: { total: rows, ab: [], abc1: [] },
-    });
+try {
+  const existing = JSON.parse(await readFile(OUTPUT_URL, "utf8"));
+  const latest = await getLatestDate();
+  const days = Array.isArray(existing.days) ? existing.days.slice() : [];
+  const targets = [latest];
+  // Scheduled runs repair one older partial day; --repair-existing repairs all.
+  const incomplete = days.filter((d) => d.date !== latest &&
+    !["total", "ab", "abc1"].every((mode) => d.hasNumbers?.[mode]))
+    .sort((a, b) => dateKey(b.date) - dateKey(a.date));
+  targets.push(...(repairExisting ? incomplete : incomplete.slice(0, 1)).map((d) => d.date));
+
+  let changed = 0;
+  for (const date of targets) {
+    try {
+      const day = await getDay(date);
+      const index = days.findIndex((d) => d.date === date);
+      if (index >= 0) days[index] = day;
+      else days.push(day);
+      changed++;
+    } catch (error) {
+      if (date === latest) throw error;
+      console.warn(`Skipping historical ${date}: ${error.message}`);
+    }
   }
-
-  out.days.sort((a, b) => dateKey(b.date) - dateKey(a.date));
-  out.days = out.days.slice(0, out.windowDays);
-
-  await mkdir(new URL("../github-pages/data/", import.meta.url), { recursive: true });
+  days.sort((a, b) => dateKey(b.date) - dateKey(a.date));
+  const out = { ...existing, updatedAt: new Date().toISOString(), windowDays: WINDOW_DAYS,
+    source: { name: "TİAK", url: "https://tiak.com.tr/tablolar" }, days: days.slice(0, WINDOW_DAYS) };
   await writeFile(OUTPUT_URL, `${JSON.stringify(out, null, 2)}\n`, "utf8");
-  console.log(`Published TİAK Total for ${date}; window now holds ${out.days.length} day(s).`);
+  console.log(`TİAK report ${latest}: validated ${changed} day(s) in Total, AB and ABC1.`);
 } catch (error) {
-  try {
-    const previous = JSON.parse(await readFile(OUTPUT_URL, "utf8"));
-    const last = previous.days && previous.days[0] ? previous.days[0].date : "n/a";
-    console.error(`Refresh failed; keeping existing window (latest ${last}): ${error instanceof Error ? error.message : error}`);
-  } catch {
-    console.error(error);
-  }
+  console.error(`Ratings refresh failed; keeping the previous data: ${error.message}`);
   process.exitCode = 1;
-} finally {
-  clearTimeout(timeout);
 }

@@ -137,7 +137,7 @@ function episodePage(s, ep) {
   if (ep.date) jsonld.datePublished = ep.date;
   if (img) jsonld.image = img;
   if (ep.summary) jsonld.description = ep.summary.slice(0, 300);
-  const h = head(root, { title: `${s.titleFa} — قسمت ${ep.number}${ep.title ? "؛ " + ep.title : ""} | مشکی مدیا`, desc: (ep.summary || `ریتینگ، عکس‌ها و خلاصهٔ قسمت ${ep.number} سریال ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/bolum-${ep.number}/`, ogImage: img, ogType: "video.episode", jsonld, version: "20260927trend1" });
+  const h = head(root, { title: `${s.titleFa} — قسمت ${ep.number}${ep.title ? "؛ " + ep.title : ""} | مشکی مدیا`, desc: (ep.summary || `ریتینگ، عکس‌ها و خلاصهٔ قسمت ${ep.number} سریال ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/bolum-${ep.number}/`, ogImage: img, ogType: "video.episode", jsonld, version: "20260928ratings1" });
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a id="crumb-series" href="#">سریال</a><span>/</span><span>قسمت ${ep.number}</span></div>
@@ -149,7 +149,7 @@ function episodePage(s, ep) {
 <div id="ep-nav" class="ep-nav"></div>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/`, "☰", "سریال"], [`dizi/${s.slug}/bolum-${ep.number}/#ep-ratings`, "⌁", "ریتینگ", true], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
-  return h + body + boot(root, { slug: s.slug, epNumber: ep.number }, ["rating-trends.js", "episode-page.js", "gallery.js"], "20260927trend1");
+  return h + body + boot(root, { slug: s.slug, epNumber: ep.number }, ["rating-trends.js", "episode-page.js", "gallery.js"], "20260928ratings1");
 }
 
 // ---- Network page ----------------------------------------------------------
@@ -248,7 +248,7 @@ ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"
 function ratingsPage() {
   const root = "../";
   const jsonld = { "@context": "https://schema.org", "@type": "CollectionPage", name: "ریتینگ تلویزیون ترکیه", url: `${BASE}/reyting/` };
-  const h = head(root, { title: "ریتینگ روزانهٔ تلویزیون ترکیه (Total، AB، ABC1) | مشکی مدیا", desc: "جدول ریتینگ روزانه و مقایسهٔ روند سریال‌های در حال پخش در Total، AB و ABC1، با دادهٔ رسمی موجود.", path: "reyting/", jsonld, version: "20260927trend1" });
+  const h = head(root, { title: "ریتینگ روزانهٔ تلویزیون ترکیه (Total، AB، ABC1) | مشکی مدیا", desc: "جدول ریتینگ روزانه و مقایسهٔ روند سریال‌های در حال پخش در Total، AB و ABC1، با دادهٔ رسمی موجود.", path: "reyting/", jsonld, version: "20260928ratings1" });
   const body = `
 <main class="app-shell">
 <section class="intro"><h1>ریتینگ تلویزیون ترکیه</h1><p>آخرین روز ثبت‌شده: <span id="fetched-at">در حال دریافت…</span> · منبع رسمی TİAK</p></section>
@@ -265,10 +265,10 @@ function ratingsPage() {
 <div id="error" class="notice error" hidden>داده موقتاً در دسترس نیست؛ سامانه دوباره تلاش می‌کند.</div>
 <div id="ratings-list" class="ratings-list" hidden></div>
 </section>
-<section id="method" class="method-card"><span>شفافیت داده</span><h2>عدد حدس نمی‌زنیم.</h2><p>ریتینگ Total مستقیماً از جدول عمومی TİAK خوانده می‌شود. رتبه‌بندی AB و ABC1 از اعلان‌های رسمی روزانه است؛ اعداد دقیق این دو دسته نیازمند دادهٔ عضویت TİAK است و تا آن زمان تنها رتبه نمایش داده می‌شود.</p><a href="https://tiak.com.tr/" target="_blank" rel="noreferrer">مشاهده منبع رسمی ↗</a></section>
+<section id="method" class="method-card"><span>شفافیت داده</span><h2>عدد حدس نمی‌زنیم.</h2><p>رتبه و درصد ریتینگ Total، AB و ABC1 از جدول روزانهٔ عمومی TİAK خوانده می‌شود. این جدول در هر دسته فقط ۱۰ برنامهٔ اول را منتشر می‌کند؛ نبودن یک سریال در فهرست به معنی صفر بودن ریتینگ آن نیست. پخش اصلی با ردیف‌های خلاصه (Özet) یکی نمی‌شود.</p><a href="https://tiak.com.tr/tablolar" target="_blank" rel="noreferrer">مشاهده جدول رسمی ↗</a></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["takvim/", "▤", "تقویم"], ["reyting/", "⌁", "ریتینگ", true]])}`;
-  return h + body + boot(root, {}, ["rating-trends.js", "ratings.js"], "20260927trend2");
+  return h + body + boot(root, {}, ["rating-trends.js", "ratings.js"], "20260928ratings1");
 }
 
 // ---- write all -------------------------------------------------------------
