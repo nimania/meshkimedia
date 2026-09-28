@@ -17,6 +17,7 @@ OUT = PAGES / "social"
 CARDS = OUT / "cards"
 CARDS.mkdir(parents=True, exist_ok=True)
 series = json.loads((PAGES / "data/series.json").read_text())
+networks = json.loads((PAGES / "data/networks.json").read_text())
 calendar = json.loads((PAGES / "data/calendar.json").read_text())
 ratings = json.loads((PAGES / "data/ratings.json").read_text())
 today = datetime.now(ZoneInfo("Asia/Tehran")).date()
@@ -96,7 +97,8 @@ def card(kind, show, ep, day, summary, art, wide=False):
     while title_size > 32 and d.textlength(title, font=f(title_size, True), direction="rtl") > (610 if wide else W-110): title_size -= 2
     line(d, (right, base+72), title, title_size, heavy=True)
     line(d, (right, base+163), f"فصل {fa(ep['season'])}  ·  قسمت {fa(ep['episode'])}  ·  {date_label(day)}", 25, "#f0dfe2")
-    line(d, (right-140, base+206), show.get("network", "").upper().replace("1", "۱").replace("8", "۸"), 20, "#bda9af", rtl=False)
+    network_name = networks.get(show.get("network", ""), {}).get("name", "")
+    line(d, (right-140, base+206), fa(network_name), 20, "#bda9af", rtl=False)
     if summary:
         y = base+249
         for paragraph in wrapped(d, summary, 590 if wide else W-115, 23 if wide else 27, 2 if wide else 4):
