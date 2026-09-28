@@ -63,10 +63,8 @@
             const show = series[entry.slug] || data.shows[entry.slug];
             const net = networks[show.network];
             const known = series[entry.slug];
-            const episode = (known?.seasons || []).flatMap((s) => s.episodes || []).find((e) => e.date === date);
-            const href = known ? (episode
-              ? `${root}dizi/${known.slug}/bolum-${episode.number}/`
-              : `${root}dizi/${known.slug}/`) : data.source.url;
+            const existing = known && D.allEpisodes(known).find((ep) => ep.date === date);
+            const href = known ? `${root}dizi/${known.slug}/bolum-${existing?.number || entry.episode}/` : data.source.url;
             const image = show.hero ? `<img src="${D.esc(show.hero)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
             return `<a class="calendar-card" href="${D.esc(href)}"${known ? "" : ' target="_blank" rel="noopener noreferrer"'}>
               <span class="calendar-poster">${image}<span class="calendar-poster-letter">${D.esc((show.titleFa || show.titleTr).slice(0, 1))}</span></span>
@@ -92,3 +90,4 @@
     feed.innerHTML = '<div class="notice error">تقویم موقتاً در دسترس نیست.</div>';
   }
 })();
+

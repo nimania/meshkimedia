@@ -73,15 +73,15 @@
   }
 
   // ---- sections -----------------------------------------------------------------
-  function renderSpotlight(s, when) {
+  function renderSpotlight(s, when, scheduledEp, scheduledEntry) {
     const net = netOf(s);
     const t = airTime(s);
-    const ep = latestEp(s);
+    const ep = scheduledEp || latestEp(s);
     const kicker = when
       ? `<i></i>${when}${net ? " از " + esc(net.name) : ""}${t ? ` · ساعت ${t.ir} به وقت ایران` : ""}`
       : `سریال ویژه${net ? " · " + esc(net.name) : ""}`;
     const actions = [`<a class="btn btn-red" href="${R}dizi/${s.slug}/">صفحهٔ سریال</a>`];
-    if (ep && ep.summary) actions.push(`<a class="btn btn-glass" href="${R}dizi/${s.slug}/bolum-${ep.number}/">${ep.preview ? "معرفی" : "خلاصهٔ"} قسمت ${D.fmtInt(ep.number)}</a>`);
+    if (ep && (scheduledEp || ep.summary)) actions.push(`<a class="btn btn-glass" href="${R}dizi/${s.slug}/bolum-${ep.number}/">${scheduledEp ? "پخشِ" : ep.preview ? "معرفی" : "خلاصهٔ"} قسمت ${D.fmtInt(scheduledEntry?.episode || ep.number)}</a>`);
     const fr = (ep && ep.fragman) || s.fragman;
     if (fr) actions.push(`<a class="btn btn-glass" href="${esc(fr)}" target="_blank" rel="noreferrer">▶ فراگمان</a>`);
     const el = $("#spotlight");
@@ -116,7 +116,7 @@
       const show = { ...s, slug: entry.slug, titleFa: s.titleFa || s.titleTr };
       const net = netOf(show);
       const known = Boolean(data.series[entry.slug]);
-      const episode = known ? D.allEpisodes(show).find((e) => e.date === date) : null;
+      const episode = known ? D.scheduledEpisodes(show, calendar).find((e) => e.date === date) : null;
       const href = known ? `${R}dizi/${show.slug}/${episode ? `bolum-${episode.number}/` : ""}` : calendar.source.url;
       const note = `فصل ${D.fmtInt(entry.season)} · قسمت ${D.fmtInt(entry.episode)}`;
       return `<a class="tonight-item" href="${esc(href)}"${known ? "" : ' target="_blank" rel="noopener noreferrer"'}>${art(show, { title: false })}`
@@ -144,19 +144,21 @@
   }
 
   function renderHomeTrends() {
-    const items = T.onAir(data.series).map((s, i) => ({ s, color: T.colors[i % T.colors.length], points: T.broadcasts(data.ratings, s) }))
+    const items = T.onAir(data.series).map((s, i) => ({ s, color: T.colors[i % T.colors.length], points: T.broadcasts(data.ratings, s, calendar) }))
       .filter((x) => x.points.some((p) => p.rows.total?.rating != null));
     const changed = items.map((x) => ({ ...x, change: T.changes(x.points, "total", "rating") })).filter((x) => x.change)
       .sort((a, b) => b.change.delta - a.change.delta);
     const featured = changed.slice(0, 3);
     const featuredSlugs = new Set(featured.map((x) => x.s.slug));
-    const chartItems = [...featured, ...items.filter((x) => !featuredSlugs.has(x.s.slug))].slice(0, 6);
+    const chartItems = [...featured, ...items.filter((x) => !featuredSlugs.has(x.s.slug) && x.points.filter((p) => p.rows.total?.rating != null).length >= 2)].slice(0, 6);
     if (!items.length) { $("#home-trends-content").innerHTML = '<div class="notice">هنوز ریتینگ عددی برای سریال‌های در حال پخش ثبت نشده است.</div>'; return; }
     const lines = chartItems.map((x) => ({ name: x.s.titleFa, color: x.color,
       points: x.points.map((p, i) => ({ value: p.rows.total?.rating ?? null, date: p.date,
         label: p.episode ? `قسمت ${p.episode.number}` : `پخش ثبت‌شدهٔ ${i + 1}` })) }));
     const cards = changed.length ? changed.slice(0, 3).map((x, i) => `<a class="home-trend-card" href="${R}dizi/${x.s.slug}/" style="--trend-color:${x.color}"><small>${i === 0 ? "بیشترین رشد ثبت‌شده" : "تغییر دو پخش اخیر"}</small><strong>${esc(x.s.titleFa)}</strong><span class="${x.change.delta >= 0 ? "up" : "down"}">${x.change.delta > 0 ? "+" : ""}${T.fa(x.change.delta)} واحد ریتینگ</span><em>${x.change.firstDate} ← ${x.change.lastDate}</em></a>`).join("") : '<div class="trend-empty">رشد و افت پس از ثبت دو ریتینگ عددی برای هر سریال محاسبه می‌شود.</div>';
-    $("#home-trends-content").innerHTML = `<div class="home-trend-layout"><div><div class="home-trend-chart">${T.chart(lines, { xCount: Math.max(...chartItems.map((x) => x.points.length)), aria: "روند ریتینگ Total سریال‌های در حال پخش در پخش‌های ثبت‌شده" })}</div><div class="trend-legend">${chartItems.map((x) => `<a class="trend-legend-item" style="--trend-color:${x.color}" href="${R}dizi/${x.s.slug}/"><i></i>${esc(x.s.titleFa)}</a>`).join("")}</div></div><div class="home-trend-cards">${cards}</div></div><p class="trend-help">روند Total بر اساس پخش‌های دارای داده؛ مقایسهٔ کامل رتبه‌های Total، AB و ABC1 در صفحهٔ ریتینگ.</p>`;
+    const single = items.filter((x) => x.points.filter((p) => p.rows.total?.rating != null).length === 1);
+    const singles = single.length ? `<div class="trend-single-list"><strong>فقط یک پخشِ دارای داده؛ هنوز روند ندارند</strong>${single.map((x) => { const p = x.points.find((row) => row.rows.total?.rating != null); return `<a href="${R}dizi/${x.s.slug}/"><i style="--trend-color:${x.color}"></i><span>${esc(x.s.titleFa)}<small>${p.episode ? `قسمت ${D.fmtInt(p.episode.number)} · ` : ""}${D.isoToFa(p.date)}</small></span><b>${D.fmtScore(p.rows.total.rating)}٪</b></a>`; }).join("")}</div>` : "";
+    $("#home-trends-content").innerHTML = `<div class="home-trend-layout"><div><div class="home-trend-chart">${chartItems.length ? T.chart(lines, { aria: "روند ریتینگ Total سریال‌های در حال پخش بر اساس تاریخ واقعی پخش" }) : '<div class="trend-empty">با ثبت ریتینگ دو قسمت از یک سریال، روند زمانی آن اینجا نمایش داده می‌شود.</div>'}</div><div class="trend-legend">${chartItems.map((x) => `<a class="trend-legend-item" style="--trend-color:${x.color}" href="${R}dizi/${x.s.slug}/"><i></i>${esc(x.s.titleFa)}</a>`).join("")}</div>${singles}</div><div class="home-trend-cards">${cards}</div></div><p class="trend-help">محور افقی تاریخ پخش و محور عمودی Rating % است. روی نقطه مکث کنید تا نام سریال، قسمت و مقدار دیده شود. فقط سریال‌های دارای دست‌کم دو پخش در نمودار خط دارند؛ مقایسهٔ کامل در صفحهٔ ریتینگ است.</p>`;
   }
 
   function renderFresh() {
@@ -216,7 +218,9 @@
     const rated = seriesLatestRatings().map((x) => x.s);
     const spot = scheduled.find((s) => seriesImage(s) && isOnAir(s)) || scheduled.find((s) => s.synopsis && isOnAir(s))
       || all.find((s) => seriesImage(s) && s.synopsis) || rated[0] || all[0];
-    if (spot) renderSpotlight(spot, nextDate === today && scheduled.includes(spot) ? "امشب" : "");
+    const spotlightEntry = calendar?.days?.[nextDate]?.find((entry) => entry.slug === spot?.slug);
+    const spotlightEpisode = spotlightEntry && D.scheduledEpisodes(spot, calendar).find((ep) => ep.date === nextDate);
+    if (spot) renderSpotlight(spot, nextDate === today && spotlightEntry ? "امشب" : "", spotlightEpisode, spotlightEntry);
 
     renderTonight(nextDate, today);
     renderTop();

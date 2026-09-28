@@ -5,7 +5,10 @@
   const { slug, root } = window.DM;
   const $ = (s) => document.querySelector(s);
   try {
-    const { networks, series, ratings } = await D.loadData();
+    const [base, calendar] = await Promise.all([
+      D.loadData(), fetch(`${root}data/calendar.json?v=${Date.now()}`, { cache: "no-store" }).then((r) => r.ok ? r.json() : null).catch(() => null),
+    ]);
+    const { networks, series, ratings } = base;
     const d = series[slug];
     if (!d) throw new Error("not found");
     const net = networks[d.network];
@@ -59,16 +62,16 @@
       }).join("");
     } else { $("#cast-empty").hidden = false; }
 
-    const eps = D.allEpisodes(d);
+    const eps = D.scheduledEpisodes(d, calendar);
     if (eps.length) {
       $("#episodes").innerHTML = eps.slice().reverse().map((e) => {
         const modes = D.ratingModesFor(ratings, d.ratingKey, e.date);
         const href = `${root}dizi/${d.slug}/bolum-${e.number}/`;
         const img = e.image || (e.images && e.images[0]) || "";
         const title = e.title && e.title.trim() ? e.title : `قسمت ${D.fmtInt(e.number)}`;
-        const summary = e.summary && e.summary.trim() ? e.summary : "خلاصه به‌زودی افزوده می‌شود.";
+        const summary = e.summary && e.summary.trim() ? e.summary : e.scheduled ? "این قسمت در تقویم ثبت شده است؛ ریتینگ آن هنوز اعلام نشده. روند قسمت‌های قبلی را ببینید." : "خلاصه به‌زودی افزوده می‌شود.";
         const ext = e.watchUrl || (d.official && d.official.episodes);
-        return `<article class="episode-card"><a class="episode-image ${img ? "" : "no-image"}" href="${href}" ${img ? `style="background-image:url('${D.esc(img)}')"` : ""}>${img ? "" : "<span>بدون تصویر</span>"}</a><div class="episode-copy"><div class="episode-meta"><span>قسمت ${D.fmtInt(e.number)}</span><span>${D.isoToFa(e.date)}</span></div><h3><a href="${href}">${D.esc(title)}</a></h3><p>${D.esc(summary)}</p>${D.ratingPills(modes, ratings)}<div class="episode-actions"><a class="ep-open" href="${href}">خلاصه و عکس‌ها ←</a>${ext ? `<a href="${D.esc(ext)}" target="_blank" rel="noopener noreferrer">${e.watchUrl ? "تماشای قسمت" : "قسمت‌ها در شبکه"} ↗</a>` : ""}${e.fragman ? `<a href="${D.esc(e.fragman)}" target="_blank" rel="noopener noreferrer">تیزر ↗</a>` : ""}</div></div></article>`;
+        return `<article class="episode-card"><a class="episode-image ${img ? "" : "no-image"}" href="${href}" ${img ? `style="background-image:url('${D.esc(img)}')"` : ""}>${img ? "" : "<span>تصویر پس از انتشار</span>"}</a><div class="episode-copy"><div class="episode-meta"><span>${e.scheduled ? "در تقویم · " : ""}قسمت ${D.fmtInt(e.number)}</span><span>${D.isoToFa(e.date)}</span></div><h3><a href="${href}">${D.esc(title)}</a></h3><p>${D.esc(summary)}</p>${e.scheduled ? '<p class="ratings-note">ریتینگ هنوز اعلام نشده است.</p>' : D.ratingPills(modes, ratings)}<div class="episode-actions"><a class="ep-open" href="${href}">${e.scheduled ? "روند ریتینگ قسمت‌های قبلی ←" : "خلاصه و عکس‌ها ←"}</a>${!e.scheduled && ext ? `<a href="${D.esc(ext)}" target="_blank" rel="noopener noreferrer">${e.watchUrl ? "تماشای قسمت" : "قسمت‌ها در شبکه"} ↗</a>` : ""}${e.fragman ? `<a href="${D.esc(e.fragman)}" target="_blank" rel="noopener noreferrer">تیزر ↗</a>` : ""}</div></div></article>`;
       }).join("");
     } else { $("#episodes").innerHTML = `<div class="notice">قسمت‌های این ${d.kind === "entertainment" ? "برنامه" : "سریال"} به‌زودی ثبت می‌شوند.</div>`; }
   } catch (e) { console.error(e); const el = $("#synopsis"); if (el) el.textContent = "اطلاعات این سریال موقتاً در دسترس نیست."; }

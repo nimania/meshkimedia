@@ -7,10 +7,14 @@
   const $ = (s) => document.querySelector(s);
 
   try {
-    const { networks, series, ratings } = await D.loadData();
+    const [base, calendar] = await Promise.all([
+      D.loadData(),
+      fetch(`${D.ROOT}data/calendar.json?v=${Date.now()}`, { cache: "no-store" }).then((r) => r.ok ? r.json() : null).catch(() => null),
+    ]);
+    const { networks, series, ratings } = base;
     const s = series[slug];
     if (!s) throw new Error("series not found");
-    const eps = D.allEpisodes(s);
+    const eps = D.scheduledEpisodes(s, calendar);
     const idx = eps.findIndex((e) => String(e.number) === String(epNumber));
     const ep = eps[idx];
     if (!ep) throw new Error("episode not found");
@@ -38,10 +42,11 @@
     // Ratings (Total / AB / ABC1)
     const modes = D.ratingModesFor(ratings, s.ratingKey, ep.date);
     const anyRating = modes.total || modes.ab || modes.abc1;
+    const isScheduled = Boolean(ep.scheduled);
     $("#ep-ratings").innerHTML = D.ratingPills(modes, ratings);
     $("#ratings-note").textContent = anyRating
       ? `منبع: ${ratings.source.name} · تاریخ ${modes.total ? modes.total.date : (modes.ab ? modes.ab.date : modes.abc1.date)}`
-      : "ریتینگ این قسمت هنوز در سیستم ثبت نشده است.";
+      : isScheduled ? "ریتینگ این قسمت هنوز اعلام نشده است. ریتینگ قسمت‌های پیشین را در نمودار و فهرست پایین ببینید." : "ریتینگ این قسمت هنوز اعلام یا در جدول عمومی ثبت نشده است.";
 
     const points = eps.map((item) => ({ item, modes: D.ratingModesFor(ratings, s.ratingKey, item.date) }));
     const present = points.some((p) => T.modes.some((mode) => p.modes[mode]));
@@ -66,7 +71,7 @@
         delta = `<p class="trend-delta ${diff >= 0 ? "up" : "down"}">Total این پخش: ${diff >= 0 ? "افزایش" : "کاهش"} ${T.fa(Math.abs(diff))} واحد ریتینگ نسبت به پخش ثبت‌شدهٔ قبلی</p>`;
       }
       const chartEl = $("#ep-trend");
-      chartEl.innerHTML = `<div class="trend-switch" role="group" aria-label="سنجهٔ نمودار قسمت"><button class="trend-button active" data-ep-metric="rank" aria-pressed="true">رتبهٔ سه دسته</button><button class="trend-button" data-ep-metric="rating" aria-pressed="false">ریتینگ ٪ سه دسته</button></div><div id="ep-trend-graph">${graph}</div><div class="trend-legend" id="ep-trend-legend">${legend}</div><div class="trend-episodes">${points.map(({ item, modes }) => `<a class="trend-episode ${item.number === ep.number ? "current" : ""}" href="${D.ROOT}dizi/${s.slug}/bolum-${item.number}/" title="${D.esc(item.date || "")}">قسمت ${D.fmtInt(item.number)}<small>${T.modes.map((mode) => modes[mode] ? `${T.labels[mode]} #${D.fmtInt(modes[mode].rank)}` : "").filter(Boolean).join(" · ") || "بدون داده"}</small></a>`).join("")}</div>${delta}`;
+      chartEl.innerHTML = `<div class="trend-switch" role="group" aria-label="سنجهٔ نمودار قسمت"><button class="trend-button active" data-ep-metric="rank" aria-pressed="true">رتبهٔ سه دسته</button><button class="trend-button" data-ep-metric="rating" aria-pressed="false">ریتینگ ٪ سه دسته</button></div><div id="ep-trend-graph">${graph}</div><div class="trend-legend" id="ep-trend-legend">${legend}</div><div class="trend-episodes">${points.map(({ item, modes }) => `<a class="trend-episode ${item.number === ep.number ? "current" : ""}" href="${D.ROOT}dizi/${s.slug}/bolum-${item.number}/" title="${D.esc(item.date || "")}">قسمت ${D.fmtInt(item.number)}<small>${T.modes.map((mode) => modes[mode] ? `${T.labels[mode]} ${modes[mode].rating != null ? D.fmtScore(modes[mode].rating) + "٪" : "#" + D.fmtInt(modes[mode].rank)}` : "").filter(Boolean).join(" · ") || "ریتینگ هنوز اعلام نشده"}</small></a>`).join("")}</div>${delta}`;
       chartEl.querySelectorAll("[data-ep-metric]").forEach((button) => button.addEventListener("click", () => {
         const numeric = button.dataset.epMetric === "rating";
         chartEl.querySelector("#ep-trend-graph").innerHTML = numeric ? numericGraph : graph;
@@ -93,13 +98,13 @@
 
     // An official preview is not an after-airing recap.
     if (ep.preview) {
-      $("#ep-summary").parentElement.querySelector(".kicker").textContent = "معرفی رسمی قسمت";
-      $("#ep-summary").parentElement.querySelector("h2").textContent = "در این قسمت چه می‌شود؟";
+      $("#ep-summary").parentElement.querySelector(".kicker").textContent = isScheduled ? "برنامهٔ پخش" : "معرفی رسمی قسمت";
+      $("#ep-summary").parentElement.querySelector("h2").textContent = isScheduled ? "قسمت پیش رو" : "در این قسمت چه می‌شود؟";
     }
     // Summary
     $("#ep-summary").textContent = ep.summary && ep.summary.trim()
       ? ep.summary
-      : "خلاصهٔ این قسمت به‌زودی از منبع رسمی افزوده می‌شود.";
+      : isScheduled ? `طبق تقویم، قسمت ${D.fmtInt(ep.number)} از فصل ${D.fmtInt(ep.season)} در ${D.isoToFa(ep.date)} پخش می‌شود. خلاصه و تصاویر آن پس از انتشار اطلاعات رسمی اضافه می‌شوند.` : "خلاصهٔ این قسمت به‌زودی از منبع رسمی افزوده می‌شود.";
 
     // Links: fragman + official source
     const links = [];
@@ -123,3 +128,4 @@
     $("#ep-summary").textContent = "اطلاعات این قسمت موقتاً در دسترس نیست.";
   }
 })();
+
