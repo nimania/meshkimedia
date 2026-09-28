@@ -33,9 +33,12 @@
   }
 
   function classify(row) {
-    const key = (row.program || "").toUpperCase().replace(/\s*\(OZET\)\s*/, "").trim();
+    // "(OZET)" = recap/summary broadcast, "(TKR)" = rerun, "(T.S)" = Turkish cinema (film).
+    const m = String(row.program || "").toUpperCase().trim().match(/^(.*?)\s*\(?\s*(OZET|TKR|T\.S)\s*\)?$/);
+    const key = m ? m[1].trim() : String(row.program || "").toUpperCase().trim();
+    const variant = m ? { OZET: "خلاصه", TKR: "تکرار", "T.S": "فیلم" }[m[2]] : "";
     const s = seriesByKey[key];
-    if (s) return { kind: s.kind === "entertainment" ? "entertainment" : "series", series: s };
+    if (s) return { kind: s.kind === "entertainment" ? "entertainment" : "series", series: s, variant };
     if (/HABER|GUN ORTASI|GUNE BASLARKEN/.test(row.program)) return { kind: "news" };
     if (/MUGE ANLI|ESRA EROL|MASTERCHEF|GELINIM|EVLENECEK/.test(row.program)) return { kind: "entertainment" };
     return { kind: "entertainment" };
@@ -92,7 +95,7 @@
       const top = rows[0];
       $("#top-program").textContent = meta.series ? meta.series.titleFa : top.program;
       $("#top-program").title = top.program;
-      if (meta.series) { $("#top-program").innerHTML = `<a href="${D.ROOT}dizi/${meta.series.slug}/">${meta.series.titleFa}</a>`; }
+      if (meta.series) { $("#top-program").innerHTML = `<a href="${D.ROOT}dizi/${meta.series.slug}/">${meta.series.titleFa}</a>${meta.variant ? ` <small class="rating-variant">(${meta.variant})</small>` : ""}`; }
       $("#top-network").innerHTML = D.networkMark(data.networks, top.network);
       $("#top-rating").textContent = top.rating != null ? D.fmtScore(top.rating) : `#${D.fmtInt(top.rank)}`;
     }
@@ -111,7 +114,8 @@
     el.innerHTML = filtered
       .map(({ r, meta }) => {
         const titleFa = meta.series ? meta.series.titleFa : r.program;
-        const titleHtml = meta.series ? `<a href="${D.ROOT}dizi/${meta.series.slug}/">${titleFa}</a>` : `<span>${titleFa}</span>`;
+        const variantTag = meta.variant ? ` <small class="rating-variant">(${meta.variant})</small>` : "";
+        const titleHtml = (meta.series ? `<a href="${D.ROOT}dizi/${meta.series.slug}/">${titleFa}</a>` : `<span>${titleFa}</span>`) + variantTag;
         const val = r.rating != null ? D.fmtScore(r.rating) : `#${D.fmtInt(r.rank)}`;
         const unit = r.rating != null ? "Rating %" : "رتبه";
         return `<article class="rating-card ${meta.kind === "series" ? "is-series" : ""}">
