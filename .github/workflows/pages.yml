@@ -9,6 +9,7 @@ on:
       - "automation/tiak-daily.mjs"
       - "automation/build-site.mjs"
       - "automation/social-rating-cards.py"
+      - "automation/social-content.py"
       - "automation/audit-cast.mjs"
       - ".github/workflows/pages.yml"
   schedule:
@@ -50,6 +51,8 @@ jobs:
         run: |
           python3 -m pip install --break-system-packages Pillow
           python3 automation/social-rating-cards.py
+      - name: Create social publication room
+        run: python3 automation/social-content.py
       - name: Check editorial content
         run: node automation/audit-content.mjs --require ask-ve-taht --require sevdan-bir-ates --require abi --require gunesin-dogdugu-yer --require mercan-kosk
       - name: Check cast connections
@@ -98,4 +101,3 @@ jobs:
           done
           echo "::error::Could not push ratings.json to main"
           exit 1
-
