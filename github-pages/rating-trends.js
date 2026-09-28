@@ -7,8 +7,9 @@
   const iso = (date) => { const [d, m, y] = String(date || "").split("."); return y ? `${y}-${m}-${d}` : ""; };
   const fa = (v) => Number(v).toLocaleString("fa-IR", { maximumFractionDigits: 2 });
   const esc = (v) => String(v ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const shortDate = (date) => new Intl.DateTimeFormat("fa-IR", { day: "numeric", month: "short" }).format(new Date(`${date}T12:00:00Z`));
 
-  function broadcasts(ratings, s) {
+  function broadcasts(ratings, s, calendar) {
     const episodes = (s.seasons || []).flatMap((season) => season.episodes || []);
     const key = (s.ratingKey || "").toUpperCase().trim();
     if (!key) return [];
@@ -16,7 +17,8 @@
       const rows = Object.fromEntries(modes.map((mode) => [mode,
         (day.categories?.[mode] || []).find((r) => String(r.program || "").toUpperCase().trim() === key) || null]));
       const date = iso(day.date);
-      return { date, episode: episodes.find((e) => e.date === date) || null, rows };
+      const scheduled = calendar?.days?.[date]?.find((entry) => entry.slug === s.slug);
+      return { date, episode: episodes.find((e) => e.date === date) || (scheduled ? { number: scheduled.episode, season: scheduled.season } : null), rows };
     }).filter((p) => modes.some((mode) => p.rows[mode]));
   }
 
@@ -39,11 +41,16 @@
     if (!eligible.length) return '<div class="trend-empty">برای این نما هنوز دادهٔ قابل رسم ثبت نشده است.</div>';
     const left = 45, right = 16, top = 22, bottom = 43;
     const w = width - left - right, h = height - top - bottom;
+    const dated = eligible.every((p) => /^\d{4}-\d{2}-\d{2}$/.test(p.date || ""));
+    const days = eligible.map((p) => Date.parse(`${p.date}T12:00:00Z`) / 864e5);
+    const firstDay = dated ? Math.min(...days) : 0, lastDay = dated ? Math.max(...days) : 0;
     const maxX = Math.max(xCount - 1, ...eligible.map((p) => p.x ?? p.i), 1);
     const vals = eligible.map((p) => p.value);
     const low = metric === "rank" ? 1 : Math.max(0, Math.floor(Math.min(...vals) - 1));
     const high = metric === "rank" ? Math.max(10, ...vals) : Math.ceil(Math.max(...vals) + 1);
-    const x = (p, i) => left + ((p.x ?? i) / maxX) * w;
+    const x = (p, i) => left + (dated && firstDay !== lastDay
+      ? ((Date.parse(`${p.date}T12:00:00Z`) / 864e5 - firstDay) / (lastDay - firstDay))
+      : dated ? 0.5 : (p.x ?? i) / maxX) * w;
     const y = (v) => top + (metric === "rank" ? (v - low) / (high - low) : (high - v) / (high - low)) * h;
     const ticks = Array.from({ length: 5 }, (_, i) => metric === "rank" ? Math.round(low + (high - low) * i / 4) : high - (high - low) * i / 4);
     const grids = ticks.map((v) => `<line x1="${left}" x2="${width - right}" y1="${y(v)}" y2="${y(v)}" stroke="var(--line)"/><text x="${left - 9}" y="${y(v) + 4}" text-anchor="end" fill="var(--muted)" font-size="11">${fa(v)}</text>`).join("");
@@ -56,14 +63,33 @@
         if (last && (p.x ?? i) === last.index + 1) paths += `<path d="M${last.x.toFixed(1)},${last.y.toFixed(1)} L${px.toFixed(1)},${py.toFixed(1)}" fill="none" stroke="${line.color}" stroke-width="3" stroke-linecap="round"/>`;
         last = { x: px, y: py, index: p.x ?? i };
         const title = `${line.name} · ${p.label || `پخش ${i + 1}`} · ${p.date || ""} · ${metric === "rank" ? "رتبه" : "ریتینگ"} ${fa(p.value)}${metric === "rating" ? "٪" : ""}`;
-        return `<circle cx="${px.toFixed(1)}" cy="${py.toFixed(1)}" r="${p.current ? 7 : 5}" fill="${line.color}" stroke="var(--surface)" stroke-width="${p.current ? 3 : 2}"><title>${esc(title)}</title></circle>`;
+        return `<circle class="trend-point" cx="${px.toFixed(1)}" cy="${py.toFixed(1)}" r="${p.current ? 7 : 5.5}" fill="${line.color}" stroke="var(--surface)" stroke-width="${p.current ? 3 : 2}" tabindex="0" role="img" aria-label="${esc(title)}" data-tip="${esc(title)}"><title>${esc(title)}</title></circle>`;
       }).join("");
       return paths + points;
     }).join("");
-    const xLabels = [0, Math.floor(maxX / 2), maxX].filter((v, i, a) => a.indexOf(v) === i)
-      .map((v) => `<text x="${left + v / maxX * w}" y="${height - 12}" text-anchor="middle" fill="var(--muted)" font-size="11">${fa(v + 1)}</text>`).join("");
+    const xLabels = dated ? [firstDay, Math.round((firstDay + lastDay) / 2), lastDay].filter((v, i, a) => a.indexOf(v) === i)
+      .map((v) => `<text x="${left + (firstDay === lastDay ? 0.5 : (v - firstDay) / (lastDay - firstDay)) * w}" y="${height - 12}" text-anchor="middle" fill="var(--muted)" font-size="11">${shortDate(new Date(v * 864e5).toISOString().slice(0, 10))}</text>`).join("")
+      : [0, Math.floor(maxX / 2), maxX].filter((v, i, a) => a.indexOf(v) === i)
+        .map((v) => `<text x="${left + v / maxX * w}" y="${height - 12}" text-anchor="middle" fill="var(--muted)" font-size="11">${fa(v + 1)}</text>`).join("");
     return `<svg class="trend-svg" viewBox="0 0 ${width} ${height}" role="img" aria-label="${esc(aria)}" preserveAspectRatio="xMidYMid meet"><title>${esc(aria)}</title>${grids}${content}${xLabels}</svg>`;
   }
+
+  // One tooltip handles points on the home, ratings and episode pages, including keyboard focus.
+  const tip = document.createElement("div");
+  tip.className = "trend-tooltip";
+  tip.hidden = true;
+  document.addEventListener("DOMContentLoaded", () => document.body.append(tip));
+  const showTip = (point) => {
+    tip.textContent = point.dataset.tip;
+    tip.hidden = false;
+    const box = point.getBoundingClientRect();
+    tip.style.left = `${Math.max(12, Math.min(window.innerWidth - tip.offsetWidth - 12, box.left + box.width / 2 - tip.offsetWidth / 2))}px`;
+    tip.style.top = `${Math.max(12, box.top - tip.offsetHeight - 12)}px`;
+  };
+  document.addEventListener("pointerover", (e) => { const point = e.target.closest?.(".trend-point"); if (point) showTip(point); });
+  document.addEventListener("focusin", (e) => { if (e.target.matches?.(".trend-point")) showTip(e.target); });
+  document.addEventListener("pointerout", (e) => { if (e.target.matches?.(".trend-point")) tip.hidden = true; });
+  document.addEventListener("focusout", (e) => { if (e.target.matches?.(".trend-point")) tip.hidden = true; });
 
   root.RatingTrends = { colors, modes, labels, broadcasts, onAir, changes, chart, fa, esc };
 })(typeof window !== "undefined" ? window : globalThis);

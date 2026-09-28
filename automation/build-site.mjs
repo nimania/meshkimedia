@@ -12,6 +12,7 @@ const networks = JSON.parse(await readFile(p("data/networks.json"), "utf8"));
 const series = JSON.parse(await readFile(p("data/series.json"), "utf8"));
 const profiles = JSON.parse(await readFile(p("data/people.json"), "utf8"));
 const works = JSON.parse(await readFile(p("data/works.json"), "utf8"));
+const calendar = JSON.parse(await readFile(p("data/calendar.json"), "utf8"));
 const seriesArr = Object.values(series);
 
 // ---- slug (MUST match github-pages/dizimeter.js) ---------------------------
@@ -110,7 +111,7 @@ function seriesPage(s) {
   const jsonld = { "@context": "https://schema.org", "@type": s.kind === "entertainment" ? "TVSeries" : "TVSeries", name: s.titleTr, alternateName: s.titleFa, url: `${BASE}/dizi/${s.slug}/`, inLanguage: "tr", genre: s.genre || [], countryOfOrigin: { "@type": "Country", name: "Turkey" } };
   if (img) jsonld.image = img;
   if (net) jsonld.productionCompany = net.name;
-  const h = head(root, { title: `${s.titleFa} (${s.titleTr}) | مشکی مدیا`, desc: (s.synopsis || `پروفایل، بازیگران و ری‌کپ قسمت‌های ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/`, ogImage: img, ogType: "video.tv_show", jsonld });
+  const h = head(root, { title: `${s.titleFa} (${s.titleTr}) | مشکی مدیا`, desc: (s.synopsis || `پروفایل، بازیگران و ری‌کپ قسمت‌های ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/`, ogImage: img, ogType: "video.tv_show", jsonld, version: "20260928episode2" });
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}diziler/">سریال‌ها</a><span>/</span><span id="net-badge"></span></div>
@@ -125,7 +126,7 @@ function seriesPage(s) {
 <section class="profile-section"><div class="section-headline"><div><span>قسمت‌ها</span><h2>ری‌کپ و ریتینگ قسمت‌ها</h2></div><small>Total · AB · ABC1</small></div><div id="episodes" class="episodes"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/#episodes`, "☰", "قسمت‌ها", true], [`dizi/${s.slug}/#cast`, "◉", "بازیگران"], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
-  return h + body + boot(root, { slug: s.slug }, ["series-page.js", "gallery.js"]);
+  return h + body + boot(root, { slug: s.slug }, ["series-page.js", "gallery.js"], "20260928episode2");
 }
 
 // ---- Episode page ----------------------------------------------------------
@@ -134,10 +135,10 @@ function episodePage(s, ep) {
   const net = networks[s.network];
   const img = ep.image || (ep.images && ep.images[0]) || s.hero || "";
   const jsonld = { "@context": "https://schema.org", "@type": "TVEpisode", name: ep.title || `قسمت ${ep.number}`, episodeNumber: ep.number, url: `${BASE}/dizi/${s.slug}/bolum-${ep.number}/`, partOfSeries: { "@type": "TVSeries", name: s.titleTr, url: `${BASE}/dizi/${s.slug}/` } };
-  if (ep.date) jsonld.datePublished = ep.date;
+  if (ep.date && !ep.scheduled) jsonld.datePublished = ep.date;
   if (img) jsonld.image = img;
   if (ep.summary) jsonld.description = ep.summary.slice(0, 300);
-  const h = head(root, { title: `${s.titleFa} — قسمت ${ep.number}${ep.title ? "؛ " + ep.title : ""} | مشکی مدیا`, desc: (ep.summary || `ریتینگ، عکس‌ها و خلاصهٔ قسمت ${ep.number} سریال ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/bolum-${ep.number}/`, ogImage: img, ogType: "video.episode", jsonld, version: "20260928ratings1" });
+  const h = head(root, { title: `${s.titleFa} — قسمت ${ep.number}${ep.title ? "؛ " + ep.title : ""} | مشکی مدیا`, desc: (ep.summary || `ریتینگ و وضعیت قسمت ${ep.number} سریال ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/bolum-${ep.number}/`, ogImage: img, ogType: "video.episode", jsonld, version: "20260928episode2" });
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a id="crumb-series" href="#">سریال</a><span>/</span><span>قسمت ${ep.number}</span></div>
@@ -149,7 +150,7 @@ function episodePage(s, ep) {
 <div id="ep-nav" class="ep-nav"></div>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/`, "☰", "سریال"], [`dizi/${s.slug}/bolum-${ep.number}/#ep-ratings`, "⌁", "ریتینگ", true], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
-  return h + body + boot(root, { slug: s.slug, epNumber: ep.number }, ["rating-trends.js", "episode-page.js", "gallery.js"], "20260928ratings1");
+  return h + body + boot(root, { slug: s.slug, epNumber: ep.number }, ["rating-trends.js", "episode-page.js", "gallery.js"], "20260928episode2");
 }
 
 // ---- Network page ----------------------------------------------------------
@@ -226,7 +227,7 @@ function workPage(w) {
 function listPage({ path, title, desc, kicker, h1, sub, containerId, script, active }) {
   const root = "../";
   const isCalendar = path === "takvim/";
-  const version = isCalendar ? "20260927f" : "20260927d";
+  const version = isCalendar ? "20260928episode2" : "20260927d";
   const jsonld = { "@context": "https://schema.org", "@type": "CollectionPage", name: title, url: `${BASE}/${path}` };
   const h = head(root, { title, desc, path, jsonld, version });
   const search = `<div class="list-search"><input id="q" type="search" placeholder="جستجو…" aria-label="جستجو"></div>`;
@@ -248,15 +249,15 @@ ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"
 function ratingsPage() {
   const root = "../";
   const jsonld = { "@context": "https://schema.org", "@type": "CollectionPage", name: "ریتینگ تلویزیون ترکیه", url: `${BASE}/reyting/` };
-  const h = head(root, { title: "ریتینگ روزانهٔ تلویزیون ترکیه (Total، AB، ABC1) | مشکی مدیا", desc: "جدول ریتینگ روزانه و مقایسهٔ روند سریال‌های در حال پخش در Total، AB و ABC1، با دادهٔ رسمی موجود.", path: "reyting/", jsonld, version: "20260928ratings1" });
+  const h = head(root, { title: "ریتینگ روزانهٔ تلویزیون ترکیه (Total، AB، ABC1) | مشکی مدیا", desc: "جدول ریتینگ روزانه و مقایسهٔ روند سریال‌های در حال پخش در Total، AB و ABC1، با دادهٔ رسمی موجود.", path: "reyting/", jsonld, version: "20260928episode2" });
   const body = `
 <main class="app-shell">
 <section class="intro"><h1>ریتینگ تلویزیون ترکیه</h1><p>آخرین روز ثبت‌شده: <span id="fetched-at">در حال دریافت…</span> · منبع رسمی TİAK</p></section>
 <section class="summary-card" aria-label="خلاصه ریتینگ"><div class="summary-number"><strong id="summary-count">—</strong><span>برنامه در جدول</span></div><div class="summary-number"><strong id="summary-date">—</strong><span>تاریخ</span></div><div class="summary-number"><strong id="summary-top">—</strong><span>بالاترین</span></div><div class="spark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></section>
 <section id="leader" class="leader-card"><div><small>صدرنشین این روز</small><h2 id="top-program">در حال دریافت داده…</h2><span id="top-network">—</span></div><strong id="top-rating">—</strong></section>
-<section id="trends" class="trend-section"><div class="feed-label"><span>مقایسهٔ روند سریال‌های در حال پخش</span><i></i></div><h2>هر سریال، پخش‌به‌پخش</h2><p class="trend-help">خط‌ها به ترتیب پخش‌های ثبت‌شدهٔ هر سریال رسم شده‌اند. رنگ هر سریال ثابت می‌ماند؛ تاریخ و شمارهٔ قسمت در فهرست زیر نمودار آمده است.</p><div class="trend-controls"><div id="trend-modes" class="trend-switch" role="group" aria-label="دستهٔ مخاطب"></div><div id="trend-metric" class="trend-switch" role="group" aria-label="نوع سنجه"></div></div><div id="trend-chart"></div><div id="trend-legend" class="trend-legend"></div><p id="trend-note" class="trend-help"></p><div id="trend-analysis" class="trend-analysis"></div><div id="trend-details" class="trend-details"></div></section>
+<section id="trends" class="trend-section"><div class="feed-label"><span>مقایسهٔ روند سریال‌های در حال پخش</span><i></i></div><h2>هر سریال، پخش‌به‌پخش</h2><p class="trend-help">محور افقی تاریخ واقعی پخش است. هر خط، ریتینگ یا رتبهٔ قسمت‌های یک سریال را نشان می‌دهد. روی نقطه مکث کنید تا نام سریال، شمارهٔ قسمت، تاریخ و مقدار را ببینید؛ سریال‌های تک‌داده‌ای در فهرست پایین هستند.</p><div class="trend-controls"><div id="trend-modes" class="trend-switch" role="group" aria-label="دستهٔ مخاطب"></div><div id="trend-metric" class="trend-switch" role="group" aria-label="نوع سنجه"></div></div><div id="trend-chart"></div><div id="trend-legend" class="trend-legend"></div><p id="trend-note" class="trend-help"></p><div id="trend-analysis" class="trend-analysis"></div><div id="trend-details" class="trend-details"></div></section>
 <section id="ratings" class="feed-section">
-<div class="feed-label"><span>جدول ریتینگ</span><i></i></div>
+<div class="feed-label"><span>جدول ریتینگ</span><i></i></div><p class="trend-help"><a href="${root}social/ratings/">دریافت کارت‌های روزانهٔ آمادهٔ انتشار برای اینستاگرام و X ←</a></p>
 <div class="cat-tabs" id="cat-tabs" role="group" aria-label="حالت ریتینگ"></div>
 <p class="cat-note" id="cat-note"></p>
 <div class="day-strip"><span class="day-strip-label">۱۰ روز اخیر:</span><div class="day-tabs" id="day-tabs"></div></div>
@@ -268,7 +269,7 @@ function ratingsPage() {
 <section id="method" class="method-card"><span>شفافیت داده</span><h2>عدد حدس نمی‌زنیم.</h2><p>رتبه و درصد ریتینگ Total، AB و ABC1 از جدول روزانهٔ عمومی TİAK خوانده می‌شود. این جدول در هر دسته فقط ۱۰ برنامهٔ اول را منتشر می‌کند؛ نبودن یک سریال در فهرست به معنی صفر بودن ریتینگ آن نیست. پخش اصلی با ردیف‌های خلاصه (Özet) یکی نمی‌شود.</p><a href="https://tiak.com.tr/tablolar" target="_blank" rel="noreferrer">مشاهده جدول رسمی ↗</a></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["takvim/", "▤", "تقویم"], ["reyting/", "⌁", "ریتینگ", true]])}`;
-  return h + body + boot(root, {}, ["rating-trends.js", "ratings.js"], "20260928ratings1");
+  return h + body + boot(root, {}, ["rating-trends.js", "ratings.js"], "20260928episode2");
 }
 
 // ---- write all -------------------------------------------------------------
@@ -289,6 +290,11 @@ urls.push({ loc: `${BASE}/kanal/`, pri: "0.7" });
 for (const s of seriesArr) {
   await mkdir(p(`dizi/${s.slug}/`), { recursive: true });
   const episodes = (s.seasons || []).flatMap((season) => season.episodes || []);
+  for (const [date, entries] of Object.entries(calendar.days || {})) for (const entry of entries) {
+    if (entry.slug === s.slug && Number.isInteger(Number(entry.episode)) && !episodes.some((ep) => ep.date === date || Number(ep.number) === Number(entry.episode))) {
+      episodes.push({ number: Number(entry.episode), season: entry.season, date, scheduled: true });
+    }
+  }
   const validEpisodeDirs = new Set(episodes.map((ep) => `bolum-${ep.number}`));
   for (const entry of await readdir(p(`dizi/${s.slug}/`), { withFileTypes: true })) {
     if (entry.isDirectory() && /^bolum-\d+$/.test(entry.name) && !validEpisodeDirs.has(entry.name)) {
@@ -355,3 +361,4 @@ await writeFile(p("sitemap.xml"), sitemap, "utf8");
 await writeFile(p("robots.txt"), `User-agent: *\nAllow: /\nSitemap: ${BASE}/sitemap.xml\n`, "utf8");
 
 console.log(`Built: ${count.logos} logos, ${count.networks} networks, ${count.series} series, ${count.episodes} episodes, ${count.actors} actors, ${count.characters} characters, ${count.works} works, ${count.lists} lists, ${urls.length} sitemap urls, ${searchIndex.length} search entries.`);
+

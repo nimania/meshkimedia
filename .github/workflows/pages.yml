@@ -8,6 +8,7 @@ on:
       - "automation/build-pages-data.mjs"
       - "automation/tiak-daily.mjs"
       - "automation/build-site.mjs"
+      - "automation/social-rating-cards.py"
       - "automation/audit-cast.mjs"
       - ".github/workflows/pages.yml"
   schedule:
@@ -45,6 +46,10 @@ jobs:
         continue-on-error: true
       - name: Regenerate static pages from data
         run: node automation/build-site.mjs
+      - name: Create daily social rating cards
+        run: |
+          python3 -m pip install --break-system-packages Pillow
+          python3 automation/social-rating-cards.py
       - name: Check editorial content
         run: node automation/audit-content.mjs --require ask-ve-taht --require sevdan-bir-ates --require abi --require gunesin-dogdugu-yer --require mercan-kosk
       - name: Check cast connections
@@ -93,3 +98,4 @@ jobs:
           done
           echo "::error::Could not push ratings.json to main"
           exit 1
+

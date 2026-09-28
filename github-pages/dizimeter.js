@@ -51,6 +51,22 @@
     return out.sort((a, b) => (a.date || "").localeCompare(b.date || "") || a.number - b.number);
   }
 
+  // Calendar entries can precede editorial episode pages. They carry only
+  // a confirmed broadcast date/number, never a fabricated recap or rating.
+  function scheduledEpisodes(s, calendar) {
+    const episodes = allEpisodes(s);
+    for (const [date, entries] of Object.entries(calendar?.days || {})) {
+      for (const entry of entries) {
+        if (entry.slug !== s.slug || !Number.isInteger(Number(entry.episode))) continue;
+        if (!episodes.some((ep) => ep.date === date || Number(ep.number) === Number(entry.episode))) {
+          episodes.push({ number: Number(entry.episode), season: entry.season,
+            date, scheduled: true, preview: true });
+        }
+      }
+    }
+    return episodes.sort((a, b) => (a.date || "").localeCompare(b.date || "") || a.number - b.number);
+  }
+
   // ---- People & characters derived from series cast -------------------------
   function buildPeople(series, profiles = {}, works = {}) {
     const people = {};
@@ -155,7 +171,7 @@
   window.DiziMeter = {
     ROOT, esc, slugify,
     fmtInt, fmtScore, fmtRank, isoToFa, isoToTiak,
-    loadData, seriesList, seriesForNetwork, allEpisodes,
+    loadData, seriesList, seriesForNetwork, allEpisodes, scheduledEpisodes,
     buildPeople, buildCharacters,
     ratingFor, ratingModesFor, seriesHeadlineRating, latestDay,
     calendarTimes, WEEKDAYS_FA,
@@ -163,3 +179,4 @@
   };
   document.addEventListener("DOMContentLoaded", initTheme);
 })();
+
