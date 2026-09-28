@@ -86,7 +86,8 @@
     $("#summary-date").textContent = D.faDigits(day.date);
     $("#summary-top").textContent = rows[0] ? (rows[0].rating != null ? D.fmtScore(rows[0].rating) : `#${D.fmtInt(rows[0].rank)}`) : "—";
     // Leader
-    if (rows[0]) {
+    $("#leader").style.display = day.partial ? "none" : "";
+    if (rows[0] && !day.partial) {
       const meta = classify(rows[0]);
       const top = rows[0];
       $("#top-program").textContent = meta.series ? meta.series.titleFa : top.program;
@@ -118,7 +119,7 @@
           <div class="rating-main">
             <div class="rating-meta"><span class="tag">${catLabel(meta.kind)}</span>${D.networkMark(data.networks, r.network)}</div>
             <h3 dir="rtl">${titleHtml}</h3>
-            <p dir="ltr">${r.program}</p>
+            <p dir="ltr">${r.program}</p>${r.source?.url ? `<a class="rating-source" href="${D.esc(r.source.url)}" target="_blank" rel="noopener noreferrer">منبع: دیزیلا ↗</a>` : ""}
           </div>
           <div class="score"><strong>${val}</strong><span>${unit}</span></div>
         </article>`;
@@ -130,7 +131,8 @@
     const { day } = currentRows();
     const has = day.hasNumbers && day.hasNumbers[activeCat];
     $("#cat-note").textContent = has
-      ? `اعداد Rating % واقعی از ${data.ratings.source.name}.`
+      ? day.partial ? `دادهٔ تأییدشدهٔ دیزیلا برای سریال‌های فهرست‌شده؛ این جدول کامل یا جدول رسمی روز نیست. منبع: ${day.source.name}.`
+        : `اعداد Rating % واقعی از ${data.ratings.source.name}.`
       : `برای این تاریخ هنوز مقدار عددی در بایگانی ما ثبت نشده است؛ پس از بازیابی جدول عمومی ${data.ratings.source.name} کامل می‌شود.`;
   }
 

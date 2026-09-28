@@ -18,7 +18,9 @@
         (day.categories?.[mode] || []).find((r) => String(r.program || "").toUpperCase().trim() === key) || null]));
       const date = iso(day.date);
       const scheduled = calendar?.days?.[date]?.find((entry) => entry.slug === s.slug);
-      return { date, episode: episodes.find((e) => e.date === date) || (scheduled ? { number: scheduled.episode, season: scheduled.season } : null), rows };
+      const socialEpisode = modes.map((mode) => rows[mode]).find((row) => Number.isInteger(row?.episode));
+      return { date, episode: episodes.find((e) => e.date === date) || (scheduled ? { number: scheduled.episode, season: scheduled.season } : null)
+        || (socialEpisode ? { number: socialEpisode.episode } : null), rows };
     }).filter((p) => modes.some((mode) => p.rows[mode]));
   }
 

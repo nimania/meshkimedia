@@ -46,7 +46,7 @@
     const reportExists = ratings.days.some((day) => day.date === D.isoToTiak(ep.date));
     $("#ep-ratings").innerHTML = D.ratingPills(modes, ratings);
     $("#ratings-note").textContent = anyRating
-      ? `منبع: ${ratings.source.name} · تاریخ ${modes.total ? modes.total.date : (modes.ab ? modes.ab.date : modes.abc1.date)}`
+      ? `منبع: ${(ratings.days.find((d) => d.date === (modes.total || modes.ab || modes.abc1).date)?.source || ratings.source).name} · تاریخ ${modes.total ? modes.total.date : (modes.ab ? modes.ab.date : modes.abc1.date)}`
       : reportExists ? "این قسمت در جدول عمومی ۱۰تایی TİAK ثبت نشده است؛ مقدار آن از این جدول معلوم نیست. ریتینگ قسمت‌های پیشین را پایین ببینید."
         : isScheduled ? "ریتینگ این قسمت هنوز اعلام نشده است. ریتینگ قسمت‌های پیشین را در نمودار و فهرست پایین ببینید."
           : "برای این تاریخ در بایگانی ما داده‌ای موجود نیست؛ ریتینگ را صفر فرض نکنید.";
