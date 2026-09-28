@@ -79,7 +79,7 @@ def card(kind, show, ep, day, summary, art, wide=False):
     im = Image.new("RGB", (W, H), "#161116")
     d = ImageDraw.Draw(im)
     if art:
-        box = (0, 0, 520, H) if wide else (0, 0, W, 740)
+        box = (0, 124, 520, H-89) if wide else (0, 124, W, 770)
         tile = ImageOps.fit(art, (box[2]-box[0], box[3]-box[1]), method=Image.Resampling.LANCZOS)
         im.paste(tile, (box[0], box[1]))
     else:
@@ -91,13 +91,14 @@ def card(kind, show, ep, day, summary, art, wide=False):
     overlay = gradient.resize((W, H))
     im = Image.alpha_composite(im.convert("RGBA"), overlay).convert("RGB")
     d = ImageDraw.Draw(im)
-    d.rectangle((0, 0, W, 13), fill="#e21b38")
-    d.rounded_rectangle((W-373, 25, W-34, 130), radius=18, fill="#26171e")
-    logo_small = ImageOps.fit(logo, (67,67))
-    im.paste(logo_small, (W-112, 40), logo_small)
+    # The masthead has its own dark band; no badge sits on faces in the photo.
+    d.rectangle((0, 0, W, 112), fill="#20151b")
+    d.rectangle((0, 112, W, 124), fill="#e21b38")
+    logo_small = ImageOps.fit(logo, (58,58))
+    im.paste(logo_small, (W-103, 27), logo_small)
     d = ImageDraw.Draw(im)
-    line(d, (W-126, 62), "مشکی‌مدیا", 28, heavy=True)
-    line(d, (W-350, 99), "@meshki.media", 18, "#e8bcc5", rtl=False)
+    line(d, (W-117, 47), "مشکی‌مدیا", 28, heavy=True)
+    line(d, (W-340, 80), "@meshki.media", 18, "#e8bcc5", rtl=False)
     label = "امشب از تلویزیون ترکیه" if kind == "schedule" and day == today.isoformat() else "به‌زودی از تلویزیون ترکیه" if kind == "schedule" else "خلاصهٔ قسمت تازه"
     right = W-55
     base = 245 if wide else 770
@@ -111,8 +112,7 @@ def card(kind, show, ep, day, summary, art, wide=False):
     line(d, (right-140, base+206), fa(network_name), 20, "#bda9af", rtl=False)
     if summary:
         y = base+249
-        description = f"دربارهٔ سریال: {summary}" if kind == "schedule" else summary
-        for paragraph in wrapped(d, description, 590 if wide else W-115, 23 if wide else 27, 2 if wide else 4):
+        for paragraph in wrapped(d, summary, 590 if wide else W-115, 23 if wide else 27, 2 if wide else 4):
             line(d, (right, y), paragraph, 23 if wide else 27, "#f6ebed")
             y += 40 if wide else 46
     if not art:
@@ -132,7 +132,7 @@ def caption(kind, show, ep, day, summary):
     title = show["titleFa"]
     lead = f"📺 {title} | فصل {fa(ep['season'])}، قسمت {fa(ep['episode'])}"
     if kind == "schedule":
-        description = f"دربارهٔ سریال: {summary}\n\n" if summary else ""
+        description = f"{summary}\n\n" if summary else ""
         text = f"{lead}\n🗓 پخش: {date_label(day)}\n\n{description}زمان پخش و اطلاعات قسمت را در مشکی‌مدیا ببینید:"
     else:
         text = f"{lead}\n\n{summary}\n\nخلاصهٔ کامل و تصاویر قسمت در مشکی‌مدیا:"
