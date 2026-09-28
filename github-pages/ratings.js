@@ -1,4 +1,4 @@
-/* Full ratings table (reyting/): Total / AB / ABC1, 10-day window, filters.
+/* Full ratings table (reyting/): Total / AB / ABC1, 30-day window, filters.
    Moved here from the homepage. Expects window.DM = { root } and window.DiziMeter loaded. */
 (async function () {
   "use strict";
@@ -47,7 +47,7 @@
   }
 
   function renderDayTabs() {
-    $("#day-tabs").innerHTML = data.ratings.days.slice(0, 10)
+    $("#day-tabs").innerHTML = data.ratings.days.slice(0, 30)
       .map((d, i) => `<button class="day-tab ${i === activeDayIdx ? "active" : ""}" data-idx="${i}">${D.faDigits(d.date)}</button>`)
       .join("");
     $("#day-tabs").querySelectorAll(".day-tab").forEach((b) =>

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T04:29:25.348Z",
+  "updatedAt": "2026-09-28T11:29:51.206Z",
   "metric": "Rating %",
   "windowDays": 120,
   "source": {
@@ -936,6 +936,914 @@
       }
     },
     {
+      "date": "20.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 7.05,
+            "share": 23.5
+          },
+          {
+            "rank": 2,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 4.28,
+            "share": 13.97
+          },
+          {
+            "rank": 3,
+            "program": "TESKILAT",
+            "network": "TRT 1",
+            "rating": 3.95,
+            "share": 12.88
+          },
+          {
+            "rank": 4,
+            "program": "TESKILAT (OZET)",
+            "network": "TRT 1",
+            "rating": 2.46,
+            "share": 7.96
+          },
+          {
+            "rank": 5,
+            "program": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 2.36,
+            "share": 9.63
+          },
+          {
+            "rank": 6,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.28,
+            "share": 7.94
+          },
+          {
+            "rank": 7,
+            "program": "CIRKIN",
+            "network": "STAR TV",
+            "rating": 2.11,
+            "share": 7.05
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2,
+            "share": 8.18
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.9,
+            "share": 7.62
+          },
+          {
+            "rank": 10,
+            "program": "BESIKTAS BASKANI SERDAL ADALI ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 1.67,
+            "share": 5.23
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 6,
+            "share": 20.63
+          },
+          {
+            "rank": 2,
+            "program": "TESKILAT",
+            "network": "TRT 1",
+            "rating": 3.53,
+            "share": 11.85
+          },
+          {
+            "rank": 3,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 3.29,
+            "share": 11.2
+          },
+          {
+            "rank": 4,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.71,
+            "share": 9.69
+          },
+          {
+            "rank": 5,
+            "program": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 2.36,
+            "share": 10.43
+          },
+          {
+            "rank": 6,
+            "program": "TESKILAT (OZET)",
+            "network": "TRT 1",
+            "rating": 2.3,
+            "share": 7.77
+          },
+          {
+            "rank": 7,
+            "program": "CIRKIN",
+            "network": "STAR TV",
+            "rating": 1.89,
+            "share": 6.51
+          },
+          {
+            "rank": 8,
+            "program": "CIRKIN (OZET)",
+            "network": "STAR TV",
+            "rating": 1.51,
+            "share": 5.08
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.5,
+            "share": 6.52
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.43,
+            "share": 6.32
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 6.86,
+            "share": 21.71
+          },
+          {
+            "rank": 2,
+            "program": "TESKILAT",
+            "network": "TRT 1",
+            "rating": 3.78,
+            "share": 11.74
+          },
+          {
+            "rank": 3,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 3.49,
+            "share": 11.27
+          },
+          {
+            "rank": 4,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.76,
+            "share": 9.13
+          },
+          {
+            "rank": 5,
+            "program": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 2.55,
+            "share": 10.72
+          },
+          {
+            "rank": 6,
+            "program": "CIRKIN",
+            "network": "STAR TV",
+            "rating": 2.31,
+            "share": 7.33
+          },
+          {
+            "rank": 7,
+            "program": "TESKILAT (OZET)",
+            "network": "TRT 1",
+            "rating": 2.27,
+            "share": 7.26
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.81,
+            "share": 7.62
+          },
+          {
+            "rank": 9,
+            "program": "BESIKTAS BASKANI SERDAL ADALI ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 1.68,
+            "share": 4.97
+          },
+          {
+            "rank": 10,
+            "program": "CIRKIN (OZET)",
+            "network": "STAR TV",
+            "rating": 1.62,
+            "share": 5.18
+          }
+        ]
+      }
+    },
+    {
+      "date": "19.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "GULLER VE GUNAHLAR",
+            "network": "KANAL D",
+            "rating": 4.63,
+            "share": 16.59
+          },
+          {
+            "rank": 2,
+            "program": "GULLER VE GUNAHLAR (OZET)",
+            "network": "KANAL D",
+            "rating": 2.94,
+            "share": 10.66
+          },
+          {
+            "rank": 3,
+            "program": "MERCAN KOSK",
+            "network": "ATV",
+            "rating": 2.74,
+            "share": 9.26
+          },
+          {
+            "rank": 4,
+            "program": "GONUL DAGI",
+            "network": "TRT 1",
+            "rating": 2.72,
+            "share": 9.7
+          },
+          {
+            "rank": 5,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.36,
+            "share": 8.94
+          },
+          {
+            "rank": 6,
+            "program": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 2.33,
+            "share": 10.96
+          },
+          {
+            "rank": 7,
+            "program": "GONUL DAGI (OZET)",
+            "network": "TRT 1",
+            "rating": 1.85,
+            "share": 6.65
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.84,
+            "share": 8.68
+          },
+          {
+            "rank": 9,
+            "program": "TRABZONSPOR BASKANI ERTUGRUL DOGAN ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 1.82,
+            "share": 6.27
+          },
+          {
+            "rank": 10,
+            "program": "TRABZONSPORLU FUTBOLCU NWAIWU ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 1.75,
+            "share": 5.96
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "GULLER VE GUNAHLAR",
+            "network": "KANAL D",
+            "rating": 2.95,
+            "share": 11.67
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.56,
+            "share": 10.69
+          },
+          {
+            "rank": 3,
+            "program": "MERCAN KOSK",
+            "network": "ATV",
+            "rating": 2.25,
+            "share": 8.48
+          },
+          {
+            "rank": 4,
+            "program": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 2.18,
+            "share": 11.98
+          },
+          {
+            "rank": 5,
+            "program": "GONUL DAGI",
+            "network": "TRT 1",
+            "rating": 1.86,
+            "share": 7.33
+          },
+          {
+            "rank": 6,
+            "program": "GULLER VE GUNAHLAR (OZET)",
+            "network": "KANAL D",
+            "rating": 1.7,
+            "share": 7
+          },
+          {
+            "rank": 7,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.47,
+            "share": 8.07
+          },
+          {
+            "rank": 8,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 1.45,
+            "share": 7.08
+          },
+          {
+            "rank": 9,
+            "program": "STADYUM",
+            "network": "TRT SPOR",
+            "rating": 1.24,
+            "share": 5.02
+          },
+          {
+            "rank": 10,
+            "program": "GONUL DAGI (OZET)",
+            "network": "TRT 1",
+            "rating": 1.12,
+            "share": 4.57
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "GULLER VE GUNAHLAR",
+            "network": "KANAL D",
+            "rating": 3.82,
+            "share": 13.56
+          },
+          {
+            "rank": 2,
+            "program": "MERCAN KOSK",
+            "network": "ATV",
+            "rating": 2.83,
+            "share": 9.57
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.72,
+            "share": 10.17
+          },
+          {
+            "rank": 4,
+            "program": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 2.46,
+            "share": 12.54
+          },
+          {
+            "rank": 5,
+            "program": "GONUL DAGI",
+            "network": "TRT 1",
+            "rating": 2.18,
+            "share": 7.68
+          },
+          {
+            "rank": 6,
+            "program": "GULLER VE GUNAHLAR (OZET)",
+            "network": "KANAL D",
+            "rating": 2.16,
+            "share": 8.1
+          },
+          {
+            "rank": 7,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.8,
+            "share": 9.2
+          },
+          {
+            "rank": 8,
+            "program": "TRABZONSPOR BASKANI ERTUGRUL DOGAN ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 1.7,
+            "share": 5.71
+          },
+          {
+            "rank": 9,
+            "program": "MERCAN KOSK (OZET)",
+            "network": "ATV",
+            "rating": 1.66,
+            "share": 6.12
+          },
+          {
+            "rank": 10,
+            "program": "TRABZONSPORLU FUTBOLCU NWAIWU ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 1.54,
+            "share": 5.23
+          }
+        ]
+      }
+    },
+    {
+      "date": "18.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "KIZILCIK SERBETI",
+            "network": "SHOW TV",
+            "rating": 5.86,
+            "share": 20.83
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.24,
+            "share": 34.38
+          },
+          {
+            "rank": 3,
+            "program": "KIZILCIK SERBETI (OZET)",
+            "network": "SHOW TV",
+            "rating": 3.89,
+            "share": 13.46
+          },
+          {
+            "rank": 4,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.35,
+            "share": 19.08
+          },
+          {
+            "rank": 5,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.84,
+            "share": 10.75
+          },
+          {
+            "rank": 6,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.6,
+            "share": 11
+          },
+          {
+            "rank": 7,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.51,
+            "share": 10.61
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.24,
+            "share": 9.49
+          },
+          {
+            "rank": 9,
+            "program": "ORTA DIREK SABAN (T.S)",
+            "network": "NOW",
+            "rating": 2.18,
+            "share": 7.22
+          },
+          {
+            "rank": 10,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.93,
+            "share": 8.1
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "KIZILCIK SERBETI",
+            "network": "SHOW TV",
+            "rating": 5.47,
+            "share": 20.42
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.91,
+            "share": 15.53
+          },
+          {
+            "rank": 3,
+            "program": "KIZILCIK SERBETI (OZET)",
+            "network": "SHOW TV",
+            "rating": 3.57,
+            "share": 13.59
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.02,
+            "share": 27.22
+          },
+          {
+            "rank": 5,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.55,
+            "share": 12.41
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.11,
+            "share": 13.94
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.86,
+            "share": 9.06
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.6,
+            "share": 7.81
+          },
+          {
+            "rank": 9,
+            "program": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+            "network": "TV8",
+            "rating": 1.55,
+            "share": 10.35
+          },
+          {
+            "rank": 10,
+            "program": "ORTA DIREK SABAN (T.S)",
+            "network": "NOW",
+            "rating": 1.48,
+            "share": 5.37
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "KIZILCIK SERBETI",
+            "network": "SHOW TV",
+            "rating": 6.31,
+            "share": 22.29
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.27,
+            "share": 33.72
+          },
+          {
+            "rank": 3,
+            "program": "KIZILCIK SERBETI (OZET)",
+            "network": "SHOW TV",
+            "rating": 4.11,
+            "share": 15.05
+          },
+          {
+            "rank": 4,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.5,
+            "share": 13.12
+          },
+          {
+            "rank": 5,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.73,
+            "share": 13.01
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.72,
+            "share": 17.12
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.88,
+            "share": 8.93
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.86,
+            "share": 8.85
+          },
+          {
+            "rank": 9,
+            "program": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+            "network": "TV8",
+            "rating": 1.67,
+            "share": 10.56
+          },
+          {
+            "rank": 10,
+            "program": "ORTA DIREK SABAN (T.S)",
+            "network": "NOW",
+            "rating": 1.53,
+            "share": 5.31
+          }
+        ]
+      }
+    },
+    {
+      "date": "17.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "BESIKTAS-MARSILYA UEFA AVRUPA LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 8.46,
+            "share": 28.97
+          },
+          {
+            "rank": 2,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 4.82,
+            "share": 15.45
+          },
+          {
+            "rank": 3,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 4.66,
+            "share": 14.83
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4,
+            "share": 32
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3,
+            "share": 17.34
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.8,
+            "share": 11.27
+          },
+          {
+            "rank": 7,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 2.56,
+            "share": 8.57
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.48,
+            "share": 9.86
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 2.43,
+            "share": 9.69
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.38,
+            "share": 9.61
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "BESIKTAS-MARSILYA UEFA AVRUPA LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 9.87,
+            "share": 34.44
+          },
+          {
+            "rank": 2,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 3.91,
+            "share": 13.31
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.44,
+            "share": 32.28
+          },
+          {
+            "rank": 4,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.02,
+            "share": 13.8
+          },
+          {
+            "rank": 5,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.93,
+            "share": 10.32
+          },
+          {
+            "rank": 6,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 2.88,
+            "share": 9.52
+          },
+          {
+            "rank": 7,
+            "program": "MUHTEMEL ASK",
+            "network": "SHOW TV",
+            "rating": 2.59,
+            "share": 8.8
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 1.79,
+            "share": 12.44
+          },
+          {
+            "rank": 9,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.67,
+            "share": 7.65
+          },
+          {
+            "rank": 10,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 1.67,
+            "share": 6.21
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "BESIKTAS-MARSILYA UEFA AVRUPA LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 10.4,
+            "share": 33.81
+          },
+          {
+            "rank": 2,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 4.25,
+            "share": 13.5
+          },
+          {
+            "rank": 3,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 4.09,
+            "share": 12.7
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.01,
+            "share": 32.34
+          },
+          {
+            "rank": 5,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.41,
+            "share": 14.26
+          },
+          {
+            "rank": 6,
+            "program": "MUHTEMEL ASK",
+            "network": "SHOW TV",
+            "rating": 2.61,
+            "share": 8.32
+          },
+          {
+            "rank": 7,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.59,
+            "share": 8.51
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.53,
+            "share": 16.05
+          },
+          {
+            "rank": 9,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 2.29,
+            "share": 7.83
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.17,
+            "share": 9.09
+          }
+        ]
+      }
+    },
+    {
       "date": "16.09.2026",
       "weekday": "",
       "hasNumbers": {
@@ -1163,6 +2071,1368 @@
       }
     },
     {
+      "date": "15.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 5.03,
+            "share": 16.88
+          },
+          {
+            "rank": 2,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 4.24,
+            "share": 13.97
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.89,
+            "share": 32.4
+          },
+          {
+            "rank": 4,
+            "program": "TUZLU KAHVE (OZET)",
+            "network": "STAR TV",
+            "rating": 3.51,
+            "share": 12.33
+          },
+          {
+            "rank": 5,
+            "program": "A.B.I.",
+            "network": "ATV",
+            "rating": 3.07,
+            "share": 10.8
+          },
+          {
+            "rank": 6,
+            "program": "MEHMED FETIHLER SULTANI",
+            "network": "TRT 1",
+            "rating": 2.84,
+            "share": 9.77
+          },
+          {
+            "rank": 7,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.81,
+            "share": 17.42
+          },
+          {
+            "rank": 8,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.6,
+            "share": 10.26
+          },
+          {
+            "rank": 9,
+            "program": "HAYSIYET (OZET)",
+            "network": "KANAL D",
+            "rating": 2.52,
+            "share": 9.03
+          },
+          {
+            "rank": 10,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.51,
+            "share": 10.82
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 6.22,
+            "share": 21.77
+          },
+          {
+            "rank": 2,
+            "program": "TUZLU KAHVE (OZET)",
+            "network": "STAR TV",
+            "rating": 4.18,
+            "share": 15.32
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.37,
+            "share": 13.9
+          },
+          {
+            "rank": 4,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 3.08,
+            "share": 10.59
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 2.88,
+            "share": 30.44
+          },
+          {
+            "rank": 6,
+            "program": "MEHMED FETIHLER SULTANI",
+            "network": "TRT 1",
+            "rating": 2.65,
+            "share": 9.52
+          },
+          {
+            "rank": 7,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.44,
+            "share": 11.68
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.41,
+            "share": 16.99
+          },
+          {
+            "rank": 9,
+            "program": "A.B.I.",
+            "network": "ATV",
+            "rating": 2.23,
+            "share": 8.18
+          },
+          {
+            "rank": 10,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 1.87,
+            "share": 7.68
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 6.53,
+            "share": 20.69
+          },
+          {
+            "rank": 2,
+            "program": "TUZLU KAHVE (OZET)",
+            "network": "STAR TV",
+            "rating": 4.54,
+            "share": 15.41
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.88,
+            "share": 32.64
+          },
+          {
+            "rank": 4,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 3.81,
+            "share": 11.9
+          },
+          {
+            "rank": 5,
+            "program": "MEHMED FETIHLER SULTANI",
+            "network": "TRT 1",
+            "rating": 3.21,
+            "share": 10.4
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.1,
+            "share": 13.72
+          },
+          {
+            "rank": 7,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.04,
+            "share": 11.29
+          },
+          {
+            "rank": 8,
+            "program": "A.B.I.",
+            "network": "ATV",
+            "rating": 2.69,
+            "share": 8.91
+          },
+          {
+            "rank": 9,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.56,
+            "share": 16.69
+          },
+          {
+            "rank": 10,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.23,
+            "share": 9.88
+          }
+        ]
+      }
+    },
+    {
+      "date": "14.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "UZAK SEHIR",
+            "network": "KANAL D",
+            "rating": 7.65,
+            "share": 24.55
+          },
+          {
+            "rank": 2,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 6.76,
+            "share": 21.33
+          },
+          {
+            "rank": 3,
+            "program": "UZAK SEHIR (OZET)",
+            "network": "KANAL D",
+            "rating": 5.18,
+            "share": 16.5
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.11,
+            "share": 35.84
+          },
+          {
+            "rank": 5,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 3.88,
+            "share": 12.33
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.2,
+            "share": 19.83
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.47,
+            "share": 10.88
+          },
+          {
+            "rank": 8,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.44,
+            "share": 10.77
+          },
+          {
+            "rank": 9,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.43,
+            "share": 8.07
+          },
+          {
+            "rank": 10,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 2.4,
+            "share": 10.23
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "UZAK SEHIR",
+            "network": "KANAL D",
+            "rating": 6,
+            "share": 21.34
+          },
+          {
+            "rank": 2,
+            "program": "UZAK SEHIR (OZET)",
+            "network": "KANAL D",
+            "rating": 3.99,
+            "share": 13.5
+          },
+          {
+            "rank": 3,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 3.89,
+            "share": 13.59
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.31,
+            "share": 35.14
+          },
+          {
+            "rank": 5,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.07,
+            "share": 14.19
+          },
+          {
+            "rank": 6,
+            "program": "EVLILIK GUZELDIR",
+            "network": "TRT 1",
+            "rating": 3.06,
+            "share": 10.11
+          },
+          {
+            "rank": 7,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.83,
+            "share": 10.31
+          },
+          {
+            "rank": 8,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 2.54,
+            "share": 8.59
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 2.42,
+            "share": 10.87
+          },
+          {
+            "rank": 10,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.26,
+            "share": 16.24
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "UZAK SEHIR",
+            "network": "KANAL D",
+            "rating": 6.93,
+            "share": 21.73
+          },
+          {
+            "rank": 2,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 5.51,
+            "share": 16.97
+          },
+          {
+            "rank": 3,
+            "program": "UZAK SEHIR (OZET)",
+            "network": "KANAL D",
+            "rating": 4.72,
+            "share": 14.63
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.4,
+            "share": 37.05
+          },
+          {
+            "rank": 5,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 3.29,
+            "share": 10.18
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.99,
+            "share": 13.38
+          },
+          {
+            "rank": 7,
+            "program": "EVLILIK GUZELDIR",
+            "network": "TRT 1",
+            "rating": 2.85,
+            "share": 8.36
+          },
+          {
+            "rank": 8,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.84,
+            "share": 9.2
+          },
+          {
+            "rank": 9,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.72,
+            "share": 18.76
+          },
+          {
+            "rank": 10,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 2.47,
+            "share": 10.74
+          }
+        ]
+      }
+    },
+    {
+      "date": "13.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 8.35,
+            "share": 29.48
+          },
+          {
+            "rank": 2,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 4.65,
+            "share": 15.86
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.97,
+            "share": 11.2
+          },
+          {
+            "rank": 4,
+            "program": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 2.22,
+            "share": 10.08
+          },
+          {
+            "rank": 5,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 2.18,
+            "share": 9.71
+          },
+          {
+            "rank": 6,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.93,
+            "share": 8.75
+          },
+          {
+            "rank": 7,
+            "program": "A.B.I. (TKR)",
+            "network": "ATV",
+            "rating": 1.33,
+            "share": 4.44
+          },
+          {
+            "rank": 8,
+            "program": "SICAK GELISME",
+            "network": "KANAL D",
+            "rating": 1.29,
+            "share": 6.6
+          },
+          {
+            "rank": 9,
+            "program": "MUKADDERAT (T.S)",
+            "network": "NOW",
+            "rating": 1.23,
+            "share": 4.04
+          },
+          {
+            "rank": 10,
+            "program": "HABER ONU",
+            "network": "SHOW TV",
+            "rating": 1.2,
+            "share": 6.16
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 5.92,
+            "share": 23.05
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.13,
+            "share": 13.06
+          },
+          {
+            "rank": 3,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 2.76,
+            "share": 10.51
+          },
+          {
+            "rank": 4,
+            "program": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 2.39,
+            "share": 12.49
+          },
+          {
+            "rank": 5,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.82,
+            "share": 9.53
+          },
+          {
+            "rank": 6,
+            "program": "HABER ONU",
+            "network": "SHOW TV",
+            "rating": 1.28,
+            "share": 7.39
+          },
+          {
+            "rank": 7,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.25,
+            "share": 6.44
+          },
+          {
+            "rank": 8,
+            "program": "MUKADDERAT (T.S)",
+            "network": "NOW",
+            "rating": 1.09,
+            "share": 3.94
+          },
+          {
+            "rank": 9,
+            "program": "SEVDAN BIR ATES (TKR)",
+            "network": "SHOW TV",
+            "rating": 1.06,
+            "share": 3.9
+          },
+          {
+            "rank": 10,
+            "program": "STAR HABER",
+            "network": "STAR TV",
+            "rating": 1.03,
+            "share": 5.96
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 7.8,
+            "share": 26.35
+          },
+          {
+            "rank": 2,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 3.78,
+            "share": 13.06
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.29,
+            "share": 11.88
+          },
+          {
+            "rank": 4,
+            "program": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 2.54,
+            "share": 11.82
+          },
+          {
+            "rank": 5,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.01,
+            "share": 9.37
+          },
+          {
+            "rank": 6,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.91,
+            "share": 8.81
+          },
+          {
+            "rank": 7,
+            "program": "HABER ONU",
+            "network": "SHOW TV",
+            "rating": 1.42,
+            "share": 7.46
+          },
+          {
+            "rank": 8,
+            "program": "SICAK GELISME",
+            "network": "KANAL D",
+            "rating": 1.29,
+            "share": 6.75
+          },
+          {
+            "rank": 9,
+            "program": "STAR HABER",
+            "network": "STAR TV",
+            "rating": 1.28,
+            "share": 6.77
+          },
+          {
+            "rank": 10,
+            "program": "STADYUM",
+            "network": "TRT SPOR",
+            "rating": 1.28,
+            "share": 4.22
+          }
+        ]
+      }
+    },
+    {
+      "date": "12.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "GULLER VE GUNAHLAR",
+            "network": "KANAL D",
+            "rating": 3.68,
+            "share": 13.94
+          },
+          {
+            "rank": 2,
+            "program": "GONUL DAGI",
+            "network": "TRT 1",
+            "rating": 3.1,
+            "share": 11.45
+          },
+          {
+            "rank": 3,
+            "program": "MERCAN KOSK",
+            "network": "ATV",
+            "rating": 3,
+            "share": 10.9
+          },
+          {
+            "rank": 4,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.89,
+            "share": 11.45
+          },
+          {
+            "rank": 5,
+            "program": "GULLER VE GUNAHLAR (OZET)",
+            "network": "KANAL D",
+            "rating": 2.35,
+            "share": 9.28
+          },
+          {
+            "rank": 6,
+            "program": "NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 1.87,
+            "share": 9.56
+          },
+          {
+            "rank": 7,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.71,
+            "share": 8.78
+          },
+          {
+            "rank": 8,
+            "program": "GONUL DAGI (OZET)",
+            "network": "TRT 1",
+            "rating": 1.69,
+            "share": 6.67
+          },
+          {
+            "rank": 9,
+            "program": "MERCAN KOSK (OZET)",
+            "network": "ATV",
+            "rating": 1.68,
+            "share": 6.77
+          },
+          {
+            "rank": 10,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.56,
+            "share": 7.84
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.87,
+            "share": 16.67
+          },
+          {
+            "rank": 2,
+            "program": "GULLER VE GUNAHLAR",
+            "network": "KANAL D",
+            "rating": 2.31,
+            "share": 9.53
+          },
+          {
+            "rank": 3,
+            "program": "MERCAN KOSK",
+            "network": "ATV",
+            "rating": 1.95,
+            "share": 7.7
+          },
+          {
+            "rank": 4,
+            "program": "GONUL DAGI",
+            "network": "TRT 1",
+            "rating": 1.87,
+            "share": 7.53
+          },
+          {
+            "rank": 5,
+            "program": "NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 1.6,
+            "share": 9.39
+          },
+          {
+            "rank": 6,
+            "program": "GULLER VE GUNAHLAR (OZET)",
+            "network": "KANAL D",
+            "rating": 1.51,
+            "share": 6.99
+          },
+          {
+            "rank": 7,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.23,
+            "share": 7.13
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.23,
+            "share": 7.2
+          },
+          {
+            "rank": 9,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 1.22,
+            "share": 6.73
+          },
+          {
+            "rank": 10,
+            "program": "GONUL DAGI (OZET)",
+            "network": "TRT 1",
+            "rating": 1.15,
+            "share": 5.31
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.35,
+            "share": 13.37
+          },
+          {
+            "rank": 2,
+            "program": "GULLER VE GUNAHLAR",
+            "network": "KANAL D",
+            "rating": 3.27,
+            "share": 12.51
+          },
+          {
+            "rank": 3,
+            "program": "MERCAN KOSK",
+            "network": "ATV",
+            "rating": 2.51,
+            "share": 9.31
+          },
+          {
+            "rank": 4,
+            "program": "GONUL DAGI",
+            "network": "TRT 1",
+            "rating": 2.36,
+            "share": 8.81
+          },
+          {
+            "rank": 5,
+            "program": "NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 2.19,
+            "share": 12.14
+          },
+          {
+            "rank": 6,
+            "program": "GULLER VE GUNAHLAR (OZET)",
+            "network": "KANAL D",
+            "rating": 1.85,
+            "share": 8.06
+          },
+          {
+            "rank": 7,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.47,
+            "share": 8.17
+          },
+          {
+            "rank": 8,
+            "program": "GONUL DAGI (OZET)",
+            "network": "TRT 1",
+            "rating": 1.43,
+            "share": 6.23
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.34,
+            "share": 7.36
+          },
+          {
+            "rank": 10,
+            "program": "MERCAN KOSK (OZET)",
+            "network": "ATV",
+            "rating": 1.25,
+            "share": 5.6
+          }
+        ]
+      }
+    },
+    {
+      "date": "11.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.5,
+            "share": 14.87
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.45,
+            "share": 27.56
+          },
+          {
+            "rank": 3,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.81,
+            "share": 18.31
+          },
+          {
+            "rank": 4,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.22,
+            "share": 10.91
+          },
+          {
+            "rank": 5,
+            "program": "KURALSIZ SOKAKLAR",
+            "network": "KANAL D",
+            "rating": 2.16,
+            "share": 8.05
+          },
+          {
+            "rank": 6,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.1,
+            "share": 10.31
+          },
+          {
+            "rank": 7,
+            "program": "SEVDAN BIR ATES (TKR)",
+            "network": "SHOW TV",
+            "rating": 2.05,
+            "share": 7.78
+          },
+          {
+            "rank": 8,
+            "program": "TUZLU KAHVE (TKR)",
+            "network": "STAR TV",
+            "rating": 1.84,
+            "share": 6.99
+          },
+          {
+            "rank": 9,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.84,
+            "share": 14.67
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.73,
+            "share": 8.5
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.84,
+            "share": 17.28
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 2.88,
+            "share": 27.14
+          },
+          {
+            "rank": 3,
+            "program": "KURALSIZ SOKAKLAR",
+            "network": "KANAL D",
+            "rating": 2.23,
+            "share": 8.96
+          },
+          {
+            "rank": 4,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 1.77,
+            "share": 9.92
+          },
+          {
+            "rank": 5,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.76,
+            "share": 9.89
+          },
+          {
+            "rank": 6,
+            "program": "TUZLU KAHVE (TKR)",
+            "network": "STAR TV",
+            "rating": 1.69,
+            "share": 6.91
+          },
+          {
+            "rank": 7,
+            "program": "KURALSIZ SOKAKLAR OZET",
+            "network": "KANAL D",
+            "rating": 1.54,
+            "share": 7.02
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 1.53,
+            "share": 12.04
+          },
+          {
+            "rank": 9,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 1.38,
+            "share": 6.82
+          },
+          {
+            "rank": 10,
+            "program": "SEVDAN BIR ATES (TKR)",
+            "network": "SHOW TV",
+            "rating": 1.34,
+            "share": 5.49
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 4.05,
+            "share": 16.38
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.35,
+            "share": 30.39
+          },
+          {
+            "rank": 3,
+            "program": "KURALSIZ SOKAKLAR",
+            "network": "KANAL D",
+            "rating": 2.38,
+            "share": 8.61
+          },
+          {
+            "rank": 4,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.37,
+            "share": 12.46
+          },
+          {
+            "rank": 5,
+            "program": "TUZLU KAHVE (TKR)",
+            "network": "STAR TV",
+            "rating": 2.05,
+            "share": 7.49
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.05,
+            "share": 15.44
+          },
+          {
+            "rank": 7,
+            "program": "SEVDAN BIR ATES (TKR)",
+            "network": "SHOW TV",
+            "rating": 1.82,
+            "share": 6.67
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.7,
+            "share": 8.96
+          },
+          {
+            "rank": 9,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 1.5,
+            "share": 6.79
+          },
+          {
+            "rank": 10,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.42,
+            "share": 7.5
+          }
+        ]
+      }
+    },
+    {
+      "date": "10.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "FENERBAHCE-ROMA UEFA SAMPIYONLAR LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 11.33,
+            "share": 38.29
+          },
+          {
+            "rank": 2,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 4.19,
+            "share": 14.79
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.66,
+            "share": 29.37
+          },
+          {
+            "rank": 4,
+            "program": "MUHTEMEL ASK",
+            "network": "SHOW TV",
+            "rating": 3.21,
+            "share": 11.22
+          },
+          {
+            "rank": 5,
+            "program": "UEFA SAMPIYONLAR LIGI MAC OZEL",
+            "network": "TRT 1",
+            "rating": 3.1,
+            "share": 10.04
+          },
+          {
+            "rank": 6,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.82,
+            "share": 10.79
+          },
+          {
+            "rank": 7,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.76,
+            "share": 17.91
+          },
+          {
+            "rank": 8,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 2.67,
+            "share": 8.94
+          },
+          {
+            "rank": 9,
+            "program": "FENERBAHCE BASKANI AZIZ YILDIRIM ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 2.32,
+            "share": 8.59
+          },
+          {
+            "rank": 10,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.2,
+            "share": 10.55
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "FENERBAHCE-ROMA UEFA SAMPIYONLAR LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 13.43,
+            "share": 48.26
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.32,
+            "share": 13.52
+          },
+          {
+            "rank": 3,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 3.3,
+            "share": 12.44
+          },
+          {
+            "rank": 4,
+            "program": "FENERBAHCE BASKANI AZIZ YILDIRIM ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 2.91,
+            "share": 11.43
+          },
+          {
+            "rank": 5,
+            "program": "UEFA SAMPIYONLAR LIGI MAC OZEL",
+            "network": "TRT 1",
+            "rating": 2.75,
+            "share": 9.51
+          },
+          {
+            "rank": 6,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 2.74,
+            "share": 27.19
+          },
+          {
+            "rank": 7,
+            "program": "MUHTEMEL ASK",
+            "network": "SHOW TV",
+            "rating": 2.47,
+            "share": 9.2
+          },
+          {
+            "rank": 8,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 1.73,
+            "share": 6.09
+          },
+          {
+            "rank": 9,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 1.7,
+            "share": 12.82
+          },
+          {
+            "rank": 10,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 1.44,
+            "share": 7.63
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "FENERBAHCE-ROMA UEFA SAMPIYONLAR LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 13.51,
+            "share": 44.96
+          },
+          {
+            "rank": 2,
+            "program": "UEFA SAMPIYONLAR LIGI MAC OZEL",
+            "network": "TRT 1",
+            "rating": 3.71,
+            "share": 11.5
+          },
+          {
+            "rank": 3,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 3.59,
+            "share": 12.19
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.52,
+            "share": 31.36
+          },
+          {
+            "rank": 5,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.22,
+            "share": 11.82
+          },
+          {
+            "rank": 6,
+            "program": "MUHTEMEL ASK",
+            "network": "SHOW TV",
+            "rating": 2.91,
+            "share": 9.82
+          },
+          {
+            "rank": 7,
+            "program": "FENERBAHCE BASKANI AZIZ YILDIRIM ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 2.76,
+            "share": 9.77
+          },
+          {
+            "rank": 8,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 2.1,
+            "share": 6.86
+          },
+          {
+            "rank": 9,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.02,
+            "share": 14.75
+          },
+          {
+            "rank": 10,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 1.91,
+            "share": 9.41
+          }
+        ]
+      }
+    },
+    {
       "date": "09.09.2026",
       "weekday": "",
       "hasNumbers": {
@@ -1385,6 +3655,2276 @@
             "network": "SHOW TV",
             "rating": 1.62,
             "share": 7.92
+          }
+        ]
+      }
+    },
+    {
+      "date": "08.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 4.57,
+            "share": 16.1
+          },
+          {
+            "rank": 2,
+            "program": "A.B.I.",
+            "network": "ATV",
+            "rating": 3.82,
+            "share": 13.32
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.79,
+            "share": 29.36
+          },
+          {
+            "rank": 4,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 3.5,
+            "share": 12.13
+          },
+          {
+            "rank": 5,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.03,
+            "share": 11.96
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.82,
+            "share": 17.77
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.24,
+            "share": 10.41
+          },
+          {
+            "rank": 8,
+            "program": "TUZLU KAHVE (OZET)",
+            "network": "STAR TV",
+            "rating": 2.04,
+            "share": 7.43
+          },
+          {
+            "rank": 9,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.04,
+            "share": 9.67
+          },
+          {
+            "rank": 10,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.79,
+            "share": 8.36
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 5.22,
+            "share": 18.86
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.35,
+            "share": 13.51
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.2,
+            "share": 29.33
+          },
+          {
+            "rank": 4,
+            "program": "A.B.I.",
+            "network": "ATV",
+            "rating": 2.88,
+            "share": 10.6
+          },
+          {
+            "rank": 5,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 2.66,
+            "share": 9.73
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.19,
+            "share": 12.54
+          },
+          {
+            "rank": 7,
+            "program": "TUZLU KAHVE (OZET)",
+            "network": "STAR TV",
+            "rating": 1.97,
+            "share": 7.83
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 1.89,
+            "share": 13.87
+          },
+          {
+            "rank": 9,
+            "program": "RECEP IVEDIK 7 (T.S)",
+            "network": "NOW",
+            "rating": 1.57,
+            "share": 5.66
+          },
+          {
+            "rank": 10,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.49,
+            "share": 8.27
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 5.43,
+            "share": 18.06
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.32,
+            "share": 35.75
+          },
+          {
+            "rank": 3,
+            "program": "A.B.I.",
+            "network": "ATV",
+            "rating": 3.66,
+            "share": 12.36
+          },
+          {
+            "rank": 4,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 3.39,
+            "share": 11.39
+          },
+          {
+            "rank": 5,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.33,
+            "share": 12.47
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.54,
+            "share": 12.79
+          },
+          {
+            "rank": 7,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.39,
+            "share": 16.84
+          },
+          {
+            "rank": 8,
+            "program": "TUZLU KAHVE (OZET)",
+            "network": "STAR TV",
+            "rating": 2.32,
+            "share": 8.39
+          },
+          {
+            "rank": 9,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.92,
+            "share": 9.41
+          },
+          {
+            "rank": 10,
+            "program": "RECEP IVEDIK 7 (T.S)",
+            "network": "NOW",
+            "rating": 1.78,
+            "share": 5.89
+          }
+        ]
+      }
+    },
+    {
+      "date": "07.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 7.89,
+            "share": 28.6
+          },
+          {
+            "rank": 2,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 3.99,
+            "share": 14.83
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.81,
+            "share": 29.27
+          },
+          {
+            "rank": 4,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.82,
+            "share": 10.59
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.71,
+            "share": 17.01
+          },
+          {
+            "rank": 6,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.36,
+            "share": 11.14
+          },
+          {
+            "rank": 7,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.21,
+            "share": 10.42
+          },
+          {
+            "rank": 8,
+            "program": "EVLILIK GUZELDIR",
+            "network": "TRT 1",
+            "rating": 2.13,
+            "share": 7.4
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.95,
+            "share": 9.05
+          },
+          {
+            "rank": 10,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.84,
+            "share": 14.1
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 5.31,
+            "share": 20.21
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.62,
+            "share": 14.27
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.26,
+            "share": 28.8
+          },
+          {
+            "rank": 4,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 3.02,
+            "share": 12.04
+          },
+          {
+            "rank": 5,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.64,
+            "share": 13.13
+          },
+          {
+            "rank": 6,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.52,
+            "share": 12.59
+          },
+          {
+            "rank": 7,
+            "program": "EVLILIK GUZELDIR",
+            "network": "TRT 1",
+            "rating": 2.24,
+            "share": 8.19
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.09,
+            "share": 14.29
+          },
+          {
+            "rank": 9,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.81,
+            "share": 13.58
+          },
+          {
+            "rank": 10,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 1.54,
+            "share": 6.87
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 7.03,
+            "share": 24.88
+          },
+          {
+            "rank": 2,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 3.79,
+            "share": 14.6
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.61,
+            "share": 32.25
+          },
+          {
+            "rank": 4,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.42,
+            "share": 12.53
+          },
+          {
+            "rank": 5,
+            "program": "EVLILIK GUZELDIR",
+            "network": "TRT 1",
+            "rating": 2.71,
+            "share": 9.34
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.65,
+            "share": 12.41
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.43,
+            "share": 11.39
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.42,
+            "share": 16.51
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.97,
+            "share": 9.16
+          },
+          {
+            "rank": 10,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.74,
+            "share": 14.59
+          }
+        ]
+      }
+    },
+    {
+      "date": "06.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 8.01,
+            "share": 29.28
+          },
+          {
+            "rank": 2,
+            "program": "ITALYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 4.94,
+            "share": 20.54
+          },
+          {
+            "rank": 3,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 3.77,
+            "share": 14.23
+          },
+          {
+            "rank": 4,
+            "program": "SET SAYISI",
+            "network": "TRT 1",
+            "rating": 3.53,
+            "share": 11.9
+          },
+          {
+            "rank": 5,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.41,
+            "share": 9.23
+          },
+          {
+            "rank": 6,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.56,
+            "share": 7.48
+          },
+          {
+            "rank": 7,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.54,
+            "share": 7.29
+          },
+          {
+            "rank": 8,
+            "program": "TOKATCI (T.S)",
+            "network": "SHOW TV",
+            "rating": 1.4,
+            "share": 5.17
+          },
+          {
+            "rank": 9,
+            "program": "HABER ONU",
+            "network": "SHOW TV",
+            "rating": 1.19,
+            "share": 6.71
+          },
+          {
+            "rank": 10,
+            "program": "NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 1.18,
+            "share": 5.56
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "ITALYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 7.72,
+            "share": 32.15
+          },
+          {
+            "rank": 2,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 6.25,
+            "share": 23.62
+          },
+          {
+            "rank": 3,
+            "program": "SET SAYISI",
+            "network": "TRT 1",
+            "rating": 5.53,
+            "share": 19.12
+          },
+          {
+            "rank": 4,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.63,
+            "share": 10.46
+          },
+          {
+            "rank": 5,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 2.32,
+            "share": 8.61
+          },
+          {
+            "rank": 6,
+            "program": "SET SAYISI",
+            "network": "TRT 1",
+            "rating": 1.22,
+            "share": 7.52
+          },
+          {
+            "rank": 7,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.18,
+            "share": 5.76
+          },
+          {
+            "rank": 8,
+            "program": "HABER ONU",
+            "network": "SHOW TV",
+            "rating": 1.06,
+            "share": 6.47
+          },
+          {
+            "rank": 9,
+            "program": "3 TE 3",
+            "network": "TRT 1",
+            "rating": 0.99,
+            "share": 3.94
+          },
+          {
+            "rank": 10,
+            "program": "NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 0.95,
+            "share": 4.55
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 7.21,
+            "share": 25.97
+          },
+          {
+            "rank": 2,
+            "program": "ITALYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 7.09,
+            "share": 29.1
+          },
+          {
+            "rank": 3,
+            "program": "SET SAYISI",
+            "network": "TRT 1",
+            "rating": 4.98,
+            "share": 16.71
+          },
+          {
+            "rank": 4,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 2.94,
+            "share": 10.93
+          },
+          {
+            "rank": 5,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.58,
+            "share": 9.73
+          },
+          {
+            "rank": 6,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.46,
+            "share": 6.88
+          },
+          {
+            "rank": 7,
+            "program": "SET SAYISI",
+            "network": "TRT 1",
+            "rating": 1.31,
+            "share": 7.61
+          },
+          {
+            "rank": 8,
+            "program": "HABER ONU",
+            "network": "SHOW TV",
+            "rating": 1.3,
+            "share": 7.42
+          },
+          {
+            "rank": 9,
+            "program": "NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 1.19,
+            "share": 5.51
+          },
+          {
+            "rank": 10,
+            "program": "TOKATCI (T.S)",
+            "network": "SHOW TV",
+            "rating": 1.14,
+            "share": 4.17
+          }
+        ]
+      }
+    },
+    {
+      "date": "05.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "GONUL DAGI",
+            "network": "TRT 1",
+            "rating": 2.93,
+            "share": 11.9
+          },
+          {
+            "rank": 2,
+            "program": "MERCAN KOSK",
+            "network": "ATV",
+            "rating": 2.78,
+            "share": 11.02
+          },
+          {
+            "rank": 3,
+            "program": "TURKIYE-SIRBISTAN CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 2.33,
+            "share": 16.46
+          },
+          {
+            "rank": 4,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.06,
+            "share": 8.73
+          },
+          {
+            "rank": 5,
+            "program": "GONUL DAGI (OZET)",
+            "network": "TRT 1",
+            "rating": 1.69,
+            "share": 6.98
+          },
+          {
+            "rank": 6,
+            "program": "SET SAYISI",
+            "network": "TRT 1",
+            "rating": 1.64,
+            "share": 10.61
+          },
+          {
+            "rank": 7,
+            "program": "FENERBAHCE BASKANI AZIZ YILDIRIM ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 1.57,
+            "share": 7.35
+          },
+          {
+            "rank": 8,
+            "program": "MERCAN KOSK (TKR)",
+            "network": "ATV",
+            "rating": 1.56,
+            "share": 9.53
+          },
+          {
+            "rank": 9,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.45,
+            "share": 7.84
+          },
+          {
+            "rank": 10,
+            "program": "NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 1.44,
+            "share": 7.67
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "TURKIYE-SIRBISTAN CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 3.41,
+            "share": 23.18
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.63,
+            "share": 11.05
+          },
+          {
+            "rank": 3,
+            "program": "SET SAYISI",
+            "network": "TRT 1",
+            "rating": 2.58,
+            "share": 16.92
+          },
+          {
+            "rank": 4,
+            "program": "GONUL DAGI",
+            "network": "TRT 1",
+            "rating": 2.58,
+            "share": 10.36
+          },
+          {
+            "rank": 5,
+            "program": "FENERBAHCE BASKANI AZIZ YILDIRIM ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 2.07,
+            "share": 9.37
+          },
+          {
+            "rank": 6,
+            "program": "MERCAN KOSK",
+            "network": "ATV",
+            "rating": 1.86,
+            "share": 7.27
+          },
+          {
+            "rank": 7,
+            "program": "STADYUM",
+            "network": "TRT SPOR",
+            "rating": 1.49,
+            "share": 6.15
+          },
+          {
+            "rank": 8,
+            "program": "GONUL DAGI (OZET)",
+            "network": "TRT 1",
+            "rating": 1.45,
+            "share": 5.9
+          },
+          {
+            "rank": 9,
+            "program": "MERCAN KOSK (TKR)",
+            "network": "ATV",
+            "rating": 1.28,
+            "share": 8.12
+          },
+          {
+            "rank": 10,
+            "program": "BESIKTASLI FUTBOLCU LEANDRO TROSSARD ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 1.28,
+            "share": 4.93
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "TURKIYE-SIRBISTAN CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 3.25,
+            "share": 22.79
+          },
+          {
+            "rank": 2,
+            "program": "GONUL DAGI",
+            "network": "TRT 1",
+            "rating": 2.79,
+            "share": 11.02
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.55,
+            "share": 10.48
+          },
+          {
+            "rank": 4,
+            "program": "MERCAN KOSK",
+            "network": "ATV",
+            "rating": 2.33,
+            "share": 9.3
+          },
+          {
+            "rank": 5,
+            "program": "SET SAYISI",
+            "network": "TRT 1",
+            "rating": 2.31,
+            "share": 14.82
+          },
+          {
+            "rank": 6,
+            "program": "FENERBAHCE BASKANI AZIZ YILDIRIM ACIKLAMA YAPIYOR",
+            "network": "TRT SPOR",
+            "rating": 1.94,
+            "share": 8.57
+          },
+          {
+            "rank": 7,
+            "program": "GONUL DAGI (OZET)",
+            "network": "TRT 1",
+            "rating": 1.66,
+            "share": 7
+          },
+          {
+            "rank": 8,
+            "program": "NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 1.65,
+            "share": 8.81
+          },
+          {
+            "rank": 9,
+            "program": "STADYUM",
+            "network": "TRT SPOR",
+            "rating": 1.53,
+            "share": 6.1
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.41,
+            "share": 7.65
+          }
+        ]
+      }
+    },
+    {
+      "date": "04.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.61,
+            "share": 29.5
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.18,
+            "share": 14.18
+          },
+          {
+            "rank": 3,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.55,
+            "share": 17.37
+          },
+          {
+            "rank": 4,
+            "program": "TUZLU KAHVE (TKR)",
+            "network": "STAR TV",
+            "rating": 2.06,
+            "share": 8.18
+          },
+          {
+            "rank": 5,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.75,
+            "share": 9.31
+          },
+          {
+            "rank": 6,
+            "program": "KURALSIZ SOKAKLAR",
+            "network": "KANAL D",
+            "rating": 1.7,
+            "share": 6.66
+          },
+          {
+            "rank": 7,
+            "program": "GELINIM MUTFAKTA",
+            "network": "KANAL D",
+            "rating": 1.67,
+            "share": 13.34
+          },
+          {
+            "rank": 8,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.57,
+            "share": 8.24
+          },
+          {
+            "rank": 9,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.57,
+            "share": 14.13
+          },
+          {
+            "rank": 10,
+            "program": "NOW ANA HABER",
+            "network": "NOW",
+            "rating": 1.51,
+            "share": 7.99
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.36,
+            "share": 15.58
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.03,
+            "share": 29.3
+          },
+          {
+            "rank": 3,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 1.85,
+            "share": 14.97
+          },
+          {
+            "rank": 4,
+            "program": "NOW ANA HABER",
+            "network": "NOW",
+            "rating": 1.73,
+            "share": 10.82
+          },
+          {
+            "rank": 5,
+            "program": "KURALSIZ SOKAKLAR",
+            "network": "KANAL D",
+            "rating": 1.56,
+            "share": 6.64
+          },
+          {
+            "rank": 6,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.41,
+            "share": 8.83
+          },
+          {
+            "rank": 7,
+            "program": "TUZLU KAHVE (TKR)",
+            "network": "STAR TV",
+            "rating": 1.34,
+            "share": 5.72
+          },
+          {
+            "rank": 8,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 1.3,
+            "share": 6.89
+          },
+          {
+            "rank": 9,
+            "program": "ASIRLIK GECE",
+            "network": "TRT 1",
+            "rating": 1.26,
+            "share": 5.77
+          },
+          {
+            "rank": 10,
+            "program": "ASIRLIK GECE (OZET)",
+            "network": "TRT 1",
+            "rating": 1.18,
+            "share": 5.27
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.83,
+            "share": 34.99
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.24,
+            "share": 14.4
+          },
+          {
+            "rank": 3,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.05,
+            "share": 16.21
+          },
+          {
+            "rank": 4,
+            "program": "NOW ANA HABER",
+            "network": "NOW",
+            "rating": 1.74,
+            "share": 10.22
+          },
+          {
+            "rank": 5,
+            "program": "KURALSIZ SOKAKLAR",
+            "network": "KANAL D",
+            "rating": 1.68,
+            "share": 6.85
+          },
+          {
+            "rank": 6,
+            "program": "ASIRLIK GECE",
+            "network": "TRT 1",
+            "rating": 1.57,
+            "share": 6.9
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.56,
+            "share": 9.27
+          },
+          {
+            "rank": 8,
+            "program": "TUZLU KAHVE (TKR)",
+            "network": "STAR TV",
+            "rating": 1.51,
+            "share": 6.2
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.48,
+            "share": 8.66
+          },
+          {
+            "rank": 10,
+            "program": "KIM MILYONER OLMAK ISTER",
+            "network": "ATV",
+            "rating": 1.36,
+            "share": 5.74
+          }
+        ]
+      }
+    },
+    {
+      "date": "03.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.62,
+            "share": 28.59
+          },
+          {
+            "rank": 2,
+            "program": "MUHTEMEL ASK",
+            "network": "SHOW TV",
+            "rating": 3.5,
+            "share": 14.45
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.18,
+            "share": 13.99
+          },
+          {
+            "rank": 4,
+            "program": "ALMANYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 3.04,
+            "share": 13.39
+          },
+          {
+            "rank": 5,
+            "program": "VAR MISIN YOK MUSUN",
+            "network": "ATV",
+            "rating": 2.66,
+            "share": 10.56
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.65,
+            "share": 17.42
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.18,
+            "share": 10.95
+          },
+          {
+            "rank": 8,
+            "program": "VAR MISIN YOK MUSUN OZEL",
+            "network": "ATV",
+            "rating": 2.09,
+            "share": 8.76
+          },
+          {
+            "rank": 9,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.86,
+            "share": 14.33
+          },
+          {
+            "rank": 10,
+            "program": "MUHTEMEL ASK (OZET)",
+            "network": "SHOW TV",
+            "rating": 1.69,
+            "share": 6.92
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "ALMANYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 4.23,
+            "share": 21.45
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.4,
+            "share": 16.13
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 2.77,
+            "share": 23.51
+          },
+          {
+            "rank": 4,
+            "program": "MUHTEMEL ASK",
+            "network": "SHOW TV",
+            "rating": 2.61,
+            "share": 11.6
+          },
+          {
+            "rank": 5,
+            "program": "VAR MISIN YOK MUSUN",
+            "network": "ATV",
+            "rating": 1.7,
+            "share": 7.27
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 1.56,
+            "share": 13.27
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.53,
+            "share": 9.07
+          },
+          {
+            "rank": 8,
+            "program": "VAR MISIN YOK MUSUN OZEL",
+            "network": "ATV",
+            "rating": 1.52,
+            "share": 7.22
+          },
+          {
+            "rank": 9,
+            "program": "TUZLU KAHVE (TKR)",
+            "network": "STAR TV",
+            "rating": 1.24,
+            "share": 5.36
+          },
+          {
+            "rank": 10,
+            "program": "MUHTEMEL ASK (OZET)",
+            "network": "SHOW TV",
+            "rating": 1.21,
+            "share": 5.57
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "ALMANYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 4.32,
+            "share": 19.66
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.44,
+            "share": 15.04
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.42,
+            "share": 28.96
+          },
+          {
+            "rank": 4,
+            "program": "MUHTEMEL ASK",
+            "network": "SHOW TV",
+            "rating": 3.11,
+            "share": 12.81
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.14,
+            "share": 16.2
+          },
+          {
+            "rank": 6,
+            "program": "VAR MISIN YOK MUSUN",
+            "network": "ATV",
+            "rating": 2.05,
+            "share": 8.14
+          },
+          {
+            "rank": 7,
+            "program": "VAR MISIN YOK MUSUN OZEL",
+            "network": "ATV",
+            "rating": 1.74,
+            "share": 7.52
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.73,
+            "share": 9.13
+          },
+          {
+            "rank": 9,
+            "program": "MUHTEMEL ASK (OZET)",
+            "network": "SHOW TV",
+            "rating": 1.45,
+            "share": 6.07
+          },
+          {
+            "rank": 10,
+            "program": "TUZLU KAHVE (TKR)",
+            "network": "STAR TV",
+            "rating": 1.31,
+            "share": 5.21
+          }
+        ]
+      }
+    },
+    {
+      "date": "02.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "DOGANIN KANUNU",
+            "network": "STAR TV",
+            "rating": 3.4,
+            "share": 13.96
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.3,
+            "share": 27.28
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.11,
+            "share": 13.53
+          },
+          {
+            "rank": 4,
+            "program": "VAR MISIN YOK MUSUN",
+            "network": "ATV",
+            "rating": 2.94,
+            "share": 11.6
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.4,
+            "share": 16.3
+          },
+          {
+            "rank": 6,
+            "program": "DOGANIN KANUNU (OZET)",
+            "network": "STAR TV",
+            "rating": 2.03,
+            "share": 8.35
+          },
+          {
+            "rank": 7,
+            "program": "VAR MISIN YOK MUSUN OZET",
+            "network": "ATV",
+            "rating": 2.02,
+            "share": 8.71
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.91,
+            "share": 10.38
+          },
+          {
+            "rank": 9,
+            "program": "NOW ANA HABER",
+            "network": "NOW",
+            "rating": 1.91,
+            "share": 10.28
+          },
+          {
+            "rank": 10,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.68,
+            "share": 13
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.93,
+            "share": 18.52
+          },
+          {
+            "rank": 2,
+            "program": "DOGANIN KANUNU",
+            "network": "STAR TV",
+            "rating": 2.86,
+            "share": 12.66
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 2.02,
+            "share": 21.29
+          },
+          {
+            "rank": 4,
+            "program": "VAR MISIN YOK MUSUN",
+            "network": "ATV",
+            "rating": 1.59,
+            "share": 6.83
+          },
+          {
+            "rank": 5,
+            "program": "NOW ANA HABER",
+            "network": "NOW",
+            "rating": 1.46,
+            "share": 9.26
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 1.41,
+            "share": 10.92
+          },
+          {
+            "rank": 7,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 1.36,
+            "share": 7.39
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.19,
+            "share": 7.68
+          },
+          {
+            "rank": 9,
+            "program": "DOGANIN KANUNU (OZET)",
+            "network": "STAR TV",
+            "rating": 1.18,
+            "share": 5.5
+          },
+          {
+            "rank": 10,
+            "program": "INTIKAM VAKTI (Y.S)",
+            "network": "SHOW TV",
+            "rating": 1.17,
+            "share": 5.19
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.8,
+            "share": 16.2
+          },
+          {
+            "rank": 2,
+            "program": "DOGANIN KANUNU",
+            "network": "STAR TV",
+            "rating": 3.1,
+            "share": 12.47
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 2.86,
+            "share": 28.22
+          },
+          {
+            "rank": 4,
+            "program": "VAR MISIN YOK MUSUN",
+            "network": "ATV",
+            "rating": 2.18,
+            "share": 8.47
+          },
+          {
+            "rank": 5,
+            "program": "NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.02,
+            "share": 11.76
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.01,
+            "share": 15.23
+          },
+          {
+            "rank": 7,
+            "program": "DOGANIN KANUNU (OZET)",
+            "network": "STAR TV",
+            "rating": 1.76,
+            "share": 7.52
+          },
+          {
+            "rank": 8,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.51,
+            "share": 14.58
+          },
+          {
+            "rank": 9,
+            "program": "VAR MISIN YOK MUSUN OZET",
+            "network": "ATV",
+            "rating": 1.51,
+            "share": 6.86
+          },
+          {
+            "rank": 10,
+            "program": "INTIKAM VAKTI (Y.S)",
+            "network": "SHOW TV",
+            "rating": 1.45,
+            "share": 5.88
+          }
+        ]
+      }
+    },
+    {
+      "date": "01.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 4.36,
+            "share": 16.97
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.26,
+            "share": 27.68
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3,
+            "share": 12.43
+          },
+          {
+            "rank": 4,
+            "program": "VAR MISIN YOK MUSUN",
+            "network": "ATV",
+            "rating": 2.65,
+            "share": 10.72
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.4,
+            "share": 16.19
+          },
+          {
+            "rank": 6,
+            "program": "TURKIYE-AZERBAYCAN CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 2.3,
+            "share": 10.16
+          },
+          {
+            "rank": 7,
+            "program": "TUZLU KAHVE (TKR)",
+            "network": "STAR TV",
+            "rating": 2.1,
+            "share": 11.06
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.83,
+            "share": 9.45
+          },
+          {
+            "rank": 9,
+            "program": "VAR MISIN YOK MUSUN OZET",
+            "network": "ATV",
+            "rating": 1.78,
+            "share": 7.25
+          },
+          {
+            "rank": 10,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.76,
+            "share": 14.37
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 4.28,
+            "share": 17.2
+          },
+          {
+            "rank": 2,
+            "program": "TURKIYE-AZERBAYCAN CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 3.48,
+            "share": 16.54
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.44,
+            "share": 15.05
+          },
+          {
+            "rank": 4,
+            "program": "TUZLU KAHVE (TKR)",
+            "network": "STAR TV",
+            "rating": 2.34,
+            "share": 13.37
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 2.3,
+            "share": 25.02
+          },
+          {
+            "rank": 6,
+            "program": "NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.02,
+            "share": 11.64
+          },
+          {
+            "rank": 7,
+            "program": "VAR MISIN YOK MUSUN",
+            "network": "ATV",
+            "rating": 1.7,
+            "share": 7.25
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 1.42,
+            "share": 11.59
+          },
+          {
+            "rank": 9,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.18,
+            "share": 12.71
+          },
+          {
+            "rank": 10,
+            "program": "GELINIM MUTFAKTA",
+            "network": "KANAL D",
+            "rating": 1.09,
+            "share": 11.27
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 5.11,
+            "share": 19.71
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.27,
+            "share": 13.24
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.19,
+            "share": 30.8
+          },
+          {
+            "rank": 4,
+            "program": "TURKIYE-AZERBAYCAN CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 3.12,
+            "share": 14.35
+          },
+          {
+            "rank": 5,
+            "program": "TUZLU KAHVE (TKR)",
+            "network": "STAR TV",
+            "rating": 2.37,
+            "share": 12.23
+          },
+          {
+            "rank": 6,
+            "program": "VAR MISIN YOK MUSUN",
+            "network": "ATV",
+            "rating": 2.14,
+            "share": 8.44
+          },
+          {
+            "rank": 7,
+            "program": "NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.02,
+            "share": 11.02
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.01,
+            "share": 15.62
+          },
+          {
+            "rank": 9,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.58,
+            "share": 8.72
+          },
+          {
+            "rank": 10,
+            "program": "VAR MISIN YOK MUSUN OZET",
+            "network": "ATV",
+            "rating": 1.52,
+            "share": 6.36
+          }
+        ]
+      }
+    },
+    {
+      "date": "31.08.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 7.69,
+            "share": 28.26
+          },
+          {
+            "rank": 2,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 4.03,
+            "share": 15.89
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3,
+            "share": 11.64
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 2.9,
+            "share": 24.75
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.32,
+            "share": 16.2
+          },
+          {
+            "rank": 6,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.98,
+            "share": 10.3
+          },
+          {
+            "rank": 7,
+            "program": "NOW ANA HABER",
+            "network": "NOW",
+            "rating": 1.72,
+            "share": 8.9
+          },
+          {
+            "rank": 8,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.7,
+            "share": 13.48
+          },
+          {
+            "rank": 9,
+            "program": "GELINIM MUTFAKTA",
+            "network": "KANAL D",
+            "rating": 1.46,
+            "share": 11.58
+          },
+          {
+            "rank": 10,
+            "program": "HABABAM SINIFI TATILDE (T.S)",
+            "network": "STAR TV",
+            "rating": 1.44,
+            "share": 5.44
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 4.28,
+            "share": 17.57
+          },
+          {
+            "rank": 2,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.47,
+            "share": 15.06
+          },
+          {
+            "rank": 3,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 2.07,
+            "share": 9.13
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 1.86,
+            "share": 20.57
+          },
+          {
+            "rank": 5,
+            "program": "NOW ANA HABER",
+            "network": "NOW",
+            "rating": 1.53,
+            "share": 8.93
+          },
+          {
+            "rank": 6,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.43,
+            "share": 8.47
+          },
+          {
+            "rank": 7,
+            "program": "HABABAM SINIFI TATILDE (T.S)",
+            "network": "STAR TV",
+            "rating": 1.36,
+            "share": 5.68
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 1.35,
+            "share": 11.66
+          },
+          {
+            "rank": 9,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 1.12,
+            "share": 5.55
+          },
+          {
+            "rank": 10,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.11,
+            "share": 6.4
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 6.61,
+            "share": 24.75
+          },
+          {
+            "rank": 2,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 3.68,
+            "share": 15.33
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.34,
+            "share": 13.16
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 2.61,
+            "share": 25.42
+          },
+          {
+            "rank": 5,
+            "program": "NOW ANA HABER",
+            "network": "NOW",
+            "rating": 1.94,
+            "share": 10.56
+          },
+          {
+            "rank": 6,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 1.88,
+            "share": 10.27
+          },
+          {
+            "rank": 7,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 1.87,
+            "share": 15.09
+          },
+          {
+            "rank": 8,
+            "program": "ATV GUN ORTASI",
+            "network": "ATV",
+            "rating": 1.38,
+            "share": 12.81
+          },
+          {
+            "rank": 9,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 1.3,
+            "share": 6.06
+          },
+          {
+            "rank": 10,
+            "program": "HABABAM SINIFI TATILDE (T.S)",
+            "network": "STAR TV",
+            "rating": 1.26,
+            "share": 4.98
+          }
+        ]
+      }
+    },
+    {
+      "date": "30.08.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 6.89,
+            "share": 27.29
+          },
+          {
+            "rank": 2,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 3.6,
+            "share": 15.71
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.39,
+            "share": 9.96
+          },
+          {
+            "rank": 4,
+            "program": "KAPICILAR KRALI (T.S)",
+            "network": "SHOW TV",
+            "rating": 1.62,
+            "share": 6.91
+          },
+          {
+            "rank": 5,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.62,
+            "share": 8.54
+          },
+          {
+            "rank": 6,
+            "program": "NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 1.5,
+            "share": 7.83
+          },
+          {
+            "rank": 7,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.29,
+            "share": 6.78
+          },
+          {
+            "rank": 8,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 1.01,
+            "share": 5.05
+          },
+          {
+            "rank": 9,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 0.99,
+            "share": 5.23
+          },
+          {
+            "rank": 10,
+            "program": "KIM MILYONER OLMAK ISTER",
+            "network": "ATV",
+            "rating": 0.97,
+            "share": 3.82
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 5.2,
+            "share": 22.57
+          },
+          {
+            "rank": 2,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 3.37,
+            "share": 15.94
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.4,
+            "share": 11.04
+          },
+          {
+            "rank": 4,
+            "program": "NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 1.3,
+            "share": 7.37
+          },
+          {
+            "rank": 5,
+            "program": "KURALSIZ SOKAKLAR (TKR)",
+            "network": "KANAL D",
+            "rating": 1.26,
+            "share": 14.47
+          },
+          {
+            "rank": 6,
+            "program": "KAPICILAR KRALI (T.S)",
+            "network": "SHOW TV",
+            "rating": 1.25,
+            "share": 5.8
+          },
+          {
+            "rank": 7,
+            "program": "ATATURK 2 1881-1919 (T.S)",
+            "network": "NOW",
+            "rating": 1.21,
+            "share": 5.24
+          },
+          {
+            "rank": 8,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.03,
+            "share": 5.85
+          },
+          {
+            "rank": 9,
+            "program": "KIM MILYONER OLMAK ISTER OZEL",
+            "network": "ATV",
+            "rating": 0.89,
+            "share": 4.22
+          },
+          {
+            "rank": 10,
+            "program": "MASTERCHEF TURKIYE OZET",
+            "network": "TV8",
+            "rating": 0.82,
+            "share": 4.43
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "DAHA 17",
+            "network": "KANAL D",
+            "rating": 6.48,
+            "share": 25.6
+          },
+          {
+            "rank": 2,
+            "program": "DAHA 17 (OZET)",
+            "network": "KANAL D",
+            "rating": 3.43,
+            "share": 15.33
+          },
+          {
+            "rank": 3,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.51,
+            "share": 10.43
+          },
+          {
+            "rank": 4,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.64,
+            "share": 8.71
+          },
+          {
+            "rank": 5,
+            "program": "KAPICILAR KRALI (T.S)",
+            "network": "SHOW TV",
+            "rating": 1.63,
+            "share": 7.12
+          },
+          {
+            "rank": 6,
+            "program": "NOW ANA HABER HAFTA SONU",
+            "network": "NOW",
+            "rating": 1.61,
+            "share": 8.5
+          },
+          {
+            "rank": 7,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.19,
+            "share": 6.31
+          },
+          {
+            "rank": 8,
+            "program": "ATATURK 2 1881-1919 (T.S)",
+            "network": "NOW",
+            "rating": 1.12,
+            "share": 4.52
+          },
+          {
+            "rank": 9,
+            "program": "KIM MILYONER OLMAK ISTER",
+            "network": "ATV",
+            "rating": 1.09,
+            "share": 4.33
+          },
+          {
+            "rank": 10,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 0.98,
+            "share": 5.22
           }
         ]
       }
