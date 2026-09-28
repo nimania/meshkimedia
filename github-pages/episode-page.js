@@ -43,10 +43,13 @@
     const modes = D.ratingModesFor(ratings, s.ratingKey, ep.date);
     const anyRating = modes.total || modes.ab || modes.abc1;
     const isScheduled = Boolean(ep.scheduled);
+    const reportExists = ratings.days.some((day) => day.date === D.isoToTiak(ep.date));
     $("#ep-ratings").innerHTML = D.ratingPills(modes, ratings);
     $("#ratings-note").textContent = anyRating
       ? `منبع: ${ratings.source.name} · تاریخ ${modes.total ? modes.total.date : (modes.ab ? modes.ab.date : modes.abc1.date)}`
-      : isScheduled ? "ریتینگ این قسمت هنوز اعلام نشده است. ریتینگ قسمت‌های پیشین را در نمودار و فهرست پایین ببینید." : "ریتینگ این قسمت هنوز اعلام یا در جدول عمومی ثبت نشده است.";
+      : reportExists ? "این قسمت در جدول عمومی ۱۰تایی TİAK ثبت نشده است؛ مقدار آن از این جدول معلوم نیست. ریتینگ قسمت‌های پیشین را پایین ببینید."
+        : isScheduled ? "ریتینگ این قسمت هنوز اعلام نشده است. ریتینگ قسمت‌های پیشین را در نمودار و فهرست پایین ببینید."
+          : "برای این تاریخ در بایگانی ما داده‌ای موجود نیست؛ ریتینگ را صفر فرض نکنید.";
 
     const points = eps.map((item) => ({ item, modes: D.ratingModesFor(ratings, s.ratingKey, item.date) }));
     const present = points.some((p) => T.modes.some((mode) => p.modes[mode]));
@@ -71,7 +74,7 @@
         delta = `<p class="trend-delta ${diff >= 0 ? "up" : "down"}">Total این پخش: ${diff >= 0 ? "افزایش" : "کاهش"} ${T.fa(Math.abs(diff))} واحد ریتینگ نسبت به پخش ثبت‌شدهٔ قبلی</p>`;
       }
       const chartEl = $("#ep-trend");
-      chartEl.innerHTML = `<div class="trend-switch" role="group" aria-label="سنجهٔ نمودار قسمت"><button class="trend-button active" data-ep-metric="rank" aria-pressed="true">رتبهٔ سه دسته</button><button class="trend-button" data-ep-metric="rating" aria-pressed="false">ریتینگ ٪ سه دسته</button></div><div id="ep-trend-graph">${graph}</div><div class="trend-legend" id="ep-trend-legend">${legend}</div><div class="trend-episodes">${points.map(({ item, modes }) => `<a class="trend-episode ${item.number === ep.number ? "current" : ""}" href="${D.ROOT}dizi/${s.slug}/bolum-${item.number}/" title="${D.esc(item.date || "")}">قسمت ${D.fmtInt(item.number)}<small>${T.modes.map((mode) => modes[mode] ? `${T.labels[mode]} ${modes[mode].rating != null ? D.fmtScore(modes[mode].rating) + "٪" : "#" + D.fmtInt(modes[mode].rank)}` : "").filter(Boolean).join(" · ") || "ریتینگ هنوز اعلام نشده"}</small></a>`).join("")}</div>${delta}`;
+      chartEl.innerHTML = `<div class="trend-switch" role="group" aria-label="سنجهٔ نمودار قسمت"><button class="trend-button active" data-ep-metric="rank" aria-pressed="true">رتبهٔ سه دسته</button><button class="trend-button" data-ep-metric="rating" aria-pressed="false">ریتینگ ٪ سه دسته</button></div><div id="ep-trend-graph">${graph}</div><div class="trend-legend" id="ep-trend-legend">${legend}</div><div class="trend-episodes">${points.map(({ item, modes }) => `<a class="trend-episode ${item.number === ep.number ? "current" : ""}" href="${D.ROOT}dizi/${s.slug}/bolum-${item.number}/" title="${D.esc(item.date || "")}">قسمت ${D.fmtInt(item.number)}<small>${T.modes.map((mode) => modes[mode] ? `${T.labels[mode]} ${modes[mode].rating != null ? D.fmtScore(modes[mode].rating) + "٪" : "#" + D.fmtInt(modes[mode].rank)}` : "").filter(Boolean).join(" · ") || (ratings.days.some((day) => day.date === D.isoToTiak(item.date)) ? "خارج از جدول عمومی" : item.scheduled ? "هنوز اعلام نشده" : "داده در بایگانی نیست")}</small></a>`).join("")}</div>${delta}`;
       chartEl.querySelectorAll("[data-ep-metric]").forEach((button) => button.addEventListener("click", () => {
         const numeric = button.dataset.epMetric === "rating";
         chartEl.querySelector("#ep-trend-graph").innerHTML = numeric ? numericGraph : graph;
@@ -104,7 +107,7 @@
     // Summary
     $("#ep-summary").textContent = ep.summary && ep.summary.trim()
       ? ep.summary
-      : isScheduled ? `طبق تقویم، قسمت ${D.fmtInt(ep.number)} از فصل ${D.fmtInt(ep.season)} در ${D.isoToFa(ep.date)} پخش می‌شود. خلاصه و تصاویر آن پس از انتشار اطلاعات رسمی اضافه می‌شوند.` : "خلاصهٔ این قسمت به‌زودی از منبع رسمی افزوده می‌شود.";
+      : isScheduled ? `طبق تقویم، قسمت ${D.fmtInt(ep.number)} از فصل ${D.fmtInt(ep.season)} برای ${D.isoToFa(ep.date)} ثبت شده است. خلاصه و تصاویر آن پس از انتشار اطلاعات رسمی اضافه می‌شوند.` : "خلاصهٔ این قسمت به‌زودی از منبع رسمی افزوده می‌شود.";
 
     // Links: fragman + official source
     const links = [];
@@ -128,4 +131,3 @@
     $("#ep-summary").textContent = "اطلاعات این قسمت موقتاً در دسترس نیست.";
   }
 })();
-
