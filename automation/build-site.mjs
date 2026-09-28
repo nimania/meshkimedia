@@ -257,7 +257,7 @@ function ratingsPage() {
 <section id="leader" class="leader-card"><div><small>صدرنشین این روز</small><h2 id="top-program">در حال دریافت داده…</h2><span id="top-network">—</span></div><strong id="top-rating">—</strong></section>
 <section id="trends" class="trend-section"><div class="feed-label"><span>مقایسهٔ روند سریال‌های در حال پخش</span><i></i></div><h2>هر سریال، پخش‌به‌پخش</h2><p class="trend-help">محور افقی تاریخ واقعی پخش است. هر خط، ریتینگ یا رتبهٔ قسمت‌های یک سریال را نشان می‌دهد. روی نقطه مکث کنید تا نام سریال، شمارهٔ قسمت، تاریخ و مقدار را ببینید؛ سریال‌های تک‌داده‌ای در فهرست پایین هستند.</p><div class="trend-controls"><div id="trend-modes" class="trend-switch" role="group" aria-label="دستهٔ مخاطب"></div><div id="trend-metric" class="trend-switch" role="group" aria-label="نوع سنجه"></div></div><div id="trend-chart"></div><div id="trend-legend" class="trend-legend"></div><p id="trend-note" class="trend-help"></p><div id="trend-analysis" class="trend-analysis"></div><div id="trend-details" class="trend-details"></div></section>
 <section id="ratings" class="feed-section">
-<div class="feed-label"><span>جدول ریتینگ</span><i></i></div><p class="trend-help"><a href="${root}social/ratings/">دریافت کارت‌های روزانهٔ آمادهٔ انتشار برای اینستاگرام و X ←</a></p>
+<div class="feed-label"><span>جدول ریتینگ</span><i></i></div><p class="trend-help"><a href="${root}social/">اتاق انتشار: کارت و کپشن آماده برای اینستاگرام و X ←</a></p>
 <div class="cat-tabs" id="cat-tabs" role="group" aria-label="حالت ریتینگ"></div>
 <p class="cat-note" id="cat-note"></p>
 <div class="day-strip"><span class="day-strip-label">۱۰ روز اخیر:</span><div class="day-tabs" id="day-tabs"></div></div>
