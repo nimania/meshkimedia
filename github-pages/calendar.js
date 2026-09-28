@@ -18,7 +18,7 @@
     const value = (type) => parts.find((p) => p.type === type).value;
     return `${value("year")}-${value("month")}-${value("day")}`;
   };
-  const fold = (s) => String(s || "").toLocaleLowerCase("tr").normalize("NFD")
+  const fold = (s) => D.asciiDigits(String(s || "")).toLocaleLowerCase("tr").normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "").replaceAll("ي", "ی").replaceAll("ك", "ک");
   try {
     const [{ networks, series }, response] = await Promise.all([
@@ -68,7 +68,7 @@
             const image = show.hero ? `<img src="${D.esc(show.hero)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
             return `<a class="calendar-card" href="${D.esc(href)}"${known ? "" : ' target="_blank" rel="noopener noreferrer"'}>
               <span class="calendar-poster">${image}<span class="calendar-poster-letter">${D.esc((show.titleFa || show.titleTr).slice(0, 1))}</span></span>
-              <span class="calendar-card-body"><span class="calendar-card-network">${net ? `<img src="${root}images/networks/${D.esc(net.slug)}.svg" alt="">` : ""}${D.esc(net?.name || "")}</span>
+              <span class="calendar-card-body"><span class="calendar-card-network">${D.networkMark(networks, show.network)}</span>
                 <strong>${D.esc(show.titleFa || show.titleTr)}</strong>
                 ${show.titleFa ? `<span class="calendar-original" dir="ltr">${D.esc(show.titleTr)}</span>` : ""}
                 <span class="calendar-episode">فصل ${numeral.format(entry.season)} · قسمت ${numeral.format(entry.episode)}</span>
@@ -90,4 +90,3 @@
     feed.innerHTML = '<div class="notice error">تقویم موقتاً در دسترس نیست.</div>';
   }
 })();
-

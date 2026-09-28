@@ -15,7 +15,7 @@
     document.title = `${d.titleFa} (${d.titleTr}) | مشکی مدیا`;
     $("#status").textContent = d.status;
     $("#kind-tag").textContent = d.kind === "entertainment" ? "برنامه" : "سریال";
-    $("#network").innerHTML = net ? `<a href="${root}kanal/${net.slug}/">${net.name}</a>` : "";
+    $("#network").innerHTML = net ? D.networkMark(networks, d.network, { link: true }) : "";
     $("#airing").textContent = d.airing || "";
     $("#studio").textContent = d.studio || "";
     $("#net-badge").innerHTML = D.netBadge(networks, d.network);

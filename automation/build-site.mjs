@@ -59,7 +59,7 @@ const SITE_NAV = (root, active) => {
   return `<nav class="site-nav" aria-label="بخش‌ها">${items.map(([h, t]) => `<a href="${root}${h}"${active === h ? ' class="on"' : ""}>${t}</a>`).join("")}</nav>`;
 };
 
-function head(root, { title, desc, path, ogImage, jsonld, ogType = "website", version = "20260927d" }) {
+function head(root, { title, desc, path, ogImage, jsonld, ogType = "website", version = "20260928fa" }) {
   const canonical = `${BASE}/${path}`;
   const img = ogImage ? (ogImage.startsWith("http") ? ogImage : BASE + ogImage) : BASE + LOGO;
   const ld = jsonld ? `\n<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : "";
@@ -83,7 +83,7 @@ function head(root, { title, desc, path, ogImage, jsonld, ogType = "website", ve
 <header class="app-header"><a class="brand" href="${root}"><img class="brand-logo" src="${root}images/meshki-media-logo.png" alt="مشکی مدیا" width="34" height="34"><span class="brand-text"><strong>مشکی مدیا</strong><span>دنیای سریال‌های ترکی</span></span></a><div class="header-actions"><button id="theme-toggle" class="icon-button" aria-label="روشن یا تیره">◐</button><a class="icon-button" href="${root}ara/" aria-label="جستجو">⌕</a></div></header>
 ${SITE_NAV(root, path.split("/")[0] === "" ? "" : (path.split("/").slice(0, 1)[0] + "/"))}`;
 }
-const boot = (root, obj, scripts, version = "20260927d") => `<script>window.DM=${JSON.stringify(Object.assign({ root }, obj))};</script>
+const boot = (root, obj, scripts, version = "20260928fa") => `<script>window.DM=${JSON.stringify(Object.assign({ root }, obj))};</script>
 <script src="${root}dizimeter.js?v=${version}" defer></script>
 ${scripts.map((s) => `<script src="${root}${s}?v=${version}" defer></script>`).join("\n")}
 </body></html>
@@ -92,9 +92,9 @@ const BOTTOM = (root, items) => `<nav class="bottom-nav">${items.map(([h, b, t, 
 
 // ---- network SVG mark ------------------------------------------------------
 function networkSvg(net) {
-  const label = net.abbr || net.name;
+  const label = (net.abbr || net.name).replace(/[0-9]/g, (d) => "۰۱۲۳۴۵۶۷۸۹"[Number(d)]);
   const w = Math.max(96, 30 + label.length * 15);
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${w} 40" width="${w}" height="40" role="img" aria-label="${esc(net.name)}">
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${w} 40" width="${w}" height="40" role="img" aria-label="${esc(net.name.replace(/[0-9]/g, (d) => "۰۱۲۳۴۵۶۷۸۹"[Number(d)]))}">
 <rect width="${w}" height="40" rx="8" fill="${net.color}"/>
 <text x="${w / 2}" y="27" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="18" letter-spacing="0.5" fill="#ffffff">${esc(label)}</text>
 </svg>

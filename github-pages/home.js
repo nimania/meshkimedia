@@ -78,7 +78,7 @@
     const t = airTime(s);
     const ep = scheduledEp || latestEp(s);
     const kicker = when
-      ? `<i></i>${when}${net ? " از " + esc(net.name) : ""}${t ? ` · ساعت ${t.ir} به وقت ایران` : ""}`
+      ? `<i></i>${when}${net ? " از " + D.networkMark(data.networks, s.network) : ""}${t ? ` · ساعت ${t.ir} به وقت ایران` : ""}`
       : `سریال ویژه${net ? " · " + esc(net.name) : ""}`;
     const actions = [`<a class="btn btn-red" href="${R}dizi/${s.slug}/">صفحهٔ سریال</a>`];
     if (ep && (scheduledEp || ep.summary)) actions.push(`<a class="btn btn-glass" href="${R}dizi/${s.slug}/bolum-${ep.number}/">${scheduledEp ? "پخشِ" : ep.preview ? "معرفی" : "خلاصهٔ"} قسمت ${D.fmtInt(scheduledEntry?.episode || ep.number)}</a>`);
@@ -121,7 +121,7 @@
       const note = `فصل ${D.fmtInt(entry.season)} · قسمت ${D.fmtInt(entry.episode)}`;
       return `<a class="tonight-item" href="${esc(href)}"${known ? "" : ' target="_blank" rel="noopener noreferrer"'}>${art(show, { title: false })}`
         + `<span class="tonight-copy"><strong>${esc(show.titleFa)}</strong>${s.titleFa ? `<span dir="ltr">${esc(s.titleTr)}</span>` : ""}<em>${note}${entry.premiere === "series" ? " · شروع سریال" : ""}</em></span>`
-        + `<span class="tonight-time"><b>${D.fmtInt(entry.episode)}</b><small>${net ? esc(net.name) : "قسمت"}</small></span></a>`;
+        + `<span class="tonight-time"><b>${D.fmtInt(entry.episode)}</b><small>${net ? D.networkMark(data.networks, show.network) : "قسمت"}</small></span></a>`;
     }).join("");
   }
 
@@ -137,7 +137,7 @@
       return `<li class="top-item"><a href="${R}dizi/${s.slug}/">`
         + `<span class="top-rank">${D.fmtInt(i + 1)}</span>`
         + art(s, { title: false, cls: "art-sm" })
-        + `<span class="top-info"><strong>${esc(s.titleFa)}</strong><span>${net ? esc(net.name) + " · " : ""}${esc(faWeekday(iso))} ${esc(faDayMonth(iso))}</span>`
+        + `<span class="top-info"><strong>${esc(s.titleFa)}</strong><span class="top-meta">${net ? D.networkMark(data.networks, s.network) : ""}${esc(faWeekday(iso))} ${esc(faDayMonth(iso))}</span>`
         + (w ? `<span class="top-bar"><i style="width:${w}%"></i></span>` : "")
         + `</span><span class="top-score"><b>${hasNum ? D.fmtScore(row.rating) : "#" + D.fmtInt(row.rank)}</b><small>${hasNum ? "ریتینگ" : "رتبه"}</small></span></a></li>`;
     }).join("");
