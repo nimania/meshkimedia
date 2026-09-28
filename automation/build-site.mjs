@@ -278,7 +278,9 @@ const urls = [{ loc: `${BASE}/`, pri: "1.0" }];
 
 await mkdir(p("images/networks/"), { recursive: true });
 for (const net of Object.values(networks)) {
-  await writeFile(p(`images/networks/${net.slug}.svg`), networkSvg(net), "utf8"); count.logos++;
+  const officialLogo = new URL(`network-logos/${net.slug}.svg`, import.meta.url);
+  const logo = existsSync(officialLogo) ? await readFile(officialLogo, "utf8") : networkSvg(net);
+  await writeFile(p(`images/networks/${net.slug}.svg`), logo, "utf8"); count.logos++;
   await mkdir(p(`kanal/${net.slug}/`), { recursive: true });
   await writeFile(p(`kanal/${net.slug}/index.html`), networkPage(net), "utf8"); count.networks++;
   urls.push({ loc: `${BASE}/kanal/${net.slug}/`, pri: "0.6" });
