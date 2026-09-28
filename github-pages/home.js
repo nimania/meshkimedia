@@ -150,16 +150,19 @@
       .sort((a, b) => b.change.delta - a.change.delta);
     if (!items.length) { $("#home-trends-content").innerHTML = '<div class="notice">هنوز ریتینگ عددی برای سریال‌های در حال پخش ثبت نشده است.</div>'; return; }
     const latest = (x, mode) => x.points.filter((p) => Number.isFinite(p.rows[mode]?.rating)).at(-1);
-    const highest = [...items].sort((a, b) => latest(b, "total").rows.total.rating - latest(a, "total").rows.total.rating)[0];
-    const bestAb = [...items].filter((x) => latest(x, "ab"))
-      .sort((a, b) => latest(b, "ab").rows.ab.rating - latest(a, "ab").rows.ab.rating)[0];
+    const ordered = [...items].sort((a, b) => latest(b, "total").rows.total.rating - latest(a, "total").rows.total.rating);
+    const highest = ordered[0], runnerUp = ordered[1];
     const growth = changed.find((x) => x.change.delta > 0);
     const decline = [...changed].reverse().find((x) => x.change.delta < 0);
+    const freshest = [...items].filter((x) => ![growth?.s.slug, highest?.s.slug, runnerUp?.s.slug].includes(x.s.slug))
+      .sort((a, b) => latest(b, "total").date.localeCompare(latest(a, "total").date)
+        || latest(b, "total").rows.total.rating - latest(a, "total").rows.total.rating)[0];
     const facts = [
       growth && { x: growth, heading: "بیشترین رشد در دو پخش", value: `+${T.fa(growth.change.delta)} واحد`, detail: "ریتینگ Total نسبت به پخش قبلی", point: latest(growth, "total"), type: "up" },
-      decline && { x: decline, heading: "بیشترین افت در دو پخش", value: `${T.fa(decline.change.delta)} واحد`, detail: "ریتینگ Total نسبت به پخش قبلی", point: latest(decline, "total"), type: "down" },
+      decline ? { x: decline, heading: "بیشترین افت در دو پخش", value: `${T.fa(decline.change.delta)} واحد`, detail: "ریتینگ Total نسبت به پخش قبلی", point: latest(decline, "total"), type: "down" }
+        : runnerUp && { x: runnerUp, heading: "دومین ریتینگ Total", value: `${D.fmtScore(latest(runnerUp, "total").rows.total.rating)}٪`, detail: "آخرین پخشِ دارای دادهٔ این سریال", point: latest(runnerUp, "total") },
       highest && { x: highest, heading: "بالاترین Total ثبت‌شده", value: `${D.fmtScore(latest(highest, "total").rows.total.rating)}٪`, detail: "آخرین پخشِ دارای ریتینگ این سریال", point: latest(highest, "total") },
-      bestAb && { x: bestAb, heading: "پیشتاز مخاطبان AB", value: `${D.fmtScore(latest(bestAb, "ab").rows.ab.rating)}٪`, detail: "آخرین پخشِ دارای ریتینگ AB", point: latest(bestAb, "ab") },
+      freshest && { x: freshest, heading: "یک نتیجهٔ دیگر از سریال‌ها", value: `${D.fmtScore(latest(freshest, "total").rows.total.rating)}٪`, detail: "ریتینگ Total آخرین پخشِ دارای داده", point: latest(freshest, "total") },
     ].filter(Boolean);
     const cards = facts.map(({ x, heading, value, detail, point, type }) => {
       const href = `${R}dizi/${x.s.slug}/${point.episode ? `bolum-${point.episode.number}/` : ""}`;
