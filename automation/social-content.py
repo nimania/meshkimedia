@@ -9,6 +9,7 @@ import json
 import os
 import textwrap
 import urllib.request
+from functools import lru_cache
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -22,14 +23,22 @@ calendar = json.loads((PAGES / "data/calendar.json").read_text())
 ratings = json.loads((PAGES / "data/ratings.json").read_text())
 today = datetime.now(ZoneInfo("Asia/Tehran")).date()
 site = "https://nimania.github.io/meshkimedia/"
-font_dir = "/usr/share/fonts/truetype/dejavu"
-regular = os.path.join(font_dir, "DejaVuSans.ttf")
-bold = os.path.join(font_dir, "DejaVuSans-Bold.ttf")
+regular = str(PAGES / "vazirmatn.woff2")
+bold = regular
+if not Path(regular).exists():
+    font_dir = "/usr/share/fonts/truetype/dejavu"
+    regular = os.path.join(font_dir, "DejaVuSans.ttf")
+    bold = os.path.join(font_dir, "DejaVuSans-Bold.ttf")
 logo = Image.open(PAGES / "images/meshki-media-logo.png").convert("RGBA")
 FA = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
 
 def fa(value): return str(value).translate(FA)
-def f(size, heavy=False): return ImageFont.truetype(bold if heavy else regular, size)
+@lru_cache(maxsize=96)
+def f(size, heavy=False):
+    face = ImageFont.truetype(bold if heavy else regular, size)
+    if regular.endswith(".woff2"):
+        face.set_variation_by_name("Bold" if heavy else "Regular")
+    return face
 def line(d, xy, value, size, color="#fff", heavy=False, rtl=True):
     d.text(xy, value, font=f(size, heavy), fill=color, direction="rtl" if rtl else "ltr", anchor="ra" if rtl else "la")
 def wrapped(d, value, max_width, size, max_lines):
@@ -83,6 +92,7 @@ def card(kind, show, ep, day, summary, art, wide=False):
     im = Image.alpha_composite(im.convert("RGBA"), overlay).convert("RGB")
     d = ImageDraw.Draw(im)
     d.rectangle((0, 0, W, 13), fill="#e21b38")
+    d.rounded_rectangle((W-373, 25, W-34, 130), radius=18, fill="#26171e")
     logo_small = ImageOps.fit(logo, (67,67))
     im.paste(logo_small, (W-112, 40), logo_small)
     d = ImageDraw.Draw(im)
@@ -101,14 +111,15 @@ def card(kind, show, ep, day, summary, art, wide=False):
     line(d, (right-140, base+206), fa(network_name), 20, "#bda9af", rtl=False)
     if summary:
         y = base+249
-        for paragraph in wrapped(d, summary, 590 if wide else W-115, 23 if wide else 27, 2 if wide else 4):
+        description = f"دربارهٔ سریال: {summary}" if kind == "schedule" else summary
+        for paragraph in wrapped(d, description, 590 if wide else W-115, 23 if wide else 27, 2 if wide else 4):
             line(d, (right, y), paragraph, 23 if wide else 27, "#f6ebed")
             y += 40 if wide else 46
     if not art:
         line(d, (65, 398 if wide else 405), show.get("titleTr", "")[:24], 29 if wide else 38, "#9b6b7a", heavy=True, rtl=False)
     d.rectangle((0, H-89, W, H), fill="#251a20")
     line(d, (W-50, H-45), "مشاهدهٔ جزئیات در مشکی‌مدیا", 21, "#fff")
-    line(d, (50, H-45), "instagram.com/meshki.media", 17, "#e8bcc5", rtl=False)
+    line(d, (50, H-45), "nimania.github.io/meshkimedia", 17, "#e8bcc5", rtl=False)
     return im
 
 def episode_detail(show, season, number):
@@ -121,7 +132,8 @@ def caption(kind, show, ep, day, summary):
     title = show["titleFa"]
     lead = f"📺 {title} | فصل {fa(ep['season'])}، قسمت {fa(ep['episode'])}"
     if kind == "schedule":
-        text = f"{lead}\n🗓 پخش: {date_label(day)}\n\n{summary + chr(10) + chr(10) if summary else ''}زمان پخش و اطلاعات قسمت را در مشکی‌مدیا ببینید:"
+        description = f"دربارهٔ سریال: {summary}\n\n" if summary else ""
+        text = f"{lead}\n🗓 پخش: {date_label(day)}\n\n{description}زمان پخش و اطلاعات قسمت را در مشکی‌مدیا ببینید:"
     else:
         text = f"{lead}\n\n{summary}\n\nخلاصهٔ کامل و تصاویر قسمت در مشکی‌مدیا:"
     return text + f"\n{site}dizi/{show['slug']}/bolum-{ep['episode']}/\n\n@meshki.media #مشکی_مدیا #سریال_ترکی"
@@ -144,7 +156,7 @@ for offset in (0, 1):
         if not show or show.get("kind") != "series": continue
         # A calendar's season-relative number can differ from the series' global episode number.
         # Use its exact number in the card and link; do not graft an unrelated summary onto it.
-        add("schedule", show, ep, day, "", show.get("hero"))
+        add("schedule", show, ep, day, show.get("synopsis", ""), show.get("hero"))
 
 # Recaps require a real summary and a known broadcast date; keep a small recent window.
 recaps = []
@@ -163,6 +175,8 @@ for old in CARDS.iterdir():
     if old.is_file() and old.name not in keep: old.unlink()
 
 latest = ratings["days"][0]["date"]
+reviewed_entries = json.loads((ROOT / "automation" / "reviewed-social-ratings.json").read_text()).get("entries", [])
+reviewed_by_slug = {entry["slug"]: entry for entry in reviewed_entries if tuple(map(int, reversed(entry["date"].split(".")))) > tuple(map(int, reversed(latest.split("."))))}
 sections = []
 for kind, title in (("schedule", "پخش امروز و فردا"), ("recap", "خلاصه‌های تازه")):
     rows = []
@@ -180,11 +194,14 @@ for file in rating_files:
     slug = file.name[:-len("-instagram.png")]
     show = series.get(slug)
     if show:
-        rating_cards.append(f'<article class="rating-card"><img src="ratings/{escape(file.name)}" alt="ریتینگ {escape(show["titleFa"])}" loading="lazy"><div><h3>{escape(show["titleFa"])}</h3><a download href="ratings/{escape(file.name)}">اینستاگرام</a><a download href="ratings/{escape(slug)}-x.png">X</a></div></article>')
-sections.append(f'<section id="ratings"><div class="section-head"><h2>ریتینگ رسمی</h2><span>آخرین جدول: {fa(latest)}</span></div><p>فقط سریال‌های دارای عدد در جدول منتشرشدهٔ TİAK؛ نبودن در جدول به معنی ریتینگ صفر نیست.</p><div class="rating-grid">{"".join(rating_cards) or "<p>برای آخرین جدول، کارت سریالی ثبت نشده است.</p>"}</div><a class="more" href="ratings/">صفحهٔ کارت‌های ریتینگ ←</a></section>')
+        report = reviewed_by_slug.get(slug)
+        label = f"{fa(report['date'])} · <a href=\"{escape(report['source']['url'], quote=True)}\" target=\"_blank\" rel=\"noopener\">دیزیلا ↗</a>" if report else f"{fa(latest)} · TİAK"
+        rating_cards.append(f'<article class="rating-card"><img src="ratings/{escape(file.name)}" alt="ریتینگ {escape(show["titleFa"])}" loading="lazy"><div><h3>{escape(show["titleFa"])}</h3><small>{label}</small><br><a download href="ratings/{escape(file.name)}">اینستاگرام</a><a download href="ratings/{escape(slug)}-x.png">X</a></div></article>')
+rating_cards.sort(key=lambda html: "دیزیلا" not in html)
+sections.append(f'<section id="ratings"><div class="section-head"><h2>کارت‌های ریتینگ</h2><span>آخرین جدول رسمی: {fa(latest)}</span></div><p>تاریخ و منبع هر کارت را ببینید. نتیجهٔ تازهٔ بازبینی‌شدهٔ دیزیلا جدا از جدول رسمی TİAK نمایش داده می‌شود؛ نبودن سریال در جدول عمومی به معنی ریتینگ صفر نیست.</p><div class="rating-grid">{"".join(rating_cards) or "<p>برای این تاریخ کارتی ثبت نشده است.</p>"}</div><a class="more" href="ratings/">صفحهٔ کارت‌های ریتینگ ←</a></section>')
 
 html = '''<!doctype html><html lang="fa" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>اتاق انتشار | مشکی‌مدیا</title><meta name="description" content="کارت‌های آمادهٔ انتشار سریال‌های ترکی؛ پخش، خلاصهٔ قسمت و ریتینگ رسمی، همراه با کپشن فارسی."><style>
-:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#120f12;color:#f8f3f4;font-family:system-ui,-apple-system,sans-serif;line-height:1.7}a{color:inherit}header{max-width:1220px;margin:auto;padding:28px 22px;display:flex;align-items:center;justify-content:space-between;gap:20px}header img{width:48px;height:48px;object-fit:cover;border-radius:11px}header a{color:#f3c0c8;text-decoration:none}.brand{display:flex;align-items:center;gap:12px;font-weight:800}main{max-width:1220px;margin:auto;padding:20px 22px 100px}.hero{background:linear-gradient(120deg,#38171f,#21161b 60%,#111);border:1px solid #5b323e;border-radius:26px;padding:38px;margin-bottom:32px}.eyebrow{color:#ff8294;font-weight:700}h1{font-size:clamp(30px,5vw,56px);line-height:1.3;margin:12px 0}p{color:#cbbbc0}.hero p{max-width:670px}.nav{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}.nav a,.actions a,.actions button,.more{border:1px solid #70414c;background:#36232a;border-radius:10px;padding:9px 13px;text-decoration:none;color:#fff;font:inherit;cursor:pointer}.nav a:hover,.actions a:hover,.actions button:hover{background:#a81a32}.section-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px}section{margin-top:55px}h2{font-size:clamp(23px,3vw,32px)}.section-head span{color:#e8aebb}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,510px),1fr));gap:22px}.card{display:grid;grid-template-columns:180px 1fr;min-width:0;overflow:hidden;background:#21191d;border:1px solid #50333c;border-radius:18px}.preview img{width:100%;height:100%;object-fit:cover;display:block}.card-body{padding:20px;min-width:0}.card h3{margin:0;font-size:21px}.card small{display:block;color:#eebbc3;font-size:14px}.card p{margin:5px 0 14px}.actions{display:flex;gap:7px;flex-wrap:wrap}.actions a,.actions button{font-size:13px;padding:6px 9px}.card textarea{width:100%;height:92px;margin-top:14px;background:#100e10;border:1px solid #59404a;color:#dbd1d4;border-radius:8px;padding:9px;font:13px/1.6 system-ui;resize:vertical}.rating-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:16px}.rating-card{background:#21191d;border-radius:15px;overflow:hidden}.rating-card img{width:100%;aspect-ratio:4/5;object-fit:cover}.rating-card div{padding:10px 14px}.rating-card h3{margin:0;font-size:16px}.rating-card a{display:inline-block;margin:5px 0 0 12px;color:#ff8da0}.more{display:inline-block;margin-top:20px}footer{max-width:1220px;margin:auto;padding:22px;color:#a9959e;border-top:1px solid #46313a}@media(max-width:600px){.card{grid-template-columns:125px 1fr}.card-body{padding:12px}.preview img{height:100%;object-fit:cover}.hero{padding:24px}header{padding:16px 22px}}
+:root{color-scheme:dark}@font-face{font-family:Vazirmatn;src:url(../vazirmatn.woff2)}*{box-sizing:border-box}body{margin:0;background:#120f12;color:#f8f3f4;font-family:Vazirmatn,Tahoma,sans-serif;line-height:1.7}a{color:inherit}header{max-width:1220px;margin:auto;padding:28px 22px;display:flex;align-items:center;justify-content:space-between;gap:20px}header img{width:48px;height:48px;object-fit:cover;border-radius:11px}header a{color:#f3c0c8;text-decoration:none}.brand{display:flex;align-items:center;gap:12px;font-weight:800}main{max-width:1220px;margin:auto;padding:20px 22px 100px}.hero{background:linear-gradient(120deg,#38171f,#21161b 60%,#111);border:1px solid #5b323e;border-radius:26px;padding:38px;margin-bottom:32px}.eyebrow{color:#ff8294;font-weight:700}h1{font-size:clamp(30px,5vw,56px);line-height:1.3;margin:12px 0}p{color:#cbbbc0}.hero p{max-width:670px}.nav{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}.nav a,.actions a,.actions button,.more{border:1px solid #70414c;background:#36232a;border-radius:10px;padding:9px 13px;text-decoration:none;color:#fff;font:inherit;cursor:pointer}.nav a:hover,.actions a:hover,.actions button:hover{background:#a81a32}.section-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px}section{margin-top:55px}h2{font-size:clamp(23px,3vw,32px)}.section-head span{color:#e8aebb}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,510px),1fr));gap:22px}.card{display:grid;grid-template-columns:180px 1fr;min-width:0;overflow:hidden;background:#21191d;border:1px solid #50333c;border-radius:18px}.preview img{width:100%;height:100%;object-fit:cover;display:block}.card-body{padding:20px;min-width:0}.card h3{margin:0;font-size:21px}.card small{display:block;color:#eebbc3;font-size:14px}.card p{margin:5px 0 14px}.actions{display:flex;gap:7px;flex-wrap:wrap}.actions a,.actions button{font-size:13px;padding:6px 9px}.card textarea{width:100%;height:92px;margin-top:14px;background:#100e10;border:1px solid #59404a;color:#dbd1d4;border-radius:8px;padding:9px;font:13px/1.6 system-ui;resize:vertical}.rating-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:16px}.rating-card{background:#21191d;border-radius:15px;overflow:hidden}.rating-card img{width:100%;aspect-ratio:4/5;object-fit:cover}.rating-card div{padding:10px 14px}.rating-card h3{margin:0;font-size:16px}.rating-card a{display:inline-block;margin:5px 0 0 12px;color:#ff8da0}.more{display:inline-block;margin-top:20px}footer{max-width:1220px;margin:auto;padding:22px;color:#a9959e;border-top:1px solid #46313a}@media(max-width:600px){.card{grid-template-columns:125px 1fr}.card-body{padding:12px}.preview img{height:100%;object-fit:cover}.hero{padding:24px}header{padding:16px 22px}}
 </style></head><body><header><div class="brand"><img src="../images/meshki-media-logo.png" alt="لوگوی مشکی‌مدیا">مشکی‌مدیا / اتاق انتشار</div><a href="../">بازگشت به سایت ←</a></header><main><div class="hero"><div class="eyebrow">ابزار محتوای مشکی‌مدیا</div><h1>از دادهٔ سایت تا پست آماده</h1><p>کارت تصویری و کپشن فارسی برای پخش قسمت‌ها، خلاصه‌های تازه و ریتینگ. تصویر و متن را پیش از انتشار بازبینی کنید. تاریخ‌ها بر اساس تهران هستند؛ هیچ کارتِ پخش آینده‌ای ادعای ریتینگ یا خلاصهٔ تأییدنشده ندارد.</p><nav class="nav"><a href="#schedule">پخش امروز و فردا</a><a href="#recap">خلاصه‌ها</a><a href="#ratings">ریتینگ</a></nav></div>''' + ''.join(sections) + '''</main><footer>مشکی‌مدیا · خروجی‌ها با به‌روزرسانی سایت از داده‌های ثبت‌شده ساخته می‌شوند. انتشار در شبکه‌های اجتماعی دستی است.</footer><script>document.querySelectorAll('.copy').forEach(button=>button.addEventListener('click',async()=>{const text=document.getElementById(button.dataset.caption).value;try{await navigator.clipboard.writeText(text);button.textContent='کپی شد ✓';setTimeout(()=>button.textContent='کپی کپشن',1800)}catch{const field=document.getElementById(button.dataset.caption);field.select();document.execCommand('copy');button.textContent='کپی شد ✓'}}));</script></body></html>'''
 (OUT / "index.html").write_text(html, encoding="utf-8")
 print(f"Created {len(items)} social items ({sum(x['kind']=='schedule' for x in items)} schedule, {sum(x['kind']=='recap' for x in items)} recap), {len(rating_cards)} rating previews")
