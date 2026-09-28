@@ -50,7 +50,16 @@ Two scripts run in the Pages workflow:
 
 To add a series, add it to `series.json` and re-run `node automation/build-site.mjs`.
 
-Ratings numbers come only from TİAK; where a real number is unavailable, the UI shows the official **rank** instead of a guessed value.
+Published ratings numbers come from TİAK's three public Total, AB and ABC1 tables. If the source is late, the site keeps the last verified date rather than guessing a result.
+
+### Dizilah Instagram review (11:00 Tehran)
+
+`.github/workflows/instagram-ratings.yml` checks recent @dizilah ratings posts at 11:00 and 11:30 Tehran. It uses Meta Business Discovery, which requires a Meta app, a connected Professional Instagram account and Facebook Page, and these repository secrets:
+
+- `INSTAGRAM_USER_ID`: the numeric ID of the connected Professional Instagram account (for example, @meshki.media if configured).
+- `INSTAGRAM_GRAPH_TOKEN`: a valid token with the permissions needed for Business Discovery. Keep it in GitHub Actions secrets, never in the repository.
+
+The job saves the post links, captions, original image files and OCR text as a 14-day `dizilah-ratings-review` artifact and job summary. OCR is **not** published automatically: match the date, series, episode, Total, AB and ABC1 figures against the post before incorporating them in `ratings.json`. The current TİAK table remains the only automatic ratings feed; a verified Instagram import needs an observed, tested card format before it can be enabled. If the secrets are absent, the workflow documents the missing setup in its summary. GitHub Actions cron can start a few minutes after its nominal time.
 
 ## Stack
 

@@ -10,6 +10,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageOps
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "github-pages" / "data"
 DEST = ROOT / "github-pages" / "social" / "ratings"
+LOGO = ROOT / "github-pages" / "images" / "meshki-media-logo.png"
 series = json.loads((DATA / "series.json").read_text())
 ratings = json.loads((DATA / "ratings.json").read_text())
 calendar = json.loads((DATA / "calendar.json").read_text())
@@ -98,8 +99,16 @@ def card(show, rows, episode, art, landscape=False):
     canvas = Image.new("RGB", (W, H), "#120f11")
     d = ImageDraw.Draw(canvas)
     d.rectangle((0, 0, W, 16), fill="#e21b38")
-    d.rounded_rectangle((38, 41, 310, 104), radius=18, fill="#e21b38")
-    txt(d, (60, 63), "MESH KI  /  مشکی‌مدیا", 22, "#ffffff", bold=True)
+    # A compact, direction-safe brand lockup. Keep the Persian name and Latin
+    # handle on separate lines so their bidirectional text cannot overlap.
+    logo = Image.open(LOGO).convert("RGBA")
+    logo = ImageOps.fit(logo, (72, 72), method=Image.Resampling.LANCZOS)
+    mask = Image.new("L", (72, 72), 0)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, 71, 71), radius=15, fill=255)
+    canvas.paste(logo, (38, 39), mask)
+    d = ImageDraw.Draw(canvas)
+    txt(d, (125, 49), "مشکی‌مدیا", 24, "#ffffff", bold=True, rtl=True, anchor="la")
+    txt(d, (126, 85), "@meshki.media", 17, "#eebbc2")
     txt(d, (W - 42, 83), "ریتینگ روزانهٔ سریال‌ها", 25, "#eebbc2", rtl=True)
     title = show["titleFa"]
     if landscape:
@@ -112,7 +121,8 @@ def card(show, rows, episode, art, landscape=False):
         d = ImageDraw.Draw(canvas)
         for i, mode in enumerate(("total", "ab", "abc1")):
             metric(d, (39, 256 + i * 112, 645, 100), mode.upper(), rows[mode], previous(show, mode), True)
-        txt(d, (W - 43, H - 39), "داده: TİAK  •  meshkimedia", 17, "#b9a6ac", rtl=True)
+        txt(d, (39, H - 39), "instagram.com/meshki.media", 17, "#eebbc2")
+        txt(d, (W - 43, H - 39), "داده: TİAK", 17, "#b9a6ac", rtl=True)
     else:
         fitted(d, (W - 44, 150), title, W - 88, 61, "#ffffff")
         txt(d, (W - 45, 229), f"{fa(day['date'])}  •  {show['titleTr']}", 23, "#b9a6ac", rtl=True)
@@ -122,7 +132,8 @@ def card(show, rows, episode, art, landscape=False):
             metric(d, (40, 293 + i * 152, 1000, 135), mode.upper(), rows[mode], previous(show, mode))
         cover(canvas, (40, 773, 1000, 460), art, title)
         d = ImageDraw.Draw(canvas)
-        txt(d, (W - 45, H - 52), "داده: TİAK  •  تصویر: شبکهٔ پخش  •  meshkimedia", 18, "#b9a6ac", rtl=True)
+        txt(d, (40, H - 52), "instagram.com/meshki.media", 18, "#eebbc2")
+        txt(d, (W - 45, H - 52), "داده: TİAK  •  تصویر: شبکهٔ پخش", 18, "#b9a6ac", rtl=True)
     return canvas
 
 DEST.mkdir(parents=True, exist_ok=True)
@@ -150,4 +161,3 @@ items = "".join(f'<article><h2>{escape(show["titleFa"])}</h2><p>{"قسمت " + s
 index = f'''<!doctype html><html lang="fa" dir="rtl"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>کارت‌های ریتینگ | مشکی‌مدیا</title><style>body{{font-family:system-ui,sans-serif;background:#120f11;color:#fff;max-width:1050px;margin:auto;padding:26px}}h1{{font-size:clamp(24px,4vw,40px)}}p{{color:#c7b7bc}}a{{color:#ff6579}}main{{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}}article{{padding:18px;background:#241c20;border-radius:20px}}article img{{width:100%;border-radius:14px}}</style><a href="../../reyting/">← ریتینگ سایت</a><h1>کارت‌های آمادهٔ انتشار</h1><p>دادهٔ رسمی {escape(day['date'])} از TİAK؛ برای هر سریال، نسخهٔ اینستاگرام و X آمادهٔ دریافت است. پیش از انتشار، تصویر و اطلاعات را مرور کنید.</p><main>{items or '<p>امروز سریالی در جدول عمومی ثبت نشده است.</p>'}</main></html>'''
 (DEST / "index.html").write_text(index)
 print(f"Created {len(cards)} series cards for {day['date']} in {DEST}")
-
