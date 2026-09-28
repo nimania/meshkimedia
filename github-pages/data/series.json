@@ -1850,5 +1850,302 @@
         ]
       }
     ]
+  },
+  "teskilat": {
+    "slug": "teskilat",
+    "titleFa": "تشکیلات",
+    "titleTr": "Teşkilat",
+    "ratingKey": "TESKILAT",
+    "network": "trt-1",
+    "studio": "Tims&B Productions",
+    "year": 2021,
+    "status": "در حال پخش",
+    "kind": "series",
+    "day": "یکشنبه",
+    "dayIndex": 6,
+    "airing": "یکشنبه‌ها",
+    "genre": [
+      "اکشن",
+      "جنایی",
+      "درام"
+    ],
+    "hero": "https://cdn-i.pr.trt.com.tr/trt1/webp/w800/h450/q75/teskilat-186-kapak-21754895-0-0-1280-719.jpeg",
+    "heroSource": "https://www.trt1.com.tr/diziler/teskilat",
+    "synopsis": "«تشکیلات» ماجرای تیمی مخفی از سازمان اطلاعات ملی ترکیه (MİT) است که در عملیات‌های پرخطر با شبکه‌های تروریستی و سرویس‌های اطلاعاتی خارجی مقابله می‌کند. در هر فصل، اعضای قدیمی و تازهٔ تیم برای کشف مغز متفکر تهدیدها و خنثی کردن نقشه‌های دشمن وارد مأموریت‌های تازه می‌شوند و روابط درون تیم هم دگرگون می‌شود.",
+    "synopsisSource": "https://dizilah.com/show/teskilat",
+    "official": {
+      "website": "https://www.trt1.com.tr/diziler/teskilat",
+      "episodes": "https://www.trt1.com.tr/diziler/teskilat/bolum"
+    },
+    "cast": [],
+    "seasons": [
+      {
+        "number": 7,
+        "episodes": [
+          {
+            "number": 1,
+            "date": "2026-09-20"
+          },
+          {
+            "number": 2,
+            "date": "2026-09-27"
+          }
+        ]
+      }
+    ]
+  },
+  "cirkin": {
+    "slug": "cirkin",
+    "titleFa": "زشت",
+    "titleTr": "Çirkin",
+    "ratingKey": "CIRKIN",
+    "network": "star-tv",
+    "studio": "25 Film",
+    "year": 2026,
+    "status": "در حال پخش",
+    "kind": "series",
+    "day": "یکشنبه",
+    "dayIndex": 6,
+    "airing": "یکشنبه‌ها ساعت ۲۰:۰۰",
+    "time": "20:00",
+    "genre": [
+      "درام"
+    ],
+    "hero": "https://media.startv.com.tr/star-tv/images/231irkin-banner.jpg",
+    "heroSource": "https://www.startv.com.tr/dizi/cirkin",
+    "synopsis": "مریم که در کودکی خانواده‌اش را از دست داده، سال‌ها با خاطرهٔ عشق کودکی‌اش، قادر، زندگی کرده است. سال‌ها بعد دوباره با قادر روبه‌رو می‌شود؛ مردی که حالا دنیایش را قدرت، پول و جاه‌طلبی شکل داده است. این دیدار فقط یک داستان عاشقانه نیست و رازها، رویارویی‌ها و تصمیم‌هایی بی‌بازگشت را یکی پس از دیگری آشکار می‌کند.",
+    "synopsisSource": "https://dizilah.com/show/cirkin",
+    "official": {
+      "website": "https://www.startv.com.tr/dizi/cirkin",
+      "episodes": "https://www.startv.com.tr/dizi/cirkin"
+    },
+    "cast": [],
+    "seasons": [
+      {
+        "number": 2,
+        "episodes": [
+          {
+            "number": 1,
+            "date": "2026-09-20"
+          },
+          {
+            "number": 2,
+            "date": "2026-09-27"
+          }
+        ]
+      }
+    ]
+  },
+  "alti-ustu-istanbul": {
+    "slug": "alti-ustu-istanbul",
+    "titleFa": "آلتی اوستو استانبول",
+    "titleTr": "Altı Üstü İstanbul",
+    "ratingKey": "ALTI USTU ISTANBUL",
+    "network": "atv",
+    "year": 2026,
+    "status": "در حال پخش",
+    "kind": "series",
+    "day": "دوشنبه",
+    "dayIndex": 0,
+    "airing": "دوشنبه‌ها ساعت ۲۰:۰۰",
+    "time": "20:00",
+    "genre": [
+      "درام"
+    ],
+    "hero": "https://iatv.tmgrup.com.tr/2026/09/22/alti-ustu-istanbul-1790025566536.jpg",
+    "heroSource": "https://www.atv.com.tr/alti-ustu-istanbul",
+    "synopsis": "امیر و دوستانش، حسن، صادق و مرت، در زیانکار، محله‌ای کارگری در حاشیهٔ استانبول، بزرگ شده‌اند؛ جایی که زندگی برایشان بازی‌ای است که پیش از شروع باخته‌اند. این چهار جوان در میان فقر، خشونت و ناامیدی، فوتبال را تنها راه تغییر سرنوشت خود می‌بینند و با تکیه بر دوستی و رؤیاهایشان می‌کوشند از این تاریکی بیرون بیایند.",
+    "synopsisSource": "https://dizilah.com/show/alti-ustu-istanbul",
+    "official": {
+      "website": "https://www.atv.com.tr/alti-ustu-istanbul",
+      "episodes": "https://www.atv.com.tr/alti-ustu-istanbul/bolumler"
+    },
+    "cast": [],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "number": 12,
+            "date": "2026-08-31"
+          },
+          {
+            "number": 13,
+            "date": "2026-09-07"
+          },
+          {
+            "number": 14,
+            "date": "2026-09-14"
+          },
+          {
+            "number": 15,
+            "date": "2026-09-21"
+          }
+        ]
+      }
+    ]
+  },
+  "muhtemel-ask": {
+    "slug": "muhtemel-ask",
+    "titleFa": "عشق احتمالی",
+    "titleTr": "Muhtemel Aşk",
+    "ratingKey": "MUHTEMEL ASK",
+    "network": "show-tv",
+    "studio": "MF Yapım",
+    "year": 2026,
+    "status": "در حال پخش",
+    "kind": "series",
+    "day": "پنجشنبه",
+    "dayIndex": 3,
+    "airing": "پنجشنبه‌ها ساعت ۲۰:۰۰",
+    "time": "20:00",
+    "genre": [
+      "کمدی",
+      "عاشقانه"
+    ],
+    "hero": "https://mo.ciner.com.tr/showtv/iu/300x200/muhtemel-ask.jpg?v=1790281962",
+    "heroSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+    "synopsis": "دفنه، زنی سی‌وچندساله، با تلاش خودش در کارش بالا رفته و همیشه زندگی‌اش را به شیوهٔ خودش ساخته است. روزی متوجه می‌شود چقدر خسته و تنها شده و شاید برای نخستین بار وقت آن رسیده که واقعاً عاشق شود؛ اما ورود دو مرد به زندگی‌اش، قادرِ رک و ناآرام و تولگا، همه‌چیز را زیرورو می‌کند.",
+    "synopsisSource": "https://dizilah.com/show/muhtemel-ask",
+    "official": {
+      "website": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+      "episodes": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072"
+    },
+    "cast": [],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "number": 12,
+            "date": "2026-09-03"
+          },
+          {
+            "number": 13,
+            "date": "2026-09-10"
+          },
+          {
+            "number": 14,
+            "date": "2026-09-17"
+          },
+          {
+            "number": 15,
+            "date": "2026-09-24"
+          }
+        ]
+      }
+    ]
+  },
+  "mehmed-fetihler-sultani": {
+    "slug": "mehmed-fetihler-sultani",
+    "titleFa": "محمد: سلطان فتوحات",
+    "titleTr": "Mehmed: Fetihler Sultanı",
+    "ratingKey": "MEHMED FETIHLER SULTANI",
+    "network": "trt-1",
+    "studio": "Miray Yapım",
+    "year": 2024,
+    "status": "در حال پخش",
+    "kind": "series",
+    "day": "سه‌شنبه",
+    "dayIndex": 1,
+    "airing": "سه‌شنبه‌ها",
+    "genre": [
+      "تاریخی",
+      "درام"
+    ],
+    "hero": "https://cdn-i.pr.trt.com.tr/trt1/webp/w1380/h460/q75/mehmed_fatihler_sultani_2760x920_3_1-21752347-0-0-2760-919.png",
+    "heroSource": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+    "synopsis": "این سریال تاریخی زندگی سلطان محمد فاتح، از مهم‌ترین فرمانروایان تاریخ عثمانی، را روایت می‌کند و در کنار آن، مراحل مهم زندگی ابوایوب انصاری را در داستانی موازی با زندگی فاتح به تصویر می‌کشد.",
+    "synopsisSource": "https://dizilah.com/show/mehmed-fetihler-sultani",
+    "official": {
+      "website": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+      "episodes": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum"
+    },
+    "cast": [],
+    "seasons": [
+      {
+        "number": 4,
+        "episodes": [
+          {
+            "number": 1,
+            "date": "2026-09-15"
+          },
+          {
+            "number": 2,
+            "date": "2026-09-22"
+          }
+        ]
+      }
+    ]
+  },
+  "baskalarinin-hayati": {
+    "slug": "baskalarinin-hayati",
+    "titleFa": "زندگی دیگران",
+    "titleTr": "Başkalarının Hayatı",
+    "ratingKey": "BASKALARININ HAYATI",
+    "network": "star-tv",
+    "studio": "Ay Yapım",
+    "year": 2026,
+    "status": "در حال پخش",
+    "kind": "series",
+    "day": "شنبه",
+    "dayIndex": 5,
+    "airing": "شنبه‌ها ساعت ۲۰:۰۰",
+    "time": "20:00",
+    "genre": [
+      "درام"
+    ],
+    "hero": "https://media.startv.com.tr/star-tv/images/bh_web_1600x445%282%29.jpg",
+    "heroSource": "https://www.startv.com.tr/dizi/baskalarinin-hayati",
+    "synopsis": "داستانی از عشق، جاه‌طلبی و دسیسه دربارهٔ هولیا، زن جوانی که در آرزوی زندگی دیگران راهی خطرناک را در پیش می‌گیرد. هولیا سختی‌های فقر را نمی‌پذیرد و عزم بی‌پروایش در برابر سارپ، نسلیهان و اِریم از نبردی سخت خبر می‌دهد.",
+    "synopsisSource": "https://dizilah.com/show/baskalarinin-hayati",
+    "official": {
+      "website": "https://www.startv.com.tr/dizi/baskalarinin-hayati",
+      "episodes": "https://www.startv.com.tr/dizi/baskalarinin-hayati"
+    },
+    "cast": [],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "number": 1,
+            "date": "2026-09-26"
+          }
+        ]
+      }
+    ]
+  },
+  "halef-koklerin-cagrisi": {
+    "slug": "halef-koklerin-cagrisi",
+    "titleFa": "جانشین: ندای ریشه‌ها",
+    "titleTr": "Halef: Köklerin Çağrısı",
+    "ratingKey": "HALEF KOKLERIN CAGRISI",
+    "network": "now",
+    "studio": "Most Production",
+    "year": 2025,
+    "status": "در حال پخش",
+    "kind": "series",
+    "day": "پنجشنبه",
+    "dayIndex": 3,
+    "airing": "پنجشنبه‌ها",
+    "genre": [
+      "درام"
+    ],
+    "hero": "https://nqg6bkpsnhen.merlincdn.net/resize/572x322//Programlar/Halef-Koklerin-Cagrisi/Halef-Koklerin-Cagrisi-1788879844_cover_photo.jpg",
+    "heroSource": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi",
+    "synopsis": "سرهات جراح بسیار موفقی است که سرنوشتی را که زادگاهش برایش در نظر داشت کنار گذاشته و در استانبول زندگی کاملاً تازه‌ای ساخته است. همین تصمیم او را سر راه ملک قرار می‌دهد.",
+    "synopsisSource": "https://dizilah.com/show/halef-koklerin-cagrisi",
+    "official": {
+      "website": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi",
+      "episodes": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi"
+    },
+    "cast": [],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": []
+      }
+    ]
   }
 }
