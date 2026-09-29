@@ -12,7 +12,7 @@
     const v = Date.now();
     const [base, news] = await Promise.all([
       D.loadData(),
-      fetch(`${root}data/news.json?v=${v}`, { cache: "no-store" }).then((r) => (r.ok ? r.json() : { items: [] })).catch(() => ({ items: [] })),
+      fetch(`${root}data/news-feed.json?v=${v}`, { cache: "no-store" }).then((r) => (r.ok ? r.json() : { items: [] })).catch(() => ({ items: [] })),
     ]);
     cache = { base, items: news.items || [], updated: news.updated };
     return cache;
@@ -41,15 +41,18 @@
   }
 
   function card(item, base) {
-    const url = https(item.url);
-    if (!url) return "";
+    const source = https(item.url);
+    if (!source) return "";
+    // Items with a Persian page open it; the source link stays on the card and on the page.
+    const url = item.page ? `${root}haber/${item.id}/` : source;
+    const ext = item.page ? "" : ' target="_blank" rel="noopener noreferrer nofollow"';
     const img = https(item.image);
     const fa = item.titleFa && item.titleFa.trim();
-    const title = fa ? `<h3><a href="${D.esc(url)}" target="_blank" rel="noopener noreferrer nofollow">${D.esc(item.titleFa)}</a></h3>`
-      : `<h3 lang="${D.esc(item.lang || "tr")}" dir="ltr"><a href="${D.esc(url)}" target="_blank" rel="noopener noreferrer nofollow">${D.esc(item.title)}</a></h3>`;
+    const title = fa ? `<h3><a href="${D.esc(url)}"${ext}>${D.esc(item.titleFa)}</a></h3>`
+      : `<h3 lang="${D.esc(item.lang || "tr")}" dir="ltr"><a href="${D.esc(url)}"${ext}>${D.esc(item.title)}</a></h3>`;
     const video = item.video && item.video.provider === "youtube" && /^[\w-]{11}$/.test(item.video.id) ? item.video.id : "";
     return `<article class="news-card kind-${D.esc(item.kind)}">
-      ${img ? `<a class="news-thumb" href="${D.esc(url)}" target="_blank" rel="noopener noreferrer nofollow" tabindex="-1" aria-hidden="true"><img src="${D.esc(img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></a>` : ""}
+      ${img ? `<a class="news-thumb" href="${D.esc(url)}"${ext} tabindex="-1" aria-hidden="true"><img src="${D.esc(img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></a>` : ""}
       <div class="news-body">
         <div class="news-meta"><span class="news-kind">${KINDS[item.kind] || KINDS.media}</span><span>${D.esc(item.sourceName)}</span><time datetime="${D.esc(item.published)}">${ago(item.published)}</time></div>
         ${title}
@@ -57,7 +60,7 @@
         ${fa ? `<p class="news-orig" lang="${D.esc(item.lang || "tr")}" dir="ltr">${D.esc(item.title)}</p>` : ""}
         <div class="news-chips">${chips(item, base)}</div>
         <div class="news-actions">
-          <a href="${D.esc(url)}" target="_blank" rel="noopener noreferrer nofollow">ادامه در ${D.esc(item.sourceName)} ↗</a>
+          ${item.page ? `<a href="${D.esc(url)}">خواندن خبر</a><a class="news-src" href="${D.esc(source)}" target="_blank" rel="noopener noreferrer nofollow">${D.esc(item.sourceName)} ↗</a>` : `<a href="${D.esc(source)}" target="_blank" rel="noopener noreferrer nofollow">ادامه در ${D.esc(item.sourceName)} ↗</a>`}
           ${video ? `<button type="button" class="news-video-btn" data-video="${video}">▶ پخش ویدئو</button>` : ""}
           ${item.ai ? `<span class="news-ai" title="عنوان و خلاصه با هوش مصنوعی از متن منبع ساخته شده است">ترجمهٔ خودکار</span>` : ""}
         </div>
@@ -83,17 +86,22 @@
     });
   }
 
-  function wireVideos(el) {
-    el.addEventListener("click", (e) => {
-      const btn = e.target.closest(".news-video-btn");
-      if (!btn) return;
-      const slot = btn.closest(".news-body").querySelector(".news-video");
-      if (!slot.hidden) { slot.hidden = true; slot.innerHTML = ""; btn.textContent = "▶ پخش ویدئو"; return; }
-      slot.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${btn.dataset.video}?autoplay=1&rel=0" title="ویدئو" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe><a class="news-video-link" href="https://www.youtube.com/watch?v=${btn.dataset.video}" target="_blank" rel="noopener noreferrer">اگر ویدئو پخش نشد، در یوتیوب ببینید ↗</a>`;
-      slot.hidden = false;
-      btn.textContent = "بستن ویدئو";
-    });
-  }
+  // One delegated listener for every page: video buttons (click-to-load YouTube) and copy-link buttons.
+  document.addEventListener("click", (e) => {
+    const copy = e.target.closest("[data-copy]");
+    if (copy) {
+      const done = () => { const old = copy.textContent; copy.textContent = "کپی شد ✓"; setTimeout(() => (copy.textContent = old), 1800); };
+      if (navigator.clipboard) navigator.clipboard.writeText(copy.dataset.copy).then(done, () => {}); else done();
+      return;
+    }
+    const btn = e.target.closest(".news-video-btn");
+    if (!btn) return;
+    const slot = btn.closest(".news-body, .news-article").querySelector(".news-video");
+    if (!slot.hidden) { slot.hidden = true; slot.innerHTML = ""; btn.textContent = "▶ پخش ویدئو"; return; }
+    slot.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${btn.dataset.video}?autoplay=1&rel=0" title="ویدئو" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe><a class="news-video-link" href="https://www.youtube.com/watch?v=${btn.dataset.video}" target="_blank" rel="noopener noreferrer">اگر ویدئو پخش نشد، در یوتیوب ببینید ↗</a>`;
+    slot.hidden = false;
+    btn.textContent = "بستن ویدئو";
+  });
 
   /* mount(el, filter, { limit, empty }) — a fixed-filter list (series/actor/network pages). */
   async function mount(el, filter, opts = {}) {
@@ -111,7 +119,6 @@
         more.addEventListener("click", () => { el.innerHTML = list.map((i) => card(i, base)).join(""); more.remove(); });
         el.after(more);
       }
-      wireVideos(el);
     } catch (e) { console.error(e); el.innerHTML = '<div class="notice error">اخبار موقتاً در دسترس نیست.</div>'; }
   }
 
@@ -133,8 +140,25 @@
         </div>
         <select id="news-net" aria-label="شبکه"><option value="">همهٔ شبکه‌ها</option>${nets.map((n) => `<option value="${D.esc(n.slug)}">${D.esc(n.name)}</option>`).join("")}</select>
       </div>
+      <div id="news-trending" class="news-trending"></div>
       <p class="news-updated">${updated ? `آخرین به‌روزرسانی: ${ago(updated)}` : "هنوز خبری جمع‌آوری نشده است."}</p>
       <div id="news-feed" class="news-feed"></div><button type="button" class="news-more" id="news-more" hidden></button>`;
+    // "Most talked about this week": series and actors with the most news in the last 7 days.
+    const weekAgo = Date.now() - 7 * 864e5;
+    const tally = new Map();
+    for (const i of items) {
+      if (new Date(i.published) < weekAgo) continue;
+      for (const s of i.entities.series || []) if (base.series[s]) tally.set(`s:${s}`, (tally.get(`s:${s}`) || 0) + 1);
+      for (const p of i.entities.people || []) tally.set(`p:${p}`, (tally.get(`p:${p}`) || 0) + 1);
+    }
+    const top = [...tally.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8);
+    if (top.length) {
+      el.querySelector("#news-trending").innerHTML = `<h2>بیشترین خبر این هفته</h2><div>${top.map(([k, n]) => {
+        const [kind, slug] = [k[0], k.slice(2)];
+        const label = kind === "s" ? base.series[slug].titleFa : (base.profiles[slug]?.nameFa || base.profiles[slug]?.name || slug);
+        return `<a class="news-chip ${kind === "s" ? "chip-series" : "chip-person"}" href="${root}${kind === "s" ? "dizi" : "oyuncu"}/${slug}/">${D.esc(label)} <b>${D.fmtInt(n)}</b></a>`;
+      }).join("")}</div>`;
+    }
     const feed = el.querySelector("#news-feed");
     const more = el.querySelector("#news-more");
     const draw = () => {
@@ -156,7 +180,6 @@
       draw();
     }));
     more.addEventListener("click", () => { state.shown += 24; draw(); });
-    wireVideos(feed);
     draw();
   }
 
