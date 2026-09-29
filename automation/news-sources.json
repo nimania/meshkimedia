@@ -64,7 +64,7 @@
     }
   ],
   "maxAgeDays": 45,
-  "maxItems": 500,
+  "maxItems": 800,
   "requireContextWords": [
     "dizi",
     "dizisi",
@@ -128,5 +128,6 @@
     ]
   },
   "maxGeneralAgeDays": 14,
-  "maxGeneralItems": 200
+  "maxGeneralItems": 200,
+  "maxPageAgeDays": 120
 }

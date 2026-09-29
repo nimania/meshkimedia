@@ -13,6 +13,8 @@ const series = JSON.parse(await readFile(p("data/series.json"), "utf8"));
 const profiles = JSON.parse(await readFile(p("data/people.json"), "utf8"));
 const works = JSON.parse(await readFile(p("data/works.json"), "utf8"));
 const calendar = JSON.parse(await readFile(p("data/calendar.json"), "utf8"));
+const ratings = JSON.parse(await readFile(p("data/ratings.json"), "utf8"));
+const newsData = existsSync(p("data/news.json")) ? JSON.parse(await readFile(p("data/news.json"), "utf8")) : { items: [] };
 const bios = existsSync(p("data/bios.json")) ? JSON.parse(await readFile(p("data/bios.json"), "utf8")) : {};
 const seriesArr = Object.values(series);
 
@@ -336,6 +338,81 @@ for (const w of Object.values(works)) {
   urls.push({ loc: `${BASE}/asar/${w.slug}/`, pri: "0.4" });
 }
 
+// ---- News item pages -------------------------------------------------------
+const nf = new Intl.NumberFormat("fa-IR", { useGrouping: false });
+const faDateLong = new Intl.DateTimeFormat("fa-IR-u-ca-persian", { dateStyle: "long", timeZone: "Asia/Tehran" });
+const faTime = new Intl.DateTimeFormat("fa-IR", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tehran" });
+const KIND_FA = { official: "رسمی", media: "گزارش رسانه", rumor: "شایعه / ادعا" };
+const newsWithPage = newsData.items.filter((i) => i.titleFa && Array.isArray(i.bodyFa) && i.bodyFa.length && /^https:\/\//.test(i.url || ""));
+const pageIds = new Set(newsWithPage.map((i) => i.id));
+
+// Latest published Total rating of a series (TİAK public Top 10), or null.
+function latestRating(s) {
+  const key = String(s.ratingKey || "").toUpperCase().trim();
+  if (!key) return null;
+  for (const day of ratings.days || []) {
+    const row = (day.categories?.total || []).find((r) => String(r.program || "").toUpperCase().trim() === key);
+    if (row) { const [d, m, y] = day.date.split("."); return { rating: row.rating, rank: row.rank, iso: `${y}-${m}-${d}` }; }
+  }
+  return null;
+}
+
+function newsItemPage(item) {
+  const root = "../../";
+  const ent = item.entities || {};
+  const relSeries = (ent.series || []).map((k) => series[k]).filter(Boolean);
+  const relPeople = (ent.people || []).map((k) => people[k]).filter(Boolean).slice(0, 6);
+  const relNets = (ent.networks || []).map((k) => networks[k]).filter(Boolean);
+  const url = `${BASE}/haber/${item.id}/`;
+  const when = new Date(item.published);
+  const lead = item.summaryFa || item.bodyFa[0];
+  const jsonld = { "@context": "https://schema.org", "@type": "NewsArticle", headline: item.titleFa, datePublished: item.published, inLanguage: "fa", url, isBasedOn: item.url,
+    author: { "@type": "Organization", name: "مشکی مدیا" }, publisher: { "@type": "Organization", name: "مشکی مدیا", logo: { "@type": "ImageObject", url: BASE + LOGO } } };
+  if (item.image) jsonld.image = item.image;
+  const h = head(root, { title: `${item.titleFa} | اخبار مشکی مدیا`, desc: lead.slice(0, 180), path: `haber/${item.id}/`, ogImage: item.image || undefined, ogType: "article", jsonld });
+  const video = item.video && /^[\w-]{11}$/.test(item.video.id) ? item.video.id : "";
+  const ratingCards = relSeries.slice(0, 3).map((s) => {
+    const r = latestRating(s);
+    if (!r) return "";
+    return `<a class="news-rating" href="${root}dizi/${s.slug}/"><span>${esc(s.titleFa)}</span><strong>${nf.format(r.rating)}٪</strong><small>Total · رتبهٔ ${nf.format(r.rank)} · ${esc(faDateLong.format(new Date(r.iso + "T12:00:00Z")))}</small></a>`;
+  }).join("");
+  const related = newsWithPage.filter((o) => o.id !== item.id && ((o.entities?.series || []).some((k) => (ent.series || []).includes(k)) || (o.entities?.people || []).some((k) => (ent.people || []).includes(k)) || (o.entities?.networks || []).some((k) => (ent.networks || []).includes(k)))).slice(0, 4);
+  const more = related.length ? related : newsWithPage.filter((o) => o.id !== item.id && o.scope !== "general").slice(0, 4);
+  const shareText = encodeURIComponent(`${item.titleFa} — مشکی مدیا`);
+  const shareUrl = encodeURIComponent(url);
+  const body = `
+<main class="profile-shell news-article">
+<div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}haber/">اخبار</a></div>
+<article>
+<header class="news-article-head">
+<div class="news-meta"><span class="news-kind kind-${esc(item.kind)}">${KIND_FA[item.kind] || KIND_FA.media}</span><span>${esc(item.sourceName)}</span><time datetime="${esc(item.published)}">${esc(faDateLong.format(when))} · ${esc(faTime.format(when))}</time></div>
+<h1>${esc(item.titleFa)}</h1>
+${item.lang === "tr" ? `<p class="news-orig" lang="tr" dir="ltr">${esc(item.title)}</p>` : ""}
+</header>
+${item.image ? `<figure class="news-hero"><img src="${esc(item.image)}" alt="" referrerpolicy="no-referrer" loading="eager" onerror="this.parentElement.remove()"><figcaption>تصویر: ${esc(item.sourceName)}</figcaption></figure>` : ""}
+${item.kind === "rumor" ? `<p class="news-warn">این مطلب تأییدنشده است و فقط گزارش یا ادعای رسانه‌ها را بازگو می‌کند.</p>` : ""}
+${lead ? `<p class="news-lead">${esc(lead)}</p>` : ""}
+<div class="news-text">${item.bodyFa.filter((x) => x !== lead).map((x) => `<p>${esc(x)}</p>`).join("")}</div>
+${video ? `<div class="news-actions"><button type="button" class="news-video-btn" data-video="${video}">▶ پخش ویدئو</button></div><div class="news-video" hidden></div>` : ""}
+<p class="news-source"><a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer nofollow">متن کامل و تصاویر اصلی در ${esc(item.sourceName)} ↗</a></p>
+<p class="news-disclaimer">این صفحه خلاصه‌ای مستقل به فارسی از گزارش «${esc(item.sourceName)}» است و با کمک هوش مصنوعی تهیه شده؛ ممکن است در ترجمه یا برداشت خطا داشته باشد. برای متن دقیق به منبع مراجعه کنید.</p>
+</article>
+${ratingCards ? `<section class="profile-section"><div class="section-headline"><div><span>ریتینگ زنده</span><h2>سریال‌های این خبر در جدول تیاک</h2></div></div><div class="news-ratings">${ratingCards}</div></section>` : ""}
+${relSeries.length || relPeople.length || relNets.length ? `<section class="profile-section"><div class="section-headline"><div><span>مرتبط</span><h2>سریال‌ها، بازیگران و شبکه‌های این خبر</h2></div></div>
+<div class="news-entities">
+${relSeries.map((s) => `<a class="news-entity" href="${root}dizi/${s.slug}/"><span class="ne-photo"${s.hero ? ` style="background-image:url('${esc(s.hero)}')"` : ""}></span><span><strong>${esc(s.titleFa)}</strong><small>سریال</small></span></a>`).join("")}
+${relPeople.map((pr) => `<a class="news-entity" href="${root}oyuncu/${pr.slug}/"><span class="ne-photo ne-round"${pr.photo ? ` style="background-image:url('${esc(pr.photo)}')"` : ""}></span><span><strong>${esc(pr.nameFa || pr.name)}</strong><small>بازیگر</small></span></a>`).join("")}
+${relNets.map((n) => `<a class="news-entity" href="${root}kanal/${n.slug}/"><span class="ne-photo ne-net" style="background:${esc(n.color)}">${esc((n.abbr || n.name).slice(0, 4))}</span><span><strong>${esc(n.name)}</strong><small>شبکه</small></span></a>`).join("")}
+</div></section>` : ""}
+<section class="profile-section"><div class="section-headline"><div><span>اشتراک‌گذاری</span><h2>این خبر را بفرستید</h2></div></div>
+<div class="news-share"><a href="https://t.me/share/url?url=${shareUrl}&text=${shareText}" target="_blank" rel="noopener noreferrer">تلگرام</a><a href="https://wa.me/?text=${shareText}%20${shareUrl}" target="_blank" rel="noopener noreferrer">واتس‌اپ</a><a href="https://x.com/intent/tweet?url=${shareUrl}&text=${shareText}" target="_blank" rel="noopener noreferrer">ایکس</a><button type="button" data-copy="${esc(url)}">کپی پیوند</button></div></section>
+${more.length ? `<section class="profile-section"><div class="section-headline"><div><span>بیشتر بخوانید</span><h2>خبرهای مرتبط</h2></div><a class="gallery-source" href="${root}haber/">همهٔ اخبار ↗</a></div>
+<div class="news-feed">${more.map((o) => `<article class="news-card kind-${esc(o.kind)}">${o.image ? `<a class="news-thumb" href="${root}haber/${o.id}/" tabindex="-1" aria-hidden="true"><img src="${esc(o.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></a>` : ""}<div class="news-body"><div class="news-meta"><span class="news-kind">${KIND_FA[o.kind] || KIND_FA.media}</span><span>${esc(o.sourceName)}</span></div><h3><a href="${root}haber/${o.id}/">${esc(o.titleFa)}</a></h3></div></article>`).join("")}</div></section>` : ""}
+</main>
+${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["haber/", "✎", "اخبار", true], ["takvim/", "▤", "تقویم"]])}`;
+  return h + body + boot(root, {}, ["news.js"], "20260930news2");
+}
+
 // ---- News page -------------------------------------------------------------
 function newsPage() {
   const root = "../";
@@ -362,6 +439,15 @@ const lists = [
   { path: "ara/", title: "جستجو | مشکی مدیا", desc: "جستجو در سریال‌ها، بازیگران، کاراکترها و قسمت‌های مشکی مدیا.", kicker: "جستجو", h1: "جستجو", sub: "در سریال‌ها، بازیگران، کاراکترها و قسمت‌ها", containerId: "search-results", script: "search.js", active: "ara/" },
 ];
 for (const l of lists) { await mkdir(p(l.path), { recursive: true }); await writeFile(p(l.path + "index.html"), listPage(l), "utf8"); count.lists++; urls.push({ loc: `${BASE}/${l.path}`, pri: "0.7" }); }
+for (const item of newsWithPage) {
+  await mkdir(p(`haber/${item.id}/`), { recursive: true });
+  await writeFile(p(`haber/${item.id}/index.html`), newsItemPage(item), "utf8");
+  urls.push({ loc: `${BASE}/haber/${item.id}/`, pri: "0.5" });
+}
+// Light public feed for the browser (no article text): the full news.json stays the source of truth.
+const feedItems = newsData.items.slice(0, 400).map(({ snippet, bodyFa, aiTries, aiFailed, ...rest }) => ({ ...rest, page: pageIds.has(rest.id) }));
+await writeFile(p("data/news-feed.json"), JSON.stringify({ updated: newsData.updated || null, items: feedItems }) + "\n", "utf8");
+count.newsPages = newsWithPage.length;
 await mkdir(p("haber/"), { recursive: true });
 await writeFile(p("haber/index.html"), newsPage(), "utf8"); count.lists++;
 urls.push({ loc: `${BASE}/haber/`, pri: "0.8" });
@@ -388,4 +474,4 @@ ${urls.map((u) => `<url><loc>${u.loc}</loc><priority>${u.pri}</priority></url>`)
 await writeFile(p("sitemap.xml"), sitemap, "utf8");
 await writeFile(p("robots.txt"), `User-agent: *\nAllow: /\nSitemap: ${BASE}/sitemap.xml\n`, "utf8");
 
-console.log(`Built: ${count.logos} logos, ${count.networks} networks, ${count.series} series, ${count.episodes} episodes, ${count.actors} actors, ${count.characters} characters, ${count.works} works, ${count.lists} lists, ${urls.length} sitemap urls, ${searchIndex.length} search entries.`);
+console.log(`Built: ${count.logos} logos, ${count.networks} networks, ${count.series} series, ${count.episodes} episodes, ${count.actors} actors, ${count.characters} characters, ${count.works} works, ${count.lists} lists, ${count.newsPages || 0} news pages, ${urls.length} sitemap urls, ${searchIndex.length} search entries.`);

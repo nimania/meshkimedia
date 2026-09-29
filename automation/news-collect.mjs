@@ -183,21 +183,37 @@ const MAX_AI = Number(process.env.NEWS_MAX_AI || 40);
 let keyIndex = 0;
 const nameFa = (kind, slug) => kind === "series" ? series[slug]?.titleFa : people[slug]?.nameFa;
 
+// The opening of the article, used only as source material for the model's own summary; it is never stored or shown.
+async function articleText(url) {
+  try {
+    const html = await getText(url, { timeout: 15000, headers: { accept: "text/html" } });
+    const metaRe = /<meta[^>]+(?:property|name)=["'](?:og:description|description)["'][^>]*>/i;
+    const tagm = html.match(metaRe)?.[0] || "";
+    const desc = decode((tagm.match(/content=["']([^"']+)["']/i) || [])[1] || "");
+    const paras = [...html.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)].map((m) => stripTags(m[1])).filter((p) => p.length > 70);
+    return `${desc}\n${paras.join("\n")}`.slice(0, 2600);
+  } catch { return ""; }
+}
+
 async function summarize(item) {
+  const article = await articleText(item.url);
   const glossary = [
     ...item.entities.series.map((s) => `${series[s]?.titleTr} = ${series[s]?.titleFa}`),
     ...item.entities.people.map((p) => `${people[p]?.name} = ${people[p]?.nameFa || ""}`),
   ].filter((x) => !x.endsWith("= ") && !x.includes("undefined")).join("\n");
-  const prompt = `You prepare a Persian news card for a Turkish TV-series fan site. Use ONLY the title and snippet below; never add facts.
-Return JSON: {"titleFa": string, "summaryFa": string, "kind": "official"|"media"|"rumor", "sensitive": boolean}
+  const prompt = `You prepare Persian news pages for a Turkish TV-series fan site. Use ONLY the title, snippet and article opening below; never add facts, dates, quotes or names that are not in them.
+Return JSON: {"titleFa": string, "summaryFa": string, "bodyFa": string[], "kind": "official"|"media"|"rumor", "sensitive": boolean}
 - titleFa: faithful Persian translation of the headline (keep it as neutral as the original; no clickbait added).
-- summaryFa: at most two short Persian sentences from the snippet; "" if the snippet says nothing beyond the headline.
+- summaryFa: at most two short Persian sentences; "" if the material says nothing beyond the headline.
+- bodyFa: 2 to 4 short Persian paragraphs (about 120-220 words in total) explaining what the news is, who is involved and what is known, written in your own words as a reader-friendly explainer. Do NOT translate the article sentence by sentence and do not copy its wording. Say clearly when something is a claim or unconfirmed. If the material has too little content, return one or two sentences only. Ignore website boilerplate (cookie notices, menus, ads) in the article opening.
 - kind: "official" if a network/company/person announces it themselves; "rumor" if it is an unconfirmed claim, gossip or speculation; otherwise "media".
 - sensitive: true if it concerns a person's health, a crime or abuse allegation, a minor child, sexual matters, or a private tragedy.
 Use these Persian names when the entity appears:
 ${glossary || "(none)"}
 Title: ${item.title}
-Snippet: ${item.snippet}`;
+Snippet: ${item.snippet}
+Article opening (may contain page boilerplate):
+${article || "(unavailable)"}`;
   for (let attempt = 0; attempt < keys.length; attempt++) {
     const key = keys[(keyIndex + attempt) % keys.length];
     const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${key}`, {
@@ -215,7 +231,7 @@ Snippet: ${item.snippet}`;
 if (keys.length) {
   let budget = MAX_AI;
   const rank = { linked: 0, dizi: 1, general: 2 };
-  const queue = [...fresh, ...[...known.values()].filter((i) => !i.ai && !i.aiFailed)]
+  const queue = [...fresh, ...[...known.values()].filter((i) => !i.bodyFa && !i.aiFailed)]
     .sort((a, b) => (rank[a.scope] ?? 1) - (rank[b.scope] ?? 1) || b.published.localeCompare(a.published));
   for (const item of queue) {
     if (budget-- <= 0) break;
@@ -224,8 +240,14 @@ if (keys.length) {
       if (r.sensitive === true) { item.drop = true; stats.aiDropped++; continue; }
       if (typeof r.titleFa === "string" && r.titleFa.trim()) item.titleFa = r.titleFa.trim().slice(0, 240);
       if (typeof r.summaryFa === "string" && r.summaryFa.trim()) item.summaryFa = r.summaryFa.trim().slice(0, 420);
+      if (Array.isArray(r.bodyFa)) {
+        const body = r.bodyFa.map((p) => String(p || "").trim().slice(0, 700)).filter(Boolean).slice(0, 4);
+        if (body.length) item.bodyFa = body;
+      }
       if (["official", "media", "rumor"].includes(r.kind) && !(item.kind === "official" && r.kind !== "official")) item.kind = r.kind;
       item.ai = true; stats.summarized++;
+      item.aiTries = (item.aiTries || 0) + 1;
+      if (!item.bodyFa && item.aiTries >= 2) item.aiFailed = true; // do not retry a page the model cannot write
     } catch (e) {
       console.warn(`summary failed for ${item.id}: ${e.message}`);
       if (/rate-limited/.test(e.message)) break;
@@ -238,7 +260,8 @@ if (keys.length) {
 const ageDays = (i) => (NOW - new Date(i.published)) / 864e5;
 let generalKept = 0;
 const all = [...known.values(), ...fresh].filter((i) => !i.drop)
-  .filter((i) => ageDays(i) <= (i.scope === "general" ? CONFIG.maxGeneralAgeDays : CONFIG.maxAgeDays))
+  // Items with their own Persian page live longer, so permalinks do not vanish after a month and a half.
+  .filter((i) => ageDays(i) <= (i.scope === "general" ? CONFIG.maxGeneralAgeDays : i.bodyFa ? CONFIG.maxPageAgeDays : CONFIG.maxAgeDays))
   .sort((a, b) => b.published.localeCompare(a.published))
   .filter((i) => i.scope !== "general" || ++generalKept <= CONFIG.maxGeneralItems)
   .slice(0, CONFIG.maxItems);
