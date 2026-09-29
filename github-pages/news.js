@@ -5,7 +5,7 @@
   const D = window.DiziMeter;
   const root = (window.DM && window.DM.root) || "";
   const KINDS = { official: "رسمی", media: "گزارش رسانه", rumor: "شایعه / ادعا" };
-  let cache;
+  let cache, outlets = {};
 
   async function load() {
     if (cache) return cache;
@@ -14,7 +14,8 @@
       D.loadData(),
       fetch(`${root}data/news-feed.json?v=${v}`, { cache: "no-store" }).then((r) => (r.ok ? r.json() : { items: [] })).catch(() => ({ items: [] })),
     ]);
-    cache = { base, items: news.items || [], updated: news.updated };
+    cache = { base, items: news.items || [], updated: news.updated, outlets: news.outlets || {} };
+    outlets = cache.outlets;
     return cache;
   }
 
@@ -40,6 +41,16 @@
     return out.join("");
   }
 
+  function badge(id, name) {
+    const o = outlets[id] || { name, color: "#333", abbr: name };
+    return o.logo ? `<span class="outlet-logo has-img"><img src="${root}${D.esc(o.logo)}" alt="${D.esc(o.name)}" loading="lazy"></span>` : `<span class="outlet-logo" style="background:${D.esc(o.color)}">${D.esc(o.abbr)}</span>`;
+  }
+  // Outlet logos of a story; each logo opens that outlet's own article.
+  function logos(item) {
+    const src = (item.sources && item.sources.length ? item.sources : [{ source: item.source, name: item.sourceName, url: item.url }]).filter((x) => https(x.url));
+    return `<div class="outlet-row">${src.map((x) => `<a href="${D.esc(x.url)}" target="_blank" rel="noopener noreferrer nofollow" title="${D.esc(x.name)}">${badge(x.source, x.name)}</a>`).join("")}${src.length > 1 ? `<span class="outlet-count">${D.fmtInt(src.length)} منبع</span>` : ""}</div>`;
+  }
+
   function card(item, base) {
     const source = https(item.url);
     if (!source) return "";
@@ -54,13 +65,13 @@
     return `<article class="news-card kind-${D.esc(item.kind)}">
       ${img ? `<a class="news-thumb" href="${D.esc(url)}"${ext} tabindex="-1" aria-hidden="true"><img src="${D.esc(img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></a>` : ""}
       <div class="news-body">
-        <div class="news-meta"><span class="news-kind">${KINDS[item.kind] || KINDS.media}</span><span>${D.esc(item.sourceName)}</span><time datetime="${D.esc(item.published)}">${ago(item.published)}</time></div>
+        <div class="news-meta"><span class="news-kind">${KINDS[item.kind] || KINDS.media}</span><time datetime="${D.esc(item.published)}">${ago(item.published)}</time></div>
         ${title}
         ${item.summaryFa ? `<p class="news-summary">${D.esc(item.summaryFa)}</p>` : ""}
-        ${fa ? `<p class="news-orig" lang="${D.esc(item.lang || "tr")}" dir="ltr">${D.esc(item.title)}</p>` : ""}
+        ${logos(item)}
         <div class="news-chips">${chips(item, base)}</div>
         <div class="news-actions">
-          ${item.page ? `<a href="${D.esc(url)}">خواندن خبر</a><a class="news-src" href="${D.esc(source)}" target="_blank" rel="noopener noreferrer nofollow">${D.esc(item.sourceName)} ↗</a>` : `<a href="${D.esc(source)}" target="_blank" rel="noopener noreferrer nofollow">ادامه در ${D.esc(item.sourceName)} ↗</a>`}
+          ${item.page ? `<a href="${D.esc(url)}">خواندن خبر</a>` : `<a href="${D.esc(source)}" target="_blank" rel="noopener noreferrer nofollow">ادامه در ${D.esc(item.sourceName)} ↗</a>`}
           ${video ? `<button type="button" class="news-video-btn" data-video="${video}">▶ پخش ویدئو</button>` : ""}
           ${item.ai ? `<span class="news-ai" title="عنوان و خلاصه با هوش مصنوعی از متن منبع ساخته شده است">ترجمهٔ خودکار</span>` : ""}
         </div>
@@ -183,8 +194,22 @@
     draw();
   }
 
+  /* home strip: the latest stories about the site's series and actors (falls back to general entertainment). */
+  async function home(el) {
+    const { base, items } = await load();
+    let list = select(items, { scope: "site" });
+    if (list.length < 3) list = items;
+    list = list.slice(0, 6);
+    const sec = el.closest("section");
+    if (!list.length) { if (sec) sec.hidden = true; return; }
+    el.innerHTML = list.map((i) => card(i, base)).join("");
+    if (sec) sec.hidden = false;
+  }
+
   window.DMNews = { mount, page, load, select };
   document.addEventListener("DOMContentLoaded", () => {
+    const homeEl = document.getElementById("home-news");
+    if (homeEl) home(homeEl).catch((e) => { console.error(e); });
     const pageEl = document.getElementById("news-page");
     if (pageEl) page(pageEl).catch((e) => { console.error(e); pageEl.innerHTML = '<div class="notice error">اخبار موقتاً در دسترس نیست.</div>'; });
     const ctx = window.DM || {};

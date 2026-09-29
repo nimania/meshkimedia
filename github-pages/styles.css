@@ -553,3 +553,29 @@ body.home{--page-w:1120px}
 .news-trending div{display:flex;flex-wrap:wrap;gap:6px}
 .news-trending b{margin-inline-start:4px;color:var(--muted);font-size:10px}
 .news-src{color:var(--muted)!important;font-weight:400!important}
+
+/* news: outlet logos, source comparison, home strip */
+.outlet-row{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:9px}
+.outlet-logo{display:inline-flex;align-items:center;justify-content:center;min-width:44px;height:24px;padding:0 9px;border-radius:7px;color:#fff;font:800 10px/1 system-ui,sans-serif;letter-spacing:.02em;white-space:nowrap;direction:ltr}
+.outlet-logo.has-img{background:#fff;border:1px solid var(--line);padding:0 6px}
+.outlet-logo img{display:block;max-height:16px;max-width:70px;object-fit:contain}
+.outlet-row a:hover .outlet-logo{filter:brightness(1.12);outline:2px solid var(--green)}
+.outlet-count{color:var(--muted);font-size:10px;font-weight:800}
+.outlet-list{display:grid;gap:9px}
+.outlet-link{display:flex;align-items:center;gap:12px;padding:11px 13px;border:1px solid var(--line);border-radius:13px;background:var(--surface)}
+.outlet-link:hover{border-color:var(--green)}
+.outlet-link .outlet-logo{flex:none;min-width:74px;height:32px;font-size:12px}
+.outlet-txt{min-width:0}
+.outlet-txt strong{display:block;font-size:12px;line-height:1.7}
+.outlet-txt small{color:var(--muted);font-size:10px}
+.news-compare .cmp-block{margin:0 0 10px;padding:13px 15px;border:1px solid var(--line);border-radius:13px;background:var(--surface)}
+.cmp-block h3{margin:0 0 6px;font-size:13px}
+.cmp-block ul{margin:0;padding:0 18px 0 0;font-size:12px;line-height:2}
+.cmp-agree{border-right:4px solid var(--green)!important}
+.cmp-differ{border-right:4px solid #d9822b!important}
+.cmp-unconf{border-right:4px solid #8a8fa0!important}
+.cmp-diff{margin-top:8px}.cmp-diff strong{font-size:12px}
+.cmp-diff ul{list-style:none;padding:0;display:grid;gap:6px;margin-top:5px}
+.cmp-diff li{display:flex;align-items:flex-start;gap:8px}
+.cmp-diff li .outlet-logo{flex:none;margin-top:4px}
+#home-news{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px}
