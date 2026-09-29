@@ -27,6 +27,46 @@
     },
     "cast": [
       {
+        "name": "Yeşim Gül",
+        "nameFa": "یشیم گل",
+        "role": "Vuslat Kozaklı",
+        "roleFa": "وصلت کوزاکلی",
+        "image": "https://im.showtv.com.tr/5/8237/yesim-gul-500x500.png?v=1788176716",
+        "personSlug": "yesim-gul",
+        "description": "بانوی مقتدر خاندان کوزاکلی؛ قوی، سخت‌گیر و کنترل‌گر که پای خانواده و نظمی که ساخته در میان باشد حدی نمی‌شناسد و حتی محبتش را هم با قدرت نشان می‌دهد.",
+        "source": "https://www.showtv.com.tr/oyuncu/yesim-gul/8237"
+      },
+      {
+        "name": "İsmail Hakkı",
+        "nameFa": "اسماعیل حقی",
+        "role": "Cici",
+        "roleFa": "جیجی",
+        "image": "https://im.showtv.com.tr/5/8238/ismail-hakki-500x500.png?v=1788426266",
+        "personSlug": "ismail-hakki",
+        "description": "مردی ساده‌دل، خوش‌قلب و وفادار که در عمارت کوزاکلی بزرگ شده؛ دست راست، برادر و نزدیک‌ترین دوست میرزا که قدرشناسی مهم‌ترین ویژگی اوست.",
+        "source": "https://www.showtv.com.tr/oyuncu/ismail-hakki/8238"
+      },
+      {
+        "name": "Hande Canpolat",
+        "nameFa": "هانده جان‌پولات",
+        "role": "Miray Kozaklı",
+        "roleFa": "میرای کوزاکلی",
+        "image": "https://im.showtv.com.tr/5/8239/hande-canpolat-500x500.png?v=1788444870",
+        "personSlug": "hande-canpolat",
+        "description": "خواهر میرزا؛ زنی جاه‌طلب، عصبی و مغرور که به‌سختی می‌بخشد و مثل مادرش وصلت، از سخت‌ترین چهره‌های خاندان کوزاکلی است.",
+        "source": "https://www.showtv.com.tr/oyuncu/hande-canpolat/8239"
+      },
+      {
+        "name": "Beyza Karabacak",
+        "nameFa": "بیضا قره‌باجاک",
+        "role": "Hüma",
+        "roleFa": "هوما",
+        "image": "https://im.showtv.com.tr/5/8240/beyza-karabacak-500x500.png?v=1788177057",
+        "personSlug": "beyza-karabacak",
+        "description": "دختری شش‌ساله که پس از یک ضربهٔ روحی دیگر حرف نمی‌زند؛ ساکت و درون‌گرا اما با دقت همه‌چیز را زیر نظر دارد.",
+        "source": "https://www.showtv.com.tr/oyuncu/beyza-karabacak/8240"
+      },
+      {
         "name": "Murat Ünalmış",
         "nameFa": "مورات اونالمیش",
         "role": "Mirza Kozaklı",
@@ -228,6 +268,76 @@
         "description": "بانویی از خاندان سلجوقی که سال‌ها به علاءالدین دل بسته و از دست‌دادن او بزرگ‌ترین نگرانی‌اش است.",
         "source": "https://www.atv.com.tr/ask-ve-taht/kadro",
         "image": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788776329782.jpg"
+      },
+      {
+        "name": "Ayça Bingöl",
+        "nameFa": "آیچا بینگؤل",
+        "role": "Ümmühan Hatun",
+        "roleFa": "ام‌هان خاتون",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788776598109.jpg",
+        "personSlug": "ayca-bingol",
+        "description": "مادر علاءالدین و بانوی مقتدر خاندان سلجوقی که بقای دولت را بالاتر از همه‌چیز می‌داند؛ دستینا را بزرگ‌ترین تهدید می‌بیند و با حرکت‌های بی‌صدا اما ویرانگر حرم را به هم می‌ریزد.",
+        "source": "https://www.atv.com.tr/ask-ve-taht/kadro/ummuhan-hatun"
+      },
+      {
+        "name": "Cem Bender",
+        "nameFa": "جم بندر",
+        "role": "Ayaba",
+        "roleFa": "آیابا",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788777083376.jpg",
+        "personSlug": "cem-bender",
+        "description": "غلامی که به یکی از قدرتمندترین امیران سلجوقی بدل شده؛ سیاستمداری مقام‌دوست و زیرک که برای در مشت گرفتن دولت و علاءالدین، شبکهٔ پنهان خودش را ساخته است.",
+        "source": "https://www.atv.com.tr/ask-ve-taht/kadro/ayaba"
+      },
+      {
+        "name": "Halil İbrahim Ceyhan",
+        "nameFa": "خلیل ابراهیم جیحان",
+        "role": "Andreas",
+        "roleFa": "آندریاس",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788777036528.jpg",
+        "personSlug": "halil-ibrahim-ceyhan",
+        "description": "جنگجویی قدرتمند که در کودکی از خانواده‌اش جدا شده و در یک فرقهٔ شوالیه‌ای مسیحی بزرگ شده؛ بی‌خبر از حقیقت گذشته‌اش، دشمنی عمیقی با ترک‌ها دارد و از مهم‌ترین برگ‌های کیر وارد علیه سلجوقیان است.",
+        "source": "https://www.atv.com.tr/ask-ve-taht/kadro/andreas"
+      },
+      {
+        "name": "Ferit Kaya",
+        "nameFa": "فریت کایا",
+        "role": "Celaleddin",
+        "roleFa": "جلال‌الدین",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788777347282.jpg",
+        "personSlug": "ferit-kaya",
+        "description": "برادر ناتنی علاءالدین که به خاطر مادر بیزانسی‌اش با حس طردشدگی بزرگ شده؛ ملکی جاه‌طلب، بی‌رحم و عجول که برای گرفتن تخت علاءالدین هر راهی را امتحان می‌کند.",
+        "source": "https://www.atv.com.tr/ask-ve-taht/kadro/celaleddin"
+      },
+      {
+        "name": "Ceren Benderlioğlu",
+        "nameFa": "جرن بندرلی‌اوغلو",
+        "role": "Nurcihan",
+        "roleFa": "نورجهان",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788777295179.jpg",
+        "personSlug": "ceren-benderlioglu",
+        "description": "استاد سیاست با هوشی تیز که در کاخ «آبلا خاتون» خوانده می‌شود و برای رساندن برادرش جلال‌الدین به تخت، اتحادهای پنهانی می‌سازد.",
+        "source": "https://www.atv.com.tr/ask-ve-taht/kadro/nurcihan"
+      },
+      {
+        "name": "Emrah Altıntoprak",
+        "nameFa": "امره آلتین‌توپراک",
+        "role": "Kutluboğa",
+        "roleFa": "قتلغ‌بوغا",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788777612113.jpg",
+        "personSlug": "emrah-altintoprak",
+        "description": "وزیر دولت سلجوقیان آناتولی.",
+        "source": "https://www.atv.com.tr/ask-ve-taht/kadro/kutluboga"
+      },
+      {
+        "name": "Murat Serezli",
+        "nameFa": "مورات سرزلی",
+        "role": "Kir Vard",
+        "roleFa": "کیر وارد",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788778117534.jpg",
+        "personSlug": "murat-serezli",
+        "description": "پدر دستینا و آراکل و فرمانروای قلعهٔ نفوذناپذیر کالونوروس (آلانیا)؛ سیاستمداری صبور، باهوش و زیرک.",
+        "source": "https://www.atv.com.tr/ask-ve-taht/kadro/kir-vard"
       }
     ],
     "seasons": [
@@ -361,6 +471,76 @@
         "description": "مرگ ظاهری دوغان زندگی او را دگرگون می‌کند و تصمیم‌هایش سرنوشت خانواده را تحت تأثیر می‌گذارد.",
         "source": "https://www.atv.com.tr/abi/kadro",
         "image": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528782849.jpg"
+      },
+      {
+        "name": "Sinan Tuzcu",
+        "nameFa": "سینان توزجو",
+        "role": "Sinan",
+        "roleFa": "سینان",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528874274.jpg",
+        "personSlug": "sinan-tuzcu",
+        "description": "پس از مرگ دوغان برای سرپا نگه داشتن خانواده می‌جنگد، اما با بازی‌های ساروخان خانه، شرکت و قدرتش را یکی‌یکی از دست می‌دهد؛ غرور و میل به محافظت از خانواده دوباره او را بلند می‌کند.",
+        "source": "https://www.atv.com.tr/abi/kadro/sinan"
+      },
+      {
+        "name": "Diren Polatoğulları",
+        "nameFa": "دیرن پولات‌اوغوللاری",
+        "role": "Behram",
+        "roleFa": "بهرام",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528959256.jpg",
+        "personSlug": "diren-polatogullari",
+        "description": "پس از مرگ دوغان کارواشی در محله‌ای حاشیه‌ای را اداره می‌کند؛ وقتی می‌فهمد دوغان زنده است، رازش را نگه می‌دارد و مطمئن‌ترین همراه او در زندگی تازه‌اش می‌شود.",
+        "source": "https://www.atv.com.tr/abi/kadro/behram"
+      },
+      {
+        "name": "Mustafa Üstündağ",
+        "nameFa": "مصطفی اوستوندا",
+        "role": "Saruhan Nadiroğlu",
+        "roleFa": "ساروخان نادیراوغلو",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528699217.jpg",
+        "personSlug": "mustafa-ustundag",
+        "description": "مردی جاه‌طلب و خطرناک که با ترس حکومت می‌کند و برای رسیدن به خواسته‌اش حدی نمی‌شناسد؛ با فرستادن دوغان به کام مرگ، ناخواسته بزرگ‌ترین دشمنش را ساخته. نقطه‌ضعفش خواهرش رؤیاست.",
+        "source": "https://www.atv.com.tr/abi/kadro/saruhan-nadiroglu"
+      },
+      {
+        "name": "Toprak Sağlam",
+        "nameFa": "توپراک ساغلام",
+        "role": "Altın",
+        "roleFa": "آلتین",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788530100091.jpg",
+        "personSlug": "toprak-saglam",
+        "description": "رابطه‌اش با سینان به مرز جدایی رسیده و حالا مهم‌ترین هدفش جلب دوبارهٔ اعتماد شوهرش است؛ برای او و خانواده‌اش هر کاری از دستش بربیاید می‌کند.",
+        "source": "https://www.atv.com.tr/abi/kadro/altin"
+      },
+      {
+        "name": "Saadet Işıl Aksoy",
+        "nameFa": "سعادت ایشیل آکسوی",
+        "role": "Rüya Nadiroğlu",
+        "roleFa": "رؤیا نادیراوغلو",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528626528.jpg",
+        "personSlug": "saadet-isil-aksoy",
+        "description": "زنی جوان، ظریف و مهربان که بزرگ‌ترین تکیه‌گاهش برادرش ساروخان است؛ پس از یک شکست عشقی با لیلا دوست می‌شود و وقتی دوباره به عشق امید می‌بندد، دوغان سر راهش قرار می‌گیرد.",
+        "source": "https://www.atv.com.tr/abi/kadro/ruya-nadiroglu"
+      },
+      {
+        "name": "Tuğçe Açıkgöz",
+        "nameFa": "توغچه آچیق‌گؤز",
+        "role": "Gülüşan",
+        "roleFa": "گلوشان",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788531876819.jpg",
+        "personSlug": "tugce-acikgoz",
+        "description": "پس از مرگ برادرش در میان ویرانی خانواده، با همسرش صفا زندگی را ادامه می‌دهد و یاد برادرش را زنده نگه می‌دارد؛ بی‌خبر از اینکه دوغان زنده است و پنهانی از او محافظت می‌کند.",
+        "source": "https://www.atv.com.tr/abi/kadro/gulusan"
+      },
+      {
+        "name": "Mert Demirci",
+        "nameFa": "مرت دمیرجی",
+        "role": "Sefa",
+        "roleFa": "صفا",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788530041043.jpg",
+        "personSlug": "mert-demirci",
+        "description": "از شاهدان تغییر بزرگ خانواده پس از مرگ دوغان که بار این فقدان را با همسرش گلوشان به دوش می‌کشد و در بندری که حالا دست ساروخان است نان درمی‌آورد.",
+        "source": "https://www.atv.com.tr/abi/kadro/sefa"
       }
     ],
     "seasons": [
@@ -495,6 +675,36 @@
         "description": "پسر بزرگ خاندان آتاهانلی که پس از مرگ پدر ادارهٔ کارهای خانواده را برعهده گرفته و دوست نزدیک کنان است.",
         "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/kadro",
         "image": "https://iatv.tmgrup.com.tr/2026/09/15/204x204/1789485887290.jpg"
+      },
+      {
+        "name": "Beyza Gümülcine",
+        "nameFa": "بیضا گومول‌جینه",
+        "role": "Leyla Breger",
+        "roleFa": "لیلا برگر",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/15/204x204/1789485423515.png",
+        "personSlug": "beyza-gumulcine",
+        "description": "دختری نیمه‌آلمانی که با ناامنیِ برجامانده از پدر ترکی که خانواده را ترک کرد بزرگ شده؛ عاشق شدنش به کنان او را با بزرگ‌ترین ترس‌هایش روبه‌رو می‌کند.",
+        "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/kadro/leyla-breger"
+      },
+      {
+        "name": "Devrim Yakut",
+        "nameFa": "دوریم یاقوت",
+        "role": "Devran Atahanlı",
+        "roleFa": "دوران آتاهانلی",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/15/204x204/1789486343369.jpg",
+        "personSlug": "devrim-yakut",
+        "description": "زنی ثروتمند و قدرتمند که پس از مرگ همسرش کارها را به پسرش جیحون سپرده؛ مستقیم در کار دخالت نمی‌کند اما هیچ‌چیز از چشمش دور نمی‌ماند و دوستی دیرینه‌ای با جلادت دارد.",
+        "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/kadro/devran-atahanli"
+      },
+      {
+        "name": "Hilal Anay",
+        "nameFa": "هلال آنای",
+        "role": "Hanzade Atahanlı",
+        "roleFa": "خان‌زاده آتاهانلی",
+        "image": "https://iatv.tmgrup.com.tr/2026/09/15/204x204/1789486663599.jpg",
+        "personSlug": "hilal-anay",
+        "description": "شاهزادهٔ خاندان آتاهانلی و خواهر جیحون که به گرفتن هر چه بخواهد عادت کرده؛ عادت نداشتن به باختن هم قوی‌ترین و هم شکننده‌ترین جنبهٔ اوست.",
+        "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/kadro/hanzade-atahanli"
       }
     ],
     "seasons": [
@@ -611,6 +821,146 @@
         "description": "چهرهٔ بلندپرواز خاندان مرجان‌داغ که برای حفظ قدرت حاضر است خطرهای بزرگی بپذیرد.",
         "source": "https://www.atv.com.tr/mercan-kosk/kadro",
         "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787320950041.jpg"
+      },
+      {
+        "name": "Mehmet Özgür",
+        "nameFa": "محمد اؤزگور",
+        "role": "Esved Hozan",
+        "roleFa": "اسود هوزان",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321185216.jpg",
+        "personSlug": "mehmet-ozgur",
+        "description": "رئیس خاندان هوزان؛ مردی سخت‌گیر و ترسناک که زخم‌های گذشته و حس انتقام را با خود دارد و از خطرناک‌ترین چهره‌هایی است که تعادل کوشک مرجان را به هم می‌زند.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/esved-hozan"
+      },
+      {
+        "name": "Zeyno Eracar",
+        "nameFa": "زینو اراجار",
+        "role": "Behiye Hozan",
+        "roleFa": "بهیه هوزان",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321285279.jpg",
+        "personSlug": "zeyno-eracar",
+        "description": "همسر اسود؛ زنی به‌شدت فریبکار که برای حفظ سلطه‌اش بر خانواده هر راهی را روا می‌داند و از عوامل اصلی شعله‌ور شدن درگیری‌های کوشک است.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/behiye-hozan"
+      },
+      {
+        "name": "Ulviye Karaca",
+        "nameFa": "اولویه قراجا",
+        "role": "Hafsa Mercandağ",
+        "roleFa": "حفصه مرجان‌داغ",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321528449.jpg",
+        "personSlug": "ulviye-karaca",
+        "description": "مادر آراس که سال‌ها بی‌صدا تاوان تصمیم‌های گذشته‌اش را داده؛ زنی فداکار که وجدان کوشک مرجان به شمار می‌آید.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/hafsa-mercandag"
+      },
+      {
+        "name": "Tülin Özen",
+        "nameFa": "تولین اؤزن",
+        "role": "Suna Mercandağ",
+        "roleFa": "سونا مرجان‌داغ",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321829959.jpg",
+        "personSlug": "tulin-ozen",
+        "description": "بزرگ‌ترین خواهر مرجان‌داغ؛ قوی، خوددار و مقتدر که با عقل بیشتر از احساس تصمیم می‌گیرد و تصمیم‌هایش مسیر شکاف‌های بزرگ کوشک را تعیین می‌کند.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/suna-mercandag"
+      },
+      {
+        "name": "Halil Babür",
+        "nameFa": "خلیل بابور",
+        "role": "Selçuk Mercandağ",
+        "roleFa": "سلجوق مرجان‌داغ",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321664822.jpg",
+        "personSlug": "halil-babur",
+        "description": "پسر بزرگ خاندان مرجان‌داغ که میان جاه‌طلبی و میل به اثبات خود گیر افتاده و برای به دست آوردن قدرت حدی نمی‌شناسد.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/selcuk-mercandag"
+      },
+      {
+        "name": "Haki Biçici",
+        "nameFa": "حاکی بیچیجی",
+        "role": "Rıza",
+        "roleFa": "رضا",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321922469.jpg",
+        "personSlug": "haki-bicici",
+        "description": "پیشکار قدیمی کوشک و از مورد اعتمادترین آدم‌های خاندان مرجان‌داغ؛ رازی بزرگ که سال‌ها پنهان کرده، مسیر زندگی‌اش را تغییر می‌دهد.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/riza"
+      },
+      {
+        "name": "Can Bartu Arslan",
+        "nameFa": "جان بارتو آرسلان",
+        "role": "Mert Demiray",
+        "roleFa": "مرت دمیرای",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322750691.jpg",
+        "personSlug": "can-bartu-arslan",
+        "description": "برادر جمره؛ جوانی شاد و آزادی‌خواه که به‌خاطر خواهرش وسط خطرناک‌ترین تسویه‌حساب‌های کوشک قرار می‌گیرد.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/mert-demiray"
+      },
+      {
+        "name": "Zehra Kelleci",
+        "nameFa": "زهرا کلجی",
+        "role": "Gülcan Hozan",
+        "roleFa": "گلجان هوزان",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322422165.jpg",
+        "personSlug": "zehra-kelleci",
+        "description": "زنی که سال‌ها تحقیر شده و بی‌محبت بزرگ شده، اما امیدش را از دست نداده؛ عشق به دخترش الیف و آرزوی زندگی آزاد او را به مبارزه‌ای بزرگ می‌کشاند.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/gulcan-hozan"
+      },
+      {
+        "name": "Merve Şeyma Zengin",
+        "nameFa": "مروه شیما زنگین",
+        "role": "Eslem Hozan",
+        "roleFa": "اسلم هوزان",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322324805.jpg",
+        "personSlug": "merve-seyma-zengin",
+        "description": "فرزند میانی خاندان هوزان؛ جاه‌طلب، فریبکار و عاشق مرکز توجه بودن که برای رسیدن به خواسته‌اش حدی نمی‌شناسد.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/eslem-hozan"
+      },
+      {
+        "name": "Selin Köseoğlu",
+        "nameFa": "سلین کؤسه‌اوغلو",
+        "role": "Hülya Mercandağ",
+        "roleFa": "هولیا مرجان‌داغ",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322582573.jpg",
+        "personSlug": "selin-koseoglu",
+        "description": "همسر سلجوق؛ زنی قوی و جاه‌طلب که برای حفظ جایگاهش هر راهی را امتحان می‌کند.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/hulya-mercandag"
+      },
+      {
+        "name": "Berna Cındıl",
+        "nameFa": "برنا جیندیل",
+        "role": "Defne Hozan",
+        "roleFa": "دفنه هوزان",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322465708.jpg",
+        "personSlug": "berna-cindil",
+        "description": "کوچک‌ترین دختر هوزان؛ احساساتی و شکننده که رؤیای بازیگر شدن را پنهانی دنبال می‌کند و نیاز به محبت او را تا لب انتخاب‌های اشتباه می‌برد.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/defne-hozan"
+      },
+      {
+        "name": "Mehmet Avcı",
+        "nameFa": "محمد آوجی",
+        "role": "Cahit Mercandağ",
+        "roleFa": "جاهد مرجان‌داغ",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322101050.jpg",
+        "personSlug": "mehmet-avci",
+        "description": "مردی که سال‌ها با سخت‌کوشی و اقتدار خاندان مرجان‌داغ را سرپا نگه داشت؛ پس از سکتهٔ شدید همه‌چیز را می‌بیند و می‌شنود اما نمی‌تواند دخالت کند.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/cahit-mercandag"
+      },
+      {
+        "name": "Engin Yüksel",
+        "nameFa": "انگین یوکسل",
+        "role": "Seyit",
+        "roleFa": "سید",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321761898.jpg",
+        "personSlug": "engin-yuksel",
+        "description": "دست راست وفادار و بی‌پروای اسود که سال‌ها بی‌چون‌وچرا دستورها را اجرا کرده؛ با تغییر توازن قدرت، انتخاب‌هایش او را به دوراهی بی‌بازگشتی می‌برد.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/seyit"
+      },
+      {
+        "name": "Taha Baran Özbek",
+        "nameFa": "طاها باران اؤزبک",
+        "role": "Poyraz Mercandağ",
+        "roleFa": "پویراز مرجان‌داغ",
+        "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321579898.jpg",
+        "personSlug": "taha-baran-ozbek",
+        "description": "کوچک‌ترین پسر جاهد؛ لوس، عصبی و بی‌پروا که عشق وسواس‌گونه‌اش او را به قلب درگیری‌های کوشک می‌کشاند.",
+        "source": "https://www.atv.com.tr/mercan-kosk/kadro/poyraz-mercandag"
       }
     ],
     "seasons": [
@@ -1343,6 +1693,60 @@
     },
     "cast": [
       {
+        "name": "Seray Kaya",
+        "nameFa": "سرای کایا",
+        "role": "Başak",
+        "roleFa": "باشاک",
+        "image": "https://im.showtv.com.tr/5/8244/seray-kaya-500x500.png?v=1789645216",
+        "personSlug": "seray-kaya",
+        "source": "https://www.showtv.com.tr/oyuncu/seray-kaya/8244"
+      },
+      {
+        "name": "Erkan Avcı",
+        "nameFa": "ارکان آوجی",
+        "role": "Asil",
+        "roleFa": "اصیل",
+        "image": "https://im.showtv.com.tr/5/8245/erkan-avci-500x500.png?v=1789645271",
+        "personSlug": "erkan-avci",
+        "source": "https://www.showtv.com.tr/oyuncu/erkan-avci/8245"
+      },
+      {
+        "name": "Özge Borak",
+        "nameFa": "اؤزگه بوراک",
+        "role": "Salkım",
+        "roleFa": "سالکیم",
+        "image": "https://im.showtv.com.tr/5/8246/ozge-borak-500x500.png?v=1789645370",
+        "personSlug": "ozge-borak",
+        "source": "https://www.showtv.com.tr/oyuncu/ozge-borak/8246"
+      },
+      {
+        "name": "Emre Dinler",
+        "nameFa": "امره دینلر",
+        "role": "Fatih",
+        "roleFa": "فاتح",
+        "image": "https://im.showtv.com.tr/5/8247/emre-dinler-500x500.png?v=1789645431",
+        "personSlug": "emre-dinler",
+        "source": "https://www.showtv.com.tr/oyuncu/emre-dinler/8247"
+      },
+      {
+        "name": "Servet Pandur",
+        "nameFa": "ثروت پاندور",
+        "role": "Asude",
+        "roleFa": "آسوده",
+        "image": "https://im.showtv.com.tr/5/8248/servet-pandur-500x500.png?v=1789645495",
+        "personSlug": "servet-pandur",
+        "source": "https://www.showtv.com.tr/oyuncu/servet-pandur/8248"
+      },
+      {
+        "name": "Murat Aygen",
+        "nameFa": "مورات آیگن",
+        "role": "Lider",
+        "roleFa": "لیدر",
+        "image": "https://im.showtv.com.tr/5/8249/murat-aygen-500x500.png?v=1789645547",
+        "personSlug": "murat-aygen",
+        "source": "https://www.showtv.com.tr/oyuncu/murat-aygen/8249"
+      },
+      {
         "name": "Barış Kılıç",
         "nameFa": "باریش کیلیچ",
         "personSlug": "baris-kilic",
@@ -1647,6 +2051,69 @@
     },
     "cast": [
       {
+        "name": "Yavuz Sepetçi",
+        "nameFa": "یاووز سپت‌چی",
+        "role": "Ciritçi Abdullah",
+        "roleFa": "جیریت‌چی عبدالله",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-bb3d5dc3-690d-4407-a367-da83bd526c5cjpg-21289216.jpeg",
+        "personSlug": "yavuz-sepetci",
+        "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/ciritci-abdullah"
+      },
+      {
+        "name": "Erdal Cindoruk",
+        "nameFa": "اردال جین‌دوروک",
+        "role": "Ağıtçı Hüseyin",
+        "roleFa": "آغیت‌چی حسین",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-2e4fff1e-e085-47b3-ae5c-dd21a3d303ffjpg-21289116.jpeg",
+        "personSlug": "erdal-cindoruk",
+        "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/agitci-huseyin"
+      },
+      {
+        "name": "Eser Eyüboğlu",
+        "nameFa": "اسر ایوب‌اوغلو",
+        "role": "Selami",
+        "roleFa": "سلامی",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-5198603b-f9b4-4cf1-ab3b-128b25e84133jpg-21289111.jpeg",
+        "personSlug": "eser-eyuboglu",
+        "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/selami"
+      },
+      {
+        "name": "Ferdi Sancar",
+        "nameFa": "فردی سانجار",
+        "role": "Sefer",
+        "roleFa": "سفر",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-8712698d-447b-4afc-8e29-9855c61962f9jpg-21289113.jpeg",
+        "personSlug": "ferdi-sancar",
+        "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/sefer"
+      },
+      {
+        "name": "Nazlı Pınar Kaya",
+        "nameFa": "نازلی پینار کایا",
+        "role": "Cemile",
+        "roleFa": "جمیله",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-c325e9a8-dc50-4d81-a41f-71b927a42ce0jpg-21289118.jpeg",
+        "personSlug": "nazli-pinar-kaya",
+        "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/cemile"
+      },
+      {
+        "name": "Hazal Çağlar",
+        "nameFa": "هزال چاغلار",
+        "role": "Asuman",
+        "roleFa": "آسومان",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-a071df5c-94b8-4495-85be-d0e052650bf1jpg-21289121.jpeg",
+        "personSlug": "hazal-caglar",
+        "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/asuman"
+      },
+      {
+        "name": "Nuri Gökaşan",
+        "nameFa": "نوری گؤک‌آشان",
+        "role": "Dişçi Musa",
+        "roleFa": "دیش‌چی موسی",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-05226052-9d26-4e1d-9236-941c3cc73baajpg-21289112.jpeg",
+        "personSlug": "nuri-gokasan",
+        "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/disci-musa"
+      },
+      {
         "name": "Berk Atan",
         "nameFa": "برک آتان",
         "personSlug": "berk-atan",
@@ -1726,6 +2193,66 @@
       "youtube": "https://www.youtube.com/@trt1"
     },
     "cast": [
+      {
+        "name": "Gözde Okur",
+        "nameFa": "گؤزده اوکور",
+        "role": "Saadet",
+        "roleFa": "سعادت",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/saadet-gozde-okur-21749715-0-0-1199-1799.png",
+        "personSlug": "gozde-okur",
+        "description": "عمهٔ دخترها با توصیه‌های بی‌شمار دربارهٔ رابطه؛ هنوز فرمول خوشبختی خودش را پیدا نکرده، اما سخت مصمم است عشق دیگران را سامان بدهد.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/saadet"
+      },
+      {
+        "name": "Anıl Çelik",
+        "nameFa": "آنیل چلیک",
+        "role": "Servet",
+        "roleFa": "ثروت",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/servet-anil-celik-21749717-0-0-1199-1799.png",
+        "personSlug": "anil-celik",
+        "description": "دایی دختران بختیار؛ پرنقشه، اهل عمل و کاربلد، هرچند نقشه‌هایش همیشه درست پیش نمی‌رود.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/servet"
+      },
+      {
+        "name": "Sera Tokdemir",
+        "nameFa": "سرا توک‌دمیر",
+        "role": "Ayşe",
+        "roleFa": "عایشه",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ayse-sera-tokdemir-21749718-0-0-1199-1799.png",
+        "personSlug": "sera-tokdemir",
+        "description": "دست راست مسعود بیگ و قدرت بی‌صدای دفتر ازدواج که سال‌هاست منظور او را از یک نگاه می‌فهمد.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/ayse"
+      },
+      {
+        "name": "Alihan Demirbilek",
+        "nameFa": "علی‌خان دمیربیلک",
+        "role": "Diyar",
+        "roleFa": "دیار",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/diyar-alihan-demirbilek-21749719-0-0-1199-1799.png",
+        "personSlug": "alihan-demirbilek",
+        "description": "جوانی سخت‌کوش، باادب و وفادار به ریشه‌هایش که دنبال رؤیاهایش به استانبول آمده؛ آشنایی با بهار ممکن است همهٔ برنامه‌هایش را تغییر دهد.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/diyar"
+      },
+      {
+        "name": "Berk Bakioğlu",
+        "nameFa": "برک باقی‌اوغلو",
+        "role": "Sinan",
+        "roleFa": "سینان",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/sinan-berk-bakioglu-21749721-0-0-1199-1799.png",
+        "personSlug": "berk-bakioglu",
+        "description": "خوش‌قیافه، موفق و اهل برنامه که یاسمین را خیلی دوست دارد، اما میان دلش و انتظارات پدر و مادرش گیر افتاده.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/sinan"
+      },
+      {
+        "name": "Ferida Bağ",
+        "nameFa": "فریده باغ",
+        "role": "Bahar",
+        "roleFa": "بهار",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/bahar-ferida-bag-21749720-0-0-1199-1799.png",
+        "personSlug": "ferida-bag",
+        "description": "کوچک‌ترین دختر بختیارها و آزادترین روح خانه؛ باهوش، پرانرژی و کمی سرکش با هدف‌های بزرگ برای آینده.",
+        "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/bahar"
+      },
       {
         "name": "Fikret Kuşkan",
         "nameFa": "فیکرت کوشکان",
@@ -1881,6 +2408,46 @@
     },
     "cast": [
       {
+        "name": "Melisa Duru Ünal",
+        "nameFa": "ملیسا دورو اونال",
+        "role": "Ege Altay",
+        "roleFa": "اگه آلتای",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Anne-Yarisi/Oyuncular/Anne-Yarisi-act-image-11eedf8d-f54a-4eef-85fe-8edb85b66818.jpg",
+        "personSlug": "melisa-duru-unal",
+        "description": "دختری هشت‌ساله، باهوش، شاد و مصمم که زینب را مادر خودش می‌داند و به‌تدریج با علی هم رابطهٔ پدر و دختری واقعی می‌سازد؛ بزرگ‌ترین آرزویش این است که میان دو آدمی که دوستشان دارد مجبور به انتخاب نشود.",
+        "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular/1565/ege-altay"
+      },
+      {
+        "name": "Selen Uçer",
+        "nameFa": "سلن اوچر",
+        "role": "Altın Bayındır",
+        "roleFa": "آلتین بایندیر",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Anne-Yarisi/Oyuncular/Anne-Yarisi-act-image-c90c27e8-b717-498d-a6de-287a45cd1a2a.jpg",
+        "personSlug": "selen-ucer",
+        "description": "مادر قادر و اؤزجان و دشمن سرسخت مریم در عمارت همسایه؛ زبان‌تند، مغرور، زیرک و همیشه در رقابت با خاندان آلتای.",
+        "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular/1566/altin-bayindir"
+      },
+      {
+        "name": "Fatih Gühan",
+        "nameFa": "فاتح گوهان",
+        "role": "Kadir Bayındır",
+        "roleFa": "قادر بایندیر",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Anne-Yarisi/Oyuncular/Anne-Yarisi-act-image-d3ee0331-3039-4ca3-bc77-e68fa95b6479.jpg",
+        "personSlug": "fatih-guhan",
+        "description": "تاجری مغرور، باهوش و جاه‌طلب که رقابت قدیمی‌اش با علی گاهی او را به حرکت‌های خطرناک می‌کشاند؛ زیر ظاهر خشن، پدری حساس و حامی برای پسرش عثمان است.",
+        "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular/1567/kadir-bayindir"
+      },
+      {
+        "name": "Cansu Fırıncı",
+        "nameFa": "جانسو فیرینجی",
+        "role": "Asım Kınık",
+        "roleFa": "عاصم کینیک",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Anne-Yarisi/Oyuncular/Anne-Yarisi-act-image-a46f29cd-1bd5-4781-9978-c427874f7f53.jpg",
+        "personSlug": "cansu-firinci",
+        "description": "همسر فیدان و داماد سرخانهٔ خاندان آلتای؛ منفعت‌طلب و ترسو که با ماندن کنار آدم‌های قدرتمند از خودش محافظت می‌کند.",
+        "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular/1568/asim-kinik"
+      },
+      {
         "name": "Cihangir Ceyhan",
         "nameFa": "جهانگیر جیهان",
         "personSlug": "cihangir-ceyhan",
@@ -1954,6 +2521,126 @@
       "youtube": "https://www.youtube.com/@nowtv"
     },
     "cast": [
+      {
+        "name": "Enes Koçak",
+        "nameFa": "انس کوچاک",
+        "role": "Mete Uçar",
+        "roleFa": "مته اوچار",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346707_picture.jpg",
+        "personSlug": "enes-kocak",
+        "description": "کوچک‌ترین فرزند عمور که می‌خواهد ردّ زندگی‌ای را که در آن بزرگ شده پشت سر بگذارد و عشقش به ایپک، مرزهای دنیای تازه‌اش را جابه‌جا می‌کند.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1572/mete-ucar"
+      },
+      {
+        "name": "Gülçin Kültür Şahin",
+        "nameFa": "گلچین کولتور شاهین",
+        "role": "Gülsüm Karaca",
+        "roleFa": "گلثوم قراجا",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346719_picture.jpg",
+        "personSlug": "gulcin-kultur-sahin",
+        "description": "خواهر میانی عمور، همسر شاهین و مادر زینب که همیشه کنار خواهرش بوده و از تکیه‌گاه‌های اصلی خانوادهٔ اوچار است.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1573/gulsum-karaca"
+      },
+      {
+        "name": "İbrahim Selim",
+        "nameFa": "ابراهیم سلیم",
+        "role": "Halil İbrahim Eren",
+        "roleFa": "خلیل ابراهیم ارن",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346724_picture.jpg",
+        "personSlug": "ibrahim-selim",
+        "description": "رئیس جنید؛ مردی درستکار، بی‌تکلف و حامی که به عمور علاقه‌ای دارد که همه جز خود عمور می‌بینند.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1574/halil-ibrahim-eren"
+      },
+      {
+        "name": "Zerrin Sümer",
+        "nameFa": "زرین سومر",
+        "role": "Müzeyyen Uçar",
+        "roleFa": "مزین اوچار",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346732_picture.jpg",
+        "personSlug": "zerrin-sumer",
+        "description": "مادرشوهر عمور و مادربزرگ بچه‌ها که پس از رفتن پسرش هم با عمور و بچه‌ها ماند و عمور را مثل دختر خودش دوست دارد.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1575/muzeyyen-ucar"
+      },
+      {
+        "name": "Pınar Çağlar Gençtürk",
+        "nameFa": "پینار چاغلار گنچ‌تورک",
+        "role": "Yıldız Aydın",
+        "roleFa": "ییلدیز آیدین",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346740_picture.jpg",
+        "personSlug": "pinar-caglar-gencturk",
+        "description": "کوچک‌ترین خواهر عمور که انتخاب‌های سال‌ها پیشش میان او و خانواده فاصله انداخته و هنوز بار گذشته را به دوش می‌کشد.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1576/yildiz-aydin"
+      },
+      {
+        "name": "Sude Zülal Güler",
+        "nameFa": "سوده زلال گولر",
+        "role": "İpek Arıkan",
+        "roleFa": "ایپک آریکان",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346747_picture.jpg",
+        "personSlug": "sude-zulal-guler",
+        "description": "دختر نورا و تونچ که میان زندگی‌ای که مادرش برایش کشیده و خواسته‌های خودش گیر افتاده و می‌خواهد به صدای دلش گوش کند.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1577/ipek-arikan"
+      },
+      {
+        "name": "Cemre Arda",
+        "nameFa": "جمره آردا",
+        "role": "Nazlı Uçar",
+        "roleFa": "نازلی اوچار",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346754_picture.jpg",
+        "personSlug": "cemre-arda",
+        "description": "فرزند میانی عمور؛ دختری ساکت و درون‌گرا که برای برآوردن رؤیای مادرش برای کنکور آماده می‌شود و هم‌زمان دنبال راه خودش است.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1578/nazli-ucar"
+      },
+      {
+        "name": "Asilhan Kurşun",
+        "nameFa": "اصیل‌خان کورشون",
+        "role": "Cüneyt Uçar",
+        "roleFa": "جنید اوچار",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346761_picture.jpg",
+        "personSlug": "asilhan-kursun",
+        "description": "پسر بزرگ عمور و پدر آلیش که از کودکی بار خانه را به دوش گرفته؛ درون‌گرا و شکننده است و با عادتی بد که نمی‌تواند ترکش کند دست‌وپنجه نرم می‌کند.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1579/cuneyt-ucar"
+      },
+      {
+        "name": "Mert Carim",
+        "nameFa": "مرت جاریم",
+        "role": "Şahin Karaca",
+        "roleFa": "شاهین قراجا",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346768_picture.jpg",
+        "personSlug": "mert-carim",
+        "description": "همسر گلثوم و پدر زینب؛ حرف زدن را بیشتر از کار کردن دوست دارد و فرصت‌ها را از دست نمی‌دهد، و قوی‌ترین جنبه‌اش عشقش به گلثوم است.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1580/sahin-karaca"
+      },
+      {
+        "name": "Aydan Kaya",
+        "nameFa": "آیدان کایا",
+        "role": "Safiye Atalan",
+        "roleFa": "صفیه آتالان",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346774_picture.jpg",
+        "personSlug": "aydan-kaya",
+        "description": "نزدیک‌ترین دوست عمور و رانندهٔ مینی‌بوس محله؛ زنی مستقل که در سخت‌ترین لحظه‌ها کنار عمور است.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1581/safiye-atalan"
+      },
+      {
+        "name": "Melis Girşen",
+        "nameFa": "ملیس گیرشن",
+        "role": "Zeynep Karaca",
+        "roleFa": "زینب قراجا",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346782_picture.jpg",
+        "personSlug": "melis-girsen",
+        "description": "دختر گلثوم و شاهین و دخترخاله و محرم راز نازلی؛ شاد، رک و پاک‌دل که با وجود سختی‌ها امیدش را از دست نمی‌دهد.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1582/zeynep-karaca"
+      },
+      {
+        "name": "Aybars Çalışkan",
+        "nameFa": "آیبارس چالیشکان",
+        "role": "Aliş Uçar",
+        "roleFa": "آلیش اوچار",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346788_picture.jpg",
+        "personSlug": "aybars-caliskan",
+        "description": "پسر جنید و نوهٔ عمور، کوچک‌ترین و شادترین عضو خانه که با پدرش و عمور پیوندی قوی دارد.",
+        "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1583/alis-ucar"
+      },
       {
         "name": "Nurgül Yeşilçay",
         "nameFa": "نورگول یشیلچای",
@@ -2059,6 +2746,126 @@
       "youtube": "https://www.youtube.com/@nowtv"
     },
     "cast": [
+      {
+        "name": "Sümeyye Aydoğan",
+        "nameFa": "سمیه آیدوغان",
+        "role": "Sultan Hanoğlu",
+        "roleFa": "سلطان هان‌اوغلو",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-2e520f07-1ab4-478d-8fe6-8b9956300b2a.jpg",
+        "personSlug": "sumeyye-aydogan",
+        "description": "زنی قوی و کاردان که فقدان‌های بزرگی را پشت سر گذاشته، امور مالی خاندان هان‌اوغلو را اداره می‌کند و میان عشق، وفاداری و خیانت سخت‌ترین آزمونش را می‌دهد.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1541/sultan-hanoglu"
+      },
+      {
+        "name": "Mehmet Yılmaz Ak",
+        "nameFa": "محمد ییلماز آک",
+        "role": "Yılmaz Doğan",
+        "roleFa": "ییلماز دوغان",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-a11af346-789d-4ea9-9439-b37a8c2fb9a2.jpg",
+        "personSlug": "mehmet-yilmaz-ak",
+        "description": "مأمور اطلاعاتی خونسرد و استراتژیست که مافیای مواد مخدر استانبول را دنبال می‌کند و بیش از همه به حیدر علی اعتماد دارد.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1542/yilmaz-dogan"
+      },
+      {
+        "name": "Burak Sevinç",
+        "nameFa": "بوراک سوینچ",
+        "role": "Merdan Hanoğlu",
+        "roleFa": "مردان هان‌اوغلو",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-28463df3-77a4-4a14-b041-9fca6baf8b19.jpg",
+        "personSlug": "burak-sevinc",
+        "description": "مردی رهبرمنش و صبور که صعود بوزو را پذیرفت اما استراتژی‌اش را از دست نداد و با دیپلماسی و تاکتیک دوام می‌آورد.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1543/merdan-hanoglu"
+      },
+      {
+        "name": "Ülkü Hilal Çiftçi",
+        "nameFa": "اولکو هلال چیفت‌چی",
+        "role": "Melek Aslan",
+        "roleFa": "ملک آسلان",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-7841d3a7-03ff-492b-a393-f9225a219450.jpg",
+        "personSlug": "ulku-hilal-ciftci",
+        "description": "دختری که بی‌آنکه خانواده‌اش را بشناسد بزرگ شده و سخت به برادرش حیدر علی و جیلان وابسته است؛ معصوم، فداکار و مهربان.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1544/melek-aslan"
+      },
+      {
+        "name": "Ekin Mert Daymaz",
+        "nameFa": "اکین مرت دایماز",
+        "role": "Ferhat Hanoğlu",
+        "roleFa": "فرهاد هان‌اوغلو",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-0559bd73-4c6d-42ab-9c0a-e53575b90aeb.jpg",
+        "personSlug": "ekin-mert-daymaz",
+        "description": "مردی خوش‌قیافه و باهوش که به سلطان و برادرش احترام می‌گذارد و رابطهٔ پیچیده‌ای با بوزو و حیدر علی دارد.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1545/ferhat-hanoglu"
+      },
+      {
+        "name": "Hülya Gülşen",
+        "nameFa": "هولیا گولشن",
+        "role": "Ümmü Gülsüm Mert",
+        "roleFa": "ام‌گلثوم مرت",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-d311bbaf-89b2-42f9-a28f-c46622283bb9.jpg",
+        "personSlug": "hulya-gulsen",
+        "description": "معروف به «ننه گلثوم»؛ فال می‌خواند و طلسم باطل می‌کند، زندگی‌اش را وقف بوزو و بچه‌ها کرده و جیلان را تاریک می‌بیند.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1546/ummu-gulsum-mert"
+      },
+      {
+        "name": "Koray Şahinbaş",
+        "nameFa": "کورای شاهین‌باش",
+        "role": "Efraim Güney",
+        "roleFa": "افرائیم گونی",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-bd51b439-5116-4e34-9a0b-d5f88f6b0ded.jpg",
+        "personSlug": "koray-sahinbas",
+        "description": "مردی که هر قدم دنیای زیرزمین را می‌شناسد، به نظم بی‌نقص باور دارد و احساساتش را پنهان می‌کند؛ وفاداری‌اش فقط به بوزوست.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1547/efraim-guney"
+      },
+      {
+        "name": "Hakan Çelebi",
+        "nameFa": "هاکان چلبی",
+        "role": "Paşa Hanoğlu",
+        "roleFa": "پاشا هان‌اوغلو",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-03affd3a-8534-4e6c-b40e-b0e991442cd7.jpg",
+        "personSlug": "hakan-celebi",
+        "description": "مردی که پدرش را نشناخته و مادرش رهایش کرده؛ مطیع برادر بزرگش، مهربان با خواهرش و بسته به روی بقیه، با تصمیم‌های ناگهانی.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1548/pasa-hanoglu"
+      },
+      {
+        "name": "Emir Benderlioğlu",
+        "nameFa": "امیر بندرلی‌اوغلو",
+        "role": "Yavuz Mert",
+        "roleFa": "یاووز مرت",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-cefb2a5a-ad93-4af7-9a29-e084f0e60ccc.jpg",
+        "personSlug": "emir-benderlioglu",
+        "description": "خوددارترین داش محله که میان سخت‌گیری مادر و دایی‌اش رنگ خودش را پیدا کرده و به عزیزانش دلبسته است.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1549/yavuz-mert"
+      },
+      {
+        "name": "Nilay Erdönmez",
+        "nameFa": "نیلای اردؤنمز",
+        "role": "Aslı Kartal",
+        "roleFa": "اصلی کارتال",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-34e507dd-5e2d-48a0-965e-fe6241f11287.jpg",
+        "personSlug": "nilay-erdonmez",
+        "description": "فارغ‌التحصیل حقوق که پس از پیوستن به سازمان اطلاعات مورد اعتمادترین نیروی ییلماز شده و در بازی‌های دولت و زیرزمین نقشی کلیدی دارد.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1550/asli-kartal"
+      },
+      {
+        "name": "Sunay Kurtuluş",
+        "nameFa": "سونای کورتولوش",
+        "role": "Adnan Yolcu",
+        "roleFa": "عدنان یولجو",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-4447e77c-849f-4b8a-931e-79a8bbaeb625.jpg",
+        "personSlug": "sunay-kurtulus",
+        "description": "جوانی که قواعد کار را از افرائیم آموخته؛ وفادار و فرمان‌بردار که همیشه درست را انتخاب کرده و احترام اطرافیانش را به دست آورده است.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1551/adnan-yolcu"
+      },
+      {
+        "name": "Ekin Aksoy",
+        "nameFa": "اکین آکسوی",
+        "role": "Pınar Esen",
+        "roleFa": "پینار اسن",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-434b3793-4a50-400f-ab0f-005d41e0ebd0.jpg",
+        "personSlug": "ekin-aksoy",
+        "description": "در خانواده‌ای پلیس بزرگ شده و در واحد مبارزه با مواد مخدر که آرزویش را داشت کار می‌کند؛ شغلش و عشقی ممنوع او را بر سر دوراهی سختی می‌گذارد.",
+        "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1552/pinar-esen"
+      },
       {
         "name": "Deniz Can Aktaş",
         "nameFa": "دنیز جان آکتاش",
@@ -2379,7 +3186,108 @@
       "website": "https://www.trt1.com.tr/diziler/teskilat",
       "episodes": "https://www.trt1.com.tr/diziler/teskilat/bolum"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Tolga Sarıtaş",
+        "nameFa": "تولگا ساری‌تاش",
+        "role": "Altay",
+        "roleFa": "آلتای",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-df177814-2be0-490f-9ff9-b9146041a6c4png-21288838.png",
+        "personSlug": "tolga-saritas",
+        "description": "آلتای، معروف به «کورت‌بی»؛ شجاع و بی‌باک که برای وطنش هر کاری می‌کند.",
+        "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/altay"
+      },
+      {
+        "name": "Tuvana Türkay",
+        "nameFa": "تووانا تورکای",
+        "role": "Kate",
+        "roleFa": "کیت",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-2b7e9070-b38e-41f2-8529-b9ea633ae060png-21288839.png",
+        "personSlug": "tuvana-turkay",
+        "description": "زنی حرفه‌ای و بی‌رحم که در کار و روابطش نقشی تعیین‌کننده دارد و تا حد زیادی حرکت‌های توفان را جهت می‌دهد.",
+        "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/kate"
+      },
+      {
+        "name": "Yunus Emre Yıldırımer",
+        "nameFa": "یونس امره ییلدیریم‌ار",
+        "role": "Korkut",
+        "roleFa": "قورقوت",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-577c9449-31f0-41e5-a95f-f878a08d9d6bpng-21288837.png",
+        "personSlug": "yunus-emre-yildirimer",
+        "description": "برای رسیدن به هدفش هر خطری را می‌پذیرد و هرگز ایستادگی بی‌باکش را از دست نمی‌دهد.",
+        "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/korkut"
+      },
+      {
+        "name": "Serdar Yeğin",
+        "nameFa": "سردار یگین",
+        "role": "Uzay",
+        "roleFa": "اوزای",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-a162ec48-a648-43e8-ab55-d5589f39e959png-21289071.png",
+        "personSlug": "serdar-yegin",
+        "description": "در لحظه‌های حساس محتاط عمل می‌کند؛ با اینکه آدمی منطقی است، گاهی احساساتش او را به شکل غیرمنتظره‌ای تحت تأثیر قرار می‌دهد.",
+        "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/uzay"
+      },
+      {
+        "name": "Adnan Biricik",
+        "nameFa": "عدنان بیریجیک",
+        "role": "Akif",
+        "roleFa": "عاکف",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-b0a0d8f7-9637-4ae9-bf57-26343e6242a6png-21288849.png",
+        "personSlug": "adnan-biricik",
+        "description": "با دانش و عقلش همیشه راه را نشان می‌دهد و برای وطن، رسیدن به هدف‌ها را رهبری می‌کند.",
+        "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/akif"
+      },
+      {
+        "name": "Murat Han",
+        "nameFa": "مورات هان",
+        "role": "Hamdi",
+        "roleFa": "حمدی",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-f0dee33a-0839-4aeb-a767-0f5ede1cefb8png-21288844.png",
+        "personSlug": "murat-han",
+        "description": "پدرخواندهٔ مافیایی که قدرتش را از دست داده؛ پس از فرار از زندان به استانبول برمی‌گردد اما هیچ‌چیز مثل قبل نیست.",
+        "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/hamdi"
+      },
+      {
+        "name": "Melisa Akman",
+        "nameFa": "ملیسا آکمان",
+        "role": "Nazlı",
+        "roleFa": "نازلی",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-56aa3aa7-d598-49c3-b484-988a91297595png-21288841.png",
+        "personSlug": "melisa-akman",
+        "description": "سختی‌های گذشته او را متوقف نکرده و مأموریتش را رها نکرده است، هرچند گاهی حفظ تمرکز برایش دشوار می‌شود.",
+        "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/nazli"
+      },
+      {
+        "name": "Özlem Maden",
+        "nameFa": "اؤزلم مادن",
+        "role": "Güniz",
+        "roleFa": "گونیز",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-d79b636c-9ce4-4084-9c66-35cf4bdb1d12png-21288846.png",
+        "personSlug": "ozlem-maden",
+        "description": "حمدی دیوانه‌وار عاشق اوست اما زندگی‌اش را به زندان بدل کرده؛ گونیز برای رهایی با سدات، برادرزادهٔ حمدی، همکاری می‌کند.",
+        "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/guniz"
+      },
+      {
+        "name": "Gizem Güneş",
+        "nameFa": "گیزم گونش",
+        "role": "Selen",
+        "roleFa": "سلن",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-1c7ea21a-bb61-4e54-9e6e-310e3504dd49png-21288850.png",
+        "personSlug": "gizem-gunes",
+        "description": "خواهر آلتای و عضو سازمان اطلاعات که پس از سقوط هلیکوپتر اسیر شده و زنده یا مرده بودنش معلوم نیست.",
+        "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/selen"
+      },
+      {
+        "name": "Murat Aygen",
+        "nameFa": "مورات آیگن",
+        "role": "Tufan",
+        "roleFa": "توفان",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-7ea56d94-c1c6-44bd-a578-5669b6efb805png-21288845.png",
+        "personSlug": "murat-aygen",
+        "description": "چهره‌ای بلندپرواز که با جاه‌طلبی و پولش هم بر اطرافیانش اثر می‌گذارد و هم تهدیدی برای آن‌هاست.",
+        "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/tufan"
+      }
+    ],
     "seasons": [
       {
         "number": 7,
@@ -2470,7 +3378,158 @@
       "website": "https://www.atv.com.tr/alti-ustu-istanbul",
       "episodes": "https://www.atv.com.tr/alti-ustu-istanbul/bolumler"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Feyyaz Duman",
+        "nameFa": "فیاض دومان",
+        "role": "Tarık Dirlik",
+        "roleFa": "طارق دیرلیک",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781168793666.jpg",
+        "personSlug": "feyyaz-duman",
+        "description": "مردی که در یتیم‌خانه بزرگ شده و پس از مرگ پسرش در حادثه‌ای تلخ، از سوی همسر و دخترش ترک می‌شود؛ با امید دادن به بچه‌های باشگاه فوتبال زخم‌هایش را التیام می‌دهد.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/tarik-dirlik"
+      },
+      {
+        "name": "Nehir Erdoğan",
+        "nameFa": "نهیر اردوغان",
+        "role": "Zehra Cankaya",
+        "roleFa": "زهرا جانکایا",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781168969247.jpg",
+        "personSlug": "nehir-erdogan",
+        "description": "مادری داغ‌دیده که برای سرپا نگه داشتن خانواده تلاش می‌کند و به کمک همدردی آرام، جرئت روبه‌رو شدن با غم‌هایش را پیدا می‌کند.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/zehra-cankaya"
+      },
+      {
+        "name": "İlker Aksum",
+        "nameFa": "ایلکر آکسوم",
+        "role": "Bayram Cankaya",
+        "roleFa": "بایرام جانکایا",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781169144722.jpg",
+        "personSlug": "ilker-aksum",
+        "description": "مردی زیرک و جاه‌طلب با رؤیای ناتمام فوتبالیست شدن که در محله کبابی دارد و می‌خواهد داستان ناتمامش را از راه پسر بااستعدادش کامل کند.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/bayram-cankaya"
+      },
+      {
+        "name": "Rahimcan Kapkap",
+        "nameFa": "رحیم‌جان کاپ‌کاپ",
+        "role": "Emir Cankaya",
+        "roleFa": "امیر جانکایا",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781174963722.jpg",
+        "personSlug": "rahimcan-kapkap",
+        "description": "جوانی درستکار و شجاع که فوتبال را تنها راه نجات از فقر محله می‌بیند؛ بی‌خبر از اینکه فرصت بزرگی که فکر می‌کند با استعدادش به دست آورده، حاصل معامله‌ای تاریک است.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/emir-cankaya"
+      },
+      {
+        "name": "Elçin Zehra İrem",
+        "nameFa": "الچین زهرا ایرم",
+        "role": "Naz Başer",
+        "roleFa": "ناز باشر",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781169708526.jpg",
+        "personSlug": "elcin-zehra-irem",
+        "description": "دختری خوش‌نیت و فداکار که در ثروت بزرگ شده و نمی‌داند زندگی‌اش بر دروغی بزرگ بنا شده؛ به‌تدریج می‌فهمد رقیبش کلید رسیدن به ریشه‌های واقعی اوست.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/naz-baser"
+      },
+      {
+        "name": "Kaan Çakır",
+        "nameFa": "کاان چاکیر",
+        "role": "Galip Sultan",
+        "roleFa": "غالب سلطان",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781169974778.jpg",
+        "personSlug": "kaan-cakir",
+        "description": "فوتبالیست سابق و رئیس جاه‌طلب، ثروتمند و بی‌رحم باشگاه که پسرش را با فشار بیمارگونه شکل می‌دهد و ردهای کثیف گذشته را پاک می‌کند.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/galip-sultan"
+      },
+      {
+        "name": "Yüsra Geyik",
+        "nameFa": "یسرا گییک",
+        "role": "Nihal Cankaya",
+        "roleFa": "نهال جانکایا",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781170130749.jpg",
+        "personSlug": "yusra-geyik",
+        "description": "خواهر بزرگی که بار خانواده را به دوش دارد و میان عشق و عقل گیر افتاده؛ تاوان اشتباهی قدیمی را می‌دهد و مردی قدرتمند و خطرناک او را به گردابی تازه می‌کشد.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/nihal-cankaya"
+      },
+      {
+        "name": "Öykü Gürman",
+        "nameFa": "اؤیکو گورمان",
+        "role": "Fahriye Toprak",
+        "roleFa": "فخریه توپراک",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781170378736.jpg",
+        "personSlug": "oyku-gurman",
+        "description": "مادری فداکار که برای دخترش در کاباره‌ها آواز می‌خواند؛ تاوان تصمیمی بی‌بازگشت که سال‌ها پیش گرفته ناگهان زندگی‌اش را زیرورو می‌کند.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/fahriye-toprak"
+      },
+      {
+        "name": "Berk Ali Çatal",
+        "nameFa": "برک علی چاتال",
+        "role": "Uzay Sultan",
+        "roleFa": "اوزای سلطان",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781174551326.jpg",
+        "personSlug": "berk-ali-catal",
+        "description": "جوانی زورگو که در ثروت و قدرت به دنیا آمده اما زیر سایهٔ پدر مستبدش مانده و بار حادثهٔ هولناکی را که باعثش شده به دوش می‌کشد.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/uzay-sultan"
+      },
+      {
+        "name": "Cem Söküt",
+        "nameFa": "جم سؤکوت",
+        "role": "Şeker İbo / İbrahim Koç",
+        "roleFa": "شکر ایبو / ابراهیم کوچ",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781174823927.jpg",
+        "personSlug": "cem-sokut",
+        "description": "دزد محله‌ای اصلاح‌ناپذیر اما باوجدان که با قانون خیابان بزرگ شده و برای عزیزانش بی‌محابا به آتش می‌زند.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/seker-ibo-ibrahim-koc"
+      },
+      {
+        "name": "Sacide Taşaner",
+        "nameFa": "ساجیده تاشانر",
+        "role": "Pamuk Cankaya",
+        "roleFa": "پاموک جانکایا",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781177812406.jpg",
+        "personSlug": "sacide-tasaner",
+        "description": "مادربزرگ فرصت‌طلب و سنتی خانواده که راحتی و منافع خودش را از غم خانواده مهم‌تر می‌داند و همهٔ امیدش به ثروتی است که نوهٔ بااستعدادش خواهد آورد.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/pamuk-cankaya"
+      },
+      {
+        "name": "Sena Mia Kalıp",
+        "nameFa": "سنا میا کالیپ",
+        "role": "Melek Toprak",
+        "roleFa": "ملک توپراک",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781178077973.jpg",
+        "personSlug": "sena-mia-kalip",
+        "description": "دختری جاه‌طلب که از فقر و گذشتهٔ مادر خواننده‌اش شرمنده است؛ آرزوی ثروت او را از عشق کودکی‌اش دور و به دنیایی پرزرق‌وبرق و خطرناک می‌کشاند.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/melek-toprak"
+      },
+      {
+        "name": "Doğancan Sarıkaya",
+        "nameFa": "دوغان‌جان ساری‌کایا",
+        "role": "Hasan Koru",
+        "roleFa": "حسن کورو",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781178473951.jpg",
+        "personSlug": "dogancan-sarikaya",
+        "description": "جوانی حسود و جاه‌طلب که خانواده‌اش را زود از دست داده و نزد پدربزرگ و مادربزرگش بزرگ شده؛ عاشق همان دختری است که بهترین دوستش دوست دارد، و بی‌عدالتی‌ای بزرگ او را به فکر انتقام می‌اندازد.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/hasan-koru"
+      },
+      {
+        "name": "Kaan Akkaya",
+        "nameFa": "کاان آق‌کایا",
+        "role": "Sado / Sadullah Yalçın",
+        "roleFa": "سادو / سعدالله یالچین",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781179837142.jpg",
+        "personSlug": "kaan-akkaya",
+        "description": "پسری شاد و پرحرف که این انرژی را نقابی برای پنهان کردن خشونت پدر الکلی‌اش کرده و فوتبال را تنها راه نجات مادرش از فقر می‌بیند.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/sado-sadullah-yalcin"
+      },
+      {
+        "name": "Efe Taşdelen",
+        "nameFa": "افه تاش‌دلن",
+        "role": "Mert Aksoy",
+        "roleFa": "مرت آکسوی",
+        "image": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781180675832.jpg",
+        "personSlug": "efe-tasdelen",
+        "description": "جوانی کم‌حرف که شرم زندانی بودن پدرش را با سکوت می‌پوشاند و فقط در زمین فوتبال احساس آزادی می‌کند.",
+        "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/mert-aksoy"
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -2527,7 +3586,148 @@
       "website": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
       "episodes": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Ayça Ayşin Turan",
+        "nameFa": "آیچا آیشین توران",
+        "role": "Defne",
+        "roleFa": "دفنه",
+        "image": "https://im.showtv.com.tr/5/8219/ayca-aysin-turan-500x500.png?v=1781679788",
+        "personSlug": "ayca-aysin-turan",
+        "description": "وکیلی موفق و مستقل که در اوج تلاش برای پیشرفت، خودش را میان دو مرد و مسائل حل‌نشدهٔ خانوادگی می‌بیند و برای نخستین بار با جنبهٔ مهارنشدنی عشق روبه‌رو می‌شود.",
+        "source": "https://www.showtv.com.tr/oyuncu/ayca-aysin-turan/8219"
+      },
+      {
+        "name": "Ekin Koç",
+        "nameFa": "اکین کوچ",
+        "role": "Kadir",
+        "roleFa": "قادر",
+        "image": "https://im.showtv.com.tr/5/8220/ekin-koc-500x500.png?v=1781679432",
+        "personSlug": "ekin-koc",
+        "description": "تاجری که پس از مرگ پدر مسئولیت خانواده را پذیرفته؛ درستکار، مصمم و حامی که گاهی در محافظت از عزیزانش از حد می‌گذرد، و دفنه به او یاد می‌دهد دوست داشتن یعنی فضا دادن.",
+        "source": "https://www.showtv.com.tr/oyuncu/ekin-koc/8220"
+      },
+      {
+        "name": "Feyyaz Şerifoğlu",
+        "nameFa": "فیاض شریف‌اوغلو",
+        "role": "Tolga",
+        "roleFa": "تولگا",
+        "image": "https://im.showtv.com.tr/5/8221/feyyaz-serifoglu-500x500.png?v=1781679498",
+        "personSlug": "feyyaz-serifoglu",
+        "description": "معماری موفق و جذاب که نقشهٔ تسویه‌حسابی چندساله در سر دارد؛ عاشق شدن به دفنه او را میان عشق و انتقام گرفتار می‌کند.",
+        "source": "https://www.showtv.com.tr/oyuncu/feyyaz-serifoglu/8221"
+      },
+      {
+        "name": "Cansel Elçin",
+        "nameFa": "جانسل الچین",
+        "role": "Levent",
+        "roleFa": "لوند",
+        "image": "https://im.showtv.com.tr/5/8222/cansel-elcin-500x500.png?v=1782716661",
+        "personSlug": "cansel-elcin",
+        "description": "لوند بارتینر، از تاجران سرشناس ترکیه که قدرتش را از خواندن آدم‌ها و توازن‌ها می‌گیرد و بیشتر با نتیجه حرکت می‌کند تا احساس.",
+        "source": "https://www.showtv.com.tr/oyuncu/cansel-elcin/8222"
+      },
+      {
+        "name": "Evrim Doğan",
+        "nameFa": "اوریم دوغان",
+        "role": "Mine",
+        "roleFa": "مینه",
+        "image": "https://im.showtv.com.tr/5/8223/evrim-dogan-500x500.png?v=1781639379",
+        "personSlug": "evrim-dogan",
+        "description": "مادر دفنه و اوغوز؛ فداکار، مهربان و دخالت‌گر که یک سرخوردگی بزرگ در گذشته او را به مادری بیش از حد محافظ تبدیل کرده است.",
+        "source": "https://www.showtv.com.tr/oyuncu/evrim-dogan/8223"
+      },
+      {
+        "name": "Hayal Köseoğlu",
+        "nameFa": "هیال کؤسه‌اوغلو",
+        "role": "Melis",
+        "roleFa": "ملیس",
+        "image": "https://im.showtv.com.tr/5/8224/hayal-koseoglu-500x500.png?v=1782716632",
+        "personSlug": "hayal-koseoglu",
+        "description": "نزدیک‌ترین دوست و شریک دفنه؛ شاد، پرانرژی و اهل دلبری که زندگی را جدی نمی‌گیرد، اما پشت خنده‌هایش شکنندگی عاشقانه‌ای پنهان است.",
+        "source": "https://www.showtv.com.tr/oyuncu/hayal-koseoglu/8224"
+      },
+      {
+        "name": "Müge Bayramoğlu",
+        "nameFa": "موگه بایرام‌اوغلو",
+        "role": "Özlem",
+        "roleFa": "اؤزلم",
+        "image": "https://im.showtv.com.tr/5/8225/muge-bayramoglu-500x500.png?v=1781639520",
+        "personSlug": "muge-bayramoglu",
+        "description": "زنی باهوش و جاه‌طلب از خانواده‌ای سرشناس که به گرفتن خواسته‌هایش عادت دارد؛ علاقه‌اش به تولگا با آمدن دفنه به رقابتی وسواس‌گونه تبدیل می‌شود.",
+        "source": "https://www.showtv.com.tr/oyuncu/muge-bayramoglu/8225"
+      },
+      {
+        "name": "Ege Erkal",
+        "nameFa": "اگه ارکال",
+        "role": "Yiğit",
+        "roleFa": "ییغیت",
+        "image": "https://im.showtv.com.tr/5/8226/ege-erkal-500x500.png?v=1781639579",
+        "personSlug": "ege-erkal",
+        "description": "دوست دانشگاهی و سومین شریک دفتر دفنه و ملیس؛ مطمئن‌ترین و عاقل‌ترین عضو گروه که با آرامش و شوخ‌طبعی تعادل را حفظ می‌کند.",
+        "source": "https://www.showtv.com.tr/oyuncu/ege-erkal/8226"
+      },
+      {
+        "name": "Bahtiyar Memili",
+        "nameFa": "بختیار ممیلی",
+        "role": "Selim",
+        "roleFa": "سلیم",
+        "image": "https://im.showtv.com.tr/5/8227/bahtiyar-memili-500x500.png?v=1781701780",
+        "personSlug": "bahtiyar-memili",
+        "description": "دستیار و نزدیک‌ترین آدم قادر؛ رک، وفادار و با شوخ‌طبعی بی‌پروایش حقیقت‌هایی را می‌گوید که دیگران جرئت گفتنش را ندارند.",
+        "source": "https://www.showtv.com.tr/oyuncu/bahtiyar-memili/8227"
+      },
+      {
+        "name": "Melis Minkari",
+        "nameFa": "ملیس مینکاری",
+        "role": "Zeynep",
+        "roleFa": "زینب",
+        "image": "https://im.showtv.com.tr/5/8228/melis-minkari-500x500.png?v=1781639700",
+        "personSlug": "melis-minkari",
+        "description": "خواهر عزیز قادر؛ جوان، پرانرژی و سرزنده که می‌خواهد روی پای خودش بایستد و رابطه‌اش با اوغوز او را برای اولین بار از منطقهٔ امنش بیرون می‌کشد.",
+        "source": "https://www.showtv.com.tr/oyuncu/melis-minkari/8228"
+      },
+      {
+        "name": "Selen Domaç",
+        "nameFa": "سلن دوماچ",
+        "role": "Suzan",
+        "roleFa": "سوزان",
+        "image": "https://im.showtv.com.tr/5/8229/selen-domac-500x500.png?v=1781639771",
+        "personSlug": "selen-domac",
+        "description": "خالهٔ دفنه؛ رک، پرانرژی و بی‌پروا که چند بار ازدواج و جدایی را پشت سر گذاشته اما ایمانش به عشق را از دست نداده است.",
+        "source": "https://www.showtv.com.tr/oyuncu/selen-domac/8229"
+      },
+      {
+        "name": "Melisa Berberoğlu",
+        "nameFa": "ملیسا بربراوغلو",
+        "role": "Leyla",
+        "roleFa": "لیلا",
+        "image": "https://im.showtv.com.tr/5/8230/melisa-berberoglu-500x500.png?v=1781639840",
+        "personSlug": "melisa-berberoglu",
+        "description": "همسر سابق قادر؛ زنی جاه‌طلب که می‌خواهد زندگی از دست رفته‌اش را پس بگیرد و با آمدن دفنه دوباره وارد بازی می‌شود.",
+        "source": "https://www.showtv.com.tr/oyuncu/melisa-berberoglu/8230"
+      },
+      {
+        "name": "Tugay Erdoğan",
+        "nameFa": "توغای اردوغان",
+        "role": "Yavuz",
+        "roleFa": "یاووز",
+        "image": "https://im.showtv.com.tr/5/8231/tugay-erdogan-500x500.png?v=1785143700",
+        "personSlug": "tugay-erdogan",
+        "description": "نزدیک‌ترین دوست و شریک تولگا؛ باهوش و شوخ که در دوستی بسیار وفادار است و میان دوستی و وجدانش ناچار به انتخاب‌های سخت می‌شود.",
+        "source": "https://www.showtv.com.tr/oyuncu/tugay-erdogan/8231"
+      },
+      {
+        "name": "Özgür Berber",
+        "nameFa": "اؤزگور بربر",
+        "role": "Oğuz",
+        "roleFa": "اوغوز",
+        "image": "https://im.showtv.com.tr/5/8232/ozgur-berber-500x500.png?v=1781716347",
+        "personSlug": "ozgur-berber",
+        "description": "برادر دفنه؛ جوانی خوش‌زبان که بزرگ شدن را عقب انداخته و دنبال موفقیت آسان است، تا وقتی اشتباه‌هایش به عزیزانش آسیب می‌زند.",
+        "source": "https://www.showtv.com.tr/oyuncu/ozgur-berber/8232"
+      }
+    ],
     "seasons": [
       {
         "number": 1,
@@ -2584,7 +3784,99 @@
       "website": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
       "episodes": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Serkan Çayoğlu",
+        "nameFa": "سرکان چای‌اوغلو",
+        "role": "Fatih Sultan Mehmed",
+        "roleFa": "سلطان محمد فاتح",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/sultan-mehmed-21753173-0-0-1199-1799.png",
+        "personSlug": "serkan-cayoglu",
+        "description": "سلطان سلطان‌ها و خاقان خاقان‌ها، کابوس امپراتوری بیزانس و فرماندهٔ پرافتخاری که استانبول را فتح کرد.",
+        "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/fatih-sultan-mehmed"
+      },
+      {
+        "name": "Hilmi Cem İntepe",
+        "nameFa": "حلمی جم اینتپه",
+        "role": "Has Murad Paşa",
+        "roleFa": "خاص مراد پاشا",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/has-murad-pasa-21753679-0-0-1199-1799.png",
+        "personSlug": "hilmi-cem-intepe",
+        "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/has-murad-pasa"
+      },
+      {
+        "name": "Hasan Denizyaran",
+        "nameFa": "حسن دنیزیاران",
+        "role": "Mirza Uğurlu",
+        "roleFa": "میرزا اوغورلو",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/karakter-karti-mehmed-fetihler-sultani-21753658-0-0-1199-1799.png",
+        "personSlug": "hasan-denizyaran",
+        "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/mirza-ugurlu"
+      },
+      {
+        "name": "Rüzgar Aksoy",
+        "nameFa": "روزگار آکسوی",
+        "role": "Uzun Hasan",
+        "roleFa": "اوزون حسن",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/uzun-hasan-21753650-0-0-1199-1799.png",
+        "personSlug": "ruzgar-aksoy",
+        "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/uzun-hasan"
+      },
+      {
+        "name": "Onur Yenidünya",
+        "nameFa": "اونور ینی‌دونیا",
+        "role": "Yatağan Ağa",
+        "roleFa": "یاتاغان آقا",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/yatagan-aga-21753646-0-0-1199-1799.png",
+        "personSlug": "onur-yenidunya",
+        "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/yatagan-aga"
+      },
+      {
+        "name": "Ömer Erkan Özhan",
+        "nameFa": "عمر ارکان اؤزهان",
+        "role": "Şehzade Cem",
+        "roleFa": "شاهزاده جم",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/sehzade-cem-21753645-0-0-1199-1799.png",
+        "personSlug": "omer-erkan-ozhan",
+        "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/sehzade-cem"
+      },
+      {
+        "name": "Berra Aydın",
+        "nameFa": "برا آیدین",
+        "role": "Gevherhan Sultan",
+        "roleFa": "گوهرخان سلطان",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/gevherhan-sultan-21753644-0-0-1199-1799.png",
+        "personSlug": "berra-aydin",
+        "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/gevherhan-sultan"
+      },
+      {
+        "name": "Ata Şimşek",
+        "nameFa": "آتا شیمشک",
+        "role": "Mirza Zeynel",
+        "roleFa": "میرزا زینل",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/mirza-zeynel-21753643-0-0-1199-1799.png",
+        "personSlug": "ata-simsek",
+        "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/mirza-zeynel"
+      },
+      {
+        "name": "Noyan Uzer",
+        "nameFa": "نویان اوزر",
+        "role": "Mirza Mesih",
+        "roleFa": "میرزا مسیح",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/mirza-mesih-21753642-0-0-1199-1799.png",
+        "personSlug": "noyan-uzer",
+        "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/mirza-mesih"
+      },
+      {
+        "name": "Diyar Okuyucu",
+        "nameFa": "دیار اوقویوجو",
+        "role": "Mirza Maksud",
+        "roleFa": "میرزا مقصود",
+        "image": "https://cdn-i.pr.trt.com.tr/trt1/mirza-maksud-21753641-0-0-1199-1799.png",
+        "personSlug": "diyar-okuyucu",
+        "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/mirza-maksud"
+      }
+    ],
     "seasons": [
       {
         "number": 4,
@@ -2677,7 +3969,158 @@
       "website": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi",
       "episodes": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "İlhan Şen",
+        "nameFa": "ایلهان شن",
+        "role": "Serhat",
+        "roleFa": "سرحات",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-b36df3ed-9beb-4ba8-9764-227f2be4e126.jpg",
+        "personSlug": "ilhan-sen",
+        "description": "نامزد جانشینی یکی از عشیره‌های ریشه‌دار اورفا و جراحی موفق در استانبول که برای صلح با کوردآغلی‌ها از کودکی با ییلدیز نامزد شده؛ پنهانی با ملک ازدواج کرده و با بیماری پدرش به اورفا برمی‌گردد.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1491/serhat"
+      },
+      {
+        "name": "Aybüke Pusat",
+        "nameFa": "آیبوکه پوسات",
+        "role": "Melek",
+        "roleFa": "ملک",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-1492-act-image-fe430f27-0a62-45e1-99bc-e06cf95a9373.jpg",
+        "personSlug": "aybuke-pusat",
+        "description": "زن جوان مصممی با شهودی قوی که تصویر کودکی را که در خواب دیده می‌کشد و با دیدن سرحات می‌فهمد آن کودک اوست؛ در دنیای زیر سایهٔ سنت‌ها، مصمم است سرنوشت خودش را بنویسد.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1492/melek"
+      },
+      {
+        "name": "Biran Damla Yılmaz",
+        "nameFa": "بیران داملا ییلماز",
+        "role": "Yıldız",
+        "roleFa": "ییلدیز",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-9507dd37-26d3-4c52-8c0a-986ebb1566ab.jpg",
+        "personSlug": "biran-damla-yilmaz",
+        "description": "از روز تولدش قرار ازدواجش با سرحات میان دو خانواده بسته شده؛ آرزو دارد مثل او پزشک شود و برای کنار زدن ملک به هر کاری آماده است.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1493/yildiz"
+      },
+      {
+        "name": "Veda Yurtsever",
+        "nameFa": "ودا یورت‌سور",
+        "role": "Sultan",
+        "roleFa": "سلطان",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-803286a0-89b6-4565-a890-c7b300422a4a.jpg",
+        "personSlug": "veda-yurtsever",
+        "description": "بانوی خاندان ییل‌دوران؛ سخت پایبند سنت‌ها، مقتدر و قوی که برای حفظ آبروی خانواده از سخت‌ترین تصمیم‌ها ابایی ندارد.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1503/sultan"
+      },
+      {
+        "name": "Hakan Salınmış",
+        "nameFa": "هاکان سالینمیش",
+        "role": "Bekir Ağa",
+        "roleFa": "بکیر آقا",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-a564d3f4-332e-4fba-9915-a925c8b37699.jpg",
+        "personSlug": "hakan-salinmis",
+        "description": "رئیس خاندان ییل‌دوران؛ سنتی و تندخو که ازدواج سرحات با ییلدیز را برای وفاداری به عهدی قدیمی لازم می‌داند و تنها وارث را سرحات می‌بیند.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1502/bekir-aga"
+      },
+      {
+        "name": "Onur Bilge",
+        "nameFa": "اونور بیلگه",
+        "role": "Akif",
+        "roleFa": "عاکف",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-493a8088-28e8-49ee-a068-fd25ebd27967.jpg",
+        "personSlug": "onur-bilge",
+        "description": "عضو جاه‌طلب و حسابگر خاندان ییل‌دوران که آرزوی آقا شدن دارد و برای افزایش قدرتش از فریب هیچ‌کس ابایی ندارد.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1494/akif"
+      },
+      {
+        "name": "Sezin Bozacı",
+        "nameFa": "سزین بوزاجی",
+        "role": "Sevde",
+        "roleFa": "سوده",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-51729ebe-10ef-41f8-9c45-bf6fcbff0298.jpg",
+        "personSlug": "sezin-bozaci",
+        "description": "همه «سودهٔ دیوانه» صدایش می‌کنند، اما مثل ملک شهودهای قوی دارد و رازهایی که در خورجینش نگه داشته، سرنوشت همه را تغییر می‌دهد.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1495/sevde"
+      },
+      {
+        "name": "Mazlum Çimen",
+        "nameFa": "مظلوم چیمن",
+        "role": "Ziyan Ağa",
+        "roleFa": "زیان آقا",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-8202f262-8ac5-4e4f-8dd6-41f57b78f7f8.jpg",
+        "personSlug": "mazlum-cimen",
+        "description": "مسن‌ترین و قدرتمندترین چهرهٔ خاندان کوردآغلی که ترسش به اندازهٔ قدرتش بزرگ است و برای پنهان ماندن رازهای گذشته هر راهی را روا می‌داند.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1496/ziyan-aga"
+      },
+      {
+        "name": "Mert Doğan",
+        "nameFa": "مرت دوغان",
+        "role": "Aşır",
+        "roleFa": "عاشیر",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-28e19c0e-8d3f-40dd-8c25-920786d04846.jpg",
+        "personSlug": "mert-dogan",
+        "description": "چهرهٔ تند و خشمگین کوردآغلی‌ها که بی‌فکر عمل می‌کند و با واکنش‌های آنی ترس می‌پراکند.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1497/asir"
+      },
+      {
+        "name": "Ümit Çırak",
+        "nameFa": "اومیت چیراق",
+        "role": "Hilmi",
+        "roleFa": "حلمی",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-3097ae49-a8b7-4aa5-ad4e-4f7c4d462aed.jpg",
+        "personSlug": "umit-cirak",
+        "description": "فرماندار بازنشسته‌ای که مدتی در اورفا خدمت کرده و همیشه احترام برانگیخته، اما ضعف‌های پنهان گذشته‌اش می‌تواند زندگی خودش و ملک را تحت تأثیر بگذارد.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1498/hilmi"
+      },
+      {
+        "name": "Benian Dönmez",
+        "nameFa": "بنیان دؤنمز",
+        "role": "Nergis",
+        "roleFa": "نرگس",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-02cb0b88-8cb2-4ec5-af4c-db6cf538888e.jpg",
+        "personSlug": "benian-donmez",
+        "description": "پرستار بازنشسته‌ای که سال‌ها در اورفا کار کرده؛ مهربان و محکم و مایهٔ اطمینان در زندگی ملک.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1499/nergis"
+      },
+      {
+        "name": "Beril Kayar",
+        "nameFa": "بریل کایار",
+        "role": "Nida",
+        "roleFa": "ندا",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-13839781-0f74-4f7c-babd-2e6dcb7c5d4c.jpg",
+        "personSlug": "beril-kayar",
+        "description": "همسر عاشیر که در جوانی با عاکف نزدیک بوده؛ در عمارت دستیار مریم به نظر می‌رسد، اما به‌تدریج محرم راز و پشتیبان عاکف می‌شود.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1500/nida"
+      },
+      {
+        "name": "Ayşegül Cengiz",
+        "nameFa": "عایشه‌گل جنگیز",
+        "role": "Meryem",
+        "roleFa": "مریم",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-b8c83de0-0268-49db-93fc-3f5a62ac3bb6.jpg",
+        "personSlug": "aysegul-cengiz",
+        "description": "بانوی خاندان کوردآغلی که با نقشه‌های پنهانی از منافع خانواده محافظت می‌کند و بزرگ‌ترین آرزویش این است که دخترش ییلدیز بانوی عمارت ییل‌دوران شود.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1501/meryem"
+      },
+      {
+        "name": "Ozan Çelik",
+        "nameFa": "اوزان چلیک",
+        "role": "Dalyan",
+        "roleFa": "دالیان",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-f71fd92e-0d81-4bf4-a644-ba6253741acd.jpg",
+        "personSlug": "ozan-celik",
+        "description": "پسرعموی عاشیر و نامزد مستقل نمایندگی مجلس؛ سیاستمداری جاه‌طلب و وابسته به زیان آقا که عشقی یک‌طرفه به ییلدیز دارد.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1504/dalyan"
+      },
+      {
+        "name": "İnci Sefa Cingöz",
+        "nameFa": "اینجی صفا جینگؤز",
+        "role": "Nurgül",
+        "roleFa": "نورگل",
+        "image": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-3ad1346e-2cea-43ef-b341-f762b762c60f.jpg",
+        "personSlug": "inci-sefa-cingoz",
+        "description": "همسر عاکف که از نداشتن فرزند احساس کمبود می‌کند؛ مثل عاکف جاه‌طلب و تشنهٔ قدرت است و بزرگ‌ترین پشتیبان او در راه آقا شدن خواهد بود.",
+        "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1505/nurgul"
+      }
+    ],
     "seasons": [
       {
         "number": 1,

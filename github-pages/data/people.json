@@ -685,5 +685,863 @@
     "nameFa": "مروه نور بنگی",
     "photo": "https://image.kanald.com.tr/i/kanald/100/143x204/6911cb4f9974e8ffe8aafafa.jpg",
     "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/merve-nur-bengi"
+  },
+  "ayca-bingol": {
+    "name": "Ayça Bingöl",
+    "nameFa": "آیچا بینگؤل",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788776598109.jpg",
+    "source": "https://www.atv.com.tr/ask-ve-taht/kadro/ummuhan-hatun"
+  },
+  "cem-bender": {
+    "name": "Cem Bender",
+    "nameFa": "جم بندر",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788777083376.jpg",
+    "source": "https://www.atv.com.tr/ask-ve-taht/kadro/ayaba"
+  },
+  "halil-ibrahim-ceyhan": {
+    "name": "Halil İbrahim Ceyhan",
+    "nameFa": "خلیل ابراهیم جیحان",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788777036528.jpg",
+    "source": "https://www.atv.com.tr/ask-ve-taht/kadro/andreas"
+  },
+  "ceren-benderlioglu": {
+    "name": "Ceren Benderlioğlu",
+    "nameFa": "جرن بندرلی‌اوغلو",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788777295179.jpg",
+    "source": "https://www.atv.com.tr/ask-ve-taht/kadro/nurcihan"
+  },
+  "emrah-altintoprak": {
+    "name": "Emrah Altıntoprak",
+    "nameFa": "امره آلتین‌توپراک",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788777612113.jpg",
+    "source": "https://www.atv.com.tr/ask-ve-taht/kadro/kutluboga"
+  },
+  "murat-serezli": {
+    "name": "Murat Serezli",
+    "nameFa": "مورات سرزلی",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/07/204x204/1788778117534.jpg",
+    "source": "https://www.atv.com.tr/ask-ve-taht/kadro/kir-vard"
+  },
+  "sinan-tuzcu": {
+    "name": "Sinan Tuzcu",
+    "nameFa": "سینان توزجو",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528874274.jpg",
+    "source": "https://www.atv.com.tr/abi/kadro/sinan"
+  },
+  "diren-polatogullari": {
+    "name": "Diren Polatoğulları",
+    "nameFa": "دیرن پولات‌اوغوللاری",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528959256.jpg",
+    "source": "https://www.atv.com.tr/abi/kadro/behram"
+  },
+  "mustafa-ustundag": {
+    "name": "Mustafa Üstündağ",
+    "nameFa": "مصطفی اوستوندا",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528699217.jpg",
+    "source": "https://www.atv.com.tr/abi/kadro/saruhan-nadiroglu"
+  },
+  "toprak-saglam": {
+    "name": "Toprak Sağlam",
+    "nameFa": "توپراک ساغلام",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788530100091.jpg",
+    "source": "https://www.atv.com.tr/abi/kadro/altin"
+  },
+  "saadet-isil-aksoy": {
+    "name": "Saadet Işıl Aksoy",
+    "nameFa": "سعادت ایشیل آکسوی",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788528626528.jpg",
+    "source": "https://www.atv.com.tr/abi/kadro/ruya-nadiroglu"
+  },
+  "tugce-acikgoz": {
+    "name": "Tuğçe Açıkgöz",
+    "nameFa": "توغچه آچیق‌گؤز",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788531876819.jpg",
+    "source": "https://www.atv.com.tr/abi/kadro/gulusan"
+  },
+  "mert-demirci": {
+    "name": "Mert Demirci",
+    "nameFa": "مرت دمیرجی",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/04/204x204/1788530041043.jpg",
+    "source": "https://www.atv.com.tr/abi/kadro/sefa"
+  },
+  "beyza-gumulcine": {
+    "name": "Beyza Gümülcine",
+    "nameFa": "بیضا گومول‌جینه",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/15/204x204/1789485423515.png",
+    "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/kadro/leyla-breger"
+  },
+  "devrim-yakut": {
+    "name": "Devrim Yakut",
+    "nameFa": "دوریم یاقوت",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/15/204x204/1789486343369.jpg",
+    "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/kadro/devran-atahanli"
+  },
+  "hilal-anay": {
+    "name": "Hilal Anay",
+    "nameFa": "هلال آنای",
+    "photo": "https://iatv.tmgrup.com.tr/2026/09/15/204x204/1789486663599.jpg",
+    "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/kadro/hanzade-atahanli"
+  },
+  "mehmet-ozgur": {
+    "name": "Mehmet Özgür",
+    "nameFa": "محمد اؤزگور",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321185216.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/esved-hozan"
+  },
+  "zeyno-eracar": {
+    "name": "Zeyno Eracar",
+    "nameFa": "زینو اراجار",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321285279.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/behiye-hozan"
+  },
+  "ulviye-karaca": {
+    "name": "Ulviye Karaca",
+    "nameFa": "اولویه قراجا",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321528449.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/hafsa-mercandag"
+  },
+  "tulin-ozen": {
+    "name": "Tülin Özen",
+    "nameFa": "تولین اؤزن",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321829959.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/suna-mercandag"
+  },
+  "halil-babur": {
+    "name": "Halil Babür",
+    "nameFa": "خلیل بابور",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321664822.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/selcuk-mercandag"
+  },
+  "haki-bicici": {
+    "name": "Haki Biçici",
+    "nameFa": "حاکی بیچیجی",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321922469.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/riza"
+  },
+  "can-bartu-arslan": {
+    "name": "Can Bartu Arslan",
+    "nameFa": "جان بارتو آرسلان",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322750691.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/mert-demiray"
+  },
+  "zehra-kelleci": {
+    "name": "Zehra Kelleci",
+    "nameFa": "زهرا کلجی",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322422165.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/gulcan-hozan"
+  },
+  "merve-seyma-zengin": {
+    "name": "Merve Şeyma Zengin",
+    "nameFa": "مروه شیما زنگین",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322324805.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/eslem-hozan"
+  },
+  "selin-koseoglu": {
+    "name": "Selin Köseoğlu",
+    "nameFa": "سلین کؤسه‌اوغلو",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322582573.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/hulya-mercandag"
+  },
+  "berna-cindil": {
+    "name": "Berna Cındıl",
+    "nameFa": "برنا جیندیل",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322465708.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/defne-hozan"
+  },
+  "mehmet-avci": {
+    "name": "Mehmet Avcı",
+    "nameFa": "محمد آوجی",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787322101050.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/cahit-mercandag"
+  },
+  "engin-yuksel": {
+    "name": "Engin Yüksel",
+    "nameFa": "انگین یوکسل",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321761898.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/seyit"
+  },
+  "taha-baran-ozbek": {
+    "name": "Taha Baran Özbek",
+    "nameFa": "طاها باران اؤزبک",
+    "photo": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321579898.jpg",
+    "source": "https://www.atv.com.tr/mercan-kosk/kadro/poyraz-mercandag"
+  },
+  "feyyaz-duman": {
+    "name": "Feyyaz Duman",
+    "nameFa": "فیاض دومان",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781168793666.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/tarik-dirlik"
+  },
+  "nehir-erdogan": {
+    "name": "Nehir Erdoğan",
+    "nameFa": "نهیر اردوغان",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781168969247.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/zehra-cankaya"
+  },
+  "ilker-aksum": {
+    "name": "İlker Aksum",
+    "nameFa": "ایلکر آکسوم",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781169144722.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/bayram-cankaya"
+  },
+  "rahimcan-kapkap": {
+    "name": "Rahimcan Kapkap",
+    "nameFa": "رحیم‌جان کاپ‌کاپ",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781174963722.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/emir-cankaya"
+  },
+  "elcin-zehra-irem": {
+    "name": "Elçin Zehra İrem",
+    "nameFa": "الچین زهرا ایرم",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781169708526.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/naz-baser"
+  },
+  "kaan-cakir": {
+    "name": "Kaan Çakır",
+    "nameFa": "کاان چاکیر",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781169974778.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/galip-sultan"
+  },
+  "yusra-geyik": {
+    "name": "Yüsra Geyik",
+    "nameFa": "یسرا گییک",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781170130749.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/nihal-cankaya"
+  },
+  "oyku-gurman": {
+    "name": "Öykü Gürman",
+    "nameFa": "اؤیکو گورمان",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781170378736.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/fahriye-toprak"
+  },
+  "berk-ali-catal": {
+    "name": "Berk Ali Çatal",
+    "nameFa": "برک علی چاتال",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781174551326.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/uzay-sultan"
+  },
+  "cem-sokut": {
+    "name": "Cem Söküt",
+    "nameFa": "جم سؤکوت",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781174823927.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/seker-ibo-ibrahim-koc"
+  },
+  "sacide-tasaner": {
+    "name": "Sacide Taşaner",
+    "nameFa": "ساجیده تاشانر",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781177812406.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/pamuk-cankaya"
+  },
+  "sena-mia-kalip": {
+    "name": "Sena Mia Kalıp",
+    "nameFa": "سنا میا کالیپ",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781178077973.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/melek-toprak"
+  },
+  "dogancan-sarikaya": {
+    "name": "Doğancan Sarıkaya",
+    "nameFa": "دوغان‌جان ساری‌کایا",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781178473951.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/hasan-koru"
+  },
+  "kaan-akkaya": {
+    "name": "Kaan Akkaya",
+    "nameFa": "کاان آق‌کایا",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781179837142.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/sado-sadullah-yalcin"
+  },
+  "efe-tasdelen": {
+    "name": "Efe Taşdelen",
+    "nameFa": "افه تاش‌دلن",
+    "photo": "https://iatv.tmgrup.com.tr/2026/06/11/204x204/1781180675832.jpg",
+    "source": "https://www.atv.com.tr/alti-ustu-istanbul/kadro/mert-aksoy"
+  },
+  "seray-kaya": {
+    "name": "Seray Kaya",
+    "nameFa": "سرای کایا",
+    "photo": "https://im.showtv.com.tr/5/8244/seray-kaya-500x500.png?v=1789645216",
+    "source": "https://www.showtv.com.tr/oyuncu/seray-kaya/8244"
+  },
+  "erkan-avci": {
+    "name": "Erkan Avcı",
+    "nameFa": "ارکان آوجی",
+    "photo": "https://im.showtv.com.tr/5/8245/erkan-avci-500x500.png?v=1789645271",
+    "source": "https://www.showtv.com.tr/oyuncu/erkan-avci/8245"
+  },
+  "ozge-borak": {
+    "name": "Özge Borak",
+    "nameFa": "اؤزگه بوراک",
+    "photo": "https://im.showtv.com.tr/5/8246/ozge-borak-500x500.png?v=1789645370",
+    "source": "https://www.showtv.com.tr/oyuncu/ozge-borak/8246"
+  },
+  "emre-dinler": {
+    "name": "Emre Dinler",
+    "nameFa": "امره دینلر",
+    "photo": "https://im.showtv.com.tr/5/8247/emre-dinler-500x500.png?v=1789645431",
+    "source": "https://www.showtv.com.tr/oyuncu/emre-dinler/8247"
+  },
+  "servet-pandur": {
+    "name": "Servet Pandur",
+    "nameFa": "ثروت پاندور",
+    "photo": "https://im.showtv.com.tr/5/8248/servet-pandur-500x500.png?v=1789645495",
+    "source": "https://www.showtv.com.tr/oyuncu/servet-pandur/8248"
+  },
+  "murat-aygen": {
+    "name": "Murat Aygen",
+    "nameFa": "مورات آیگن",
+    "photo": "https://im.showtv.com.tr/5/8249/murat-aygen-500x500.png?v=1789645547",
+    "source": "https://www.showtv.com.tr/oyuncu/murat-aygen/8249"
+  },
+  "yesim-gul": {
+    "name": "Yeşim Gül",
+    "nameFa": "یشیم گل",
+    "photo": "https://im.showtv.com.tr/5/8237/yesim-gul-500x500.png?v=1788176716",
+    "source": "https://www.showtv.com.tr/oyuncu/yesim-gul/8237"
+  },
+  "ismail-hakki": {
+    "name": "İsmail Hakkı",
+    "nameFa": "اسماعیل حقی",
+    "photo": "https://im.showtv.com.tr/5/8238/ismail-hakki-500x500.png?v=1788426266",
+    "source": "https://www.showtv.com.tr/oyuncu/ismail-hakki/8238"
+  },
+  "hande-canpolat": {
+    "name": "Hande Canpolat",
+    "nameFa": "هانده جان‌پولات",
+    "photo": "https://im.showtv.com.tr/5/8239/hande-canpolat-500x500.png?v=1788444870",
+    "source": "https://www.showtv.com.tr/oyuncu/hande-canpolat/8239"
+  },
+  "beyza-karabacak": {
+    "name": "Beyza Karabacak",
+    "nameFa": "بیضا قره‌باجاک",
+    "photo": "https://im.showtv.com.tr/5/8240/beyza-karabacak-500x500.png?v=1788177057",
+    "source": "https://www.showtv.com.tr/oyuncu/beyza-karabacak/8240"
+  },
+  "ayca-aysin-turan": {
+    "name": "Ayça Ayşin Turan",
+    "nameFa": "آیچا آیشین توران",
+    "photo": "https://im.showtv.com.tr/5/8219/ayca-aysin-turan-500x500.png?v=1781679788",
+    "source": "https://www.showtv.com.tr/oyuncu/ayca-aysin-turan/8219"
+  },
+  "ekin-koc": {
+    "name": "Ekin Koç",
+    "nameFa": "اکین کوچ",
+    "photo": "https://im.showtv.com.tr/5/8220/ekin-koc-500x500.png?v=1781679432",
+    "source": "https://www.showtv.com.tr/oyuncu/ekin-koc/8220"
+  },
+  "feyyaz-serifoglu": {
+    "name": "Feyyaz Şerifoğlu",
+    "nameFa": "فیاض شریف‌اوغلو",
+    "photo": "https://im.showtv.com.tr/5/8221/feyyaz-serifoglu-500x500.png?v=1781679498",
+    "source": "https://www.showtv.com.tr/oyuncu/feyyaz-serifoglu/8221"
+  },
+  "cansel-elcin": {
+    "name": "Cansel Elçin",
+    "nameFa": "جانسل الچین",
+    "photo": "https://im.showtv.com.tr/5/8222/cansel-elcin-500x500.png?v=1782716661",
+    "source": "https://www.showtv.com.tr/oyuncu/cansel-elcin/8222"
+  },
+  "evrim-dogan": {
+    "name": "Evrim Doğan",
+    "nameFa": "اوریم دوغان",
+    "photo": "https://im.showtv.com.tr/5/8223/evrim-dogan-500x500.png?v=1781639379",
+    "source": "https://www.showtv.com.tr/oyuncu/evrim-dogan/8223"
+  },
+  "hayal-koseoglu": {
+    "name": "Hayal Köseoğlu",
+    "nameFa": "هیال کؤسه‌اوغلو",
+    "photo": "https://im.showtv.com.tr/5/8224/hayal-koseoglu-500x500.png?v=1782716632",
+    "source": "https://www.showtv.com.tr/oyuncu/hayal-koseoglu/8224"
+  },
+  "muge-bayramoglu": {
+    "name": "Müge Bayramoğlu",
+    "nameFa": "موگه بایرام‌اوغلو",
+    "photo": "https://im.showtv.com.tr/5/8225/muge-bayramoglu-500x500.png?v=1781639520",
+    "source": "https://www.showtv.com.tr/oyuncu/muge-bayramoglu/8225"
+  },
+  "ege-erkal": {
+    "name": "Ege Erkal",
+    "nameFa": "اگه ارکال",
+    "photo": "https://im.showtv.com.tr/5/8226/ege-erkal-500x500.png?v=1781639579",
+    "source": "https://www.showtv.com.tr/oyuncu/ege-erkal/8226"
+  },
+  "bahtiyar-memili": {
+    "name": "Bahtiyar Memili",
+    "nameFa": "بختیار ممیلی",
+    "photo": "https://im.showtv.com.tr/5/8227/bahtiyar-memili-500x500.png?v=1781701780",
+    "source": "https://www.showtv.com.tr/oyuncu/bahtiyar-memili/8227"
+  },
+  "melis-minkari": {
+    "name": "Melis Minkari",
+    "nameFa": "ملیس مینکاری",
+    "photo": "https://im.showtv.com.tr/5/8228/melis-minkari-500x500.png?v=1781639700",
+    "source": "https://www.showtv.com.tr/oyuncu/melis-minkari/8228"
+  },
+  "selen-domac": {
+    "name": "Selen Domaç",
+    "nameFa": "سلن دوماچ",
+    "photo": "https://im.showtv.com.tr/5/8229/selen-domac-500x500.png?v=1781639771",
+    "source": "https://www.showtv.com.tr/oyuncu/selen-domac/8229"
+  },
+  "melisa-berberoglu": {
+    "name": "Melisa Berberoğlu",
+    "nameFa": "ملیسا بربراوغلو",
+    "photo": "https://im.showtv.com.tr/5/8230/melisa-berberoglu-500x500.png?v=1781639840",
+    "source": "https://www.showtv.com.tr/oyuncu/melisa-berberoglu/8230"
+  },
+  "tugay-erdogan": {
+    "name": "Tugay Erdoğan",
+    "nameFa": "توغای اردوغان",
+    "photo": "https://im.showtv.com.tr/5/8231/tugay-erdogan-500x500.png?v=1785143700",
+    "source": "https://www.showtv.com.tr/oyuncu/tugay-erdogan/8231"
+  },
+  "ozgur-berber": {
+    "name": "Özgür Berber",
+    "nameFa": "اؤزگور بربر",
+    "photo": "https://im.showtv.com.tr/5/8232/ozgur-berber-500x500.png?v=1781716347",
+    "source": "https://www.showtv.com.tr/oyuncu/ozgur-berber/8232"
+  },
+  "tolga-saritas": {
+    "name": "Tolga Sarıtaş",
+    "nameFa": "تولگا ساری‌تاش",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-df177814-2be0-490f-9ff9-b9146041a6c4png-21288838.png",
+    "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/altay"
+  },
+  "tuvana-turkay": {
+    "name": "Tuvana Türkay",
+    "nameFa": "تووانا تورکای",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-2b7e9070-b38e-41f2-8529-b9ea633ae060png-21288839.png",
+    "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/kate"
+  },
+  "yunus-emre-yildirimer": {
+    "name": "Yunus Emre Yıldırımer",
+    "nameFa": "یونس امره ییلدیریم‌ار",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-577c9449-31f0-41e5-a95f-f878a08d9d6bpng-21288837.png",
+    "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/korkut"
+  },
+  "serdar-yegin": {
+    "name": "Serdar Yeğin",
+    "nameFa": "سردار یگین",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-a162ec48-a648-43e8-ab55-d5589f39e959png-21289071.png",
+    "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/uzay"
+  },
+  "adnan-biricik": {
+    "name": "Adnan Biricik",
+    "nameFa": "عدنان بیریجیک",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-b0a0d8f7-9637-4ae9-bf57-26343e6242a6png-21288849.png",
+    "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/akif"
+  },
+  "murat-han": {
+    "name": "Murat Han",
+    "nameFa": "مورات هان",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-f0dee33a-0839-4aeb-a767-0f5ede1cefb8png-21288844.png",
+    "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/hamdi"
+  },
+  "melisa-akman": {
+    "name": "Melisa Akman",
+    "nameFa": "ملیسا آکمان",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-56aa3aa7-d598-49c3-b484-988a91297595png-21288841.png",
+    "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/nazli"
+  },
+  "ozlem-maden": {
+    "name": "Özlem Maden",
+    "nameFa": "اؤزلم مادن",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-d79b636c-9ce4-4084-9c66-35cf4bdb1d12png-21288846.png",
+    "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/guniz"
+  },
+  "gizem-gunes": {
+    "name": "Gizem Güneş",
+    "nameFa": "گیزم گونش",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-1c7ea21a-bb61-4e54-9e6e-310e3504dd49png-21288850.png",
+    "source": "https://www.trt1.com.tr/diziler/teskilat/oyuncu/selen"
+  },
+  "serkan-cayoglu": {
+    "name": "Serkan Çayoğlu",
+    "nameFa": "سرکان چای‌اوغلو",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/sultan-mehmed-21753173-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/fatih-sultan-mehmed"
+  },
+  "hilmi-cem-intepe": {
+    "name": "Hilmi Cem İntepe",
+    "nameFa": "حلمی جم اینتپه",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/has-murad-pasa-21753679-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/has-murad-pasa"
+  },
+  "hasan-denizyaran": {
+    "name": "Hasan Denizyaran",
+    "nameFa": "حسن دنیزیاران",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/karakter-karti-mehmed-fetihler-sultani-21753658-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/mirza-ugurlu"
+  },
+  "ruzgar-aksoy": {
+    "name": "Rüzgar Aksoy",
+    "nameFa": "روزگار آکسوی",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/uzun-hasan-21753650-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/uzun-hasan"
+  },
+  "onur-yenidunya": {
+    "name": "Onur Yenidünya",
+    "nameFa": "اونور ینی‌دونیا",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/yatagan-aga-21753646-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/yatagan-aga"
+  },
+  "omer-erkan-ozhan": {
+    "name": "Ömer Erkan Özhan",
+    "nameFa": "عمر ارکان اؤزهان",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/sehzade-cem-21753645-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/sehzade-cem"
+  },
+  "berra-aydin": {
+    "name": "Berra Aydın",
+    "nameFa": "برا آیدین",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/gevherhan-sultan-21753644-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/gevherhan-sultan"
+  },
+  "ata-simsek": {
+    "name": "Ata Şimşek",
+    "nameFa": "آتا شیمشک",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/mirza-zeynel-21753643-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/mirza-zeynel"
+  },
+  "noyan-uzer": {
+    "name": "Noyan Uzer",
+    "nameFa": "نویان اوزر",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/mirza-mesih-21753642-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/mirza-mesih"
+  },
+  "diyar-okuyucu": {
+    "name": "Diyar Okuyucu",
+    "nameFa": "دیار اوقویوجو",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/mirza-maksud-21753641-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/mirza-maksud"
+  },
+  "yavuz-sepetci": {
+    "name": "Yavuz Sepetçi",
+    "nameFa": "یاووز سپت‌چی",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-bb3d5dc3-690d-4407-a367-da83bd526c5cjpg-21289216.jpeg",
+    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/ciritci-abdullah"
+  },
+  "erdal-cindoruk": {
+    "name": "Erdal Cindoruk",
+    "nameFa": "اردال جین‌دوروک",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-2e4fff1e-e085-47b3-ae5c-dd21a3d303ffjpg-21289116.jpeg",
+    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/agitci-huseyin"
+  },
+  "eser-eyuboglu": {
+    "name": "Eser Eyüboğlu",
+    "nameFa": "اسر ایوب‌اوغلو",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-5198603b-f9b4-4cf1-ab3b-128b25e84133jpg-21289111.jpeg",
+    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/selami"
+  },
+  "ferdi-sancar": {
+    "name": "Ferdi Sancar",
+    "nameFa": "فردی سانجار",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-8712698d-447b-4afc-8e29-9855c61962f9jpg-21289113.jpeg",
+    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/sefer"
+  },
+  "nazli-pinar-kaya": {
+    "name": "Nazlı Pınar Kaya",
+    "nameFa": "نازلی پینار کایا",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-c325e9a8-dc50-4d81-a41f-71b927a42ce0jpg-21289118.jpeg",
+    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/cemile"
+  },
+  "hazal-caglar": {
+    "name": "Hazal Çağlar",
+    "nameFa": "هزال چاغلار",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-a071df5c-94b8-4495-85be-d0e052650bf1jpg-21289121.jpeg",
+    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/asuman"
+  },
+  "nuri-gokasan": {
+    "name": "Nuri Gökaşan",
+    "nameFa": "نوری گؤک‌آشان",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ftp-trt1-trt1-public-dm_upload-modul11-05226052-9d26-4e1d-9236-941c3cc73baajpg-21289112.jpeg",
+    "source": "https://www.trt1.com.tr/diziler/gonul-dagi/oyuncu/disci-musa"
+  },
+  "gozde-okur": {
+    "name": "Gözde Okur",
+    "nameFa": "گؤزده اوکور",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/saadet-gozde-okur-21749715-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/saadet"
+  },
+  "anil-celik": {
+    "name": "Anıl Çelik",
+    "nameFa": "آنیل چلیک",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/servet-anil-celik-21749717-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/servet"
+  },
+  "sera-tokdemir": {
+    "name": "Sera Tokdemir",
+    "nameFa": "سرا توک‌دمیر",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/ayse-sera-tokdemir-21749718-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/ayse"
+  },
+  "alihan-demirbilek": {
+    "name": "Alihan Demirbilek",
+    "nameFa": "علی‌خان دمیربیلک",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/diyar-alihan-demirbilek-21749719-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/diyar"
+  },
+  "berk-bakioglu": {
+    "name": "Berk Bakioğlu",
+    "nameFa": "برک باقی‌اوغلو",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/sinan-berk-bakioglu-21749721-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/sinan"
+  },
+  "ferida-bag": {
+    "name": "Ferida Bağ",
+    "nameFa": "فریده باغ",
+    "photo": "https://cdn-i.pr.trt.com.tr/trt1/bahar-ferida-bag-21749720-0-0-1199-1799.png",
+    "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/oyuncu/bahar"
+  },
+  "melisa-duru-unal": {
+    "name": "Melisa Duru Ünal",
+    "nameFa": "ملیسا دورو اونال",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Anne-Yarisi/Oyuncular/Anne-Yarisi-act-image-11eedf8d-f54a-4eef-85fe-8edb85b66818.jpg",
+    "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular/1565/ege-altay"
+  },
+  "selen-ucer": {
+    "name": "Selen Uçer",
+    "nameFa": "سلن اوچر",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Anne-Yarisi/Oyuncular/Anne-Yarisi-act-image-c90c27e8-b717-498d-a6de-287a45cd1a2a.jpg",
+    "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular/1566/altin-bayindir"
+  },
+  "fatih-guhan": {
+    "name": "Fatih Gühan",
+    "nameFa": "فاتح گوهان",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Anne-Yarisi/Oyuncular/Anne-Yarisi-act-image-d3ee0331-3039-4ca3-bc77-e68fa95b6479.jpg",
+    "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular/1567/kadir-bayindir"
+  },
+  "cansu-firinci": {
+    "name": "Cansu Fırıncı",
+    "nameFa": "جانسو فیرینجی",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Anne-Yarisi/Oyuncular/Anne-Yarisi-act-image-a46f29cd-1bd5-4781-9978-c427874f7f53.jpg",
+    "source": "https://www.nowtv.com.tr/Anne-Yarisi/oyuncular/1568/asim-kinik"
+  },
+  "enes-kocak": {
+    "name": "Enes Koçak",
+    "nameFa": "انس کوچاک",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346707_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1572/mete-ucar"
+  },
+  "gulcin-kultur-sahin": {
+    "name": "Gülçin Kültür Şahin",
+    "nameFa": "گلچین کولتور شاهین",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346719_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1573/gulsum-karaca"
+  },
+  "ibrahim-selim": {
+    "name": "İbrahim Selim",
+    "nameFa": "ابراهیم سلیم",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346724_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1574/halil-ibrahim-eren"
+  },
+  "zerrin-sumer": {
+    "name": "Zerrin Sümer",
+    "nameFa": "زرین سومر",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346732_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1575/muzeyyen-ucar"
+  },
+  "pinar-caglar-gencturk": {
+    "name": "Pınar Çağlar Gençtürk",
+    "nameFa": "پینار چاغلار گنچ‌تورک",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346740_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1576/yildiz-aydin"
+  },
+  "sude-zulal-guler": {
+    "name": "Sude Zülal Güler",
+    "nameFa": "سوده زلال گولر",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346747_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1577/ipek-arikan"
+  },
+  "cemre-arda": {
+    "name": "Cemre Arda",
+    "nameFa": "جمره آردا",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346754_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1578/nazli-ucar"
+  },
+  "asilhan-kursun": {
+    "name": "Asilhan Kurşun",
+    "nameFa": "اصیل‌خان کورشون",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346761_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1579/cuneyt-ucar"
+  },
+  "mert-carim": {
+    "name": "Mert Carim",
+    "nameFa": "مرت جاریم",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346768_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1580/sahin-karaca"
+  },
+  "aydan-kaya": {
+    "name": "Aydan Kaya",
+    "nameFa": "آیدان کایا",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346774_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1581/safiye-atalan"
+  },
+  "melis-girsen": {
+    "name": "Melis Girşen",
+    "nameFa": "ملیس گیرشن",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346782_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1582/zeynep-karaca"
+  },
+  "aybars-caliskan": {
+    "name": "Aybars Çalışkan",
+    "nameFa": "آیبارس چالیشکان",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Omur-Usta/Oyuncular/Omur-Usta-1790346788_picture.jpg",
+    "source": "https://www.nowtv.com.tr/Omur-Usta/oyuncular/1583/alis-ucar"
+  },
+  "sumeyye-aydogan": {
+    "name": "Sümeyye Aydoğan",
+    "nameFa": "سمیه آیدوغان",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-2e520f07-1ab4-478d-8fe6-8b9956300b2a.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1541/sultan-hanoglu"
+  },
+  "mehmet-yilmaz-ak": {
+    "name": "Mehmet Yılmaz Ak",
+    "nameFa": "محمد ییلماز آک",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-a11af346-789d-4ea9-9439-b37a8c2fb9a2.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1542/yilmaz-dogan"
+  },
+  "burak-sevinc": {
+    "name": "Burak Sevinç",
+    "nameFa": "بوراک سوینچ",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-28463df3-77a4-4a14-b041-9fca6baf8b19.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1543/merdan-hanoglu"
+  },
+  "ulku-hilal-ciftci": {
+    "name": "Ülkü Hilal Çiftçi",
+    "nameFa": "اولکو هلال چیفت‌چی",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-7841d3a7-03ff-492b-a393-f9225a219450.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1544/melek-aslan"
+  },
+  "ekin-mert-daymaz": {
+    "name": "Ekin Mert Daymaz",
+    "nameFa": "اکین مرت دایماز",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-0559bd73-4c6d-42ab-9c0a-e53575b90aeb.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1545/ferhat-hanoglu"
+  },
+  "hulya-gulsen": {
+    "name": "Hülya Gülşen",
+    "nameFa": "هولیا گولشن",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-d311bbaf-89b2-42f9-a28f-c46622283bb9.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1546/ummu-gulsum-mert"
+  },
+  "koray-sahinbas": {
+    "name": "Koray Şahinbaş",
+    "nameFa": "کورای شاهین‌باش",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-bd51b439-5116-4e34-9a0b-d5f88f6b0ded.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1547/efraim-guney"
+  },
+  "hakan-celebi": {
+    "name": "Hakan Çelebi",
+    "nameFa": "هاکان چلبی",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-03affd3a-8534-4e6c-b40e-b0e991442cd7.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1548/pasa-hanoglu"
+  },
+  "emir-benderlioglu": {
+    "name": "Emir Benderlioğlu",
+    "nameFa": "امیر بندرلی‌اوغلو",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-cefb2a5a-ad93-4af7-9a29-e084f0e60ccc.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1549/yavuz-mert"
+  },
+  "nilay-erdonmez": {
+    "name": "Nilay Erdönmez",
+    "nameFa": "نیلای اردؤنمز",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-34e507dd-5e2d-48a0-965e-fe6241f11287.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1550/asli-kartal"
+  },
+  "sunay-kurtulus": {
+    "name": "Sunay Kurtuluş",
+    "nameFa": "سونای کورتولوش",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-4447e77c-849f-4b8a-931e-79a8bbaeb625.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1551/adnan-yolcu"
+  },
+  "ekin-aksoy": {
+    "name": "Ekin Aksoy",
+    "nameFa": "اکین آکسوی",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Yeralti/Oyuncular/Yeralti-act-image-434b3793-4a50-400f-ab0f-005d41e0ebd0.jpg",
+    "source": "https://www.nowtv.com.tr/Yeralti/oyuncular/1552/pinar-esen"
+  },
+  "ilhan-sen": {
+    "name": "İlhan Şen",
+    "nameFa": "ایلهان شن",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-b36df3ed-9beb-4ba8-9764-227f2be4e126.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1491/serhat"
+  },
+  "aybuke-pusat": {
+    "name": "Aybüke Pusat",
+    "nameFa": "آیبوکه پوسات",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-1492-act-image-fe430f27-0a62-45e1-99bc-e06cf95a9373.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1492/melek"
+  },
+  "biran-damla-yilmaz": {
+    "name": "Biran Damla Yılmaz",
+    "nameFa": "بیران داملا ییلماز",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-9507dd37-26d3-4c52-8c0a-986ebb1566ab.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1493/yildiz"
+  },
+  "veda-yurtsever": {
+    "name": "Veda Yurtsever",
+    "nameFa": "ودا یورت‌سور",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-803286a0-89b6-4565-a890-c7b300422a4a.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1503/sultan"
+  },
+  "hakan-salinmis": {
+    "name": "Hakan Salınmış",
+    "nameFa": "هاکان سالینمیش",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-a564d3f4-332e-4fba-9915-a925c8b37699.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1502/bekir-aga"
+  },
+  "onur-bilge": {
+    "name": "Onur Bilge",
+    "nameFa": "اونور بیلگه",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-493a8088-28e8-49ee-a068-fd25ebd27967.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1494/akif"
+  },
+  "mazlum-cimen": {
+    "name": "Mazlum Çimen",
+    "nameFa": "مظلوم چیمن",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-8202f262-8ac5-4e4f-8dd6-41f57b78f7f8.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1496/ziyan-aga"
+  },
+  "mert-dogan": {
+    "name": "Mert Doğan",
+    "nameFa": "مرت دوغان",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-28e19c0e-8d3f-40dd-8c25-920786d04846.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1497/asir"
+  },
+  "umit-cirak": {
+    "name": "Ümit Çırak",
+    "nameFa": "اومیت چیراق",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-3097ae49-a8b7-4aa5-ad4e-4f7c4d462aed.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1498/hilmi"
+  },
+  "benian-donmez": {
+    "name": "Benian Dönmez",
+    "nameFa": "بنیان دؤنمز",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-02cb0b88-8cb2-4ec5-af4c-db6cf538888e.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1499/nergis"
+  },
+  "beril-kayar": {
+    "name": "Beril Kayar",
+    "nameFa": "بریل کایار",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-13839781-0f74-4f7c-babd-2e6dcb7c5d4c.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1500/nida"
+  },
+  "aysegul-cengiz": {
+    "name": "Ayşegül Cengiz",
+    "nameFa": "عایشه‌گل جنگیز",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-b8c83de0-0268-49db-93fc-3f5a62ac3bb6.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1501/meryem"
+  },
+  "ozan-celik": {
+    "name": "Ozan Çelik",
+    "nameFa": "اوزان چلیک",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-f71fd92e-0d81-4bf4-a644-ba6253741acd.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1504/dalyan"
+  },
+  "inci-sefa-cingoz": {
+    "name": "İnci Sefa Cingöz",
+    "nameFa": "اینجی صفا جینگؤز",
+    "photo": "https://nqg6bkpsnhen.merlincdn.net/resize/700x932//Programlar/Halef-Koklerin-Cagrisi/Oyuncular/Halef-Koklerin-Cagrisi-act-image-3ad1346e-2cea-43ef-b341-f762b762c60f.jpg",
+    "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/oyuncular/1505/nurgul"
   }
 }
