@@ -133,6 +133,8 @@ async function getText(url, { timeout = 25000, headers = {} } = {}) {
 
 const stats = { feeds: [], fetched: 0, unrelated: 0, sensitive: {}, added: 0, kept: 0, summarized: 0, aiDropped: 0 };
 const known = new Map((previous.items || []).map((i) => [i.id, i]));
+// Ids of articles already folded into another story: never collect them again.
+const merged = new Set((previous.items || []).flatMap((i) => i.mergedIds || []));
 const fresh = [];
 
 for (const feed of CONFIG.feeds) {
@@ -147,7 +149,7 @@ for (const feed of CONFIG.feeds) {
       const url = canonicalUrl(raw.link);
       if (!url) continue;
       const id = createHash("sha1").update(url).digest("hex").slice(0, 12);
-      if (known.has(id) || fresh.some((f) => f.id === id)) continue;
+      if (known.has(id) || merged.has(id) || fresh.some((f) => f.id === id)) continue;
       const published = new Date(raw.published);
       if (Number.isNaN(published.getTime())) { entry.badDate = (entry.badDate || 0) + 1; continue; }
       if (NOW - published > CONFIG.maxAgeDays * 864e5 || published - NOW > 864e5) continue;
@@ -168,6 +170,7 @@ for (const feed of CONFIG.feeds) {
         published: published.toISOString(), scope,
         kind: feed.kind === "official" ? "official" : rumorRe.test(folded) ? "rumor" : "media",
         entities: entitiesFound,
+        sources: [{ source: feed.id, name: feed.name, url, title: raw.title, snippet: raw.snippet.slice(0, 300), published: published.toISOString() }],
       });
     }
   } catch (e) {
@@ -175,6 +178,36 @@ for (const feed of CONFIG.feeds) {
   }
 }
 stats.added = fresh.length;
+
+// ---- merge duplicate stories from different outlets -------------------------
+const STOP = new Set(["ile", "icin", "olarak", "gibi", "kadar", "sonra", "once", "daha", "cok", "yeni", "son", "dizi", "dizisi", "the", "and", "for", "with", "from", "that", "this", "oldu", "olan", "haber"]);
+const toks = (t) => new Set(fold(t).split(" ").filter((w) => w.length >= 4 && !STOP.has(w)));
+export function sameStory(a, b) {
+  if (a.sources.some((s) => b.sources.some((t) => t.source === s.source))) return false; // one article per outlet
+  if (Math.abs(new Date(a.published) - new Date(b.published)) > 72 * 36e5) return false;
+  const ta = toks(a.title), tb = new Set([...b.sources.flatMap((s) => [...toks(s.title)])]);
+  const shared = [...ta].filter((w) => tb.has(w)).length;
+  const jac = shared / (new Set([...ta, ...tb]).size || 1);
+  const ent = ["series", "people"].reduce((n, k) => n + (a.entities[k] || []).filter((x) => (b.entities[k] || []).includes(x)).length, 0);
+  return jac >= 0.4 || (ent >= 1 && shared >= 2 && jac >= 0.2);
+}
+const RANK = { linked: 0, dizi: 1, general: 2 };
+const pool = [];
+for (const item of [...known.values(), ...fresh].sort((a, b) => a.published.localeCompare(b.published))) {
+  if (!item.sources) item.sources = [{ source: item.source, name: item.sourceName, url: item.url, title: item.title, snippet: (item.snippet || "").slice(0, 300), published: item.published }];
+  // A story that already has its own page absorbs newcomers; two old pages are never merged (permalinks stay valid).
+  const target = pool.find((p) => p.sources.length < 6 && (fresh.includes(item) || (!p.bodyFa && !item.bodyFa)) && sameStory(p, item));
+  if (!target) { pool.push(item); continue; }
+  target.sources.push(...item.sources);
+  target.mergedIds = [...new Set([...(target.mergedIds || []), item.id, ...(item.mergedIds || [])])].slice(-60);
+  for (const k of ["series", "people", "networks"]) target.entities[k] = [...new Set([...(target.entities[k] || []), ...(item.entities[k] || [])])];
+  if (!target.image && item.image) target.image = item.image;
+  if (!target.video && item.video) target.video = item.video;
+  if ((RANK[item.scope] ?? 1) < (RANK[target.scope] ?? 1)) target.scope = item.scope;
+  if (item.kind === "official") target.kind = "official";
+  if (target.bodyFa || target.titleFa) target.regen = true; // new sources: rewrite the Persian story
+  stats.merged = (stats.merged || 0) + 1;
+}
 
 // ---- optional Gemini step: Persian title + summary + safety check ---------
 const keys = (process.env.AI_API_KEY || process.env.GEMINI_API_KEY || "").split(",").map((k) => k.trim()).filter(Boolean);
@@ -196,28 +229,31 @@ async function articleText(url) {
 }
 
 async function summarize(item) {
-  const article = await articleText(item.url);
+  const srcs = item.sources.slice(0, 4);
+  const openings = await Promise.all(srcs.map((x) => articleText(x.url)));
   const glossary = [
     ...item.entities.series.map((s) => `${series[s]?.titleTr} = ${series[s]?.titleFa}`),
     ...item.entities.people.map((p) => `${people[p]?.name} = ${people[p]?.nameFa || ""}`),
   ].filter((x) => !x.endsWith("= ") && !x.includes("undefined")).join("\n");
-  const prompt = `You prepare Persian news pages for a Turkish TV-series fan site. Use ONLY the title, snippet and article opening below; never add facts, dates, quotes or names that are not in them.
-Return JSON: {"titleFa": string, "summaryFa": string, "bodyFa": string[], "kind": "official"|"media"|"rumor", "sensitive": boolean}
-- titleFa: faithful Persian translation of the headline (keep it as neutral as the original; no clickbait added).
+  const material = srcs.map((x, i) => `--- s${i + 1}: ${x.name} ---\nTitle: ${x.title}\nSnippet: ${x.snippet}\nArticle opening (may contain page boilerplate):\n${(openings[i] || "").slice(0, 1600) || "(unavailable)"}`).join("\n\n");
+  const multi = srcs.length > 1;
+  const prompt = `You prepare Persian news pages for a Turkish TV-series fan site. The material below is ${multi ? `${srcs.length} reports from different outlets about the SAME story` : "one report"}. Use ONLY this material; never add facts, dates, quotes or names that are not in it.
+Return JSON: {"titleFa": string, "summaryFa": string, "bodyFa": string[], "kind": "official"|"media"|"rumor", "sensitive": boolean, "sourceTitles": string[], "comparison": {"agree": string[], "differ": [{"topic": string, "views": [{"source": "s1", "text": string}]}], "unconfirmed": string[]}}
+- titleFa: faithful, neutral Persian headline for the story (no clickbait added). ALWAYS Persian.
 - summaryFa: at most two short Persian sentences; "" if the material says nothing beyond the headline.
-- bodyFa: 2 to 4 short Persian paragraphs (about 120-220 words in total) explaining what the news is, who is involved and what is known, written in your own words as a reader-friendly explainer. Do NOT translate the article sentence by sentence and do not copy its wording. Say clearly when something is a claim or unconfirmed. If the material has too little content, return one or two sentences only. Ignore website boilerplate (cookie notices, menus, ads) in the article opening.
+- bodyFa: 2 to 4 short Persian paragraphs (about 120-260 words in total) explaining what the news is, who is involved and what is known, in your own words as a reader-friendly explainer${multi ? ", combining what the outlets report" : ""}. Do NOT translate sentence by sentence or copy wording. Say clearly when something is a claim or unconfirmed. If the material has little content, write one or two sentences only. Ignore website boilerplate.
 - kind: "official" if a network/company/person announces it themselves; "rumor" if it is an unconfirmed claim, gossip or speculation; otherwise "media".
 - sensitive: true if it concerns a person's health, a crime or abuse allegation, a minor child, sexual matters, or a private tragedy.
+- sourceTitles: one faithful Persian translation of each source's headline, in the order s1, s2, ...
+- comparison: ${multi ? `agree = facts every outlet states; differ = points where outlets give different details (name the outlet with its s-number and what it says, e.g. different numbers, dates, wording of a claim; empty list if none); unconfirmed = claims made by only one outlet or presented as rumor. Short Persian sentences; empty lists when nothing fits.` : `use {"agree": [], "differ": [], "unconfirmed": []}.`}
 Use these Persian names when the entity appears:
 ${glossary || "(none)"}
-Title: ${item.title}
-Snippet: ${item.snippet}
-Article opening (may contain page boilerplate):
-${article || "(unavailable)"}`;
+
+${material}`;
   for (let attempt = 0; attempt < keys.length; attempt++) {
     const key = keys[(keyIndex + attempt) % keys.length];
     const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${key}`, {
-      method: "POST", headers: { "content-type": "application/json" }, signal: AbortSignal.timeout(45000),
+      method: "POST", headers: { "content-type": "application/json" }, signal: AbortSignal.timeout(60000),
       body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { temperature: 0.2, responseMimeType: "application/json" } }),
     });
     if (res.status === 429 || res.status === 403) { keyIndex++; continue; }
@@ -228,24 +264,39 @@ ${article || "(unavailable)"}`;
   throw new Error("all Gemini keys are rate-limited");
 }
 
+const txt = (v, n) => String(v || "").trim().slice(0, n);
+const list = (v, n, m) => (Array.isArray(v) ? v.map((x) => txt(x, m)).filter(Boolean).slice(0, n) : []);
+export function cleanComparison(c, sources) {
+  if (!c || sources.length < 2) return null;
+  const idOf = (tag) => { const m = /^s(\d+)$/i.exec(String(tag || "").trim()); return m && sources[Number(m[1]) - 1]?.source; };
+  const differ = (Array.isArray(c.differ) ? c.differ : []).map((d) => ({
+    topic: txt(d?.topic, 160),
+    views: (Array.isArray(d?.views) ? d.views : []).map((v) => ({ source: idOf(v?.source), text: txt(v?.text, 320) })).filter((v) => v.source && v.text).slice(0, 4),
+  })).filter((d) => d.topic && d.views.length >= 1).slice(0, 4);
+  const out = { agree: list(c.agree, 5, 320), differ, unconfirmed: list(c.unconfirmed, 4, 320) };
+  return out.agree.length || out.differ.length || out.unconfirmed.length ? out : null;
+}
+
 if (keys.length) {
   let budget = MAX_AI;
-  const rank = { linked: 0, dizi: 1, general: 2 };
-  const queue = [...fresh, ...[...known.values()].filter((i) => !i.bodyFa && !i.aiFailed)]
-    .sort((a, b) => (rank[a.scope] ?? 1) - (rank[b.scope] ?? 1) || b.published.localeCompare(a.published));
+  const queue = pool.filter((i) => (!i.bodyFa && !i.aiFailed) || i.regen)
+    .sort((a, b) => (RANK[a.scope] ?? 1) - (RANK[b.scope] ?? 1) || b.published.localeCompare(a.published));
   for (const item of queue) {
     if (budget-- <= 0) break;
     try {
       const r = await summarize(item);
       if (r.sensitive === true) { item.drop = true; stats.aiDropped++; continue; }
-      if (typeof r.titleFa === "string" && r.titleFa.trim()) item.titleFa = r.titleFa.trim().slice(0, 240);
-      if (typeof r.summaryFa === "string" && r.summaryFa.trim()) item.summaryFa = r.summaryFa.trim().slice(0, 420);
+      if (txt(r.titleFa, 1)) item.titleFa = txt(r.titleFa, 240);
+      if (txt(r.summaryFa, 1)) item.summaryFa = txt(r.summaryFa, 420); else delete item.summaryFa;
       if (Array.isArray(r.bodyFa)) {
-        const body = r.bodyFa.map((p) => String(p || "").trim().slice(0, 700)).filter(Boolean).slice(0, 4);
+        const body = r.bodyFa.map((p) => txt(p, 800)).filter(Boolean).slice(0, 4);
         if (body.length) item.bodyFa = body;
       }
+      if (Array.isArray(r.sourceTitles)) r.sourceTitles.slice(0, 4).forEach((t, i) => { if (txt(t, 1) && item.sources[i]) item.sources[i].titleFa = txt(t, 240); });
+      const cmp = cleanComparison(r.comparison, item.sources.slice(0, 4));
+      if (cmp) item.comparison = cmp; else delete item.comparison;
       if (["official", "media", "rumor"].includes(r.kind) && !(item.kind === "official" && r.kind !== "official")) item.kind = r.kind;
-      item.ai = true; stats.summarized++;
+      item.ai = true; delete item.regen; stats.summarized++;
       item.aiTries = (item.aiTries || 0) + 1;
       if (!item.bodyFa && item.aiTries >= 2) item.aiFailed = true; // do not retry a page the model cannot write
     } catch (e) {
@@ -259,7 +310,7 @@ if (keys.length) {
 // ---- merge, prune, write ---------------------------------------------------
 const ageDays = (i) => (NOW - new Date(i.published)) / 864e5;
 let generalKept = 0;
-const all = [...known.values(), ...fresh].filter((i) => !i.drop)
+const all = pool.filter((i) => !i.drop)
   // Items with their own Persian page live longer, so permalinks do not vanish after a month and a half.
   .filter((i) => ageDays(i) <= (i.scope === "general" ? CONFIG.maxGeneralAgeDays : i.bodyFa ? CONFIG.maxPageAgeDays : CONFIG.maxAgeDays))
   .sort((a, b) => b.published.localeCompare(a.published))
@@ -278,7 +329,7 @@ const out = { updated: body === oldBody ? previous.updated || NOW.toISOString() 
 await writeFile(new URL("news.json", DATA), `${JSON.stringify(out, null, 1)}\n`, "utf8");
 
 const okFeeds = stats.feeds.filter((f) => f.ok).length;
-console.log(`News: ${okFeeds}/${stats.feeds.length} feeds ok; ${stats.fetched} items read, ${stats.added} new and relevant, ${stats.unrelated} unrelated, sensitive skipped ${JSON.stringify(stats.sensitive)}, summarized ${stats.summarized}${keys.length ? "" : " (no AI key: titles stay Turkish)"}, dropped by AI ${stats.aiDropped}, ${stats.kept} kept.`);
+console.log(`News: ${okFeeds}/${stats.feeds.length} feeds ok; ${stats.fetched} items read, ${stats.added} new and relevant (${stats.merged || 0} merged into existing stories), ${stats.unrelated} unrelated, sensitive skipped ${JSON.stringify(stats.sensitive)}, summarized ${stats.summarized}${keys.length ? "" : " (no AI key: titles stay Turkish)"}, dropped by AI ${stats.aiDropped}, ${stats.kept} kept.`);
 for (const f of stats.feeds.filter((x) => !x.ok)) console.log(`feed failed: ${f.id} — ${f.error}`);
 if (process.env.GITHUB_STEP_SUMMARY) {
   const { appendFile } = await import("node:fs/promises");

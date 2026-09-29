@@ -7,7 +7,9 @@
       "url": "https://www.hurriyet.com.tr/rss/kelebek",
       "lang": "tr",
       "kind": "media",
-      "entertainment": true
+      "entertainment": true,
+      "color": "#c8102e",
+      "abbr": "Hürriyet"
     },
     {
       "id": "sabah-magazin",
@@ -15,7 +17,9 @@
       "url": "https://www.sabah.com.tr/rss/magazin.xml",
       "lang": "tr",
       "kind": "media",
-      "entertainment": true
+      "entertainment": true,
+      "color": "#0b3d91",
+      "abbr": "SABAH"
     },
     {
       "id": "milliyet-magazin",
@@ -23,7 +27,9 @@
       "url": "https://www.milliyet.com.tr/rss/rssnew/magazinrss.xml",
       "lang": "tr",
       "kind": "media",
-      "entertainment": true
+      "entertainment": true,
+      "color": "#d71920",
+      "abbr": "Milliyet"
     },
     {
       "id": "haberturk-magazin",
@@ -31,7 +37,9 @@
       "url": "https://www.haberturk.com/rss/magazin.xml",
       "lang": "tr",
       "kind": "media",
-      "entertainment": true
+      "entertainment": true,
+      "color": "#e30613",
+      "abbr": "HABERTÜRK"
     },
     {
       "id": "sozcu-magazin",
@@ -39,28 +47,36 @@
       "url": "https://www.sozcu.com.tr/feeds-rss-category-magazin",
       "lang": "tr",
       "kind": "media",
-      "entertainment": true
+      "entertainment": true,
+      "color": "#111111",
+      "abbr": "SÖZCÜ"
     },
     {
       "id": "trthaber-kultur",
       "name": "TRT Haber",
       "url": "https://www.trthaber.com/kultur_sanat_articles.rss",
       "lang": "tr",
-      "kind": "media"
+      "kind": "media",
+      "color": "#0a5a9c",
+      "abbr": "TRT Haber"
     },
     {
       "id": "aa-kultur",
       "name": "Anadolu Ajansı",
       "url": "https://www.aa.com.tr/tr/rss/default?cat=kultur",
       "lang": "tr",
-      "kind": "media"
+      "kind": "media",
+      "color": "#00539f",
+      "abbr": "AA"
     },
     {
       "id": "dailysabah-arts",
       "name": "Daily Sabah",
       "url": "https://www.dailysabah.com/rssFeed/arts",
       "lang": "en",
-      "kind": "media"
+      "kind": "media",
+      "color": "#1d6b3a",
+      "abbr": "Daily Sabah"
     }
   ],
   "maxAgeDays": 45,

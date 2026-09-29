@@ -62,7 +62,7 @@ const SITE_NAV = (root, active) => {
   return `<nav class="site-nav" aria-label="بخش‌ها">${items.map(([h, t]) => `<a href="${root}${h}"${active === h ? ' class="on"' : ""}>${t}</a>`).join("")}</nav>`;
 };
 
-function head(root, { title, desc, path, ogImage, jsonld, ogType = "website", version = "20260930news" }) {
+function head(root, { title, desc, path, ogImage, jsonld, ogType = "website", version = "20260930news3" }) {
   const canonical = `${BASE}/${path}`;
   const img = ogImage ? (ogImage.startsWith("http") ? ogImage : BASE + ogImage) : BASE + LOGO;
   const ld = jsonld ? `\n<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : "";
@@ -114,7 +114,7 @@ function seriesPage(s) {
   const jsonld = { "@context": "https://schema.org", "@type": s.kind === "entertainment" ? "TVSeries" : "TVSeries", name: s.titleTr, alternateName: s.titleFa, url: `${BASE}/dizi/${s.slug}/`, inLanguage: "tr", genre: s.genre || [], countryOfOrigin: { "@type": "Country", name: "Turkey" } };
   if (img) jsonld.image = img;
   if (net) jsonld.productionCompany = net.name;
-  const h = head(root, { title: `${s.titleFa} (${s.titleTr}) | مشکی مدیا`, desc: (s.synopsis || `پروفایل، بازیگران و ری‌کپ قسمت‌های ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/`, ogImage: img, ogType: "video.tv_show", jsonld, version: "20260930news" });
+  const h = head(root, { title: `${s.titleFa} (${s.titleTr}) | مشکی مدیا`, desc: (s.synopsis || `پروفایل، بازیگران و ری‌کپ قسمت‌های ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/`, ogImage: img, ogType: "video.tv_show", jsonld, version: "20260930news3" });
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}diziler/">سریال‌ها</a><span>/</span><span id="net-badge"></span></div>
@@ -132,7 +132,7 @@ function seriesPage(s) {
 <section id="eps" class="profile-section"><div class="section-headline"><div><span>قسمت‌ها</span><h2>ری‌کپ و ریتینگ قسمت‌ها</h2></div><small>Total · AB · ABC1</small></div><div id="episodes" class="episodes"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/#episodes`, "☰", "قسمت‌ها", true], [`dizi/${s.slug}/#cast`, "◉", "بازیگران"], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
-  return h + body + boot(root, { slug: s.slug }, ["rating-trends.js", "series-page.js", "gallery.js", "news.js"], "20260930news");
+  return h + body + boot(root, { slug: s.slug }, ["rating-trends.js", "series-page.js", "gallery.js", "news.js"], "20260930news3");
 }
 
 // ---- Episode page ----------------------------------------------------------
@@ -172,7 +172,7 @@ function networkPage(net) {
 <section id="net-ratings-section" class="feed-section"><div class="feed-label"><span>در جدول اخیر (<span id="net-day-date"></span>)</span><i></i></div><div id="net-ratings"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["kanal/", "▦", "شبکه‌ها", true], ["diziler/", "☰", "سریال‌ها"], ["#net-series", "⌁", "ریتینگ"]])}`;
-  return h + body + boot(root, { slug: net.slug }, ["network-page.js", "news.js"], "20260930news");
+  return h + body + boot(root, { slug: net.slug }, ["network-page.js", "news.js"], "20260930news3");
 }
 
 // ---- Actor page ------------------------------------------------------------
@@ -196,7 +196,7 @@ function actorPage(pr) {
 <section id="news" class="profile-section"><div class="section-headline"><div><span>اخبار</span><h2>آخرین خبرهای ${esc(disp)}</h2></div><a class="gallery-source" href="${root}haber/">همهٔ اخبار ↗</a></div><div id="actor-news" class="news-feed"><div class="notice">در حال بارگذاری اخبار…</div></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["oyuncular/", "◉", "بازیگران", true], ["diziler/", "☰", "سریال‌ها"], ["ara/", "⌕", "جستجو"]])}`;
-  return h + body + boot(root, { slug: pr.slug }, ["actor-page.js", "news.js"], "20260930news");
+  return h + body + boot(root, { slug: pr.slug }, ["actor-page.js", "news.js"], "20260930news3");
 }
 
 // ---- Character page --------------------------------------------------------
@@ -343,6 +343,16 @@ const nf = new Intl.NumberFormat("fa-IR", { useGrouping: false });
 const faDateLong = new Intl.DateTimeFormat("fa-IR-u-ca-persian", { dateStyle: "long", timeZone: "Asia/Tehran" });
 const faTime = new Intl.DateTimeFormat("fa-IR", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tehran" });
 const KIND_FA = { official: "رسمی", media: "گزارش رسانه", rumor: "شایعه / ادعا" };
+// Outlet "logos": a colored wordmark badge per feed; a file images/outlets/<feed id>.png|webp|svg replaces it.
+const newsSources = JSON.parse(await readFile(new URL("./news-sources.json", import.meta.url), "utf8"));
+const outlets = Object.fromEntries(newsSources.feeds.map((f) => {
+  const logo = ["png", "webp", "svg", "jpg"].map((e) => `images/outlets/${f.id}.${e}`).find((x) => existsSync(p(x))) || "";
+  return [f.id, { name: f.name, color: f.color || "#333", abbr: f.abbr || f.name, ...(logo ? { logo } : {}) }];
+}));
+const outletBadge = (root, id, name) => {
+  const o = outlets[id] || { name, color: "#333", abbr: name };
+  return o.logo ? `<span class="outlet-logo has-img"><img src="${root}${esc(o.logo)}" alt="${esc(o.name)}" loading="lazy"></span>` : `<span class="outlet-logo" style="background:${esc(o.color)}">${esc(o.abbr)}</span>`;
+};
 const newsWithPage = newsData.items.filter((i) => i.titleFa && Array.isArray(i.bodyFa) && i.bodyFa.length && /^https:\/\//.test(i.url || ""));
 const pageIds = new Set(newsWithPage.map((i) => i.id));
 
@@ -366,7 +376,17 @@ function newsItemPage(item) {
   const url = `${BASE}/haber/${item.id}/`;
   const when = new Date(item.published);
   const lead = item.summaryFa || item.bodyFa[0];
-  const jsonld = { "@context": "https://schema.org", "@type": "NewsArticle", headline: item.titleFa, datePublished: item.published, inLanguage: "fa", url, isBasedOn: item.url,
+  const srcs = (item.sources && item.sources.length ? item.sources : [{ source: item.source, name: item.sourceName, url: item.url, title: item.title, published: item.published }]).filter((x) => /^https:\/\//.test(x.url || ""));
+  const cmp = item.comparison;
+  const nameOf = (id) => srcs.find((x) => x.source === id)?.name || outlets[id]?.name || id;
+  const compareHtml = cmp && srcs.length > 1 ? `<section class="profile-section news-compare"><div class="section-headline"><div><span>مقایسهٔ منابع</span><h2>رسانه‌ها چه می‌گویند؟</h2></div></div>
+${cmp.agree?.length ? `<div class="cmp-block cmp-agree"><h3>✓ مورد اتفاق منابع</h3><ul>${cmp.agree.map((t) => `<li>${esc(t)}</li>`).join("")}</ul></div>` : ""}
+${cmp.differ?.length ? `<div class="cmp-block cmp-differ"><h3>≠ تفاوت روایت‌ها</h3>${cmp.differ.map((d) => `<div class="cmp-diff"><strong>${esc(d.topic)}</strong><ul>${d.views.map((v) => `<li>${outletBadge(root, v.source, nameOf(v.source))}<span>${esc(v.text)}</span></li>`).join("")}</ul></div>`).join("")}</div>` : ""}
+${cmp.unconfirmed?.length ? `<div class="cmp-block cmp-unconf"><h3>؟ تأییدنشده / فقط از یک منبع</h3><ul>${cmp.unconfirmed.map((t) => `<li>${esc(t)}</li>`).join("")}</ul></div>` : ""}
+</section>` : "";
+  const sourcesHtml = `<section class="profile-section news-sources"><div class="section-headline"><div><span>منابع</span><h2>${srcs.length > 1 ? `این خبر را ${nf.format(srcs.length)} رسانه منتشر کرده‌اند` : "منبع خبر"}</h2></div></div>
+<div class="outlet-list">${srcs.map((x) => `<a class="outlet-link" href="${esc(x.url)}" target="_blank" rel="noopener noreferrer nofollow">${outletBadge(root, x.source, x.name)}<span class="outlet-txt"><strong>${esc(x.titleFa || x.title)}</strong><small>${esc(x.name)} · ${esc(faDateLong.format(new Date(x.published)))} ↗</small></span></a>`).join("")}</div></section>`;
+  const jsonld = { "@context": "https://schema.org", "@type": "NewsArticle", headline: item.titleFa, datePublished: item.published, inLanguage: "fa", url, isBasedOn: item.sources?.length ? item.sources.map((x) => x.url) : item.url,
     author: { "@type": "Organization", name: "مشکی مدیا" }, publisher: { "@type": "Organization", name: "مشکی مدیا", logo: { "@type": "ImageObject", url: BASE + LOGO } } };
   if (item.image) jsonld.image = item.image;
   const h = head(root, { title: `${item.titleFa} | اخبار مشکی مدیا`, desc: lead.slice(0, 180), path: `haber/${item.id}/`, ogImage: item.image || undefined, ogType: "article", jsonld });
@@ -385,18 +405,18 @@ function newsItemPage(item) {
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}haber/">اخبار</a></div>
 <article>
 <header class="news-article-head">
-<div class="news-meta"><span class="news-kind kind-${esc(item.kind)}">${KIND_FA[item.kind] || KIND_FA.media}</span><span>${esc(item.sourceName)}</span><time datetime="${esc(item.published)}">${esc(faDateLong.format(when))} · ${esc(faTime.format(when))}</time></div>
+<div class="news-meta"><span class="news-kind kind-${esc(item.kind)}">${KIND_FA[item.kind] || KIND_FA.media}</span><span>${srcs.length > 1 ? `${nf.format(srcs.length)} منبع` : esc(item.sourceName)}</span><time datetime="${esc(item.published)}">${esc(faDateLong.format(when))} · ${esc(faTime.format(when))}</time></div>
 <h1>${esc(item.titleFa)}</h1>
-${item.lang === "tr" ? `<p class="news-orig" lang="tr" dir="ltr">${esc(item.title)}</p>` : ""}
 </header>
-${item.image ? `<figure class="news-hero"><img src="${esc(item.image)}" alt="" referrerpolicy="no-referrer" loading="eager" onerror="this.parentElement.remove()"><figcaption>تصویر: ${esc(item.sourceName)}</figcaption></figure>` : ""}
+${item.image ? `<figure class="news-hero"><img src="${esc(item.image)}" alt="" referrerpolicy="no-referrer" loading="eager" onerror="this.parentElement.remove()"><figcaption>تصویر: ${esc(srcs[0]?.name || item.sourceName)}</figcaption></figure>` : ""}
 ${item.kind === "rumor" ? `<p class="news-warn">این مطلب تأییدنشده است و فقط گزارش یا ادعای رسانه‌ها را بازگو می‌کند.</p>` : ""}
 ${lead ? `<p class="news-lead">${esc(lead)}</p>` : ""}
 <div class="news-text">${item.bodyFa.filter((x) => x !== lead).map((x) => `<p>${esc(x)}</p>`).join("")}</div>
 ${video ? `<div class="news-actions"><button type="button" class="news-video-btn" data-video="${video}">▶ پخش ویدئو</button></div><div class="news-video" hidden></div>` : ""}
-<p class="news-source"><a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer nofollow">متن کامل و تصاویر اصلی در ${esc(item.sourceName)} ↗</a></p>
-<p class="news-disclaimer">این صفحه خلاصه‌ای مستقل به فارسی از گزارش «${esc(item.sourceName)}» است و با کمک هوش مصنوعی تهیه شده؛ ممکن است در ترجمه یا برداشت خطا داشته باشد. برای متن دقیق به منبع مراجعه کنید.</p>
+<p class="news-disclaimer">این صفحه خلاصه‌ای مستقل به فارسی از گزارش ${srcs.length > 1 ? "رسانه‌های زیر" : `«${esc(item.sourceName)}»`} است و با کمک هوش مصنوعی تهیه شده؛ ممکن است در ترجمه یا برداشت خطا داشته باشد. برای متن دقیق و تصاویر اصلی روی لوگوی منبع بزنید.</p>
 </article>
+${compareHtml}
+${sourcesHtml}
 ${ratingCards ? `<section class="profile-section"><div class="section-headline"><div><span>ریتینگ زنده</span><h2>سریال‌های این خبر در جدول تیاک</h2></div></div><div class="news-ratings">${ratingCards}</div></section>` : ""}
 ${relSeries.length || relPeople.length || relNets.length ? `<section class="profile-section"><div class="section-headline"><div><span>مرتبط</span><h2>سریال‌ها، بازیگران و شبکه‌های این خبر</h2></div></div>
 <div class="news-entities">
@@ -410,7 +430,7 @@ ${more.length ? `<section class="profile-section"><div class="section-headline">
 <div class="news-feed">${more.map((o) => `<article class="news-card kind-${esc(o.kind)}">${o.image ? `<a class="news-thumb" href="${root}haber/${o.id}/" tabindex="-1" aria-hidden="true"><img src="${esc(o.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></a>` : ""}<div class="news-body"><div class="news-meta"><span class="news-kind">${KIND_FA[o.kind] || KIND_FA.media}</span><span>${esc(o.sourceName)}</span></div><h3><a href="${root}haber/${o.id}/">${esc(o.titleFa)}</a></h3></div></article>`).join("")}</div></section>` : ""}
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["haber/", "✎", "اخبار", true], ["takvim/", "▤", "تقویم"]])}`;
-  return h + body + boot(root, {}, ["news.js"], "20260930news2");
+  return h + body + boot(root, {}, ["news.js"], "20260930news3");
 }
 
 // ---- News page -------------------------------------------------------------
@@ -425,7 +445,7 @@ function newsPage() {
 <p class="news-policy">خبرها از فید رسانه‌های ترکیه گردآوری می‌شوند؛ ما فقط عنوان، خلاصهٔ کوتاه و پیوند منبع را نشان می‌دهیم و متن کامل خبر در سایت منبع است. برچسب «شایعه / ادعا» یعنی خبر تأییدنشده. مطالب دربارهٔ سلامت، اتهام‌های جنایی و کودکان منتشر نمی‌شود.</p></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["haber/", "✎", "اخبار", true], ["takvim/", "▤", "تقویم"]])}`;
-  return h + body + boot(root, {}, ["news.js"], "20260930news");
+  return h + body + boot(root, {}, ["news.js"], "20260930news3");
 }
 
 // list pages
@@ -445,8 +465,12 @@ for (const item of newsWithPage) {
   urls.push({ loc: `${BASE}/haber/${item.id}/`, pri: "0.5" });
 }
 // Light public feed for the browser (no article text): the full news.json stays the source of truth.
-const feedItems = newsData.items.slice(0, 400).map(({ snippet, bodyFa, aiTries, aiFailed, ...rest }) => ({ ...rest, page: pageIds.has(rest.id) }));
-await writeFile(p("data/news-feed.json"), JSON.stringify({ updated: newsData.updated || null, items: feedItems }) + "\n", "utf8");
+// Only stories with a Persian headline are public.
+const feedItems = newsData.items.filter((i) => i.titleFa && /^https:\/\//.test(i.url || "")).slice(0, 400).map(({ snippet, bodyFa, aiTries, aiFailed, mergedIds, comparison, regen, sources, ...rest }) => ({
+  ...rest, page: pageIds.has(rest.id),
+  sources: (sources || []).map((x) => ({ source: x.source, name: x.name, url: x.url })),
+}));
+await writeFile(p("data/news-feed.json"), JSON.stringify({ updated: newsData.updated || null, outlets, items: feedItems }) + "\n", "utf8");
 count.newsPages = newsWithPage.length;
 await mkdir(p("haber/"), { recursive: true });
 await writeFile(p("haber/index.html"), newsPage(), "utf8"); count.lists++;
