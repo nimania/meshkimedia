@@ -30,7 +30,9 @@ const decode = (s) => String(s || "")
   .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
   .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(Number(d)))
   .replace(/&quot;/g, '"').replace(/&apos;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&");
-const stripTags = (s) => decode(String(s || "").replace(/<[^>]*>/g, " ")).replace(/\s+/g, " ").trim();
+// Unwrap CDATA first: a "<![CDATA[Title]]>" would otherwise be swallowed by the tag stripper.
+const unCdata = (s) => String(s || "").replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1");
+const stripTags = (s) => decode(unCdata(s).replace(/<[^>]*>/g, " ")).replace(/\s+/g, " ").trim();
 const tag = (block, name) => {
   const m = block.match(new RegExp(`<${name}(?:\\s[^>]*)?>([\\s\\S]*?)</${name}>`, "i"));
   return m ? m[1] : "";
@@ -64,7 +66,8 @@ export function parseFeed(xml) {
     return {
       title: stripTags(tag(b, "title")),
       link,
-      published: tag(b, "pubDate") || tag(b, "published") || tag(b, "updated") || tag(b, "dc:date"),
+      // Some feeds write the "+" of the time zone as an entity (&#x2B;0300).
+      published: decode(tag(b, "pubDate") || tag(b, "published") || tag(b, "updated") || tag(b, "dc:date")).trim(),
       snippet: stripTags(html).slice(0, 500),
       image,
       videoId,

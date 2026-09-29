@@ -2,9 +2,9 @@
   "_comment": "RSS feeds the news collector reads. kind: 'media' = press report, 'official' = a network or production company announcing its own news. A feed that fails is logged in the run summary and skipped; remove dead ones. entertainment: true = a gossip/magazine category whose items are kept as general entertainment news even when no series or actor of the site is named.",
   "feeds": [
     {
-      "id": "hurriyet-magazin",
+      "id": "hurriyet-kelebek",
       "name": "Hürriyet",
-      "url": "https://www.hurriyet.com.tr/rss/magazin",
+      "url": "https://www.hurriyet.com.tr/rss/kelebek",
       "lang": "tr",
       "kind": "media",
       "entertainment": true
