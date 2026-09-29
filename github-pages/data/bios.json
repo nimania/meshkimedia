@@ -51,13 +51,25 @@
    "machine": false
   }
  },
+ "alihan-demirbilek": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:40.679Z"
+ },
  "alper-cankaya": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:27:00.556Z"
  },
+ "anil-celik": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:38.963Z"
+ },
  "armagan-oguz": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:32:19.285Z"
+ },
+ "asilhan-kursun": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:07.468Z"
  },
  "asir-gundogdu": {
   "notFound": true,
@@ -82,6 +94,10 @@
    "machine": false
   }
  },
+ "ata-simsek": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:23.662Z"
+ },
  "ata-yasat": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:32:26.399Z"
@@ -100,6 +116,29 @@
    "source": {
     "name": "ویکی‌پدیای فارسی",
     "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%A7%DA%A9%D8%A7%D9%86_%D8%A7%D9%88%D8%B2%DA%A9%D8%A7%DB%8C%D8%A7",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
+ },
+ "aybars-caliskan": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:13.448Z"
+ },
+ "aybuke-pusat": {
+  "lang": "tr",
+  "text": "Aybüke Pusat, Türk oyuncu, manken ve balerindir.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Ayb%C3%BCke_Pusat",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:29.726Z",
+  "fa": {
+   "text": "آیبوکه پوسات بازیگر، مدل و بالرین اهل ترکیه است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%A2%DB%8C%D8%A8%D9%88%DA%A9%D9%87_%D9%BE%D9%88%D8%B3%D8%A7%D8%AA",
     "license": "CC BY-SA 4.0"
    },
    "machine": false
@@ -166,6 +205,20 @@
    "machine": false
   }
  },
+ "aydan-kaya": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:11.558Z"
+ },
+ "aysegul-cengiz": {
+  "lang": "tr",
+  "text": "Ayşegül Cengiz, Türk hekim, tiyatro, sinema ve dizi oyuncusu, yönetmen.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Ay%C5%9Feg%C3%BCl_Cengiz",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:42.814Z"
+ },
  "aytac-sasmaz": {
   "lang": "tr",
   "text": "Aytaç Şaşmaz, Türk oyuncudur. 47. Altın Kelebek Ödülleri’nde En İyi Romantik Komedi Erkek Oyuncusu Ödülü kazanmıştır.",
@@ -212,6 +265,16 @@
   "notFound": true,
   "fetchedAt": "2026-09-29T15:32:32.482Z"
  },
+ "benian-donmez": {
+  "lang": "tr",
+  "text": "Benian Dönmez, Türk tiyatro oyuncusu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Benian_D%C3%B6nmez",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:40.975Z"
+ },
  "beren-gencalp": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:32:59.190Z"
@@ -239,6 +302,10 @@
    "machine": false
   }
  },
+ "beril-kayar": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:42.434Z"
+ },
  "berk-ali-catal": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:01.567Z"
@@ -262,6 +329,25 @@
    "machine": false
   }
  },
+ "berk-bakioglu": {
+  "lang": "tr",
+  "text": "Berk Bakioğlu, Türk oyuncu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Berk_Bakio%C4%9Flu",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:43:41.014Z",
+  "fa": {
+   "text": "برک باکی‌اوغلو بازیگر اهل ترکیه است. او به دلیل ایفای نقش در مجموعه‌های تلویزیونی هجران و خواهر و برادرانم شناخته شده‌است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%DA%A9_%D8%A8%D8%A7%DA%A9%DB%8C_%D8%A7%D9%88%D8%BA%D9%84%D9%88",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
+ },
  "berna-cindil": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:38:47.935Z"
@@ -269,6 +355,10 @@
  "berra-ahsen-uslu": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:32:30.178Z"
+ },
+ "berra-aydin": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:19.985Z"
  },
  "bertan-asllani": {
   "lang": "en",
@@ -287,6 +377,25 @@
  "beyza-karabacak": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:25.271Z"
+ },
+ "biran-damla-yilmaz": {
+  "lang": "tr",
+  "text": "Biran Damla Yılmaz, Türk oyuncudur. Kariyerinin dönüm noktası olan Kırgın Çiçekler dizisinde önemli bir rol aldı.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Biran_Damla_Y%C4%B1lmaz",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:30.444Z",
+  "fa": {
+   "text": "بیران داملا ییلماز بازیگر ترکیه است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D9%84%D8%A7_%DB%8C%DB%8C%D9%84%D9%85%D8%A7%D8%B2",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
  },
  "bugra-gulsoy": {
   "lang": "tr",
@@ -364,6 +473,25 @@
    "machine": false
   }
  },
+ "burak-sevinc": {
+  "lang": "tr",
+  "text": "Burak Sevinç, Türk oyuncu ve müzisyendir.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Burak_Sevin%C3%A7",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:16.325Z",
+  "fa": {
+   "text": "بوراک سوینچ بازیگر، موسیقی‌دان اهل ترکیه است. وی از سال ۲۰۱۱ میلادی تاکنون مشغول فعالیت بوده‌است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D8%A7%DA%A9_%D8%B3%D9%88%DB%8C%D9%86%DA%86",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
+ },
  "burcu-ozberk": {
   "lang": "tr",
   "text": "Burcu Özberk, Türk oyuncudur.",
@@ -426,6 +554,10 @@
    "machine": false
   }
  },
+ "cansu-firinci": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:54.329Z"
+ },
  "cem-bender": {
   "lang": "tr",
   "text": "Cem Bender, Türk tiyatro, sinema ve dizi oyuncusu.",
@@ -458,6 +590,10 @@
    },
    "machine": false
   }
+ },
+ "cemre-arda": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:06.442Z"
  },
  "cemre-baysel": {
   "lang": "tr",
@@ -615,6 +751,10 @@
   },
   "fetchedAt": "2026-09-29T15:33:08.856Z"
  },
+ "diyar-okuyucu": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:26.245Z"
+ },
  "dogancan-sarikaya": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:06.348Z"
@@ -660,6 +800,10 @@
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:35.644Z"
  },
+ "ekin-aksoy": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:28.652Z"
+ },
  "ekin-koc": {
   "lang": "tr",
   "text": "İsmet Ekin Koç, Türk oyuncudur.",
@@ -674,6 +818,25 @@
    "source": {
     "name": "ویکی‌پدیای فارسی",
     "url": "https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%DB%8C%D9%86_%DA%A9%D9%88%DA%86",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
+ },
+ "ekin-mert-daymaz": {
+  "lang": "tr",
+  "text": "Ekin Mert Daymaz , Türk oyuncu ve mankendir.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Ekin_Mert_Daymaz",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:18.366Z",
+  "fa": {
+   "text": "اکین مرت دایماز بازیگر و مدل اهل ترکیه است. وی از سال ۲۰۱۴ میلادی تاکنون مشغول فعالیت بوده‌است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%DB%8C%D9%86_%D9%85%D8%B1%D8%AA_%D8%AF%D8%A7%DB%8C%D9%85%D8%A7%D8%B2",
     "license": "CC BY-SA 4.0"
    },
    "machine": false
@@ -703,6 +866,16 @@
   },
   "fetchedAt": "2026-09-29T15:33:00.324Z"
  },
+ "emir-benderlioglu": {
+  "lang": "tr",
+  "text": "Atıf Emir Benderlioğlu, Türk fotoğrafçı, seslendirmen, grafiker ve oyuncudur.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Emir_Benderlio%C4%9Flu",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:25.111Z"
+ },
  "emrah-altintoprak": {
   "lang": "tr",
   "text": "Emrah Altıntoprak, Türk dizi ve sinema oyuncusudur. 2014 yılında başladığı oyunculuk kariyerinde çeşitli televizyon dizileri ve sinema filmlerinde rol aldı.",
@@ -717,6 +890,10 @@
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:14.932Z"
  },
+ "enes-kocak": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:57.814Z"
+ },
  "engin-yuksel": {
   "lang": "tr",
   "text": "Engin Yüksel, Türk tiyatro, sinema ve dizi oyuncusu.",
@@ -726,6 +903,16 @@
    "license": "CC BY-SA 4.0"
   },
   "fetchedAt": "2026-09-29T15:38:51.385Z"
+ },
+ "erdal-cindoruk": {
+  "lang": "tr",
+  "text": "Erdal Cindoruk, Türk sinema, tiyatro ve dizi oyuncusudur.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Erdal_Cindoruk",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:43:27.277Z"
  },
  "erkan-avci": {
   "lang": "tr",
@@ -745,6 +932,10 @@
    },
    "machine": false
   }
+ },
+ "eser-eyuboglu": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:28.938Z"
  },
  "esra-dermancioglu": {
   "lang": "tr",
@@ -806,6 +997,24 @@
  "ezgi-dalgic": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:32:34.378Z"
+ },
+ "fatih-guhan": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:53.444Z"
+ },
+ "ferdi-sancar": {
+  "lang": "tr",
+  "text": "Ferdi Sancar, Türk oyuncudur.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Ferdi_Sancar",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:43:29.285Z"
+ },
+ "ferida-bag": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:46.665Z"
  },
  "ferit-kaya": {
   "lang": "tr",
@@ -938,6 +1147,20 @@
    "machine": false
   }
  },
+ "gozde-okur": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:35.710Z"
+ },
+ "gulcin-kultur-sahin": {
+  "lang": "tr",
+  "text": "Gülçin Kültür Şahin, Türk tiyatro ve sinema oyuncusu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/G%C3%BCl%C3%A7in_K%C3%BClt%C3%BCr_%C5%9Eahin",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:43:58.181Z"
+ },
  "gulenay-kalkan": {
   "lang": "tr",
   "text": "Gülenay Kalkan Ünlüoğlu, Türk oyuncudur.",
@@ -966,6 +1189,20 @@
    },
    "machine": false
   }
+ },
+ "hakan-celebi": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:24.767Z"
+ },
+ "hakan-salinmis": {
+  "lang": "tr",
+  "text": "Hakan Salınmış, Türk oyuncudur.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Hakan_Sal%C4%B1nm%C4%B1%C5%9F",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:31.855Z"
  },
  "haki-bicici": {
   "lang": "tr",
@@ -1037,6 +1274,10 @@
    "machine": false
   }
  },
+ "hazal-caglar": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:31.617Z"
+ },
  "helin-elveren": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:32:28.578Z"
@@ -1068,6 +1309,35 @@
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:54.845Z"
  },
+ "hulya-gulsen": {
+  "lang": "tr",
+  "text": "Hülya Gülşen Irmak, Türk tiyatro, sinema ve dizi oyuncusudur.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/H%C3%BClya_G%C3%BCl%C5%9Fen",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:20.431Z"
+ },
+ "ibrahim-selim": {
+  "lang": "tr",
+  "text": "İbrahim Selim, Türk oyuncu, şovmen, seslendirme sanatçısı ve sunucu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/%C4%B0brahim_Selim",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:43:58.894Z",
+  "fa": {
+   "text": "ابراهیم سلیم بازیگر، مجری تلویزیون اهل ترکیه است. وی از سال ۲۰۰۵ میلادی تاکنون مشغول فعالیت بوده‌است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85_%D8%B3%D9%84%DB%8C%D9%85",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
+ },
  "ilayda-alisan": {
   "lang": "tr",
   "text": "İlayda Alişan, Türk oyuncu.",
@@ -1082,6 +1352,25 @@
    "source": {
     "name": "ویکی‌پدیای فارسی",
     "url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%DB%8C%D8%AF%D8%A7_%D8%A2%D9%84%DB%8C%D8%B4%D8%A7%D9%86",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
+ },
+ "ilhan-sen": {
+  "lang": "tr",
+  "text": "İlhan Şen, Türk oyuncu ve eski mankendir.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/%C4%B0lhan_%C5%9Een",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:28.985Z",
+  "fa": {
+   "text": "ایلهان شَن بازیگر اهل ترکیه است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D9%87%D8%A7%D9%86_%D8%B4%D9%86",
     "license": "CC BY-SA 4.0"
    },
    "machine": false
@@ -1109,6 +1398,10 @@
    },
    "machine": false
   }
+ },
+ "inci-sefa-cingoz": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:48.012Z"
  },
  "ismail-hakki": {
   "notFound": true,
@@ -1166,6 +1459,10 @@
    "machine": false
   }
  },
+ "koray-sahinbas": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:22.064Z"
+ },
  "kubilay-aka": {
   "lang": "tr",
   "text": "Kubilay Aka, Türk oyuncudur.",
@@ -1188,6 +1485,16 @@
  "kuzey-gezer": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:26:52.956Z"
+ },
+ "mazlum-cimen": {
+  "lang": "tr",
+  "text": "Mazlum Çimen, Türk besteci, keman sanatçısı, balet ve oyuncu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Mazlum_%C3%87imen",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:34.882Z"
  },
  "mehmet-avci": {
   "notFound": true,
@@ -1212,6 +1519,20 @@
    "machine": false
   }
  },
+ "mehmet-yilmaz-ak": {
+  "lang": "tr",
+  "text": "Mehmet Yılmaz Ak, Türk oyuncu ve oyun yazarı.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Mehmet_Y%C4%B1lmaz_Ak",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:15.593Z"
+ },
+ "melis-girsen": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:12.710Z"
+ },
  "melis-minkari": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:37.574Z"
@@ -1223,6 +1544,10 @@
  "melisa-berberoglu": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:39.210Z"
+ },
+ "melisa-duru-unal": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:47.443Z"
  },
  "merih-ozturk": {
   "lang": "tr",
@@ -1238,9 +1563,17 @@
   "notFound": true,
   "fetchedAt": "2026-09-29T15:27:05.780Z"
  },
+ "mert-carim": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:09.181Z"
+ },
  "mert-demirci": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:33:15.965Z"
+ },
+ "mert-dogan": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:39.933Z"
  },
  "merve-nur-bengi": {
   "notFound": true,
@@ -1382,6 +1715,10 @@
    "machine": false
   }
  },
+ "nazli-pinar-kaya": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:30.560Z"
+ },
  "nazmi-kirik": {
   "lang": "tr",
   "text": "Nazmi Kırık, Kürt asıllı Türk-Alman sinema oyuncusudur.",
@@ -1472,6 +1809,20 @@
   "notFound": true,
   "fetchedAt": "2026-09-29T15:26:58.839Z"
  },
+ "nilay-erdonmez": {
+  "lang": "tr",
+  "text": "Nilay Erdönmez, Türk sinema, tiyatro ve dizi oyuncusudur.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Nilay_Erd%C3%B6nmez",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:25.789Z"
+ },
+ "noyan-uzer": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:25.195Z"
+ },
  "nurgul-yesilcay": {
   "lang": "tr",
   "text": "Nurgül Yeşilçay, Türk dizi, film ve tiyatro oyuncusudur. Sanatçı, 2000'lerde almış olduğu rollerle ünlenmiştir.",
@@ -1490,6 +1841,24 @@
    },
    "machine": false
   }
+ },
+ "nuri-gokasan": {
+  "lang": "tr",
+  "text": "Nuri Gökaşan, Türk tiyatro ve sinema oyuncusu, seslendirme sanatçısıdır.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Nuri_G%C3%B6ka%C5%9Fan",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:43:31.960Z"
+ },
+ "omer-erkan-ozhan": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:43:18.365Z"
+ },
+ "onur-bilge": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:34.526Z"
  },
  "onur-yenidunya": {
   "notFound": true,
@@ -1556,6 +1925,10 @@
    "machine": false
   }
  },
+ "ozan-celik": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:46.904Z"
+ },
  "ozge-borak": {
   "lang": "tr",
   "text": "Özge Borak, Türk oyuncudur.",
@@ -1601,6 +1974,16 @@
  "ozlem-maden": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:51.766Z"
+ },
+ "pinar-caglar-gencturk": {
+  "lang": "tr",
+  "text": "Pınar Çağlar Gençtürk, Türk oyuncu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/P%C4%B1nar_%C3%87a%C4%9Flar_Gen%C3%A7t%C3%BCrk",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:00.919Z"
  },
  "rahimcan-kapkap": {
   "notFound": true,
@@ -1700,6 +2083,25 @@
    "machine": false
   }
  },
+ "selen-ucer": {
+  "lang": "tr",
+  "text": "Leyla Selen Uçer, Türk oyuncu. Ara filmi ve DOT yapımı Böcek oyunuyla tanınır.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Selen_U%C3%A7er",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:43:47.783Z",
+  "fa": {
+   "text": "لیلا سلن اوچر بازیگر اهل ترکیه است که بیشتر برای بازی در فیلم آرا و نمایش باگ شناخته می‌شود.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D9%86_%D8%A7%D9%88%DA%86%D8%B1",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
+ },
  "selin-koseoglu": {
   "lang": "en",
   "text": "Selin Köseoğlu is a Turkish actress.",
@@ -1726,6 +2128,16 @@
  "sena-mia-kalip": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:05.424Z"
+ },
+ "sera-tokdemir": {
+  "lang": "tr",
+  "text": "Sera Tokdemir, Türk oyuncu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Sera_Tokdemir",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:43:39.300Z"
  },
  "seray-kaya": {
   "lang": "tr",
@@ -1904,6 +2316,39 @@
    "machine": false
   }
  },
+ "sude-zulal-guler": {
+  "lang": "tr",
+  "text": "Sude Zülal Güler, Türk oyuncudur.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Sude_Z%C3%BClal_G%C3%BCler",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:01.602Z"
+ },
+ "sumeyye-aydogan": {
+  "lang": "tr",
+  "text": "Sümeyye Aydoğan, Türk oyuncu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/S%C3%BCmeyye_Aydo%C4%9Fan",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:13.788Z",
+  "fa": {
+   "text": "سمیه آیدوغان بازیگر، خواننده و مدل اهل ترکیه است. وی از سال ۲۰۲۰ میلادی تاکنون مشغول فعالیت بوده است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D9%87_%D8%A2%DB%8C%D8%AF%D9%88%D8%BA%D8%A7%D9%86",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
+ },
+ "sunay-kurtulus": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:44:27.462Z"
+ },
  "taha-baran-ozbek": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:38:52.468Z"
@@ -1993,6 +2438,16 @@
    "machine": false
   }
  },
+ "ulku-hilal-ciftci": {
+  "lang": "en",
+  "text": "Ülkü Hilal Çiftçi is a Turkish actress and singer. She began her career at a young age, appearing in commercials before moving on to television series, films, and music. She is best known for her role as Ayça in the 2024 television series İnci Taneleri, which brought her widespread recognition and critical acclaim.",
+  "source": {
+   "name": "ویکی‌پدیای انگلیسی",
+   "url": "https://en.wikipedia.org/wiki/%C3%9Clk%C3%BC_Hilal_%C3%87ift%C3%A7i",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:17.641Z"
+ },
  "ulviye-karaca": {
   "lang": "tr",
   "text": "Ulviye Karaca, Türk tiyatro oyuncusu, tiyatro yönetmeni, oyun yazarı ve dizi oyuncusudur. Özellikle Devlet Tiyatroları'ndaki çalışmaları ile tanınan Karaca, televizyon izleyicisi tarafından Beni Affet, Gençliğim Eyvah ve Gönül Dağı dizilerindeki rolleriyle geniş kitlelere ulaşmıştır.",
@@ -2002,6 +2457,16 @@
    "license": "CC BY-SA 4.0"
   },
   "fetchedAt": "2026-09-29T15:33:27.604Z"
+ },
+ "umit-cirak": {
+  "lang": "tr",
+  "text": "Ümit Çırak Türk, tiyatro, sinema ve dizi oyuncusu. Özellikle Süper Baba dizisinde oynadığı Nihat'ın çırağı rolüyle tanınır.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/%C3%9Cmit_%C3%87%C4%B1rak",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:40.271Z"
  },
  "uraz-kaygilaroglu": {
   "lang": "tr",
@@ -2022,9 +2487,29 @@
    "machine": false
   }
  },
+ "veda-yurtsever": {
+  "lang": "tr",
+  "text": "Veda Yurtsever, Türk oyuncu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Veda_Yurtsever",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:31.177Z"
+ },
  "yade-arayici": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:32:50.807Z"
+ },
+ "yavuz-sepetci": {
+  "lang": "tr",
+  "text": "Ahmet Yavuz Sepetçi, Türk oyuncu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Yavuz_Sepet%C3%A7i",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:43:26.614Z"
  },
  "yesim-gul": {
   "notFound": true,
@@ -2075,6 +2560,16 @@
  "zehra-kelleci": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:38:43.971Z"
+ },
+ "zerrin-sumer": {
+  "lang": "tr",
+  "text": "Zerrin Sümer, Türk oyuncu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Zerrin_S%C3%BCmer",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:44:00.189Z"
  },
  "zeyno-eracar": {
   "lang": "tr",
