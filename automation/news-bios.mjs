@@ -84,13 +84,14 @@ async function persianFor(found) {
 }
 
 const keys = (process.env.AI_API_KEY || process.env.GEMINI_API_KEY || "").split(",").map((k) => k.trim()).filter(Boolean);
-const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+let MODEL = process.env.GEMINI_MODEL || "gemini-3.8-flash";
 async function translate(text, name, langName) {
   for (const key of keys) {
     const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${key}`, {
       method: "POST", headers: { "content-type": "application/json" }, signal: AbortSignal.timeout(45000),
       body: JSON.stringify({ contents: [{ parts: [{ text: `Translate this short biography of the actor "${name}" from ${langName} to natural, neutral Persian. Translate only what is written; add nothing. Return only the Persian text.\n\n${text}` }] }], generationConfig: { temperature: 0.1 } }),
     });
+    if (res.status === 404 && MODEL !== "gemini-flash-latest") { MODEL = "gemini-flash-latest"; return translate(text, name, langName); }
     if (res.status === 429 || res.status === 403) continue;
     if (!res.ok) throw new Error(`Gemini HTTP ${res.status}`);
     const out = await res.json();

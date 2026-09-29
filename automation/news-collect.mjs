@@ -211,7 +211,7 @@ for (const item of [...known.values(), ...fresh].sort((a, b) => a.published.loca
 
 // ---- optional Gemini step: Persian title + summary + safety check ---------
 const keys = (process.env.AI_API_KEY || process.env.GEMINI_API_KEY || "").split(",").map((k) => k.trim()).filter(Boolean);
-const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+let MODEL = process.env.GEMINI_MODEL || "gemini-3.8-flash";
 const MAX_AI = Number(process.env.NEWS_MAX_AI || 40);
 let keyIndex = 0;
 const nameFa = (kind, slug) => kind === "series" ? series[slug]?.titleFa : people[slug]?.nameFa;
@@ -257,6 +257,7 @@ ${material}`;
       body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { temperature: 0.2, responseMimeType: "application/json" } }),
     });
     if (res.status === 429 || res.status === 403) { keyIndex++; continue; }
+    if (res.status === 404 && MODEL !== "gemini-flash-latest") { MODEL = "gemini-flash-latest"; attempt--; continue; } // model retired: use the alias
     if (!res.ok) throw new Error(`Gemini HTTP ${res.status}: ${(await res.text()).replace(/\s+/g, " ").replace(/key=[\w-]+/g, "key=…").slice(0, 200)}`);
     const out = await res.json();
     const raw = out.candidates?.[0]?.content?.parts?.[0]?.text || "";
