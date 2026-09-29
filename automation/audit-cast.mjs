@@ -8,7 +8,8 @@ for (const s of Object.values(series)) {
   const characterIds = new Set();
   for (const c of s.cast || []) {
     if (!c.name || !c.role) errors.push(`${s.slug}: بازیگر یا نام نقش خالی است`);
-    if (!c.description || !c.source) errors.push(`${s.slug}: شرح یا منبع نقش ${c.role} خالی است`);
+    // The role text is optional (some official cast pages have none); its source never is.
+    if (!c.source) errors.push(`${s.slug}: منبع نقش ${c.role} خالی است`);
     if (!c.image || !/^https:\/\//.test(c.image)) errors.push(`${s.slug}: عکس بازیگر نقش ${c.role} خالی یا نامعتبر است`);
     const personSlug = c.personSlug || slugify(c.name);
     if (!people[personSlug]) errors.push(`${s.slug}: ${c.name} در people.json ثبت نشده`);
