@@ -13,6 +13,7 @@ const series = JSON.parse(await readFile(p("data/series.json"), "utf8"));
 const profiles = JSON.parse(await readFile(p("data/people.json"), "utf8"));
 const works = JSON.parse(await readFile(p("data/works.json"), "utf8"));
 const calendar = JSON.parse(await readFile(p("data/calendar.json"), "utf8"));
+const bios = existsSync(p("data/bios.json")) ? JSON.parse(await readFile(p("data/bios.json"), "utf8")) : {};
 const seriesArr = Object.values(series);
 
 // ---- slug (MUST match github-pages/dizimeter.js) ---------------------------
@@ -53,13 +54,13 @@ for (const pr of Object.values(people)) pr.credits.sort((a, b) => (b.year || 0) 
 // ---- shared HTML shell with full SEO ---------------------------------------
 const SITE_NAV = (root, active) => {
   const items = [
-    ["", "خانه"], ["diziler/", "سریال‌ها"], ["takvim/", "تقویم"], ["ozetler/", "خلاصه‌ها"], ["fragmanlar/", "فراگمان‌ها"],
+    ["", "خانه"], ["diziler/", "سریال‌ها"], ["haber/", "اخبار"], ["takvim/", "تقویم"], ["ozetler/", "خلاصه‌ها"], ["fragmanlar/", "فراگمان‌ها"],
     ["reyting/", "ریتینگ"], ["oyuncular/", "بازیگران"], ["karakterler/", "کاراکترها"], ["kanal/", "شبکه‌ها"], ["ara/", "جستجو"],
   ];
   return `<nav class="site-nav" aria-label="بخش‌ها">${items.map(([h, t]) => `<a href="${root}${h}"${active === h ? ' class="on"' : ""}>${t}</a>`).join("")}</nav>`;
 };
 
-function head(root, { title, desc, path, ogImage, jsonld, ogType = "website", version = "20260928fa" }) {
+function head(root, { title, desc, path, ogImage, jsonld, ogType = "website", version = "20260930news" }) {
   const canonical = `${BASE}/${path}`;
   const img = ogImage ? (ogImage.startsWith("http") ? ogImage : BASE + ogImage) : BASE + LOGO;
   const ld = jsonld ? `\n<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : "";
@@ -111,7 +112,7 @@ function seriesPage(s) {
   const jsonld = { "@context": "https://schema.org", "@type": s.kind === "entertainment" ? "TVSeries" : "TVSeries", name: s.titleTr, alternateName: s.titleFa, url: `${BASE}/dizi/${s.slug}/`, inLanguage: "tr", genre: s.genre || [], countryOfOrigin: { "@type": "Country", name: "Turkey" } };
   if (img) jsonld.image = img;
   if (net) jsonld.productionCompany = net.name;
-  const h = head(root, { title: `${s.titleFa} (${s.titleTr}) | مشکی مدیا`, desc: (s.synopsis || `پروفایل، بازیگران و ری‌کپ قسمت‌های ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/`, ogImage: img, ogType: "video.tv_show", jsonld, version: "20260930trend" });
+  const h = head(root, { title: `${s.titleFa} (${s.titleTr}) | مشکی مدیا`, desc: (s.synopsis || `پروفایل، بازیگران و ری‌کپ قسمت‌های ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/`, ogImage: img, ogType: "video.tv_show", jsonld, version: "20260930news" });
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}diziler/">سریال‌ها</a><span>/</span><span id="net-badge"></span></div>
@@ -120,14 +121,16 @@ function seriesPage(s) {
 <h1 id="title-fa">${esc(s.titleFa)}</h1><p id="title-tr" dir="ltr">${esc(s.titleTr)}</p>
 <div class="profile-facts"><span id="network"></span><span id="airing"></span><span id="studio"></span></div>
 <div id="genre" class="genre-chips"></div></div></section>
-<section class="profile-section"><div class="section-kicker">داستان</div><p id="synopsis" class="synopsis"></p><a id="synopsis-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع داستان ↗</a><div id="official-links" class="official-links"></div></section>
+<nav class="profile-tabs" aria-label="بخش‌های صفحه"><a href="#about">داستان</a><a href="#cast-section">بازیگران</a><a href="#news">اخبار</a><a href="#trend">ریتینگ</a><a href="#eps">قسمت‌ها</a></nav>
+<section id="about" class="profile-section"><div class="section-kicker">داستان</div><p id="synopsis" class="synopsis"></p><a id="synopsis-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع داستان ↗</a><div id="official-links" class="official-links"></div></section>
 <section id="series-gallery-section" class="profile-section" hidden><div class="section-headline"><div><span>تصاویر رسمی</span><h2>عکس‌های سریال</h2></div><a id="series-gallery-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع عکس‌ها ↗</a></div><div id="series-gallery" class="gallery"></div></section>
 <section id="cast-section" class="profile-section"><div class="section-headline"><div><span>بازیگران و نقش‌ها</span><h2>چه کسی چه نقشی دارد؟</h2></div><small>روی نام بازیگر یا نقش بزنید</small></div><div id="cast" class="cast-grid"></div><p id="cast-empty" class="notice" hidden>فهرست تأییدشدهٔ بازیگران این سریال هنوز تکمیل نشده است.</p></section>
+<section id="news" class="profile-section"><div class="section-headline"><div><span>اخبار</span><h2>آخرین خبرهای ${esc(s.titleFa)}</h2></div><a class="gallery-source" href="${root}haber/">همهٔ اخبار ↗</a></div><div id="series-news" class="news-feed"><div class="notice">در حال بارگذاری اخبار…</div></div></section>
 <section id="trend" class="profile-section"><div class="section-headline"><div><span>ریتینگ</span><h2>روند ریتینگ پخش به پخش</h2></div><small>Total · AB · ABC1</small></div><div id="series-trend"></div></section>
-<section class="profile-section"><div class="section-headline"><div><span>قسمت‌ها</span><h2>ری‌کپ و ریتینگ قسمت‌ها</h2></div><small>Total · AB · ABC1</small></div><div id="episodes" class="episodes"></div></section>
+<section id="eps" class="profile-section"><div class="section-headline"><div><span>قسمت‌ها</span><h2>ری‌کپ و ریتینگ قسمت‌ها</h2></div><small>Total · AB · ABC1</small></div><div id="episodes" class="episodes"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/#episodes`, "☰", "قسمت‌ها", true], [`dizi/${s.slug}/#cast`, "◉", "بازیگران"], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
-  return h + body + boot(root, { slug: s.slug }, ["rating-trends.js", "series-page.js", "gallery.js"], "20260930trend");
+  return h + body + boot(root, { slug: s.slug }, ["rating-trends.js", "series-page.js", "gallery.js", "news.js"], "20260930news");
 }
 
 // ---- Episode page ----------------------------------------------------------
@@ -163,10 +166,11 @@ function networkPage(net) {
 <main class="app-shell">
 <section class="net-hero" style="--net-color:${net.color}"><div class="net-hero-top"><img id="net-logo" src="${root}images/networks/${net.slug}.svg" alt="${esc(net.name)}"><div><h1 id="net-name">${esc(net.name)}</h1><div class="net-fa" id="net-name-fa"></div></div></div><div class="net-meta"><span><b id="net-count">۰</b> سریال</span><a id="net-site" href="${net.site || "#"}" target="_blank" rel="noreferrer">سایت رسمی ↗</a></div></section>
 <section class="feed-section"><div class="feed-label"><span>سریال‌های این شبکه</span><i></i></div><div id="net-series" class="series-grid"></div></section>
+<section id="net-news-section" class="feed-section"><div class="feed-label"><span>اخبار این شبکه</span><i></i></div><div id="network-news" class="news-feed"></div></section>
 <section id="net-ratings-section" class="feed-section"><div class="feed-label"><span>در جدول اخیر (<span id="net-day-date"></span>)</span><i></i></div><div id="net-ratings"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["kanal/", "▦", "شبکه‌ها", true], ["diziler/", "☰", "سریال‌ها"], ["#net-series", "⌁", "ریتینگ"]])}`;
-  return h + body + boot(root, { slug: net.slug }, ["network-page.js"]);
+  return h + body + boot(root, { slug: net.slug }, ["network-page.js", "news.js"], "20260930news");
 }
 
 // ---- Actor page ------------------------------------------------------------
@@ -177,18 +181,20 @@ function actorPage(pr) {
   if (pr.nameFa) jsonld.alternateName = pr.nameFa;
   const disp = pr.nameFa || pr.name;
   const roles = pr.credits.map((c) => c.characterFa || c.character).filter(Boolean).slice(0, 3).join("، ");
-  if (pr.bio) jsonld.description = pr.bio;
+  const bioText = pr.bio || bios[pr.slug]?.fa?.text || "";
+  if (bioText) jsonld.description = bioText;
   if (pr.socials) jsonld.sameAs = Object.values(pr.socials).filter((u) => /^https:\/\//.test(u));
-  const h = head(root, { title: `${disp} — بازیگر | مشکی مدیا`, desc: (pr.bio || `${disp} (${pr.name})، بازیگر؛ ${roles}. فیلم‌ها و سریال‌ها در مشکی مدیا.`).slice(0, 180), path: `oyuncu/${pr.slug}/`, ogImage: pr.photo, ogType: "profile", jsonld });
+  const h = head(root, { title: `${disp} — بازیگر | مشکی مدیا`, desc: (bioText || `${disp} (${pr.name})، بازیگر؛ ${roles}. فیلم‌ها و سریال‌ها در مشکی مدیا.`).slice(0, 180), path: `oyuncu/${pr.slug}/`, ogImage: pr.photo, ogType: "profile", jsonld });
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}oyuncular/">بازیگران</a><span>/</span><span>${esc(disp)}</span></div>
 <section class="person-hero actor-hero"><div class="person-photo ${pr.photo ? "" : "no-image"}">${pr.photo ? `<img src="${esc(pr.photo)}" alt="" onerror="this.remove();this.parentElement.classList.add('no-image')">` : ""}<span class="avatar-initial">${esc(disp.slice(0, 1))}</span></div><div><span class="kicker">بازیگر</span><h1>${esc(disp)}</h1><p class="muted-line" dir="ltr">${esc(pr.name)}</p><p class="muted-line">${esc(roles || "")}</p></div></section>
-<section class="profile-section"><div class="section-headline"><div><span>دربارهٔ بازیگر</span><h2>معرفی</h2></div></div><p id="actor-bio" class="synopsis"></p><div id="actor-socials" class="official-links" aria-label="شبکه‌های اجتماعی بازیگر" hidden></div><div class="profile-sources"><a id="actor-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع معرفی ↗</a>${pr.photoSource ? `<a class="gallery-source" href="${esc(pr.photoSource)}" target="_blank" rel="noopener noreferrer">منبع عکس ↗</a>` : ""}</div></section>
+<section class="profile-section"><div class="section-headline"><div><span>دربارهٔ بازیگر</span><h2>معرفی</h2></div></div><p id="actor-bio" class="synopsis"></p><p id="actor-bio-credit" class="bio-credit" hidden></p><div id="actor-socials" class="official-links" aria-label="شبکه‌های اجتماعی بازیگر" hidden></div><div class="profile-sources"><a id="actor-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع معرفی ↗</a>${pr.photoSource ? `<a class="gallery-source" href="${esc(pr.photoSource)}" target="_blank" rel="noopener noreferrer">منبع عکس ↗</a>` : ""}</div></section>
 <section class="profile-section"><div class="section-headline"><div><span>کارنامهٔ پیوسته</span><h2>فیلم‌ها و سریال‌ها</h2></div><small id="credit-count"></small></div><div id="credits" class="credits-grid"></div></section>
+<section id="news" class="profile-section"><div class="section-headline"><div><span>اخبار</span><h2>آخرین خبرهای ${esc(disp)}</h2></div><a class="gallery-source" href="${root}haber/">همهٔ اخبار ↗</a></div><div id="actor-news" class="news-feed"><div class="notice">در حال بارگذاری اخبار…</div></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["oyuncular/", "◉", "بازیگران", true], ["diziler/", "☰", "سریال‌ها"], ["ara/", "⌕", "جستجو"]])}`;
-  return h + body + boot(root, { slug: pr.slug }, ["actor-page.js"]);
+  return h + body + boot(root, { slug: pr.slug }, ["actor-page.js", "news.js"], "20260930news");
 }
 
 // ---- Character page --------------------------------------------------------
@@ -330,6 +336,21 @@ for (const w of Object.values(works)) {
   urls.push({ loc: `${BASE}/asar/${w.slug}/`, pri: "0.4" });
 }
 
+// ---- News page -------------------------------------------------------------
+function newsPage() {
+  const root = "../";
+  const jsonld = { "@context": "https://schema.org", "@type": "CollectionPage", name: "اخبار سریال‌های ترکی", url: `${BASE}/haber/`, inLanguage: "fa" };
+  const h = head(root, { title: "اخبار سریال‌های ترکی و بازیگران | مشکی مدیا", desc: "آخرین خبرهای رسانه‌های ترکیه دربارهٔ سریال‌ها، بازیگران و شبکه‌ها؛ هر خبر با لینک منبع و پیوند به صفحهٔ سریال و بازیگر مرتبط.", path: "haber/", jsonld });
+  const body = `
+<main class="app-shell">
+<section class="intro"><span class="kicker">اخبار</span><h1>اخبار دنیای سریال‌های ترکی</h1><p>خبرهای رسانه‌های ترکیه دربارهٔ سریال‌ها، بازیگران و شبکه‌ها؛ هر خبر با لینک منبع و پیوند به صفحهٔ مرتبط.</p></section>
+<section class="feed-section"><div id="news-page" class="news-page"><div class="notice">در حال بارگذاری اخبار…</div></div>
+<p class="news-policy">خبرها از فید رسانه‌های ترکیه گردآوری می‌شوند؛ ما فقط عنوان، خلاصهٔ کوتاه و پیوند منبع را نشان می‌دهیم و متن کامل خبر در سایت منبع است. برچسب «شایعه / ادعا» یعنی خبر تأییدنشده. مطالب دربارهٔ سلامت، اتهام‌های جنایی و کودکان منتشر نمی‌شود.</p></section>
+</main>
+${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["haber/", "✎", "اخبار", true], ["takvim/", "▤", "تقویم"]])}`;
+  return h + body + boot(root, {}, ["news.js"], "20260930news");
+}
+
 // list pages
 const lists = [
   { path: "diziler/", title: "همهٔ سریال‌ها | مشکی مدیا", desc: "فهرست کامل سریال‌های در حال پخش تلویزیون ترکیه با شبکه، روز پخش و ریتینگ.", kicker: "فهرست", h1: "سریال‌ها", sub: "همهٔ سریال‌ها و سرگرمی‌های ثبت‌شده", containerId: "series-grid", script: "list-series.js", active: "diziler/" },
@@ -341,6 +362,9 @@ const lists = [
   { path: "ara/", title: "جستجو | مشکی مدیا", desc: "جستجو در سریال‌ها، بازیگران، کاراکترها و قسمت‌های مشکی مدیا.", kicker: "جستجو", h1: "جستجو", sub: "در سریال‌ها، بازیگران، کاراکترها و قسمت‌ها", containerId: "search-results", script: "search.js", active: "ara/" },
 ];
 for (const l of lists) { await mkdir(p(l.path), { recursive: true }); await writeFile(p(l.path + "index.html"), listPage(l), "utf8"); count.lists++; urls.push({ loc: `${BASE}/${l.path}`, pri: "0.7" }); }
+await mkdir(p("haber/"), { recursive: true });
+await writeFile(p("haber/index.html"), newsPage(), "utf8"); count.lists++;
+urls.push({ loc: `${BASE}/haber/`, pri: "0.8" });
 await mkdir(p("reyting/"), { recursive: true });
 await writeFile(p("reyting/index.html"), ratingsPage(), "utf8"); count.lists++;
 urls.push({ loc: `${BASE}/reyting/`, pri: "0.8" });
