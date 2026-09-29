@@ -211,7 +211,8 @@ for (const item of [...known.values(), ...fresh].sort((a, b) => a.published.loca
 
 // ---- optional Gemini step: Persian title + summary + safety check ---------
 const keys = (process.env.AI_API_KEY || process.env.GEMINI_API_KEY || "").split(",").map((k) => k.trim()).filter(Boolean);
-let MODEL = process.env.GEMINI_MODEL || "gemini-3.8-flash";
+const PRIMARY = process.env.GEMINI_MODEL || "gemini-3.8-flash";
+let MODEL = PRIMARY;
 const MAX_AI = Number(process.env.NEWS_MAX_AI || 40);
 let keyIndex = 0;
 const nameFa = (kind, slug) => kind === "series" ? series[slug]?.titleFa : people[slug]?.nameFa;
@@ -229,6 +230,7 @@ async function articleText(url) {
 }
 
 async function summarize(item) {
+  let busy = 0;
   const srcs = item.sources.slice(0, 4);
   const openings = await Promise.all(srcs.map((x) => articleText(x.url)));
   const glossary = [
@@ -258,6 +260,9 @@ ${material}`;
     });
     if (res.status === 429 || res.status === 403) { keyIndex++; continue; }
     if (res.status === 404 && MODEL !== "gemini-flash-latest") { MODEL = "gemini-flash-latest"; attempt--; continue; } // model retired: use the alias
+    if ((res.status === 503 || res.status === 500) && (busy = (typeof busy === "number" ? busy : 0) + 1) <= 4) { // overloaded: wait, alternate model, retry
+      await new Promise((r) => setTimeout(r, 2500 * busy)); MODEL = MODEL === "gemini-flash-latest" ? PRIMARY : "gemini-flash-latest"; attempt--; continue;
+    }
     if (!res.ok) throw new Error(`Gemini HTTP ${res.status}: ${(await res.text()).replace(/\s+/g, " ").replace(/key=[\w-]+/g, "key=…").slice(0, 200)}`);
     const out = await res.json();
     const raw = out.candidates?.[0]?.content?.parts?.[0]?.text || "";
@@ -280,7 +285,7 @@ export function cleanComparison(c, sources) {
 }
 
 if (keys.length) {
-  let budget = MAX_AI;
+  let budget = MAX_AI, failStreak = 0;
   const queue = pool.filter((i) => (!i.bodyFa && !i.aiFailed) || i.regen)
     .sort((a, b) => (RANK[a.scope] ?? 1) - (RANK[b.scope] ?? 1) || b.published.localeCompare(a.published));
   for (const item of queue) {
@@ -298,13 +303,13 @@ if (keys.length) {
       const cmp = cleanComparison(r.comparison, item.sources.slice(0, 4));
       if (cmp) item.comparison = cmp; else delete item.comparison;
       if (["official", "media", "rumor"].includes(r.kind) && !(item.kind === "official" && r.kind !== "official")) item.kind = r.kind;
-      item.ai = true; delete item.regen; stats.summarized++;
+      item.ai = true; delete item.regen; stats.summarized++; failStreak = 0;
       item.aiTries = (item.aiTries || 0) + 1;
       if (!item.bodyFa && item.aiTries >= 2) item.aiFailed = true; // do not retry a page the model cannot write
     } catch (e) {
       console.warn(`summary failed for ${item.id}: ${e.message}`);
       stats.aiErrors = stats.aiErrors || []; if (stats.aiErrors.length < 3) stats.aiErrors.push(String(e.message).slice(0, 260));
-      if (/rate-limited/.test(e.message)) break;
+      if (/rate-limited/.test(e.message) || ++failStreak >= 3) break; // give up this run; the next one continues
     }
     await new Promise((r) => setTimeout(r, 400));
   }
