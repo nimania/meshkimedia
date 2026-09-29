@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T13:58:58.064Z",
+  "updatedAt": "2026-09-29T10:14:42.205Z",
   "metric": "Rating %",
   "windowDays": 120,
   "source": {
@@ -27,6 +27,233 @@
     }
   },
   "days": [
+    {
+      "date": "28.09.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "TURKIYE-ITALYA UEFA ULUSLAR LIGI KARSILASMASI",
+            "network": "ATV",
+            "rating": 10.78,
+            "share": 32.91
+          },
+          {
+            "rank": 2,
+            "program": "UZAK SEHIR",
+            "network": "KANAL D",
+            "rating": 7.93,
+            "share": 22.44
+          },
+          {
+            "rank": 3,
+            "program": "ALTI USTU ISTANBUL ON GOSTERIM",
+            "network": "ATV",
+            "rating": 5.13,
+            "share": 15.06
+          },
+          {
+            "rank": 4,
+            "program": "UZAK SEHIR (OZET)",
+            "network": "KANAL D",
+            "rating": 4.56,
+            "share": 13.74
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.06,
+            "share": 31.72
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.87,
+            "share": 19.72
+          },
+          {
+            "rank": 7,
+            "program": "ALTI USTU ISTANBUL OZEL",
+            "network": "ATV",
+            "rating": 3.7,
+            "share": 11.42
+          },
+          {
+            "rank": 8,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.38,
+            "share": 12.06
+          },
+          {
+            "rank": 9,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 3.04,
+            "share": 10.98
+          },
+          {
+            "rank": 10,
+            "program": "MILLI MACA DOGRU",
+            "network": "ATV",
+            "rating": 2.64,
+            "share": 7.39
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "TURKIYE-ITALYA UEFA ULUSLAR LIGI KARSILASMASI",
+            "network": "ATV",
+            "rating": 13.43,
+            "share": 40.13
+          },
+          {
+            "rank": 2,
+            "program": "UZAK SEHIR",
+            "network": "KANAL D",
+            "rating": 5.82,
+            "share": 16.42
+          },
+          {
+            "rank": 3,
+            "program": "ALTI USTU ISTANBUL ON GOSTERIM",
+            "network": "ATV",
+            "rating": 4.22,
+            "share": 13.07
+          },
+          {
+            "rank": 4,
+            "program": "UZAK SEHIR (OZET)",
+            "network": "KANAL D",
+            "rating": 3.59,
+            "share": 11.36
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.43,
+            "share": 31.89
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.18,
+            "share": 12.35
+          },
+          {
+            "rank": 7,
+            "program": "ALTI USTU ISTANBUL OZEL",
+            "network": "ATV",
+            "rating": 3.14,
+            "share": 10.21
+          },
+          {
+            "rank": 8,
+            "program": "EVLILIK GUZELDIR",
+            "network": "TRT 1",
+            "rating": 3.09,
+            "share": 8.75
+          },
+          {
+            "rank": 9,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.93,
+            "share": 9.04
+          },
+          {
+            "rank": 10,
+            "program": "MILLI MACA DOGRU",
+            "network": "ATV",
+            "rating": 2.53,
+            "share": 7.32
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "TURKIYE-ITALYA UEFA ULUSLAR LIGI KARSILASMASI",
+            "network": "ATV",
+            "rating": 13.55,
+            "share": 37.53
+          },
+          {
+            "rank": 2,
+            "program": "UZAK SEHIR",
+            "network": "KANAL D",
+            "rating": 6.79,
+            "share": 17.9
+          },
+          {
+            "rank": 3,
+            "program": "ALTI USTU ISTANBUL ON GOSTERIM",
+            "network": "ATV",
+            "rating": 4.46,
+            "share": 12.92
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.36,
+            "share": 33.42
+          },
+          {
+            "rank": 5,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 4.02,
+            "share": 14.77
+          },
+          {
+            "rank": 6,
+            "program": "UZAK SEHIR (OZET)",
+            "network": "KANAL D",
+            "rating": 3.97,
+            "share": 11.82
+          },
+          {
+            "rank": 7,
+            "program": "ALTI USTU ISTANBUL OZEL",
+            "network": "ATV",
+            "rating": 3.48,
+            "share": 10.71
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.13,
+            "share": 17.13
+          },
+          {
+            "rank": 9,
+            "program": "EVLILIK GUZELDIR",
+            "network": "TRT 1",
+            "rating": 3.06,
+            "share": 8.07
+          },
+          {
+            "rank": 10,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.94,
+            "share": 8.42
+          }
+        ]
+      }
+    },
     {
       "date": "27.09.2026",
       "weekday": "",
