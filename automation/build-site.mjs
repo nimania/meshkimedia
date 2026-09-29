@@ -227,7 +227,7 @@ function workPage(w) {
 function listPage({ path, title, desc, kicker, h1, sub, containerId, script, active }) {
   const root = "../";
   const isCalendar = path === "takvim/";
-  const version = isCalendar ? "20260928episode2" : "20260927d";
+  const version = isCalendar ? "20260929ep" : "20260927d";
   const jsonld = { "@context": "https://schema.org", "@type": "CollectionPage", name: title, url: `${BASE}/${path}` };
   const h = head(root, { title, desc, path, jsonld, version });
   const search = `<div class="list-search"><input id="q" type="search" placeholder="جستجو…" aria-label="جستجو"></div>`;

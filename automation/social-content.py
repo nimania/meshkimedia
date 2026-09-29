@@ -175,9 +175,11 @@ for offset in (0, 1):
     for ep in calendar.get("days", {}).get(day, []):
         show = series.get(ep["slug"])
         if not show or show.get("kind") != "series": continue
-        # A calendar's season-relative number can differ from the series' global episode number.
-        # Use its exact number in the card and link; do not graft an unrelated summary onto it.
-        add("schedule", show, ep, day, show.get("synopsis", ""), show.get("hero"))
+        # The calendar numbers inside a season; series.json (synced by sync-episodes.mjs) holds the
+        # continuous number used in page links. Do not graft an unrelated summary onto it.
+        synced = next((dict(ep, season=se["number"], episode=e["number"]) for se in show.get("seasons", [])
+                       for e in se.get("episodes", []) if e.get("date") == day), None)
+        add("schedule", show, synced or ep, day, show.get("synopsis", ""), show.get("hero"))
 
 # Recaps require a real summary and a known broadcast date; keep a small recent window.
 recaps = []

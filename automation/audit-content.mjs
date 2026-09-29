@@ -27,14 +27,18 @@ for (const [slug, show] of Object.entries(series)) {
   if (show.fragman && !isHttps(show.fragman)) issues.push(`${slug}: invalid trailer URL`);
   if (required.includes(slug) && show.synopsis && !isHttps(show.synopsisSource)) issues.push(`${slug}: synopsis needs a source URL`);
   for (const url of [show.hero, ...(show.photos || [])].filter(Boolean)) if (!isHttps(url)) issues.push(`${slug}: invalid image URL`);
+  // Broadcasts added automatically from the calendar (sync-episodes.mjs) have no recap yet;
+  // they must not block publishing, exactly as when they lived only in calendar.json.
+  const editorial = episodes.filter((ep) => !ep.calendar || ep.summary?.trim());
   const row = {
     slug,
     story: !!show.synopsis?.trim(),
     cover: !!show.hero,
     photos: (show.photos || []).length,
-    episodes: episodes.length,
-    recaps: episodes.filter((ep) => ep.summary?.trim()).length,
-    galleries: episodes.filter((ep) => (ep.images || []).length > 1).length,
+    episodes: editorial.length,
+    recaps: editorial.filter((ep) => ep.summary?.trim()).length,
+    galleries: editorial.filter((ep) => (ep.images || []).length > 1).length,
+    calendar: episodes.length - editorial.length,
   };
   coverage.push(row);
   if (required.includes(slug) && (!row.story || !row.cover || !row.photos || row.recaps !== row.episodes || row.galleries !== row.episodes)) {

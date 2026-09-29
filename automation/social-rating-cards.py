@@ -180,9 +180,11 @@ for show in series.values():
     rows = get_rows(show)
     if not any(rows.values()):
         continue
-    episode = next((dict(number=e["episode"], season=e["season"]) for e in calendar.get("days", {}).get(date, []) if e["slug"] == show["slug"]), None)
+    # series.json holds the continuous episode number (synced from the calendar); the raw
+    # calendar numbers inside a season, so it is only a fallback.
+    episode = next((dict(number=ep["number"], season=season["number"]) for season in show.get("seasons", []) for ep in season.get("episodes", []) if ep.get("date") == date), None)
     if episode is None:
-        episode = next((dict(number=ep["number"], season=season["number"]) for season in show.get("seasons", []) for ep in season.get("episodes", []) if ep.get("date") == date), None)
+        episode = next((dict(number=e["episode"], season=e["season"]) for e in calendar.get("days", {}).get(date, []) if e["slug"] == show["slug"]), None)
     photo = official_art(show.get("hero", ""))
     name = show["slug"]
     for kind, landscape in (("instagram", False), ("x", True)):
