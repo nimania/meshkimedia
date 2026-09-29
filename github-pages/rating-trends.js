@@ -1,7 +1,7 @@
 /* Shared, source-backed rating trends. Missing rows are never estimated. */
 (function (root) {
   "use strict";
-  const colors = ["#d10a1e", "#2167c6", "#14846e", "#a55a12", "#8052b0", "#bd3b83", "#237f9c", "#806e16", "#5d6dc6", "#b84635", "#347347", "#704795", "#ca6393", "#497c82", "#8d572b", "#6677a4", "#b33d54", "#639c37"];
+  const colors = ["#d10a1e", "#2167c6", "#009068", "#a55a12", "#8052b0", "#bd3b83", "#237f9c", "#806e16", "#5d6dc6", "#b84635", "#347347", "#704795", "#ca6393", "#497c82", "#8d572b", "#6677a4", "#b33d54", "#639c37"];
   const modes = ["total", "ab", "abc1"];
   const labels = { total: "Total", ab: "AB", abc1: "ABC1" };
   const iso = (date) => { const [d, m, y] = String(date || "").split("."); return y ? `${y}-${m}-${d}` : ""; };

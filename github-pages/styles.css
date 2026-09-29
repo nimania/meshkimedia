@@ -466,3 +466,10 @@ body.home{--page-w:1120px}
 .calendar-credit{margin:0 0 38px;color:var(--muted);font-size:11px;text-align:center}
 .calendar-credit a:hover{color:var(--green)}
 @media(max-width:700px){.calendar-cards{grid-template-columns:1fr}.calendar-card{min-height:124px}.calendar-poster{width:92px;min-height:124px}.calendar-tools{padding:12px}.calendar-network-wrap{flex-basis:135px}}
+/* Series-page rating trend table */
+.trend-table-toggle{margin:10px 0}.trend-table-toggle summary{cursor:pointer;color:var(--green);font-size:12px;font-weight:700}
+.table-wrap{overflow-x:auto;margin-top:10px}.trend-table{width:100%;border-collapse:collapse;font-size:12px}
+.trend-table th,.trend-table td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+.trend-table th{color:var(--muted);font-weight:600}.trend-table td small{color:var(--muted);font-size:10px}
+.trend-button:disabled{opacity:.45}
+.weekly-tabs{margin:12px 0}.weekly-table td .muted{color:var(--muted)}

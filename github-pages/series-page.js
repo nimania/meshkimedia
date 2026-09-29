@@ -74,5 +74,36 @@
         return `<article class="episode-card"><a class="episode-image ${img ? "" : "no-image"}" href="${href}" ${img ? `style="background-image:url('${D.esc(img)}')"` : ""}>${img ? "" : "<span>تصویر پس از انتشار</span>"}</a><div class="episode-copy"><div class="episode-meta"><span>${e.scheduled ? "در تقویم · " : ""}قسمت ${D.fmtInt(e.number)}</span><span>${D.isoToFa(e.date)}</span></div><h3><a href="${href}">${D.esc(title)}</a></h3><p>${D.esc(summary)}</p>${e.scheduled ? '<p class="ratings-note">ریتینگ هنوز اعلام نشده است.</p>' : D.ratingPills(modes, ratings)}<div class="episode-actions"><a class="ep-open" href="${href}">${e.scheduled ? "روند ریتینگ قسمت‌های قبلی ←" : "خلاصه و عکس‌ها ←"}</a>${!e.scheduled && ext ? `<a href="${D.esc(ext)}" target="_blank" rel="noopener noreferrer">${e.watchUrl ? "تماشای قسمت" : "قسمت‌ها در شبکه"} ↗</a>` : ""}${e.fragman ? `<a href="${D.esc(e.fragman)}" target="_blank" rel="noopener noreferrer">تیزر ↗</a>` : ""}</div></div></article>`;
       }).join("");
     } else { $("#episodes").innerHTML = `<div class="notice">قسمت‌های این ${d.kind === "entertainment" ? "برنامه" : "سریال"} به‌زودی ثبت می‌شوند.</div>`; }
+
+    // Rating trend across every dated broadcast (TİAK public Top 10 + reviewed supplement).
+    const T = window.RatingTrends;
+    const trendEl = $("#series-trend");
+    if (T && trendEl) {
+      const points = T.broadcasts(ratings, d, calendar);
+      if (points.length) {
+        const label = (p) => p.episode ? `قسمت ${p.episode.number}` : "پخش";
+        const build = (metric) => T.chart(T.modes.map((mode, i) => ({ name: T.labels[mode], color: T.colors[i],
+          points: points.map((p) => ({ value: p.rows[mode]?.[metric] ?? null, label: label(p), date: p.date })) })),
+          { metric, xCount: points.length, aria: `روند ${metric === "rank" ? "رتبهٔ" : "ریتینگ درصد"} Total، AB و ABC1 سریال ${d.titleFa} در پخش‌های ثبت‌شده` });
+        const hasRating = points.some((p) => T.modes.some((mode) => p.rows[mode]?.rating != null));
+        const legend = T.modes.map((mode, i) => `<span class="trend-legend-item"><i style="--trend-color:${T.colors[i]}"></i>${T.labels[mode]}</span>`).join("");
+        const cell = (row) => row ? (row.rating != null ? `${D.fmtScore(row.rating)}٪ <small>#${D.fmtInt(row.rank)}</small>` : `#${D.fmtInt(row.rank)}`) : "—";
+        const table = `<div class="table-wrap"><table class="trend-table"><thead><tr><th>پخش</th><th>تاریخ</th>${T.modes.map((m) => `<th dir="ltr">${T.labels[m]}</th>`).join("")}</tr></thead><tbody>${points.slice().reverse().map((p) =>
+          `<tr><td>${p.episode ? `<a href="${root}dizi/${d.slug}/bolum-${p.episode.number}/">قسمت ${D.fmtInt(p.episode.number)}</a>` : "—"}</td><td>${D.isoToFa(p.date)}</td>${T.modes.map((m) => `<td>${cell(p.rows[m])}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+        const change = T.changes(points, "total", "rating");
+        const delta = change ? `<p class="trend-delta ${change.delta >= 0 ? "up" : "down"}">Total آخرین پخش: ${change.delta >= 0 ? "افزایش" : "کاهش"} ${T.fa(Math.abs(change.delta))} واحد نسبت به پخش ثبت‌شدهٔ قبلی</p>` : "";
+        const metric0 = hasRating ? "rating" : "rank";
+        trendEl.innerHTML = `<div class="trend-switch" role="group" aria-label="سنجهٔ نمودار"><button class="trend-button ${metric0 === "rating" ? "active" : ""}" data-metric="rating" aria-pressed="${metric0 === "rating"}" ${hasRating ? "" : "disabled"}>ریتینگ ٪</button><button class="trend-button ${metric0 === "rank" ? "active" : ""}" data-metric="rank" aria-pressed="${metric0 === "rank"}">رتبه</button></div>`
+          + `<div id="series-trend-graph">${build(metric0)}</div><div class="trend-legend">${legend}</div>${delta}`
+          + `<details class="trend-table-toggle"><summary>جدول همهٔ پخش‌ها (${T.fa(points.length)})</summary>${table}</details>`
+          + `<p class="trend-help">فقط پخش‌هایی که در جدول عمومی ۱۰تایی TİAK آمده‌اند نمایش داده می‌شوند؛ نبودن یک پخش به معنی ریتینگ صفر نیست. پخش‌های «خلاصه» جدا حساب می‌شوند.</p>`;
+        trendEl.querySelectorAll("[data-metric]").forEach((b) => b.addEventListener("click", () => {
+          trendEl.querySelector("#series-trend-graph").innerHTML = build(b.dataset.metric);
+          trendEl.querySelectorAll("[data-metric]").forEach((x) => { x.classList.toggle("active", x === b); x.setAttribute("aria-pressed", String(x === b)); });
+        }));
+      } else {
+        trendEl.innerHTML = '<div class="trend-empty">این سریال در بازهٔ بایگانی ما در جدول عمومی ۱۰تایی TİAK دیده نشده است؛ این به معنی ریتینگ صفر نیست.</div>';
+      }
+    }
   } catch (e) { console.error(e); const el = $("#synopsis"); if (el) el.textContent = "اطلاعات این سریال موقتاً در دسترس نیست."; }
 })();

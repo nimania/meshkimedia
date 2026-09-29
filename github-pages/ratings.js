@@ -140,6 +140,66 @@
       : `برای این تاریخ هنوز مقدار عددی در بایگانی ما ثبت نشده است؛ پس از بازیابی جدول عمومی ${data.ratings.source.name} کامل می‌شود.`;
   }
 
+  // ---- Weekly ranking: series broadcasts per TİAK week (Monday–Sunday) --------
+  let weekCat = "total", weekIdx = 0;
+  const tiakIso = (v) => { const [d, m, y] = String(v).split("."); return `${y}-${m}-${d}`; };
+  const weekStart = (iso) => { const t = new Date(`${iso}T12:00:00Z`); t.setUTCDate(t.getUTCDate() - ((t.getUTCDay() + 6) % 7)); return t.toISOString().slice(0, 10); };
+  function weeks() {
+    const map = new Map();
+    for (const day of data.ratings.days || []) {
+      const iso = tiakIso(day.date), key = weekStart(iso);
+      if (!map.has(key)) map.set(key, []);
+      map.get(key).push({ iso, day });
+    }
+    return [...map.entries()].sort((a, b) => b[0].localeCompare(a[0])).map(([start, days]) => ({ start, days }));
+  }
+  function weekRows(week, cat) {
+    const bySeries = new Map();
+    for (const { iso, day } of week.days) {
+      for (const row of day.categories?.[cat] || []) {
+        const s = seriesByKey[String(row.program || "").toUpperCase().trim()]; // exact key: recaps (ÖZET) stay out
+        if (!s || s.kind !== "series") continue;
+        const item = bySeries.get(s.slug) || { s, rows: [] };
+        item.rows.push({ ...row, iso });
+        bySeries.set(s.slug, item);
+      }
+    }
+    return [...bySeries.values()].map((x) => {
+      const rated = x.rows.filter((r) => r.rating != null);
+      return { ...x, avg: rated.length ? rated.reduce((n, r) => n + r.rating, 0) / rated.length : null,
+        best: Math.min(...x.rows.map((r) => r.rank)) };
+    }).sort((a, b) => (b.avg ?? -1) - (a.avg ?? -1) || a.best - b.best);
+  }
+  function renderWeekly() {
+    const el = $("#weekly-content");
+    if (!el) return;
+    try { drawWeekly(el); } catch (e) { console.error(e); el.innerHTML = '<div class="notice">جدول هفتگی موقتاً در دسترس نیست.</div>'; }
+  }
+  function drawWeekly(el) {
+    const all = weeks().slice(0, 6);
+    if (!all.length) { el.innerHTML = '<div class="notice">هنوز داده‌ای برای جدول هفتگی نداریم.</div>'; return; }
+    weekIdx = Math.min(weekIdx, all.length - 1);
+    const week = all[weekIdx], prev = all[weekIdx + 1];
+    const rows = weekRows(week, weekCat);
+    const prevAvg = new Map(prev ? weekRows(prev, weekCat).map((x) => [x.s.slug, x.avg]) : []);
+    const end = new Date(`${week.start}T12:00:00Z`); end.setUTCDate(end.getUTCDate() + 6);
+    const label = (w) => `${D.isoToFa(w.start)}${w.days.length < 7 ? " (ناقص)" : ""}`;
+    const tabs = all.map((w, i) => `<button class="day-tab ${i === weekIdx ? "active" : ""}" data-week="${i}">${label(w)}</button>`).join("");
+    const cats = ["total", "ab", "abc1"].map((k) => `<button class="trend-button ${k === weekCat ? "active" : ""}" data-weekcat="${k}" aria-pressed="${k === weekCat}">${data.ratings.categories[k].label}</button>`).join("");
+    const body = rows.length ? rows.map((x, i) => {
+      const p = prevAvg.get(x.s.slug);
+      const diff = x.avg != null && p != null ? x.avg - p : null;
+      const change = diff == null ? '<span class="muted">—</span>' : `<b class="${diff >= 0 ? "up" : "down"}">${diff > 0 ? "+" : diff < 0 ? "−" : ""}${D.fmtScore(Math.abs(diff))}</b>`;
+      return `<tr><td>${D.fmtInt(i + 1)}</td><td><a href="${D.ROOT}dizi/${x.s.slug}/">${D.esc(x.s.titleFa)}</a></td><td>${x.avg != null ? D.fmtScore(x.avg) + "٪" : "—"}</td><td>${change}</td><td>#${D.fmtInt(x.best)}</td><td>${D.fmtInt(x.rows.length)}</td></tr>`;
+    }).join("") : `<tr><td colspan="6">در این هفته هیچ سریالی در جدول عمومی ${data.ratings.categories[weekCat].label} نبوده است.</td></tr>`;
+    el.innerHTML = `<div class="day-tabs weekly-tabs">${tabs}</div><div class="trend-switch" role="group" aria-label="دستهٔ مخاطب">${cats}</div>`
+      + `<p class="trend-help">هفتهٔ ${D.isoToFa(week.start)} تا ${D.isoToFa(end.toISOString().slice(0, 10))} · ${D.fmtInt(week.days.length)} روز دارای داده</p>`
+      + `<div class="table-wrap"><table class="trend-table weekly-table"><thead><tr><th>#</th><th>سریال</th><th>میانگین ریتینگ</th><th>نسبت به هفتهٔ قبل</th><th>بهترین رتبه</th><th>پخش در Top 10</th></tr></thead><tbody>${body}</tbody></table></div>`
+      + '<p class="trend-help">میانگین فقط از پخش‌هایی حساب می‌شود که به جدول عمومی ۱۰تایی TİAK رسیده‌اند؛ پخش‌های «خلاصه» حساب نمی‌شوند. سریالی که در این جدول نیست، ریتینگ صفر ندارد.</p>';
+    el.querySelectorAll("[data-week]").forEach((b) => b.addEventListener("click", () => { weekIdx = Number(b.dataset.week); renderWeekly(); }));
+    el.querySelectorAll("[data-weekcat]").forEach((b) => b.addEventListener("click", () => { weekCat = b.dataset.weekcat; renderWeekly(); }));
+  }
+
   function renderAll() {
     renderDayTabs(); renderCatTabs();
     renderSummary(); renderList(); renderNote();
@@ -152,6 +212,7 @@
     buildKeyMap();
     trendItems = T.onAir(data.series).map((s, i) => ({ s, color: T.colors[i % T.colors.length], points: T.broadcasts(data.ratings, s, calendar) }));
     renderTrends();
+    renderWeekly();
     renderNetChips();
     // network filter dropdown
     $("#net-filter").innerHTML = `<option value="all">همهٔ شبکه‌ها</option>` +
