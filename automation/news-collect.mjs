@@ -134,7 +134,9 @@ for (const feed of CONFIG.feeds) {
   try {
     const xml = fixture ? (fixture[feed.id] ?? (() => { throw new Error("no fixture"); })()) : await getText(feed.url);
     const items = parseFeed(xml);
-    stats.feeds.push({ id: feed.id, ok: true, items: items.length });
+    const entry = { id: feed.id, ok: true, items: items.length, kept: 0, dated: 0 };
+    if (!items.length) entry.head = xml.replace(/\s+/g, " ").slice(0, 140);
+    stats.feeds.push(entry);
     for (const raw of items) {
       stats.fetched++;
       const url = canonicalUrl(raw.link);
@@ -142,7 +144,7 @@ for (const feed of CONFIG.feeds) {
       const id = createHash("sha1").update(url).digest("hex").slice(0, 12);
       if (known.has(id) || fresh.some((f) => f.id === id)) continue;
       const published = new Date(raw.published);
-      if (Number.isNaN(published.getTime())) continue;
+      if (Number.isNaN(published.getTime())) { entry.badDate = (entry.badDate || 0) + 1; continue; }
       if (NOW - published > CONFIG.maxAgeDays * 864e5 || published - NOW > 864e5) continue;
       const entitiesFound = link(raw);
       const linked = entitiesFound.series.length || entitiesFound.people.length;
@@ -153,6 +155,7 @@ for (const feed of CONFIG.feeds) {
       const reason = sensitiveReason(raw);
       if (reason) { stats.sensitive[reason] = (stats.sensitive[reason] || 0) + 1; continue; }
       const folded = fold(`${raw.title} ${raw.snippet}`);
+      entry.kept++;
       fresh.push({
         id, url, source: feed.id, sourceName: feed.name, lang: feed.lang,
         title: raw.title, snippet: raw.snippet,
@@ -251,5 +254,6 @@ console.log(`News: ${okFeeds}/${stats.feeds.length} feeds ok; ${stats.fetched} i
 for (const f of stats.feeds.filter((x) => !x.ok)) console.log(`feed failed: ${f.id} — ${f.error}`);
 if (process.env.GITHUB_STEP_SUMMARY) {
   const { appendFile } = await import("node:fs/promises");
-  await appendFile(process.env.GITHUB_STEP_SUMMARY, `### اخبار\n\n${okFeeds}/${stats.feeds.length} فید سالم؛ ${stats.added} خبر جدید مرتبط؛ ${stats.kept} خبر در بایگانی.\n${stats.feeds.filter((f) => !f.ok).map((f) => `- فید ناموفق: ${f.id} (${f.error})`).join("\n")}\n`);
+  const perFeed = stats.feeds.map((f) => f.ok ? `- ${f.id}: ${f.items} خبر خوانده شد، ${f.kept} خبر تازه نگه داشته شد${f.badDate ? `، ${f.badDate} خبر با تاریخ نامعتبر` : ""}${f.head ? ` — پاسخ خالی؛ آغاز پاسخ: \`${f.head.replace(/[`|]/g, "'")}\`` : ""}` : `- فید ناموفق: ${f.id} (${f.error})`).join("\n");
+  await appendFile(process.env.GITHUB_STEP_SUMMARY, `### اخبار\n\n${okFeeds}/${stats.feeds.length} فید سالم؛ ${stats.added} خبر جدید مرتبط؛ ${stats.kept} خبر در بایگانی؛ ${stats.unrelated} خبر نامرتبط؛ حساس: ${JSON.stringify(stats.sensitive)}.\n\n${perFeed}\n`);
 }
