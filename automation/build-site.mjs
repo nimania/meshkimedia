@@ -111,7 +111,7 @@ function seriesPage(s) {
   const jsonld = { "@context": "https://schema.org", "@type": s.kind === "entertainment" ? "TVSeries" : "TVSeries", name: s.titleTr, alternateName: s.titleFa, url: `${BASE}/dizi/${s.slug}/`, inLanguage: "tr", genre: s.genre || [], countryOfOrigin: { "@type": "Country", name: "Turkey" } };
   if (img) jsonld.image = img;
   if (net) jsonld.productionCompany = net.name;
-  const h = head(root, { title: `${s.titleFa} (${s.titleTr}) | مشکی مدیا`, desc: (s.synopsis || `پروفایل، بازیگران و ری‌کپ قسمت‌های ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/`, ogImage: img, ogType: "video.tv_show", jsonld, version: "20260928episode2" });
+  const h = head(root, { title: `${s.titleFa} (${s.titleTr}) | مشکی مدیا`, desc: (s.synopsis || `پروفایل، بازیگران و ری‌کپ قسمت‌های ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/`, ogImage: img, ogType: "video.tv_show", jsonld, version: "20260930trend" });
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}diziler/">سریال‌ها</a><span>/</span><span id="net-badge"></span></div>
@@ -123,10 +123,11 @@ function seriesPage(s) {
 <section class="profile-section"><div class="section-kicker">داستان</div><p id="synopsis" class="synopsis"></p><a id="synopsis-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع داستان ↗</a><div id="official-links" class="official-links"></div></section>
 <section id="series-gallery-section" class="profile-section" hidden><div class="section-headline"><div><span>تصاویر رسمی</span><h2>عکس‌های سریال</h2></div><a id="series-gallery-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع عکس‌ها ↗</a></div><div id="series-gallery" class="gallery"></div></section>
 <section id="cast-section" class="profile-section"><div class="section-headline"><div><span>بازیگران و نقش‌ها</span><h2>چه کسی چه نقشی دارد؟</h2></div><small>روی نام بازیگر یا نقش بزنید</small></div><div id="cast" class="cast-grid"></div><p id="cast-empty" class="notice" hidden>فهرست تأییدشدهٔ بازیگران این سریال هنوز تکمیل نشده است.</p></section>
+<section id="trend" class="profile-section"><div class="section-headline"><div><span>ریتینگ</span><h2>روند ریتینگ پخش به پخش</h2></div><small>Total · AB · ABC1</small></div><div id="series-trend"></div></section>
 <section class="profile-section"><div class="section-headline"><div><span>قسمت‌ها</span><h2>ری‌کپ و ریتینگ قسمت‌ها</h2></div><small>Total · AB · ABC1</small></div><div id="episodes" class="episodes"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/#episodes`, "☰", "قسمت‌ها", true], [`dizi/${s.slug}/#cast`, "◉", "بازیگران"], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
-  return h + body + boot(root, { slug: s.slug }, ["series-page.js", "gallery.js"], "20260928episode2");
+  return h + body + boot(root, { slug: s.slug }, ["rating-trends.js", "series-page.js", "gallery.js"], "20260930trend");
 }
 
 // ---- Episode page ----------------------------------------------------------
@@ -249,13 +250,14 @@ ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"
 function ratingsPage() {
   const root = "../";
   const jsonld = { "@context": "https://schema.org", "@type": "CollectionPage", name: "ریتینگ تلویزیون ترکیه", url: `${BASE}/reyting/` };
-  const h = head(root, { title: "ریتینگ روزانهٔ تلویزیون ترکیه (Total، AB، ABC1) | مشکی مدیا", desc: "جدول ریتینگ روزانه و مقایسهٔ روند سریال‌های در حال پخش در Total، AB و ABC1، با دادهٔ رسمی موجود.", path: "reyting/", jsonld, version: "20260928episode2" });
+  const h = head(root, { title: "ریتینگ روزانهٔ تلویزیون ترکیه (Total، AB، ABC1) | مشکی مدیا", desc: "جدول ریتینگ روزانه و مقایسهٔ روند سریال‌های در حال پخش در Total، AB و ABC1، با دادهٔ رسمی موجود.", path: "reyting/", jsonld, version: "20260930weekly" });
   const body = `
 <main class="app-shell">
 <section class="intro"><h1>ریتینگ تلویزیون ترکیه</h1><p>آخرین روز ثبت‌شده: <span id="fetched-at">در حال دریافت…</span> · جدول رسمی TİAK و ریتینگ‌های بازبینی‌شدهٔ دیزیلا با منبع جداگانه</p></section>
 <section class="summary-card" aria-label="خلاصه ریتینگ"><div class="summary-number"><strong id="summary-count">—</strong><span>برنامه در جدول</span></div><div class="summary-number"><strong id="summary-date">—</strong><span>تاریخ</span></div><div class="summary-number"><strong id="summary-top">—</strong><span>بالاترین</span></div><div class="spark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></section>
 <section id="leader" class="leader-card"><div><small>صدرنشین این روز</small><h2 id="top-program">در حال دریافت داده…</h2><span id="top-network">—</span></div><strong id="top-rating">—</strong></section>
 <section id="trends" class="trend-section"><div class="feed-label"><span>مقایسهٔ روند سریال‌های در حال پخش</span><i></i></div><h2>هر سریال، پخش‌به‌پخش</h2><p class="trend-help">محور افقی تاریخ واقعی پخش است. هر خط، ریتینگ یا رتبهٔ قسمت‌های یک سریال را نشان می‌دهد. روی نقطه مکث کنید تا نام سریال، شمارهٔ قسمت، تاریخ و مقدار را ببینید؛ سریال‌های تک‌داده‌ای در فهرست پایین هستند.</p><div class="trend-controls"><div id="trend-modes" class="trend-switch" role="group" aria-label="دستهٔ مخاطب"></div><div id="trend-metric" class="trend-switch" role="group" aria-label="نوع سنجه"></div></div><div id="trend-chart"></div><div id="trend-legend" class="trend-legend"></div><p id="trend-note" class="trend-help"></p><div id="trend-analysis" class="trend-analysis"></div><div id="trend-details" class="trend-details"></div></section>
+<section id="weekly" class="trend-section"><div class="feed-label"><span>جدول هفتگی</span><i></i></div><h2>سریال‌های برتر هر هفته</h2><div id="weekly-content"><div class="notice">در حال بارگذاری…</div></div></section>
 <section id="ratings" class="feed-section">
 <div class="feed-label"><span>جدول ریتینگ</span><i></i></div><p class="trend-help"><a href="${root}social/">اتاق انتشار: کارت و کپشن آماده برای اینستاگرام و X ←</a></p>
 <div class="cat-tabs" id="cat-tabs" role="group" aria-label="حالت ریتینگ"></div>
@@ -269,7 +271,7 @@ function ratingsPage() {
 <section id="method" class="method-card"><span>شفافیت داده</span><h2>عدد حدس نمی‌زنیم.</h2><p>رتبه و درصد ریتینگ Total، AB و ABC1 از جدول روزانهٔ عمومی TİAK خوانده می‌شود. این جدول در هر دسته فقط ۱۰ برنامهٔ اول را منتشر می‌کند؛ نبودن یک سریال در فهرست به معنی صفر بودن ریتینگ آن نیست. پخش اصلی با ردیف‌های خلاصه (Özet) یکی نمی‌شود.</p><a href="https://tiak.com.tr/tablolar" target="_blank" rel="noreferrer">مشاهده جدول رسمی ↗</a></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["takvim/", "▤", "تقویم"], ["reyting/", "⌁", "ریتینگ", true]])}`;
-  return h + body + boot(root, {}, ["rating-trends.js", "ratings.js"], "20260929variants");
+  return h + body + boot(root, {}, ["rating-trends.js", "ratings.js"], "20260930weekly");
 }
 
 // ---- write all -------------------------------------------------------------
