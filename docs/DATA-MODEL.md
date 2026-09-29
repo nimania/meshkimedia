@@ -216,3 +216,8 @@ episodes that have no summary yet.
   parties — only factual metadata, links, and original Persian summaries.
 - Network marks are **original typographic badges**, not the broadcasters’
   trademarked logos.
+
+## اخبار و بیوگرافی
+
+`data/news.json` و `data/bios.json` خودکار ساخته می‌شوند (جزئیات در `docs/NEWS.md`). شناسهٔ سریال و بازیگر در `entities` همان slug های
+`series.json` و `people.json` است؛ slug ناموجود هنگام جمع‌آوری حذف می‌شود.
