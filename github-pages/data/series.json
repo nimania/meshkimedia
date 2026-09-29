@@ -754,24 +754,14 @@
         "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
       },
       {
-        "name": "Müfit Kayacan",
-        "nameFa": "مؤفیت کایاجان",
-        "role": "Ecmel Albora",
-        "roleFa": "اجمل آلبورا",
-        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8e2cf62483f9cfa5e0d.jpg",
-        "personSlug": "mufit-kayacan",
-        "description": "عموی جیهان که قدرت‌طلبی و زندانی‌شدنش شکاف عمیقی در خانواده ایجاد کرده است.",
-        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
-      },
-      {
-        "name": "Ferit Kaya",
-        "nameFa": "فریت کایا",
-        "role": "Demir Baybars",
-        "roleFa": "دمیر بای‌بارس",
-        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8d3cf62483f9cfa5e07.jpg",
-        "personSlug": "ferit-kaya",
-        "description": "پسر خانوادهٔ رقیب آلبورا که دشمنی قدیمی با جیهان دارد و خشمش تصمیم‌های او را هدایت می‌کند.",
-        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+        "name": "Gonca Cilasun",
+        "nameFa": "گونجا جیلاسون",
+        "role": "Sadakat Albora",
+        "roleFa": "صداقت آلبورا",
+        "description": "مادر جیهان که به رسم‌های خانواده پایبند است و برای حفظ قدرت آلبوراها سخت‌گیرانه تصمیم می‌گیرد.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
+        "personSlug": "gonca-cilasun",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8f0cf62483f9cfa5e13.jpg"
       },
       {
         "name": "Kuzey Gezer",
@@ -784,24 +774,14 @@
         "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
       },
       {
-        "name": "Atakan Özkaya",
-        "nameFa": "آتاکان اوزکایا",
-        "role": "Kaya Albora",
-        "roleFa": "کایا آلبورا",
-        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8c4cf62483f9cfa5e01.jpg",
-        "personSlug": "atakan-ozkaya",
-        "description": "کوچک‌ترین پسر خانوادهٔ آلبورا؛ تندخو و بی‌پروا، اما به کسانی که دوستشان دارد وفادار است.",
+        "name": "Müfit Kayacan",
+        "nameFa": "مؤفیت کایاجان",
+        "role": "Ecmel Albora",
+        "roleFa": "اجمل آلبورا",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8e2cf62483f9cfa5e0d.jpg",
+        "personSlug": "mufit-kayacan",
+        "description": "عموی جیهان که قدرت‌طلبی و زندانی‌شدنش شکاف عمیقی در خانواده ایجاد کرده است.",
         "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
-      },
-      {
-        "name": "Gonca Cilasun",
-        "nameFa": "گونجا جیلاسون",
-        "role": "Sadakat Albora",
-        "roleFa": "صداقت آلبورا",
-        "description": "مادر جیهان که به رسم‌های خانواده پایبند است و برای حفظ قدرت آلبوراها سخت‌گیرانه تصمیم می‌گیرد.",
-        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
-        "personSlug": "gonca-cilasun",
-        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8f0cf62483f9cfa5e13.jpg"
       },
       {
         "name": "Alper Çankaya",
@@ -814,6 +794,16 @@
         "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8d9cf62483f9cfa5e0a.jpg"
       },
       {
+        "name": "Ferit Kaya",
+        "nameFa": "فریت کایا",
+        "role": "Demir Baybars",
+        "roleFa": "دمیر بای‌بارس",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8d3cf62483f9cfa5e07.jpg",
+        "personSlug": "ferit-kaya",
+        "description": "پسر خانوادهٔ رقیب آلبورا که دشمنی قدیمی با جیهان دارد و خشمش تصمیم‌های او را هدایت می‌کند.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+      },
+      {
         "name": "Sahra Şaş",
         "nameFa": "صحرا شاش",
         "role": "Nare Albora Bulut",
@@ -824,6 +814,16 @@
         "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8cbcf62483f9cfa5e04.jpg"
       },
       {
+        "name": "Atakan Özkaya",
+        "nameFa": "آتاکان اوزکایا",
+        "role": "Kaya Albora",
+        "roleFa": "کایا آلبورا",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8c4cf62483f9cfa5e01.jpg",
+        "personSlug": "atakan-ozkaya",
+        "description": "کوچک‌ترین پسر خانوادهٔ آلبورا؛ تندخو و بی‌پروا، اما به کسانی که دوستشان دارد وفادار است.",
+        "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor"
+      },
+      {
         "name": "Dilin Döğer",
         "nameFa": "دیلین دوئر",
         "role": "Zerrin Albora",
@@ -832,6 +832,26 @@
         "source": "https://eurod.kanald.com.tr/uzak-sehir/haber/kanadadan-mardine-uzanan-bir-hikaye-uzak-sehir-basliyor",
         "personSlug": "dilin-doger",
         "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8bdcf62483f9cfa5dfe.jpg"
+      },
+      {
+        "name": "Nazmi Kırık",
+        "nameFa": "نظمی قیریق",
+        "role": "Nadim Baybars",
+        "roleFa": "نادیم بایبارس",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8b6cf62483f9cfa5dfb.jpg",
+        "personSlug": "nazmi-kirik",
+        "description": "رئیس خاندان بایبارس و پدر دمیر؛ خانواده‌ای که در منطقه قاچاق می‌کنند و سال‌هاست با آلبوراها خون‌خواهی دارند.",
+        "source": "https://www.kanald.com.tr/uzak-sehir/oyuncular/nazmi-kirik"
+      },
+      {
+        "name": "İlkay Kayku",
+        "nameFa": "ایلکای قایکو",
+        "role": "Fidan Albora",
+        "roleFa": "فیدان آلبورا",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6864d8aecf62483f9cfa5df8.jpg",
+        "personSlug": "ilkay-kayku",
+        "description": "همسر اجمل آلبورا و مادر شاهین و زرین، از خانواده‌ای ثروتمند در منطقه؛ صداقت و جیهان را مسئول زندانی شدن اجمل می‌داند و از نزدیکی شاهین به آن‌ها ناخرسند است.",
+        "source": "https://www.kanald.com.tr/uzak-sehir/oyuncular/ilkay-kayku"
       }
     ],
     "seasons": [
@@ -929,6 +949,106 @@
         "description": "از اعضای خاندان تارمان که در رویارویی دو خانواده نقش دارد.",
         "source": "https://www.kanald.com.tr/haysiyet/",
         "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82ef19ff409388416e9f3b.jpg"
+      },
+      {
+        "name": "Merih Öztürk",
+        "nameFa": "مریح اؤزتورک",
+        "role": "Simay Tarman",
+        "roleFa": "سیمای تارمان",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82eed7ff409388416e9f30.jpg",
+        "personSlug": "merih-ozturk",
+        "description": "زنی جوان، باهوش و آزادی‌خواه که به صداقت بیشتر از جایگاه اهمیت می‌دهد؛ به همان اندازه که لجباز است، حس عدالت قوی دارد.",
+        "source": "https://www.kanald.com.tr/haysiyet/oyuncular/merih-ozturk"
+      },
+      {
+        "name": "Burak Çelik",
+        "nameFa": "بوراک چلیک",
+        "role": "Tarık Tarman",
+        "roleFa": "طارق تارمان",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82f017ff409388416e9f63.jpg",
+        "personSlug": "burak-celik",
+        "description": "برادر بزرگ سیمای؛ تحصیل‌کرده، مغرور و به ظاهر مطمئن، اما چون در سایهٔ پدر بزرگ شده، در پای تصمیم‌هایش ماندن برایش سخت است.",
+        "source": "https://www.kanald.com.tr/haysiyet/oyuncular/burak-celik"
+      },
+      {
+        "name": "Gökberk Yıldırım",
+        "nameFa": "گؤک‌برک ییلدیریم",
+        "role": "Tufan Karlıova",
+        "roleFa": "توفان کارلی‌اووا",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82ef64ff409388416e9f45.jpg",
+        "personSlug": "gokberk-yildirim",
+        "description": "پسر بزرگ خانواده؛ سخت‌کوش، قوی و خشمگین که فکر می‌کند پاداش مسئولیت‌هایی را که سال‌ها بر دوش کشیده، نگرفته است.",
+        "source": "https://www.kanald.com.tr/haysiyet/oyuncular/gokberk-yildirim"
+      },
+      {
+        "name": "Orkuncan İzan",
+        "nameFa": "اورکون‌جان ایزان",
+        "role": "Ahmet Karlıova",
+        "roleFa": "احمد کارلی‌اووا",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82efd7ff409388416e9f59.jpg",
+        "personSlug": "orkuncan-izan",
+        "description": "برادر بزرگ‌تر محمد؛ آرام، ساده‌دل و بااستعداد که احساسش را با کار نشان می‌دهد و بیش از همه به دیده شدن نیاز دارد.",
+        "source": "https://www.kanald.com.tr/haysiyet/oyuncular/orkuncan-izan"
+      },
+      {
+        "name": "Asir Gündoğdu",
+        "nameFa": "عاصر گون‌دوغدو",
+        "role": "Aziz Karlıova",
+        "roleFa": "عزیز کارلی‌اووا",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82ef9fff409388416e9f4f.jpg",
+        "personSlug": "asir-gundogdu",
+        "description": "خون‌گرم‌ترین برادر کارلی‌اووا که با شادی‌اش بار خانواده را سبک می‌کند؛ اغلب میان همسر و خانواده‌اش گیر می‌افتد.",
+        "source": "https://www.kanald.com.tr/haysiyet/oyuncular/asir-gundogdu"
+      },
+      {
+        "name": "Elifcan Ongurlar",
+        "nameFa": "الیف‌جان اونگورلار",
+        "role": "Suzan Karlıova",
+        "roleFa": "سوزان کارلی‌اووا",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82efbaff409388416e9f54.jpg",
+        "personSlug": "elifcan-ongurlar",
+        "description": "زنی جاه‌طلب و باهوش که به کسی جز خودش اعتماد ندارد و هنگام محافظت از خود و خانواده‌اش متوجه ویرانی‌ای که پشت سر می‌گذارد نمی‌شود.",
+        "source": "https://www.kanald.com.tr/haysiyet/oyuncular/elifcan-ongurlar"
+      },
+      {
+        "name": "Aybüke Yılmaz",
+        "nameFa": "آیبوکه ییلماز",
+        "role": "Yıldız Karlıova",
+        "roleFa": "ییلدیز کارلی‌اووا",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82ef82ff409388416e9f4a.jpg",
+        "personSlug": "aybuke-yilmaz",
+        "description": "عروس بزرگ و وفادار خانواده که با مهربانی و صبرش شناخته می‌شود؛ سکوتش از ضعف نیست، اما در صورت لزوم همه را با قاطعیتش غافلگیر می‌کند.",
+        "source": "https://www.kanald.com.tr/haysiyet/oyuncular/aybuke-yilmaz"
+      },
+      {
+        "name": "Berfin Kıymaz",
+        "nameFa": "برفین قیماز",
+        "role": "Hülya Sürmene",
+        "roleFa": "هولیا سورمنه",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82eff4ff409388416e9f5e.jpg",
+        "personSlug": "berfin-kiymaz",
+        "description": "زنی جوان، مغرور و جاه‌طلب با احساسات قوی که با تمام وجود دل می‌بندد و طرد شدن را شکستی شخصی می‌داند.",
+        "source": "https://www.kanald.com.tr/haysiyet/oyuncular/berfin-kiymaz"
+      },
+      {
+        "name": "Ayça Varlıer",
+        "nameFa": "آیچا وارلی‌یر",
+        "role": "Şehnaz Tarman",
+        "roleFa": "شهناز تارمان",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82f043ff409388416e9f68.jpg",
+        "personSlug": "ayca-varlier",
+        "description": "عمهٔ سیمای؛ با ظرافت و هوشش قدرتمندترین چهرهٔ پشت پردهٔ خانوادهٔ تارمان که آدم‌ها را خوب می‌شناسد و بی‌صدا بازی را اداره می‌کند.",
+        "source": "https://www.kanald.com.tr/haysiyet/oyuncular/ayca-varlier"
+      },
+      {
+        "name": "Nergis Öztürk",
+        "nameFa": "نرگس اؤزتورک",
+        "role": "Nimet Karlıova",
+        "roleFa": "نعمت کارلی‌اووا",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a82ef48ff409388416e9f40.jpg",
+        "personSlug": "nergis-ozturk",
+        "description": "مادر مهربان و فداکار خانوادهٔ کارلی‌اووا که برای کنار هم نگه داشتن خانواده هر خطری را می‌پذیرد و پای بچه‌هایش که وسط باشد، با تمام دنیا می‌جنگد.",
+        "source": "https://www.kanald.com.tr/haysiyet/oyuncular/nergis-ozturk"
       }
     ],
     "seasons": [
@@ -1054,6 +1174,96 @@
         "description": "شخصیتی در خانوادهٔ سرحات که گذشته‌اش در پیشبرد داستان اثر می‌گذارد.",
         "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular",
         "image": "https://image.kanald.com.tr/i/kanald/100/143x204/68cb0b0ceb665959b9b4a9e0.jpg"
+      },
+      {
+        "name": "Serdar Orçin",
+        "nameFa": "سردار اورچین",
+        "role": "Cihan",
+        "roleFa": "جیهان",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/68cb0b2aeb665959b9b4a9e3.jpg",
+        "personSlug": "serdar-orcin",
+        "description": "برادر سرحات و همسر آزرا؛ مرد دوم زنجیرهٔ هتل‌های سرحات، کنترل‌گر، دورو و آن‌قدر زیرک که این را به‌خوبی پنهان می‌کند.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/serdar-orcin"
+      },
+      {
+        "name": "Gülenay Kalkan",
+        "nameFa": "گول‌انای کالکان",
+        "role": "Sevim",
+        "roleFa": "سویم",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/68cb0b59eb665959b9b4a9e6.jpg",
+        "personSlug": "gulenay-kalkan",
+        "description": "مادر خانوادهٔ تچر و از نزدیک‌ترین شاهدان رسیدن سرحات به جایگاه امروزش؛ دلبستهٔ خانواده و گاهی سخت‌گیر.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/gulenay-kalkan"
+      },
+      {
+        "name": "Yade Arayıcı",
+        "nameFa": "یاده آرایجی",
+        "role": "Kader",
+        "roleFa": "قادر",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/68cb0b79eb665959b9b4a9e9.jpg",
+        "personSlug": "yade-arayici",
+        "description": "کودکی باهوش، مهربان و منصف که آزار خانوادهٔ سرپرستش را تحمل می‌کند و به امید رسیدن به مادرش زندگی می‌کند؛ بزرگ‌ترین شانسش آشنایی با زینب است.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/yade-arayici"
+      },
+      {
+        "name": "Mina Akdin",
+        "nameFa": "مینا آکدین",
+        "role": "İlkim",
+        "roleFa": "ایلکیم",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/68ea430b78516dcf7a0b9bd2.jpg",
+        "personSlug": "mina-akdin",
+        "description": "دختر براک و سرحات؛ سرکش‌تر و تندتر از خواهرش هیال، شناگری که در مسابقه‌ها رتبه می‌آورد و همهٔ وقتش را به تمرین می‌گذراند.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/mina-aydin"
+      },
+      {
+        "name": "Beren Gençalp",
+        "nameFa": "برن گنچ‌آلپ",
+        "role": "Hayal",
+        "roleFa": "هیال",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/68cb0bb5eb665959b9b4a9ef.jpg",
+        "personSlug": "beren-gencalp",
+        "description": "فرزند دوم خانوادهٔ تچر؛ دختری احساساتی، درون‌گرا و آرام با استعداد موسیقی که برخلاف ایلکیم اهل مخالفت نیست.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/beren-gencalp"
+      },
+      {
+        "name": "Serdar Özer",
+        "nameFa": "سردار اؤزر",
+        "role": "Can",
+        "roleFa": "جان",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/68daaacf5230f6fc7d0a491f.jpg",
+        "personSlug": "serdar-ozer",
+        "description": "برادر بزرگ سرحات و جیهان با حال‌وهوایی بوهمی و مالیخولیایی‌تر.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/serdar-ozer"
+      },
+      {
+        "name": "Emel Çölgeçen",
+        "nameFa": "امل چؤلگچن",
+        "role": "Refika",
+        "roleFa": "رفیقه",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/68daabad5230f6fc7d0a4923.jpg",
+        "personSlug": "emel-colgecen",
+        "description": "مادر زینب، ابرو و مصطفی و همسر عارف؛ زنی مهربان و شاد با دست‌پختی بی‌نظیر که برای کمک به خرج خانه با زینب در بساط گل‌فروشی کار می‌کند.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/emel-colgecen"
+      },
+      {
+        "name": "Gizem Sevim",
+        "nameFa": "گیزم سویم",
+        "role": "Ebru",
+        "roleFa": "ابرو",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/68daabfe5230f6fc7d0a4927.jpg",
+        "personSlug": "gizem-sevim",
+        "description": "خواهر زینب؛ دختری زیبا با حال‌وهوای خاص خودش که بزرگ‌ترین آرزویش پولدار شدن بدون کار کردن است.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/gizem-sevim"
+      },
+      {
+        "name": "Merve Nur Bengi",
+        "nameFa": "مروه نور بنگی",
+        "role": "Sedef",
+        "roleFa": "صدف",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6911cb4f9974e8ffe8aafafa.jpg",
+        "personSlug": "merve-nur-bengi",
+        "description": "دوست دبیرستانی براک؛ زنی جاه‌طلب و حسابگر که می‌خواهد با گفتن راز براک به سرحات به او نزدیک شود.",
+        "source": "https://www.kanald.com.tr/guller-ve-gunahlar/oyuncular/merve-nur-bengi"
       }
     ],
     "seasons": [
@@ -1960,7 +2170,158 @@
       "website": "https://www.kanald.com.tr/daha-17",
       "episodes": "https://www.kanald.com.tr/daha-17/bolumler"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Çağan Efe Ak",
+        "nameFa": "چاغان افه آک",
+        "role": "Aras",
+        "roleFa": "آراس",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0defce573a03dd661c9bc5.jpg",
+        "personSlug": "cagan-efe-ak",
+        "description": "نوجوانی هفده‌ساله، شجاع و درستکار با حس عدالت‌خواهی قوی. چون در کودکی خانواده‌اش را از دست داده، زود بزرگ شده و روی پای خودش ایستاده است؛ باهوش، رهبرمنش و فداکار است و در برابر بی‌عدالتی ساکت نمی‌ماند.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/cagan-efe-ak"
+      },
+      {
+        "name": "Nesrin Cavadzade",
+        "nameFa": "نسرین جوادزاده",
+        "role": "Şebnem",
+        "roleFa": "شبنم",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0defd5573a03dd661c9bc8.jpg",
+        "personSlug": "nesrin-cavadzade",
+        "description": "زنی قدرتمند، باوقار و کنترل‌گر که در مرکز محافل اجتماعی است و برای حفظ خانواده و نظمی که ساخته، هر کاری می‌کند.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/nesrin-cavadzade"
+      },
+      {
+        "name": "Armağan Oğuz",
+        "nameFa": "آرماغان اوغوز",
+        "role": "Hakan",
+        "roleFa": "هاکان",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0defdc573a03dd661c9bcb.jpg",
+        "personSlug": "armagan-oguz",
+        "description": "تاجری بسیار قدرتمند و ثروتمند که از بیرون بی‌نقص به نظر می‌رسد، اما در گذشته‌اش رازهای تاریکی دارد و دوست دارد کنترل همه‌چیز در دست خودش باشد.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/armagan-oguz"
+      },
+      {
+        "name": "Ceren Ayruk",
+        "nameFa": "جرن آیروک",
+        "role": "Leyla",
+        "roleFa": "لیلا",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0defe2573a03dd661c9bce.jpg",
+        "personSlug": "ceren-ayruk",
+        "description": "دختری باهوش، سخت‌کوش و با اعتمادبه‌نفس که با وجود بزرگ شدن در خانواده‌ای مرفه، لوس نیست. حس عدالت قوی دارد، عاشق سینماست و آرزو دارد روزی فیلم خودش را بسازد.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/ceren-ayruk"
+      },
+      {
+        "name": "Ata Yaşat",
+        "nameFa": "آتا یاشات",
+        "role": "Teoman",
+        "roleFa": "تئومان",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0defe6573a03dd661c9bd1.jpg",
+        "personSlug": "ata-yasat",
+        "description": "جوانی که در ثروت و ناز بزرگ شده و تحمل باختن ندارد. قوی به نظر می‌رسد، اما در درون دنبال تأیید است و همدلی کمی دارد؛ جنبهٔ خطرناک و فریبکارش جلب توجه می‌کند.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/ata-yasat"
+      },
+      {
+        "name": "Dilara Aksüyek",
+        "nameFa": "دیلارا آکسویک",
+        "role": "Nuray",
+        "roleFa": "نورای",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0defed573a03dd661c9bd4.jpg",
+        "personSlug": "dilara-aksuyek",
+        "description": "زنی زیبا اما ناراضی و جاه‌طلب که از زندگی‌اش خوشنود نیست و خشم نداشته‌هایش را سر خانواده‌اش خالی می‌کند. شیفتهٔ شبنم است.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/dilara-aksuyek"
+      },
+      {
+        "name": "Helin Elveren",
+        "nameFa": "هلین الورن",
+        "role": "Deniz",
+        "roleFa": "دنیز",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0deff3573a03dd661c9bd8.jpg",
+        "personSlug": "helin-elveren",
+        "description": "دختری آزادی‌خواه که تند به نظر می‌رسد اما احساسات عمیقی دارد. از تفاوت طبقاتی آگاه و عصبانی است و به کشیدن کمیک علاقهٔ زیادی دارد.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/helin-elveren"
+      },
+      {
+        "name": "Deniz Ali Cankorur",
+        "nameFa": "دنیز علی جان‌کورور",
+        "role": "Barış",
+        "roleFa": "باریش",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0deffa573a03dd661c9bdb.jpg",
+        "personSlug": "deniz-ali-cankorur",
+        "description": "جوانی شاد، خوش‌قلب و باهوش که با وجود نبود پدر، مهربانی‌اش را از دست نداده و در فناوری و کامپیوتر بسیار بااستعداد است.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/deniz-ali-cankorur"
+      },
+      {
+        "name": "Berra Ahsen Uslu",
+        "nameFa": "برا احسن اوسلو",
+        "role": "Ezgi",
+        "roleFa": "اِزگی",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0defff573a03dd661c9be0.jpg",
+        "personSlug": "berra-ahsen-uslu",
+        "description": "دختری پرانرژی، خون‌گرم و اجتماعی که عاشق رقص و تولید محتواست و آینده‌اش را در شبکه‌های اجتماعی می‌بیند.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/berra-ahsen-uslu"
+      },
+      {
+        "name": "Batuhan Mora",
+        "nameFa": "باتوهان مورا",
+        "role": "Kutay",
+        "roleFa": "کوتای",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0df004573a03dd661c9be4.jpg",
+        "personSlug": "batuhan-mora",
+        "description": "نزدیک‌ترین دوست تئومان که زیر نفوذ او است و نیاز زیادی به تعلق دارد. در دل عاشق لیلاست.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/batuhan-mora"
+      },
+      {
+        "name": "Ahmetcan Özer",
+        "nameFa": "احمدجان اؤزر",
+        "role": "Metin",
+        "roleFa": "متین",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0df00a573a03dd661c9be7.jpg",
+        "personSlug": "ahmetcan-ozer",
+        "description": "جوانی بی‌کس که با آراس در یک خوابگاه زندگی می‌کند؛ مرد، رفیق‌باز و حامی است، همهٔ اهل خوابگاه برایش مثل برادرند و صمیمی‌ترین دوست آراس در آنجاست.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/ahmetcan-ozer"
+      },
+      {
+        "name": "Ezgi Dalgıç",
+        "nameFa": "اِزگی دالغیچ",
+        "role": "Sıla",
+        "roleFa": "سیلا",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0df00f573a03dd661c9bea.jpg",
+        "personSlug": "ezgi-dalgic",
+        "description": "دختری محبوب، آراسته و جاه‌طلب که دوست دارد قوی دیده شود و به جایگاه اجتماعی اهمیت می‌دهد؛ بزرگ‌ترین آرزویش درخشیدن در دنیای مد است.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/ezgi-dalgic"
+      },
+      {
+        "name": "Efe Musa Yurdagelen",
+        "nameFa": "افه موسی یوردا‌گلن",
+        "role": "Evren",
+        "roleFa": "اِورن",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0df014573a03dd661c9bed.jpg",
+        "personSlug": "efe-musa-yurdagelen",
+        "description": "نرم‌خوترین عضو گروه تئومان؛ آدم مسلطی نیست و بیشتر دنبال دوستانش می‌رود، اما در اصل خوش‌قلب و باوجدان است.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/efe-musa-yurdagelen"
+      },
+      {
+        "name": "Çağdaş Onur Öztürk",
+        "nameFa": "چاغداش اونور اؤزتورک",
+        "role": "Serhat",
+        "roleFa": "سرحات",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0df01f573a03dd661c9bf0.jpg",
+        "personSlug": "cagdas-onur-ozturk",
+        "description": "مردی که ضعف‌هایش را پشت ادب پنهان می‌کند و در سایهٔ امپراتوری هاکان آکایا با جاه‌طلبی‌های خودش دست‌وپنجه نرم می‌کند؛ نفرتی پنهان بزرگ‌ترین انگیزهٔ اوست.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/cagdas-onur-ozturk"
+      },
+      {
+        "name": "Cemal Toktaş",
+        "nameFa": "جمال توکتاش",
+        "role": "Mustafa",
+        "roleFa": "مصطفی",
+        "image": "https://image.kanald.com.tr/i/kanald/100/143x204/6a0df024573a03dd661c9bf3.jpg",
+        "personSlug": "cemal-toktas",
+        "description": "کمیسری تندخو و پدری فاصله‌گیر نسبت به پسرش که به کنار آمدن با آدم‌های قدرتمند اهمیت می‌دهد.",
+        "source": "https://www.kanald.com.tr/daha-17/oyuncular/cemal-toktas"
+      }
+    ],
     "seasons": [
       {
         "number": 1,
