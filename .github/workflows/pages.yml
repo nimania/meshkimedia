@@ -49,6 +49,10 @@ jobs:
         id: refresh
         run: node automation/build-pages-data.mjs
         continue-on-error: true
+      # Adds calendar broadcasts to series.json (continuous episode numbers) for this build.
+      - name: Sync episodes from the calendar
+        id: episodes
+        run: node automation/sync-episodes.mjs
       - name: Regenerate static pages from data
         run: node automation/build-site.mjs
       - name: Publish reviewed Instagram rating supplement
@@ -112,4 +116,28 @@ jobs:
             sleep $((attempt * 10))
           done
           echo "::error::Could not push ratings.json to main"
+          exit 1
+      # Same idea for episodes: without this, a synced broadcast disappears again once
+      # its date leaves the two-week calendar window.
+      - name: Persist synced episodes to main
+        if: ${{ !cancelled() && steps.episodes.outcome == 'success' }}
+        run: |
+          file=github-pages/data/series.json
+          if git diff --quiet HEAD -- "$file"; then
+            echo "Episodes unchanged; nothing to persist."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$file"
+          git commit -m "data: sync episodes from the Dizilah calendar [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Persisted synced episodes."
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 10))
+          done
+          echo "::error::Could not push series.json to main"
           exit 1
