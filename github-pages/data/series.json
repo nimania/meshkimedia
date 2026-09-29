@@ -1946,6 +1946,16 @@
     },
     "cast": [
       {
+        "name": "Helin Kandemir",
+        "nameFa": "هلین کاندمیر",
+        "personSlug": "helin-kandemir",
+        "role": "Dicle Demir",
+        "roleFa": "دیجه دمیر",
+        "description": "دختر روستایی که پس از ازدواج با ارکان وارد دنیای ناآشنای خانوادهٔ او در استانبول می‌شود.",
+        "source": "https://www.startv.com.tr/dizi/sevdigim-sensin/oyuncular",
+        "image": "https://media.startv.com.tr/star-tv/images/helin.jpg?format=webp&height=220&quality=85&width=220"
+      },
+      {
         "name": "Aytaç Şaşmaz",
         "nameFa": "آیتاچ شاشماز",
         "personSlug": "aytac-sasmaz",
@@ -1956,14 +1966,112 @@
         "image": "https://media.startv.com.tr/star-tv/images/aytac.jpg?format=webp&height=220&quality=85&width=220"
       },
       {
-        "name": "Helin Kandemir",
-        "nameFa": "هلین کاندمیر",
-        "personSlug": "helin-kandemir",
-        "role": "Dicle Demir",
-        "roleFa": "دیجه دمیر",
-        "description": "دختر روستایی که پس از ازدواج با ارکان وارد دنیای ناآشنای خانوادهٔ او در استانبول می‌شود.",
-        "source": "https://www.startv.com.tr/dizi/sevdigim-sensin/oyuncular",
-        "image": "https://media.startv.com.tr/star-tv/images/helin.jpg?format=webp&height=220&quality=85&width=220"
+        "name": "Hüseyin Avni Danyal",
+        "nameFa": "حسین آونی دانیال",
+        "role": "Esat Aldur",
+        "roleFa": "اسعد آلدور",
+        "image": "https://img.dizi.la/uploads/308432/conversions/esat-aldur-huseyin-avni-danyal-thumb.jpg",
+        "personSlug": "huseyin-avni-danyal",
+        "source": "https://dizilah.com/person/huseyin-avni-danyal"
+      },
+      {
+        "name": "Özlem Conker",
+        "nameFa": "اؤزلم جونکر",
+        "role": "Fatoş Parsoğlu",
+        "roleFa": "فاتوش پارسوغلو",
+        "image": "https://img.dizi.la/uploads/308435/conversions/6(145)-thumb.jpg",
+        "personSlug": "ozlem-conker",
+        "source": "https://dizilah.com/person/ozlem-conker"
+      },
+      {
+        "name": "Esra Ronabar",
+        "nameFa": "اسرا رونابار",
+        "role": "İnci Aldur",
+        "roleFa": "اینجی آلدور",
+        "image": "https://img.dizi.la/uploads/308433/conversions/4(202)-thumb.jpg",
+        "personSlug": "esra-ronabar",
+        "source": "https://dizilah.com/person/esra-ronabar"
+      },
+      {
+        "name": "Deniz Işın",
+        "nameFa": "دنیز ایشین",
+        "role": "Nilüfer Aldur",
+        "roleFa": "نیلوفر آلدور",
+        "image": "https://img.dizi.la/uploads/308434/conversions/5(197)-thumb.jpg",
+        "personSlug": "deniz-isin",
+        "source": "https://dizilah.com/person/deniz-isin"
+      },
+      {
+        "name": "Cihat Süvarioğlu",
+        "nameFa": "جیهات سوواری‌اوغلو",
+        "role": "Tahir Aldur",
+        "roleFa": "طاهر آلدور",
+        "image": "https://img.dizi.la/uploads/308436/conversions/7(142)-thumb.jpg",
+        "personSlug": "cihat-suvarioglu",
+        "source": "https://dizilah.com/person/cihat-suvarioglu"
+      },
+      {
+        "name": "Umutcan Ütebay",
+        "nameFa": "اوموت‌جان اوته‌بای",
+        "role": "Kadir Çatalca",
+        "roleFa": "قادر چاتالجا",
+        "image": "https://img.dizi.la/uploads/308437/conversions/8(148)-thumb.jpg",
+        "personSlug": "umutcan-utebay",
+        "source": "https://dizilah.com/person/umutcan-utebay"
+      },
+      {
+        "name": "Elçin Zehra",
+        "nameFa": "الچین زهرا",
+        "role": "Burçin Parsoğlu",
+        "roleFa": "بورچین پارسوغلو",
+        "image": "https://img.dizi.la/uploads/308438/conversions/9(142)-thumb.jpg",
+        "personSlug": "elcin-zehra",
+        "source": "https://dizilah.com/person/elcin-zehra"
+      },
+      {
+        "name": "Nisan Büyükağaç",
+        "nameFa": "نیسان بویوک‌آغاچ",
+        "role": "Havva Vardar",
+        "roleFa": "حوا واردار",
+        "image": "https://img.dizi.la/uploads/308439/conversions/10(122)-thumb.jpg",
+        "personSlug": "nisan-buyukagac",
+        "source": "https://dizilah.com/person/nisan-buyukagac"
+      },
+      {
+        "name": "Barış Baktaş",
+        "nameFa": "باریش باکتاش",
+        "role": "Civan Demir",
+        "roleFa": "جیوان دمیر",
+        "image": "https://img.dizi.la/uploads/308440/conversions/11(39)-thumb.jpg",
+        "personSlug": "baris-baktas",
+        "source": "https://dizilah.com/person/baris-baktas"
+      },
+      {
+        "name": "Emrah Aytemur",
+        "nameFa": "امراح آیتمور",
+        "role": "Ferman Demir",
+        "roleFa": "فرمان دمیر",
+        "image": "https://img.dizi.la/uploads/308441/conversions/12(25)-thumb.jpg",
+        "personSlug": "emrah-aytemur",
+        "source": "https://dizilah.com/person/emrah-aytemur"
+      },
+      {
+        "name": "Gökhan Soylu",
+        "nameFa": "گؤکهان سویلو",
+        "role": "Hamdi Parsoğlu",
+        "roleFa": "حمدی پارسوغلو",
+        "image": "https://img.dizi.la/uploads/308442/conversions/13(14)-thumb.jpg",
+        "personSlug": "gokhan-soylu",
+        "source": "https://dizilah.com/person/gokhan-soylu"
+      },
+      {
+        "name": "Murat Seven",
+        "nameFa": "مورات سون",
+        "role": "Fikret Doğanay",
+        "roleFa": "فکرت دوغانای",
+        "image": "https://img.dizi.la/uploads/308443/conversions/14(9)-thumb.jpg",
+        "personSlug": "murat-seven",
+        "source": "https://dizilah.com/person/murat-seven"
       },
       {
         "name": "Alper Çankaya",
@@ -3330,7 +3438,26 @@
       "website": "https://www.startv.com.tr/dizi/cirkin",
       "episodes": "https://www.startv.com.tr/dizi/cirkin"
     },
-    "cast": [],
+    "cast": [
+      {
+        "name": "Derya Pınar Ak",
+        "nameFa": "دریا پینار آک",
+        "role": "Meryem",
+        "roleFa": "مریم",
+        "image": "https://img.dizi.la/uploads/73522/conversions/309211905_115706581283475_3437734393505631017_n-thumb.jpg",
+        "personSlug": "derya-pinar-ak",
+        "source": "https://dizilah.com/person/derya-pinar-ak"
+      },
+      {
+        "name": "Çağlar Ertuğrul",
+        "nameFa": "چاغلار ارتغرل",
+        "role": "Kadir",
+        "roleFa": "قادر",
+        "image": "https://img.dizi.la/uploads/73966/conversions/375626201-604868614924351-7728138025220299905-n-thumb.jpg",
+        "personSlug": "caglar-ertugrul",
+        "source": "https://dizilah.com/person/caglar-ertugrul"
+      }
+    ],
     "seasons": [
       {
         "number": 2,
