@@ -242,6 +242,10 @@
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:36.561Z"
  },
+ "baris-baktas": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:48:17.312Z"
+ },
  "baris-kilic": {
   "lang": "tr",
   "text": "Barış Kılıç, Türk oyuncudur.",
@@ -531,6 +535,25 @@
   },
   "fetchedAt": "2026-09-29T15:32:35.674Z"
  },
+ "caglar-ertugrul": {
+  "lang": "tr",
+  "text": "Çağlar Ertuğrul, Türk dizi, sinema ve tiyatro oyuncusudur.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/%C3%87a%C4%9Flar_Ertu%C4%9Frul",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:48:30.235Z",
+  "fa": {
+   "text": "چاغلار ارطغرل بازیگر اهل ترکیه است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D8%BA%D9%84%D8%A7%D8%B1_%D8%A7%D8%B1%D8%B7%D8%BA%D8%B1%D9%84",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
+ },
  "can-bartu-arslan": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:33:32.252Z"
@@ -673,6 +696,29 @@
    },
    "machine": false
   }
+ },
+ "deniz-isin": {
+  "lang": "tr",
+  "text": "Deniz Işın, Türk dizi, sinema ve tiyatro oyuncusu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Deniz_I%C5%9F%C4%B1n",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:48:06.648Z",
+  "fa": {
+   "text": "دنیز ایشین بازیگر اهل ترکیه است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%86%DB%8C%D8%B2_%D8%A7%DB%8C%D8%B4%DB%8C%D9%86",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
+ },
+ "derya-pinar-ak": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:48:29.762Z"
  },
  "devrim-ozkan": {
   "lang": "tr",
@@ -842,6 +888,10 @@
    "machine": false
   }
  },
+ "elcin-zehra": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:48:10.458Z"
+ },
  "elcin-zehra-irem": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:38:58.388Z"
@@ -885,6 +935,10 @@
    "license": "CC BY-SA 4.0"
   },
   "fetchedAt": "2026-09-29T15:33:06.520Z"
+ },
+ "emrah-aytemur": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:48:18.842Z"
  },
  "emre-dinler": {
   "notFound": true,
@@ -951,6 +1005,25 @@
    "source": {
     "name": "ویکی‌پدیای فارسی",
     "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%B1%D8%A7_%D8%AF%D8%B1%D9%85%D8%A7%D9%86%D8%AC%DB%8C%E2%80%8C%D8%A7%D9%88%D8%BA%D9%84%D9%88",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
+ },
+ "esra-ronabar": {
+  "lang": "tr",
+  "text": "Esra Ronabar Falay, Türk tiyatro, sinema ve dizi oyuncusu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/Esra_Ronabar",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:48:05.738Z",
+  "fa": {
+   "text": "اسرا رونابار بازیگر اهل ترکیه است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%B1%D8%A7_%D8%B1%D9%88%D9%86%D8%A7%D8%A8%D8%A7%D8%B1",
     "license": "CC BY-SA 4.0"
    },
    "machine": false
@@ -1104,6 +1177,10 @@
    "license": "CC BY-SA 4.0"
   },
   "fetchedAt": "2026-09-29T15:26:43.003Z"
+ },
+ "gokhan-soylu": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:48:22.561Z"
  },
  "gonca-cilasun": {
   "notFound": true,
@@ -1318,6 +1395,16 @@
    "license": "CC BY-SA 4.0"
   },
   "fetchedAt": "2026-09-29T15:44:20.431Z"
+ },
+ "huseyin-avni-danyal": {
+  "lang": "tr",
+  "text": "Hüseyin Avni Danyal, Türk oyuncu.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/H%C3%BCseyin_Avni_Danyal",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:48:03.946Z"
  },
  "ibrahim-selim": {
   "lang": "tr",
@@ -1658,6 +1745,10 @@
   },
   "fetchedAt": "2026-09-29T15:33:07.253Z"
  },
+ "murat-seven": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:48:28.304Z"
+ },
  "murat-unalmis": {
   "lang": "tr",
   "text": "Murat Ünalmış, Türk oyuncu.",
@@ -1819,6 +1910,10 @@
   },
   "fetchedAt": "2026-09-29T15:44:25.789Z"
  },
+ "nisan-buyukagac": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:48:12.835Z"
+ },
  "noyan-uzer": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:43:25.195Z"
@@ -1970,6 +2065,25 @@
  "ozgur-berber": {
   "notFound": true,
   "fetchedAt": "2026-09-29T15:39:42.377Z"
+ },
+ "ozlem-conker": {
+  "lang": "tr",
+  "text": "Özlem Conker, Türk oyuncudur.",
+  "source": {
+   "name": "ویکی‌پدیای ترکی",
+   "url": "https://tr.wikipedia.org/wiki/%C3%96zlem_Conker",
+   "license": "CC BY-SA 4.0"
+  },
+  "fetchedAt": "2026-09-29T15:48:04.779Z",
+  "fa": {
+   "text": "اوزلم جونکر بازیگر اهل ترکیه است. وی از سال ۱۹۹۶ میلادی تاکنون مشغول فعالیت بوده‌است.",
+   "source": {
+    "name": "ویکی‌پدیای فارسی",
+    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%88%D8%B2%D9%84%D9%85_%D8%AC%D9%88%D9%86%DA%A9%D8%B1",
+    "license": "CC BY-SA 4.0"
+   },
+   "machine": false
+  }
  },
  "ozlem-maden": {
   "notFound": true,
@@ -2467,6 +2581,10 @@
    "license": "CC BY-SA 4.0"
   },
   "fetchedAt": "2026-09-29T15:44:40.271Z"
+ },
+ "umutcan-utebay": {
+  "notFound": true,
+  "fetchedAt": "2026-09-29T15:48:09.266Z"
  },
  "uraz-kaygilaroglu": {
   "lang": "tr",
