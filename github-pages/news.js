@@ -72,6 +72,9 @@
       if (f.person && !(i.entities.people || []).includes(f.person)) return false;
       if (f.network && !(i.entities.networks || []).includes(f.network)) return false;
       if (f.kind && i.kind !== f.kind) return false;
+      // scope: "site" = about the site's series/actors or TV series in general; "general" = other entertainment news.
+      if (f.scope === "site" && i.scope === "general") return false;
+      if (f.scope === "general" && i.scope !== "general") return false;
       if (f.q) {
         const hay = `${i.title} ${i.titleFa || ""} ${i.summaryFa || ""}`.toLowerCase();
         if (!hay.includes(f.q.toLowerCase())) return false;
@@ -115,10 +118,15 @@
   /* page(el) — the full news page with filters. */
   async function page(el) {
     const { base, items, updated } = await load();
-    const state = { kind: "", network: "", q: "", shown: 24 };
+    const state = { kind: "", network: "", q: "", scope: "site", shown: 24 };
     const nets = Object.values(base.networks).filter((n) => items.some((i) => (i.entities.networks || []).includes(n.slug)));
     el.innerHTML = `<div class="news-filters">
         <input type="search" id="news-q" placeholder="جستجو در اخبار…" aria-label="جستجو در اخبار">
+        <div class="news-kind-tabs" role="group" aria-label="دسته">
+          <button type="button" class="on" data-scope="site">سریال و بازیگران</button>
+          <button type="button" data-scope="general">سرگرمی عمومی</button>
+          <button type="button" data-scope="">همه</button>
+        </div>
         <div class="news-kind-tabs" role="group" aria-label="نوع خبر">
           <button type="button" class="on" data-kind="">همه</button>
           ${Object.entries(KINDS).map(([k, t]) => `<button type="button" data-kind="${k}">${t}</button>`).join("")}
@@ -137,6 +145,11 @@
     };
     el.querySelector("#news-q").addEventListener("input", (e) => { state.q = e.target.value.trim(); state.shown = 24; draw(); });
     el.querySelector("#news-net").addEventListener("change", (e) => { state.network = e.target.value; state.shown = 24; draw(); });
+    el.querySelectorAll("[data-scope]").forEach((b) => b.addEventListener("click", () => {
+      state.scope = b.dataset.scope; state.shown = 24;
+      el.querySelectorAll("[data-scope]").forEach((x) => x.classList.toggle("on", x === b));
+      draw();
+    }));
     el.querySelectorAll("[data-kind]").forEach((b) => b.addEventListener("click", () => {
       state.kind = b.dataset.kind; state.shown = 24;
       el.querySelectorAll("[data-kind]").forEach((x) => x.classList.toggle("on", x === b));
