@@ -56,7 +56,9 @@ export function parseFeed(xml) {
   const blocks = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/gi) || [];
   return blocks.map((b) => {
     const html = decode(tag(b, "content:encoded") || tag(b, "description") || tag(b, "summary") || tag(b, "content"));
-    const link = decode(tag(b, "link")).trim() || attr(b, "link", "href") || decode(tag(b, "guid")).trim();
+    // <link>…</link>, Atom <link href>, or (Milliyet) only <atom:link href>; a guid counts only if it is a URL.
+    const guid = decode(tag(b, "guid")).trim();
+    const link = decode(tag(b, "link")).trim() || attr(b, "link", "href") || attr(b, "atom:link", "href") || (/^https?:\/\//.test(guid) ? guid : "");
     const image = (() => {
       const enc = b.match(/<enclosure\s[^>]*>/i)?.[0] || "";
       const encUrl = /type=["']image/i.test(enc) || /\.(jpe?g|png|webp)/i.test(enc) ? attr(enc, "enclosure", "url") : "";
@@ -67,7 +69,7 @@ export function parseFeed(xml) {
       title: stripTags(tag(b, "title")),
       link,
       // Some feeds write the "+" of the time zone as an entity (&#x2B;0300).
-      published: decode(tag(b, "pubDate") || tag(b, "published") || tag(b, "updated") || tag(b, "dc:date")).trim(),
+      published: decode(tag(b, "pubDate") || tag(b, "published") || tag(b, "updated") || tag(b, "dc:date")).replace(/\s+/g, " ").trim(),
       snippet: stripTags(html).slice(0, 500),
       image,
       videoId,
