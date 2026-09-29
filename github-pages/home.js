@@ -81,7 +81,7 @@
       ? `<i></i>${when}${net ? " از " + D.networkMark(data.networks, s.network) : ""}${t ? ` · ساعت ${t.ir} به وقت ایران` : ""}`
       : `سریال ویژه${net ? " · " + esc(net.name) : ""}`;
     const actions = [`<a class="btn btn-red" href="${R}dizi/${s.slug}/">صفحهٔ سریال</a>`];
-    if (ep && (scheduledEp || ep.summary)) actions.push(`<a class="btn btn-glass" href="${R}dizi/${s.slug}/bolum-${ep.number}/">${scheduledEp ? "پخشِ" : ep.preview ? "معرفی" : "خلاصهٔ"} قسمت ${D.fmtInt(scheduledEntry?.episode || ep.number)}</a>`);
+    if (ep && (scheduledEp || ep.summary)) actions.push(`<a class="btn btn-glass" href="${R}dizi/${s.slug}/bolum-${ep.number}/">${scheduledEp ? "پخشِ" : ep.preview ? "معرفی" : "خلاصهٔ"} قسمت ${D.fmtInt(ep.number)}</a>`);
     const fr = (ep && ep.fragman) || s.fragman;
     if (fr) actions.push(`<a class="btn btn-glass" href="${esc(fr)}" target="_blank" rel="noreferrer">▶ فراگمان</a>`);
     const el = $("#spotlight");
@@ -118,10 +118,12 @@
       const known = Boolean(data.series[entry.slug]);
       const episode = known ? D.scheduledEpisodes(show, calendar).find((e) => e.date === date) : null;
       const href = known ? `${R}dizi/${show.slug}/${episode ? `bolum-${episode.number}/` : ""}` : calendar.source.url;
-      const note = `فصل ${D.fmtInt(entry.season)} · قسمت ${D.fmtInt(entry.episode)}`;
+      // Page links and labels use the continuous episode number (series.json); the calendar counts inside a season.
+      const epNo = episode?.number || entry.episode;
+      const note = `فصل ${D.fmtInt(entry.season)} · قسمت ${D.fmtInt(epNo)}`;
       return `<a class="tonight-item" href="${esc(href)}"${known ? "" : ' target="_blank" rel="noopener noreferrer"'}>${art(show, { title: false })}`
         + `<span class="tonight-copy"><strong>${esc(show.titleFa)}</strong>${s.titleFa ? `<span dir="ltr">${esc(s.titleTr)}</span>` : ""}<em>${note}${entry.premiere === "series" ? " · شروع سریال" : ""}</em></span>`
-        + `<span class="tonight-time"><b>${D.fmtInt(entry.episode)}</b><small>${net ? D.networkMark(data.networks, show.network) : "قسمت"}</small></span></a>`;
+        + `<span class="tonight-time"><b>${D.fmtInt(epNo)}</b><small>${net ? D.networkMark(data.networks, show.network) : "قسمت"}</small></span></a>`;
     }).join("");
   }
 

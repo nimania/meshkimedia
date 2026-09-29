@@ -71,7 +71,7 @@
               <span class="calendar-card-body"><span class="calendar-card-network">${D.networkMark(networks, show.network)}</span>
                 <strong>${D.esc(show.titleFa || show.titleTr)}</strong>
                 ${show.titleFa ? `<span class="calendar-original" dir="ltr">${D.esc(show.titleTr)}</span>` : ""}
-                <span class="calendar-episode">فصل ${numeral.format(entry.season)} · قسمت ${numeral.format(entry.episode)}</span>
+                <span class="calendar-episode">فصل ${numeral.format(entry.season)} · قسمت ${numeral.format(existing?.number || entry.episode)}</span>
                 ${entry.premiere === "series" ? '<em class="calendar-premiere">شروع سریال</em>' : ""}
                 ${known ? "" : '<span class="calendar-external">جزئیات در مرجع ↗</span>'}
               </span></a>`;
