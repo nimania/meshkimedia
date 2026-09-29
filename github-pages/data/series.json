@@ -90,6 +90,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
         "episodes": [
           {
@@ -150,6 +151,12 @@
             ],
             "photosSource": "https://www.showtv.com.tr/show-tv-dizi/galeri/507717-sevdan-bir-ates-3-bolum-fotograflari",
             "watchUrl": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-3-izle/134992"
+          },
+          {
+            "number": 4,
+            "date": "2026-09-30",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -226,6 +233,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
         "episodes": [
           {
@@ -279,6 +287,12 @@
             ],
             "image": "https://iatv.tmgrup.com.tr/album/2026/09/22/3-bolum-foto-galeri-1790064707657.jpg",
             "watchUrl": "https://www.atv.com.tr/ask-ve-taht/3-bolum/izle"
+          },
+          {
+            "number": 4,
+            "date": "2026-09-30",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -352,6 +366,7 @@
     "seasons": [
       {
         "number": 2,
+        "firstEpisode": 19,
         "label": "فصل دوم",
         "episodes": [
           {
@@ -405,6 +420,12 @@
             "source": "https://www.atv.com.tr/abi/21-bolum/izle",
             "watchUrl": "https://www.atv.com.tr/abi/21-bolum/izle",
             "fragman": "https://www.atv.com.tr/abi/21-bolum-1-fragman/izle"
+          },
+          {
+            "number": 22,
+            "date": "2026-09-29",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -479,6 +500,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
         "episodes": [
           {
@@ -516,6 +538,12 @@
             "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/2-bolum/izle",
             "watchUrl": "https://www.atv.com.tr/gunesin-dogdugu-yer/2-bolum/izle",
             "fragman": "https://www.atv.com.tr/gunesin-dogdugu-yer/2-bolum-1-fragman/izle"
+          },
+          {
+            "number": 3,
+            "date": "2026-10-01",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -588,6 +616,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
         "episodes": [
           {
@@ -657,6 +686,12 @@
             "photosSource": "https://www.atv.com.tr/mercan-kosk/galeri/4-bolum-foto-galeri-1790338368",
             "source": "https://www.atv.com.tr/mercan-kosk/4-bolum/izle",
             "watchUrl": "https://www.atv.com.tr/mercan-kosk/4-bolum/izle"
+          },
+          {
+            "number": 5,
+            "date": "2026-10-03",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -802,6 +837,7 @@
     "seasons": [
       {
         "number": 3,
+        "firstEpisode": 64,
         "label": "فصل سوم",
         "episodes": [
           {
@@ -819,6 +855,11 @@
             "image": "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3a8e6adc7618129484.jpg",
             "photosSource": "https://www.kanald.com.tr/uzak-sehir/foto-galeri/uzak-sehir-65-bolum-fotograflari",
             "fragman": "https://www.kanald.com.tr/uzak-sehir/fragmanlar/uzak-sehir-65-bolum-fragmani-2"
+          },
+          {
+            "number": 66,
+            "date": "2026-09-28",
+            "calendar": true
           }
         ]
       }
@@ -893,6 +934,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
         "episodes": [
           {
@@ -938,6 +980,12 @@
             "source": "https://www.kanald.com.tr/haysiyet/ozetler/haysiyet-3-bolum-ozeti",
             "photosSource": "https://www.kanald.com.tr/haysiyet/foto-galeri/haysiyet-3-bolum-fotograflari",
             "fragman": "https://www.kanald.com.tr/haysiyet/fragmanlar/haysiyet-3-bolum-fragmani"
+          },
+          {
+            "number": 4,
+            "date": "2026-09-29",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -1011,6 +1059,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
         "episodes": [
           {
@@ -1027,6 +1076,23 @@
             "photosSource": "https://www.kanald.com.tr/guller-ve-gunahlar/foto-galeri/guller-ve-gunahlar-1-bolum-fotograflari",
             "watchUrl": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler/guller-ve-gunahlar-ilk-bolum",
             "fragman": "https://www.kanald.com.tr/guller-ve-gunahlar/fragmanlar/guller-ve-gunahlar-fragmani-4"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "firstEpisode": 33,
+        "episodes": [
+          {
+            "number": 35,
+            "date": "2026-09-26",
+            "calendar": true
+          },
+          {
+            "number": 36,
+            "date": "2026-10-03",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -1100,8 +1166,21 @@
     "seasons": [
       {
         "number": 5,
+        "firstEpisode": 139,
         "label": "فصل پنجم",
-        "episodes": []
+        "episodes": [
+          {
+            "number": 140,
+            "date": "2026-09-25",
+            "calendar": true
+          },
+          {
+            "number": 141,
+            "date": "2026-10-02",
+            "calendar": true,
+            "scheduled": true
+          }
+        ]
       }
     ],
     "heroSource": "https://www.showtv.com.tr/dizi/haber/3911853-kizilcik-serbeti-nin-merakla-beklenen-5-sezon-afisi-yayinlandi",
@@ -1167,6 +1246,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
         "episodes": [
           {
@@ -1205,6 +1285,12 @@
             "summary": "",
             "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler",
             "photosSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/3-bolum-fotograflari"
+          },
+          {
+            "number": 5,
+            "date": "2026-09-29",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -1279,6 +1365,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
         "episodes": [
           {
@@ -1294,6 +1381,23 @@
             "source": "https://www.startv.com.tr/dizi/sevdigim-sensin/bolumler/1-bolum",
             "photosSource": "https://www.startv.com.tr/dizi/sevdigim-sensin/foto-galeriler/1-bolum-fotograflari",
             "watchUrl": "https://www.startv.com.tr/dizi/sevdigim-sensin/bolumler/1-bolum"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "firstEpisode": 16,
+        "episodes": [
+          {
+            "number": 18,
+            "date": "2026-09-24",
+            "calendar": true
+          },
+          {
+            "number": 19,
+            "date": "2026-10-01",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -1366,8 +1470,21 @@
     "seasons": [
       {
         "number": 7,
+        "firstEpisode": 221,
         "label": "فصل هفتم",
-        "episodes": []
+        "episodes": [
+          {
+            "number": 224,
+            "date": "2026-09-26",
+            "calendar": true
+          },
+          {
+            "number": 225,
+            "date": "2026-10-03",
+            "calendar": true,
+            "scheduled": true
+          }
+        ]
       }
     ],
     "heroSource": "https://www.trt1.com.tr/diziler/gonul-dagi",
@@ -1463,6 +1580,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
         "episodes": [
           {
@@ -1507,6 +1625,11 @@
             "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/bolum/3-bolum",
             "photosSource": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/fotogaleri/3-bolum",
             "watchUrl": "https://www.trt1.com.tr/diziler/evlilik-guzeldir/bolum/3-bolum"
+          },
+          {
+            "number": 4,
+            "date": "2026-09-28",
+            "calendar": true
           }
         ]
       }
@@ -1581,8 +1704,16 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
-        "episodes": []
+        "episodes": [
+          {
+            "number": 2,
+            "date": "2026-09-29",
+            "calendar": true,
+            "scheduled": true
+          }
+        ]
       }
     ],
     "heroSource": "https://www.nowtv.com.tr/Anne-Yarisi/haber/4378/Heyecanla-Beklenen-Anne-Yarisi-nin-Afisi-Yayinlandi",
@@ -1647,6 +1778,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
         "episodes": []
       }
@@ -1683,6 +1815,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل جاری",
         "episodes": []
       }
@@ -1786,6 +1919,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "label": "فصل اول",
         "episodes": []
       }
@@ -1830,6 +1964,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "episodes": [
           {
             "number": 18,
@@ -1846,6 +1981,12 @@
             ],
             "photosSource": "https://www.kanald.com.tr/daha-17/foto-galeri/daha-17-18-bolum-fotograflari",
             "fragman": "https://www.kanald.com.tr/daha-17/fragmanlar/daha-17-18-bolum-fragmani"
+          },
+          {
+            "number": 19,
+            "date": "2026-10-04",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -1881,13 +2022,14 @@
     "seasons": [
       {
         "number": 7,
+        "firstEpisode": 185,
         "episodes": [
           {
-            "number": 1,
+            "number": 185,
             "date": "2026-09-20"
           },
           {
-            "number": 2,
+            "number": 186,
             "date": "2026-09-27"
           }
         ]
@@ -1923,14 +2065,21 @@
     "seasons": [
       {
         "number": 2,
+        "firstEpisode": 9,
         "episodes": [
           {
-            "number": 1,
+            "number": 9,
             "date": "2026-09-20"
           },
           {
-            "number": 2,
+            "number": 10,
             "date": "2026-09-27"
+          },
+          {
+            "number": 11,
+            "date": "2026-10-04",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -1964,6 +2113,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "episodes": [
           {
             "number": 12,
@@ -1980,6 +2130,11 @@
           {
             "number": 15,
             "date": "2026-09-21"
+          },
+          {
+            "number": 16,
+            "date": "2026-09-28",
+            "calendar": true
           }
         ]
       }
@@ -2015,6 +2170,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "episodes": [
           {
             "number": 12,
@@ -2031,6 +2187,12 @@
           {
             "number": 15,
             "date": "2026-09-24"
+          },
+          {
+            "number": 16,
+            "date": "2026-10-01",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -2065,14 +2227,21 @@
     "seasons": [
       {
         "number": 4,
+        "firstEpisode": 84,
         "episodes": [
           {
-            "number": 1,
+            "number": 84,
             "date": "2026-09-15"
           },
           {
-            "number": 2,
+            "number": 85,
             "date": "2026-09-22"
+          },
+          {
+            "number": 86,
+            "date": "2026-09-29",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -2107,10 +2276,17 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "episodes": [
           {
             "number": 1,
             "date": "2026-09-26"
+          },
+          {
+            "number": 2,
+            "date": "2026-10-03",
+            "calendar": true,
+            "scheduled": true
           }
         ]
       }
@@ -2144,6 +2320,7 @@
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,
         "episodes": []
       }
     ]
