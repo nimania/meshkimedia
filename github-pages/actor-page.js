@@ -10,7 +10,22 @@
     const pr = people[slug];
     if (!pr) throw new Error("actor not found");
     document.title = `${pr.nameFa || pr.name} — بازیگر | مشکی مدیا`;
-    $("#actor-bio").textContent = pr.bio || "معرفی کامل این بازیگر در حال تکمیل است. نقش‌ها و آثار تأییدشدهٔ ثبت‌شده را در پایین ببینید.";
+    // Editorial bio wins; otherwise a short Wikipedia summary (data/bios.json) with its license and source.
+    const bios = await fetch(`${root}data/bios.json?v=${Date.now()}`, { cache: "no-store" }).then((r) => (r.ok ? r.json() : {})).catch(() => ({}));
+    const wiki = bios[slug];
+    const bioEl = $("#actor-bio");
+    const creditEl = $("#actor-bio-credit");
+    const wikiText = wiki && (wiki.fa?.text || wiki.text);
+    if (pr.bio) bioEl.textContent = pr.bio;
+    else if (wikiText) {
+      bioEl.textContent = wikiText;
+      if (!wiki.fa?.text) { bioEl.lang = wiki.lang || "tr"; bioEl.dir = "ltr"; }
+      const src = wiki.fa?.source || wiki.source;
+      if (src && /^https:\/\//.test(src.url)) {
+        creditEl.innerHTML = `منبع: <a href="${D.esc(src.url)}" target="_blank" rel="noopener noreferrer">${D.esc(src.name)} ↗</a> · مجوز <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fa" target="_blank" rel="noopener noreferrer">${D.esc(src.license || "CC BY-SA 4.0")}</a>${wiki.fa?.machine ? " · ترجمهٔ فارسی خودکار است" : (wiki.fa ? "" : " · متن اصلی، بدون ترجمه")}`;
+        creditEl.hidden = false;
+      }
+    } else bioEl.textContent = "معرفی کامل این بازیگر در حال تکمیل است. نقش‌ها و آثار تأییدشدهٔ ثبت‌شده را در پایین ببینید.";
     if (pr.source && /^https:\/\//.test(pr.source)) {
       $("#actor-source").href = pr.source;
       $("#actor-source").hidden = false;

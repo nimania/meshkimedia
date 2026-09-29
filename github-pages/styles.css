@@ -473,3 +473,48 @@ body.home{--page-w:1120px}
 .trend-table th{color:var(--muted);font-weight:600}.trend-table td small{color:var(--muted);font-size:10px}
 .trend-button:disabled{opacity:.45}
 .weekly-tabs{margin:12px 0}.weekly-table td .muted{color:var(--muted)}
+/* ---- News (haber) ---- */
+.news-feed,.news-page{display:grid;gap:12px}
+.news-card{display:grid;grid-template-columns:120px minmax(0,1fr);gap:14px;padding:12px;border:1px solid var(--line);border-radius:15px;background:var(--surface);box-shadow:var(--shadow)}
+.news-card:not(:has(.news-thumb)){grid-template-columns:minmax(0,1fr)}
+.news-thumb{display:block;align-self:start;aspect-ratio:4/3;overflow:hidden;border-radius:11px;background:var(--surface-soft)}
+.news-thumb img{display:block;width:100%;height:100%;object-fit:cover}
+.news-body{min-width:0}
+.news-meta{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-bottom:7px;color:var(--muted);font-size:10px}
+.news-kind{padding:3px 8px;border-radius:999px;background:var(--surface-soft);font-weight:800}
+.news-card.kind-rumor .news-kind{background:#fff1d6;color:#8a5a00}
+.news-card.kind-official .news-kind{background:var(--green-soft);color:var(--green)}
+[data-theme="dark"] .news-card.kind-rumor .news-kind{background:#3a2c10;color:#f3c565}
+.news-body h3{margin:0;font-size:15px;line-height:1.75}
+.news-body h3 a:hover{color:var(--green)}
+.news-summary{margin:7px 0 0;color:var(--ink);font-size:12px;line-height:1.95}
+.news-orig{margin:6px 0 0;color:var(--muted);font-size:11px;line-height:1.6;text-align:left}
+.news-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:9px}
+.news-chips:empty{display:none}
+.news-chip{padding:4px 10px;border:1px solid var(--line);border-radius:999px;font-size:10px;background:var(--surface-soft)}
+.news-chip.chip-series{border-color:color-mix(in srgb,var(--green) 40%,var(--line));color:var(--green)}
+.news-chip:hover{border-color:var(--green)}
+.news-actions{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-top:10px;font-size:11px}
+.news-actions>a{color:var(--green);font-weight:800}
+.news-video-btn,.news-more{padding:6px 13px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--ink);font-size:11px;cursor:pointer}
+.news-video-btn:hover,.news-more:hover{border-color:var(--green);color:var(--green)}
+.news-more{justify-self:center;display:block;margin:12px auto 0}
+.news-ai{color:var(--muted);font-size:9px}
+.news-video{margin-top:10px}
+.news-video iframe{display:block;width:100%;aspect-ratio:16/9;border:0;border-radius:11px;background:#000}
+.news-video-link{display:inline-block;margin-top:6px;color:var(--muted);font-size:10px}
+.news-filters{display:grid;gap:10px;margin-bottom:8px}
+.news-filters input,.news-filters select{width:100%;padding:11px 14px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--ink);font:inherit;font-size:12px}
+.news-kind-tabs{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}
+.news-kind-tabs button{flex:none;padding:8px 15px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--ink);font-size:11px;cursor:pointer}
+.news-kind-tabs button.on{border-color:var(--green);background:var(--green);color:#fff;font-weight:800}
+.news-updated{margin:6px 2px 12px;color:var(--muted);font-size:10px}
+.news-policy{margin:20px 2px 0;color:var(--muted);font-size:10px;line-height:1.9}
+.bio-credit{margin:8px 0 0;color:var(--muted);font-size:10px}
+.bio-credit a{color:var(--green)}
+.profile-tabs{position:sticky;top:106px;z-index:15;display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;margin:12px 0;padding:6px;border:1px solid var(--line);border-radius:999px;background:color-mix(in srgb,var(--surface) 94%,transparent);backdrop-filter:blur(10px)}
+.profile-tabs::-webkit-scrollbar{display:none}
+.profile-tabs a{flex:none;padding:7px 15px;border-radius:999px;color:var(--muted);font-size:12px;white-space:nowrap}
+.profile-tabs a:hover{background:var(--green-soft);color:var(--green)}
+#about,#cast-section,#news,#trend,#eps{scroll-margin-top:160px}
+@media(max-width:520px){.news-card{grid-template-columns:96px minmax(0,1fr);gap:10px}.news-body h3{font-size:14px}}
