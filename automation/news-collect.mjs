@@ -212,7 +212,24 @@ for (const item of [...known.values(), ...fresh].sort((a, b) => a.published.loca
 // ---- optional Gemini step: Persian title + summary + safety check ---------
 const keys = (process.env.AI_API_KEY || process.env.GEMINI_API_KEY || "").split(",").map((k) => k.trim()).filter(Boolean);
 const PRIMARY = process.env.GEMINI_MODEL || "gemini-3.8-flash";
-let MODEL = PRIMARY;
+let models = null;
+// Models the key can actually use, best guess first: the configured one, then every "flash" text model the API lists (newest first).
+async function modelList() {
+  if (models) return models;
+  const found = [];
+  try {
+    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models?pageSize=200&key=${keys[0]}`, { signal: AbortSignal.timeout(20000) });
+    if (res.ok) for (const m of (await res.json()).models || []) {
+      const n = String(m.name || "").replace(/^models\//, "");
+      if ((m.supportedGenerationMethods || []).includes("generateContent") && /flash/.test(n) && !/image|tts|live|audio|thinking|exp|embedding|robotics|computer/.test(n)) found.push(n);
+    }
+  } catch { /* fall back to the fixed names below */ }
+  const ver = (n) => Number((n.match(/(\d+(?:\.\d+)?)/) || [0, 0])[1]);
+  found.sort((a, b) => ver(b) - ver(a) || a.length - b.length);
+  models = [...new Set([PRIMARY, ...found.slice(0, 5), "gemini-flash-latest"])];
+  stats.models = models.join(", ");
+  return models;
+}
 const MAX_AI = Number(process.env.NEWS_MAX_AI || 40);
 let keyIndex = 0;
 const nameFa = (kind, slug) => kind === "series" ? series[slug]?.titleFa : people[slug]?.nameFa;
@@ -252,23 +269,26 @@ Use these Persian names when the entity appears:
 ${glossary || "(none)"}
 
 ${material}`;
-  for (let attempt = 0; attempt < keys.length; attempt++) {
-    const key = keys[(keyIndex + attempt) % keys.length];
-    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${key}`, {
+  const list = await modelList();
+  let last = "no model tried";
+  for (let attempt = 0; attempt < Math.min(list.length * Math.max(keys.length, 1), 8); attempt++) {
+    const model = list[attempt % list.length];
+    const key = keys[(keyIndex + Math.floor(attempt / list.length)) % keys.length];
+    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`, {
       method: "POST", headers: { "content-type": "application/json" }, signal: AbortSignal.timeout(60000),
       body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { temperature: 0.2, responseMimeType: "application/json" } }),
     });
-    if (res.status === 429 || res.status === 403) { keyIndex++; continue; }
-    if (res.status === 404 && MODEL !== "gemini-flash-latest") { MODEL = "gemini-flash-latest"; attempt--; continue; } // model retired: use the alias
-    if ((res.status === 503 || res.status === 500) && (busy = (typeof busy === "number" ? busy : 0) + 1) <= 4) { // overloaded: wait, alternate model, retry
-      await new Promise((r) => setTimeout(r, 2500 * busy)); MODEL = MODEL === "gemini-flash-latest" ? PRIMARY : "gemini-flash-latest"; attempt--; continue;
+    if (!res.ok) {
+      last = `${model}: HTTP ${res.status} ${(await res.text()).replace(/\s+/g, " ").replace(/key=[\w-]+/g, "key=…").slice(0, 140)}`;
+      stats.modelStatus = stats.modelStatus || {}; stats.modelStatus[`${model} ${res.status}`] = (stats.modelStatus[`${model} ${res.status}`] || 0) + 1;
+      if (res.status === 503 || res.status === 500) await new Promise((r) => setTimeout(r, 2000));
+      continue; // overloaded, retired or out of quota: try the next model
     }
-    if (!res.ok) throw new Error(`Gemini HTTP ${res.status}: ${(await res.text()).replace(/\s+/g, " ").replace(/key=[\w-]+/g, "key=…").slice(0, 200)}`);
     const out = await res.json();
     const raw = out.candidates?.[0]?.content?.parts?.[0]?.text || "";
     try { return JSON.parse(raw.replace(/^```(?:json)?\s*|\s*```$/g, "")); } catch { throw new Error(`Gemini returned no JSON (${out.promptFeedback?.blockReason || out.candidates?.[0]?.finishReason || "empty"}): ${raw.slice(0, 80)}`); }
   }
-  throw new Error("all Gemini keys are rate-limited");
+  throw new Error(`Gemini unavailable — ${last}`);
 }
 
 const txt = (v, n) => String(v || "").trim().slice(0, n);
@@ -342,6 +362,6 @@ for (const f of stats.feeds.filter((x) => !x.ok)) console.log(`feed failed: ${f.
 if (process.env.GITHUB_STEP_SUMMARY) {
   const { appendFile } = await import("node:fs/promises");
   const perFeed = stats.feeds.map((f) => f.ok ? `- ${f.id}: ${f.items} خبر خوانده شد، ${f.kept} خبر تازه نگه داشته شد${f.badDate ? `، ${f.badDate} خبر با تاریخ نامعتبر` : ""}${f.head ? ` — پاسخ خالی؛ آغاز پاسخ: \`${f.head.replace(/[`|]/g, "'")}\`` : ""}` : `- فید ناموفق: ${f.id} (${f.error})`).join("\n");
-  const aiLine = !keys.length ? "کلید هوش مصنوعی به این اجرا نرسید (AI_API_KEY خالی است)" : `ترجمهٔ فارسی: ${stats.summarized} خبر ساخته شد، ${stats.aiDropped} خبر حساس حذف شد، ${stats.merged || 0} خبر تکراری ادغام شد${stats.aiErrors?.length ? `\n\nخطاهای Gemini:\n${stats.aiErrors.map((x) => `- \`${x.replace(/[`|]/g, "'")}\``).join("\n")}` : ""}`;
+  const aiLine = !keys.length ? "کلید هوش مصنوعی به این اجرا نرسید (AI_API_KEY خالی است)" : `ترجمهٔ فارسی: ${stats.summarized} خبر ساخته شد، ${stats.aiDropped} خبر حساس حذف شد، ${stats.merged || 0} خبر تکراری ادغام شد${stats.models ? `\n\nمدل‌ها: ${stats.models}` : ""}${stats.modelStatus ? `\n\nپاسخ‌های ناموفق: ${JSON.stringify(stats.modelStatus)}` : ""}${stats.aiErrors?.length ? `\n\nخطاهای Gemini:\n${stats.aiErrors.map((x) => `- \`${x.replace(/[`|]/g, "'")}\``).join("\n")}` : ""}`;
   await appendFile(process.env.GITHUB_STEP_SUMMARY, `### اخبار\n\n${aiLine}\n\n${okFeeds}/${stats.feeds.length} فید سالم؛ ${stats.added} خبر جدید مرتبط؛ ${stats.kept} خبر در بایگانی؛ ${stats.unrelated} خبر نامرتبط؛ حساس: ${JSON.stringify(stats.sensitive)}.\n\n${perFeed}\n`);
 }
