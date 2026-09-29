@@ -1,22 +1,132 @@
 {
-  "_comment": "RSS feeds the news collector reads. kind: 'media' = press report, 'official' = a network or production company announcing its own news. A feed that fails is logged in the run summary and skipped; remove dead ones.",
+  "_comment": "RSS feeds the news collector reads. kind: 'media' = press report, 'official' = a network or production company announcing its own news. A feed that fails is logged in the run summary and skipped; remove dead ones. entertainment: true = a gossip/magazine category whose items are kept as general entertainment news even when no series or actor of the site is named.",
   "feeds": [
-    { "id": "hurriyet-magazin", "name": "Hürriyet", "url": "https://www.hurriyet.com.tr/rss/magazin", "lang": "tr", "kind": "media" },
-    { "id": "sabah-magazin", "name": "Sabah", "url": "https://www.sabah.com.tr/rss/magazin.xml", "lang": "tr", "kind": "media" },
-    { "id": "milliyet-magazin", "name": "Milliyet", "url": "https://www.milliyet.com.tr/rss/rssnew/magazinrss.xml", "lang": "tr", "kind": "media" },
-    { "id": "haberturk-magazin", "name": "Habertürk", "url": "https://www.haberturk.com/rss/magazin.xml", "lang": "tr", "kind": "media" },
-    { "id": "sozcu-magazin", "name": "Sözcü", "url": "https://www.sozcu.com.tr/feeds-rss-category-magazin", "lang": "tr", "kind": "media" },
-    { "id": "trthaber-kultur", "name": "TRT Haber", "url": "https://www.trthaber.com/kultur_sanat_articles.rss", "lang": "tr", "kind": "media" },
-    { "id": "aa-kultur", "name": "Anadolu Ajansı", "url": "https://www.aa.com.tr/tr/rss/default?cat=kultur", "lang": "tr", "kind": "media" },
-    { "id": "dailysabah-arts", "name": "Daily Sabah", "url": "https://www.dailysabah.com/rssFeed/arts", "lang": "en", "kind": "media" }
+    {
+      "id": "hurriyet-magazin",
+      "name": "Hürriyet",
+      "url": "https://www.hurriyet.com.tr/rss/magazin",
+      "lang": "tr",
+      "kind": "media",
+      "entertainment": true
+    },
+    {
+      "id": "sabah-magazin",
+      "name": "Sabah",
+      "url": "https://www.sabah.com.tr/rss/magazin.xml",
+      "lang": "tr",
+      "kind": "media",
+      "entertainment": true
+    },
+    {
+      "id": "milliyet-magazin",
+      "name": "Milliyet",
+      "url": "https://www.milliyet.com.tr/rss/rssnew/magazinrss.xml",
+      "lang": "tr",
+      "kind": "media",
+      "entertainment": true
+    },
+    {
+      "id": "haberturk-magazin",
+      "name": "Habertürk",
+      "url": "https://www.haberturk.com/rss/magazin.xml",
+      "lang": "tr",
+      "kind": "media",
+      "entertainment": true
+    },
+    {
+      "id": "sozcu-magazin",
+      "name": "Sözcü",
+      "url": "https://www.sozcu.com.tr/feeds-rss-category-magazin",
+      "lang": "tr",
+      "kind": "media",
+      "entertainment": true
+    },
+    {
+      "id": "trthaber-kultur",
+      "name": "TRT Haber",
+      "url": "https://www.trthaber.com/kultur_sanat_articles.rss",
+      "lang": "tr",
+      "kind": "media"
+    },
+    {
+      "id": "aa-kultur",
+      "name": "Anadolu Ajansı",
+      "url": "https://www.aa.com.tr/tr/rss/default?cat=kultur",
+      "lang": "tr",
+      "kind": "media"
+    },
+    {
+      "id": "dailysabah-arts",
+      "name": "Daily Sabah",
+      "url": "https://www.dailysabah.com/rssFeed/arts",
+      "lang": "en",
+      "kind": "media"
+    }
   ],
   "maxAgeDays": 45,
   "maxItems": 500,
-  "requireContextWords": ["dizi", "dizisi", "dizinin", "bolum", "bolumu", "sezon", "final", "fragman", "reyting", "set", "oyuncu", "kadro", "series", "episode", "season", "cast"],
-  "rumorWords": ["iddia", "iddiasi", "soylenti", "kulis", "sizdi", "gundem oldu", "alleged", "rumor", "reportedly"],
+  "requireContextWords": [
+    "dizi",
+    "dizisi",
+    "dizinin",
+    "bolum",
+    "bolumu",
+    "sezon",
+    "final",
+    "fragman",
+    "reyting",
+    "set",
+    "oyuncu",
+    "kadro",
+    "series",
+    "episode",
+    "season",
+    "cast"
+  ],
+  "rumorWords": [
+    "iddia",
+    "iddiasi",
+    "soylenti",
+    "kulis",
+    "sizdi",
+    "gundem oldu",
+    "alleged",
+    "rumor",
+    "reportedly"
+  ],
   "blocklist": {
     "_comment": "Topics never published (privacy and defamation risk for real people). Matched against accent-folded lowercase title + snippet. Edit as needed.",
-    "crime-or-abuse": ["taciz", "tecavuz", "istismar", "cinsel", "siddet", "darp", "uyusturucu", "tutuklan", "gozalti", "intihar", "cinayet", "sorusturma", "velayet"],
-    "health": ["kanser", "tedavi", "hastane", "ameliyat", "koronavirus", "yogun bakim", "teshis", "kalp krizi", "hastalik", "rahatsizlan", "cancer", "hospital", "surgery"]
-  }
+    "crime-or-abuse": [
+      "taciz",
+      "tecavuz",
+      "istismar",
+      "cinsel",
+      "siddet",
+      "darp",
+      "uyusturucu",
+      "tutuklan",
+      "gozalti",
+      "intihar",
+      "cinayet",
+      "sorusturma",
+      "velayet"
+    ],
+    "health": [
+      "kanser",
+      "tedavi",
+      "hastane",
+      "ameliyat",
+      "koronavirus",
+      "yogun bakim",
+      "teshis",
+      "kalp krizi",
+      "hastalik",
+      "rahatsizlan",
+      "cancer",
+      "hospital",
+      "surgery"
+    ]
+  },
+  "maxGeneralAgeDays": 14,
+  "maxGeneralItems": 200
 }

@@ -96,6 +96,8 @@ for (const [slug, text] of Object.entries(EXPLICIT_NETWORKS)) if (networks[slug]
 const contextRe = new RegExp(`(^| )(${CONFIG.requireContextWords.join("|")})( |$)`);
 const blocklist = Object.entries(CONFIG.blocklist).filter(([k]) => !k.startsWith("_"))
   .flatMap(([reason, words]) => words.map((w) => ({ reason, re: new RegExp(`(^| )${w}`) })));
+// "dizi" scope: no tracked series/actor is named, but the item is clearly about TV series.
+const strongRe = /(^| )(dizi|dizisi|dizinin|dizide|fragman|fragmani|reyting|bolum|bolumu|yeni sezon|set)( |$)/;
 const rumorRe = new RegExp(`(^| )(${CONFIG.rumorWords.join("|")})`);
 
 export function link(item) {
@@ -143,7 +145,11 @@ for (const feed of CONFIG.feeds) {
       if (Number.isNaN(published.getTime())) continue;
       if (NOW - published > CONFIG.maxAgeDays * 864e5 || published - NOW > 864e5) continue;
       const entitiesFound = link(raw);
-      if (!entitiesFound.series.length && !entitiesFound.people.length) { stats.unrelated++; continue; }
+      const linked = entitiesFound.series.length || entitiesFound.people.length;
+      const foldedAll = fold(`${raw.title} ${raw.snippet}`);
+      // linked = names a series/actor of the site; dizi = about TV series in general; general = other entertainment news.
+      const scope = linked ? "linked" : strongRe.test(foldedAll) ? "dizi" : feed.entertainment ? "general" : "";
+      if (!scope) { stats.unrelated++; continue; }
       const reason = sensitiveReason(raw);
       if (reason) { stats.sensitive[reason] = (stats.sensitive[reason] || 0) + 1; continue; }
       const folded = fold(`${raw.title} ${raw.snippet}`);
@@ -151,7 +157,7 @@ for (const feed of CONFIG.feeds) {
         id, url, source: feed.id, sourceName: feed.name, lang: feed.lang,
         title: raw.title, snippet: raw.snippet,
         image: httpsOnly(raw.image), video: raw.videoId ? { provider: "youtube", id: raw.videoId } : null,
-        published: published.toISOString(),
+        published: published.toISOString(), scope,
         kind: feed.kind === "official" ? "official" : rumorRe.test(folded) ? "rumor" : "media",
         entities: entitiesFound,
       });
@@ -200,7 +206,9 @@ Snippet: ${item.snippet}`;
 
 if (keys.length) {
   let budget = MAX_AI;
-  const queue = [...fresh, ...[...known.values()].filter((i) => !i.ai && !i.aiFailed)].sort((a, b) => b.published.localeCompare(a.published));
+  const rank = { linked: 0, dizi: 1, general: 2 };
+  const queue = [...fresh, ...[...known.values()].filter((i) => !i.ai && !i.aiFailed)]
+    .sort((a, b) => (rank[a.scope] ?? 1) - (rank[b.scope] ?? 1) || b.published.localeCompare(a.published));
   for (const item of queue) {
     if (budget-- <= 0) break;
     try {
@@ -219,9 +227,13 @@ if (keys.length) {
 }
 
 // ---- merge, prune, write ---------------------------------------------------
+const ageDays = (i) => (NOW - new Date(i.published)) / 864e5;
+let generalKept = 0;
 const all = [...known.values(), ...fresh].filter((i) => !i.drop)
-  .filter((i) => NOW - new Date(i.published) <= CONFIG.maxAgeDays * 864e5)
-  .sort((a, b) => b.published.localeCompare(a.published)).slice(0, CONFIG.maxItems);
+  .filter((i) => ageDays(i) <= (i.scope === "general" ? CONFIG.maxGeneralAgeDays : CONFIG.maxAgeDays))
+  .sort((a, b) => b.published.localeCompare(a.published))
+  .filter((i) => i.scope !== "general" || ++generalKept <= CONFIG.maxGeneralItems)
+  .slice(0, CONFIG.maxItems);
 // Keep only entity slugs that still exist (series or actors may be renamed or removed).
 for (const i of all) {
   i.entities.series = i.entities.series.filter((s) => series[s]);

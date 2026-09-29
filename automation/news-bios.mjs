@@ -25,12 +25,26 @@ async function getJson(url) {
 }
 const wait = (ms) => (fixture ? Promise.resolve() : new Promise((r) => setTimeout(r, ms)));
 
+// A Wikipedia article is accepted only if its title carries the actor's surname and the start of the first name
+// (guards against a different person with a similar name, e.g. "Sahra Şaş" vs "Sahra Asadollahi").
+const fold = (s) => String(s || "").replace(/İ/g, "i").replace(/I/g, "ı").toLowerCase().replace(/ı/g, "i").replace(/ş/g, "s").replace(/ğ/g, "g")
+  .replace(/ü/g, "u").replace(/ö/g, "o").replace(/ç/g, "c").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
+export const titleMatchesName = (title, name) => {
+  const t = fold(title.replace(/\(.*?\)/g, "")).split(" ");
+  const n = fold(name).split(" ");
+  if (n.length < 2) return false;
+  const last = n[n.length - 1];
+  return t.includes(last) && t.some((w) => w.startsWith(n[0].slice(0, 3)));
+};
+
 const summaryUrl = (lang, title) => `https://${lang}.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title.replace(/ /g, "_"))}`;
 const searchUrl = (lang, q) => `https://${lang}.wikipedia.org/w/api.php?action=opensearch&search=${encodeURIComponent(q)}&limit=3&namespace=0&format=json`;
 const langlinkUrl = (lang, title) => `https://${lang}.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=fa&titles=${encodeURIComponent(title)}&format=json&redirects=1`;
 
 const clip = (text, max = 650) => {
-  const t = String(text || "").replace(/\s+/g, " ").trim();
+  // Wikipedia summaries occasionally repeat a sentence; keep each one once.
+  const sentences = String(text || "").replace(/\s+/g, " ").trim().split(/(?<=[.!؟۔])\s+/);
+  const t = sentences.filter((s, i) => sentences.indexOf(s) === i).join(" ");
   if (t.length <= max) return t;
   const cut = t.slice(0, max);
   const end = Math.max(cut.lastIndexOf(". "), cut.lastIndexOf("۔"), cut.lastIndexOf("؟ "));
@@ -49,8 +63,7 @@ async function findSummary(name) {
         const s = await getJson(summaryUrl(lang, title));
         await wait(250);
         if (s.type !== "standard" || !s.extract) continue;
-        const sameName = s.title.toLowerCase().includes(name.split(" ")[0].toLowerCase().slice(0, 4));
-        if (sameName && ACTOR_RE.test(`${s.description || ""} ${s.extract.slice(0, 300)}`)) return { lang, ...s };
+        if (titleMatchesName(s.title, name) && ACTOR_RE.test(`${s.description || ""} ${s.extract.slice(0, 300)}`)) return { lang, ...s };
       } catch { /* try next */ }
     }
   }
@@ -84,6 +97,13 @@ async function translate(text, name, langName) {
     return (out.candidates?.[0]?.content?.parts?.[0]?.text || "").trim();
   }
   return "";
+}
+
+for (const [slug, b] of Object.entries(bios)) {
+  const url = b.source?.url;
+  if (!url || b.manual || !people[slug]) continue;
+  const title = decodeURIComponent(url.split("/wiki/")[1] || "").replace(/_/g, " ");
+  if (title && !titleMatchesName(title, people[slug].name)) { delete bios[slug]; console.log(`dropped mismatched bio: ${slug} ≠ ${title}`); }
 }
 
 const due = Object.entries(people).filter(([slug]) => {
