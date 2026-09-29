@@ -64,6 +64,7 @@ Map of `slug → series`. Episodes carry photos and the trailer (`fragman`).
     "seasons": [
       {
         "number": 1,
+        "firstEpisode": 1,               // continuous number of this season's first episode (Uzak Şehir S3 → 64)
         "label": "فصل اول",
         "episodes": [
           {
@@ -190,6 +191,20 @@ weekly schedule. `node automation/audit-content.mjs` reports the remaining gaps;
 To add an episode, push a new object into the series’ `seasons[].episodes` with at
 least `number` and `date`; a page at `/dizi/<slug>/bolum-<number>/` is generated,
 and its ratings appear automatically once that date exists in `ratings.json`.
+
+### Episode numbers and the calendar
+
+Episode numbers are **continuous**, as the networks print them ("66. Bölüm"),
+never restarted per season. The Dizilah calendar counts inside a season (S3E3),
+so every season declares `firstEpisode`, and `automation/sync-episodes.mjs` (run
+in each Pages build) converts calendar entries — `firstEpisode + episode − 1` —
+and adds them to `series.json`; the build then commits `series.json` back to main.
+Added broadcasts carry `"calendar": true` (and `"scheduled": true` until the day
+after they air), so an episode stays on the site after it leaves the two-week
+calendar window. The script never renumbers or re-dates an existing episode;
+conflicts are printed as notes. A season without `firstEpisode` is skipped, not
+guessed. `audit-content.mjs --require` does not demand recaps for `calendar`
+episodes that have no summary yet.
 
 ## Honesty policy
 
