@@ -15,6 +15,9 @@ on:
       - "automation/build-social-ratings.mjs"
       - "automation/reviewed-social-ratings.json"
       - "automation/audit-cast.mjs"
+      - "automation/news-collect.mjs"
+      - "automation/news-bios.mjs"
+      - "automation/news-sources.json"
       - ".github/workflows/pages.yml"
   schedule:
     # 10:47, 11:47 and 12:47 Tehran; public report availability can vary.
@@ -53,6 +56,22 @@ jobs:
       - name: Sync episodes from the calendar
         id: episodes
         run: node automation/sync-episodes.mjs
+      # News from Turkish entertainment RSS feeds and actor bios from Wikipedia. Both need the
+      # network and may fail (a dead feed, a rate limit); that never blocks publishing the site.
+      # AI_API_KEY (optional repository secret) adds Persian titles/summaries; without it the
+      # news still appears, in Turkish.
+      - name: Collect news
+        id: news
+        run: node automation/news-collect.mjs
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+        continue-on-error: true
+      - name: Fetch actor bios from Wikipedia
+        id: bios
+        run: node automation/news-bios.mjs --limit=60
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+        continue-on-error: true
       - name: Regenerate static pages from data
         run: node automation/build-site.mjs
       - name: Publish reviewed Instagram rating supplement
@@ -140,4 +159,28 @@ jobs:
             sleep $((attempt * 10))
           done
           echo "::error::Could not push series.json to main"
+          exit 1
+      # News and bios accumulate over time (the news archive keeps 45 days, bios are fetched
+      # 60 at a time), so they are committed back like ratings and episodes.
+      - name: Persist news and bios to main
+        if: ${{ !cancelled() && (steps.news.outcome == 'success' || steps.bios.outcome == 'success') }}
+        run: |
+          files="github-pages/data/news.json github-pages/data/bios.json"
+          if git diff --quiet HEAD -- $files; then
+            echo "News and bios unchanged; nothing to persist."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add $files
+          git commit -m "data: news and actor bios [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Persisted news and bios."
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 10))
+          done
+          echo "::error::Could not push news.json and bios.json to main"
           exit 1
