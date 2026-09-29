@@ -257,9 +257,10 @@ ${material}`;
       body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { temperature: 0.2, responseMimeType: "application/json" } }),
     });
     if (res.status === 429 || res.status === 403) { keyIndex++; continue; }
-    if (!res.ok) throw new Error(`Gemini HTTP ${res.status}`);
+    if (!res.ok) throw new Error(`Gemini HTTP ${res.status}: ${(await res.text()).replace(/\s+/g, " ").replace(/key=[\w-]+/g, "key=…").slice(0, 200)}`);
     const out = await res.json();
-    return JSON.parse(out.candidates?.[0]?.content?.parts?.[0]?.text || "{}");
+    const raw = out.candidates?.[0]?.content?.parts?.[0]?.text || "";
+    try { return JSON.parse(raw.replace(/^```(?:json)?\s*|\s*```$/g, "")); } catch { throw new Error(`Gemini returned no JSON (${out.promptFeedback?.blockReason || out.candidates?.[0]?.finishReason || "empty"}): ${raw.slice(0, 80)}`); }
   }
   throw new Error("all Gemini keys are rate-limited");
 }
@@ -301,6 +302,7 @@ if (keys.length) {
       if (!item.bodyFa && item.aiTries >= 2) item.aiFailed = true; // do not retry a page the model cannot write
     } catch (e) {
       console.warn(`summary failed for ${item.id}: ${e.message}`);
+      stats.aiErrors = stats.aiErrors || []; if (stats.aiErrors.length < 3) stats.aiErrors.push(String(e.message).slice(0, 260));
       if (/rate-limited/.test(e.message)) break;
     }
     await new Promise((r) => setTimeout(r, 400));
@@ -334,5 +336,6 @@ for (const f of stats.feeds.filter((x) => !x.ok)) console.log(`feed failed: ${f.
 if (process.env.GITHUB_STEP_SUMMARY) {
   const { appendFile } = await import("node:fs/promises");
   const perFeed = stats.feeds.map((f) => f.ok ? `- ${f.id}: ${f.items} خبر خوانده شد، ${f.kept} خبر تازه نگه داشته شد${f.badDate ? `، ${f.badDate} خبر با تاریخ نامعتبر` : ""}${f.head ? ` — پاسخ خالی؛ آغاز پاسخ: \`${f.head.replace(/[`|]/g, "'")}\`` : ""}` : `- فید ناموفق: ${f.id} (${f.error})`).join("\n");
-  await appendFile(process.env.GITHUB_STEP_SUMMARY, `### اخبار\n\n${okFeeds}/${stats.feeds.length} فید سالم؛ ${stats.added} خبر جدید مرتبط؛ ${stats.kept} خبر در بایگانی؛ ${stats.unrelated} خبر نامرتبط؛ حساس: ${JSON.stringify(stats.sensitive)}.\n\n${perFeed}\n`);
+  const aiLine = !keys.length ? "کلید هوش مصنوعی به این اجرا نرسید (AI_API_KEY خالی است)" : `ترجمهٔ فارسی: ${stats.summarized} خبر ساخته شد، ${stats.aiDropped} خبر حساس حذف شد، ${stats.merged || 0} خبر تکراری ادغام شد${stats.aiErrors?.length ? `\n\nخطاهای Gemini:\n${stats.aiErrors.map((x) => `- \`${x.replace(/[`|]/g, "'")}\``).join("\n")}` : ""}`;
+  await appendFile(process.env.GITHUB_STEP_SUMMARY, `### اخبار\n\n${aiLine}\n\n${okFeeds}/${stats.feeds.length} فید سالم؛ ${stats.added} خبر جدید مرتبط؛ ${stats.kept} خبر در بایگانی؛ ${stats.unrelated} خبر نامرتبط؛ حساس: ${JSON.stringify(stats.sensitive)}.\n\n${perFeed}\n`);
 }
