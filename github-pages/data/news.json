@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T15:47:54.497Z",
+ "updated": "2026-09-29T16:09:58.745Z",
  "items": [
   {
    "id": "25936c39dd07",
@@ -18,26 +18,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
-  },
-  {
-   "id": "c0e64ed0339b",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/aile-ici-kriz-bitmiyor-ozcan-deniz-ifade-verdi-7669929",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Aile içi kriz bitmiyor! Özcan Deniz ifade verdi",
-   "snippet": "Özcan Deniz, kardeşi Sibel Deniz Semerci hakkında açılan hakaret davasında tanık olarak ifade verdi. Duruşma sonrası açıklama yapan Deniz, davanın haksız olduğunu savunarak kardeşine destek verdi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abbcd5bed0288e6d3ecc0b8.jpg",
-   "video": null,
-   "published": "2026-09-29T14:41:55.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/survivor-asiklari-anne-baba-oldu-sude-burcu-paylasti-iste-minik-kizlari-miradan-yeni-kareler-7669955",
+     "title": "Survivor aşıkları anne baba oldu! Sude Burcu paylaştı: İşte minik kızları Mira'dan yeni kareler",
+     "snippet": "Survivor yarışmasında tanıştıktan sonra evlenen Mert Öcal ve Sude Burcu çifti, merakla bekledikleri ilk bebeklerine kavuştu. Çiçeği burnunda taze anne Burcu, minik kızları Mira'nın yeni fotoğraflarını Instagram'dan paylaştı.",
+     "published": "2026-09-29T15:32:56.000Z"
+    }
+   ]
   },
   {
    "id": "0a11e95c4db6",
@@ -56,7 +47,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/podyumda-goz-kamastiran-serenay-sarikayanin-elbisesinin-fiyati-dudak-ucuklatti-7669903",
+     "title": "Podyumda göz kamaştıran Serenay Sarıkaya'nın elbisesinin fiyatı dudak uçuklattı",
+     "snippet": "Paris Moda Haftası’nda podyuma çıkan Serenay Sarıkaya, yürüyüşü ve enerjisiyle büyük beğeni topladı. Ünlü oyuncunun altın rengi zincirlerden oluşan özel tasarım elbisesinin fiyatı ise dikkat çekti.",
+     "published": "2026-09-29T14:36:03.000Z"
+    }
+   ]
   },
   {
    "id": "50054094537e",
@@ -75,7 +76,28 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/ozcan-deniz-ifade-verdi-3915937",
+     "title": "Özcan Deniz ifade verdi",
+     "snippet": "Kardeşi Sibel Deniz Semerci hakkında açılan hakaret davasında tanık olarak dinlenen Özcan Deniz, duruşma sonrası yaptığı açıklamada davayı \"yersiz ve haksız\" olarak nitelendirerek, kardeşine destek verdiğini söyledi",
+     "published": "2026-09-29T14:03:24.000Z"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/aile-ici-kriz-bitmiyor-ozcan-deniz-ifade-verdi-7669929",
+     "title": "Aile içi kriz bitmiyor! Özcan Deniz ifade verdi",
+     "snippet": "Özcan Deniz, kardeşi Sibel Deniz Semerci hakkında açılan hakaret davasında tanık olarak ifade verdi. Duruşma sonrası açıklama yapan Deniz, davanın haksız olduğunu savunarak kardeşine destek verdi.",
+     "published": "2026-09-29T14:41:55.000Z"
+    }
+   ],
+   "mergedIds": [
+    "c0e64ed0339b"
+   ]
   },
   {
    "id": "2da89b9c61b7",
@@ -94,7 +116,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/serenay-sarikaya-nin-altin-sarisi-elbisesi-servet-degerinde-cikti-p364553",
+     "title": "Serenay Sarıkaya’nın altın sarısı elbisesi servet değerinde çıktı",
+     "snippet": "Paris Moda Haftası’nda Kendall Jenner ve Jane Fonda gibi yıldızlarla podyumu sallayan Serenay Sarıkaya, Eyfel Kulesi önü...",
+     "published": "2026-09-29T13:55:00.000Z"
+    }
+   ]
   },
   {
    "id": "0bc490697cf9",
@@ -113,45 +145,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
-  },
-  {
-   "id": "55dd07991459",
-   "url": "https://www.sozcu.com.tr/usta-tiyatrocu-ali-hurol-hayatini-kaybetti-melek-baykal-dan-duygusal-veda-p364574",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Usta tiyatrocu Ali Hürol hayatını kaybetti: Melek Baykal'dan duygusal veda",
-   "snippet": "Tiyatro dünyasının usta isimlerinden Ali Hürol'dan acı haber geldi. 76 yaşında hayatını kaybeden Hürol'un vefatını, 2021...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/ustatiyatrocuhayatinikaybettijpg-9YeofKykKkuNirb8ozvr4g.jpg",
-   "video": null,
-   "published": "2026-09-29T13:47:49.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   }
-  },
-  {
-   "id": "d259e88edee7",
-   "url": "https://www.milliyet.com.tr/magazin/usta-tiyatrocu-ali-hurol-hayatini-kaybetti-7669881",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Usta tiyatrocu Ali Hürol hayatını kaybetti",
-   "snippet": "HABER MERKEZİ - Türk tiyatro ve televizyon dünyasının usta isimlerinden Ali Hürol’dan acı haber geldi. \"Aşkına Eşkıya”, “Sıla”, “Gökten Üç Elma Düştü” ve “Sağır Oda” gibi önemli yapımlarda rol alan Hürol, 76 yaşında yaşamını yitirdi. Sağlık sorunları ve kalp rahatsızlığı olduğu bilinen usta oyuncunun vefatını, 2021 yılında hayatını kaybeden sanatçı Sezai Aydın’ın oğlu Arda Aydın sosyal medya hesabından duyurdu. ARDA AYDIN’DAN DUYGUSAL VEDA Arda Aydın, Ali Hürol için yaptığı paylaşımda usta oyunc",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abbbc6aed0288e6d3ecc032.jpg",
-   "video": null,
-   "published": "2026-09-29T13:28:43.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/angelina-jolie-ve-brad-pitt-in-kizi-zahara-babasinin-soyadini-birakan-ucuncu-cocuk-oldu-3915945",
+     "title": "Babasını resmen sildi",
+     "snippet": "Angelina Jolie ve Brad Pitt'in kızı Zahara Marley Jolie-Pitt, iki kardeşinin ardından yasal olarak babasının soyadını kullanmayı bıraktı",
+     "published": "2026-09-29T13:48:27.000Z"
+    }
+   ]
   },
   {
    "id": "ee6765aec974",
@@ -170,7 +174,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/aslihan-turanli-ile-taha-tatlici-evleniyor-evet-dedi-p364564",
+     "title": "Aslıhan Turanlı ile Taha Tatlıcı evleniyor: \"Evet\" dedi",
+     "snippet": "Oyuncu Aslıhan Turanlı ile iş insanı Taha Tatlıcı'nın bir süredir devam eden ilişkisi yeni bir aşamaya taşındı. Çiftten ...",
+     "published": "2026-09-29T13:15:50.000Z"
+    }
+   ]
   },
   {
    "id": "d002cf808560",
@@ -189,7 +203,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/sadikin-bedduasi-gercek-olacak-mi-babanin-evladina-bedduasi-arsi-titretir-derler-7669836",
+     "title": "Sadık'ın bedduası gerçek olacak mı? ‘Babanın evladına bedduası arşı titretir derler!’",
+     "snippet": "Duygu dolu bir bölümle ekrana gelecek Haysiyet’in tanıtımında Simay’ın parasıyla kendisine kamyon alanAziz Karlıova, bu kararıyla ailesinin büyük tepkisini çekiyor. AZİZ’İN İSYANI! Özellikle babası Sadık ile karşı karşıya gelen Aziz, yıllardır içinde biriktirdiği isyanı haykırıyor; “İnsan gibi yaşam",
+     "published": "2026-09-29T12:53:54.000Z"
+    }
+   ]
   },
   {
    "id": "5733e3e391aa",
@@ -208,7 +232,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/sylvester-stallone-evlat-acisini-anlatti-olumunden-bir-hafta-sonra-bir-feryat-koptu-agzimdan-3915928",
+     "title": "\"Bir feryat koptu ağzımdan\"",
+     "snippet": "Sylvester Stallone, yıllar önce kaybettiği oğlunun ölüm haberini alma anını ve yaşadığı acıyla nasıl baş ettiğini anlattı",
+     "published": "2026-09-29T12:47:47.000Z"
+    }
+   ]
   },
   {
    "id": "c7626376e727",
@@ -227,7 +261,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-kocalariyla-evlendikten-sonra-tanistilar-simdi-kucaklarinda-birer-cocuk-43323331",
+     "title": "Ünlü kocaları sayesinde arkadaş olmuşlardı... Şimdi kucaklarında birer çocuk!",
+     "snippet": "Aslına bakılırsa her ikisini de \"kader yoldaşı\" diye tanımlasak hiç yanlış olmaz... İkisi de kalburüstü ailelerde dünyaya geldi. Ama sıradan hayatlar sürdü.",
+     "published": "2026-09-29T12:39:00.000Z"
+    }
+   ]
   },
   {
    "id": "62d2f138caea",
@@ -246,7 +290,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/jennifer-lopez-yakisikli-korumasiyla-el-ele-3915836",
+     "title": "Yakışıklı korumasıyla el ele",
+     "snippet": "Ben Affleck'ten boşanmasından bu yana hayatında kimsenin olmadığını söyleyen Jennifer Lopez, yakışıklı korumasıyla Milano'da el ele görüntülenince, haklarında yakıştırmalar yapıldı",
+     "published": "2026-09-29T12:19:45.000Z"
+    }
+   ]
   },
   {
    "id": "700098bb52d2",
@@ -265,7 +319,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/rob-lowe-kamera-onunde-en-iyi-opusen-kadin-oyuncuyu-acikladi-nastassja-kinski-3915861",
+     "title": "En iyi öpüşen kadın oyuncuyu açıkladı",
+     "snippet": "Bugüne dek sinemada Demi Moore, Rashida Jones, Kim Cattrall, Calista Flockhart, Meg Tilly gibi birçok isimle öpüşme sahnesi çeken Rob Lowe, en iyi öpüşen kadın oyuncuyu tereddütsüz ilan etti",
+     "published": "2026-09-29T12:19:15.000Z"
+    }
+   ]
   },
   {
    "id": "ddddb207dfa1",
@@ -284,7 +348,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-yonetmenin-mutlu-gunu-yedi-cocugunun-en-kucugunu-evlendirdi-43323535",
+     "title": "Ünlü yönetmenin mutlu günü: Yedi çocuğunun en küçüğünü evlendirdi",
+     "snippet": "Sinemanın usta yönetmenlerinden Steven Spielberg ile eşi Kate Capshaw hayatlarının en mutlu günlerinden birini yaşadı.",
+     "published": "2026-09-29T12:01:24.000Z"
+    }
+   ]
   },
   {
    "id": "8bc0cde53a80",
@@ -303,7 +377,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/62-yasindaki-kaya-cilingiroglu-26-yas-kucuk-sevgilisinin-dogum-gununde-aska-geldi-p364540",
+     "title": "62 yaşındaki Kaya Çilingiroğlu, 26 yaş küçük sevgilisinin doğum gününde aşka geldi",
+     "snippet": "Kaya Çilingiroğlu, kendisinden 26 yaş küçük sevgilisi Aslım Kan'ın doğum gününde romantik anlarıyla dikkat çekti. İstanb...",
+     "published": "2026-09-29T11:47:33.000Z"
+    }
+   ]
   },
   {
    "id": "cf758fd5b388",
@@ -322,26 +406,37 @@
     "series": [],
     "people": [],
     "networks": []
-   }
-  },
-  {
-   "id": "3f91626ac336",
-   "url": "https://www.haberturk.com/magazin/foto/marco-asensio-baba-oluyor-3915684",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Fenerbahçe'nin yıldızı baba oluyor",
-   "snippet": "Fenerbahçe'nin yıldız futbolcusu Marco Asensio, model sevgilisi Lavinia Leonhard ile bir erkek bebek beklediklerini duyurdu",
-   "image": "https://im.haberturk.com/l/2026/09/28/ver1790680937/3915684/jpg/1920x1080",
-   "video": null,
-   "published": "2026-09-29T11:22:26.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/ali-hurol-hayatini-kaybetti-3915901",
+     "title": "Usta tiyatrocu hayatını kaybetti",
+     "snippet": "Usta tiyatrocu Ali Hürol, 76 yaşında hayata veda etti. Hürol'un, kalp rahatsızlığı ve sağlık sorunları bulunuyordu",
+     "published": "2026-09-29T11:43:27.000Z"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/usta-tiyatrocu-ali-hurol-hayatini-kaybetti-7669881",
+     "title": "Usta tiyatrocu Ali Hürol hayatını kaybetti",
+     "snippet": "HABER MERKEZİ - Türk tiyatro ve televizyon dünyasının usta isimlerinden Ali Hürol’dan acı haber geldi. \"Aşkına Eşkıya”, “Sıla”, “Gökten Üç Elma Düştü” ve “Sağır Oda” gibi önemli yapımlarda rol alan Hürol, 76 yaşında yaşamını yitirdi. Sağlık sorunları ve kalp rahatsızlığı olduğu bilinen usta oyuncunu",
+     "published": "2026-09-29T13:28:43.000Z"
+    },
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/usta-tiyatrocu-ali-hurol-hayatini-kaybetti-melek-baykal-dan-duygusal-veda-p364574",
+     "title": "Usta tiyatrocu Ali Hürol hayatını kaybetti: Melek Baykal'dan duygusal veda",
+     "snippet": "Tiyatro dünyasının usta isimlerinden Ali Hürol'dan acı haber geldi. 76 yaşında hayatını kaybeden Hürol'un vefatını, 2021...",
+     "published": "2026-09-29T13:47:49.000Z"
+    }
+   ],
+   "mergedIds": [
+    "d259e88edee7",
+    "55dd07991459"
+   ]
   },
   {
    "id": "ed1307de166c",
@@ -368,7 +463,17 @@
      "trt-1",
      "tv8"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/28-eylul-2026-reyting-sonuclari-aciklandi-uzak-sehir-in-oranlari-belli-oldu-p364514",
+     "title": "28 Eylül 2026 reyting sonuçları açıklandı: Uzak Şehir'in oranları belli oldu",
+     "snippet": "28 Eylül Pazartesi akşamı reyting yarışında Uzak Şehir, Evlilik Güzeldir, MasterChef Türkiye ve Türkiye-İtalya karşılaşm...",
+     "published": "2026-09-29T10:01:17.000Z"
+    }
+   ]
   },
   {
    "id": "120a9d9e2c94",
@@ -387,28 +492,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
-  },
-  {
-   "id": "f8970d4ac937",
-   "url": "https://www.milliyet.com.tr/magazin/ask-mi-aile-mi-mehmet-kararini-verdi-7669736",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Aşk mı, aile mi? Mehmet kararını verdi!",
-   "snippet": "Kanal D'nin Yeşilçam ruhunu günümüze taşıyan dizisi Haysiyet, bu akşamki yeni bölüm öncesi yayınlanan ön izlemesiyle izleyicileri duygulandırdı. Bir bankta oturan Simay ve Mehmet'in içten yüzleşmesi dijital mecralarda etkileşim rekoru kırdı. “KİMSE SENİ ÜZEMEYECEK” Ön izleme, birbirlerine duydukları sevgiyle tüm engellere meydan okumaya çalışan iki gencin çaresizliğini gözler önüne serdi. Mehmet'in Simay'a verdiği, \"Bir daha kimsenin seni üzmesine izin vermeyeceğim\" sözü, aşkları uğruna her şeyi",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abb874ded0288e6d3ecbf77.jpg",
-   "video": null,
-   "published": "2026-09-29T09:53:54.000Z",
-   "scope": "dizi",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": [
-     "kanal-d"
-    ]
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-ciftten-haber-geldi-mujde-ilk-bebek-coktan-dogdu-bile-43323065",
+     "title": "Ünlü çiftten tatlı sürpriz... Müjde! İlk bebek çoktan doğdu bile",
+     "snippet": "Gösteri dünyasının mutlu çiftlerinden birinden bebek müjdesi geldi... Hamilelik haberini sosyal medya üzerinden duyuran çift, meğer bebeklerine çoktan kavuşmuş.",
+     "published": "2026-09-29T10:01:00.000Z"
+    }
+   ]
   },
   {
    "id": "a0dbd8c29d20",
@@ -427,7 +521,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/troya-efsanesi-akmde-sanatseverlerle-bulusacak-43323399",
+     "title": "TROYA efsanesi AKM’de sanatseverlerle buluşacak",
+     "snippet": "Anadolu Ateşi, Anadolu’nun kadim mirasını sahneye taşıdığı “TROYA” gösterisiyle 1 Ekim’de Atatürk Kültür Merkezi’nde (AKM) sanatseverlerle buluşacak.",
+     "published": "2026-09-29T09:46:00.000Z"
+    }
+   ]
   },
   {
    "id": "9f81a921dbed",
@@ -448,7 +552,28 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ask-mi-aile-mi-mehmet-kararini-verdi-43323390",
+     "title": "Aşk mı, aile mi? Mehmet kararını verdi",
+     "snippet": "Kanal D’nin yeni bölümüyle ekrana gelecek olan dizisi Haysiyet’te Mehmet kararını verdi. Aşkıyla ailesi arasında kalan genç adam, tercihini yaparken kalbinin sesini dinledi!",
+     "published": "2026-09-29T09:37:00.000Z"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/ask-mi-aile-mi-mehmet-kararini-verdi-7669736",
+     "title": "Aşk mı, aile mi? Mehmet kararını verdi!",
+     "snippet": "Kanal D'nin Yeşilçam ruhunu günümüze taşıyan dizisi Haysiyet, bu akşamki yeni bölüm öncesi yayınlanan ön izlemesiyle izleyicileri duygulandırdı. Bir bankta oturan Simay ve Mehmet'in içten yüzleşmesi dijital mecralarda etkileşim rekoru kırdı. “KİMSE SENİ ÜZEMEYECEK” Ön izleme, birbirlerine duydukları",
+     "published": "2026-09-29T09:53:54.000Z"
+    }
+   ],
+   "mergedIds": [
+    "f8970d4ac937"
+   ]
   },
   {
    "id": "0d77320ffbee",
@@ -467,7 +592,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/motovlogcu-dayidan-aci-haber-fenomen-cumhur-kahraman-hayatini-kaybetti-7669575",
+     "title": "Fenomen Cumhur Kahriman kimdir? Fenomen Cumhur Kahriman öldü mü, neden öldü?",
+     "snippet": "İzmir-Çanakkale kara yolunun Dikili ilçesi Kıratlı Mahallesi Makaron Çiftliği mevkiinde dün saat 20.30 sıralarında kaza meydana geldi. MOTOVLOGCU DAYI'DAN ACI HABER İzmir'den Çanakkale yönüne giden Cumhur Kahriman (46) yönetimindeki 34 GMM 853 plakalı motosiklet, önünde giden bir taşımacılık firması",
+     "published": "2026-09-29T09:28:47.000Z"
+    }
+   ]
   },
   {
    "id": "a81434544b1e",
@@ -486,7 +621,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sabancilara-amerikali-gelin-geliyor-suzan-sabanci-dan-dugun-aciklamasi-p364504",
+     "title": "Sabancılara Amerikalı gelin geliyor: Suzan Sabancı'dan düğün açıklaması",
+     "snippet": "Suzan Sabancı'nın oğlu Haluk Dinçer, 6 yıldır birlikte olduğu Amerikalı India Grimstad ile Toskana'da nişanlandı. Müstak...",
+     "published": "2026-09-29T09:25:41.000Z"
+    }
+   ]
   },
   {
    "id": "a81a3578c373",
@@ -509,7 +654,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/alyanin-kacis-plani-tutmadi-43323330",
+     "title": "Alya'nın kaçış planı tutmadı",
+     "snippet": "Kanal D’nin Emmy adayı dizisi Uzak Şehir’de Alya, Cihan Deniz’i Budapeşte’ye kaçırmak için Ecmel ve Nare ile iş birliği yaptı. Ancak planı, kalem kutusunda bulunan yasaklı maddeye takıldı.",
+     "published": "2026-09-29T09:17:00.000Z"
+    }
+   ]
   },
   {
    "id": "3611d6d98638",
@@ -528,7 +683,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/sonbahara-ozel-film-ve-diziler-d-smartta-7669720",
+     "title": "Sonbahara özel film ve diziler D-Smart'ta",
+     "snippet": "Sinema TV kanalında; TV’de ilk kez ekrana gelecek olan Tehlikeli Hayvanlar (Dangerous Animals), açık denizde geçen sıra dışı hayatta kalma savaşı ve gerilim dozu yüksek atmosferiyle dikkat çekecek. Edebiyat ve romantizmi bir araya getiren Jane Austen Hayatımı Mahvetti (Jane Austen Wrecked My Life), ",
+     "published": "2026-09-29T09:14:36.000Z"
+    }
+   ]
   },
   {
    "id": "869098230a83",
@@ -547,7 +712,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/serenay-sarikaya-paris-i-salladi-altin-elbisesiyle-podyuma-cikti-p364415",
+     "title": "Serenay Sarıkaya Paris'i salladı: Podyumdaki yürüyüşünü dünya konuşuyor",
+     "snippet": "Serenay Sarıkaya, Paris Moda Haftası'nda ünlü isimleri buluşturan organizasyonda podyuma çıktı. Altın ışıltılı elbisesiy...",
+     "published": "2026-09-29T08:58:53.000Z"
+    }
+   ]
   },
   {
    "id": "e29cf746fa32",
@@ -566,7 +741,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/hamid-yorulmazin-hikayesi-yurek-yakti-annem-olumum-pahasina-babamin-kim-oldugunu-sakliyor-7669704",
+     "title": "Hamid Yorulmaz'ın hikayesi yürek burktu: Annem ölümüm pahasına babamın kim olduğunu saklıyor",
+     "snippet": "İzmir’in Torbalı ilçesinde yaşayan 18 yaşındaki Hamid Yorulmaz’ın hayat hikayesi, küçük yaşta başlayan zorlu bir mücadeleyle şekillendi. Doğuştan talasemi majör hastası, halk arasındaki adıyla Akdeniz Anemisi olan Hamid, henüz 3 yaşındayken annesi Nihal Beyit tarafından babasına bırakıldı. Küçük yaş",
+     "published": "2026-09-29T08:52:00.000Z"
+    }
+   ]
   },
   {
    "id": "e17308b349e6",
@@ -592,7 +777,17 @@
      "atv",
      "star-tv"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/cirkin-dizisi-icin-karar-alindi-hayranlarini-uzecek-haber-geldi-p364490",
+     "title": "Çirkin dizisi için karar alındı: Hayranlarını üzecek haber geldi",
+     "snippet": "Yeni yayın döneminin başlamasıyla birlikte peş peşe final kararları gelmeye devam ediyor. A.B.İ ve Aşk ve Taht'ın ardınd...",
+     "published": "2026-09-29T08:50:57.000Z"
+    }
+   ]
   },
   {
    "id": "5bd0b9879f04",
@@ -611,7 +806,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/barbara-palvin-ve-dylan-sprouse-bebeklerine-kavustu-3915748",
+     "title": "Anne oldu",
+     "snippet": "Ünlü model Barbara Palvin ile oyuncu eşi Dylan Sprouse'un ilk çocukları dünyaya geldi. Ünlü çift, kızlarının doğum haberini sosyal medya hesaplarından yaptıkları ortak paylaşımla duyurdu",
+     "published": "2026-09-29T08:02:59.000Z"
+    }
+   ]
   },
   {
    "id": "442e4a791374",
@@ -630,7 +835,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/serenay-sarikaya-paris-moda-haftasinda-dunya-yildizlariyla-ayni-podyumda-43323103",
+     "title": "Serenay Sarıkaya Paris Moda Haftası’nda dünya yıldızlarıyla aynı podyumda",
+     "snippet": "Ünlü oyuncu Serenay Sarıkaya, Paris Moda Haftası kapsamında düzenlenen görkemli Le Défilé etkinliğinde podyuma çıktı. Eyfel Kulesi manzarası eşliğinde gerçekleşen gecede Sarıkaya, dünyaca ünlü isimlerle aynı podyumu paylaştı.",
+     "published": "2026-09-29T07:50:00.000Z"
+    }
+   ]
   },
   {
    "id": "832586c989de",
@@ -649,7 +864,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/izzet-ozilhan-dan-kaza-sonrasi-ilk-goruntu-yurutecle-ayakta-durdu-p364470",
+     "title": "İzzet Özilhan'dan kaza sonrası ilk görüntü: Yürüteçle ayakta durdu",
+     "snippet": "Yasemin Ergen'le 14 yıllık evliliğini noktalayan İzzet Özilhan, ciddi bir motosiklet kazasının ardından uzun süredir göz...",
+     "published": "2026-09-29T07:44:10.000Z"
+    }
+   ]
   },
   {
    "id": "4ece14204c2c",
@@ -668,7 +893,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/paris-moda-haftasi-nda-unlu-yildizlar-gecidi-jane-fonda-kendal-jenner-eva-longoria-ayni-podyumda-3915805",
+     "title": "Ünlüler geçidi",
+     "snippet": "Paris Moda Haftası kapsamında dün düzenlenen defilede Jane Fonda, Kendal Jenner, Eva Longoria, Andie MacDowell, Viola Davis gibi ünlü yıldızlar yürüdü",
+     "published": "2026-09-29T07:42:23.000Z"
+    }
+   ]
   },
   {
    "id": "dc9164c9444b",
@@ -687,7 +922,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/asli-enver-ve-berkin-gokbudak-prag-a-tasiniyor-3915710",
+     "title": "Ünlü oyuncu Prag'a taşınıyor",
+     "snippet": "Berkin Gökbudak, eşi Aslı Enver ve kızları Elay ile birlikte Çekya'nın başkenti Prag'a yerleşeceklerini açıkladı",
+     "published": "2026-09-29T07:15:00.000Z"
+    }
+   ]
   },
   {
    "id": "b57f877217ec",
@@ -706,7 +951,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/kayahan-muzikali-43323076",
+     "title": "Kayahan müzikali",
+     "snippet": "3 Nisan 2015’te yaşamını yitiren müzik dünyasının usta ismi Kayahan’ın şarkılarıyla bir müzikal hazırlanıyor.",
+     "published": "2026-09-29T07:14:12.000Z"
+    }
+   ]
   },
   {
    "id": "3a91efede423",
@@ -725,7 +980,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/serenay-sarikaya-paris-moda-haftasi-nda-podyuma-cikti-3915776",
+     "title": "Serenay podyumda",
+     "snippet": "Paris Moda Haftası'na giden oyuncu Serenay Sarıkaya, Eyfel Kulesi önünde düzenlenen görkemli defilede yürüdü. Sarıkaya, kendinden emin hali ve enerjisiyle dikkatleri üzerine çekti",
+     "published": "2026-09-29T07:14:00.000Z"
+    }
+   ]
   },
   {
    "id": "d469d67eb516",
@@ -744,7 +1009,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/serenay-sarikaya-pariste-buyuledi-altin-elbisesiyle-podyuma-damga-vurdu-7669559",
+     "title": "Serenay Sarıkaya Paris’te büyüledi! Altın rengi elbisesiyle podyuma damga vurdu",
+     "snippet": "Oyunculuğu ve tarzıyla sık sık gündeme gelen Serenay Sarıkaya, Paris Moda Haftası kapsamında düzenlenen özel defilede podyuma çıktı. Altın rengi püsküllü elbisesiyle dikkatleri üzerine çeken ünlü oyuncunun görünümü ve enerjisi sosyal medyada büyük beğeni topladı.",
+     "published": "2026-09-29T06:49:59.000Z"
+    }
+   ]
   },
   {
    "id": "1cebd4ea1a4e",
@@ -763,7 +1038,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/sahnelere-donuyor-43322986",
+     "title": "Sahnelere dönüyor",
+     "snippet": "Gül Erda uzun süren sessizliğinin ardından yeniden sahnelere dönmeye hazırlanıyor.",
+     "published": "2026-09-29T06:25:00.000Z"
+    }
+   ]
   },
   {
    "id": "0c0be74d6992",
@@ -782,7 +1067,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/konserde-kavga-cikti-zeynep-bastik-sahneden-boyle-tepki-gosterdi-p364434",
+     "title": "Konserde kavga çıktı! Zeynep Bastık sahneden böyle tepki gösterdi",
+     "snippet": "Zeynep Bastık'ın Aydın'daki konserinde seyirciler arasında kavga çıktı. Sahnedeki performansına ara vererek olaya müdaha...",
+     "published": "2026-09-29T06:20:12.000Z"
+    }
+   ]
   },
   {
    "id": "1713585b7ed5",
@@ -801,7 +1096,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/teoman-bizi-cekiyorlar-43322965",
+     "title": "Teoman bizi çekiyorlar",
+     "snippet": "Teoman önceki akşam Cihangir’deki Smyrna adlı mekânda görüntülendi.",
+     "published": "2026-09-29T06:13:00.000Z"
+    }
+   ]
   },
   {
    "id": "bfe24ecdda43",
@@ -820,7 +1125,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/nejat-uygurun-film-vasiyeti-yok-43322956",
+     "title": "Nejat Uygur’un film vasiyeti yok",
+     "snippet": "“Şahane Pazar Sahnede” ile seyirciyle buluşan Süheyl ve Behzat Uygur kardeşler, babaları usta oyuncu Nejat Uygur’la ilgili bir film projeleri olup olmadığı sorusuna olumsuz yanıt verdi.",
+     "published": "2026-09-29T06:05:00.000Z"
+    }
+   ]
   },
   {
    "id": "67e943ef064f",
@@ -839,7 +1154,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "aa-kultur",
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/kultur/dunyada-bu-hafta-bir-dizi-etkinlik-sanatseverlerle-bulusacak-/4072148",
+     "title": "Dünyada bu hafta bir dizi etkinlik sanatseverlerle buluşacak",
+     "snippet": "Dünyanın farklı şehirlerinde bu hafta festivallerden konserlere, sahne performanslarından sergilere birçok etkinlik sanatseverlerin beğenisine sunulacak.",
+     "published": "2026-09-29T06:04:09.000Z"
+    }
+   ]
   },
   {
    "id": "52fbee78bfcd",
@@ -858,7 +1183,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/ahu-yagtu-beni-nasil-tanidiniz-3915787",
+     "title": "\"Beni nasıl tanıdınız?\"",
+     "snippet": "Etiler'de görüntülenen oyuncu Ahu Yağtu, gazetecileri karşısında görünce esprili bir şekilde \"Beni nasıl buldunuz ve tanıdınız, bravo\" ifadelerini kullandı",
+     "published": "2026-09-29T05:52:36.000Z"
+    }
+   ]
   },
   {
    "id": "e482662d60b4",
@@ -877,7 +1212,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/nihat-dogan-gozyaslarini-tutamadi-8-dairesini-satmak-zorunda-kaldigini-acikladi-p364199",
+     "title": "Nihat Doğan gözyaşlarını tutamadı: 8 dairesini satmak zorunda kaldığını açıkladı",
+     "snippet": "Nihat Doğan, oğlu Badıkan ile birlikte kamera karşısına geçerek hayatına dair samimi açıklamalarda bulundu. Pandemi döne...",
+     "published": "2026-09-29T05:51:26.000Z"
+    }
+   ]
   },
   {
    "id": "2e8e56ce149d",
@@ -896,7 +1241,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/hakan-sabanci-dan-ispanyol-model-tatiana-panakal-la-ask-iddiasina-olay-yanit-p364417",
+     "title": "Hakan Sabancı'dan İspanyol model Tatiana Panakal'la aşk iddiasına olay yanıt",
+     "snippet": "İspanyol model Tatiana Panakal ile birlikte görüntülenmesiyle aşk iddialarının odağına yerleşen Hakan Sabancı, sessizliğ...",
+     "published": "2026-09-29T05:50:04.000Z"
+    }
+   ]
   },
   {
    "id": "7eb7c09b609c",
@@ -915,7 +1270,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/alina-boz-yaza-boyle-veda-etti-3915726",
+     "title": "Yaza böyle veda etti",
+     "snippet": "Umut Evirgen ile ilk bebeklerini kucaklarına almak için gün sayan oyuncu Alina Boz, yaza veda etti",
+     "published": "2026-09-29T05:37:20.000Z"
+    }
+   ]
   },
   {
    "id": "acacc848b28f",
@@ -934,7 +1299,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/hic-sevilmeden-buyudu-80-yasina-geldi-babamin-yaptiklarinin-hepsini-anlatmadim-kimse-bana-acisin-istemiyorum-43322286",
+     "title": "Çocukken hiç sevilmeden büyüdü, 80 yaşına geldi... Babamın yaptıklarının hepsini anlatmadım... Kimse bana acısın istemiyorum!",
+     "snippet": "Dışarıdan ilk bakışta dünyanın en şanslı insanlarından biri Sylvester Stallone… Bugün artık 80 yaşında, beş çocuk babası bir yetişkin... Neredeyse dede olma çağında. Üstelik hayatında bir evlat acısı bile yaşadı.",
+     "published": "2026-09-29T05:36:18.000Z"
+    }
+   ]
   },
   {
    "id": "43fb343ef4c2",
@@ -953,7 +1328,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/alina-boz-dan-yeni-hamilelik-pozlari-karni-iyice-belirginlesti-p364407",
+     "title": "Alina Boz'dan yeni hamilelik pozları: Karnı iyice belirginleşti",
+     "snippet": "İlk kez anne olmaya hazırlanan Alina Boz, hamileliğinin 5,5'inci ayında objektif karşısına geçti. Doğayla iç içe verdiği...",
+     "published": "2026-09-29T05:28:07.000Z"
+    }
+   ]
   },
   {
    "id": "122d1b289f74",
@@ -972,26 +1357,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
-  },
-  {
-   "id": "6ea405bdf769",
-   "url": "https://www.sozcu.com.tr/asker-kizi-kim-milyoner-olmak-ister-deki-rutbe-sorusunu-bilemedi-p364222",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Babası askerdi yine bilemedi: Kim Milyoner'e damga vuran rütbe sorusu",
-   "snippet": "Kim Milyoner Olmak İster'de beşinci soruya kadar ilerleyen Zeynep Atılgan Yavru, askerî rütbelerle ilgili soruda zorland...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/787jpg-7OA4K0DcjUqi5A2Cq6ZVHA.jpg",
-   "video": null,
-   "published": "2026-09-29T05:15:24.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sarkiciligi-birakip-eski-isine-geri-donuyor-kapalicarsi-da-dukkanin-basina-gececek-p364105",
+     "title": "Şarkıcılığı bırakıp kuyumculuğa geri dönüyor: Kapalıçarşı'da tezgahtar olacak",
+     "snippet": "Rober Hatemo, müzik kariyeriyle ilgili radikal bir kararın eşiğinde olduğunu açıkladı. Şarkı yapmak istemediğini söyleye...",
+     "published": "2026-09-29T05:16:38.000Z"
+    }
+   ]
   },
   {
    "id": "d45d56ca4ff1",
@@ -1012,7 +1388,17 @@
      "uraz-kaygilaroglu"
     ],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/urazdan-sonra-aski-bulamadim-43322920",
+     "title": "Melis İşiten'den itiraf: Uraz’dan sonra aşkı bulamadım",
+     "snippet": "Melis İşiten, 8 yıl önce boşandığı Uraz Kaygılaroğlu hakkında konuştu. “Evliliğimizden daha iyi bir versiyondayız şu anda” diyen oyuncu, bir de itirafta bulundu: “Boşandıktan sonra birlikte olduğum insanlarda aşkı bulamadım.”",
+     "published": "2026-09-29T05:08:00.000Z"
+    }
+   ]
   },
   {
    "id": "f26bdcb2fd7f",
@@ -1031,7 +1417,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/ozlemini-sarkilariyla-anlatti-7669472",
+     "title": "Özlemini şarkılarıyla anlattı",
+     "snippet": "TG Entertainment etiketiyle dijital müzik platformlarındaki yerini alan albümde yeniden ayağa kalkma gibi evrensel duyguları anlattığını söyleyen sanatçı, “Şarkıların içinde çokça duygu var. Bir kadın, ne yaşarsa yaşasın şarkısını söylemeye devam edebilir. Bu albüm de tam olarak bugün olduğum yeri a",
+     "published": "2026-09-29T04:02:14.000Z"
+    }
+   ]
   },
   {
    "id": "8cafcf96214c",
@@ -1050,7 +1446,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/mahallelerle-gonderme-yapti-7669471",
+     "title": "‘Mahalleler’le gönderme yaptı",
+     "snippet": "Sözü ve müziği Yunus Çiftci’ye ait parçasındaki felsefi göndermelerle dikkat çeken şarkıcı, sonbahar müzik listesine iddialı bir giriş yaptı. Dalkılıç, son açık hava konserini ise 10 Ekim’de İstanbul Paribu Vadi Açıkhava Sahnesi’nde vereceğini duyurdu.",
+     "published": "2026-09-29T04:02:14.000Z"
+    }
+   ]
   },
   {
    "id": "0a73cfc0bef0",
@@ -1069,7 +1475,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/7-bin-500-kisiyi-costurdu-7669470",
+     "title": "7 bin 500 kişiyi coşturdu",
+     "snippet": "TemaCC organizasyonuyla Ataköy Marina Arena’da sahne alan elektronik müzik dünyasının yıldızı, yaklaşık 7 bin 500 müzikseverin katıldığı gecede İstanbul’u adeta dans pistine çevirdi. Grammy ödüllü sanatçı, Türkiye’deki en büyük sahnelerinden birini gerçekleştirerek, sezona iddialı bir final yaptı.",
+     "published": "2026-09-29T04:02:13.000Z"
+    }
+   ]
   },
   {
    "id": "29323ff33355",
@@ -1088,7 +1504,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/zirveyi-ucledi-7669469",
+     "title": "Zirveyi üçledi",
+     "snippet": "‘Top 200 Türkiye YouTube’ listesinde en yüksek açılışı gerçekleştiren şarkısıyla ‘YouTube Trendler Listesi’nin zirvesine yerleşen sanatçı, Radyo ve TV Metre (RadyoTVMetre) verilerine göre ise son bir ayda ‘En Çok Çalınan Şarkı’ olarak rakiplerine açık ara fark attı.",
+     "published": "2026-09-29T04:02:13.000Z"
+    }
+   ]
   },
   {
    "id": "9e247cc8a4e3",
@@ -1107,7 +1533,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/rolu-olay-cikardi-7669468",
+     "title": "Rolü ‘Olay’ çıkardı",
+     "snippet": "19 yaşındayken Atiye’nin kiraladığı bir stüdyoda yaşadığını öne sürdüğü tartışmayı Instagram hesabından paylaşarak, eski defterleri açan oyuncu Berrin Keklikler’in, “Hâlâ iliklerime kadar senden nefret ediyormuşum” sözleriyle merakın daha da arttığı klip önceki akşam yayınlandı. Keklikler’in nefret ",
+     "published": "2026-09-29T04:02:12.000Z"
+    }
+   ]
   },
   {
    "id": "ac018e7354e3",
@@ -1126,7 +1562,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/yagmur-altinda-yangin-yeri-korosu-7669467",
+     "title": "Yağmur altında ‘Yangın yeri’ korosu",
+     "snippet": "Şarkılarını sağanak yağışa aldırış etmeden konser alanını terk etmeyen sevenleri için söyleyen şarkıcı, sıra ‘Yangın Yeri’ parçasına geldiğinde unutulmaz bir düete imza attı. Binlerce kişinin Doğan’a bir ağızdan eşlik ettiği o anlar geceye damga vurdu.",
+     "published": "2026-09-29T04:02:11.000Z"
+    }
+   ]
   },
   {
    "id": "c091b69e074d",
@@ -1145,7 +1591,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/zaranin-harbiye-dugunu-7669466",
+     "title": "Zara’nın Harbiye düğünü!",
+     "snippet": "MESUT YILMAZ - Konser öncesi sosyal medya hesabından takipçilerine şemsiye çağrısında bulunan sanatçı, “Aşktan sırılsıklam olalım” sözleriyle alkış aldı. Açıkhava sahnesine, “Düğün geceme hoş geldiniz” sözleriyle çıkan şarkıcı, “Beş yaşından beri gelin olmayı çok istedim. İki kere evlendim ama hiç d",
+     "published": "2026-09-29T04:02:11.000Z"
+    }
+   ]
   },
   {
    "id": "440693a48084",
@@ -1172,7 +1628,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/zirvenin-adi-daha-17-7669465",
+     "title": "Zirvenin adı ‘Daha 17’",
+     "snippet": "Serhat’ın (Çağdaş Onur Öztürk) öldüğü gece odaya başka birinin girdiğini anlayan Aras’ın, kardeşinin masumiyetine olan inancı iyice pekişirken, Nuray (Dilara Aksüyek) ile Feza arasındaki yüzleşme izleyicilerin aklına, “Deniz (Helin Elveren) ve Sıla (Ezgi Dalkıç) kardeş mi?” sorusunu getirdi. Sürpriz",
+     "published": "2026-09-29T04:02:10.000Z"
+    }
+   ]
   },
   {
    "id": "41874466081a",
@@ -1196,7 +1662,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/ask-mi-aile-mi-7669464",
+     "title": "Aşk mı, aile mi?",
+     "snippet": "Kanal D’nin Yeşilçam ruhunu günümüze taşıyan dizisi ‘Haysiyet’, yayınlanan ön izlemesiyle izleyicileri duygulandırdı. Bir bankta oturan Simay (Merih Öztürk) ve Mehmet’in (Doğukan Güngör) içten yüzleşmesi sosyal medyada etkileşim rekoru kırdı. Tüm engellere meydan okumaya çalışan Mehmet’in, “Bir daha",
+     "published": "2026-09-29T04:02:09.000Z"
+    }
+   ]
   },
   {
    "id": "12ceb35ba2b5",
@@ -1215,7 +1691,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/guncel-hissettirmesi-icin-yeni-olmasina-gerek-yok-7669463",
+     "title": "‘Güncel hissettirmesi için yeni olmasına gerek yok’",
+     "snippet": "Kıyafetlerini farklı şekillerde yeniden kullandığını anlatan sanatçı, “Bir parçanın güncel hissettirmesi için mutlaka yeni olması gerekmiyor. Sevdiğim bir kıyafeti farklı kombinlerle giyerek, ona yeni bir enerji vermeyi tercih ediyorum” diye konuştu.",
+     "published": "2026-09-29T04:02:09.000Z"
+    }
+   ]
   },
   {
    "id": "e3bd8505575e",
@@ -1234,7 +1720,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/moskova-sahnesinde-ezbere-soyletti-7669462",
+     "title": "Moskova sahnesinde ezbere söyletti",
+     "snippet": "Moscow Hall sahnesinde yaklaşık 3 bin kişinin karşısına çıkan sanatçı, yeni şarkısı ‘Çıkmazdayım’ı da ilk kez canlı seslendirdi. Üç gün önce yayınlanmasına rağmen Moskova seyircisinin parçayı ezbere söylendiğini gören şarkıcı, duygusal anlar yaşadı.",
+     "published": "2026-09-29T04:02:08.000Z"
+    }
+   ]
   },
   {
    "id": "71f7dd60fba8",
@@ -1268,7 +1764,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/uzak-sehirin-66-bolumde-neler-oldu-43322827",
+     "title": "Uzak Şehir'in 66. bölümde neler oldu? Alya, herkese meydan okudu: Bunu siz istediniz!",
+     "snippet": "Kanal D’nin Ozan Akbaba, Sinem Ünsal, Gonca Cilasun, Müfit Kayacan, Sahra Şaş, Dilin Döğer, Atakan Özkaya, İlkay Kayku, Nazmi Kırık, Sinan Demirer, Zeynep Kankonde, Muttalip Müjdeci, Barış Yalçın, Burak Şafak, Mehmet Polat, Yunus Eski, Yaren Güldiken, Kuzey Gezer'i kadrosunda buluşturan, AyNA Yapım ",
+     "published": "2026-09-28T20:54:00.000Z"
+    }
+   ]
   },
   {
    "id": "efee44bf74f9",
@@ -1288,7 +1794,17 @@
      "gonca-vuslateri"
     ],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/gonca-vuslateri-instagram-hesabini-kapatti-3915739",
+     "title": "Instagram hesabını kapattı",
+     "snippet": "Gonca Vuslateri, Instagram hesabını bir süreliğine kapattığını açıkladı. Oyuncu, \"Bir süreliğine Instagram'ı kapatınca ne mutlu oluyor insan\" dedi",
+     "published": "2026-09-28T20:40:28.000Z"
+    }
+   ]
   },
   {
    "id": "a1ff22105107",
@@ -1307,7 +1823,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/asli-enver-ve-esi-turkiye-yi-terk-ediyor-p364333",
+     "title": "Aslı Enver ve eşi Türkiye'yi terk ediyor",
+     "snippet": "Aslı Enver'in eşi Berkin Gökbudak, yeni işi nedeniyle ailesiyle birlikte Prag'a taşınıyor. Çekya'nın başkentine taşınaca...",
+     "published": "2026-09-28T19:58:04.000Z"
+    }
+   ]
   },
   {
    "id": "3288d90f00f0",
@@ -1326,7 +1852,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/asli-turanli-ile-taha-tatlici-evleniyor-3915732",
+     "title": "Aslı Turanlı evleniyor",
+     "snippet": "Aslı Turanlı, sevgilisi Taha Tatlıcı'nın evlilik teklifini kabul etti. Oyuncu, o anları sosyal medya hesabından paylaştı",
+     "published": "2026-09-28T19:48:52.000Z"
+    }
+   ]
   },
   {
    "id": "87274c686356",
@@ -1345,7 +1881,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/birce-akalay-duygularimdan-bahsettim-3915717",
+     "title": "\"Duygularımdan bahsettim\"",
+     "snippet": "Birce Akalay ve Hakan Kurtaş, Etiler'de görüntülendi. Kurtaş'ın doğum günü için yaptığı romantik paylaşım hakkında konuşan Akalay, \"İçimden geldi, duygularımdan bahsettim\" dedi",
+     "published": "2026-09-28T18:16:23.000Z"
+    }
+   ]
   },
   {
    "id": "9e010ac24569",
@@ -1364,7 +1910,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/dua-arnavut-dugununde-dokturdu-43322742",
+     "title": "Dua, Arnavut düğününde 'döktürdü'",
+     "snippet": "Daha bundan birkaç ay önce İngiliz oyuncu Callum Turner ile evlenen Dua Lipa, bu kez de kuzeninin düğününde yıldız oldu.",
+     "published": "2026-09-28T17:17:07.000Z"
+    }
+   ]
   },
   {
    "id": "718d7acb4500",
@@ -1383,7 +1939,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/11-milyari-alip-dubaiye-tasindilar-7669624",
+     "title": "11 milyarı alıp Dubai'ye taşındılar",
+     "snippet": "Şarkıcı Mustafa Sandal'ın Dubai'den oturum izni aldığı ortaya çıktı. Popçunun eşi Melis Sütşurup Sandal da fonlardaki 11 milyar parasını çekip Dubai'ye taşındı. Devamı için tıklayınız",
+     "published": "2026-09-28T15:56:38.000Z"
+    }
+   ]
   },
   {
    "id": "a0590f18969c",
@@ -1402,7 +1968,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/ankarada-ozcan-deniz-istanbulda-oguzhan-koc-ruzgari-7669621",
+     "title": "Ankara’da Özcan Deniz İstanbul’da Oğuzhan Koç rüzgârı",
+     "snippet": "Kültür ve Turizm Bakanlığı tarafından düzenlenen Türkiye Kültür Yolu Festivali'nin 20'nci durağı İstanbul'da ikinci konser akşamının konuğu Oğuzhan Koç oldu. Saat Kulesi Meydanı'nda sahne alan sanatçıyı,... Devamı için tıklayınız",
+     "published": "2026-09-28T15:53:25.000Z"
+    }
+   ]
   },
   {
    "id": "0fc0d821f8d5",
@@ -1421,7 +1997,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/emine-une-pasta-surprizi-7669619",
+     "title": "Emine ün’e pasta sürprizi",
+     "snippet": "Emine Ün, Musa Uzunlar ve Serdar Deniz'in rol aldığı 'Edi ile Büdü' oyunu, 3 Ekim'de prömiyer yapacak. Ün geçtiğimiz günlerde ekip arkadaşları ile birlikte Ceyda Düvenci ile buluştu. Düvenci, doğum gününü... Devamı için tıklayınız",
+     "published": "2026-09-28T15:51:17.000Z"
+    }
+   ]
   },
   {
    "id": "7b68b03fdf26",
@@ -1442,7 +2028,17 @@
      "saadet-isil-aksoy"
     ],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/kendi-annelerimiz-kadar-sacimizi-supurge-etmiyoruz-7669618",
+     "title": "'Kendi annelerimiz kadar saçımızı süpürge etmiyoruz'",
+     "snippet": "Oyuncu Saadet Işıl Aksoy gece yarısı 6 yaşındaki kızı Marisa için sulu köfte yaptığı videoyu paylaştı. Oyuncu, bir yandan da annelikle ilgili itirafta bulundu: TERAPİ GİBİ \"Çalışan annelerin... Devamı için tıklayınız",
+     "published": "2026-09-28T15:50:44.000Z"
+    }
+   ]
   },
   {
    "id": "a1559a0da358",
@@ -1461,7 +2057,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/yazarlar/gunaydin/sb-mevlut_tezel/2026/09/29/puan-ve-yorum-sahteciligine-darbe",
+     "title": "Puan ve yorum sahteciliğine darbe!",
+     "snippet": "Ticaret Bakanlığı Reklam Kurulu, e-ticarette ürün ve işletmelerin görünürlüğünü yapay biçimde artıran sahte yorum, beğeni, takipçi, favori, sepete ekleme ve 5 yıldız hizmetlerini yakın takibe aldı. Tüketicilerin... Devamı için tıklayınız",
+     "published": "2026-09-28T15:49:04.000Z"
+    }
+   ]
   },
   {
    "id": "acdd3e80f599",
@@ -1482,7 +2088,17 @@
      "eda-ece"
     ],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/eda-ece-kizinin-odasini-paylasti-sosyal-medyada-ilgi-gordu-p364294",
+     "title": "Eda Ece kızının odasını paylaştı: Sosyal medyada ilgi gördü",
+     "snippet": "Oyuncu Eda Ece, kızı Mina İpek için hazırlanan özel odanın detaylarını sosyal medya hesabından paylaştı. Pembe tonların ...",
+     "published": "2026-09-28T15:40:38.000Z"
+    }
+   ]
   },
   {
    "id": "8919cf4174b2",
@@ -1501,7 +2117,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/3-yil-aradan-sonra-yeni-album-7669603",
+     "title": "3 yıl aradan sonra yeni albüm",
+     "snippet": "Gülay, üç yıl aradan sonra altı şarkının yer aldığı 'Şarkısını Söyleyen Kadın' albümünü müzikseverlerle buluşturdu. Gülay yeni çalışmasıyla ilgili şunları söyledi: \"Her şarkının içinde biraz hayat, biraz... Devamı için tıklayınız",
+     "published": "2026-09-28T15:28:41.000Z"
+    }
+   ]
   },
   {
    "id": "2f9b897fafce",
@@ -1522,7 +2148,17 @@
      "helin-kandemir"
     ],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/helin-kandemir-e-aldatiliyorsun-dedi-ortalik-karisti-p364292",
+     "title": "Helin Kandemir'e 'Aldatılıyorsun' dedi: Ortalık karıştı",
+     "snippet": "Oyuncu Helin Kandemir’in sosyal medya paylaşımının altına sevgilisi Dorukhan Toköz hakkında yapılan “aldatılıyorsun” yor...",
+     "published": "2026-09-28T15:26:26.000Z"
+    }
+   ]
   },
   {
    "id": "410b4bd01ab7",
@@ -1541,7 +2177,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/yazarlar/gunaydin/cankurt/2026/09/29/bencillik-etmeyip-herkese-gosterdi",
+     "title": "Bencillik etmeyip herkese gösterdi",
+     "snippet": "Nevzat Aydın, kurduğu online yemek sipariş sitesinin 2015 yılındaki satışından kazandığı 589 milyon doları zevkleri için harcamaya devam ediyor. Dünya Futbol Şampiyonası, Formula I, Şampiyonlar... Devamı için tıklayınız",
+     "published": "2026-09-28T15:22:19.000Z"
+    }
+   ]
   },
   {
    "id": "0d4bc2005903",
@@ -1560,7 +2206,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/turkiyenin-oscar-adayi-taskentte-gosterildi-7669598",
+     "title": "Türkiye’nin Oscar adayı Taşkent’te gösterildi",
+     "snippet": "Sinema Genel Müdürlüğünün desteği ve Yerli Düşünce Derneği organizasyonunda düzenlenen Türk Film Günleri, Taşkent'te sinemaseverleri Türk sinemasının seçkin yapımlarıyla buluşturdu. Türkiye'nin 99. Akademi... Devamı için tıklayınız",
+     "published": "2026-09-28T15:17:54.000Z"
+    }
+   ]
   },
   {
    "id": "fcf032a7c48c",
@@ -1579,7 +2235,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/yazarlar/gunaydin/idil-cimrin/2026/09/29/hazirla-pisir",
+     "title": "Hazırla pişir",
+     "snippet": "İdilika'nın Mutfağı'nda bugün önceden hazırlayıp buzluğa koyabileceğiniz ve misafiriniz geldiğinizde ya da canınız karbonhidrat çektiğinde hemen pişirebileceğiniz nefis hamur işi tariflerine yer veriyoruz. ... Devamı için tıklayınız",
+     "published": "2026-09-28T15:13:18.000Z"
+    }
+   ]
   },
   {
    "id": "51e98b5020c8",
@@ -1598,7 +2264,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/dua-lipa-akraba-dugununde-basinda-bardakla-geleneksel-arnavut-dansi-yapti-3915668",
+     "title": "Dua Lipa akraba düğününde!",
+     "snippet": "Dua Lipa, Kosova'nın başkenti Priştine'de katıldığı akraba düğününde başının üstünde bardakla geleneksel Arnavut dansı hünerlerini sergiledi",
+     "published": "2026-09-28T14:36:26.000Z"
+    }
+   ]
   },
   {
    "id": "e6299aedc1e9",
@@ -1617,7 +2293,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/yaptigi-paylasim-165-bin-tlsine-mal-oldu-elestirilere-kulak-verirsen-istedigin-hayati-yasayamazsin-7669267",
+     "title": "Yaptığı paylaşım 165 bin TL'sine mal oldu! 'Eleştirilere kulak verirsen istediğin hayatı yaşayamazsın'",
+     "snippet": "İnegöl Organize Sanayi Bölgesi Poligon mevkisinde dün 16 PB 518 plakalı otomobiliyle drift atan sürücü, cep telefonuyla kaydettirdiği o anları sanal medya hesabında paylaştı. Görüntülerin paylaşılmasının ardından İlçe Emniyet Müdürlüğü Trafik Büro Amirliği ekipleri sürücünün kimliğinin tespiti için ",
+     "published": "2026-09-28T14:23:30.000Z"
+    }
+   ]
   },
   {
    "id": "6ffe1065e762",
@@ -1636,7 +2322,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/eskiden-babasi-annesine-dunyayi-dar-ederdi-o-ise-dersini-coktan-almis-parilda-benim-guzel-elmasim-43322557",
+     "title": "Eskiden babası, annesine dünyayı dar ederdi... O ise dersini çoktan almış... Parılda benim güzel elmasım!",
+     "snippet": "Bir insan göz önünde bir ailede dünyaya gelip aynı şekilde milyonlarca meraklı bakış altında büyüyünce bu durumun hep böyle süreceğini düşünür.",
+     "published": "2026-09-28T14:20:00.000Z"
+    }
+   ]
   },
   {
    "id": "bfeb5bae9bfa",
@@ -1655,30 +2351,28 @@
     "series": [],
     "people": [],
     "networks": []
-   }
-  },
-  {
-   "id": "1904f3f66221",
-   "url": "https://www.sozcu.com.tr/uzak-sehir-de-tum-dengeler-degisiyor-alya-hamile-mi-p364243",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Uzak Şehir’de Alya hamile mi? Taşlar yerinden oynuyor",
-   "snippet": "Uzak Şehir’in yeni bölüm tanıtımında Alya’nın yaşadığı ağrı dikkat çekerken, Cihan’ın ona yardım etmek istemesi merak uy...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/uzak-sehirpng-rxmEjz1If0qaL1ooTkcTIA.png",
-   "video": null,
-   "published": "2026-09-28T13:55:54.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [
-     "uzak-sehir"
-    ],
-    "people": [],
-    "networks": [
-     "kanal-d"
-    ]
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/fenerbahce-nin-yildizi-baba-oluyor-cinsiyetini-duyurdu-p364268",
+     "title": "Fenerbahçe'nin yıldızı baba oluyor: Cinsiyetini duyurdu",
+     "snippet": "Fenerbahçe'nin İspanyol yıldızı Marco Asensio ile sevgilisi Lavinia'dan mutlu haber geldi. Bebek beklediklerini açıklaya...",
+     "published": "2026-09-28T14:06:37.000Z"
+    },
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/marco-asensio-baba-oluyor-3915684",
+     "title": "Fenerbahçe'nin yıldızı baba oluyor",
+     "snippet": "Fenerbahçe'nin yıldız futbolcusu Marco Asensio, model sevgilisi Lavinia Leonhard ile bir erkek bebek beklediklerini duyurdu",
+     "published": "2026-09-29T11:22:26.000Z"
+    }
+   ],
+   "mergedIds": [
+    "3f91626ac336"
+   ]
   },
   {
    "id": "b0dce1a8a3ee",
@@ -1697,7 +2391,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/feyza-altun-hayat-arkadasinin-mesajlarini-ifsa-etti-10-yilimi-verdim-iki-ay-kandirildim-p364098",
+     "title": "Feyza Altun mesajları ifşa etmişti: İlker Sungurlar sessizliğini bozdu",
+     "snippet": "Feyza Altun, İlker Sungurlar'la yıllara yayılan ilişkisiyle ilgili peş peşe paylaşımlar yaptı. Hayat arkadşaına ait oldu...",
+     "published": "2026-09-28T13:52:37.000Z"
+    }
+   ]
   },
   {
    "id": "e22b90588ebe",
@@ -1716,7 +2420,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/hande-yener-avrupa-ya-acildi-3915657",
+     "title": "Hande Yener, Avrupa'ya açıldı",
+     "snippet": "Ünlü şarkıcı Hande Yener, müzik kariyerinin yanı sıra moda alanındaki çalışmalarını da Hollanda'ya taşıdı",
+     "published": "2026-09-28T13:34:56.000Z"
+    }
+   ]
   },
   {
    "id": "d747b30a0ef4",
@@ -1739,7 +2453,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/uzak-sehirde-isler-karisiyor-43322496",
+     "title": "Uzak Şehir'de işler karışıyor",
+     "snippet": "Kanal D’nin fenomen dizisi Uzak Şehir bu akşam yine heyecan dolu bir bölümle ekrana gelecek. Tanıtımda hapisten çıkan Ateş’in Kartal ile olan bağlantısı merak uyandırırken Hasan ve Ufuk’un bildiği büyük sır ile Kartal’ın Alya ile bağlantısı bölüme dair merakı ikiye katlıyor.",
+     "published": "2026-09-28T13:03:00.000Z"
+    }
+   ]
   },
   {
    "id": "b8771a1e718b",
@@ -1758,7 +2482,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/melike-sahin-doguma-gun-sayiyor-karni-burnunda-pozlarini-paylasti-p364245",
+     "title": "Melike Şahin doğuma gün sayıyor: Karnı burnunda pozlarını paylaştı",
+     "snippet": "İlk kez anne olmaya hazırlanan Melike Şahin, doğuma sayılı günler kala karnı burnunda pozlarını takipçileriyle paylaştı....",
+     "published": "2026-09-28T12:42:12.000Z"
+    }
+   ]
   },
   {
    "id": "05cb30c07b55",
@@ -1777,7 +2511,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sokak-muzisyenliginden-gelip-zirveye-cikmisti-efsane-60-yil-sonra-sahnelere-veda-ediyor-43322449",
+     "title": "Sokak müzisyenliğinden gelip zirveye çıkmıştı: Efsane, 60 yıl sonra sahnelere veda ediyor",
+     "snippet": "Müzik dünyasının yıldızlarından biri artık emekli olmaya hazırlanıyor... Tam 60 yılını müzik kariyerine veren yıldız çıkacağı turne ile sahnelere veda etmeye hazırlanıyor.",
+     "published": "2026-09-28T12:40:58.000Z"
+    }
+   ]
   },
   {
    "id": "867a69b17745",
@@ -1796,7 +2540,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/panikledi-43322412",
+     "title": "Panikledi",
+     "snippet": "Rabia Soytürk hafta sonu bir erkek arkadaşıyla Bebek’te yürüyüş yaparken objektife yansıdı.",
+     "published": "2026-09-28T12:08:00.000Z"
+    }
+   ]
   },
   {
    "id": "86a53c1d5a65",
@@ -1815,7 +2569,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/rod-stewart-muzigi-birakti-sahneden-emekli-oldugunu-acikladi-3915621",
+     "title": "60 yıllık kariyerini bitiriyor",
+     "snippet": "Rod Stewart, 60 yıllık müzik kariyerini bitireceğini açıklarken, \"Veda vakti geldi\" dedi",
+     "published": "2026-09-28T11:56:42.000Z"
+    }
+   ]
   },
   {
    "id": "d734bd5b724f",
@@ -1834,7 +2598,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/kivanc-tatlitug-un-istanbul-bogazi-nda-balik-keyfi-3915580",
+     "title": "Boğaz'da balık tuttu",
+     "snippet": "Oyucu Kıvanç Tatlıtuğ, İstanbul Boğazı'nda balık tutarken görüntülendi",
+     "published": "2026-09-28T11:54:03.000Z"
+    }
+   ]
   },
   {
    "id": "d6628c4905d2",
@@ -1853,7 +2627,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/liseye-basladim-43322357",
+     "title": "Liseye başladım",
+     "snippet": "Aylin Akpınar önceki gün annesi Özlem Akpınar ile Zorlu Alışveriş Merkezi’nde görüntülendi.",
+     "published": "2026-09-28T11:37:00.000Z"
+    }
+   ]
   },
   {
    "id": "bb2f224e6b66",
@@ -1872,7 +2656,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/telefon-detoksu-yapiyorum-43322349",
+     "title": "Telefon detoksu yapıyorum",
+     "snippet": "Koray Avcı önceki akşam Kıbrıs Acapulco Hotel’de sahne aldı.",
+     "published": "2026-09-28T11:31:00.000Z"
+    }
+   ]
   },
   {
    "id": "c2e4ac9d4f71",
@@ -1891,7 +2685,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/rober-hatemo-muzigi-birakip-kuyumculuga-donuyor-43322341",
+     "title": "Rober Hatemo müziği bırakıp kuyumculuğa dönüyor",
+     "snippet": "Rober Hatemo önceki akşam Kıbrıs Nuh’un Gemisi Otel’de izleyici karşısına çıktı.",
+     "published": "2026-09-28T11:27:00.000Z"
+    }
+   ]
   },
   {
    "id": "c4dc43a05f7a",
@@ -1910,7 +2714,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/unlu-mankenin-atiye-ofkesi-13-yildir-dinmedi-senden-hala-nefret-ediyorum-p364151",
+     "title": "Ünlü mankenden Atiye'ye sert sözler: Senden hâlâ nefret ediyorum",
+     "snippet": "Atiye’nin yeni klibindeki bir sahne, yıllar önce yaşandığı öne sürülen bir olayı yeniden gündeme taşıdı. Manken Berrin K...",
+     "published": "2026-09-28T11:25:22.000Z"
+    }
+   ]
   },
   {
    "id": "e762dbd1956e",
@@ -1929,7 +2743,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/zaradan-harbiyede-romantik-mesaj-asktan-sirilsiklam-olalim-7669166",
+     "title": "Zara'dan Harbiye’de romantik mesaj: Aşktan sırılsıklam olalım",
+     "snippet": "Zara, Harbiye Açıkhava konseri öncesi sağanak yağışa rağmen kendisini yalnız bırakmayan hayranlarına teşekkür etti. Ünlü sanatçı, Yıldız Tilbe’nin sözlerine gönderme yaparak dinleyicileriyle birlikte ıslanmayı göze aldığını söyledi.",
+     "published": "2026-09-28T11:17:54.000Z"
+    }
+   ]
   },
   {
    "id": "374d53ebc31a",
@@ -1948,7 +2772,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/deniz-tutkusu-dur-durak-bilmiyor-kivanc-tatlitug-bu-kez-bogaz-da-balik-tuttu-p364218",
+     "title": "Deniz tutkusu dur durak bilmiyor: Kıvanç Tatlıtuğ bu kez Boğaz'da balık tuttu",
+     "snippet": "Yoğun iş temposundan fırsat buldukça denize açılan Kıvanç Tatlıtuğ, bu kez İstanbul Boğazı'nda görüntülendi. Dostlarıyla...",
+     "published": "2026-09-28T11:14:51.000Z"
+    }
+   ]
   },
   {
    "id": "0707033ca62d",
@@ -1967,7 +2801,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/seksi-itfaiyecilerin-2027-takvimi-hazir-avustralyali-itfaiyeciler-geleneksel-takvim-icin-poz-verdi-3915570",
+     "title": "İtfaiyecilerin 2027 takvimi hazır",
+     "snippet": "Hayvan refahı, afet sonrası iyileştirme ve ilk müdahale ekiplerinin yararına para toplamayı ve farkındalık yaratmayı amaçlayan Avustralyalı itfaiyeciler, 2027 takvimi için poz verdi",
+     "published": "2026-09-28T11:01:18.000Z"
+    }
+   ]
   },
   {
    "id": "6c3f5799a3c6",
@@ -1986,7 +2830,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/rober-hatemo-eski-meslegime-donuyorum-3915610",
+     "title": "\"Eski mesleğime dönüyorum\"",
+     "snippet": "Şarkıcı Rober Hatemo, müzik kariyerini sonlandırıp eski mesleği olan kuyumculuğa döneceğini açıkladı",
+     "published": "2026-09-28T10:33:26.000Z"
+    }
+   ]
   },
   {
    "id": "fed11585ab74",
@@ -2009,7 +2863,28 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/alya-hamile-mi-7669102",
+     "title": "Alya hamile mi?",
+     "snippet": "ALYA’NIN ZOR ANLARI Pazartesi akşamları izleyicileri ekran başına kilitleyen Uzak Şehir’in tanıtımında Alya’nın yaşadığı zor anlar öne çıktı. Konağın merdivenlerinden çıktığı sırada karnına giren ağrı nedeniyle zorlanan Alya, Cihan’ın dikkatini çekti. CİHAN’IN YARDIM TEKLİFİNİ GERİ ÇEVİRDİ Alya’nın ",
+     "published": "2026-09-28T10:01:12.000Z"
+    },
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/uzak-sehir-de-tum-dengeler-degisiyor-alya-hamile-mi-p364243",
+     "title": "Uzak Şehir’de Alya hamile mi? Taşlar yerinden oynuyor",
+     "snippet": "Uzak Şehir’in yeni bölüm tanıtımında Alya’nın yaşadığı ağrı dikkat çekerken, Cihan’ın ona yardım etmek istemesi merak uy...",
+     "published": "2026-09-28T13:55:54.000Z"
+    }
+   ],
+   "mergedIds": [
+    "1904f3f66221"
+   ]
   },
   {
    "id": "ebc0767dbb73",
@@ -2028,7 +2903,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/4-yillik-hasret-sona-eriyor-cansu-dere-nin-yeni-dizisi-belli-oldu-p364188",
+     "title": "4 yıllık hasret sona eriyor: Cansu Dere'nin yeni dizisi belli oldu",
+     "snippet": "Cansu Dere'nin televizyon ekranlarına dönüşü için heyecanlandıran bir gelişme yaşandı. Medyapım'ın NOW için hazırladığı ...",
+     "published": "2026-09-28T09:37:53.000Z"
+    }
+   ]
   },
   {
    "id": "8eafeb5c6446",
@@ -2047,26 +2932,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
-  },
-  {
-   "id": "570d660e3c00",
-   "url": "https://www.haberturk.com/nihat-dogan-8-dairemi-satmak-zorunda-kaldim-3915596-magazin",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"8 dairemi satmak zorunda kaldım\"",
-   "snippet": "Şarkıcı Nihat Doğan, \"Pandemi döneminde 8 daire sattım. Mal mülk neden var? Zor günler için var. Bir tek ben değilim, aileme de bakıyorum. Mecbur kalıp sattım\" dedi",
-   "image": "https://im.haberturk.com/l/2026/09/28/ver1790587103/3915596/jpg/1920x1080",
-   "video": null,
-   "published": "2026-09-28T09:18:48.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/evlat-acisi-unlu-modelin-dunyasini-yikti-kara-yazi-bu-ailenin-alnina-bir-degil-iki-kez-yazilmis-43322059",
+     "title": "Evladı genç yaşta öldü, ünlü modelin ocağı söndü... Kara yazı, bu ailenin alnına bir değil iki kez yazılmış!",
+     "snippet": "Geçen hafta gösteri dünyasından gelen bir haber milyonlarca kişinin yüreğini yaktı.",
+     "published": "2026-09-28T09:29:26.000Z"
+    }
+   ]
   },
   {
    "id": "7e87cf34498e",
@@ -2089,7 +2965,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/aras-serhatin-katilini-buldu-7669051",
+     "title": "Aras, Serhat’ın katilini buldu!",
+     "snippet": "O GECENİN GİZEMİ ÇÖZÜLÜYOR! Pazar ekranının ilgiyle izlenen yapımı Daha 17'de, Aras'ın Teoman'ı korurken vurulması ve ardından yaşananlar hikâyede yeni kapılar araladı. Ölümün eşiğinde bile kardeşine gerçeği söyleyemeyen Aras, pencere ile bahçedeki mazgal arasındaki bağlantıyı keşfetti. Böylece Serh",
+     "published": "2026-09-28T09:11:47.000Z"
+    }
+   ]
   },
   {
    "id": "a025132a42e1",
@@ -2112,7 +2998,17 @@
     "networks": [
      "tv8"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/masterchef-kim-elendi-27-eylul-2026-masterchef-e-veda-eden-isim-belli-oldu-p364115",
+     "title": "MasterChef kim elendi? 27 Eylül 2026 Pazar MasterChef'te veda eden isim belli oldu",
+     "snippet": "MasterChef Türkiye'de haftanın eleme gecesinde 8 yarışmacı, yarışmada kalabilmek için iki aşamalı mücadele verdi. Geceni...",
+     "published": "2026-09-28T08:57:59.000Z"
+    }
+   ]
   },
   {
    "id": "ab4c18ff2e79",
@@ -2131,7 +3027,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/telefon-bile-kullanmadigi-gunler-oluyor-teknede-hayatini-yasiyor-p364155",
+     "title": "Telefon bile kullanmadığı günler oluyor: Koray Avcı teknede hayatını yaşıyor",
+     "snippet": "Koray Avcı, Kıbrıs'ta sahne sonrası yaptığı açıklamada dijital dünyadan zaman zaman uzaklaşma ihtiyacını anlattı. İstanb...",
+     "published": "2026-09-28T08:55:33.000Z"
+    }
+   ]
   },
   {
    "id": "9b5c459295fc",
@@ -2156,7 +3062,17 @@
      "now",
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/pazar-aksami-zirveyi-birakmiyor-merakla-beklenen-omur-usta-nin-reytingi-de-belli-oldu-p364170",
+     "title": "Pazar akşamı zirveyi bırakmıyor: Merakla beklenen Ömür Usta'nın reytingi de belli oldu",
+     "snippet": "27 Eylül Pazar akşamı ekranlara gelen yapımların reyting sonuçları açıklandı. Daha 17 zirvedeki yerini korurken, ilk böl...",
+     "published": "2026-09-28T08:49:43.000Z"
+    }
+   ]
   },
   {
    "id": "b2737b13018a",
@@ -2175,7 +3091,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/zeynep-bastik-ne-yasiyorsunuz-ayiptir-ya-3915555",
+     "title": "\"Ne yaşıyorsunuz, ayıptır ya!\"",
+     "snippet": "Ünlü şarkıcı Zeynep Bastık, Germencik'teki konserinde çıkan kavgaya isyan etti. Bastık, \"Ne yaşıyorsunuz ya? Ne oldu yani bu kadar kavga edecek, ayıptır ya!\" dedi",
+     "published": "2026-09-28T08:42:32.000Z"
+    }
+   ]
   },
   {
    "id": "cccf07734b02",
@@ -2194,7 +3120,28 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/pandemide-8-dairemi-sattim-43322055",
+     "title": "Nihat Doğan: Pandemi dönemi 8 dairemi satmak zorunda kaldım!",
+     "snippet": "Türk halk müziğinin sevilen ve renkli isimlerinden Nihat Doğan, Asiye Acar’ın sunduğu “Pazar Gezmesi” programında bu kez evinin kapılarını açtı. Amerikan mutfaklı salonundan yatak odasına kadar evinin detaylarını paylaşan Doğan, programda özel hayatına dair samimi açıklamalarda da bulundu.",
+     "published": "2026-09-28T08:38:32.000Z"
+    },
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/nihat-dogan-8-dairemi-satmak-zorunda-kaldim-3915596-magazin",
+     "title": "\"8 dairemi satmak zorunda kaldım\"",
+     "snippet": "Şarkıcı Nihat Doğan, \"Pandemi döneminde 8 daire sattım. Mal mülk neden var? Zor günler için var. Bir tek ben değilim, aileme de bakıyorum. Mecbur kalıp sattım\" dedi",
+     "published": "2026-09-28T09:18:48.000Z"
+    }
+   ],
+   "mergedIds": [
+    "570d660e3c00"
+   ]
   },
   {
    "id": "31b314452dcd",
@@ -2213,7 +3160,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/evliliklerinde-1-yili-geride-biraktilar-selena-gomezden-romantik-kutlama-7669031",
+     "title": "Evliliklerinde 1 yılı geride bıraktılar! Selena Gomez'den romantik kutlama",
+     "snippet": "Selena Gomez ve müzik yapımcısı Benny Blanco, evliliklerinde ilk yılı geride bıraktı. Ünlü şarkıcı, eşine duyduğu aşkı sosyal medyada paylaştığı romantik kare ve mesajla kutladı.",
+     "published": "2026-09-28T08:13:13.000Z"
+    }
+   ]
   },
   {
    "id": "a05777590406",
@@ -2232,7 +3189,28 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/babasi-askerdi-yine-de-bilemedi-milyonerdeki-askeri-rutbe-sorusu-sasirtti-7669016",
+     "title": "Babası askerdi, yine de bilemedi! Milyoner'deki askerî rütbe sorusu şaşırttı",
+     "snippet": "Kim Milyoner Olmak İster'de beşinci soruya kadar gelen Zeynep Atılgan Yavru, askerî rütbelerle ilgili soruda zor anlar yaşadı. Telefon jokerini kullanan yarışmacı, yanlış cevap verince 5 bin TL ile yarışmaya veda etti.",
+     "published": "2026-09-28T07:55:55.000Z"
+    },
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/asker-kizi-kim-milyoner-olmak-ister-deki-rutbe-sorusunu-bilemedi-p364222",
+     "title": "Babası askerdi yine bilemedi: Kim Milyoner'e damga vuran rütbe sorusu",
+     "snippet": "Kim Milyoner Olmak İster'de beşinci soruya kadar ilerleyen Zeynep Atılgan Yavru, askerî rütbelerle ilgili soruda zorland...",
+     "published": "2026-09-29T05:15:24.000Z"
+    }
+   ],
+   "mergedIds": [
+    "6ea405bdf769"
+   ]
   },
   {
    "id": "af8e5f88146f",
@@ -2251,7 +3229,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/fenerbahce-nin-yildizi-greenwood-saray-gibi-eve-tasiniyor-kirasi-dudak-ucuklatti-p364075",
+     "title": "Fenerbahçe'nin yıldız futbolcunun aylık kirasını duyanlar şaştı kaldı: Bir odasına 5 milyon TL harcadı",
+     "snippet": "Fenerbahçe'nin yıldızı Mason Greenwood, İstanbul'daki yeni adresini Beykoz Acarkent'te buldu. İngiliz futbolcunun yerleş...",
+     "published": "2026-09-28T07:48:06.000Z"
+    }
+   ]
   },
   {
    "id": "e1754956cbed",
@@ -2274,7 +3262,17 @@
     "networks": [
      "star-tv"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/17-yil-sonra-ekranlara-dondu-tuzlu-kahve-oyuncusu-yasemin-ergene-ara-verme-nedenini-acikladi-p364082",
+     "title": "17 yıl sonra ekranlara döndü: Oyunculuğa ara verme sebebini açıkladı",
+     "snippet": "“Tuzlu Kahve” ile tanınan Yasemin Ergene, uzun bir aranın ardından yeniden ekranlara dönüyor. Ailesine ayırdığı yılların...",
+     "published": "2026-09-28T07:46:45.000Z"
+    }
+   ]
   },
   {
    "id": "6fd3d5284c97",
@@ -2293,7 +3291,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/lucas-torreira-unlu-restorana-ortak-oldu-futboldan-sonra-yeni-gelir-kapisi-p364068",
+     "title": "Lucas Torreira İstanbul'un ünlü restoranına ortak oldu",
+     "snippet": "Galatasaray'ın yıldız futbolcusu Lucas Torreira'nın saha dışındaki yatırımlarına bir yenisini eklediği öne sürüldü. Urug...",
+     "published": "2026-09-28T07:46:27.000Z"
+    }
+   ]
   },
   {
    "id": "2d2d4cfccf77",
@@ -2312,7 +3320,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sila-turkoglu-istanbul-da-koy-hayatina-geciyor-yeni-evi-tadilat-asamasinda-p364064",
+     "title": "Sıla Türkoğlu İstanbul'da köy hayatına geçiyor: Yeni evi hazır",
+     "snippet": "Sıla Türkoğlu ile Ata Ayyıldız'ın evlilik hazırlığının ardından yaşamlarında da yeni bir değişikliğe hazırlandıkları öne...",
+     "published": "2026-09-28T07:44:37.000Z"
+    }
+   ]
   },
   {
    "id": "f6c37047a624",
@@ -2331,7 +3349,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/taylor-swift-2026-mtv-video-muzik-odulleri-nde-tarih-yazdi-3915541",
+     "title": "Tarih yazdı",
+     "snippet": "Toplam ödül sayısında Beyonce'yi geride bırakarak MTV Video Müzik Ödülleri'nin gelmiş geçmiş en çok ödül kazanan sanatçısı olan Taylor Swift, törende ilk kez verilen bir ödüle de layık görülerek müzik tarihine geçti",
+     "published": "2026-09-28T07:11:29.000Z"
+    }
+   ]
   },
   {
    "id": "28e10f5cc2f6",
@@ -2350,7 +3378,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/rober-hatemodan-hayranlarini-sasirtan-karar-sahneyi-birakip-eski-meslegine-donuyor-7668936",
+     "title": "Rober Hatemo'dan hayranlarını şaşırtan karar! Sahneyi bırakıp eski mesleğine dönüyor",
+     "snippet": "Türk pop müziğinin sevilen ismi Rober Hatemo, Kıbrıs konserinde müzik kariyerine dair dikkat çeken açıklamalarda bulundu. “Artık mutlu olmuyorum” diyen sanatçı, eski mesleğine dönmeyi planladığını açıkladı.",
+     "published": "2026-09-28T06:58:14.000Z"
+    }
+   ]
   },
   {
    "id": "b1656e0fa133",
@@ -2369,7 +3407,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/bebegine-kavusmasina-sayili-gunler-kaldi-melike-sahinden-yurek-isitan-pozlar-7668914",
+     "title": "Bebeğine kavuşmasına sayılı günler kaldı! Melike Şahin'den yürek ısıtan pozlar",
+     "snippet": "İlk kez anne olmaya hazırlanan Melike Şahin, sosyal medya paylaşımıyla duygulandırdı. Oğlunun yatağını hazırladığını da duyuran ünlü sanatçı, doğum için geri sayıma geçti.",
+     "published": "2026-09-28T06:28:41.000Z"
+    }
+   ]
   },
   {
    "id": "78df70b500e7",
@@ -2388,7 +3436,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/mustafa-sandal-ve-esi-melis-sutsuruptan-fon-kriziyle-ilgili-aciklama-43321834",
+     "title": "Mustafa Sandal ve eşi Melis Sütşurup'tan fon kriziyle ilgili açıklama",
+     "snippet": "Şarkıcı Mustafa Sandal ile eşi Melis Sütşurup Sandal, tasfiye edilen fonlardan 11 milyar lira para çekildiği yönündeki iddialara yanıt verdi. Çift, söz konusu iddiaların gerçeği yansıtmadığını belirterek açıklama yaptı.",
+     "published": "2026-09-28T06:17:00.000Z"
+    }
+   ]
   },
   {
    "id": "7926a7d8c46b",
@@ -2407,7 +3465,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/20-yil-once-karsilasip-derin-bir-aska-dustuler-boy-boy-cocuklari-oldu-guzellikleri-anneden-43311542",
+     "title": "20 yıl önce karşılaşıp derin bir aşka düştüler... Boy boy çocukları oldu, güzellikleri anneden!",
+     "snippet": "Şöyle bir bakıldığında, aşkların bir gün başlayıp ertesi gün bittiği ünlüler dünyasının parmakla gösterilen çiftlerinden onlar...",
+     "published": "2026-09-28T06:02:47.000Z"
+    }
+   ]
   },
   {
    "id": "fc78109cd028",
@@ -2426,7 +3494,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/termosuyla-geziyor-43321818",
+     "title": "Termosuyla geziyor",
+     "snippet": "“Satıcının Ölümü” adlı tiyatro oyununda birlikte rol alan Halit Ergenç ve Zerrin Tekindor geçtiğimiz gün prova için bir araya geldi.",
+     "published": "2026-09-28T05:46:00.000Z"
+    }
+   ]
   },
   {
    "id": "00c06646dd17",
@@ -2445,7 +3523,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/yeni-sarkimi-paylas-zeynep-43321814",
+     "title": "Yeni şarkımı paylaş Zeynep",
+     "snippet": "ABD’li şarkıcı Jason Derulo, yeni single’ını tanıtmak için Zeynep Bastık’tan özel bir ricada bulundu. Dünyaca ünlü yıldız, Bastık’a sosyal medyadan mesaj atarak şarkısını paylaşmasını istedi.",
+     "published": "2026-09-28T05:38:00.000Z"
+    }
+   ]
   },
   {
    "id": "a94630411ca3",
@@ -2464,7 +3552,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/alev-alev-bir-sila-43321801",
+     "title": "Alev alev bir Sıla",
+     "snippet": "Sıla, Cahide Palazzo’da sezonun ilk konserini önceki akşam verdi.",
+     "published": "2026-09-28T05:16:00.000Z"
+    }
+   ]
   },
   {
    "id": "c51ad985914e",
@@ -2483,7 +3581,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/ticarete-atilan-esra-erol-turkiye-nin-en-buyuk-avm-sinde-magaza-acti-p363882",
+     "title": "Ticarete atıldı: Esra Erol Türkiye'nin en büyük AVM'sinde mağaza açtı",
+     "snippet": "Televizyon ekranlarının sevilen sunucusu Esra Erol, yıllardır sürdürdüğü kariyerinin yanına yeni bir iş daha ekledi. Üç ...",
+     "published": "2026-09-28T05:12:02.000Z"
+    }
+   ]
   },
   {
    "id": "91ff3717608d",
@@ -2508,7 +3616,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ask-olmazsa-olmaz-43321800",
+     "title": "Aşk olmazsa olmaz",
+     "snippet": "Kanal D’nin Emmy adayı dizisi “Uzak Şehir”in Nare’si Sahra Şaş yeni sezona dair konuştu.",
+     "published": "2026-09-28T05:10:51.000Z"
+    }
+   ]
   },
   {
    "id": "834b6f7620ec",
@@ -2527,7 +3645,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/oyuncu-mahir-gunsiray-eski-esimin-fotografi-evde-duruyor-43321795",
+     "title": "Oyuncu Mahir Günşiray: Eski eşimin fotoğrafı Hatice ile yaşadığımız evde duruyor",
+     "snippet": "Mahir Günşiray, 2023’te vefat eden eşi Claude Leon Günşiray’ın ardından yaşadığı yas sürecini ve üniversite arkadaşı Hatice Aslan’la yıllar sonra başlayan ilişkisini anlattı.",
+     "published": "2026-09-28T04:56:00.000Z"
+    }
+   ]
   },
   {
    "id": "e1771da3590e",
@@ -2546,7 +3674,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/festival-coskusu-denizle-basladi-7668862",
+     "title": "Festival coşkusu Deniz’le başladı",
+     "snippet": "Galataport Saat Kulesi Meydanı’nda sahne alan sanatçı, ritmi yüksek eserleriyle festivalin ilk konser akşamının enerjisini zirveye taşıdı. Havanın serin olmasına aldırış etmeyen Deniz hayranları, gece boyu şarkılara bir ağızdan eşlik etti.",
+     "published": "2026-09-28T04:02:13.000Z"
+    }
+   ]
   },
   {
    "id": "0b7ed14c4a28",
@@ -2565,7 +3703,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/kuyumculuga-geri-donuyor-7668861",
+     "title": "Kuyumculuğa geri dönüyor",
+     "snippet": "Sevenlerine unutulmaz bir ak ş am ya ş atan Hatemo, radikal bir karar verme a ş amas ı nda oldu ğ unu belirterek, eski i ş i kuyumculu ğ a d ö nece ğ ini s ö yledi. Hatemo, “ Kesin karar, üzerinde çalışıyorum. El sanatım iyidir. Benim eski meslektir. Biraz daha şarkı söyleyeceğim ama” dedi.",
+     "published": "2026-09-28T04:02:13.000Z"
+    }
+   ]
   },
   {
    "id": "a73b9ea10007",
@@ -2584,7 +3732,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/11inci-sezon-basliyor-7668860",
+     "title": "11’inci sezon başlıyor",
+     "snippet": "Yayınlandığı sezonlar boyunca kelime meraklılarını ekran başında buluşturan yarışma, yeni sezonunda da seyirciyi kelimelerin dünyasında keyifli ve heyecan dolu bir yolculuğa çıkaracak. ‘Kelime Oyunu’, 11’inci sezonun ilk bölümüyle bu akşam saat 19.30’da TV2’de.",
+     "published": "2026-09-28T04:02:12.000Z"
+    }
+   ]
   },
   {
    "id": "df1a597554a7",
@@ -2603,7 +3761,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/otel-odasini-hurrem-basti-7668859",
+     "title": "Otel odasını Hürrem bastı",
+     "snippet": "Yan odasında konaklayanların 2011-2014 yılları arasında Hürrem Sultan’ı canlandırdığı diziyi izlediğini farkeden oyuncu, “Duyabiliyor musunuz bilmiyorum ama yan komşum ‘Muhteşem Yüzyıl’ izliyor” sözleriyle o anları takipçileriyle paylaştı. Bir süre sonra yan odanın kapısını çalarak sürpriz yapan Uze",
+     "published": "2026-09-28T04:02:12.000Z"
+    }
+   ]
   },
   {
    "id": "2e573fcc3b56",
@@ -2622,7 +3790,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/gulsenden-harbiye-cikarmasi-7668858",
+     "title": "Gülşen’den Harbiye çıkarması!",
+     "snippet": "Sevilen şarkılarından oluşan repertuvarıyla Açıkhava’yı baştan sona kendine eşlik eden dev bir koro haline getiren sanatçı, dansları ve sahne performansıyla sadece konsere değil sosyal medyaya da damga vurdu. Gecede iki farklı kostüm tercih eden şarkıcı, stilindeki değişimle dikkat çekti.",
+     "published": "2026-09-28T04:02:11.000Z"
+    }
+   ]
   },
   {
    "id": "85d814dcf14e",
@@ -2641,7 +3819,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/ilk-bulusma-alev-aldi-7668857",
+     "title": "İlk buluşma alev aldı",
+     "snippet": "İlk kez sahne aldığı Cahide Palazzo seyircisini, “Sizinle ilk buluşmamız” sözleriyle selamlayan sanatçı, Burak Bayraktaroğlu imzalı kırmızı takımıyla iddiasını gözler önüne serdi. “Alev alev bir Sıla” yorumları alan şarkıcı, yoğun istek üzerine 16 Ekim’de de Cahide sahnesinde olacak.",
+     "published": "2026-09-28T04:02:11.000Z"
+    }
+   ]
   },
   {
    "id": "e80ba4d81bb3",
@@ -2660,7 +3848,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/taskentte-turk-ruzgari-esti-7668856",
+     "title": "Taşkent’te Türk rüzgârı esti",
+     "snippet": "Yerli Düşünce Derneği tarafından, Sinema Genel Müdürlüğü’nün desteğiyle organize edilen gecede kırmızı halıda yürüyen oyuncular, Özbekistanlı hayranlarının fotoğraf isteğini kırmadı. Kültür ve Turizm Bakan Yardımcısı Serdar Çam ve Özbekistan Kültür Bakan Yardımcısı Cihangir Ahmedov’un plaket takdim ",
+     "published": "2026-09-28T04:02:10.000Z"
+    }
+   ]
   },
   {
    "id": "35a55b4e0e28",
@@ -2679,7 +3877,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/finali-atakoyde-yapti-7668854",
+     "title": "Finali Ataköy’de yaptı",
+     "snippet": "Bayhan Müzik organizasyonuyla sahne alan sanatçı, sevilen klasikleri ve son dönemde çıkardığı hitleriyle yaz sezonunu kapattı. Repertuvarıyla beğeni toplayan Arar, şıklığıyla da izleyenlerden tam not aldı.",
+     "published": "2026-09-28T04:02:09.000Z"
+    }
+   ]
   },
   {
    "id": "dde041956075",
@@ -2704,7 +3912,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/narenin-degisimine-sahra-da-sasti-7668852",
+     "title": "Nare’nin değişimine Sahra da ‘Şaş’tı!",
+     "snippet": "Kanal D’nin pazartesi akşamları ilgiyle izlenen yapımı ‘Uzak Şehir’de oyunculuk performansıyla adından söz ettiren Sahra Şaş, yeni sezona dair ilk kez konuştu. Şahin’in ölümüyle duygusal bir çöküş yaşayan Nare’ye hayat veren oyuncu, “Karakterimin dönüşümünden çok mutluyum. Hiç beklemediğimiz bir ene",
+     "published": "2026-09-28T04:02:08.000Z"
+    }
+   ]
   },
   {
    "id": "07221ac34782",
@@ -2723,7 +3941,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/modaya-disneyland-molasi-verdi-7668851",
+     "title": "Modaya Disneyland molası verdi",
+     "snippet": "Dünyaca ünlü eğlence parkında çocuklar gibi eğlenen oyuncu, o anları 10.7 milyon takipçisinin olduğu Instagram hesabından paylaşmayı ihmal etmedi. Yüzüne yaptırdığı rengarenk boyalarla poz veren Sarıkaya’ya, “Alice, Harikalar Diyarı’na geri dönmüş” ve “Mert (Demir) bu hayatta cenneti yaşıyor” yoruml",
+     "published": "2026-09-28T04:02:08.000Z"
+    }
+   ]
   },
   {
    "id": "5cd42cfe84f3",
@@ -2742,7 +3970,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/anadolu-ezgilerini-kktcye-tasidi-7668849",
+     "title": "Anadolu ezgilerini KKTC’ye taşıdı",
+     "snippet": "Röportajın ardından Grand Pasha Girne misafirlerinin karşısına geçen Bingöl, Anadolu ezgileriyle dolu özel bir gece yaşattı.",
+     "published": "2026-09-28T04:02:07.000Z"
+    }
+   ]
   },
   {
    "id": "6702aee2c201",
@@ -2765,7 +4003,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/daha-17nin-18-bolumunde-neler-oldu-43321726",
+     "title": "Daha 17'nin 18. bölümünde neler oldu? Teoman, Aras'ı kurtardı: Damarlarında Akkaya kanı var!",
+     "snippet": "Beş yaşında kaybettiği ailesinden geride kalan tek kişi olan kardeşini aramak için Bodrum’a gelen on yedi yaşındaki Aras'ın Akkayalarla yolunun kesişmesiyle zorlu bir mücadeleye dönüşen hayatını konu alan 'Daha 17' 18. bölümü ile ekranlardaydı...",
+     "published": "2026-09-27T21:31:35.000Z"
+    }
+   ]
   },
   {
    "id": "4b4196151d4d",
@@ -2788,32 +4036,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
-  },
-  {
-   "id": "b10ef688a939",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/helin-elveren-ask-bana-iyi-gelmiyor-43321337",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Helin Elveren: Aşk bana iyi gelmiyor",
-   "snippet": "Kanal D'nin sevilen dizisi Daha 17'nin Deniz'i Helin Elveren, oyunculuğa ve hayata bakışını anlattı. Genç oyuncu, aşk hakkındaki düşüncelerini de açık yüreklilikle paylaştı: Çok aşk insanı değilim. Aşkın bana çok iyi geldiğini düşünmüyorum.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab91ee8c96d6fb64d9ee0b5.jpg",
-   "video": null,
-   "published": "2026-09-27T13:49:00.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [
-     "daha-17"
-    ],
-    "people": [
-     "helin-elveren"
-    ],
-    "networks": [
-     "kanal-d"
-    ]
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/daha-17-dizisinde-sasirtan-ayrilik-hikayesi-sona-eren-oyuncu-veda-etti-p363962",
+     "title": "Daha 17 dizisinde şaşırtan ayrılık: Hikayesi sona eren oyuncu veda etti",
+     "snippet": "Kanal D’nin “Daha 17” dizisinde sezon devam ederken kadroda değişiklik yaşandı. Bodrum’da çekilen dizide okul müdürü Rem...",
+     "published": "2026-09-27T13:54:15.000Z"
+    }
+   ]
   },
   {
    "id": "5aa0d4fcbfec",
@@ -2840,7 +4073,17 @@
      "trt-1",
      "tv8"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/26-eylul-2026-reyting-sonuclari-aciklandi-zirvede-hangi-yapim-var-p363928",
+     "title": "26 Eylül 2026 reyting sonuçları açıklandı! Zirvede hangi dizi var?",
+     "snippet": "26 Eylül Cumartesi akşamı televizyon ekranlarında Güller ve Günahlar, Gönül Dağı ve MasterChef Türkiye rekabeti yaşandı....",
+     "published": "2026-09-27T12:54:41.000Z"
+    }
+   ]
   },
   {
    "id": "964a9f3b8639",
@@ -2859,7 +4102,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/unsuz-kocasi-onu-cok-mutlu-bir-kadin-yapti-nice-yillarimiz-olsun-sevgilim-43321150",
+     "title": "‘Ünsüz’ kocası onu çok mutlu bir kadın yaptı: Nice yıllarımız olsun sevgilim",
+     "snippet": "Ünlü şarkıcı iki yıl önce kimselere haber vermeden gizlice düğün yapmış, sürpriz evliliği herkesi şaşkına çevirmişti. Bu düğünün bu kadar büyük şaşkınlık yaratmasının sebebi ise yıldız ismin eş seçimi olmuştu…",
+     "published": "2026-09-27T12:33:46.000Z"
+    }
+   ]
   },
   {
    "id": "0c4b8dc53506",
@@ -2878,7 +4131,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sila-sahneye-cikti-gozler-karin-kaslarina-cevrildi-dekoltesi-olay-oldu-p363946",
+     "title": "Sıla sahneye çıktı, gözler karın kaslarına çevrildi: Dekoltesi olay oldu",
+     "snippet": "Sıla, Cahide Palazzo'daki sezonun ilk konserinde sahneye kırmızı bir takımla çıktı. Dekolteli kıyafetiyle karın kasların...",
+     "published": "2026-09-27T12:04:12.000Z"
+    }
+   ]
   },
   {
    "id": "ed2d6ac2a303",
@@ -2905,7 +4168,28 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/helin-elveren-ask-bana-iyi-gelmiyor-7668587",
+     "title": "Helin Elveren: Aşk bana iyi gelmiyor",
+     "snippet": "“ÇOK AŞK İNSANI DEĞİLİM” Pazar akşamları Kanal D’de ekrana gelen Daha 17’de canlandırdığı Deniz rolüyle geniş bir hayran kitlesine ulaşan Helin Elveren, aşka dair konuştu. Dizide kalbini önce Aras’a (Çağan Efe Ak) kaptıran ancak sonrasında sürpriz bir şekilde Teoman (Ata Yaşat) ile yakınlaşan oyuncu",
+     "published": "2026-09-27T12:01:57.000Z"
+    },
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/helin-elveren-ask-bana-iyi-gelmiyor-43321337",
+     "title": "Helin Elveren: Aşk bana iyi gelmiyor",
+     "snippet": "Kanal D'nin sevilen dizisi Daha 17'nin Deniz'i Helin Elveren, oyunculuğa ve hayata bakışını anlattı. Genç oyuncu, aşk hakkındaki düşüncelerini de açık yüreklilikle paylaştı: Çok aşk insanı değilim. Aşkın bana çok iyi geldiğini düşünmüyorum.",
+     "published": "2026-09-27T13:49:00.000Z"
+    }
+   ],
+   "mergedIds": [
+    "b10ef688a939"
+   ]
   },
   {
    "id": "c84687b767d4",
@@ -2924,7 +4208,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/milyon-dolarlik-dugun-trumpin-eski-avukati-alina-habba-ve-turk-is-insani-turhan-mildon-evlendi-7668548",
+     "title": "Milyon dolarlık düğün! Trump'ın eski avukatı Alina Habba ve Türk iş insanı Turhan Mildon evlendi",
+     "snippet": "ABD Başkanı Trump'ın eski avukatı ve danışmanı Alina Habba ile Süper Lig ekibi Çorum FK'nin Asbaşkanı ve Türk iş insanı Turhan Mildon, New York'un dünyaca ünlü simge mekanlarından Waldorf Astoria'da düzenlenen görkemli bir törenle hayatlarını birleştirdi. 1 MİLYON DOLARLIK DÜĞÜN New York Times’ın ak",
+     "published": "2026-09-27T11:05:54.000Z"
+    }
+   ]
   },
   {
    "id": "e9959cf5ca59",
@@ -2943,7 +4237,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/bulent-ersoy-konserde-costu-dans-sovu-olay-yaratti-7668569",
+     "title": "Bülent Ersoy konserde coştu! Dans şovu olay yarattı",
+     "snippet": "Türk sanat müziğinin usta ismi Bülent Ersoy, İstanbul’da hayranlarıyla buluştu. 74 yaşındaki Diva, beyaz elbisesi ve sahnedeki enerjik dans performansıyla geceye damga vurdu.",
+     "published": "2026-09-27T10:42:03.000Z"
+    }
+   ]
   },
   {
    "id": "c1b728908ae3",
@@ -2962,7 +4266,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/bakude-katy-perry-cilginligi-dev-siseyle-seyircilerin-uzerinde-ilerledi-7668528",
+     "title": "Bakü’de Katy Perry çılgınlığı! Dev şişeyle seyircilerin üzerinde ilerledi",
+     "snippet": "Katy Perry, Bakü konserinde dev bir şişenin içine girerek seyircilerin üzerinde taşındı. Ünlü şarkıcının sıra dışı performansı konserin en dikkat çeken anlarından biri oldu.",
+     "published": "2026-09-27T09:52:03.000Z"
+    }
+   ]
   },
   {
    "id": "d43c3fe837d6",
@@ -2981,7 +4295,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/milli-arayi-degerlendirmek-icin-istanbul-a-gelen-arda-turan-solugu-orada-aldi-p363921",
+     "title": "Milli arayı değerlendirmek için İstanbul'a gelen Arda Turan soluğu orada aldı",
+     "snippet": "Shakhtar Donetsk Teknik Direktörü Arda Turan, milli arayı değerlendirmek için İstanbul'a geldi. Ailesi ve arkadaşlarıyla...",
+     "published": "2026-09-27T09:50:06.000Z"
+    }
+   ]
   },
   {
    "id": "d1dfa839b135",
@@ -3004,7 +4328,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/zeynep-gunahin-kiyisinda-43321099",
+     "title": "Zeynep günahın kıyısında",
+     "snippet": "Kanal D'nin sevilen dizisi Güller ve Günahlar'da gerilim zirveye çıktı. Bekir'in öldüğünü öğrenen Zeynep, eline silah alıp Yusuf Tecer'in karşısına çıktı. Serhat ise olası bir felaketi önlemek için zamana karşı yarıştı.",
+     "published": "2026-09-27T09:36:00.000Z"
+    }
+   ]
   },
   {
    "id": "545c8a9a034e",
@@ -3023,7 +4357,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/dilan-cicek-deniz-in-4-aylik-askinda-flas-gelisme-babasiyla-tanistirdi-p363914",
+     "title": "Dilan Çiçek Deniz'in 4 aylık aşkında flaş gelişme: Babasıyla tanıştırdı",
+     "snippet": "Dilan Çiçek Deniz ile müzisyen Birkan Nasuhoğlu'nun yaklaşık 4 aydır devam eden ilişkilerinde yeni bir adım geldi. Ünlü ...",
+     "published": "2026-09-27T09:30:16.000Z"
+    }
+   ]
   },
   {
    "id": "a53f14ce6193",
@@ -3042,7 +4386,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/bu-kez-aci-gercegi-cocuklarindan-duydu-baba-sen-iki-kez-bosandin-bize-iliski-tavsiyesi-verme-43321072",
+     "title": "Bu kez acı gerçeği çocuklarından duydu: Baba sen iki kez boşandın, bize ilişki tavsiyesi verme!",
+     "snippet": "Bir yandan oyunculuk ve yapımcılık kariyerine tam gaz devam edip kendini işleriyle oyalasa da aslında son iki yıldır özel hayatıyla gündeme gelmeye devam ediyor. Ünlü oyuncunun biten evliliği ve bir önceki eski eşiyle yaşadığı yakınlaşma dillerden düşmek bilmiyor…",
+     "published": "2026-09-27T09:19:47.000Z"
+    }
+   ]
   },
   {
    "id": "24f247c1d789",
@@ -3061,7 +4415,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/tum-dunya-bu-dugunu-konusuyor-trump-turk-milyarderi-hayal-kirikligina-ugratti-p363893",
+     "title": "Tüm dünya bu düğünü konuşuyor: Trump Türk milyarderi hayal kırıklığına uğrattı",
+     "snippet": "Donald Trump'ın eski kişisel avukatı Alina Habba ile Türk iş insanı Turhan Mildon, New York'un ünlü Waldorf Astoria otel...",
+     "published": "2026-09-27T09:09:17.000Z"
+    }
+   ]
   },
   {
    "id": "c92c132f7688",
@@ -3080,7 +4444,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/iki-cocugu-da-yuvadan-ucup-gitti-bombos-kalan-evinde-bir-basina-surekli-agliyorum-43320973",
+     "title": "İki çocuğu da yuvadan uçup gitti… Bomboş kalan evinde bir başına: Sürekli ağlıyorum",
+     "snippet": "Ünlü şarkıcı son birkaç yıldır zorlu süreçlerden geçiyor. Kariyerinde bocalamalar yaşarken bir yandan da büyük bir mutlulukla başlayan son evliliği biten yıldız isim en sonunda bir başına kaldı…",
+     "published": "2026-09-27T08:30:26.000Z"
+    }
+   ]
   },
   {
    "id": "9e5118a239e0",
@@ -3103,7 +4477,17 @@
     "networks": [
      "kanal-d"
     ]
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/mutfakta-tufan-var-43320970",
+     "title": "Mutfakta 'Tufan' var!",
+     "snippet": "Kanal D’nin sevilen programı Omuz Omuza, bugün “Haysiyet” dizisinin Tufan’ı Gökberk Yıldırım’ı ağırlıyor. Arda Türkmen’in sunumuyla ekrana gelen programda mutfağa giren başarılı oyuncu, Türkmen’in yalnızca sesini takip ederek verilen tarifi uygulamaya çalışacak.",
+     "published": "2026-09-27T07:49:00.000Z"
+    }
+   ]
   },
   {
    "id": "ddb8dd62e7af",
@@ -3122,7 +4506,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/derya-ulug-imajini-degistirdi-uzun-saclarina-veda-etti-p363871",
+     "title": "Derya Uluğ imajını değiştirdi: Uzun saçlarına veda etti",
+     "snippet": "Saç modelleri ve renk değişimleriyle zaman zaman tarzını yenileyen Derya Uluğ, bu kez daha radikal bir değişime gitti. U...",
+     "published": "2026-09-27T07:22:59.000Z"
+    }
+   ]
   },
   {
    "id": "6c6236f4315c",
@@ -3141,7 +4535,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/zehra-cilingiroglu-evleniyor-mu-hulya-avsar-dan-dikkat-ceken-yanit-p363851",
+     "title": "Zehra Çilingiroğlu evleniyor mu? Hülya Avşar'dan dikkat çeken yanıt",
+     "snippet": "Zehra Çilingiroğlu'nun Mürsel Kaya'dan aldığı evlilik teklifinin ardından gözler Hülya Avşar'a çevrildi. Kızının evlilik...",
+     "published": "2026-09-27T06:21:49.000Z"
+    }
+   ]
   },
   {
    "id": "11cd1034ea62",
@@ -3160,7 +4564,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/25-sene-arayla-ayni-gun-dogdular-kimsenin-sans-vermedigi-evlilikte-25-yili-devirdiler-iyi-ki-dogdun-sevgilim-43319276",
+     "title": "25 sene arayla aynı gün doğdular… Kimsenin şans vermediği evlilikte 25 yılı devirdiler: İyi ki doğdun sevgilim!",
+     "snippet": "Onlar sinema dünyasının en ünlü çiftlerinden. Çeyrek asrı çoktan deviren evlilikleri hâlâ mutlu mesut devam ediyor ve bitmeyen dedikodular onları birbirinden koparmaya yetmiyor.",
+     "published": "2026-09-27T06:14:14.000Z"
+    }
+   ]
   },
   {
    "id": "86ce211d0be0",
@@ -3179,7 +4593,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/siirtten-ilham-alan-defile-43320880",
+     "title": "Siirt’ten ilham alan defile",
+     "snippet": "SİİRT’İN köklü tarihi ve kültürel mirasından ilham alan “Yeniden (Bambaşka Doğuş) Siirt” koleksiyonu önceki akşam Cemile Sultan Korusu’nda düzenlenen özel bir defileyle tanıtıldı.",
+     "published": "2026-09-27T06:02:32.000Z"
+    }
+   ]
   },
   {
    "id": "ac0a8cb898a7",
@@ -3198,7 +4622,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/moda-haftasina-konser-arasi-43320878",
+     "title": "Moda haftasına konser arası",
+     "snippet": "HADİSE, moda haftası kapsamında gittiği Milano’dan konseri için İstanbul’a döndü.",
+     "published": "2026-09-27T05:59:34.000Z"
+    }
+   ]
   },
   {
    "id": "2351a33d4e49",
@@ -3217,7 +4651,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/manifestin-londra-sinavi-43320873",
+     "title": "Manifest’in Londra sınavı",
+     "snippet": "MANİFEST, 16 Ekim’de vereceği OVO Arena Wembley konseri öncesinde Londra’da düzenlenen özel tekne davetinde İngiliz basınıyla bir araya geldi.",
+     "published": "2026-09-27T05:56:33.000Z"
+    }
+   ]
   },
   {
    "id": "c9eed73953c1",
@@ -3236,7 +4680,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/sezen-nazli-surprizi-43320867",
+     "title": "Sezen&Nazlı sürprizi",
+     "snippet": "Aşkın Nur Yengi, kızı Nazlı Bilginer’in Sezen Aksu ile çalışmalarını gizli tuttukları albüm üzerinde çalıştığını açıkladı. Yengi, “Sürprizleri var. Nazlı’yı ilk önce Sezen Aksu fark etti” dedi.",
+     "published": "2026-09-27T05:53:00.000Z"
+    }
+   ]
   },
   {
    "id": "34a045f839f9",
@@ -3255,7 +4709,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/sezonu-aciyor-43320866",
+     "title": "Sezonu açıyor",
+     "snippet": "Şef Cem Mansur yönetimindeki Gedik Filarmoni Orkestrası, yeni sezonun ilk konserinde “klasik” kelimesinin üç farklı anlamını aynı programda buluşturuyor.",
+     "published": "2026-09-27T05:43:33.000Z"
+    }
+   ]
   },
   {
    "id": "8f25893178fd",
@@ -3274,7 +4738,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/gecmisten-bugune-43320865",
+     "title": "Geçmişten bugüne",
+     "snippet": "Küratörlüğünü ve organizasyonunu Duygu Kızılkaya’nın üstlendiği “Heritage” sergisi, Çırağan Sarayı’nda sanatseverlerle buluşuyor.",
+     "published": "2026-09-27T05:42:36.000Z"
+    }
+   ]
   },
   {
    "id": "9ebd465dbba8",
@@ -3293,7 +4767,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/muzik-gecesi-43320864",
+     "title": "Müzik gecesi",
+     "snippet": "5 Grammy ödüllü Amerikalı müzik grubu Snarky Puppy, “Somni” projesiyle 18 Eylül gecesi Volkswagen Arena’da müzikseverlerle buluştu.",
+     "published": "2026-09-27T05:41:36.000Z"
+    }
+   ]
   },
   {
    "id": "624700a7ae4d",
@@ -3312,7 +4796,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/umut-mutfaginin-ilk-mezunlari-43320863",
+     "title": "Umut Mutfağı’nın ilk mezunları",
+     "snippet": "USLA Akademi’nin 42. dönem mezuniyet töreninde, Mattia Ahmet Minguzzi’nin anısını yaşatmak amacıyla hayata geçirilen Umut Mutfağı Projesi’nin ilk mezunları diplomalarını aldı.",
+     "published": "2026-09-27T05:40:44.000Z"
+    }
+   ]
   },
   {
    "id": "d4099d0b2680",
@@ -3331,7 +4825,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/10-milyonluk-degisim-ebru-gundes-yorum-yagmuruna-tutuldu-p363832",
+     "title": "10 milyonluk değişim: Ebru Gündeş yorum yağmuruna tutuldu",
+     "snippet": "Yüz gerdirme operasyonu için 10 milyon TL harcadığını açıklayan Ebru Gündeş, yeni şarkısı için kamera karşısına geçti. Ü...",
+     "published": "2026-09-27T05:35:44.000Z"
+    }
+   ]
   },
   {
    "id": "305ea41b70a4",
@@ -3350,7 +4854,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/meryem-uzerli-den-otel-odasinda-muhtesem-yuzyil-surprizi-sesi-duyunca-dayanamadi-p363790",
+     "title": "Meryem Uzerli'den otel odasında Muhteşem Yüzyıl sürprizi: Sesi duyunca dayanamadı",
+     "snippet": "“Muhteşem Yüzyıl” dizisinde canlandırdığı Hürrem Sultan karakteriyle hafızalara kazınan Meryem Uzerli, otelde kaldığı sı...",
+     "published": "2026-09-26T18:37:36.000Z"
+    }
+   ]
   },
   {
    "id": "a468e354b443",
@@ -3369,7 +4883,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/tum-gozler-uzerindeydi-cesur-tarzi-dikkat-cekti-p363772",
+     "title": "Tüm gözler üzerindeydi! Cesur tarzı dikkat çekti",
+     "snippet": "Kanye West ve eşi Bianca Censori, Los Angeles’ta yeni açılan George Lucas Narrative Art Museum’u VIP davetle gezdi. Ünlü...",
+     "published": "2026-09-26T15:05:16.000Z"
+    }
+   ]
   },
   {
    "id": "30f269dcc78f",
@@ -3388,7 +4912,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/serhat-kilic-in-olumunden-bir-gun-once-yasananlar-ortaya-cikti-arkadasi-gozyaslari-icinde-anlatti-p363730",
+     "title": "Serhat Kılıç’ın ölümünden bir gün önce yaşananlar ortaya çıktı: Arkadaşı anlattı",
+     "snippet": "\"Seksenler\" dizisinin sevilen oyuncusu Serhat Kılıç’ın ani vefatı sevenlerini yasa boğdu. Yakın arkadaşı Selim Bayraktar...",
+     "published": "2026-09-26T11:44:20.000Z"
+    }
+   ]
   },
   {
    "id": "7b383cb95215",
@@ -3409,7 +4943,17 @@
      "biran-damla-yilmaz"
     ],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/hapis-cezasi-sonrasi-biran-damla-yilmaz-cephesinden-ilk-aciklama-p363648",
+     "title": "Hapis cezası sonrası Biran Damla Yılmaz cephesinden ilk açıklama",
+     "snippet": "Oyuncu Biran Damla Yılmaz hakkında Almanya'da 6 ay hapis cezası aldığı ve 285 bin euroluk estetik borcu bulunduğu yönünd...",
+     "published": "2026-09-26T07:03:03.000Z"
+    }
+   ]
   },
   {
    "id": "55c357a36ff4",
@@ -3428,7 +4972,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "dailysabah-arts",
+     "name": "Daily Sabah",
+     "url": "https://www.dailysabah.com/arts/turkiye-uzbekistan-expand-cooperation-in-cultural-heritage-arts/news",
+     "title": "Türkiye, Uzbekistan expand cooperation in cultural heritage, arts",
+     "snippet": "Türkiye and Uzbekistan are set to expand cooperation in culture and the arts, including cultural heritage, archaeology, performing arts and cinema, following talks in Tashkent betw...",
+     "published": "2026-09-25T08:15:00.000Z"
+    }
+   ]
   },
   {
    "id": "610c4245a894",
@@ -3447,7 +5001,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "dailysabah-arts",
+     "name": "Daily Sabah",
+     "url": "https://www.dailysabah.com/arts/music/when-dead-artists-go-on-tour-future-of-live-music",
+     "title": "When dead artists go on tour: Future of live music",
+     "snippet": "Four years after his death, rapper Sidhu Moose Wala is set to return to the “stage” in October. But this is not a one-night memorial. He is preparing to go on a world tour in holog...",
+     "published": "2026-09-24T08:09:00.000Z"
+    }
+   ]
   },
   {
    "id": "9d9292a0545a",
@@ -3466,7 +5030,17 @@
     "series": [],
     "people": [],
     "networks": []
-   }
+   },
+   "sources": [
+    {
+     "source": "dailysabah-arts",
+     "name": "Daily Sabah",
+     "url": "https://www.dailysabah.com/arts/cinema/harvey-weinstein-set-for-sentencing-after-years-of-sex-crime-retrials",
+     "title": "Harvey Weinstein set for sentencing after years of sex crime retrials",
+     "snippet": "The first time Harvey Weinstein was sentenced to prison, reporters, advocates and the curious public crammed the courtroom to witness the disgraced Hollywood honcho’s #MeToo reckon...",
+     "published": "2026-09-23T12:33:00.000Z"
+    }
+   ]
   }
  ]
 }
