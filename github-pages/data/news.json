@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T20:32:40.353Z",
+ "updated": "2026-09-30T22:19:13.072Z",
  "items": [
   {
    "id": "3b8c91ea6a71",
@@ -60,7 +60,7 @@
    "video": null,
    "published": "2026-09-30T19:42:36.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -73,10 +73,20 @@
      "url": "https://www.haberturk.com/magazin/foto/tuba-unsal-paris-beni-sevdi-3916301",
      "title": "\"Paris beni sevdi\"",
      "snippet": "Tuba Ünsal, Paris'teki yeni yaşamından paylaşımlar yaptı. Ünlü oyuncu, şehirdeki ilk izlenimlerini \"Paris bence Beyza'nın dediği gibi insanı ya sever ya iter. Bence beni sevdi\" sözleriyle aktardı",
-     "published": "2026-09-30T19:42:36.000Z"
+     "published": "2026-09-30T19:42:36.000Z",
+     "titleFa": "پاریس مرا دوست داشت"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "طوبا اونصال از زندگی جدید خود در پاریس خبر داد",
+   "summaryFa": "طوبا اونصال بازیگر مشهور برای تحصیل دخترش به پاریس نقل مکان کرد و تصاویری از زندگی جدید خود را به اشتراک گذاشت. او احساس خود را درباره شهر پاریس در شبکه های اجتماعی بیان کرد.",
+   "bodyFa": [
+    "طوبا اونصال، بازیگر ۴۴ ساله، هفته گذشته اعلام کرده بود که به همراه پسرش جیوان مرت و به خاطر تحصیل دخترش Sare در فرانسه، به پاریس نقل مکان کرده است. او اخیراً اولین تصاویر از زندگی جدید خود در پایتخت فرانسه را در صفحه اجتماعی خود منتشر کرد.",
+    "در این تصاویر دیده می شود که اونصال در خیابان های پاریس قدم می زند و زمان خوشی را با دوستانش می گذراند. او پس از روند جابجایی، اولین برداشت های خود از شهر را با این جملات بیان کرد که پاریس انسان را یا دوست دارد یا دفع می کند و به نظر او، پاریس او را دوست داشته است.",
+    "لازم به ذکر است که Sare، دختر طوبا اونصال از ازدواجش با مورات پیلوکنلی، پیش تر در مدرسه هنری معتبر Lycée Molière در فرانسه پذیرفته شده بود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "dff48d681a27",
@@ -161,6 +171,55 @@
    "bodyFa": [
     "مرت yazıcıoğlu، بازیگر ۳۳ ساله، تصاویر و لحظات شاد و مفرحی از بازی تنیس خود به همراه شریک زندگی‌اش، زینب Artukmaç را در صفحه اینستاگرام خود با ۲.۴ میلیون دنبال‌کننده به اشتراک گذاشت.",
     "رابطه این زوج که نوه روان‌پزشک و نویسنده گلِسِرن بودایجی‌اوغلو است، به گرمی ادامه دارد و آن‌ها ترجیح می‌دهند رابطه خود را پنهان نکنند. در این بازی تنیس، علاوه بر این زوج، بورک dakak نیز حضور داشت و این تصاویر با استقبال هواداران روبه‌رو شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "e54b9076be09",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/baba-ozlemi-dinmiyor-esra-dermancioglundan-duygu-yuklu-paylasim-7670674",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Baba özlemi dinmiyor! Esra Dermancıoğlu'ndan duygu yüklü paylaşım",
+   "snippet": "Yer aldığı projeler ve paylaşımlarıyla adından söz ettiren isimlerden oyuncu Esra Dermancıoğlu, hayatını kaybeden babasını duygulandıran bir mesajla andı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd55caed0288e6d3ecc7bf.jpg",
+   "video": null,
+   "published": "2026-09-30T18:37:01.000Z",
+   "scope": "linked",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [
+     "esra-dermancioglu"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/baba-ozlemi-dinmiyor-esra-dermancioglundan-duygu-yuklu-paylasim-7670674",
+     "title": "Baba özlemi dinmiyor! Esra Dermancıoğlu'ndan duygu yüklü paylaşım",
+     "snippet": "Yer aldığı projeler ve paylaşımlarıyla adından söz ettiren isimlerden oyuncu Esra Dermancıoğlu, hayatını kaybeden babasını duygulandıran bir mesajla andı.",
+     "published": "2026-09-30T18:37:01.000Z",
+     "titleFa": "دلتنگی برای پدر تمام نمی‌شود! پست احساسی از اسرا درمانجی‌اوغلو"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6abd55caed0288e6d3ecc7bf.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6abd55caed0288e6d3ecc7bf.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "یادbотکردن پدر درگذشته توسط اسرا درمانجی‌اوغلو با پیامی احساسی",
+   "summaryFa": "بازیگر معروف اسرا درمانجی‌اوغلو با انتشار پیامی احساسی، یاد پدر مرحوم خود را زنده کرد.",
+   "bodyFa": [
+    "اسرا درمانجی‌اوغلو، بازیگر شناخته‌شده که با نقش‌آفرینی‌ها و فعالیت‌هایش در شبکه‌های اجتماعی همواره مورد توجه بوده است، در یادداشتی احساسی به یاد پدر درگذشته خود افتاد.",
+    "او پیامی پر از احساس را برای گرامیداشت یاد پدرش به اشتراک گذاشت تا دلتنگی خود را ابراز کند."
    ],
    "ai": true,
    "aiTries": 1
@@ -10857,7 +10916,8 @@
      "url": "https://www.sozcu.com.tr/tum-dunya-bu-dugunu-konusuyor-trump-turk-milyarderi-hayal-kirikligina-ugratti-p363893",
      "title": "Tüm dünya bu düğünü konuşuyor: Trump Türk milyarderi hayal kırıklığına uğrattı",
      "snippet": "Donald Trump'ın eski kişisel avukatı Alina Habba ile Türk iş insanı Turhan Mildon, New York'un ünlü Waldorf Astoria otel...",
-     "published": "2026-09-27T09:09:17.000Z"
+     "published": "2026-09-27T09:09:17.000Z",
+     "titleFa": "تمام دنیا درباره این عروسی صحبت می‌کنند: ترامپ میلیاردر ترک را ناامید کرد"
     }
    ],
    "images": [
@@ -10868,7 +10928,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/tum-dunya-bu-dugunu-konusuyor-trump-turk-milyarderi-hayal-kirikligina-ugratti-1-1jpg-fWBeKqZMH020vIOOyvwqWA.jpg",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/tum-dunya-bu-dugunu-konusuyor-trump-turk-milyarderi-hayal-kirikligina-ugratti-4jpg-LUjb_8pQKkS06mGQAc5aiQ.jpg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "آلینا هابا و تورخان میلدون در نیویورک ازدواج کردند",
+   "summaryFa": "وکیل سابق دونالد ترامپ با یک تاجر ترک در هتلی در نیویورک ازدواج کرد. جزئیات این مراسم پرجلال و جبروت مورد توجه رسانه‌ها قرار گرفته است.",
+   "bodyFa": [
+    "آلینا هابا، وکیل شخصی پیشین دونالد ترامپ، طی مراسمی با تورخان میلدون، تاجر اهل ترکیه، در هتل معروف والدورف آستوریا در شهر نیویورک پیمان زناشویی بست.",
+    "این مراسم باشکوه که جزئیات مربوط به روند آماده‌سازی و نکات برجسته آن مورد توجه رسانه‌ها قرار گرفته، بازتاب زیادی داشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c92c132f7688",
@@ -10895,7 +10963,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/iki-cocugu-da-yuvadan-ucup-gitti-bombos-kalan-evinde-bir-basina-surekli-agliyorum-43320973",
      "title": "İki çocuğu da yuvadan uçup gitti… Bomboş kalan evinde bir başına: Sürekli ağlıyorum",
      "snippet": "Ünlü şarkıcı son birkaç yıldır zorlu süreçlerden geçiyor. Kariyerinde bocalamalar yaşarken bir yandan da büyük bir mutlulukla başlayan son evliliği biten yıldız isim en sonunda bir başına kaldı…",
-     "published": "2026-09-27T08:30:26.000Z"
+     "published": "2026-09-27T08:30:26.000Z",
+     "titleFa": "هر دو فرزندش از آشیانه پر کشیدند… تنها در خانه کاملاً خالی‌اش: مدام گریه می‌کنم"
     }
    ],
    "images": [
@@ -10906,7 +10975,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "خواننده مشهور در خانه‌ای خالی از فرزند و تنها مانده است",
+   "summaryFa": "این خواننده مشهور اعلام کرد که پس از رفتن فرزندانش و پایان ازدواجش، اکنون در خانه خالی خود تنهاست و مدام گریه می‌کند. او سال‌های سختی را در زندگی شخصی و حرفه‌ای خود پشت سر می‌گذارد.",
+   "bodyFa": [
+    "این خواننده معروف که در سال‌های اخیر با چالش‌های گوناگونی در زندگی شخصی و حرفه‌ای خود روبه‌رو بوده، اکنون پس از ترک خانه توسط هر دو فرزندش، در خانه‌ای کاملاً خالی تنها مانده است.",
+    "او علاوه بر دست و پنجه نرم کردن با روزگار سخت در عرصه کاری، شاهد پایان یافتن آخرین ازدواج خود نیز بوده است؛ ازدواجی که در ابتدا با شادی فراوانی آغاز شده بود. این ستاره نام‌آشنا از این وضعیت ابراز ناراحتی کرده و گفته است که مدام در حال گریه کردن است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "9e5118a239e0",
@@ -11024,7 +11101,16 @@
      "snippet": "Zehra Çilingiroğlu'nun Mürsel Kaya'dan aldığı evlilik teklifinin ardından gözler Hülya Avşar'a çevrildi. Kızının evlilik...",
      "published": "2026-09-27T06:21:49.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/hulya-avsar-zehrapng-O126Jw8l8kGBWa4vj43ZYQ.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/hulya-avsar-zehrapng-O126Jw8l8kGBWa4vj43ZYQ.png?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/hulya-avsar-zehra-cilingiroglujpg-Y76uazY6QkyAbrIHWp_lwg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/zehra-cilingiroglu-mursel-kayajpg-Ixb1PXprLEmOMQdwH8-G5Q.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abd19fbd83705fac6dc55a5-kopyapng-p1m9ilIJ2Ua46jsxdn5eKg.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "11cd1034ea62",
@@ -11053,7 +11139,16 @@
      "snippet": "Onlar sinema dünyasının en ünlü çiftlerinden. Çeyrek asrı çoktan deviren evlilikleri hâlâ mutlu mesut devam ediyor ve bitmeyen dedikodular onları birbirinden koparmaya yetmiyor.",
      "published": "2026-09-27T06:14:14.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ab65a3d193671de76cbb72d.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ab65a3d193671de76cbb72d.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
+   ],
+   "mediaDone": true
   },
   {
    "id": "86ce211d0be0",
