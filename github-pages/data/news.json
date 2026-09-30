@@ -1,6 +1,275 @@
 {
- "updated": "2026-09-30T13:48:32.891Z",
+ "updated": "2026-09-30T17:18:20.881Z",
  "items": [
+  {
+   "id": "9f0e01c1eb58",
+   "url": "https://www.milliyet.com.tr/magazin/kahtali-mice-unutulmadi-duygulandiran-klip-7670638",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Kahtalı Mıçe unutulmadı! Duygulandıran klip",
+   "snippet": "Adıyaman'ın Kahta ilçesinde 15 Şubat 2025’te hayatını kaybeden Türk Halk Müziği Sanatçısı Mustafa Kahtalı (Kahtalı Mıçe) anısına ‘Kaderimi Yaz Kalbime’ adlı özel ve son klibi çekildi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd41b6ed0288e6d3ecc787.jpg",
+   "video": null,
+   "published": "2026-09-30T17:17:32.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/kahtali-mice-unutulmadi-duygulandiran-klip-7670638",
+     "title": "Kahtalı Mıçe unutulmadı! Duygulandıran klip",
+     "snippet": "Adıyaman'ın Kahta ilçesinde 15 Şubat 2025’te hayatını kaybeden Türk Halk Müziği Sanatçısı Mustafa Kahtalı (Kahtalı Mıçe) anısına ‘Kaderimi Yaz Kalbime’ adlı özel ve son klibi çekildi.",
+     "published": "2026-09-30T17:17:32.000Z",
+     "titleFa": "کاhtalı Mıçe unutulmadı! Duygulandıran klip"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6abd41b6ed0288e6d3ecc787.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6abd41b6ed0288e6d3ecc787.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار موزیک‌ویدئوی یادبود برای مصطفی کاهتالی",
+   "summaryFa": "موزیک‌ویدئوی ویژه و نهایی مصطفی کاهتالی، هنرمند فقید موسیقی محلی ترکی، با عنوان «سرنوشتم را روی قلبم بنویس» ساخته شد. این اثر به یاد او در شهر کاهتای آدیامان تهیه شده است.",
+   "bodyFa": [
+    "به یاد مصطفی کاهتالی، هنرمند فقید موسیقی محلی ترکیه که در تاریخ ۱۵ فوریه ۲۰۲۵ در منطقه کاهتا واقع در آدیامان درگذشت، موزیک‌ویدئوی ویژه و پایانی با نام «سرنوشتم را روی قلبم بنویس» تهیه و آماده شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "4eb64077f9c9",
+   "url": "https://www.haberturk.com/magazin/foto/seda-sayan-ve-caglar-okten-den-isvicre-de-ask-pozu-3916267",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "İsviçre'de aşk pozu",
+   "snippet": "Seda Sayan ile Çağlar Ökten, arkadaşlarıyla birlikte çıktıkları İsviçre tatilinde aşk dolu anlarını takipçileriyle paylaştı",
+   "image": "https://im.haberturk.com/l/2026/09/30/ver1790787859/3916267/jpg/1920x1080",
+   "video": null,
+   "published": "2026-09-30T17:04:47.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/seda-sayan-ve-caglar-okten-den-isvicre-de-ask-pozu-3916267",
+     "title": "İsviçre'de aşk pozu",
+     "snippet": "Seda Sayan ile Çağlar Ökten, arkadaşlarıyla birlikte çıktıkları İsviçre tatilinde aşk dolu anlarını takipçileriyle paylaştı",
+     "published": "2026-09-30T17:04:47.000Z",
+     "titleFa": "پز عاشقانه در سوئیس"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "سда سایان و چاغلار اوکتن در سفر سوئیس",
+   "summaryFa": "سدا سایان و چاغلار اوکتن که در سال ۲۰۲۲ ازدواج کرده بودند، تصاویری از سفر خود به سوئیس را با هوادارانشان به اشتراک گذاشتند. این زوج به همراه دوستانشان به زوریخ رفته و لحظات عاشقانه خود را منتشر کردند.",
+   "bodyFa": [
+    "سدا سایان، خواننده مشهور، و همسرش چاغلار اوکتن که در سال ۲۰۲۲ با یکدیگر ازدواج کردند، زندگی مشترک شادی دارند و گهگاه لحظات خود را در شبکه‌های اجتماعی بازتاب می‌دهند.",
+    "این زوج اخیراً به همراه دوستانشان راهی کشور سوئیس شده و در خیابان‌های زوریخ به گردش پرداخته‌اند. سدا سایان تصاویری از این سفر و لحظات عاشقانه خود با همسرش را در صفحه مجازی‌اش منتشر کرد.",
+    "او در یکی از عکس‌ها در حال بوسیدن چاغلار اوکتن است و با درج عبارت «عشقم» برای این تصویر، عشق خود را به همسرش به نمایش گذاրده است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "4b7488dc4499",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/tolga-saritas-ve-zeynep-mayruk-ciftinden-mutlu-aile-tablosu-ogullari-alinin-son-haline-bakin-7670616",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Tolga Sarıtaş ve Zeynep Mayruk çiftinden mutlu aile tablosu! Oğulları Ali'nin son haline bakın",
+   "snippet": "Oyuncu Tolga Sarıtaş ve modacı eşi Zeynep Mayruk, oğulları Ali'nin aileye katılmasının ardından mutluluklarını perçinledi. Çift, 1. yaşına giren çocukları Ali'nin doğum gününden yeni kareleri Instagram'dan paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd3314ed0288e6d3ecc74f.jpg",
+   "video": null,
+   "published": "2026-09-30T16:08:14.000Z",
+   "scope": "linked",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [
+     "tolga-saritas"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/tolga-saritas-ve-zeynep-mayruk-ciftinden-mutlu-aile-tablosu-ogullari-alinin-son-haline-bakin-7670616",
+     "title": "Tolga Sarıtaş ve Zeynep Mayruk çiftinden mutlu aile tablosu! Oğulları Ali'nin son haline bakın",
+     "snippet": "Oyuncu Tolga Sarıtaş ve modacı eşi Zeynep Mayruk, oğulları Ali'nin aileye katılmasının ardından mutluluklarını perçinledi. Çift, 1. yaşına giren çocukları Ali'nin doğum gününden yeni kareleri Instagram'dan paylaştı.",
+     "published": "2026-09-30T16:08:14.000Z",
+     "titleFa": "تصویر خانوادگی شاد از تولگا ساری‌تاش و زینب مایروک! نگاهی به وضعیت جدید پسرشان علی"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6abd3314ed0288e6d3ecc74f.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6abd3314ed0288e6d3ecc74f.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تصاویر جدید تولگا ساری‌تاش و زینب مایروک در تولد یک سالگی پسرشان",
+   "summaryFa": "تولگا ساری‌تاش و همسرش زینب مایروک تصاویری از جشن تولد یک سالگی پسرشان علی را در اینستاگرام منتشر کردند. این زوج پس از به دنیا آمدن فرزندشان تصاویر جدیدی از خانواده خود به اشتراک گذاشته‌اند.",
+   "bodyFa": [
+    "تولگا ساری‌تاش، بازیگر سرشناس، و همسرش زینب مایروک، طراح مد، این روزها دوران خوشی را در کنار فرزندشان سپری می‌کنند. این زوج که با ورود پسرشان علی به جمع خانواده خوشحال‌تر شده‌اند، به تازگی تصاویری از او را به نمایش گذاشته‌اند.",
+    "آن‌ها همزمان با ورود فرزندشان علی به سن یک سالگی، عکس‌های جدیدی از این جشن تولد را در صفحه اینستاگرام خود منتشر کردند که مورد توجه مخاطبان قرار گرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "6564f5648e01",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/ask-tam-gaz-devam-ediyor-icardi-ve-nisanlisi-china-suarezden-ayna-karsisinda-romantik-pozlar-7670604",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Aşk tam gaz devam ediyor! Icardi ve nişanlısı China Suarez'den ayna karşısında romantik pozlar",
+   "snippet": "Kariyeriyle olduğu kadar özel hayatıyla da magazin gündeminden düşmeyen yıldız futbolcu Mauro Icardi ve nişanlısı China Suarez'in mutlu beraberliği devam ediyor. İkili, yeni romantik karelerini Instagram'dan paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd2b26ed0288e6d3ecc731.jpg",
+   "video": null,
+   "published": "2026-09-30T15:31:50.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/ask-tam-gaz-devam-ediyor-icardi-ve-nisanlisi-china-suarezden-ayna-karsisinda-romantik-pozlar-7670604",
+     "title": "Aşk tam gaz devam ediyor! Icardi ve nişanlısı China Suarez'den ayna karşısında romantik pozlar",
+     "snippet": "Kariyeriyle olduğu kadar özel hayatıyla da magazin gündeminden düşmeyen yıldız futbolcu Mauro Icardi ve nişanlısı China Suarez'in mutlu beraberliği devam ediyor. İkili, yeni romantik karelerini Instagram'dan paylaştı.",
+     "published": "2026-09-30T15:31:50.000Z",
+     "titleFa": "عشق با تمام قدرت ادامه دارد! تصاویر رمانتیک مائورو ایکاردی و نامزدش چینا سوارز در مقابل آینه"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6abd2b26ed0288e6d3ecc731.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6abd2b26ed0288e6d3ecc731.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تصاویر عاشقانه جدید مائورو ایکاردی و نامزدش چینا سوارز در اینستاگرام",
+   "summaryFa": "مائورو ایکاردی و نامزدش چینا سوارز تصاویر عاشقانه جدیدی را در صفحه اینستاگرام خود به اشتراک گذاختند. رابطه این زوج همچنان ادامه دارد.",
+   "bodyFa": [
+    "مائورو ایکاردی، بازیکن فوتبال سرشناس، به دلیل زندگی خصوصی و همچنین فعالیت‌های حرفه‌ای خود همواره در مرکز توجه رسانه‌ها قرار دارد. رابطه او و نامزدش چینا سوارز همچنان ادامه دارد و این زوج روزهای خوبی را با هم سپری می‌کنند.",
+    "این زوج اخیراً تصاویری از لحظات رمانتیک و دونفره خود را در مقابل آینه ثبت کرده و از طریق حساب کاربری خود در شبکه اجتماعی اینستاگرام با مخاطبان به اشتراک گذاشته‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "e2a004ff2bc3",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/seda-sayan-zurihte-aska-geldi-esi-caglar-oktene-romantik-not-7670532",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Seda Sayan Zürih'te aşka geldi! Eşi Çağlar Ökten'e romantik not",
+   "snippet": "Ünlü sanatçı Seda Sayan, eşi Çağlar Ökten ile çıktığı İsviçre tatilinden romantik bir kare paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd18c1ed0288e6d3ecc6c1.jpg",
+   "video": null,
+   "published": "2026-09-30T14:19:38.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/seda-sayan-zurihte-aska-geldi-esi-caglar-oktene-romantik-not-7670532",
+     "title": "Seda Sayan Zürih'te aşka geldi! Eşi Çağlar Ökten'e romantik not",
+     "snippet": "Ünlü sanatçı Seda Sayan, eşi Çağlar Ökten ile çıktığı İsviçre tatilinden romantik bir kare paylaştı.",
+     "published": "2026-09-30T14:19:38.000Z",
+     "titleFa": "سدا سایان در زوریخ عاشق شد! یادداشت رمانتیک برای همسرش چاغلار اوکتن"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6abd18c1ed0288e6d3ecc6c1.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6abd18c1ed0288e6d3ecc6c1.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "سدا سایان در زوریخ عشق خود را به همسرش ابراز کرد",
+   "summaryFa": "سدا سایان تصویری رمانتیک از سفر خود به سوئیس به همراه همسرش چاغلار اوکتن منتشر کرد.",
+   "bodyFa": [
+    "سدا سایان، هنرمند سرشناس، تصویری رمانتیک و عاشقانه از سفر خود به کشور سوئیس در صفحه شخصی‌اش به اشتراک گذاشت.",
+    "او در این سفر همراه با همسر خود، چاغلار اوکتن حضور دارد و این عکس یادگاری توجه مخاطبان را به خود جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "9f69d1427d59",
+   "url": "https://www.haberturk.com/magazin/foto/anne-hathaway-ve-dakota-johnson-verity-nin-galasinda-bulustu-3916220",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Gala buluşması",
+   "snippet": "Uzun çekim dönemi boyunca aralarında yakın bir ilişki oluşan Anne Hathaway ve Dakota Johnson, yeni filmleri 'Verity'nin galasında sıcak görüntüler verdi",
+   "image": "https://im.haberturk.com/l/2026/09/30/ver1790775698/3916220/jpg/1920x1080",
+   "video": null,
+   "published": "2026-09-30T13:44:23.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/anne-hathaway-ve-dakota-johnson-verity-nin-galasinda-bulustu-3916220",
+     "title": "Gala buluşması",
+     "snippet": "Uzun çekim dönemi boyunca aralarında yakın bir ilişki oluşan Anne Hathaway ve Dakota Johnson, yeni filmleri 'Verity'nin galasında sıcak görüntüler verdi",
+     "published": "2026-09-30T13:44:23.000Z",
+     "titleFa": "گالا ملاقاتی"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "گala buluşması: آن هاتاوی و داکتا جانسون در افتتاحیه فیلم Verity",
+   "summaryFa": "آن هاتاوی و داکتا جانسون در مراسم افتتاحیه فیلم جدید خود «Verity» در نیویورک حضور یافتند. هاتاوی در این مراسم عکاسان و هم‌بازی‌های خود را برای ثبت بهترین تصاویر راهنمایی کرد.",
+   "bodyFa": [
+    "آن هاتاوی و داکتا جانسون که در طول دوران طولانی فیلم‌برداری رابطه نزدیکی با یکدیگر پیدا کرده بودند، در مراسم افتتاحیه فیلم مشترک خود به نام «Verity» در نیویورک شرکت کردند. این دو بازیگر پیش‌تر نیز بارها از رابطه دوستانه و خوب خود صحبت کرده بودند و این صمیمیت را روی فرش قرمز نیز به نمایش گذاشتند.",
+    "آن هاتاوی که در ماه‌های پایانی بارداری سوم خود به سر می‌برد، هنگام گرفتن عکس‌های یادگاری با داکتا جانسون و دیگر بازیگر فیلم یعنی جاش هارتنت، کنترل اوضاع را در دست گرفت. او با پرانرژی بودن، به عکاسان و هم‌بازی‌هایش دستور می‌داد که در چه جهتی قرار بگیرند تا بهترین تصاویر ثبت شود.",
+    "اگرچه این احتمال وجود داشت که داکتا جانسون از این میزان از هدایت‌گری‌های هاتاوی کمی ناراحت شود، اما او با شوخ‌طبعی پاسخ داد و این نزدیکی و فضای صمیمی همچنان حفظ شد. در این فیلم که بر اساس رمانی از کالین هوور ساخته شده، هاتاوی نقش نویسنده‌ای به نام وریتی کرافورد و جانسون نقش لوون اشلی را بازی می‌کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "1215ffefc5ab",
    "url": "https://www.sozcu.com.tr/istanbul-u-terk-eden-tuba-unsal-in-paris-pozlari-dikkat-cekti-p364905",
@@ -26,7 +295,8 @@
      "url": "https://www.sozcu.com.tr/istanbul-u-terk-eden-tuba-unsal-in-paris-pozlari-dikkat-cekti-p364905",
      "title": "İstanbul'u terk edip Paris'e yerleşmişti: İlk pozları olay oldu",
      "snippet": "İstanbul'u geride bırakıp çocuklarıyla Paris'e yerleşen Tuba Ünsal, yeni hayatından ilk kareleri paylaştı. Ünlü oyuncunu...",
-     "published": "2026-09-30T13:41:11.000Z"
+     "published": "2026-09-30T13:41:11.000Z",
+     "titleFa": "ترک استانبول و اقامت در پاریس: نخستین تصاویر جنجالی شد"
     }
    ],
    "images": [
@@ -37,7 +307,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/istanbulu-terk-eden-tuba-unsalin-paris-pozlari-dikkat-cekti-5jpg-vYh5LuztaUe-FhXEgj8m9w.jpg",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/istanbulu-terk-eden-tuba-unsalin-paris-pozlari-dikkat-cekti-6jpg-9rxJ07PFyEGGaz77093_yw.jpg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتشار نخستین تصاویر از زندگی جدید توبا Ünsal در پاریس",
+   "summaryFa": "توبا Ünsal پس از ترک استانبول و نقل مکان به پاریس همراه با فرزندانش، نخستین تصاویر از زندگی جدید خود را در شبکه‌های اجتماعی به اشتراک گذاشت. یادداشت او در این پست توجه مخاطبان را به خود جلب کرد.",
+   "bodyFa": [
+    "توبا Ünsal، بازیگر و مدل سابق، تصمیم گرفته است در زندگی خود تغییر بزرگی ایجاد کند. او پس از ترک استانبول، به همراه فرزندانش راهی پاریس شده و در آنجا ساکن شده است.",
+    "این بازیگر سرشناس اخیراً تصاویری از گشت‌وگذار خود در خیابان‌های پاریس را در حساب کاربری‌اش منتشر کرده است. یادداشتی که Ünsal در کنار این عکس‌ها نوشته، بازخورد و توجه دنبال‌کنندگان او را به همراه داشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ac8f1dee122b",
@@ -4505,6 +4783,44 @@
    "mediaDone": true
   },
   {
+   "id": "0d77320ffbee",
+   "url": "https://www.milliyet.com.tr/magazin/motovlogcu-dayidan-aci-haber-fenomen-cumhur-kahraman-hayatini-kaybetti-7669575",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Fenomen Cumhur Kahriman kimdir? Fenomen Cumhur Kahriman öldü mü, neden öldü?",
+   "snippet": "İzmir-Çanakkale kara yolunun Dikili ilçesi Kıratlı Mahallesi Makaron Çiftliği mevkiinde dün saat 20.30 sıralarında kaza meydana geldi. MOTOVLOGCU DAYI'DAN ACI HABER İzmir'den Çanakkale yönüne giden Cumhur Kahriman (46) yönetimindeki 34 GMM 853 plakalı motosiklet, önünde giden bir taşımacılık firmasına ait plakası henüz tespit edilemeyen tıra arkadan çarptı. Motosiklet ve trafik güvenliği üzerine hazırladığı videolar ve 'Motovlogcu Dayı' ismiyle tanınan sanal medya içerik üreticisi Kahriman, çarp",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abb6935ed0288e6d3ecbea5.jpg",
+   "video": null,
+   "published": "2026-09-29T09:28:47.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/motovlogcu-dayidan-aci-haber-fenomen-cumhur-kahraman-hayatini-kaybetti-7669575",
+     "title": "Fenomen Cumhur Kahriman kimdir? Fenomen Cumhur Kahriman öldü mü, neden öldü?",
+     "snippet": "İzmir-Çanakkale kara yolunun Dikili ilçesi Kıratlı Mahallesi Makaron Çiftliği mevkiinde dün saat 20.30 sıralarında kaza meydana geldi. MOTOVLOGCU DAYI'DAN ACI HABER İzmir'den Çanakkale yönüne giden Cumhur Kahriman (46) yönetimindeki 34 GMM 853 plakalı motosiklet, önünde giden bir taşımacılık firması",
+     "published": "2026-09-29T09:28:47.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6abb6935ed0288e6d3ecbea5.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6abb6935ed0288e6d3ecbea5.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "a81434544b1e",
    "url": "https://www.sozcu.com.tr/sabancilara-amerikali-gelin-geliyor-suzan-sabanci-dan-dugun-aciklamasi-p364504",
    "source": "sozcu-magazin",
@@ -4697,6 +5013,44 @@
    "mediaDone": true
   },
   {
+   "id": "e29cf746fa32",
+   "url": "https://www.milliyet.com.tr/magazin/hamid-yorulmazin-hikayesi-yurek-yakti-annem-olumum-pahasina-babamin-kim-oldugunu-sakliyor-7669704",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Hamid Yorulmaz'ın hikayesi yürek burktu: Annem ölümüm pahasına babamın kim olduğunu saklıyor",
+   "snippet": "İzmir’in Torbalı ilçesinde yaşayan 18 yaşındaki Hamid Yorulmaz’ın hayat hikayesi, küçük yaşta başlayan zorlu bir mücadeleyle şekillendi. Doğuştan talasemi majör hastası, halk arasındaki adıyla Akdeniz Anemisi olan Hamid, henüz 3 yaşındayken annesi Nihal Beyit tarafından babasına bırakıldı. Küçük yaşlardan itibaren babaannesi ve dedesi tarafından büyütülen Hamid, yıllar boyunca kendisini büyüten ailesini gerçek ailesi olarak bildi. Ancak genç yaşta yaşadığı sağlık sorunu, hayatının en büyük gerçe",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abb7c0eed0288e6d3ecbf12.jpg",
+   "video": null,
+   "published": "2026-09-29T08:52:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/hamid-yorulmazin-hikayesi-yurek-yakti-annem-olumum-pahasina-babamin-kim-oldugunu-sakliyor-7669704",
+     "title": "Hamid Yorulmaz'ın hikayesi yürek burktu: Annem ölümüm pahasına babamın kim olduğunu saklıyor",
+     "snippet": "İzmir’in Torbalı ilçesinde yaşayan 18 yaşındaki Hamid Yorulmaz’ın hayat hikayesi, küçük yaşta başlayan zorlu bir mücadeleyle şekillendi. Doğuştan talasemi majör hastası, halk arasındaki adıyla Akdeniz Anemisi olan Hamid, henüz 3 yaşındayken annesi Nihal Beyit tarafından babasına bırakıldı. Küçük yaş",
+     "published": "2026-09-29T08:52:00.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6abb7c0eed0288e6d3ecbf12.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6abb7c0eed0288e6d3ecbf12.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "e17308b349e6",
    "url": "https://www.sozcu.com.tr/cirkin-dizisi-icin-karar-alindi-hayranlarini-uzecek-haber-geldi-p364490",
    "source": "sozcu-magazin",
@@ -4834,6 +5188,44 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3611",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "832586c989de",
+   "url": "https://www.sozcu.com.tr/izzet-ozilhan-dan-kaza-sonrasi-ilk-goruntu-yurutecle-ayakta-durdu-p364470",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "İzzet Özilhan'dan kaza sonrası ilk görüntü: Yürüteçle ayakta durdu",
+   "snippet": "Yasemin Ergen'le 14 yıllık evliliğini noktalayan İzzet Özilhan, ciddi bir motosiklet kazasının ardından uzun süredir göz...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/izzetozilhanjpg-_R751sh7DEq51Vz6RCVAgg.jpg",
+   "video": null,
+   "published": "2026-09-29T07:44:10.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/izzet-ozilhan-dan-kaza-sonrasi-ilk-goruntu-yurutecle-ayakta-durdu-p364470",
+     "title": "İzzet Özilhan'dan kaza sonrası ilk görüntü: Yürüteçle ayakta durdu",
+     "snippet": "Yasemin Ergen'le 14 yıllık evliliğini noktalayan İzzet Özilhan, ciddi bir motosiklet kazasının ardından uzun süredir göz...",
+     "published": "2026-09-29T07:44:10.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/izzetozilhanjpg-_R751sh7DEq51Vz6RCVAgg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/izzetozilhanjpg-_R751sh7DEq51Vz6RCVAgg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/izzet-ozilhandan-kaza-sonrasi-ilk-goruntu-yurutecle-ayakta-durdujpg-2sbWZWMERkW7Gu92dYcy1Q.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abd0ec2d83705fac6d8f5afpng-ca-IqMipvEq7roNxTB9CCw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/buca-belediyesi-izmir-hacizjpg-9k7b8U6_yUaAxYE3viCZxQ.jpg?w=320&h=248&mode=crop&scale=both"
    ],
    "mediaDone": true
   },
@@ -6282,7 +6674,8 @@
     "این بازیگر درباره تصمیم خود برای فاصله گرفتن از این شبکه اجتماعی، ارزیابی طنزآمیزی داشت و به واکنش اطرافیان اشاره کرد. او تأکید کرد که این اقدام به معنای قهر کردن نبوده، بلکه تنها یک وقفه در رابطه با این پلتفرم است."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "mediaDone": true
   },
   {
    "id": "a1ff22105107",
@@ -6635,7 +7028,16 @@
     "این بازیگر در جریان انتشار این ویدیو، اعترافاتی درباره موضوع مادری و سختی‌های آن مطرح کرد و این فعالیت شبانه را برای خود مانند یک تراپی توصیف نمود. او همچنین به این نکته اشاره کرد که این وضعیت، واقعیت زندگی مادران شاغل است."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://iasbh.tmgrup.com.tr/ee308e/1200/675/0/59/549/368?u=https://isbh.tmgrup.com.tr/sbh/2026/09/28/kendi-annelerimiz-kadar-sacimizi-supurge-etmiyoruz-1790610576424.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/2016/10/20/60x60/1476970095697.jpg",
+    "https://iasbh.tmgrup.com.tr/a215b9/752/395/0/69/551/358?u=https://isbh.tmgrup.com.tr/sbh/2026/09/28/kendi-annelerimiz-kadar-sacimizi-supurge-etmiyoruz-1790610576424.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/2026/09/28/kendi-annelerimiz-kadar-sacimizi-supurge-etmiyoruz-1790610588084.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "a1559a0da358",
@@ -6722,7 +7124,16 @@
     "در این فضا که رنگ‌های صورتی در آن برجسته است، جزئیاتی نظیر کمد بزرگ، استخر توپ، اسباب‌بازی‌های مختلف و فضاهای ذخیره‌سازی به چشم می‌خورد."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/eda-ecejpg-lQcbsR5FaEWSR9pUYjyqKQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/eda-ecejpg-lQcbsR5FaEWSR9pUYjyqKQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abd0ec2d83705fac6d8f5afpng-ca-IqMipvEq7roNxTB9CCw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/buca-belediyesi-izmir-hacizjpg-9k7b8U6_yUaAxYE3viCZxQ.jpg?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abcf07bd83705fac6cdc54bpng-Mcr37Zt2R0OMV_iGR9J6Uw.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "8919cf4174b2",
@@ -6810,7 +7221,16 @@
     "این رویداد به سرعت در فضای مجازی و رسانه‌ها مورد توجه قرار گرفت و به عنوان یکی از موضوعات داغ روز مطرح شد، بدون آنکه جزئیات بیشتری درباره صحت این ادعاها یا واکنش رسمی از سوی افراد نام‌برده منتشر شود."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/helijpg-J8IDjqGFvkqEfisT6OwuQg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/helijpg-J8IDjqGFvkqEfisT6OwuQg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/surprizaskortayaciktioyuncuhelinkandemirve201370576552ampjpg-kO_UxHHHUUqReq4NVb0z2A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abd0ec2d83705fac6d8f5afpng-ca-IqMipvEq7roNxTB9CCw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/buca-belediyesi-izmir-hacizjpg-9k7b8U6_yUaAxYE3viCZxQ.jpg?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "410b4bd01ab7",
@@ -7285,7 +7705,16 @@
     "از سوی دیگر، راز بزرگی که حسن و افق از آن آگاه هستند در کنار ارتباط کارتال با آلیا، جذابیت و ابهامات داستان را دوچندان کرده است و هواداران منتظر تماشای این قسمت برای آشکار شدن این ابعاد هستند."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aba65541874a7559b2b812f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aba65541874a7559b2b812f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
+   ],
+   "mediaDone": true
   },
   {
    "id": "b8771a1e718b",
@@ -7886,7 +8315,16 @@
     ]
    },
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aba37ecdc369b79f544ef43.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aba37ecdc369b79f544ef43.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "ebc0767dbb73",
@@ -7924,7 +8362,16 @@
     "همزمان با این اتفاق، جزئیات مربوط به این پروژه نیز کم‌کم مشخص می‌شود. شرکت مدیایپم که پیش‌تر سریال «یاس ممنوعه» را تولید کرده بود، مسئولیت ساخت این مجموعه را بر عهده دارد و نویسندگان آن نیز ملیس جیولک و زینپ گور هستند."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/cansu-dere-4-yillik-hasretjpg-ZEcV5KTvYE_9YbU922I7MA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/cansu-dere-4-yillik-hasretjpg-ZEcV5KTvYE_9YbU922I7MA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abd0ec2d83705fac6d8f5afpng-ca-IqMipvEq7roNxTB9CCw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/buca-belediyesi-izmir-hacizjpg-9k7b8U6_yUaAxYE3viCZxQ.jpg?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abcfb8cd83705fac6d3e127png-osHgWZ8dY0WoaXisLPxlDQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "7e87cf34498e",
@@ -7966,7 +8413,16 @@
     "آراس با وجود اینکه در آستانه مرگ قرار داشت، نتوانست حقیقت را به برادرش بگوید، اما در عوض توانست ارتباط میان پنجره و دریچه حیاط را کشف کند و از این طریق به هویت قاتل سرهات پی ببرد."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aba2941dc369b79f544ee6f.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aba2941dc369b79f544ee6f.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "a025132a42e1",
@@ -8008,7 +8464,16 @@
     "در پایان این شب پرهیجان و پس از ارزیابی‌های دقیق سرآشپزان، یک نفر نتوانست به حضور خود ادامه دهد و ماجراجویی او در مسترشف به پایان رسید."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/masterchef-kim-elendi-27jpg-JQbflemDG0aErKH6oQyFLw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/masterchef-kim-elendi-27jpg-JQbflemDG0aErKH6oQyFLw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/masterchef-kim-elendi-recepjpg-UiQfHgC41kezjmhB2c4F4Q.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/nasterchef-recepppjpg-6ljiKzQD2kOWXJSjCKVSig.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/masterchef-recepppppjpg-qLCOJfbL2Eitt3rSkZIP7w.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "ab4c18ff2e79",
@@ -8099,7 +8564,16 @@
     "همچنین در این میان، اوستا عمور با پخش نخستین قسمت خود برای نخستین بار در مقابل مخاطبان قرار گرفت و میزان استقبال از آن مشخص شد."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/pazar-aksami-zirveyi-birakmiyor-merakla-beklenen-omur-ustanin-reytingi-de-belli-oldupng-7DrrCuSWlEyAFuPj8ztBSA.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/pazar-aksami-zirveyi-birakmiyor-merakla-beklenen-omur-ustanin-reytingi-de-belli-oldupng-7DrrCuSWlEyAFuPj8ztBSA.png?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abd0ec2d83705fac6d8f5afpng-ca-IqMipvEq7roNxTB9CCw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/buca-belediyesi-izmir-hacizjpg-9k7b8U6_yUaAxYE3viCZxQ.jpg?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abcfb8cd83705fac6d3e127png-osHgWZ8dY0WoaXisLPxlDQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "b2737b13018a",
@@ -8375,7 +8849,16 @@
     "او دوران سپری‌شده در کنار خانواده را بسیار ارزشمند توصیف کرده و دربارهٔ دلایل دوری طولانی‌مدتش از قاب تلویزیون توضیحاتی داد که مورد توجه قرار گرفت."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/507jpg-Aj3SFoqfEESHUCpKv7HsjA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/507jpg-Aj3SFoqfEESHUCpKv7HsjA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/tuzlu-kahve-yasemin-ergenejpg-E_kpyK1FNUSe-hfx4o5XWw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abd0ec2d83705fac6d8f5afpng-ca-IqMipvEq7roNxTB9CCw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/buca-belediyesi-izmir-hacizjpg-9k7b8U6_yUaAxYE3viCZxQ.jpg?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "6fd3d5284c97",
@@ -8738,7 +9221,16 @@
     "این سریال که به عنوان اثری نامزد جایزه امی شناخته می‌شود، توجه مخاطبان را به خود جلب کرده و اظهارات بازیگر آن پیرامون روند فصل جدید مورد توجه رسانه‌ها قرار گرفته است."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ab9f6c3c96d6fb64d9ee263.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ab9f6c3c96d6fb64d9ee263.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
+   ],
+   "mediaDone": true
   },
   {
    "id": "834b6f7620ec",
@@ -9043,7 +9535,16 @@
     "این بازیگر که در سریال به دلیل مرگ شاهین با فروپاشی احساسی نარე روبروست، اعلام کرد که از تغییرات شخصیتش رضایت کامل دارد و روند جدید نარე او را به شدت هیجان‌زده کرده است."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ab998f86f6f49e78899e724.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ab998f86f6f49e78899e724.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "07221ac34782",
@@ -9143,7 +9644,16 @@
     "داستان این مجموعه درباره آراس، نوجوانی هفده‌ساله است که برای یافتن تنها بازمانده خانواده‌اش یعنی برادرش که در پنج‌سالگی از دست داده بود، به بودروم سفر می‌کند. تقاطع مسیر زندگی او با خانواده آکایا، مبارزه‌ای دشوار را در زندگی‌اش رقم می‌زند."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ab98b31dd6978f9f3634b8f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ab98b31dd6978f9f3634b8f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
+   ],
+   "mediaDone": true
   },
   {
    "id": "4b4196151d4d",
@@ -9185,7 +9695,16 @@
     "این سریال که توسط پاستل فیلم ساخته می‌شود و در بودروم فیلم‌برداری می‌گردد، یکشنبه‌شب‌ها به کارگردانی امره کاباکوشاک و مراد آکسو روی آنتن می‌رود."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/daha-17ayrilikjpg-mUmCFjVQNkyRSG9YrH0P3Q.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/daha-17ayrilikjpg-mUmCFjVQNkyRSG9YrH0P3Q.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/daha-17-hakan-mericlilerjpg-XM2C2ScS00yUx5DOeXyqTQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abd0ec2d83705fac6d8f5afpng-ca-IqMipvEq7roNxTB9CCw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/buca-belediyesi-izmir-hacizjpg-9k7b8U6_yUaAxYE3viCZxQ.jpg?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "5aa0d4fcbfec",
@@ -9231,7 +9750,16 @@
     "با انتشار نتایج ریتینگ در گروه‌های مختلف Total، AB و ABC1، مشخص شدن صدرنشین این شب به یکی از موضوعات مورد توجه بینندگان تبدیل شد."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/dizi-reytinggjpg-SVhVeeJME0SnaPshhDBaRQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/dizi-reytinggjpg-SVhVeeJME0SnaPshhDBaRQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abd0ec2d83705fac6d8f5afpng-ca-IqMipvEq7roNxTB9CCw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/buca-belediyesi-izmir-hacizjpg-9k7b8U6_yUaAxYE3viCZxQ.jpg?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abcfb8cd83705fac6d3e127png-osHgWZ8dY0WoaXisLPxlDQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "964a9f3b8639",
@@ -9358,7 +9886,16 @@
     ]
    },
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ab8f9a8dc369b79f544e802.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ab8f9a8dc369b79f544e802.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "c84687b767d4",
@@ -9516,7 +10053,16 @@
     "در همین حال، سرحد تلاش می‌کند تا برای جلوگیری از وقوع یک فاجعه احتمالی، با زمان مسابقه بدهد و مانع از پیامدهای وخیم این رویارویی شود."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ab8e36cc96d6fb64d9ee032.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ab8e36cc96d6fb64d9ee032.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
+   ],
+   "mediaDone": true
   },
   {
    "id": "545c8a9a034e",
@@ -9674,7 +10220,16 @@
     "در این برنامه که با اجرای آردا تورکمن روی آنتن می‌رود، این بازیگر موفق وارد آشپزخانه می‌شود و تلاش می‌کند تا با پیروی کردن تنها از صدای تورکمن، دستور پخت داده شده را اجرا کند."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ab8ca85c96d6fb64d9edfef.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ab8ca85c96d6fb64d9edfef.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
+   ],
+   "mediaDone": true
   },
   {
    "id": "ddb8dd62e7af",
@@ -10149,7 +10704,16 @@
     "بر اساس اطلاعات موجود، این حواشی زمانی شکل گرفت که ادعا شد این بازیگر در دوران اقامت خود در آلمان هزینه‌های مربوط به جراحی‌های زیبایی را پرداخت نکرده و بدهکار شده است."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/biran-damsa-yiloazpng-_e9V7uxHP02_9ArFX58H2A.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/biran-damsa-yiloazpng-_e9V7uxHP02_9ArFX58H2A.png?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abd0ec2d83705fac6d8f5afpng-ca-IqMipvEq7roNxTB9CCw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/buca-belediyesi-izmir-hacizjpg-9k7b8U6_yUaAxYE3viCZxQ.jpg?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/habergorseli6abcf07bd83705fac6cdc54bpng-Mcr37Zt2R0OMV_iGR9J6Uw.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "55c357a36ff4",
@@ -10187,7 +10751,16 @@
     "این توافق‌ها شامل زمینه‌های گوناگونی از جمله میراث فرهنگی، باستان‌شناسی، هنرهای نمایشی و صنعت سینما می‌شود که پس از انجام گفتگوها میان دو طرف در شهر تاشکند صورت گرفته است."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/25/462279.jpeg",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/25/thumbs/1200x675/462279.jpg",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/images/menu_items/LkKGaG.jpg",
+    "https://idsb.tmgrup.com.tr/ly/theme_dailysabah/images/ds-tv.png",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/25/462279.jpeg?v=1790329734",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/03/20/thumbs/398x208/26198.jpg?v=1584695403"
+   ],
+   "mediaDone": true
   },
   {
    "id": "610c4245a894",
@@ -10225,7 +10798,16 @@
     "این برنامه تنها یک مراسم یادبود یک‌شبه نیست، بلکه این هنرمندان درگذشته قرار است با استفاده از فناوری هولوگرام سفری را در قالب یک تور جهانی آغاز کنند تا طرفدارانشان دوباره اجرای آن‌ها را روی صحنه ببینند."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "images": [
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/24/462095.jpg",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/24/thumbs/1200x675/462095.jpg",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/images/menu_items/LkKGaG.jpg",
+    "https://idsb.tmgrup.com.tr/ly/theme_dailysabah/images/ds-tv.png",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/24/thumbs/1200x675/462095.jpg?v=1790240246",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/03/20/thumbs/398x208/26198.jpg?v=1584695403"
+   ],
+   "mediaDone": true
   }
  ]
 }
