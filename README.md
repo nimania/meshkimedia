@@ -8,10 +8,13 @@ A Persian-first, automation-first reference for Turkish TV series: schedules, ep
 
 Full, open documentation lives in [`docs/`](./docs):
 
-- [Overview](./docs/OVERVIEW.md) — what this is and where to start
+- **[Handoff](./docs/HANDOFF.md) — start here (state, rules, repo map, traps)**
+- [Operations](./docs/OPERATIONS.md) — workflows, secrets, publishing, troubleshooting
+- [Overview](./docs/OVERVIEW.md) — what this is
 - [Architecture](./docs/ARCHITECTURE.md) — how the static site is built, page types, URLs, deploy
 - [Data model](./docs/DATA-MODEL.md) — JSON schemas, rating categories, how to add a series
 - [Contributing](./docs/CONTRIBUTING.md) — run locally and regenerate pages
+- [News pipeline](./docs/NEWS.md) · [Decisions](./docs/DECISIONS.md) · [Roadmap](./docs/ROADMAP.md)
 - [History & changelog](./docs/HISTORY.md)
 - [Sources](./docs/SOURCES.md) · [Automation](./docs/AUTOMATION.md)
 - [راهنمای فارسی](./docs/راهنما-fa.md) — Persian guide
@@ -29,6 +32,7 @@ Full, open documentation lives in [`docs/`](./docs):
 - Persian RTL homepage with Total / AB / ABC1 rating modes, a rolling 10-day window, category + network filters, and browse-by-network
 - Per-series profile pages (`/dizi/<slug>/`) with cast, episode recaps, and each episode's rating in all three modes
 - Per-episode profile pages (`/dizi/<slug>/bolum-<n>/`) with photo gallery, fragman link, summary, ratings, and prev/next navigation
+- News: Persian stories merged from several Turkish outlets (`/haber/`), with source comparison, outlet badges, and news tabs on series/actor/network pages
 - Per-network pages (`/kanal/<slug>/`) with an original network mark, the network's series, and its latest-day placements; plus a networks index (`/kanal/`)
 - D1 schema for series, episodes, ratings, recaps, sources, snapshots, and ingestion runs
 - R2-backed source snapshot ingestion endpoint
@@ -37,7 +41,7 @@ Full, open documentation lives in [`docs/`](./docs):
 
 ### Static GitHub Pages build (`github-pages/`)
 
-The public site is a data-driven static build. Content lives in three JSON files under `github-pages/data/`:
+The public site is a data-driven static build. Content lives in JSON files under `github-pages/data/` (the core three below; see [Data model](./docs/DATA-MODEL.md) for `people`, `works`, `calendar`, `news`, `bios`, `social-ratings`):
 
 - `networks.json` — networks, brand colors, and TİAK rating keys
 - `series.json` — series metadata, cast, seasons, and episodes (with photos and fragman)
