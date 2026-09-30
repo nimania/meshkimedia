@@ -62,7 +62,7 @@ const SITE_NAV = (root, active) => {
   return `<nav class="site-nav" aria-label="بخش‌ها">${items.map(([h, t]) => `<a href="${root}${h}"${active === h ? ' class="on"' : ""}>${t}</a>`).join("")}</nav>`;
 };
 
-function head(root, { title, desc, path, ogImage, jsonld, ogType = "website", version = "20260930news3" }) {
+function head(root, { title, desc, path, ogImage, jsonld, ogType = "website", version = "20260930news4" }) {
   const canonical = `${BASE}/${path}`;
   const img = ogImage ? (ogImage.startsWith("http") ? ogImage : BASE + ogImage) : BASE + LOGO;
   const ld = jsonld ? `\n<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : "";
@@ -114,7 +114,7 @@ function seriesPage(s) {
   const jsonld = { "@context": "https://schema.org", "@type": s.kind === "entertainment" ? "TVSeries" : "TVSeries", name: s.titleTr, alternateName: s.titleFa, url: `${BASE}/dizi/${s.slug}/`, inLanguage: "tr", genre: s.genre || [], countryOfOrigin: { "@type": "Country", name: "Turkey" } };
   if (img) jsonld.image = img;
   if (net) jsonld.productionCompany = net.name;
-  const h = head(root, { title: `${s.titleFa} (${s.titleTr}) | مشکی مدیا`, desc: (s.synopsis || `پروفایل، بازیگران و ری‌کپ قسمت‌های ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/`, ogImage: img, ogType: "video.tv_show", jsonld, version: "20260930news3" });
+  const h = head(root, { title: `${s.titleFa} (${s.titleTr}) | مشکی مدیا`, desc: (s.synopsis || `پروفایل، بازیگران و ری‌کپ قسمت‌های ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/`, ogImage: img, ogType: "video.tv_show", jsonld, version: "20260930news4" });
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}diziler/">سریال‌ها</a><span>/</span><span id="net-badge"></span></div>
@@ -132,7 +132,7 @@ function seriesPage(s) {
 <section id="eps" class="profile-section"><div class="section-headline"><div><span>قسمت‌ها</span><h2>ری‌کپ و ریتینگ قسمت‌ها</h2></div><small>Total · AB · ABC1</small></div><div id="episodes" class="episodes"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/#episodes`, "☰", "قسمت‌ها", true], [`dizi/${s.slug}/#cast`, "◉", "بازیگران"], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
-  return h + body + boot(root, { slug: s.slug }, ["rating-trends.js", "series-page.js", "gallery.js", "news.js"], "20260930news3");
+  return h + body + boot(root, { slug: s.slug }, ["rating-trends.js", "series-page.js", "gallery.js", "news.js"], "20260930news4");
 }
 
 // ---- Episode page ----------------------------------------------------------
@@ -172,7 +172,7 @@ function networkPage(net) {
 <section id="net-ratings-section" class="feed-section"><div class="feed-label"><span>در جدول اخیر (<span id="net-day-date"></span>)</span><i></i></div><div id="net-ratings"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["kanal/", "▦", "شبکه‌ها", true], ["diziler/", "☰", "سریال‌ها"], ["#net-series", "⌁", "ریتینگ"]])}`;
-  return h + body + boot(root, { slug: net.slug }, ["network-page.js", "news.js"], "20260930news3");
+  return h + body + boot(root, { slug: net.slug }, ["network-page.js", "news.js"], "20260930news4");
 }
 
 // ---- Actor page ------------------------------------------------------------
@@ -196,7 +196,7 @@ function actorPage(pr) {
 <section id="news" class="profile-section"><div class="section-headline"><div><span>اخبار</span><h2>آخرین خبرهای ${esc(disp)}</h2></div><a class="gallery-source" href="${root}haber/">همهٔ اخبار ↗</a></div><div id="actor-news" class="news-feed"><div class="notice">در حال بارگذاری اخبار…</div></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["oyuncular/", "◉", "بازیگران", true], ["diziler/", "☰", "سریال‌ها"], ["ara/", "⌕", "جستجو"]])}`;
-  return h + body + boot(root, { slug: pr.slug }, ["actor-page.js", "news.js"], "20260930news3");
+  return h + body + boot(root, { slug: pr.slug }, ["actor-page.js", "news.js"], "20260930news4");
 }
 
 // ---- Character page --------------------------------------------------------
@@ -390,7 +390,17 @@ ${cmp.unconfirmed?.length ? `<div class="cmp-block cmp-unconf"><h3>؟ تأیید
     author: { "@type": "Organization", name: "مشکی مدیا" }, publisher: { "@type": "Organization", name: "مشکی مدیا", logo: { "@type": "ImageObject", url: BASE + LOGO } } };
   if (item.image) jsonld.image = item.image;
   const h = head(root, { title: `${item.titleFa} | اخبار مشکی مدیا`, desc: lead.slice(0, 180), path: `haber/${item.id}/`, ogImage: item.image || undefined, ogType: "article", jsonld });
-  const video = item.video && /^[\w-]{11}$/.test(item.video.id) ? item.video.id : "";
+  // Media: hero + gallery, videos (click-to-load), and social-post preview cards.
+  const gallery = (item.images && item.images.length ? item.images : (item.image ? [item.image] : []));
+  const hero = gallery[0] || item.image || "";
+  const rest = gallery.slice(1);
+  const vids = (item.videos && item.videos.length ? item.videos : (item.video ? [item.video] : [])).filter((v) => v && v.provider && (v.id || v.url));
+  const VLABEL = { youtube: "یوتیوب", vimeo: "ویمیو", dailymotion: "دیلی‌موشن" };
+  const videosHtml = vids.length ? `<div class="news-videos">${vids.map((v, i) => `<button type="button" class="news-video-btn" data-vprovider="${esc(v.provider)}"${v.id ? ` data-vid="${esc(v.id)}"` : ""}${v.url ? ` data-vurl="${esc(v.url)}"` : ""}>▶ پخش ویدئو${vids.length > 1 ? ` ${nf.format(i + 1)}` : ""}${VLABEL[v.provider] ? ` · ${VLABEL[v.provider]}` : ""}</button>`).join("")}</div><div class="news-video" hidden></div>` : "";
+  const galleryHtml = rest.length ? `<section class="profile-section news-gallery-sec"><div class="section-headline"><div><span>تصاویر</span><h2>تصاویر بیشتر</h2></div></div><div class="news-gallery">${rest.map((u) => `<a class="ng-item" href="${esc(u)}" data-lightbox target="_blank" rel="noopener noreferrer"><img src="${esc(u)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.ng-item').remove()"></a>`).join("")}</div></section>` : "";
+  const EMETA = { instagram: { n: "اینستاگرام", c: "#E1306C" }, x: { n: "ایکس", c: "#111827" }, tiktok: { n: "تیک‌تاک", c: "#010101" } };
+  const embeds = item.embeds || [];
+  const embedsHtml = embeds.length ? `<section class="profile-section news-embeds-sec"><div class="section-headline"><div><span>شبکه‌های اجتماعی</span><h2>پست‌های مرتبط</h2></div></div><div class="news-embeds">${embeds.map((e) => { const m = EMETA[e.provider] || { n: "پست", c: "#333" }; return `<a class="embed-card" href="${esc(e.url)}" target="_blank" rel="noopener noreferrer nofollow"><span class="embed-badge" style="background:${m.c}">${esc(m.n)}</span><span class="embed-open">دیدن پست در ${esc(m.n)} ↗</span></a>`; }).join("")}</div></section>` : "";
   const ratingCards = relSeries.slice(0, 3).map((s) => {
     const r = latestRating(s);
     if (!r) return "";
@@ -408,13 +418,15 @@ ${cmp.unconfirmed?.length ? `<div class="cmp-block cmp-unconf"><h3>؟ تأیید
 <div class="news-meta"><span class="news-kind kind-${esc(item.kind)}">${KIND_FA[item.kind] || KIND_FA.media}</span><span>${srcs.length > 1 ? `${nf.format(srcs.length)} منبع` : esc(item.sourceName)}</span><time datetime="${esc(item.published)}">${esc(faDateLong.format(when))} · ${esc(faTime.format(when))}</time></div>
 <h1>${esc(item.titleFa)}</h1>
 </header>
-${item.image ? `<figure class="news-hero"><img src="${esc(item.image)}" alt="" referrerpolicy="no-referrer" loading="eager" onerror="this.parentElement.remove()"><figcaption>تصویر: ${esc(srcs[0]?.name || item.sourceName)}</figcaption></figure>` : ""}
+${hero ? `<figure class="news-hero"><img src="${esc(hero)}" alt="" referrerpolicy="no-referrer" loading="eager" onerror="this.parentElement.remove()"><figcaption>تصویر: ${esc(srcs[0]?.name || item.sourceName)}</figcaption></figure>` : ""}
 ${item.kind === "rumor" ? `<p class="news-warn">این مطلب تأییدنشده است و فقط گزارش یا ادعای رسانه‌ها را بازگو می‌کند.</p>` : ""}
 ${lead ? `<p class="news-lead">${esc(lead)}</p>` : ""}
 <div class="news-text">${item.bodyFa.filter((x) => x !== lead).map((x) => `<p>${esc(x)}</p>`).join("")}</div>
-${video ? `<div class="news-actions"><button type="button" class="news-video-btn" data-video="${video}">▶ پخش ویدئو</button></div><div class="news-video" hidden></div>` : ""}
-<p class="news-disclaimer">این صفحه خلاصه‌ای مستقل به فارسی از گزارش ${srcs.length > 1 ? "رسانه‌های زیر" : `«${esc(item.sourceName)}»`} است و با کمک هوش مصنوعی تهیه شده؛ ممکن است در ترجمه یا برداشت خطا داشته باشد. برای متن دقیق و تصاویر اصلی روی لوگوی منبع بزنید.</p>
+${videosHtml}
+<p class="news-disclaimer">این صفحه خلاصه‌ای مستقل به فارسی از گزارش ${srcs.length > 1 ? "رسانه‌های زیر" : `«${esc(item.sourceName)}»`} است و با کمک هوش مصنوعی تهیه شده؛ ممکن است در ترجمه یا برداشت خطا داشته باشد. تصاویر و ویدئوها از منابع خبری‌اند؛ برای متن و رسانهٔ کامل روی لوگوی منبع بزنید.</p>
 </article>
+${galleryHtml}
+${embedsHtml}
 ${compareHtml}
 ${sourcesHtml}
 ${ratingCards ? `<section class="profile-section"><div class="section-headline"><div><span>ریتینگ زنده</span><h2>سریال‌های این خبر در جدول تیاک</h2></div></div><div class="news-ratings">${ratingCards}</div></section>` : ""}
@@ -430,7 +442,7 @@ ${more.length ? `<section class="profile-section"><div class="section-headline">
 <div class="news-feed">${more.map((o) => `<article class="news-card kind-${esc(o.kind)}">${o.image ? `<a class="news-thumb" href="${root}haber/${o.id}/" tabindex="-1" aria-hidden="true"><img src="${esc(o.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></a>` : ""}<div class="news-body"><div class="news-meta"><span class="news-kind">${KIND_FA[o.kind] || KIND_FA.media}</span><span>${esc(o.sourceName)}</span></div><h3><a href="${root}haber/${o.id}/">${esc(o.titleFa)}</a></h3></div></article>`).join("")}</div></section>` : ""}
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["haber/", "✎", "اخبار", true], ["takvim/", "▤", "تقویم"]])}`;
-  return h + body + boot(root, {}, ["news.js"], "20260930news3");
+  return h + body + boot(root, {}, ["news.js"], "20260930news4");
 }
 
 // ---- News page -------------------------------------------------------------
@@ -445,7 +457,7 @@ function newsPage() {
 <p class="news-policy">خبرها از فید رسانه‌های ترکیه گردآوری می‌شوند؛ ما فقط عنوان، خلاصهٔ کوتاه و پیوند منبع را نشان می‌دهیم و متن کامل خبر در سایت منبع است. برچسب «شایعه / ادعا» یعنی خبر تأییدنشده. مطالب دربارهٔ سلامت، اتهام‌های جنایی و کودکان منتشر نمی‌شود.</p></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها"], ["haber/", "✎", "اخبار", true], ["takvim/", "▤", "تقویم"]])}`;
-  return h + body + boot(root, {}, ["news.js"], "20260930news3");
+  return h + body + boot(root, {}, ["news.js"], "20260930news4");
 }
 
 // list pages
@@ -466,7 +478,7 @@ for (const item of newsWithPage) {
 }
 // Light public feed for the browser (no article text): the full news.json stays the source of truth.
 // Only stories with a Persian headline are public.
-const feedItems = newsData.items.filter((i) => i.titleFa && /^https:\/\//.test(i.url || "")).slice(0, 400).map(({ snippet, bodyFa, aiTries, aiFailed, mergedIds, comparison, regen, sources, ...rest }) => ({
+const feedItems = newsData.items.filter((i) => i.titleFa && /^https:\/\//.test(i.url || "")).slice(0, 400).map(({ snippet, bodyFa, aiTries, aiFailed, mergedIds, comparison, regen, sources, images, videos, embeds, mediaDone, ...rest }) => ({
   ...rest, page: pageIds.has(rest.id),
   sources: (sources || []).map((x) => ({ source: x.source, name: x.name, url: x.url })),
 }));

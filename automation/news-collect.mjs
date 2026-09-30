@@ -51,6 +51,66 @@ export const canonicalUrl = (u) => {
 };
 const httpsOnly = (u) => { const c = canonicalUrl(u); return c.startsWith("https://") ? c : ""; };
 
+// ---- media extraction (gallery images, videos, social embeds) ---------------
+// Junk we never want in a gallery: logos, icons, avatars, share buttons, ads, tracking pixels.
+const IMG_JUNK = /(sprite|logo|avatar|icon|placeholder|blank|1x1|pixel|spacer|default|no-?image|noimage|share|whatsapp|facebook|twitter|telegram|instagram|advert|banner|adsystem|doubleclick|gravatar|emoji|flag)/i;
+const isRealImage = (u) => /^https:\/\//i.test(u) && !IMG_JUNK.test(u) &&
+  (/\.(jpe?g|png|webp|avif)(\?|$)/i.test(u) || /\/(uploads?|media|images?|photo|foto|resim|haber|content)\//i.test(u));
+// Collapse the same photo served at different sizes (…-640x360.jpg, ?w=800, …) into one.
+const imgKey = (u) => u.replace(/-\d{2,4}x\d{2,4}(?=\.\w{3,4}(?:$|\?))/i, "")
+  .replace(/([?&])(w|h|width|height|size|quality|q|resize|fit|crop)=[^&]*/gi, "$1").replace(/[?&]+/g, (m) => m[0]).replace(/[?&]+$/, "");
+export const dedupeImages = (arr, cap = 6) => {
+  const seen = new Set(); const out = [];
+  for (const raw of arr) { const u = httpsOnly(raw); if (!u || !isRealImage(u)) continue; const k = imgKey(u); if (seen.has(k)) continue; seen.add(k); out.push(u); if (out.length >= cap) break; }
+  return out;
+};
+const dedupeVideos = (arr, cap = 4) => {
+  const seen = new Set(); const out = [];
+  for (const v of arr) { if (!v || !v.provider) continue; const k = `${v.provider}:${v.id || httpsOnly(v.url)}`; if (k.endsWith(":") || seen.has(k)) continue; seen.add(k); out.push(v.id ? { provider: v.provider, id: v.id } : { provider: v.provider, url: httpsOnly(v.url) }); if (out.length >= cap) break; }
+  return out;
+};
+const dedupeEmbeds = (arr, cap = 4) => {
+  const seen = new Set(); const out = [];
+  for (const e of arr) { if (!e) continue; const u = httpsOnly(e.url); if (!u) continue; const k = u.split("?")[0]; if (seen.has(k)) continue; seen.add(k); out.push({ provider: e.provider, url: u }); if (out.length >= cap) break; }
+  return out;
+};
+export function extractImages(html) {
+  const imgs = [];
+  for (const m of html.matchAll(/<meta[^>]+(?:property|name)=["'](?:og:image(?::url)?|twitter:image(?::src)?)["'][^>]*>/gi)) { const u = (m[0].match(/content=["']([^"']+)["']/i) || [])[1]; if (u) imgs.push(decode(u)); }
+  for (const m of html.matchAll(/<img\b[^>]*>/gi)) {
+    const t = m[0];
+    const src = (t.match(/\b(?:data-src|data-original|data-lazy-src|data-lazy|src)=["']([^"']+)["']/i) || [])[1]
+      || ((t.match(/\bsrcset=["']([^"']+)["']/i) || [])[1] || "").split(",").pop()?.trim().split(/\s+/)[0];
+    if (src) imgs.push(decode(src));
+  }
+  return imgs;
+}
+export function extractVideos(html) {
+  const out = [];
+  for (const m of html.matchAll(/(?:youtube(?:-nocookie)?\.com\/(?:embed\/|watch\?v=|shorts\/)|youtu\.be\/)([\w-]{11})/gi)) out.push({ provider: "youtube", id: m[1] });
+  for (const m of html.matchAll(/(?:player\.)?vimeo\.com\/(?:video\/)?(\d{6,})/gi)) out.push({ provider: "vimeo", id: m[1] });
+  for (const m of html.matchAll(/dailymotion\.com\/(?:embed\/video|video)\/([a-z0-9]+)/gi)) out.push({ provider: "dailymotion", id: m[1] });
+  return out;
+}
+export function extractEmbeds(html) {
+  const out = [];
+  for (const m of html.matchAll(/https?:\/\/(?:www\.)?instagram\.com\/(?:p|reel|tv)\/[\w-]+\/?/gi)) out.push({ provider: "instagram", url: m[0] });
+  for (const m of html.matchAll(/https?:\/\/(?:www\.|mobile\.)?(?:twitter|x)\.com\/[A-Za-z0-9_]{1,20}\/status\/\d+/gi)) out.push({ provider: "x", url: m[0].replace(/^https?:\/\/(?:www\.|mobile\.)?(?:twitter|x)\.com/i, "https://x.com") });
+  for (const m of html.matchAll(/https?:\/\/(?:www\.)?tiktok\.com\/@[\w.]+\/video\/\d+/gi)) out.push({ provider: "tiktok", url: m[0] });
+  return out;
+}
+export const extractMedia = (html) => ({ images: extractImages(html), videos: extractVideos(html), embeds: extractEmbeds(html) });
+// Merge scraped media from an article's sources into the story item (kept small; only non-empty arrays stay).
+function attachMedia(item, fetched) {
+  const images = dedupeImages([item.image, ...(item.images || []), ...fetched.flatMap((f) => f.media.images)]);
+  const videos = dedupeVideos([item.video, ...(item.videos || []), ...fetched.flatMap((f) => f.media.videos)]);
+  const embeds = dedupeEmbeds([...(item.embeds || []), ...fetched.flatMap((f) => f.media.embeds)]);
+  if (images.length) { item.images = images; if (!item.image) item.image = images[0]; } else delete item.images;
+  if (videos.length) item.videos = videos; else delete item.videos;
+  if (embeds.length) item.embeds = embeds; else delete item.embeds;
+  item.mediaDone = true;
+}
+
 // ---- RSS / Atom parsing ----------------------------------------------------
 export function parseFeed(xml) {
   const blocks = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/gi) || [];
@@ -234,22 +294,22 @@ const MAX_AI = Number(process.env.NEWS_MAX_AI || 40);
 let keyIndex = 0;
 const nameFa = (kind, slug) => kind === "series" ? series[slug]?.titleFa : people[slug]?.nameFa;
 
-// The opening of the article, used only as source material for the model's own summary; it is never stored or shown.
-async function articleText(url) {
+// Fetches an article once: the opening text (source material for the model's summary, never stored) plus
+// its gallery images, videos and social-post links (these ARE stored and shown on the story page).
+const EMPTY_MEDIA = { images: [], videos: [], embeds: [] };
+async function fetchArticle(url) {
   try {
     const html = await getText(url, { timeout: 15000, headers: { accept: "text/html" } });
     const metaRe = /<meta[^>]+(?:property|name)=["'](?:og:description|description)["'][^>]*>/i;
     const tagm = html.match(metaRe)?.[0] || "";
     const desc = decode((tagm.match(/content=["']([^"']+)["']/i) || [])[1] || "");
     const paras = [...html.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)].map((m) => stripTags(m[1])).filter((p) => p.length > 70);
-    return `${desc}\n${paras.join("\n")}`.slice(0, 2600);
-  } catch { return ""; }
+    return { text: `${desc}\n${paras.join("\n")}`.slice(0, 2600), media: extractMedia(html) };
+  } catch { return { text: "", media: EMPTY_MEDIA }; }
 }
 
-async function summarize(item) {
-  let busy = 0;
+async function summarize(item, openings) {
   const srcs = item.sources.slice(0, 4);
-  const openings = await Promise.all(srcs.map((x) => articleText(x.url)));
   const glossary = [
     ...item.entities.series.map((s) => `${series[s]?.titleTr} = ${series[s]?.titleFa}`),
     ...item.entities.people.map((p) => `${people[p]?.name} = ${people[p]?.nameFa || ""}`),
@@ -310,8 +370,11 @@ if (keys.length) {
     .sort((a, b) => (RANK[a.scope] ?? 1) - (RANK[b.scope] ?? 1) || b.published.localeCompare(a.published));
   for (const item of queue) {
     if (budget-- <= 0) break;
+    // Fetch each source's article once, harvest its media, then reuse the text for the AI summary.
+    const fetched = await Promise.all(item.sources.slice(0, 4).map((x) => fetchArticle(x.url)));
+    attachMedia(item, fetched); // media persists even if the AI step below fails
     try {
-      const r = await summarize(item);
+      const r = await summarize(item, fetched.map((f) => f.text));
       if (r.sensitive === true) { item.drop = true; stats.aiDropped++; continue; }
       if (txt(r.titleFa, 1)) item.titleFa = txt(r.titleFa, 240);
       if (txt(r.summaryFa, 1)) item.summaryFa = txt(r.summaryFa, 420); else delete item.summaryFa;
@@ -332,6 +395,21 @@ if (keys.length) {
       if (/rate-limited/.test(e.message) || ++failStreak >= 3) break; // give up this run; the next one continues
     }
     await new Promise((r) => setTimeout(r, 400));
+  }
+}
+
+// ---- media backfill: fill gallery/video/embeds on existing pages that predate this feature -----
+// Runs with or without an AI key; capped per run so an hourly build stays fast, so old pages fill in gradually.
+if (!fixture) {
+  let mediaBudget = Number(process.env.NEWS_MAX_MEDIA || 25);
+  const need = pool.filter((i) => i.bodyFa && !i.mediaDone && !i.drop)
+    .sort((a, b) => b.published.localeCompare(a.published));
+  for (const item of need) {
+    if (mediaBudget-- <= 0) break;
+    const fetched = await Promise.all(item.sources.slice(0, 3).map((x) => fetchArticle(x.url)));
+    attachMedia(item, fetched);
+    if (item.images || item.videos || item.embeds) stats.mediaFilled = (stats.mediaFilled || 0) + 1;
+    await new Promise((r) => setTimeout(r, 250));
   }
 }
 

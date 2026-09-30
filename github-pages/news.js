@@ -105,12 +105,42 @@
       if (navigator.clipboard) navigator.clipboard.writeText(copy.dataset.copy).then(done, () => {}); else done();
       return;
     }
+    // Gallery lightbox: open a full-size image over the page.
+    const lb = e.target.closest("a[data-lightbox]");
+    if (lb && lb.getAttribute("href")) {
+      e.preventDefault();
+      let o = document.getElementById("mm-lightbox");
+      if (!o) {
+        o = document.createElement("div"); o.id = "mm-lightbox";
+        o.innerHTML = '<button type="button" class="mm-lb-close" aria-label="بستن">×</button><img alt="">';
+        document.body.appendChild(o);
+        const hide = () => { o.style.display = "none"; o.querySelector("img").removeAttribute("src"); };
+        o.addEventListener("click", (ev) => { if (ev.target === o || ev.target.classList.contains("mm-lb-close")) hide(); });
+        document.addEventListener("keydown", (ev) => { if (ev.key === "Escape") hide(); });
+      }
+      o.querySelector("img").src = lb.href; o.style.display = "flex";
+      return;
+    }
     const btn = e.target.closest(".news-video-btn");
     if (!btn) return;
-    const slot = btn.closest(".news-body, .news-article").querySelector(".news-video");
-    if (!slot.hidden) { slot.hidden = true; slot.innerHTML = ""; btn.textContent = "▶ پخش ویدئو"; return; }
-    slot.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${btn.dataset.video}?autoplay=1&rel=0" title="ویدئو" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe><a class="news-video-link" href="https://www.youtube.com/watch?v=${btn.dataset.video}" target="_blank" rel="noopener noreferrer">اگر ویدئو پخش نشد، در یوتیوب ببینید ↗</a>`;
-    slot.hidden = false;
+    const scope = btn.closest(".news-body, .news-article, article, main") || document;
+    const slot = scope.querySelector(".news-video") || document.querySelector(".news-video");
+    if (!slot) return;
+    // Provider + id/url (new markup); data-video is the old YouTube-only markup.
+    const provider = btn.dataset.vprovider || (btn.dataset.video ? "youtube" : "");
+    const id = btn.dataset.vid || btn.dataset.video || "";
+    const url = btn.dataset.vurl || "";
+    const EMB = {
+      youtube: (i) => [`https://www.youtube-nocookie.com/embed/${i}?autoplay=1&rel=0`, `https://www.youtube.com/watch?v=${i}`, "یوتیوب"],
+      vimeo: (i) => [`https://player.vimeo.com/video/${i}?autoplay=1`, `https://vimeo.com/${i}`, "ویمیو"],
+      dailymotion: (i) => [`https://www.dailymotion.com/embed/video/${i}?autoplay=1`, `https://www.dailymotion.com/video/${i}`, "دیلی‌موشن"],
+    };
+    if (!slot.hidden && slot.dataset.for === (id || url)) { slot.hidden = true; slot.innerHTML = ""; slot.removeAttribute("data-for"); btn.textContent = btn.dataset.label || "▶ پخش ویدئو"; return; }
+    if (!(provider in EMB) || !id) { if (url) window.open(url, "_blank", "noopener"); return; }
+    const [src, link, label] = EMB[provider](id);
+    slot.innerHTML = `<iframe src="${src}" title="ویدئو" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe><a class="news-video-link" href="${link}" target="_blank" rel="noopener noreferrer">اگر ویدئو پخش نشد، در ${label} ببینید ↗</a>`;
+    slot.hidden = false; slot.dataset.for = id || url;
+    if (!btn.dataset.label) btn.dataset.label = btn.textContent;
     btn.textContent = "بستن ویدئو";
   });
 
