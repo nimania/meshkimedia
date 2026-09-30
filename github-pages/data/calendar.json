@@ -2,7 +2,7 @@
   "source": {
     "name": "Dizilah",
     "url": "https://dizilah.com/calendar",
-    "checkedAt": "2026-09-29"
+    "checkedAt": "2026-10-01"
   },
   "shows": {
     "mehmed-fetihler-sultani": {
@@ -31,23 +31,6 @@
     }
   },
   "days": {
-    "2026-09-24": [
-      {
-        "slug": "gunesin-dogdugu-yer",
-        "season": 1,
-        "episode": 2
-      },
-      {
-        "slug": "muhtemel-ask",
-        "season": 1,
-        "episode": 15
-      },
-      {
-        "slug": "sevdigim-sensin",
-        "season": 2,
-        "episode": 3
-      }
-    ],
     "2026-09-25": [
       {
         "slug": "kizilcik-serbeti",
@@ -214,6 +197,33 @@
         "slug": "uzak-sehir",
         "season": 3,
         "episode": 4
+      }
+    ],
+    "2026-10-06": [
+      {
+        "slug": "abi",
+        "season": 2,
+        "episode": 5
+      },
+      {
+        "slug": "anne-yarisi",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "slug": "haysiyet",
+        "season": 1,
+        "episode": 5
+      },
+      {
+        "slug": "mehmed-fetihler-sultani",
+        "season": 4,
+        "episode": 4
+      },
+      {
+        "slug": "tuzlu-kahve",
+        "season": 1,
+        "episode": 6
       }
     ]
   }
