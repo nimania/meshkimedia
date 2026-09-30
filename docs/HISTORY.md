@@ -15,6 +15,11 @@ anyone picking up the project understands its intent and its data decisions.
 | 2026‑09‑18 | **Series profiles** — `feat: add Persian names and series profiles`. |
 | 2026‑09‑18 | **Episodes, networks, multi‑mode ratings** — `Add episode & network pages, multi-mode ratings (Total/AB/ABC1), 10-day window`: per‑episode pages with photos and trailers, per‑network pages + index with generated marks, browse‑by‑network, a Total/AB/ABC1 switcher, and a rolling 10‑day ratings window. The collector was rewritten to accumulate the window and to fold Turkish letters so program names match series keys. |
 | 2026‑09‑18 | **Rebrand → Meshki Media (مشکی مدیا)** — new name, logo, favicon, titles, metadata, README, workflow names, and public URLs (`nimania.github.io/meshkimedia`). Internal identifiers (`window.DiziMeter`, `dizimeter.js`) were intentionally left unchanged for stability. The GitHub repository was renamed `dizimeter → meshkimedia`. |
+| 2026‑09‑27/28 | **Ratings depth and social** — visual rating trends (#12), daily social cards (#15), collection of all three TİAK tables (#14), reviewed Instagram supplement (#26), a month of backfilled reports (#27), Jalali dates and episode carousels (#28), Search Console verification file. |
+| 2026‑09‑29 | **Casts and calendar** — official casts for most series (Persian names, role notes, `audit-cast`), continuous episode numbers with `firstEpisode` and `sync-episodes.mjs`, untracked Top 10 report, OZET/TKR/T.S row labels. |
+| 2026‑09‑29 | **News + bios** — RSS collector with entity linking, filters, Persian AI stories, Wikipedia bios, news page and news sections on series/actor/network pages, per-story pages, home strip. |
+| 2026‑09‑29/30 | **Merged stories** — duplicate reports from several outlets become one story with a source comparison and outlet badges; Gemini model auto-discovery after `gemini-2.5-flash` was retired; run-summary diagnostics. |
+| 2026‑09‑30 | **Documentation overhaul** — HANDOFF, OPERATIONS, DECISIONS, ROADMAP added; ARCHITECTURE, DATA-MODEL, NEWS, AUTOMATION rewritten. |
 
 ## Design decisions that persist
 

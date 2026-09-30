@@ -135,14 +135,14 @@ Notes:
 
 ## `ratings.json`
 
-A rolling window of the most recent days (newest first), each with the three
-category tables.
+A rolling window of the most recent days (newest first; up to `windowDays` = 120 are kept, the home page emphasises the last 10, trends use all),
+each with the three category tables.
 
 ```json
 {
   "updatedAt": "2026-09-17T20:35:33.123Z",
   "metric": "Rating %",
-  "windowDays": 10,
+  "windowDays": 120,
   "source": { "name": "TİAK", "url": "https://tiak.com.tr/" },
   "categories": {
     "total": { "key": "total", "label": "Total", "labelFa": "کل (۵+)", "audience": "5+ Yaş Tüm Kişiler" },
@@ -217,7 +217,40 @@ episodes that have no summary yet.
 - Network marks are **original typographic badges**, not the broadcasters’
   trademarked logos.
 
-## اخبار و بیوگرافی
+## `people.json` (actors)
 
-`data/news.json` و `data/bios.json` خودکار ساخته می‌شوند (جزئیات در `docs/NEWS.md`). شناسهٔ سریال و بازیگر در `entities` همان slug های
-`series.json` و `people.json` است؛ slug ناموجود هنگام جمع‌آوری حذف می‌شود.
+`slug → { name, nameFa, photo, bio?, source, socials? }`. `socials` = `{ instagram?, x? }` (https URLs). `bio` is an editorial Persian text and **always wins**
+over the Wikipedia bio in `bios.json`. Slugs are stable ASCII (`murat-unalmis`) and referenced by `series.cast[].personSlug`, `works.cast[].personSlug`
+and `news.entities.people`.
+
+## `calendar.json` (Dizilah broadcast calendar)
+
+```json
+{ "source": {"name":"Dizilah","url":"https://dizilah.com/calendar","checkedAt":"2026-09-29"},
+  "shows": { "daha-17": {"titleTr":"Daha 17","network":"kanal-d"} },
+  "days":  { "2026-09-24": [ {"slug":"muhtemel-ask","season":1,"episode":15} ] } }
+```
+
+Updated by pull requests titled "data: sync Dizilah calendar through <date>". `season`/`episode` count **inside the season**; `sync-episodes.mjs` converts them to
+the continuous number using `firstEpisode` (see above). Shows not in `series.json` are ignored.
+
+## `social-ratings.json` (reviewed Instagram supplement)
+
+Built by `automation/build-social-ratings.mjs` from the hand-reviewed `automation/reviewed-social-ratings.json`. Entry:
+`{date "DD.MM.YYYY", slug, program, network, season, episode, categories:{total|ab|abc1:{rank,rating,share}}, source:{name:"Dizilah", url:"https://www.instagram.com/p/…/"}}`.
+The builder throws on malformed entries. It never overrides TİAK.
+
+## `news.json` and `news-feed.json`
+
+`news.json` is the collector's archive (stories with `sources[]`, `mergedIds`, `titleFa`, `summaryFa`, `bodyFa[]`, `comparison`, entity slugs). The public
+`data/news-feed.json` is generated from it. Full field list, retention and invariants: [NEWS.md](./NEWS.md) §7–§8. **Do not hand-edit** `news.json` except to
+remove a bad story; `entities` slugs must exist in `series.json` / `people.json` / `networks.json` (pruned automatically).
+
+## `bios.json`
+
+`slug (people.json key) → { lang, text, source{name,url,license}, fa?{text,source,machine?}, fetchedAt, manual?, notFound? }`. `notFound: true` entries are retried
+after 14 days; `manual: true` entries are never overwritten. See [NEWS.md](./NEWS.md) §9.
+
+## Generated files (never edit)
+
+`data/search-index.json` (array of `{t, titleFa, titleTr, sub, url}`), `data/news-feed.json`, `sitemap.xml`, `robots.txt`, all HTML pages, `images/networks/*.svg`.

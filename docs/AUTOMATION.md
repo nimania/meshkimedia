@@ -1,12 +1,12 @@
 # Automation architecture
 
-## What runs today on GitHub Pages
+## What runs today
 
-The Pages workflow refreshes public TİAK ratings every two hours. It rebuilds
-pages from `github-pages/data/series.json`, but does not discover new episodes,
-write Persian summaries, or collect gallery photos. The separate collector
-workflow sends snapshots to an optional ingest service and does not update the
-GitHub Pages content file.
+The production pipeline is **`pages.yml`** (GitHub Actions): TİAK ratings → calendar episode sync → news + Gemini → Wikipedia bios → static build → social cards →
+quality gates → deploy → persist data to `main`. Schedule: 10:47/11:47/12:47 Tehran and every 6 hours, plus every push. Full step list, secrets and
+troubleshooting: [OPERATIONS.md](./OPERATIONS.md). News details: [NEWS.md](./NEWS.md). What the pipeline does **not** do: discover new episodes automatically, write recaps, or
+collect episode gallery photos — those remain editorial work fed by the queue below. The separate `collector.yml` (snapshots to an optional D1/R2 ingest service) is disabled
+and does not touch the public data.
 
 `Daily editorial queue` runs once per day and on demand. Its job summary and
 downloadable artifact list incomplete profiles and registered episodes, plus
@@ -33,7 +33,7 @@ publish a future episode's trailer as an aired recap.
 
 The Persian drafting stage needs a separately configured language-model API and
 an explicit budget. GitHub Models' inference API was retired in July 2026; the
-GitHub Actions token cannot be treated as a free replacement for that service.
+GitHub Actions token cannot be treated as a free replacement for that service. (News uses the owner's own Gemini key in `AI_API_KEY`; recap drafting is not automated.)
 Do not put provider keys in source files or workflow logs.
 
 ## Pipeline

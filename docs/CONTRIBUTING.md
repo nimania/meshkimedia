@@ -5,7 +5,7 @@ features — are welcome.
 
 ## Requirements
 
-- Node.js 20+ (the generator and collector are plain ES modules; no dependencies
+- Node.js 22 (what CI uses; 20+ works for the static build) (the generator and collector are plain ES modules; no dependencies
   are required to build the static site).
 - Any static web server for local preview (the pages `fetch` JSON, so `file://`
   will not work).
@@ -33,6 +33,9 @@ python3 -m http.server 8080
 | Add a channel | Edit `github-pages/data/networks.json`, then regenerate |
 | Add a rating day | Edit `github-pages/data/ratings.json` (or let the collector append Total) |
 | Change page layout | Edit the template in `automation/build-site.mjs` and/or the page script, then regenerate |
+| Add / fix a news feed or filter | Edit `automation/news-sources.json` ([NEWS.md](./NEWS.md)) |
+| Test news without the network | `node automation/news-collect.mjs --fixture=fx.json --now=…` ([OPERATIONS.md](./OPERATIONS.md) §7) |
+| Check quality gates | `npm run content:check`, `npm run cast:check` |
 | Change styling | Edit `github-pages/styles.css` (design tokens live in `:root`) |
 
 Full schema and the “add a series” walkthrough: [`DATA-MODEL.md`](./DATA-MODEL.md).
@@ -59,5 +62,5 @@ Full schema and the “add a series” walkthrough: [`DATA-MODEL.md`](./DATA-MOD
 ## Deploy
 
 Pushing to `main` triggers `.github/workflows/pages.yml`, which refreshes ratings,
-regenerates the pages, and deploys to GitHub Pages at
+collects news/bios, regenerates the pages, and deploys to GitHub Pages at
 `https://nimania.github.io/meshkimedia/`.
