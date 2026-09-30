@@ -20,10 +20,11 @@ on:
       - "automation/news-sources.json"
       - ".github/workflows/pages.yml"
   schedule:
-    # 10:47, 11:47 and 12:47 Tehran; public report availability can vary.
-    - cron: "17 7-9 * * *"
-    # Later checks cover publication delays and missed scheduled runs.
-    - cron: "17 */6 * * *"
+    # Hourly: fetch fresh news + actor bios + media backfill and post new stories to Telegram every hour (at :17).
+    # The build is incremental (cached DB, per-run AI budget) and the concurrency group below prevents overlap.
+    - cron: "17 * * * *"
+    # A denser TİAK ratings sweep late morning Tehran, when official reports land.
+    - cron: "5,35 7-9 * * *"
   workflow_dispatch:
 
 permissions:
@@ -74,6 +75,15 @@ jobs:
         continue-on-error: true
       - name: Regenerate static pages from data
         run: node automation/build-site.mjs
+      # Posts each new story (photo + title + summary + link) to the Telegram channel.
+      # Needs the TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT secrets; without them it does nothing.
+      - name: Post new stories to Telegram
+        id: telegram
+        run: node automation/news-telegram.mjs
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+        continue-on-error: true
       - name: Publish reviewed Instagram rating supplement
         run: node automation/build-social-ratings.mjs
       - name: Create daily social rating cards
@@ -165,7 +175,7 @@ jobs:
       - name: Persist news and bios to main
         if: ${{ !cancelled() && (steps.news.outcome == 'success' || steps.bios.outcome == 'success') }}
         run: |
-          files="github-pages/data/news.json github-pages/data/bios.json"
+          files="github-pages/data/news.json github-pages/data/bios.json github-pages/data/telegram-posted.json"
           if git diff --quiet HEAD -- $files; then
             echo "News and bios unchanged; nothing to persist."
             exit 0
