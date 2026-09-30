@@ -1,6 +1,44 @@
 {
- "updated": "2026-09-30T05:23:36.713Z",
+ "updated": "2026-09-30T05:35:02.073Z",
  "items": [
+  {
+   "id": "71a74389eb77",
+   "url": "https://www.sozcu.com.tr/icardi-futbola-ara-verdi-avci-oldu-33-yasinda-hayati-tamamen-degisti-p364714",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Icardi futbola ara verdi, avcı oldu: 33 yaşında hayatı tamamen değişti",
+   "snippet": "Galatasaray'daki son sezonunun ardından yeni sezonda herhangi bir kulüple sözleşme imzalamayan Mauro Icardi, Arjantin'de...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/icardiijpg-zH6fCIKGKE_mehtbcVSTTg.jpg",
+   "video": null,
+   "published": "2026-09-30T05:30:35.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/icardi-futbola-ara-verdi-avci-oldu-33-yasinda-hayati-tamamen-degisti-p364714",
+     "title": "Icardi futbola ara verdi, avcı oldu: 33 yaşında hayatı tamamen değişti",
+     "snippet": "Galatasaray'daki son sezonunun ardından yeni sezonda herhangi bir kulüple sözleşme imzalamayan Mauro Icardi, Arjantin'de...",
+     "published": "2026-09-30T05:30:35.000Z",
+     "titleFa": "ایکاردی فوتبال را کنار گذاشت و شکارچی شد: زندگی‌اش در ۳۳ سالگی کاملاً تغییر کرد"
+    }
+   ],
+   "titleFa": "مauro ايكاردی فوتبال را رها کرد و به آرژانتین بازگشت",
+   "summaryFa": "مائورو ایکاردی پس از جدایی از گاتاسرای و عدم امضای قرارداد با باشگاهی جدید، در ۳۳ سالگی به آرژانتین رفته است. او زندگی دور از چشم عموم را در کنار شریک زندگی خود آغاز کرده و به فعالیت جدیدی روی آورده است.",
+   "bodyFa": [
+    "مائورو ایکاردی، بازیکن ۳۳ ساله فوتبال، پس از آخرین فصل حضور خود در گاتاسرای، در فصل جدید با هیچ باشگاهی قرارداد امضا نکرده و به فعالیت در فوتبال استراحت داده است.",
+    "او پس از جدایی از تیم خود و نداشتن پیشنهاد مناسب، به آرژانتین بازگشته و در منطقه پیلار در بوئنوس آیرس زندگی آرام و دور از توجه عموم را در کنار شریک زندگی‌اش، چاینا سوارز، در پیش گرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "dd8f58c83ffa",
    "url": "https://www.haberturk.com/magazin/levent-ozdilek-bir-muzikal-yaziyorum-3916053",
@@ -601,7 +639,7 @@
    "video": null,
    "published": "2026-09-30T04:00:00.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -614,9 +652,18 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/sabancidan-dugun-mujdesi-43323907",
      "title": "Sabancı'dan düğün müjdesi",
      "snippet": "Akbank Yönetim Kurulu Başkanı Suzan Sabancı evlilik hazırlığı yapan oğlu Haluk Dinçer hakkında konuştu.",
-     "published": "2026-09-30T04:00:00.000Z"
+     "published": "2026-09-30T04:00:00.000Z",
+     "titleFa": "مژده ازدواج از سوی صابانچی"
     }
-   ]
+   ],
+   "titleFa": "سuzان صابانچی درباره ازدواج پسرش صحبت کرد",
+   "summaryFa": "سوزان صابانچی، رئیس هیئت مدیره آک‌بانک، درباره آمادگی‌های ازدواج پسرش هالوک دینچر اظهاراتی داشت.",
+   "bodyFa": [
+    "سوزان صابانچی، رئیس هیئت مدیره آک‌بانک، اخیراً درباره پسرش هالوک دینچر که در تدارک ازدواج است، سخن گفت.",
+    "این خبر به آمادگی‌های ازدواج هالوک دینچر و اظهارات مادرش در این خصوص اشاره دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ddab5243fc9f",
@@ -643,9 +690,17 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/servet-gosterilmez-yonetilir-43323984",
      "title": "Servet gösterilmez yönetilir",
      "snippet": "Nefes çalışmalarıyla tanınan Nevşah Fidan Karamehmet, şimdilerde girişim ve yatırımlarıyla adından söz ettiriyor.",
-     "published": "2026-09-30T04:00:00.000Z"
+     "published": "2026-09-30T04:00:00.000Z",
+     "titleFa": "ثروت نمایش داده نمی‌شود مدیریت می‌شود"
     }
-   ]
+   ],
+   "titleFa": "ثروت نمایش داده نمی‌شود، بلکه مدیریت می‌شود",
+   "summaryFa": "نوشاه فیدان کارامهمت که با تمرینات تنفسی شناخته می‌شود، این روزها با فعالیت‌ها و سرمایه‌گذاری‌های خود توجه‌ها را به خود جلب کرده است.",
+   "bodyFa": [
+    "نوشاه فیدان کارامهمت که به واسطه فعالیت‌ها و تمرینات تنفسی خود در جامعه شناخته شده است، اخیراً به دلیل اقدامات کارآفرینی و سرمایه‌گذاری‌های جدیدش نام خود را بر سر زبان‌ها انداخته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8f1e3b37a14b",
@@ -672,9 +727,18 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/teklif-geldi-43323987",
      "title": "Teklif geldi",
      "snippet": "Aslı Turanlı, bir süredir birlikte olduğu işadamı Taha Tatlıcı’yla ilişkisini nikâh masasına taşımaya hazırlanıyor.",
-     "published": "2026-09-30T04:00:00.000Z"
+     "published": "2026-09-30T04:00:00.000Z",
+     "titleFa": "پیشنهاد رسید"
     }
-   ]
+   ],
+   "titleFa": "پیشنهاد ازدواج و آمادگی برای ازدواج اصلی تورانلی",
+   "summaryFa": "اصلی تورانلی قصد دارد رابطه خود با تاها تاتلیجی را به ازدواج برساند.",
+   "bodyFa": [
+    "اصلی تورانلی که مدتی است با تاها تاتلیجی، تاجر سرشناس، در رابطه است، اکنون خود را آماده می‌کند تا این رابطه را به مرحله ازدواج برساند.",
+    "جزئیات بیشتری درباره زمان و مکان این مراسم یا جزئیات این تصمیم در گزارش ذکر نشده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5856d99ab25c",
@@ -688,7 +752,7 @@
    "video": null,
    "published": "2026-09-30T04:00:00.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -701,9 +765,17 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/padel-bulusmasi-43324002",
      "title": "Padel buluşması",
      "snippet": "Tektaş Saatçilik, 26-27 Eylül’de İstanbul’un seçkin yaşam ve spor destinasyonlarından Kemer Country Club’da düzenlediği özel padel etkinliğiyle spor ve şık yaşam tutkunlarını bir araya getirdi.",
-     "published": "2026-09-30T04:00:00.000Z"
+     "published": "2026-09-30T04:00:00.000Z",
+     "titleFa": "ملاقات پدل"
     }
-   ]
+   ],
+   "titleFa": "برگزاری رویداد پدل توسط تکتاش ساعتچلیک در استانبول",
+   "summaryFa": "شرکت تکتاش ساعتچلیک رویداد ویژه پدل را در تاریخ ۲۶ تا ۲۷ سپتامبر در کَمِر کانتری کلاب استانبول برگزار کرد. این برنامه با هدف گرد هم آوردن علاقه مندان به ورزش و سبک زندگی شیک تدارک دیده شده بود.",
+   "bodyFa": [
+    "شرکت تکتاش ساعتچلیک در روزهای ۲۶ تا ۲۷ سپتامبر میزبان یک رویداد اختصاصی پدل در کَمِر کانتری کلاب، یکی از مکان‌های ورزشی و مسکونی منتخب استانبول، بود. این برنامه توانست طرفداران ورزش و زندگی شیک را در کنار یکدیگر جمع کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "99ba3d009771",
@@ -1097,35 +1169,6 @@
    "aiTries": 1
   },
   {
-   "id": "25d96a61c186",
-   "url": "https://www.milliyet.com.tr/magazin/usta-oyuncu-ali-hurol-hayatini-kaybetti-melek-baykaldan-duygusal-veda-7669972",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Usta oyuncu Ali Hürol hayatını kaybetti! Melek Baykal'dan duygusal veda",
-   "snippet": "HABER MERKEZİ - \"Aşkına Eşkıya”, “Sıla”, “Gökten Üç Elma Düştü” ve “Sağır Oda” gibi yapımlarda yer alan oyuncu Ali Hürol, 76 yaşında vefat etti. Sağlık sorunları ve kalp rahatsızlığı olduğu bilinen usta oyuncunun vefatını, 2021 yılında hayatını kaybeden sanatçı Sezai Aydın’ın oğlu Arda Aydın sosyal medya hesabından duyurdu. Survivor aşıkları anne baba oldu! Sude Burcu paylaştı: İşte minik kızları Mira'dan yeni kareler ''ÜSTÜMDE ÇOK EMEĞİ VAR'' Arda Aydın, Ali Hürol için yaptığı paylaşımda usta o",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abbe5a5ed0288e6d3ecc10d.jpg",
-   "video": null,
-   "published": "2026-09-29T16:22:01.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/usta-oyuncu-ali-hurol-hayatini-kaybetti-melek-baykaldan-duygusal-veda-7669972",
-     "title": "Usta oyuncu Ali Hürol hayatını kaybetti! Melek Baykal'dan duygusal veda",
-     "snippet": "HABER MERKEZİ - \"Aşkına Eşkıya”, “Sıla”, “Gökten Üç Elma Düştü” ve “Sağır Oda” gibi yapımlarda yer alan oyuncu Ali Hürol, 76 yaşında vefat etti. Sağlık sorunları ve kalp rahatsızlığı olduğu bilinen usta oyuncunun vefatını, 2021 yılında hayatını kaybeden sanatçı Sezai Aydın’ın oğlu Arda Aydın sosyal ",
-     "published": "2026-09-29T16:22:01.000Z"
-    }
-   ]
-  },
-  {
    "id": "58bc7b586241",
    "url": "https://www.sabah.com.tr/magazin/235-yil-sonra-sahnede-7670301",
    "source": "sabah-magazin",
@@ -1150,9 +1193,18 @@
      "url": "https://www.sabah.com.tr/magazin/235-yil-sonra-sahnede-7670301",
      "title": "235 yıl sonra sahnede",
      "snippet": "Klasik müzik tarihinin en önemli bestecilerinden Wolfgang Amadeus Mozart, ölümünün üzerinden 235 yıl geçmesine rağmen eserleriyle yaşamaya devam ediyor. Mozart'ın hayatı, sanatı ve iç dünyası teknoloji... Devamı için tıklayınız",
-     "published": "2026-09-29T15:54:37.000Z"
+     "published": "2026-09-29T15:54:37.000Z",
+     "titleFa": "۲۳۵ سال بعد روی صحنه"
     }
-   ]
+   ],
+   "titleFa": "اجرای نمایش هولوگرام موتزارت ۲۳۵ سال پس از مرگش روی صحنه",
+   "summaryFa": "زندگی و آثار ولفگانگ آمادوس موتزارت با استفاده از فناوری و در قالب یک نمایش هولوگرامی در بی‌اوغلو به روی صحنه رفت.",
+   "bodyFa": [
+    "ولفگانگ آمادوس موتزارت، یکی از مهم‌ترین آهنگسازان تاریخ موسیقی کلاسیک، با وجود گذشت ۲۳۵ سال از درگذشتش همچنان با آثار خود زنده است. در اقدامی نوآورانه، زندگی، هنر و دنیای درونی این هنرمند به کمک فناوری بازسازی شده و به صحنه بازگشته است.",
+    "این برنامه که با عنوان «تجربه هولوگرام آمادوس موتزارت» شناخته می‌شود، در منطقه بی‌اوغلو اجرا شده و به علاقه‌مندان اجازه می‌دهد تا با ابعاد تازه‌ای از زندگی این آهنگساز بزرگ آشنا شوند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3817609f4eab",
@@ -1179,9 +1231,18 @@
      "url": "https://www.sabah.com.tr/magazin/tum-turkiye-atv-izledi-7670300",
      "title": "Tüm Türkiye ATV izledi",
      "snippet": "A Milli Takım'ın UEFA Avrupa Uluslar Ligi'ndeki karşılaşmaları futbolseverlerle atv ekranlarında buluşmaya devam ediyor. A Millî Takımımız, önceki akşam İtalya ile karşı karşıya geldi. atv'den naklen yayınlanan... Devamı için tıklayınız",
-     "published": "2026-09-29T15:54:00.000Z"
+     "published": "2026-09-29T15:54:00.000Z",
+     "titleFa": "تمام ترکیه پای تماشای ATV نشستند"
     }
-   ]
+   ],
+   "titleFa": "پخش مسابقه تیم ملی فوتبال در شبکه ATV و صدرنشینی آن",
+   "summaryFa": "مسابقه تیم ملی فوتبال ترکیه با ایتالیا که از شبکه ATV پخش شد، در سه رده‌بندی مختلف رتبه اول را کسب کرد.",
+   "bodyFa": [
+    "مسابقات تیم ملی فوتبال ترکیه در رقابت‌های لیگ ملت‌های اروپا همچنان از طریق شبکه ATV برای هواداران فوتبال پخش می‌شود. تیم ملی کشورمان در همین راستا، در شب‌های گذشته به مصاف تیم ملی ایتالیا رفت.",
+    "این مسابقه که به صورت زنده از شبکه ATV پخش می‌گردد، توانեց در رده‌بندی‌های مختلف شامل تمامی افراد، گروه AB و گروه +20 ABC1 در صدر جدول قرار گیرد و رتبه نخست را به خود اختصاص دهد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "551ec9ca0ae3",
@@ -1208,9 +1269,18 @@
      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/hakan-uc/2026/09/30/kapi-gicirtisinin-bile-telifi-var",
      "title": "Kapı gıcırtısının bile telifi var!",
      "snippet": "Yapay zekâ önce şarkılara, sonra seslere girdi. Şimdi sıra kapı gıcırtısına, ayak sesine, yağmura, motor sesine geldi. Ses tasarımcıları ve dünyanın önemli efekt kütüphaneleri birleşti: \"Bizim ürettiğimiz... Devamı için tıklayınız",
-     "published": "2026-09-29T15:52:00.000Z"
+     "published": "2026-09-29T15:52:00.000Z",
+     "titleFa": "حتی صدای جیر جیر در هم حق نشر دارد!"
     }
-   ]
+   ],
+   "titleFa": "حق نشر برای صداهای محیطی و مصنوعی با هوش مصنوعی",
+   "summaryFa": "هوش مصنوعی پس از ورود به حوزه آهنگ‌ها و صداها، اکنون به سراغ صداهای محیطی مانند جیغ در و صدای موتور رفته است. طراحان صدا و کتابخانه‌های مهم افکت در جهان اعلام کرده‌اند که از صداهای تولید شده توسط آن‌ها نمی‌توان بدون اجازه استفاده کرد.",
+   "bodyFa": [
+    "هوش مصنوعی ابتدا در زمینه آهنگ‌ها و صداها ظاهر شد و اکنون به صداهای محیطی و روزمره مانند جیغ در، صدای پا، باران و صدای موتور رسیده است.",
+    "طراحان صدا و کتابخانه‌های مهم افکت در جهان با یکدیگر متحد شده و اعلام کرده‌اند که امکان استفاده بدون مجوز از صداهای تولید شده توسط آن‌ها وجود ندارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d48ba3514c8a",
@@ -1237,9 +1307,18 @@
      "url": "https://www.sabah.com.tr/magazin/mazhar-alanson-yeni-projelerini-anlatti-best-of-albumu-yapacagim-7670296",
      "title": "Mazhar Alanson yeni projelerini anlattı: 'Best of albümü yapacağım'",
      "snippet": "MFÖ grubu üyesi usta sanatçı Mazhar Alanson, 'Irmak Arıcı ile Dünden Bugüne'ye konuk oldu. Yapımcılığını Murat Işılak üstlendiği programda Arıcı'nın sorularını yanıtlayan sanatçı, müzikal üretim sürecinin... Devamı için tıklayınız",
-     "published": "2026-09-29T15:49:37.000Z"
+     "published": "2026-09-29T15:49:37.000Z",
+     "titleFa": "مظهار آلانسون از پروژه‌های جدید خود گفت: آلبوم «بهترین‌ها» را خواهم ساخت"
     }
-   ]
+   ],
+   "titleFa": "مظهار آلانسون از پروژه‌های جدید خود گفت: آلبوم «بهترین‌ها» را خواهم ساخت",
+   "summaryFa": "مظهار آلانسون، هنرمند پیشکسوت و عضو گروه MFÖ، مهمان برنامه «از گذشته تا امروز با ایرماک آریجی» شد. او در این برنامه به سوالات پاسخ داد و از ادامه روند تولیدات موسیقایی خود خبر داد.",
+   "bodyFa": [
+    "مظهار آلانسون، هنرمند پیشکسوت و عضو گروه معروف MFÖ، اخیراً به عنوان مهمان در برنامه «از گذشته تا امروز با ایرماک آریجی» حضور یافت. این برنامه به تهیه‌کنندگی مراد ایشیلاک تولید شده است.",
+    "در جریان این برنامه، آلانسون به سوالات ایرماک آریجی پاسخ داد و درباره روند تولیدات موسیقایی خود صحبت کرد. او تاکید کرد که با وجود سن و سالش، هیچ‌یک از ویژگی‌های تولیدی و خلاقانه خود را از دست نداده و همچنان به فعالیت‌های هنری‌اش ادامه می‌دهد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d31abfbc8bda",
@@ -1266,9 +1345,18 @@
      "url": "https://www.sabah.com.tr/magazin/yildizlar-istanbul-ve-ankara-sahnelerinde-7670295",
      "title": "Yıldızlar İstanbul ve Ankara sahnelerinde",
      "snippet": "Eğlence dünyası bahar ayı boyunca hereketli! Günay bu sezonki programı kapsamında Ankara'da 3 Ekim'de Ebru Yaşar, 10 Ekim'de Özcan Deniz konser verecek. İstanbul sahnesinde ise 10 Ekim'de Ebru Yaşar, 16... Devamı için tıklayınız",
-     "published": "2026-09-29T15:48:42.000Z"
+     "published": "2026-09-29T15:48:42.000Z",
+     "titleFa": "ستارگان روی صحنه های استانبول و آنکارا"
     }
-   ]
+   ],
+   "titleFa": "اجرای کنسرت‌های هنرمندان در استانبول و آنکارا",
+   "summaryFa": "دنیای سرگرمی در فصل بهار با برنامه‌های متنوعی در آنکارا و استانبول فعال است. هنرمندان مختلفی در این فصل روی صحنه خواهند رفت.",
+   "bodyFa": [
+    "دنیای سرگرمی در فصل بهار با برنامه‌های پرانرژی و متنوعی همراه است و سالن‌های مختلف میزبان هنرمندان سرشناس خواهند بود. طبق برنامه‌اعلام‌شده برای این فصل، آنکارا و استانبول شاهد اجرای کنسرت‌های متعددی خواهند بود.",
+    "در شهر آنکارا، ابرو یاشار در تاریخ ۳ اکتبر و اوزجان دنیز در تاریخ ۱۰ اکتبر به روی صحنه خواهند رفت. همچنین در شهر استانبول، برنامه‌های متنوعی تدارک دیده شده است؛ به طوری که ابرو یاشار در ۱۰ اکتبر، برکای در ۱۶ اکتبر، امره در ۱۷ اکتبر و مورات بوز در ۲۴ اکتبر به اجرای برنامه خواهند پرداخت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1c2935f2078e",
@@ -1295,9 +1383,18 @@
      "url": "https://www.sabah.com.tr/magazin/unluler-mersinde-yaristi-7670293",
      "title": "Ünlüler Mersin’de yarıştı",
      "snippet": "Ünlü isimler geçtiğimiz günlerde Mersin'de eğlence dolu günler geçirdi. BN Equinox Weekend adlı etkinliğe ilgi büyük oldu. Müzik, spor, gastronomi dolu 3 günü dolu dolu yaşayan isimler arasında milli atlet... Devamı için tıklayınız",
-     "published": "2026-09-29T15:46:30.000Z"
+     "published": "2026-09-29T15:46:30.000Z",
+     "titleFa": "رقابت چهره‌های مشهور در مرسین"
     }
-   ]
+   ],
+   "titleFa": "رقابت چهره‌های مشهور در مرسین",
+   "summaryFa": "چهره‌های سرشناس اخیراً روزهای پر از سرگرمی را در رویداد BN Equinox Weekend در مرسین سپری کردند. این برنامه سه‌روزه با استقبال زیادی روبه‌رو شد و شامل موسیقی، ورزش و غذا بود.",
+   "bodyFa": [
+    "گروهی از چهره‌های سرشناس و ورزشکاران اخیراً برای شرکت در رویدادی به نام BN Equinox Weekend راهی شهر مرسین شدند و روزهای پرهیجانی را پشت سر گذاشتند.",
+    "این برنامه که سه روز به طول انجامید، شامل فعالیت‌های مختلفی در حوزه‌های موسیقی، ورزش و غذا بود و با استقبال زیادی مواجه شد. از جمله چهره‌هایی که در این رویداد حضور داشتند می‌توان به مروه آیدین (دونده تیم ملی)، توغبا ملیس تورک (بازیگر)، نفیسه کاراتای (ورزشکار ملی) و سرن آی چتین (بوکسور) اشاره کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b0d8e082bbc2",
@@ -1324,9 +1421,18 @@
      "url": "https://www.sabah.com.tr/magazin/sanat-dunyasinin-devleri-ekimde-mesaide-7670292",
      "title": "Sanat dünyasının devleri ekimde mesaide",
      "snippet": "İstanbul'da sonbahar hereketli geçecek. Maslak'ta yer alan popüler kültür sanat merkezi de ay boyunca birbirinden renkli etkinliklere ev sahipliği yapacak. 5 Ekim'de 'Kara Kız' oyunu, 14 Ekim'de 'Sesler'... Devamı için tıklayınız",
-     "published": "2026-09-29T15:45:26.000Z"
+     "published": "2026-09-29T15:45:26.000Z",
+     "titleFa": "غول‌های دنیای هنر در ماه اکتبر مشغول به کار هستند"
     }
-   ]
+   ],
+   "titleFa": "رویدادهای هنری و پاییزی در مسلاک استانبول",
+   "summaryFa": "پاییز امسال در استانبول و مرکز فرهنگی هنری مسلاک با برنامه‌ها و رویدادهای گوناگونی همراه خواهد بود. در این ماه آثار نمایشی مختلفی از جمله «کارا قیز»، «سس‌لر»، «آیدین‌لیک‌ولر» و «زنگین موتفاغی» روی صحنه می‌روند.",
+   "bodyFa": [
+    "فصل پاییز در استانبول با برنامه‌ها و فعالیت‌های فرهنگی پررنگی آغاز می‌شود و مرکز فرهنگی و هنری واقع در منطقه مسلاک میزبان رویدادهای متعددی در طول ماه اکتبر خواهد بود.",
+    "بر اساس اطلاعات منتشر شده، نمایش «کارا قیز» در تاریخ ۵ اکتبر و پروژه «سس‌لر» در ۱۴ اکتبر برای مخاطبان اجرا خواهند شد. همچنین نمایش‌های «آیدین‌لیک‌ولر» در تاریخ ۲۰ اکتبر و «زنگین موتفاغی» در تاریخ ۲۵ اکتبر به روی صحنه خواهند رفت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "2eaed67d4f38",
@@ -1353,9 +1459,18 @@
      "url": "https://www.sabah.com.tr/magazin/30uncu-yila-ozel-konser-7670291",
      "title": "30’uncu yıla özel konser",
      "snippet": "Ankara'nın düğün salonlarından İstanbul gecelerine uzanan müzik kariyerinde eğlence hayatının en popüler isimlerinden biri olan Cenk Eren, 30'uncu sanat yılını kutluyor. Eren, 30. yılına özel hazırlanan... Devamı için tıklayınız",
-     "published": "2026-09-29T15:44:58.000Z"
+     "published": "2026-09-29T15:44:58.000Z",
+     "titleFa": "کنسرت ویژه برای سی‌امین سال"
     }
-   ]
+   ],
+   "titleFa": "کنسرت ویژه سی‌امین سالگرد فعالیت هنری جنک ارن",
+   "summaryFa": "جنک ارن به مناسبت سی‌امین سال فعالیت هنری خود، در تاریخ ۱۳ آبان (نوامبر) در بستانجی روی صحنه می‌رود.",
+   "bodyFa": [
+    "جنک ارن که مسیر حرفه‌ای خود را از سالن‌های عروسی در آنکارا آغاز کرده و به شب‌های استانبول رسانده است، اکنون سی‌امین سال فعالیت هنری‌اش را جشن می‌گیرد.",
+    "این خواننده و چهره محبوب دنیای سرگرمی قرار است به همین مناسبت با یک نمایش صحنه‌ای ویژه، در تاریخ ۱۳ نوامبر در منطقه بستانجی با طرفداران خود دیدار کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8693c2cb2efb",
@@ -1382,9 +1497,18 @@
      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/idil-cimrin/2026/09/30/kirsehir-sofrasina-buyurun",
      "title": "Kırşehir sofrasına buyurun",
      "snippet": "İdilika'nın Mutfağı'nda bugün, Kırşehir'deyiz. Türk misafirperverliğinin en çarpıcı ve göz alıcı örneklerinin sergilendiği Kırşehir mutfak kültürü, Anadolu insanının insana verdiği değerin en güzel örneğidir.... Devamı için tıklayınız",
-     "published": "2026-09-29T15:41:19.000Z"
+     "published": "2026-09-29T15:41:19.000Z",
+     "titleFa": "بفرمایید سر سفره قیرشهر"
     }
-   ]
+   ],
+   "titleFa": "سفری به آشپزخانه شهر قیرشهر در برنامه «آشپزخانه ایدیلیکا»",
+   "summaryFa": "برنامه «آشپزخانه ایدیلیکا» در این قسمت به شهر قیرشهر رفته و فرهنگ غذایی و مهمان‌نوازی آن را بررسی می‌کند. این فرهنگ نشان‌دهنده ارزش و اهمیتی است که انسان‌های آن منطقه به مهمانان خود می‌دهند.",
+   "bodyFa": [
+    "در این بخش از برنامه «آشپزخانه ایدیلیکا»، مخاطبان با فرهنگ غذایی و سنت‌های مهمان‌نوازی منطقه قیرشهر آشنا می‌شوند. این برنامه به بررسی ویژگی‌های برجسته سفره‌ها و غذاهای محلی این شهر می‌پردازد.",
+    "گزارش حاکی از آن است که فرهنگ غذایی قیرشهر بازتابی از ارزش‌ها و احترام عمیق مردم آن دیار به مهمانان است؛ به‌طوری‌که خانواده‌ها بهترین مواد غذایی ذخیره‌شده در انبارهای خود را برای پذیرایی از مهمانان آماده می‌کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "25936c39dd07",
@@ -1449,9 +1573,19 @@
      "url": "https://www.sabah.com.tr/magazin/petek-dincoz-kibrista-konser-verdi-7670283",
      "title": "Petek Dinçöz Kıbrıs'ta konser verdi",
      "snippet": "Petek Dinçöz, Kıbrıs'ta sahneye çıktı. Sahneye enerjik bir giriş yapan Dinçöz, şarkıları ve performansıyla izleyenlerden büyük alkış aldı. Dinçöz'ün şarkılarına hep bir ağızdan eşlik eden konuklar, gecenin... Devamı için tıklayınız",
-     "published": "2026-09-29T15:29:38.000Z"
+     "published": "2026-09-29T15:29:38.000Z",
+     "titleFa": "پتک دینچوز در قبرس konser داد"
     }
-   ]
+   ],
+   "titleFa": "پتک دینچوز در قبرس روی صحنه رفت",
+   "summaryFa": "پتک دینچوز کنسرتی پرانرژی در قبرس اجرا کرد و با استقبال و همراهی مخاطبان روبه‌رو شد.",
+   "bodyFa": [
+    "پتک دینچوز، خواننده شناخته‌شده، اخیراً در کشور قبرس به اجرای برنامه پرداخت و روی صحنه رفت.",
+    "او با ورود پرانرژی خود به روی صحنه توانست توجه حاضران را جلب کند و اجرای آهنگ‌ها و عملکردش با تشویق‌های گرم تماشاچیان همراه شد.",
+    "مهمانان حاضر در سالن در تمامی ترانه‌ها با او همخوانی کردند و تا ساعت‌های پایانی شب از فضای پرشور این برنامه لذت بردند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0a11e95c4db6",
@@ -1706,35 +1840,6 @@
    "aiTries": 1
   },
   {
-   "id": "5733e3e391aa",
-   "url": "https://www.haberturk.com/magazin/sylvester-stallone-evlat-acisini-anlatti-olumunden-bir-hafta-sonra-bir-feryat-koptu-agzimdan-3915928",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"Bir feryat koptu ağzımdan\"",
-   "snippet": "Sylvester Stallone, yıllar önce kaybettiği oğlunun ölüm haberini alma anını ve yaşadığı acıyla nasıl baş ettiğini anlattı",
-   "image": "https://im.haberturk.com/l/2026/09/29/ver1790685988/3915928/jpg/1920x1080",
-   "video": null,
-   "published": "2026-09-29T12:47:47.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/sylvester-stallone-evlat-acisini-anlatti-olumunden-bir-hafta-sonra-bir-feryat-koptu-agzimdan-3915928",
-     "title": "\"Bir feryat koptu ağzımdan\"",
-     "snippet": "Sylvester Stallone, yıllar önce kaybettiği oğlunun ölüm haberini alma anını ve yaşadığı acıyla nasıl baş ettiğini anlattı",
-     "published": "2026-09-29T12:47:47.000Z"
-    }
-   ]
-  },
-  {
    "id": "c7626376e727",
    "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-kocalariyla-evlendikten-sonra-tanistilar-simdi-kucaklarinda-birer-cocuk-43323331",
    "source": "hurriyet-kelebek",
@@ -1925,55 +2030,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "cf758fd5b388",
-   "url": "https://www.haberturk.com/magazin/ali-hurol-hayatini-kaybetti-3915901",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Usta tiyatrocu hayatını kaybetti",
-   "snippet": "Usta tiyatrocu Ali Hürol, 76 yaşında hayata veda etti. Hürol'un, kalp rahatsızlığı ve sağlık sorunları bulunuyordu",
-   "image": "https://im.haberturk.com/l/2026/09/29/ver1790680247/3915901/jpg/1920x1080",
-   "video": null,
-   "published": "2026-09-29T11:43:27.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/ali-hurol-hayatini-kaybetti-3915901",
-     "title": "Usta tiyatrocu hayatını kaybetti",
-     "snippet": "Usta tiyatrocu Ali Hürol, 76 yaşında hayata veda etti. Hürol'un, kalp rahatsızlığı ve sağlık sorunları bulunuyordu",
-     "published": "2026-09-29T11:43:27.000Z"
-    },
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/usta-tiyatrocu-ali-hurol-hayatini-kaybetti-7669881",
-     "title": "Usta tiyatrocu Ali Hürol hayatını kaybetti",
-     "snippet": "HABER MERKEZİ - Türk tiyatro ve televizyon dünyasının usta isimlerinden Ali Hürol’dan acı haber geldi. \"Aşkına Eşkıya”, “Sıla”, “Gökten Üç Elma Düştü” ve “Sağır Oda” gibi önemli yapımlarda rol alan Hürol, 76 yaşında yaşamını yitirdi. Sağlık sorunları ve kalp rahatsızlığı olduğu bilinen usta oyuncunu",
-     "published": "2026-09-29T13:28:43.000Z"
-    },
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/usta-tiyatrocu-ali-hurol-hayatini-kaybetti-melek-baykal-dan-duygusal-veda-p364574",
-     "title": "Usta tiyatrocu Ali Hürol hayatını kaybetti: Melek Baykal'dan duygusal veda",
-     "snippet": "Tiyatro dünyasının usta isimlerinden Ali Hürol'dan acı haber geldi. 76 yaşında hayatını kaybeden Hürol'un vefatını, 2021...",
-     "published": "2026-09-29T13:47:49.000Z"
-    }
-   ],
-   "mergedIds": [
-    "d259e88edee7",
-    "55dd07991459"
-   ]
   },
   {
    "id": "ed1307de166c",
@@ -2170,35 +2226,6 @@
    "aiTries": 1
   },
   {
-   "id": "0d77320ffbee",
-   "url": "https://www.milliyet.com.tr/magazin/motovlogcu-dayidan-aci-haber-fenomen-cumhur-kahraman-hayatini-kaybetti-7669575",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Fenomen Cumhur Kahriman kimdir? Fenomen Cumhur Kahriman öldü mü, neden öldü?",
-   "snippet": "İzmir-Çanakkale kara yolunun Dikili ilçesi Kıratlı Mahallesi Makaron Çiftliği mevkiinde dün saat 20.30 sıralarında kaza meydana geldi. MOTOVLOGCU DAYI'DAN ACI HABER İzmir'den Çanakkale yönüne giden Cumhur Kahriman (46) yönetimindeki 34 GMM 853 plakalı motosiklet, önünde giden bir taşımacılık firmasına ait plakası henüz tespit edilemeyen tıra arkadan çarptı. Motosiklet ve trafik güvenliği üzerine hazırladığı videolar ve 'Motovlogcu Dayı' ismiyle tanınan sanal medya içerik üreticisi Kahriman, çarp",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abb6935ed0288e6d3ecbea5.jpg",
-   "video": null,
-   "published": "2026-09-29T09:28:47.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/motovlogcu-dayidan-aci-haber-fenomen-cumhur-kahraman-hayatini-kaybetti-7669575",
-     "title": "Fenomen Cumhur Kahriman kimdir? Fenomen Cumhur Kahriman öldü mü, neden öldü?",
-     "snippet": "İzmir-Çanakkale kara yolunun Dikili ilçesi Kıratlı Mahallesi Makaron Çiftliği mevkiinde dün saat 20.30 sıralarında kaza meydana geldi. MOTOVLOGCU DAYI'DAN ACI HABER İzmir'den Çanakkale yönüne giden Cumhur Kahriman (46) yönetimindeki 34 GMM 853 plakalı motosiklet, önünde giden bir taşımacılık firması",
-     "published": "2026-09-29T09:28:47.000Z"
-    }
-   ]
-  },
-  {
    "id": "a81434544b1e",
    "url": "https://www.sozcu.com.tr/sabancilara-amerikali-gelin-geliyor-suzan-sabanci-dan-dugun-aciklamasi-p364504",
    "source": "sozcu-magazin",
@@ -2355,35 +2382,6 @@
    "aiTries": 1
   },
   {
-   "id": "e29cf746fa32",
-   "url": "https://www.milliyet.com.tr/magazin/hamid-yorulmazin-hikayesi-yurek-yakti-annem-olumum-pahasina-babamin-kim-oldugunu-sakliyor-7669704",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Hamid Yorulmaz'ın hikayesi yürek burktu: Annem ölümüm pahasına babamın kim olduğunu saklıyor",
-   "snippet": "İzmir’in Torbalı ilçesinde yaşayan 18 yaşındaki Hamid Yorulmaz’ın hayat hikayesi, küçük yaşta başlayan zorlu bir mücadeleyle şekillendi. Doğuştan talasemi majör hastası, halk arasındaki adıyla Akdeniz Anemisi olan Hamid, henüz 3 yaşındayken annesi Nihal Beyit tarafından babasına bırakıldı. Küçük yaşlardan itibaren babaannesi ve dedesi tarafından büyütülen Hamid, yıllar boyunca kendisini büyüten ailesini gerçek ailesi olarak bildi. Ancak genç yaşta yaşadığı sağlık sorunu, hayatının en büyük gerçe",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abb7c0eed0288e6d3ecbf12.jpg",
-   "video": null,
-   "published": "2026-09-29T08:52:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/hamid-yorulmazin-hikayesi-yurek-yakti-annem-olumum-pahasina-babamin-kim-oldugunu-sakliyor-7669704",
-     "title": "Hamid Yorulmaz'ın hikayesi yürek burktu: Annem ölümüm pahasına babamın kim olduğunu saklıyor",
-     "snippet": "İzmir’in Torbalı ilçesinde yaşayan 18 yaşındaki Hamid Yorulmaz’ın hayat hikayesi, küçük yaşta başlayan zorlu bir mücadeleyle şekillendi. Doğuştan talasemi majör hastası, halk arasındaki adıyla Akdeniz Anemisi olan Hamid, henüz 3 yaşındayken annesi Nihal Beyit tarafından babasına bırakıldı. Küçük yaş",
-     "published": "2026-09-29T08:52:00.000Z"
-    }
-   ]
-  },
-  {
    "id": "e17308b349e6",
    "url": "https://www.sozcu.com.tr/cirkin-dizisi-icin-karar-alindi-hayranlarini-uzecek-haber-geldi-p364490",
    "source": "sozcu-magazin",
@@ -2506,35 +2504,6 @@
    "aiTries": 1
   },
   {
-   "id": "832586c989de",
-   "url": "https://www.sozcu.com.tr/izzet-ozilhan-dan-kaza-sonrasi-ilk-goruntu-yurutecle-ayakta-durdu-p364470",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "İzzet Özilhan'dan kaza sonrası ilk görüntü: Yürüteçle ayakta durdu",
-   "snippet": "Yasemin Ergen'le 14 yıllık evliliğini noktalayan İzzet Özilhan, ciddi bir motosiklet kazasının ardından uzun süredir göz...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/izzetozilhanjpg-_R751sh7DEq51Vz6RCVAgg.jpg",
-   "video": null,
-   "published": "2026-09-29T07:44:10.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/izzet-ozilhan-dan-kaza-sonrasi-ilk-goruntu-yurutecle-ayakta-durdu-p364470",
-     "title": "İzzet Özilhan'dan kaza sonrası ilk görüntü: Yürüteçle ayakta durdu",
-     "snippet": "Yasemin Ergen'le 14 yıllık evliliğini noktalayan İzzet Özilhan, ciddi bir motosiklet kazasının ardından uzun süredir göz...",
-     "published": "2026-09-29T07:44:10.000Z"
-    }
-   ]
-  },
-  {
    "id": "4ece14204c2c",
    "url": "https://www.haberturk.com/magazin/foto/paris-moda-haftasi-nda-unlu-yildizlar-gecidi-jane-fonda-kendal-jenner-eva-longoria-ayni-podyumda-3915805",
    "source": "haberturk-magazin",
@@ -2559,9 +2528,19 @@
      "url": "https://www.haberturk.com/magazin/foto/paris-moda-haftasi-nda-unlu-yildizlar-gecidi-jane-fonda-kendal-jenner-eva-longoria-ayni-podyumda-3915805",
      "title": "Ünlüler geçidi",
      "snippet": "Paris Moda Haftası kapsamında dün düzenlenen defilede Jane Fonda, Kendal Jenner, Eva Longoria, Andie MacDowell, Viola Davis gibi ünlü yıldızlar yürüdü",
-     "published": "2026-09-29T07:42:23.000Z"
+     "published": "2026-09-29T07:42:23.000Z",
+     "titleFa": "رژه ستارگان"
     }
-   ]
+   ],
+   "titleFa": "رژه ستارگان در هفته مد پاریس",
+   "summaryFa": "چهره‌های سرشناس سینما، مد و ورزش در رویداد «Değerinizi İfade Edin» در پاریس روی پodyum رفتند. جین فوندا و کندال جنر از جمله حاضران برجسته این نمایش بودند.",
+   "bodyFa": [
+    "در جریان هفته مد پاریس و در نمایشی که در پلاس ژوفر پایتخت فرانسه برگزار شد، جمعی از ستاره‌های نامدار سینما، موسیقی و دنیای مد روی صحنه رفتند. این رویداد سالانه که امسال نهمین دوره خود را تجربه کرد، به موضوعاتی چون توانمندسازی و فراگیر بودن زنان اختصاص داشت.",
+    "جین فوندا، بازیگر برنده اسکار، به عنوان یکی از چهره‌های شاخص این برنامه مورد توجه قرار گرفت. همچنین مدل‌های سرشناسی مانند کندال جنر و کارا دلوین به همراه هنرمندان دیگری چون ایوا لونگوریا، ویولا دیویس و اندی مک‌داول در این رژه حضور داشتند.",
+    "در پایان این رویداد، برنامه‌ای با اجرای موسیقی برگزار شد و ستارگان در بخش پایانی آن شرکت کردند. این مراسم، فضایی را برای گردهمایی چهره‌های مختلف از نسل‌ها و پس‌زمینه‌های گوناگون فراهم کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "dc9164c9444b",
@@ -2575,7 +2554,7 @@
    "video": null,
    "published": "2026-09-29T07:15:00.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -2588,9 +2567,18 @@
      "url": "https://www.haberturk.com/magazin/foto/asli-enver-ve-berkin-gokbudak-prag-a-tasiniyor-3915710",
      "title": "Ünlü oyuncu Prag'a taşınıyor",
      "snippet": "Berkin Gökbudak, eşi Aslı Enver ve kızları Elay ile birlikte Çekya'nın başkenti Prag'a yerleşeceklerini açıkladı",
-     "published": "2026-09-29T07:15:00.000Z"
+     "published": "2026-09-29T07:15:00.000Z",
+     "titleFa": "بازیگر معروف به پراگ نقل مکان می کند"
     }
-   ]
+   ],
+   "titleFa": "برکین گوکبوداک اعلام کرد: اسلی انور و خانواده اش به پراگ نقل مکان می کنند",
+   "summaryFa": "برکین گوکبوداک اعلام کرد که به همراه همسرش اسلی انور و دخترشان الای به پایتخت جمهوری چک نقل مکان می کنند. این زوج خانه خود را در استانبول بسته نگه نمی دارند و اسلی انور برای ضبط سریال بین استانبول و پراگ در رفت و آمد خواهد بود.",
+   "bodyFa": [
+    "برکین گوکبوداک اعلام کرد که به همراه همسرش، بازیگر معروف اسلی انور، و دخترشان الای به پراگ، پایتخت جمهوری چک نقل مکان خواهند کرد. این تصمیم به دلیل کارهای گوکبوداک گرفته شده است و او در حساب لینکدین خود توضیح داد که سه سال پیش هنگام بازدید از پراگ چنین آرزویی داشته و اکنون این فکر به واقعیت تبدیل شده است.",
+    "این زوج که در سال ۲۰۲۲ ازدواج کرده بودند و در سال ۲۰۲۳ دخترشان الای را به دنیا آوردند، خانه خود را در استانبول بسته نگه نخواهند داشت. اسلی انور به دلیل پروژه های بازیگری خود به سفر بین استانبول و پراگ ادامه خواهد داد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b57f877217ec",
@@ -2617,9 +2605,18 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/kayahan-muzikali-43323076",
      "title": "Kayahan müzikali",
      "snippet": "3 Nisan 2015’te yaşamını yitiren müzik dünyasının usta ismi Kayahan’ın şarkılarıyla bir müzikal hazırlanıyor.",
-     "published": "2026-09-29T07:14:12.000Z"
+     "published": "2026-09-29T07:14:12.000Z",
+     "titleFa": "موزیکال کایاهان"
     }
-   ]
+   ],
+   "titleFa": "آماده‌سازی یک موزیکال با آثار کایاهان",
+   "summaryFa": "یک اثر موزیکال بر اساس ترانه‌های کایاهان، هنرمند فقید دنیای موسیقی که در سال ۲۰۱۵ درگذشت، در حال آماده‌سازی است.",
+   "bodyFa": [
+    "بر اساس اخبار منتشرشده، پروژه‌ای جدید برای تولید یک موزیکال با استفاده از ترانه‌ها و آثار ماندگار کایاهان، چهره برجسته و استاد دنیای موسیقی، در دست اقدام است.",
+    "کایاهان که در تاریخ ۳ آوریل ۲۰۱۵ چشم از جهان فروبسته بود، اکنون قرار است یاد و آثارش با اجرای یک موزیکال گرامی داشته شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3a91efede423",
@@ -2646,9 +2643,18 @@
      "url": "https://www.haberturk.com/magazin/foto/serenay-sarikaya-paris-moda-haftasi-nda-podyuma-cikti-3915776",
      "title": "Serenay podyumda",
      "snippet": "Paris Moda Haftası'na giden oyuncu Serenay Sarıkaya, Eyfel Kulesi önünde düzenlenen görkemli defilede yürüdü. Sarıkaya, kendinden emin hali ve enerjisiyle dikkatleri üzerine çekti",
-     "published": "2026-09-29T07:14:00.000Z"
+     "published": "2026-09-29T07:14:00.000Z",
+     "titleFa": "سرنای روی پدیوم"
     }
-   ]
+   ],
+   "titleFa": "حضور سرنای ساریکایا در رویداد مد پاریس",
+   "summaryFa": "سرنای ساریکایا به عنوان سفیر یک برند در هفته مد پاریس و در مقابل برج ایفل روی پدیوم رفت. او در این رویداد با چهره‌های سرشناس جهانی هم‌پدیوم بود.",
+   "bodyFa": [
+    "سرنای ساریکایا، بازیگر شناخته‌شده، در جریان هفته مد پاریس در رویداد بزرگ «Le Défilé» که در مقابل برج ایفل برگزار شد، شرکت کرد. او به عنوان سفیر برندی که چهره تبلیغاتی آن است، با استایلی مطمئن و پرانرژی روی پدیوم ظاهر شد و توجه حاضران را به خود جلب کرد.",
+    "این رویداد امسال با شعار «ارزش خود را نشان دهید» برگزار شد و موضوعاتی چون قدرت زنان، همبستگی و نقش اتحادآفرین مد را دنبال می‌کرد. ساریکایا در این برنامه با ستاره‌های جهانی برجسته‌ای از جمله کندال جنر، کارا دلوین، کریستن بل، جین فوندا، اوا لونگوریا، سیمون اشلی و اندی مک‌داول هم‌صحنه بود و تصاویر مشترکی از آن‌ها پس از پایان نمایش به ثبت رسید."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d469d67eb516",
@@ -2675,9 +2681,18 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/serenay-sarikaya-pariste-buyuledi-altin-elbisesiyle-podyuma-damga-vurdu-7669559",
      "title": "Serenay Sarıkaya Paris’te büyüledi! Altın rengi elbisesiyle podyuma damga vurdu",
      "snippet": "Oyunculuğu ve tarzıyla sık sık gündeme gelen Serenay Sarıkaya, Paris Moda Haftası kapsamında düzenlenen özel defilede podyuma çıktı. Altın rengi püsküllü elbisesiyle dikkatleri üzerine çeken ünlü oyuncunun görünümü ve enerjisi sosyal medyada büyük beğeni topladı.",
-     "published": "2026-09-29T06:49:59.000Z"
+     "published": "2026-09-29T06:49:59.000Z",
+     "titleFa": "سرنای ساریکایا در پاریس خیره‌کننده ظاهر شد! او با لباس طلایی‌رنگ خود بر روی پودیوم خوش درخشید"
     }
-   ]
+   ],
+   "titleFa": "درخشش سرنای ساریکایا در پاریس با لباس طلایی",
+   "summaryFa": "سرنای ساریکایا در یک فشن شو اختصاصی در هفته مد پاریس روی پودیوم رفت. استایل و انرژی این بازیگر با لباس طلایی‌رنگش در شبکه‌های اجتماعی با استقبال زیادی روبرو شد.",
+   "bodyFa": [
+    "سرنای ساریکایا، بازیگر مشهور که همواره با بازیگری و سبک پوشش خود مورد توجه قرار می‌گیرد، در یک نمایش مد ویژه به عنوان بخشی از هفته مد پاریس روی صحنه رفت و پودیوم را تجربه کرد.",
+    "او در این مراسم با پوشیدن یک لباس طلایی ریش‌دار توانست توجه مخاطبان را به خود جلب کند. ظاهر و انرژی این هنرمند در جریان این رویداد، بازخوردهای بسیار مثبتی را در شبکه‌های اجتماعی به همراه داشت و کاربران به تحسین او پرداختند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1cebd4ea1a4e",
@@ -2704,9 +2719,17 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/sahnelere-donuyor-43322986",
      "title": "Sahnelere dönüyor",
      "snippet": "Gül Erda uzun süren sessizliğinin ardından yeniden sahnelere dönmeye hazırlanıyor.",
-     "published": "2026-09-29T06:25:00.000Z"
+     "published": "2026-09-29T06:25:00.000Z",
+     "titleFa": "به صحنه‌ها برمی‌گردد"
     }
-   ]
+   ],
+   "titleFa": "بازگشت گل اردا به صحنه‌ها",
+   "summaryFa": "گل اردا پس از سکوتی طولانی آماده می‌شود تا دوباره به صحنه‌ها بازگردد.",
+   "bodyFa": [
+    "گل اردا پس از گذشت یک دوره سکوت طولانی، خود را آماده می‌کند تا بار دیگر به روی صحنه بازگردد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0c0be74d6992",
@@ -2733,9 +2756,18 @@
      "url": "https://www.sozcu.com.tr/konserde-kavga-cikti-zeynep-bastik-sahneden-boyle-tepki-gosterdi-p364434",
      "title": "Konserde kavga çıktı! Zeynep Bastık sahneden böyle tepki gösterdi",
      "snippet": "Zeynep Bastık'ın Aydın'daki konserinde seyirciler arasında kavga çıktı. Sahnedeki performansına ara vererek olaya müdaha...",
-     "published": "2026-09-29T06:20:12.000Z"
+     "published": "2026-09-29T06:20:12.000Z",
+     "titleFa": "درگیری در کنسرت! واکنش زینب باشتک روی صحنه بدین شکل بود"
     }
-   ]
+   ],
+   "titleFa": "درگیری در کنسرت زینب باشتک و واکنش او روی صحنه",
+   "summaryFa": "در جریان کنسرت زینب باشتک در آیدین، میان تماشاگران درگیری رخ داد. این خواننده با متوقف کردن اجرای خود، واکنش تندی به این اتفاق نشان داد.",
+   "bodyFa": [
+    "در کنسرت زینب باشتک که در شهر آیدین برگزار شد، میان حاضران در میان جمعیت درگیری به وقوع پیوست.",
+    "این خواننده سرشناس با دیدن این صحنه، اجرای خود روی صحنه را متوقف کرد و شخصاً به ماجرا واکنش نشان داد و ناراحتی و اعتراض شدید خود را نسبت به اتفاقات رخ داده ابراز کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1713585b7ed5",
@@ -2762,9 +2794,18 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/teoman-bizi-cekiyorlar-43322965",
      "title": "Teoman bizi çekiyorlar",
      "snippet": "Teoman önceki akşam Cihangir’deki Smyrna adlı mekânda görüntülendi.",
-     "published": "2026-09-29T06:13:00.000Z"
+     "published": "2026-09-29T06:13:00.000Z",
+     "titleFa": "تئومان: آن‌ها از ما عکس می‌گیرند"
     }
-   ]
+   ],
+   "titleFa": "دیدار تومان در جهانگیر",
+   "summaryFa": "تئومان در یک کافه در منطقه جهانگیر دیده شد. این خبر توسط رسانه‌ها گزارش شده است.",
+   "bodyFa": [
+    "تئومان، خواننده و چهره شناخته‌شده، در شب گذشته در کافه‌ای به نام اسمیرنا واقع در منطقه جهانگیر استانبول توسط عابران و رسانه‌ها رؤیت شد.",
+    "جزئیات بیشتری درباره این حضور یا دلیل آن در گزارش منتشر نشده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "bfe24ecdda43",
