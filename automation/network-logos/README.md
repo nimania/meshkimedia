@@ -13,4 +13,6 @@ Source: Wikimedia Commons, retrieved 2026-09-28. Broadcaster trademarks remain w
 | `trt-1.svg` | [TRT 1 logo (2021-).svg](https://commons.wikimedia.org/wiki/File:TRT_1_logo_(2021-).svg) | Public domain (text logo) |
 | `tv8.svg` | [TV8 Logo 2022.svg](https://commons.wikimedia.org/wiki/File:TV8_Logo_2022.svg) | Public domain (text logo) |
 
-Kanal D currently uses the generated text mark pending a verified matching logo asset.
+| `kanal-d.svg` | provided by the site owner (Kanal D corporate mark, background removed) | Broadcaster trademark; used for identification/attribution only |
+
+Outlet (news source) logos live in `github-pages/images/outlets/<feed id>.png` and are shown as the source badge on news cards; `haberturk-magazin`, `sozcu-magazin` and `sabah-magazin` were provided by the site owner (publisher trademarks, used for attribution only). A feed with no file falls back to a colored text badge.
