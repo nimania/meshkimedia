@@ -31,13 +31,6 @@
     }
   },
   "days": {
-    "2026-09-25": [
-      {
-        "slug": "kizilcik-serbeti",
-        "season": 5,
-        "episode": 2
-      }
-    ],
     "2026-09-26": [
       {
         "slug": "baskalarinin-hayati",
@@ -129,6 +122,11 @@
         "slug": "gunesin-dogdugu-yer",
         "season": 1,
         "episode": 3
+      },
+      {
+        "slug": "halef-koklerin-cagrisi",
+        "season": 2,
+        "episode": 2
       },
       {
         "slug": "muhtemel-ask",
@@ -224,6 +222,18 @@
         "slug": "tuzlu-kahve",
         "season": 1,
         "episode": 6
+      }
+    ],
+    "2026-10-07": [
+      {
+        "slug": "ask-ve-taht",
+        "season": 1,
+        "episode": 5
+      },
+      {
+        "slug": "sevdan-bir-ates",
+        "season": 1,
+        "episode": 5
       }
     ]
   }
