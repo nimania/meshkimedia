@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T21:50:56.452Z",
+ "updated": "2026-10-02T01:42:28.157Z",
  "items": [
   {
    "id": "72aac66c9d41",
@@ -2184,44 +2184,6 @@
    "aiTries": 1
   },
   {
-   "id": "3cf626e718f5",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/meric-keskinden-agabeyine-yurek-burkan-veda-yanini-ayirttim-7670843",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Meriç Keskin'den ağabeyine yürek burkan veda: Yanını ayırttım",
-   "snippet": "Ağabeyi İnanç Keskin’in vefatıyla büyük bir acı yaşayan sosyal medya fenomeni Meriç Keskin, duygularını takipçileriyle paylaştı. Acısını kendine özgü mizahıyla da harmanlayan Keskin’in sözleri yürek burktu.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abe09be2945ddc9f5284117.jpg",
-   "video": null,
-   "published": "2026-10-01T07:46:06.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/meric-keskinden-agabeyine-yurek-burkan-veda-yanini-ayirttim-7670843",
-     "title": "Meriç Keskin'den ağabeyine yürek burkan veda: Yanını ayırttım",
-     "snippet": "Ağabeyi İnanç Keskin’in vefatıyla büyük bir acı yaşayan sosyal medya fenomeni Meriç Keskin, duygularını takipçileriyle paylaştı. Acısını kendine özgü mizahıyla da harmanlayan Keskin’in sözleri yürek burktu.",
-     "published": "2026-10-01T07:46:06.000Z"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6abe09be2945ddc9f5284117.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6abe09be2945ddc9f5284117.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "9cdda5750094",
    "url": "https://www.haberturk.com/magazin/monica-bellucci-nin-genc-ve-fit-kalma-sirri-3916375",
    "source": "haberturk-magazin",
@@ -4353,44 +4315,6 @@
    "aiTries": 1
   },
   {
-   "id": "180c130e739b",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-dizide-oynayip-milyonlarin-kalbine-dokunmustu-hastaligini-en-yakinlarindan-gizleyip-kosesinde-sessizce-olumu-beklemis-43324554",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Ünlü oyuncu 75 yaşında sessiz sedasız hayata veda etti: Hastalığını en yakınlarından bile gizleyip bir bakımevinde ölümü beklemiş",
-   "snippet": "Tanıyın ya da tanımayın bir ölüm haberi herkesin yüreğini burkar. Hele söz konusu kişi bir ünlüyse ve ekrandan ya da perdeden de olsa bir şekilde milyonlara ulaşıp onların kalbine dokunmuşsa...",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6abcea6b82254781f08b9777.jpg",
-   "video": null,
-   "published": "2026-09-30T14:06:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-dizide-oynayip-milyonlarin-kalbine-dokunmustu-hastaligini-en-yakinlarindan-gizleyip-kosesinde-sessizce-olumu-beklemis-43324554",
-     "title": "Ünlü oyuncu 75 yaşında sessiz sedasız hayata veda etti: Hastalığını en yakınlarından bile gizleyip bir bakımevinde ölümü beklemiş",
-     "snippet": "Tanıyın ya da tanımayın bir ölüm haberi herkesin yüreğini burkar. Hele söz konusu kişi bir ünlüyse ve ekrandan ya da perdeden de olsa bir şekilde milyonlara ulaşıp onların kalbine dokunmuşsa...",
-     "published": "2026-09-30T14:06:00.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6abcea6b82254781f08b9777.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6abcea6b82254781f08b9777.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3611",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3611",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "9f69d1427d59",
    "url": "https://www.haberturk.com/magazin/foto/anne-hathaway-ve-dakota-johnson-verity-nin-galasinda-bulustu-3916220",
    "source": "haberturk-magazin",
@@ -5612,55 +5536,6 @@
    "aiTries": 1
   },
   {
-   "id": "6c4f9a433767",
-   "url": "https://www.haberturk.com/magazin/hastalikla-mucadele-eden-bruce-willis-in-son-halini-kizi-paylasti-3916107",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Son halini kızı paylaştı",
-   "snippet": "Hastalığı nedeniyle sinemayı bırakan ve bakıcılarıyla gözlerden uzak bir hayat yaşayan Bruce Willis, kızları tarafından sık sık ziyaret ediliyor. Kızı Tallulah, aksiyon yıldızının yeni fotoğrafını çekti",
-   "image": "https://im.haberturk.com/l/2026/09/30/ver1790755937/3916107/jpg/1920x1080",
-   "video": null,
-   "published": "2026-09-30T08:14:33.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/hastalikla-mucadele-eden-bruce-willis-in-son-halini-kizi-paylasti-3916107",
-     "title": "Son halini kızı paylaştı",
-     "snippet": "Hastalığı nedeniyle sinemayı bırakan ve bakıcılarıyla gözlerden uzak bir hayat yaşayan Bruce Willis, kızları tarafından sık sık ziyaret ediliyor. Kızı Tallulah, aksiyon yıldızının yeni fotoğrafını çekti",
-     "published": "2026-09-30T08:14:33.000Z"
-    },
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/bruce-willis-in-son-halini-kizi-paylasti-fotografiyla-duygulandirdi-p364879",
-     "title": "Bruce Willis'in son halini kızı paylaştı: Fotoğrafıyla duygulandırdı",
-     "snippet": "Frontotemporal demansla mücadelesi devam eden Bruce Willis, uzun süredir gözlerden uzak bir hayat sürüyor. Ünlü oyuncunu...",
-     "published": "2026-09-30T12:06:57.000Z"
-    }
-   ],
-   "mergedIds": [
-    "a3a827a4a139"
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/bruce-willsjpg-sXVZZOrH5kCkiVkc7g_qEQ.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/brucejpg-AA-zgKaZaEqOO7RUNY0kkQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/bruceeejpg-tEAEwNODrUqJvaps1ciMFg.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6abe866ed83705fac65f32afpng-KiRoTad0fkinpLix-rMaSw.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6abe7a45d83705fac644c8f8png-tTptHxBUSUSHSF0MdBt4Bw.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "4e38f4547401",
    "url": "https://www.hurriyet.com.tr/kelebek/hayat/zayiflayacaksan-oynatacagiz-43324326",
    "source": "hurriyet-kelebek",
@@ -5706,44 +5581,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "79ac0b78269e",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/milyarlik-dunya-malimiz-neye-yarar-simdi-biricik-ogullarina-cenaze-toreni-planliyorlar-bu-yurek-nasil-dayansin-bu-aciya-43324374",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Milyarlık dünya malımız neye yarar şimdi! Biricik oğullarına cenaze töreni planlıyorlar...Bu yürek nasıl dayansın bu acıya!",
-   "snippet": "Belki ilk bakışta insanın sahip olduğu milyonların hatta milyarların hayatı son derece kolay bir hale getirdiği düşünülebilir... Bir noktaya kadar öyledir de zaten.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6abcc49c82254781f08b9533.jpg",
-   "video": null,
-   "published": "2026-09-30T08:13:39.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/milyarlik-dunya-malimiz-neye-yarar-simdi-biricik-ogullarina-cenaze-toreni-planliyorlar-bu-yurek-nasil-dayansin-bu-aciya-43324374",
-     "title": "Milyarlık dünya malımız neye yarar şimdi! Biricik oğullarına cenaze töreni planlıyorlar...Bu yürek nasıl dayansın bu acıya!",
-     "snippet": "Belki ilk bakışta insanın sahip olduğu milyonların hatta milyarların hayatı son derece kolay bir hale getirdiği düşünülebilir... Bir noktaya kadar öyledir de zaten.",
-     "published": "2026-09-30T08:13:39.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6abcc49c82254781f08b9533.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6abcc49c82254781f08b9533.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3611",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3611",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
-   ],
-   "mediaDone": true
   },
   {
    "id": "cac4886a335d",
@@ -6475,35 +6312,6 @@
    "ai": true,
    "aiTries": 1,
    "mediaDone": true
-  },
-  {
-   "id": "b17dfecbde30",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncunun-buyuk-acisi-13-yasindaki-kizi-hayatini-kaybetti-bizim-icin-dua-edin-43324119",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Ünlü oyuncu evlat acısıyla yıkıldı... 13 yaşındaki kızı hayatını kaybetti: Bizim için dua edin",
-   "snippet": "Cindy Crawford’un 27 yaşındaki oğlunun ölümünden sonra ünlüler dünyasından bir acı haber daha geldi. Oynadığı dizilerdeki başarısıyla birçok ödül kazanmış olan yıldız ismin 13 yaşındaki kızı hayatını kaybetti.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6abc90a282254781f08b931a.jpg",
-   "video": null,
-   "published": "2026-09-30T04:40:28.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncunun-buyuk-acisi-13-yasindaki-kizi-hayatini-kaybetti-bizim-icin-dua-edin-43324119",
-     "title": "Ünlü oyuncu evlat acısıyla yıkıldı... 13 yaşındaki kızı hayatını kaybetti: Bizim için dua edin",
-     "snippet": "Cindy Crawford’un 27 yaşındaki oğlunun ölümünden sonra ünlüler dünyasından bir acı haber daha geldi. Oynadığı dizilerdeki başarısıyla birçok ödül kazanmış olan yıldız ismin 13 yaşındaki kızı hayatını kaybetti.",
-     "published": "2026-09-30T04:40:28.000Z"
-    }
-   ]
   },
   {
    "id": "3cefba006dba",
@@ -8513,35 +8321,6 @@
    "mediaDone": true
   },
   {
-   "id": "55dd07991459",
-   "url": "https://www.sozcu.com.tr/usta-tiyatrocu-ali-hurol-hayatini-kaybetti-melek-baykal-dan-duygusal-veda-p364574",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Usta tiyatrocu Ali Hürol hayatını kaybetti: Melek Baykal'dan duygusal veda",
-   "snippet": "Tiyatro dünyasının usta isimlerinden Ali Hürol'dan acı haber geldi. 76 yaşında hayatını kaybeden Hürol'un vefatını, 2021...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/ustatiyatrocuhayatinikaybettijpg-9YeofKykKkuNirb8ozvr4g.jpg",
-   "video": null,
-   "published": "2026-09-29T13:47:49.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/usta-tiyatrocu-ali-hurol-hayatini-kaybetti-melek-baykal-dan-duygusal-veda-p364574",
-     "title": "Usta tiyatrocu Ali Hürol hayatını kaybetti: Melek Baykal'dan duygusal veda",
-     "snippet": "Tiyatro dünyasının usta isimlerinden Ali Hürol'dan acı haber geldi. 76 yaşında hayatını kaybeden Hürol'un vefatını, 2021...",
-     "published": "2026-09-29T13:47:49.000Z"
-    }
-   ]
-  },
-  {
    "id": "ee6765aec974",
    "url": "https://www.sozcu.com.tr/aslihan-turanli-ile-taha-tatlici-evleniyor-evet-dedi-p364564",
    "source": "sozcu-magazin",
@@ -9419,35 +9198,6 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
    ],
    "mediaDone": true
-  },
-  {
-   "id": "832586c989de",
-   "url": "https://www.sozcu.com.tr/izzet-ozilhan-dan-kaza-sonrasi-ilk-goruntu-yurutecle-ayakta-durdu-p364470",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "İzzet Özilhan'dan kaza sonrası ilk görüntü: Yürüteçle ayakta durdu",
-   "snippet": "Yasemin Ergen'le 14 yıllık evliliğini noktalayan İzzet Özilhan, ciddi bir motosiklet kazasının ardından uzun süredir göz...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/izzetozilhanjpg-_R751sh7DEq51Vz6RCVAgg.jpg",
-   "video": null,
-   "published": "2026-09-29T07:44:10.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/izzet-ozilhan-dan-kaza-sonrasi-ilk-goruntu-yurutecle-ayakta-durdu-p364470",
-     "title": "İzzet Özilhan'dan kaza sonrası ilk görüntü: Yürüteçle ayakta durdu",
-     "snippet": "Yasemin Ergen'le 14 yıllık evliliğini noktalayan İzzet Özilhan, ciddi bir motosiklet kazasının ardından uzun süredir göz...",
-     "published": "2026-09-29T07:44:10.000Z"
-    }
-   ]
   },
   {
    "id": "4ece14204c2c",
@@ -11495,6 +11245,53 @@
    "mediaDone": true
   },
   {
+   "id": "bfeb5bae9bfa",
+   "url": "https://www.sozcu.com.tr/fenerbahce-nin-yildizi-baba-oluyor-cinsiyetini-duyurdu-p364268",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Fenerbahçe'nin yıldızı baba oluyor: Cinsiyetini duyurdu",
+   "snippet": "Fenerbahçe'nin İspanyol yıldızı Marco Asensio ile sevgilisi Lavinia'dan mutlu haber geldi. Bebek beklediklerini açıklaya...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/fenerbahceeejpg-A3s-yIlqq0uvhycSzXYUcQ.jpg",
+   "video": null,
+   "published": "2026-09-28T14:06:37.000Z",
+   "scope": "general",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/fenerbahce-nin-yildizi-baba-oluyor-cinsiyetini-duyurdu-p364268",
+     "title": "Fenerbahçe'nin yıldızı baba oluyor: Cinsiyetini duyurdu",
+     "snippet": "Fenerbahçe'nin İspanyol yıldızı Marco Asensio ile sevgilisi Lavinia'dan mutlu haber geldi. Bebek beklediklerini açıklaya...",
+     "published": "2026-09-28T14:06:37.000Z",
+     "titleFa": "ستاره فنرباهچه پدر می شود: جنسیت فرزندش را اعلام کرد"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/fenerbahceeejpg-A3s-yIlqq0uvhycSzXYUcQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/fenerbahceeejpg-A3s-yIlqq0uvhycSzXYUcQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/fenerbahcenin-yildizi-baba-oluyor-cinsiyetini-duyurdu-1jpg-tfrlMoj7L0W8a6Z-Sfa55w.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/fenerbahcenin-yildizi-baba-oluyor-cinsiyetini-duyurdu-8jpg-8GIH2fpydkiqb_kU08Gfpg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/fenerbahcenin-yildizi-baba-oluyor-cinsiyetini-duyurdu-5jpg-EtHN3X9nQ0mKgeLFlGYJCw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/fenerbahcenin-yildizi-baba-oluyor-cinsiyetini-duyurdu-7jpg-7O9A84Jud0WquYppthV7pQ.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "ستاره فنرباهچه پدر می شود: جنسیت فرزندش را اعلام کرد",
+   "summaryFa": "مارکو آسنسیو، ستاره اسپانیایی تیم فنرباهچه، و نامزدش لاوینیا اعلام کردند که در انتظار تولد فرزند خود هستند. این زوج خوش‌حتی علاوه بر اعلام خبر بارداری، جنسیت فرزند آینده خود که پسر است را نیز فاش کردند.",
+   "bodyFa": [
+    "مارکو آسنسیو، بازیکن ۳۰ ساله اسپانیایی باشگاه فنرباهچه، این بار به دلیل خبر مسرت‌بخشی در زندگی شخصی خود در کانون توجه قرار گرفت. او و نامزدش لاوینیا با انتشار پیامی خبر دادند که به‌زودی خانواده خود را بزرگ‌تر خواهند کرد و فرزند مشترکشان متولد خواهد شد.",
+    "این زوج علاوه بر ابراز خوشحالی از این رویداد، جزئیات دیگری را نیز با مخاطبان به اشتراک گذاشتند و اعلام کردند که فرزند در راه آن‌ها پسر است. این خبر بازتاب مثبتی در رسانه‌ها داشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
    "id": "d747b30a0ef4",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/uzak-sehirde-isler-karisiyor-43322496",
    "source": "hurriyet-kelebek",
@@ -11542,6 +11339,44 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3611",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "b8771a1e718b",
+   "url": "https://www.sozcu.com.tr/melike-sahin-doguma-gun-sayiyor-karni-burnunda-pozlarini-paylasti-p364245",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Melike Şahin doğuma gün sayıyor: Karnı burnunda pozlarını paylaştı",
+   "snippet": "İlk kez anne olmaya hazırlanan Melike Şahin, doğuma sayılı günler kala karnı burnunda pozlarını takipçileriyle paylaştı....",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/150jpg-RB4xYzgeLUWiTNCnRDPFDA.jpg",
+   "video": null,
+   "published": "2026-09-28T12:42:12.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/melike-sahin-doguma-gun-sayiyor-karni-burnunda-pozlarini-paylasti-p364245",
+     "title": "Melike Şahin doğuma gün sayıyor: Karnı burnunda pozlarını paylaştı",
+     "snippet": "İlk kez anne olmaya hazırlanan Melike Şahin, doğuma sayılı günler kala karnı burnunda pozlarını takipçileriyle paylaştı....",
+     "published": "2026-09-28T12:42:12.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/150jpg-RB4xYzgeLUWiTNCnRDPFDA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/150jpg-RB4xYzgeLUWiTNCnRDPFDA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/melike-sahin-hamile-doguma-gun-sayiyor-4jpg--LcGpu_sk06Lv9gb5x7v1w.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/melike-sahin-hamile-doguma-gun-sayiyor-2jpg-_Fd1onJJykOMATMBn6RoTg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6abe866ed83705fac65f32afpng-KiRoTad0fkinpLix-rMaSw.png?w=320&h=248&mode=crop&scale=both"
    ],
    "mediaDone": true
   },
