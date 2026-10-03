@@ -1054,8 +1054,7 @@
           {
             "number": 5,
             "date": "2026-10-03",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -1676,8 +1675,7 @@
           {
             "number": 36,
             "date": "2026-10-03",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -2294,8 +2292,7 @@
           {
             "number": 225,
             "date": "2026-10-03",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -4108,8 +4105,7 @@
           {
             "number": 2,
             "date": "2026-10-03",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
