@@ -1,6 +1,972 @@
 {
- "updated": "2026-10-04T00:40:59.287Z",
+ "updated": "2026-10-04T06:58:44.780Z",
  "items": [
+  {
+   "id": "cb2b4855b872",
+   "url": "https://www.milliyet.com.tr/magazin/murat-kekilli-sahneye-cikti-nigdede-muzik-ziyafeti-yasandi-7672665",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Murat Kekilli sahneye çıktı, Niğde’de müzik ziyafeti yaşandı",
+   "snippet": "Niğde Valiliğinin yanında kurulan festival alanında düzenlenen konserde sahne alan Kekilli, müzikseverlerle buluştu. Kekilli, konserde sevilen şarkılarını seslendirdi. Alanı dolduran vatandaşlar, sanatçının seslendirdiği şarkılara eşlik etti. Konser boyunca sanatçının performansını görüntüleyen vatandaşlar, müzik eşliğinde eğlenceli bir akşam geçirdi. Göksel’den olay yaratan sözler! ‘Erkeklerden uzak duracaksın’",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac1f78a6a20a7c2fa32d50f.jpg",
+   "video": null,
+   "published": "2026-10-04T06:52:07.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/murat-kekilli-sahneye-cikti-nigdede-muzik-ziyafeti-yasandi-7672665",
+     "title": "Murat Kekilli sahneye çıktı, Niğde’de müzik ziyafeti yaşandı",
+     "snippet": "Niğde Valiliğinin yanında kurulan festival alanında düzenlenen konserde sahne alan Kekilli, müzikseverlerle buluştu. Kekilli, konserde sevilen şarkılarını seslendirdi. Alanı dolduran vatandaşlar, sanatçının seslendirdiği şarkılara eşlik etti. Konser boyunca sanatçının performansını görüntüleyen vata",
+     "published": "2026-10-04T06:52:07.000Z",
+     "titleFa": "مراد ککیلی روی صحنه رفت، ضیافت موسیقی در نیغده رقم خورد"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac1f78a6a20a7c2fa32d50f.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac1f78a6a20a7c2fa32d50f.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "برگزاری کنسرت مراد ککیلی در ششمین جشنواره غذا و آشپزی نیغده",
+   "summaryFa": "مراد ککیلی در جریان ششمین جشنواره غذا و آشپزی در استان نیغده روی صحنه رفت و ترانه‌های محبوب خود را اجرا کرد. این کنسرت با استقبال دوستداران موسیقی همراه شد.",
+   "bodyFa": [
+    "در جریان برگزاری ششمین جشنواره غذا و آشپزی در استان نیغده، مراد ککیلی، خواننده ترکیه‌ای، روی صحنه رفت و اجراهایی برای علاقه‌مندان به موسیقی ارائه داد. این برنامه در محوطه ویژه جشنواره که در کنار ساختمان استانداری نیغده برپا شده بود، برگزار گردید.",
+    "در این رویداد، حاضران در محل جشنواره ترانه‌های شناخته‌شده این هنرمند را با او همخوانی کردند و به ثبت تصاویر و اجراهای وی پرداختند تا شبی ماندگار برای طرفداران موسیقی رقم بخورد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "3b51b325de61",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/gokselden-olay-yaratan-sozler-erkeklerden-uzak-duracaksin-7672658",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Göksel’den olay yaratan sözler! ‘Erkeklerden uzak duracaksın’",
+   "snippet": "Sahne öncesi kuliste kraker yiyen Göksel, kendisine yapılan uyarı sonrası verdiği esprili yanıtla sosyal medyanın gündemine oturdu. Ünlü şarkıcının “Miden bulanıyorsa erkeklerden uzak duracaksın” sözleri dikkat çekti.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac1f1156a20a7c2fa32d4e2.jpg",
+   "video": null,
+   "published": "2026-10-04T06:26:17.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/gokselden-olay-yaratan-sozler-erkeklerden-uzak-duracaksin-7672658",
+     "title": "Göksel’den olay yaratan sözler! ‘Erkeklerden uzak duracaksın’",
+     "snippet": "Sahne öncesi kuliste kraker yiyen Göksel, kendisine yapılan uyarı sonrası verdiği esprili yanıtla sosyal medyanın gündemine oturdu. Ünlü şarkıcının “Miden bulanıyorsa erkeklerden uzak duracaksın” sözleri dikkat çekti.",
+     "published": "2026-10-04T06:26:17.000Z",
+     "titleFa": "اظهارات جنجالی گوکسل! «از مردان دور خواهی ماند»"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac1f1156a20a7c2fa32d4e2.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac1f1156a20a7c2fa32d4e2.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "سخنان شوخ‌طبعانه گوکسل، خواننده ترکیه‌ای، در پشت صحنه خبرساز شد",
+   "summaryFa": "گوکسل، خواننده مشهور، با پاسخ طنزآمیزش در پشت صحنه قبل از اجرا، توجه کاربران شبکه‌های اجتماعی را جلب کرد.",
+   "bodyFa": [
+    "گوکسل، خواننده مطرح، پیش از رفتن روی صحنه و هنگام خوردن بیسکویت در پشت صحنه، پس از دریافت یک هشدار، پاسخی شوخ‌طبعانه داد.",
+    "او گفت: «اگر حالت تهوع داری باید از مردان دور بمانی.» این اظهارات طنزآمیز این خواننده به سرعت در شبکه‌های اجتماعی بازتاب یافت و مورد توجه قرار گرفت."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "cd6e5d347213",
+   "url": "https://www.sozcu.com.tr/somer-sef-luks-mekanini-kebapciya-cevirdi-p365900",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Somer şef lüks mekanını kebapçıya çevirdi",
+   "snippet": "MasterChef Türkiye jürisinden Somer Sivrioğlu, restoranını kebapçıya dönüştürdü. Ünlü şef, daha önce restoran olarak işl...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/8/somerpng-ZVe-LSPRMES5Fr5oS3vqPQ.png",
+   "video": null,
+   "published": "2026-10-04T06:14:27.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "masterchef-turkiye"
+    ],
+    "people": [],
+    "networks": [
+     "tv8"
+    ]
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/somer-sef-luks-mekanini-kebapciya-cevirdi-p365900",
+     "title": "Somer şef lüks mekanını kebapçıya çevirdi",
+     "snippet": "MasterChef Türkiye jürisinden Somer Sivrioğlu, restoranını kebapçıya dönüştürdü. Ünlü şef, daha önce restoran olarak işl...",
+     "published": "2026-10-04T06:14:27.000Z",
+     "titleFa": "سومر شف مکان مجلل خود را به کباب‌فروشی تبدیل کرد"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/8/somerpng-ZVe-LSPRMES5Fr5oS3vqPQ.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/8/somerpng-ZVe-LSPRMES5Fr5oS3vqPQ.png?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/maasjpg-CaKTbvB8jUyfesAEp6iSsg.JPG?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/trumpsozjpg-lNfddxzKVU2lZu9ENc3Qzg.jpg?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac1d718d83705fac612211apng-JZOyMSR_X0GglNxwq-W1vg.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "تبدیل رستوران سومر سیوری‌اوغلو، داور مسترشف ترکیه، به کباب‌فروشی",
+   "summaryFa": "سومر سیوری‌اوغلو، داور مسابقه مسترشف ترکیه، رستوران خود را به یک کباب‌فروشی تبدیل کرد. این تغییر پس از بروز مشکلاتی در زمینه حق نام تجاری این مجموعه صورت گرفته است.",
+   "bodyFa": [
+    "سومر سیوری‌اوغلو، آشپز سرشناس و یکی از داوران مسابقه محبوب «مسترشف ترکیه»، دست به تغییر فعالیت یکی از مراکز کسب‌وکار خود زده است. او که علاوه بر حضور در برنامه‌های تلویزیونی به عنوان رستوران‌دار نیز شناخته می‌شود، تصمیم گرفته مفهوم و سبک فعالیت رستورانش را تغییر دهد.",
+    "علت اصلی این اقدام، مواجهه این چهره مطرح با مشکلات مربوط به حق نام تجاری (علامت تجاری) رستوران قبلی عنوان شده است. او پس از بروز این چالش‌های حقوقی، تصمیم گرفت مکان مذکور را بازطراحی کرده و فعالیت آن را در قالب یک کباب‌فروشی ادامه دهد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "f20a8b0f876a",
+   "url": "https://www.sozcu.com.tr/hazar-erguclu-odul-almak-icin-ciktigi-sahnede-isyan-etti-p365927",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Hazar Ergüçlü ödül almak için çıktığı sahnede isyan etti",
+   "snippet": "Hazar Ergüçlü, 33. Uluslararası Adana Altın Koza Film Festivali’nde En İyi Kadın Oyuncu Ödülü’nü aldı. Ödül konuşmasında...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/hazarerguclujpg-7UcbHuz-EEa9rrKk7zO7KQ.jpg",
+   "video": null,
+   "published": "2026-10-04T06:02:30.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/hazar-erguclu-odul-almak-icin-ciktigi-sahnede-isyan-etti-p365927",
+     "title": "Hazar Ergüçlü ödül almak için çıktığı sahnede isyan etti",
+     "snippet": "Hazar Ergüçlü, 33. Uluslararası Adana Altın Koza Film Festivali’nde En İyi Kadın Oyuncu Ödülü’nü aldı. Ödül konuşmasında...",
+     "published": "2026-10-04T06:02:30.000Z",
+     "titleFa": "اعتراض هزار ارگوچلو روی صحنه هنگام دریافت جایزه"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/hazarerguclujpg-7UcbHuz-EEa9rrKk7zO7KQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/hazarerguclujpg-7UcbHuz-EEa9rrKk7zO7KQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/hazar-erguclujpg-HYZIS6hJOUK3b6GcGKvwWQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/maasjpg-CaKTbvB8jUyfesAEp6iSsg.JPG?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/trumpsozjpg-lNfddxzKVU2lZu9ENc3Qzg.jpg?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "هزار ارگوچلو جایزه بهترین بازیگر زن را در جشنواره فیلم آدانا دریافت کرد",
+   "summaryFa": "هزار ارگوچلو در سی و سومین جشنواره بین‌المللی فیلم پیله طلایی آدانا برنده جایزه بهترین بازیگر زن شد. سخنان او روی صحنه در یادبود معدنچی جان‌باخته در سوما توجهات را به خود جلب کرد.",
+   "bodyFa": [
+    "هزار ارگوچلو، بازیگر شناخته‌شده، در سی و سومین دوره از جشنواره بین‌المللی فیلم پیله طلایی آدانا به عنوان برنده جایزه بهترین بازیگر زن انتخاب شد و برای دریافت جایزه خود به روی صحنه رفت.",
+    "این بازیگر در جریان سخنرانی خود پس از دریافت جایزه، از معدنچی جان‌باخته در حادثه سوما و فرزندان به جا مانده از او یاد کرد. صحبت‌های او روی صحنه و واکنش وی بازتاب زیادی در رسانه‌ها داشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "fd98612c0596",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/melek-mosso-miguelle-sefilligi-seviyoruz-43328874",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Melek Mosso: Miguel’le sefilliği seviyoruz",
+   "snippet": "Melek Mosso, İspanyol sevgilisi Miguel’le ilişkisini anlattı. Birlikte kamp yaptıklarını söyleyen şarkıcı, “Çadır kuruyor, ateşimizi yakıyor, yemeğimizi yapıyoruz. Sefilliği seviyoruz yani. Dağın taşın içinde sabah kalkmak bize çok iyi geliyor” dedi.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac1e6ae83386a49177b21ad.jpg",
+   "video": null,
+   "published": "2026-10-04T05:40:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/melek-mosso-miguelle-sefilligi-seviyoruz-43328874",
+     "title": "Melek Mosso: Miguel’le sefilliği seviyoruz",
+     "snippet": "Melek Mosso, İspanyol sevgilisi Miguel’le ilişkisini anlattı. Birlikte kamp yaptıklarını söyleyen şarkıcı, “Çadır kuruyor, ateşimizi yakıyor, yemeğimizi yapıyoruz. Sefilliği seviyoruz yani. Dağın taşın içinde sabah kalkmak bize çok iyi geliyor” dedi.",
+     "published": "2026-10-04T05:40:00.000Z",
+     "titleFa": "ملک موسو: من و میگل عاشق زندگی ساده و سختی کشیدن هستیم"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac1e6ae83386a49177b21ad.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac1e6ae83386a49177b21ad.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "صحبت‌های ملک موسو درباره کمپینگ و زندگی در طبیعت همراه با میگل",
+   "summaryFa": "ملک موسو با اشاره به رابطه‌اش با میگل اعلام کرد که آن‌ها به کمپینگ علاقه دارند و از تجربه زندگی ساده در طبیعت لذت می‌برند.",
+   "bodyFa": [
+    "ملک موسو، خواننده شناخته‌شده، درباره رابطه‌اش با نامزد اسپانیایی خود به نام میگل صحبت کرد و از علاقه مشترکشان به وقت‌گذرانی و اقامت در دل طبیعت گفت.",
+    "او با اشاره به اینکه آن‌ها با یکدیگر به کمپینگ می‌روند، توضیح داد که چادر برپا می‌کنند، آتش روشن کرده و غذایشان را خودشان درست می‌کنند. این خواننده بیان کرد که از این سبک زندگی بی‌پیرایه و ساده لذت می‌برند و بیدار شدن در طبیعت و میان کوه‌ها حس بسیار خوبی به آن‌ها می‌بخشد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "59c20e3bbae3",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/ozge-gurel-anne-baba-olmaya-sicagiz-43328867",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Özge Gürel: Anne-baba olmaya sıcağız",
+   "snippet": "Yer aldığı projelerle sadece yurtiçinde değil, yurtdışında da adından söz ettiren Özge Gürel, özel hayatını ise gözlerden uzakta yaşamayı tercih ediyor. 9 Ekim’de vizyona girecek “Medeni Haller” filmi vesilesiyle buluştuğumuz oyuncu; gündemindeki projelerden hayatındaki kaosa, Serkan Çayoğlu’yla evliliğinden anne-baba olma hayallerine kadar hakkında merak edilenleri samimiyetle anlattı. Gürel, “Ana akımı özledim” diyerek televizyon ekranına dönüş sinyali de verdi.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac1dafa83386a49177b217d.jpg",
+   "video": null,
+   "published": "2026-10-04T04:50:00.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "serkan-cayoglu"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/ozge-gurel-anne-baba-olmaya-sicagiz-43328867",
+     "title": "Özge Gürel: Anne-baba olmaya sıcağız",
+     "snippet": "Yer aldığı projelerle sadece yurtiçinde değil, yurtdışında da adından söz ettiren Özge Gürel, özel hayatını ise gözlerden uzakta yaşamayı tercih ediyor. 9 Ekim’de vizyona girecek “Medeni Haller” filmi vesilesiyle buluştuğumuz oyuncu; gündemindeki projelerden hayatındaki kaosa, Serkan Çayoğlu’yla evl",
+     "published": "2026-10-04T04:50:00.000Z",
+     "titleFa": "اوزگه گورل: به پدر و مادر شدن روی خوش نشان می‌دهیم"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac1dafa83386a49177b217d.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac1dafa83386a49177b217d.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "اوزگه گورل: به پدر و مادر شدن روی خوش نشان می‌دهیم",
+   "summaryFa": "اوزگه گورل در مصاحبه‌ای جدید به مناسبت اکران فیلم خود، درباره زندگی مشترکش با سرکان چای‌اوغلو و تمایلشان به بچه‌دار شدن صحبت کرد.",
+   "bodyFa": [
+    "اوزگه گورل، بازیگر مطرح ترکیه‌ای که با پروژه‌های خود نه تنها در داخل کشور بلکه در خارج از ترکیه نیز به شهرت رسیده است، ترجیح می‌دهد زندگی خصوصی خود را به دور از چشم رسانه‌ها بگذراند. او به مناسبت اکران فیلم جدیدش به نام «مدنی هالر» (Medeni Haller) که قرار است در تاریخ ۹ اکتبر اکران شود، در یک گفتگوی جدید شرکت کرده است.",
+    "این ستاره سینما و تلویزیون در این مصاحبه درباره پروژه‌های در دست اقدام خود، شلوغی‌ها و هرج‌ومرج‌های زندگی‌اش و همچنین ازدواجش با سرکان چای‌اوغلو صحبت کرد. او در بخشی از این گفتگو با اشاره به موضوع فرزندآوری اعلام کرد که او و همسرش نسبت به پدر و مادر شدن تمایل دارند و به این موضوع با دیدی مثبت نگاه می‌کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "8fa82bfceda2",
+   "url": "https://www.milliyet.com.tr/magazin/vegasta-her-sey-sahte-turk-bayragi-gercekti-7672595",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Vegas’ta her şey sahte Türk bayrağı gerçekti!",
+   "snippet": "DOÇ. DR. EFE SIVIŞ -Öteki topuklu, ceketli, parfümlüydü ve Nobu’ya, Spago’ya, Hakkasan’a, Frank Sinatra’nın favori restoranı Golden Steer’e yöneliyordu. Bu şehirde dünyalar yan yana duruyor ama birbirine karışmıyor. Ben ikisine birden gidiyordum, o yüzden gömlek ve ceketle Metallica konserindeydim. Gecenin ikinci yarısında uyumsuz kalacağıma, metalcilerin arasında takım elbiseli amca gibi durmayı tercih ettim. Metallica benim dünyamın grubu değil. Daha önce Coldplay, Radiohead ve Keane gibi grup",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac187ed6a20a7c2fa32d331.jpg",
+   "video": null,
+   "published": "2026-10-04T04:02:14.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/vegasta-her-sey-sahte-turk-bayragi-gercekti-7672595",
+     "title": "Vegas’ta her şey sahte Türk bayrağı gerçekti!",
+     "snippet": "DOÇ. DR. EFE SIVIŞ -Öteki topuklu, ceketli, parfümlüydü ve Nobu’ya, Spago’ya, Hakkasan’a, Frank Sinatra’nın favori restoranı Golden Steer’e yöneliyordu. Bu şehirde dünyalar yan yana duruyor ama birbirine karışmıyor. Ben ikisine birden gidiyordum, o yüzden gömlek ve ceketle Metallica konserindeydim. ",
+     "published": "2026-10-04T04:02:14.000Z",
+     "titleFa": "در وگاس همه‌چیز ساختگی بود، پرچم ترکیه واقعی بود!"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac187ed6a20a7c2fa32d331.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac187ed6a20a7c2fa32d331.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "روایت نویسنده ترک از فضای متضاد لاس‌وگاس و کنسرت متالیکا",
+   "summaryFa": "دانشیار دکتر افه سیویش در یادداشتی به توصیف فضای شهر لاس‌وگاس و حضور هم‌زمان دو گروه کاملاً متفاوت از افراد پرداخته است.",
+   "bodyFa": [
+    "بر اساس یادداشت منتشرشده به قلم دانشیار دکتر افه سیویش، در شبی در شهر لاس‌وگاس دو جریان کاملاً متفاوت از جمعیت در خیابان‌ها دیده می‌شدند. گروهی از آن‌ها با تی‌شرت‌های مشکی و شلوارهای جین پاره به سوی سازه «اسفیر» و کنسرت گروه متالیکا حرکت می‌کردند.",
+    "در سوی دیگر، افرادی با پوشش‌های رسمی، کت و کفش‌های پاشنه‌دار راهی رستوران‌های معروفی مانند نوبو، اسپاگو، هاکاسان و رستوران گلدن استیر، پاتوق محبوب فرانک سیناترا، بودند. نویسنده اشاره کرده که در این شهر دنیاهای متفاوت کنار هم قرار دارند بی‌آنکه با یکدیگر ترکیب شوند، و او نیز به دلیل برنامه حضور در هر دو فضا، با پیراهن و کت در کنسرت متالیکا حضور یافته بود."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "a6624f8ac266",
+   "url": "https://www.milliyet.com.tr/magazin/dicle-hayali-gercek-mi-oluyor-7672594",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Dicle hayali gerçek mi oluyor?",
+   "snippet": "İzleyiciler, “Alya hamile mi?” sorusunun yanıtını ararken, hamilelik ihtimali Cihan (Ozan Akbaba) ve Alya’nın aylar önce kurduğu “Çocuğumuz olursa adı Dicle olsun” hayalini yeniden akıllara getirdi. ‘CihAl’ hayranları, “Dicle bebek geliyor!” ve “Küçük Dicle yolda!” yorumlarıyla hamilelik iddialarını şimdiden kutlamaya başladı. ‘Uzak Şehir’, yeni bölümüyle yarın akşam saat 20.00’da Kanal D ekranlarında izleyiciyle buluşacak.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac187646a20a7c2fa32d32b.jpg",
+   "video": null,
+   "published": "2026-10-04T04:02:14.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "uzak-sehir"
+    ],
+    "people": [
+     "ozan-akbaba"
+    ],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/dicle-hayali-gercek-mi-oluyor-7672594",
+     "title": "Dicle hayali gerçek mi oluyor?",
+     "snippet": "İzleyiciler, “Alya hamile mi?” sorusunun yanıtını ararken, hamilelik ihtimali Cihan (Ozan Akbaba) ve Alya’nın aylar önce kurduğu “Çocuğumuz olursa adı Dicle olsun” hayalini yeniden akıllara getirdi. ‘CihAl’ hayranları, “Dicle bebek geliyor!” ve “Küçük Dicle yolda!” yorumlarıyla hamilelik iddialarını",
+     "published": "2026-10-04T04:02:14.000Z",
+     "titleFa": "آیا رویای دجله حقیقت دارد؟"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac187646a20a7c2fa32d32b.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac187646a20a7c2fa32d32b.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "آیا رویای دجله در سریال شهر دور حقیقت پیدا می‌کند؟",
+   "summaryFa": "در سریال «شهر دور» دردها و گرفتن شکم توسط آلیا باعث ایجاد سوالاتی درباره احتمال بارداری او شده است. این موضوع یادآور رویای قدیمی جهان و آلیا درباره نامگذاری فرزندشان به نام دجله است.",
+   "bodyFa": [
+    "در سریال «شهر دور» محصول کانال دی، نشانه‌هایی دیده شده که توجه مخاطبان را به خود جلب کرده است. آلیا با بازی سینم اونصال در سریال به طور مکرر دچار درد شده و شکم خود را می‌گیرد که همین امر سوالاتی را درباره احتمال بارداری او در میان بینندگان به وجود آورده است.",
+    "این احتمال، رویایی را که جهان با بازی اوزان آکبابا و آلیا ماه‌ها پیش مطرح کرده بودند، دوباره زنده کرده است. آن‌ها پیش‌تر توافق کرده بودند که اگر فرزندی داشته باشند، نام او را دجله بگذارند. طرفداران این زوج با نظراتی پیرامون آمدن نوزاد دجله، این ادعاهای بارداری را بازتاب داده‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "3864f241a9b1",
+   "url": "https://www.milliyet.com.tr/magazin/ersoy-sevgisi-yagmur-dinlemedi-7672593",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Ersoy sevgisi yağmur dinlemedi",
+   "snippet": "Sağanak yağışın Ersoy sevgisine engel olamadığı gecede unutulmaz klasikleriyle Bursalıları mest eden sanatçı, alanı boş bırakmayan misafirlerine teşekkür etti.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac1870f6a20a7c2fa32d325.jpg",
+   "video": null,
+   "published": "2026-10-04T04:02:13.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/ersoy-sevgisi-yagmur-dinlemedi-7672593",
+     "title": "Ersoy sevgisi yağmur dinlemedi",
+     "snippet": "Sağanak yağışın Ersoy sevgisine engel olamadığı gecede unutulmaz klasikleriyle Bursalıları mest eden sanatçı, alanı boş bırakmayan misafirlerine teşekkür etti.",
+     "published": "2026-10-04T04:02:13.000Z",
+     "titleFa": "علاقه به ارسوی مانع باران نشد"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac1870f6a20a7c2fa32d325.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac1870f6a20a7c2fa32d325.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "برگزاری کنسرت معزز ارسوی در بورسا با وجود بارش شدید باران",
+   "summaryFa": "معزز ارسوی در صحنه روباز بورسا با طرفداران خود دیدار کرد و با اجرای ترانه‌های ماندگارش شب خاطره‌انگیزی رقم زد. با وجود بارش شدید باران، علاقه‌مندان محل برگزاری را خالی نگذاشتند و این هنرمند از حضور آن‌ها تشکر کرد.",
+   "bodyFa": [
+    "معزز ارسوی، هنرمند سرشناس، در صحنه روباز بورسا با علاقه‌مندان و طرفداران خود دیدار کرد و به اجرای برنامه پرداخت.",
+    "با وجود اینکه در طول برنامه بارش شدید باران ادامه داشت، این شرایط جوی مانع حضور مردم نشد و علاقه‌مندان تا پایان کنسرت در محل باقی ماندند. ارسوی با اجرای آثار کلاسیک و ماندگار خود حاضران را به وجد آورد و در پایان از مهمانانی که در این شب بارانی او را تنها نگذاشتند، تشکر و قدردانی کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "c60b27d1db90",
+   "url": "https://www.milliyet.com.tr/magazin/teodan-deniz-kizina-surpriz-teklif-7672592",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Teo’dan deniz kızına sürpriz teklif!",
+   "snippet": "Kanal D’nin pazar akşamlarına damgasını vuran dizisi ‘Daha 17’, yeni bölüm tanıtımıyla merak uyandırdı. Teoman (Ata Yaşat) ile Aras (Çağan Efe Ak) arasında büyüyen gerilim dikkat çekerken, asıl sürpriz Teo’dan geldi. “Deniz kızı” olarak seslendiği Deniz’in (Helin Elveren) kapısına dayanıp, yaptığı teklifle ezber bozan Teoman’ın, Aras’ı dolaba kilitlediği sahne ise gerilim dozunun yükseldiğinin sinyalini verdi. Aras’ın, “Sana yardım edeyim” sözleri üzerine öfkesi körüklenen Teoman’ın, “Gir o zama",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac1867a6a20a7c2fa32d31f.jpg",
+   "video": null,
+   "published": "2026-10-04T04:02:13.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "daha-17"
+    ],
+    "people": [
+     "cagan-efe-ak",
+     "ata-yasat",
+     "helin-elveren"
+    ],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/teodan-deniz-kizina-surpriz-teklif-7672592",
+     "title": "Teo’dan deniz kızına sürpriz teklif!",
+     "snippet": "Kanal D’nin pazar akşamlarına damgasını vuran dizisi ‘Daha 17’, yeni bölüm tanıtımıyla merak uyandırdı. Teoman (Ata Yaşat) ile Aras (Çağan Efe Ak) arasında büyüyen gerilim dikkat çekerken, asıl sürpriz Teo’dan geldi. “Deniz kızı” olarak seslendiği Deniz’in (Helin Elveren) kapısına dayanıp, yaptığı t",
+     "published": "2026-10-04T04:02:13.000Z",
+     "titleFa": "پیشنهاد غافلگیرکننده تئو به پری دریایی!"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac1867a6a20a7c2fa32d31f.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac1867a6a20a7c2fa32d31f.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "پیش-نمایش جدید سریال «Daha 17» و پیشنهاد غافلگیرکننده تئو",
+   "summaryFa": "انتشار تریلر جدید سریال «Daha 17» از شبکه کانال دی توجه مخاطبان را جلب کرد. در این قسمت تنش میان تئو و آراس افزایش می‌یابد و تئو به سراغ دنیز می‌رود.",
+   "bodyFa": [
+    "سریال پرطرفدار «Daha 17» محصول شبکه کانال دی ترکیه با انتشار ویدئوی معرفی قسمت جدید خود کنجکاوی هواداران را برانگیخت. در این بخش، بالا گرفتن تنش‌ها میان تئومان با بازی آتا یاشات و آراس با بازی چاغان افه آک مورد توجه قرار گرفته است.",
+    "مهم‌ترین اتفاق این تریلر مربوط به شخصیت تئو است که او را در حال رفتن به خانه دنیز با بازی هلین الورن نشان می‌دهد. این سکانس و پیشنهاد تئو به دنیز که او را «پری دریایی» خطاب می‌کند، هیجان زیادی میان طرفداران این زوج ایجاد کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "325f1e24d981",
+   "url": "https://www.milliyet.com.tr/magazin/sahneden-bebek-diledi-7672591",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Sahneden ‘bebek’ diledi",
+   "snippet": "MESUT YILMAZ -İspanyol sevgilisi Jose Miguel Gonzalez Iglesias’ın Türkçe öğrenmeye çalıştığını söyleyen sanatçı, “Annemle iletişim kurmak istiyor, bu da çok hoşuma gidiyor” dedi. İstanbul Maslak’taki Yeni Cabaret sahnesinde minik bir hayranının doğum gününü ‘Kırmızı Balık’ şarkısıyla kutlayan Mosso, “Allah’ım bana da nasip et” sözleriyle anneliğe yeşil ışık yaktı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac186286a20a7c2fa32d318.jpg",
+   "video": null,
+   "published": "2026-10-04T04:02:12.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/sahneden-bebek-diledi-7672591",
+     "title": "Sahneden ‘bebek’ diledi",
+     "snippet": "MESUT YILMAZ -İspanyol sevgilisi Jose Miguel Gonzalez Iglesias’ın Türkçe öğrenmeye çalıştığını söyleyen sanatçı, “Annemle iletişim kurmak istiyor, bu da çok hoşuma gidiyor” dedi. İstanbul Maslak’taki Yeni Cabaret sahnesinde minik bir hayranının doğum gününü ‘Kırmızı Balık’ şarkısıyla kutlayan Mosso,",
+     "published": "2026-10-04T04:02:12.000Z",
+     "titleFa": "آرزوی «کودک» از روی صحنه"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac186286a20a7c2fa32d318.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac186286a20a7c2fa32d318.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "صحبت‌های ملک موسو درباره تلاش پارتنر اسپانیایی‌اش برای یادگیری زبان ترکی",
+   "summaryFa": "ملک موسو اعلام کرد که پارتنر اسپانیایی‌اش برای ارتباط با مادر او در حال یادگیری زبان ترکی است. او همچنین روی صحنه تولد یکی از طرفداران خردسالش را جشن گرفت.",
+   "bodyFa": [
+    "ملک موسو، خواننده مطرح، پیش از اجرای برنامه خود در سالن «ینی کاباره» واقع در منطقه مسلک استانبول، به سوالات خبرنگاران پاسخ داد. او در این گفتگو به رابطه خود با پارتنر اسپانیایی‌اش، خوزه میگل گونزالس ایگلسیاس، اشاره کرد و گفت که او در تلاش است تا زبان ترکی را بیاموزد. موسو ابراز داشت که تمایل پارتنرش برای برقراری ارتباط با مادر او، حس بسیار خوبی به وی می‌دهد.",
+    "این هنرمند همچنین در جریان اجرایش روی صحنه، تولد یکی از طرفداران کوچک خود را با خواندن ترانه «کرمزی بالک» جشن گرفت. تیتر این گزارش خبری نیز به آرزوی مطرح‌شده از سوی او روی صحنه اشاره دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "133a12f61eed",
+   "url": "https://www.milliyet.com.tr/magazin/ankarayi-sarkilariyla-isitti-7672590",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Ankara’yı şarkılarıyla ısıttı",
+   "snippet": "Oran Açık Hava Sahnesi’nde sevenleriyle buluşan sanatçı, soğuk havaya rağmen alanı dolduran coşkulu kalabalığı şarkılarıyla ısıttı. 2025 yılında ‘O Ses Türkiye’ye katılan Sakine Akın’ı sahnesine davet eden Hadise, ‘Ara Beni’ düetiyle beğeni topladı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac185e36a20a7c2fa32d312.jpg",
+   "video": null,
+   "published": "2026-10-04T04:02:12.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/ankarayi-sarkilariyla-isitti-7672590",
+     "title": "Ankara’yı şarkılarıyla ısıttı",
+     "snippet": "Oran Açık Hava Sahnesi’nde sevenleriyle buluşan sanatçı, soğuk havaya rağmen alanı dolduran coşkulu kalabalığı şarkılarıyla ısıttı. 2025 yılında ‘O Ses Türkiye’ye katılan Sakine Akın’ı sahnesine davet eden Hadise, ‘Ara Beni’ düetiyle beğeni topladı.",
+     "published": "2026-10-04T04:02:12.000Z",
+     "titleFa": "آنکارا را با ترانه‌هایش گرم کرد"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac185e36a20a7c2fa32d312.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac185e36a20a7c2fa32d312.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "کنسرت حادثه در آنکارا و اجرای دونفره روی صحنه",
+   "summaryFa": "حادثه پس از سفر میلان، در سالن روباز آنکارا به اجرای برنامه پرداخت و با یک اجرای دونفره مورد توجه مخاطبان قرار گرفت.",
+   "bodyFa": [
+    "حادثه پس از بازگشت از سفر میلان، به آنکارا رفت و در صحنه روباز اوران با هواداران خود دیدار کرد. با وجود سردی هوا، حضور پرشور مخاطبان در محل کنسرت با استقبال این خواننده و اجرای ترانه‌هایش همراه شد.",
+    "او در جریان این برنامه، سکینه آکین را که در سال ۲۰۲۵ در برنامه «او سس ترکیه» شرکت کرده بود به روی صحنه فراخواند و این دو ترانه «Ara Beni» را به‌صورت دوصدایی اجرا کردند که مورد توجه حاضران قرار گرفت."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "0e69902f7aa4",
+   "url": "https://www.milliyet.com.tr/magazin/16-yil-sonra-gonderme-yapti-7672588",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "16 yıl sonra gönderme yaptı",
+   "snippet": "Dedüblüman’la düet yaptığı ‘Acı Bal’ şarkısının sözlerinden yola çıkılarak hazırlanan pankartları fark eden sanatçı, 2010 yılında yayınlanan ‘Oluruna Bırak’ şarkısına gönderme yapan seyircilerine takıldı. “16 yıl sonra gelen tasnif, edit” diyen Sıla, açık havada renkli anlar yaşattı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac185996a20a7c2fa32d30c.jpg",
+   "video": null,
+   "published": "2026-10-04T04:02:12.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/16-yil-sonra-gonderme-yapti-7672588",
+     "title": "16 yıl sonra gönderme yaptı",
+     "snippet": "Dedüblüman’la düet yaptığı ‘Acı Bal’ şarkısının sözlerinden yola çıkılarak hazırlanan pankartları fark eden sanatçı, 2010 yılında yayınlanan ‘Oluruna Bırak’ şarkısına gönderme yapan seyircilerine takıldı. “16 yıl sonra gelen tasnif, edit” diyen Sıla, açık havada renkli anlar yaşattı.",
+     "published": "2026-10-04T04:02:12.000Z",
+     "titleFa": "پس از ۱۶ سال کنایه زد"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac185996a20a7c2fa32d30c.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac185996a20a7c2fa32d30c.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "شوخی و کنایه سیلا با تماشاگران در کنسرت آنتالیا پس از ۱۶ سال",
+   "summaryFa": "سیلا در کنسرت روباز خود در آنتالیا با تماشاگرانی که با الهام از متن ترانه‌هایش بنر آماده کرده بودند به شوخی پرداخت.",
+   "bodyFa": [
+    "سیلا در سالن روباز آنتالیا به اجرای کنسرت برای هوادارانش پرداخت. در جریان این برنامه، او متوجه بنرهایی شد که مخاطبان با الهام از متن ترانه «Acı Bal» (اثر مشترک و هم‌خوانی او با گروه Dedüblüman) آماده کرده بودند.",
+    "تماشاگران در این بنرها به ترانه «Oluruna Bırak» که در سال ۲۰۱۰ منتشر شده بود اشاره کرده بودند. سیلا نیز با لحنی شوخ‌طبعانه به تماشاگران گفت: «دسته‌بندی و ویرایشی که پس از ۱۶ سال آمده است» و با این شوخی، لحظات شاد و متفاوتی را در هوای آزاد برای حاضران رقم زد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "1c458e98e791",
+   "url": "https://www.milliyet.com.tr/magazin/alconun-evindeki-50-yillik-mazi-7672587",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Alço’nun evindeki 50 yıllık mazi!",
+   "snippet": "Eşi Burcu Alço ile birlikte evinin kapılarını açan oyuncu; Yeşilçam filmlerinde giydiği takım elbiseleri, bir dönemin simgesi olan 50 yıllık ropdöşambırını ve kendisiyle özdeşleşen o meşhur gazoz şişesinin tabloya dönüşen hikâyesini bugün saat 12.45’te Kanal D’de izleyiciyle paylaşacak.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac185406a20a7c2fa32d306.jpg",
+   "video": null,
+   "published": "2026-10-04T04:02:11.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/alconun-evindeki-50-yillik-mazi-7672587",
+     "title": "Alço’nun evindeki 50 yıllık mazi!",
+     "snippet": "Eşi Burcu Alço ile birlikte evinin kapılarını açan oyuncu; Yeşilçam filmlerinde giydiği takım elbiseleri, bir dönemin simgesi olan 50 yıllık ropdöşambırını ve kendisiyle özdeşleşen o meşhur gazoz şişesinin tabloya dönüşen hikâyesini bugün saat 12.45’te Kanal D’de izleyiciyle paylaşacak.",
+     "published": "2026-10-04T04:02:11.000Z",
+     "titleFa": "گذشته ۵۰ ساله در خانه آلتچو!"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac185406a20a7c2fa32d306.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac185406a20a7c2fa32d306.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "گشایش درهای خانه نوری آلتچو به روی مخاطبان در برنامه «پازار گزمسی»",
+   "summaryFa": "نuri آلتچو، بازیگر نامدار سینمای یشیلچام، به همراه همسرش بورجو آلتچو در برنامه «پازار گزمسی» شبکه کانال د حضور می‌یابد. او در این برنامه خاطرات و وسایل قدیمی خود را به نمایش می‌گذارد.",
+   "bodyFa": [
+    "نوری آلتچو، یکی از چهره‌های فراموش‌نشدنی سینمای ترکیه موسوم به یشیلچام، در برنامه «پازار گزمسی» شبکه کانال د میزبان بینندگان خواهد بود. او در این برنامه به همراه همسرش بورجو آلتچو، درهای خانه خود را به روی مخاطبان می‌گشاید.",
+    "این بازیگر پیشکسوت قرار است کت‌وشلوارهایی را که در فیلم‌های یشیلچام به تن کرده، روپوش ۵۰ ساله و نمادین خود، و همچنین داستان تبدیل شدن بطری معروف گازوز به یک تابلو را با بینندگان به اشتراک بگذارد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "b9bd26734439",
+   "url": "https://www.milliyet.com.tr/magazin/arda-sefle-manti-rekabeti-7672586",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Arda Şef’le mantı rekabeti",
+   "snippet": "Mutfağa birlikte giren ikili, mercimekli mantı için kolları sıvayacak. ‘Arda ile Omuz Omuza’ stüdyosunda marifetlerini sergilemeye çalışan oyuncunun, Türkmen’le renkli rekabeti bugün saat 13.45’te Kanal D seyircisiyle buluşacak.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac184fb6a20a7c2fa32d300.jpg",
+   "video": null,
+   "published": "2026-10-04T04:02:10.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/arda-sefle-manti-rekabeti-7672586",
+     "title": "Arda Şef’le mantı rekabeti",
+     "snippet": "Mutfağa birlikte giren ikili, mercimekli mantı için kolları sıvayacak. ‘Arda ile Omuz Omuza’ stüdyosunda marifetlerini sergilemeye çalışan oyuncunun, Türkmen’le renkli rekabeti bugün saat 13.45’te Kanal D seyircisiyle buluşacak.",
+     "published": "2026-10-04T04:02:10.000Z",
+     "titleFa": "رقابت مانتی با سرآشپز آردا"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac184fb6a20a7c2fa32d300.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac184fb6a20a7c2fa32d300.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "حضور تایانچ آی‌آیدین در برنامه آشپزی آردا تورکمن",
+   "summaryFa": "تایانچ آی‌آیدین مهمان این هفته برنامه «شانه به شانه با آردا» است. او و آردا تورکمن در این برنامه برای پخت مانتی عدس رقابت می‌کنند.",
+   "bodyFa": [
+    "برنامه «شانه به شانه با آردا» به اجرا و میزبانی آردا تورکمن، این هفته میزبان تایانچ آی‌آیدین، بازیگر مطرح است. در این قسمت، این دو همراه یکدیگر وارد آشپزخانه stüdyo شده و مهارت‌های خود را برای پخت مانتی عدس به نمایش می‌گذارند.",
+    "این رقابت و همکاری جذاب میان این بازیگر و سرآشپز، امروز ساعت ۱۳:۴۵ از شبکه کانال دی (Kanal D) پخش می‌شود."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "79708df444cf",
+   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/sari-kedi-kaybolmama-izin-vermez-43328762",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Sarı kedi kaybolmama izin vermez",
+   "snippet": "Her gün başka yoldan gidiyorum evime; aynı yolu kullanamıyorum. Çünkü bir gün biri yolu kazıyor, başka zaman inşaat arabası önümü kesiyor. Kör halimle yolumu nasıl buluyorum derseniz; küçük bir dostum bana yardım ediyor.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac15e02934ff28433ad519e.jpg",
+   "video": null,
+   "published": "2026-10-04T04:00:00.000Z",
+   "scope": "general",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/sari-kedi-kaybolmama-izin-vermez-43328762",
+     "title": "Sarı kedi kaybolmama izin vermez",
+     "snippet": "Her gün başka yoldan gidiyorum evime; aynı yolu kullanamıyorum. Çünkü bir gün biri yolu kazıyor, başka zaman inşaat arabası önümü kesiyor. Kör halimle yolumu nasıl buluyorum derseniz; küçük bir dostum bana yardım ediyor.",
+     "published": "2026-10-04T04:00:00.000Z",
+     "titleFa": "گربه زرد اجازه گم شدن به من نمی‌دهد"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac15e02934ff28433ad519e.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac15e02934ff28433ad519e.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "گربه زرد اجازه گم شدن به من نمی‌دهد",
+   "summaryFa": "یک فرد نابینا توضیح می‌دهد که چگونه هر روز از مسیرهای متفاوتی به خانه می‌رود و یک گربه کوچک به او در پیدا کردن مسیر کمک می‌کند.",
+   "bodyFa": [
+    "این فرد بیان می‌کند که امکان رفتن از یک مسیر تکراری برای رسیدن به خانه وجود ندارد، زیرا هر روز موانعی مانند حفاری مسیرها یا خودروهای ساختمانی در راه وجود دارد.",
+    "او توضیح می‌دهد که با وجود نابینایی، یک دوست کوچک به او کمک می‌کند تا مسیر خود را پیدا کند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "b8f437d9b37a",
+   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/sanki-biri-kuzey-digeri-guney-tom-mu-brad-mi-iste-butun-mesele-bu-43328766",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "‘Sanki biri kuzey, diğeri güney’ Tom mu Brad mi? İşte bütün mesele bu!",
+   "snippet": "Yıllar önce ‘Vampirle Görüşme’ filminde birlikte rol aldılar, şimdi de gişede buluştular. Brad Pitt’in ‘Vahşinin Kalbi’, Tom Cruise’un da ‘Digger’ adlı filmi cuma günü vizyona girdi. Aynı kuşağın yıldızları ama geceyle gündüz kadar farklılar. Cruise aksiyon şovlarıyla izleyicisini tavlıyor, Pitt rahatlığıyla sempati kazanıyor. Ama ikilinin bir ortak noktası var; o da sansasyonel yaşamları.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac1645c934ff28433ad51be.jpg",
+   "video": null,
+   "published": "2026-10-04T04:00:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/sanki-biri-kuzey-digeri-guney-tom-mu-brad-mi-iste-butun-mesele-bu-43328766",
+     "title": "‘Sanki biri kuzey, diğeri güney’ Tom mu Brad mi? İşte bütün mesele bu!",
+     "snippet": "Yıllar önce ‘Vampirle Görüşme’ filminde birlikte rol aldılar, şimdi de gişede buluştular. Brad Pitt’in ‘Vahşinin Kalbi’, Tom Cruise’un da ‘Digger’ adlı filmi cuma günü vizyona girdi. Aynı kuşağın yıldızları ama geceyle gündüz kadar farklılar. Cruise aksiyon şovlarıyla izleyicisini tavlıyor, Pitt rah",
+     "published": "2026-10-04T04:00:00.000Z",
+     "titleFa": "«انگار یکی شمال است و دیگری جنوب» تام یا برد؟ مسئله این است!"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac1645c934ff28433ad51be.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac1645c934ff28433ad51be.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "رقابت گیشه‌ای تام کروز و برد پیت با اکران هم‌زمان فیلم‌های جدیدشان",
+   "summaryFa": "فیلم‌های جدید تام کروز و برد پیت به‌طور هم‌زمان در روز جمعه روی پرده سینماها رفتند تا رقابت تازه‌ای میان این دو ستاره هم‌نسل شکل بگیرد.",
+   "bodyFa": [
+    "تام کروز و برد پیت، دو بازیگر برجسته سینما که سال‌ها پیش در فیلم «مصاحبه با خون‌آشام» کنار یکدیگر به ایفای نقش پرداخته بودند، بار دیگر در گیشه سینماها با یکدیگر روبرو شده‌اند. فیلم جدید برد پیت با عنوان «قلب وحشی» و اثر تازه تام کروز با نام «دیگر» هر دو در روز جمعه به روی پرده رفته‌اند.",
+    "این دو ستاره متعلق به یک نسل هستند اما سبک‌های کاملاً متفاوتی در هنرپیشگی دارند. تام کروز معمولاً با صحنه‌های اکشن و پرتحرک تماشاگران را جذب می‌کند، در حالی که برد پیت رویکرد متفاوتی دارد. اکران هم‌زمان این دو فیلم، توجه رسانه‌ها را به رقابت گیشه‌ای این دو بازیگر جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "0425b582c4a6",
+   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/nasil-bir-sanridir-ki-bu-kadinlar-belli-bir-yastan-sonra-kenara-cekilsin-hayir-cekilmeyecek-cekilmesin-de-43328771",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "‘Nasıl bir sanrıdır ki bu, kadınlar belli bir yaştan sonra kenara çekilsin... Hayır, çekilmeyecek, çekilmesin de!’",
+   "snippet": "O Türkiye’nin en yetenekli oyuncularından. Bir süre önce köye yerleşti, hepimizi şaşırttı. Sebebini “Hiçbir şeyin artık özü yok. Kimse, hatta yediklerin bile kendisi gibi değil. Mesela enginar yesen de patlıcan yesen de aynı tat” diye anlatıyor. Sosyal medyadaki esprili videolarıyla da gündemde. Traktör de kullandı, evini de boyadı. Nurgül Yeşilçay şimdi yeni projesiyle karşımızda. Rolü için araba tamircileriyle tanıştı, saçlarını 8 ay boyatmadı. Buluşup yaptıklarını, işini, ilişkisini ve oyuncu",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac167f4934ff28433ad51d8.jpg",
+   "video": null,
+   "published": "2026-10-04T04:00:00.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "nurgul-yesilcay"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/nasil-bir-sanridir-ki-bu-kadinlar-belli-bir-yastan-sonra-kenara-cekilsin-hayir-cekilmeyecek-cekilmesin-de-43328771",
+     "title": "‘Nasıl bir sanrıdır ki bu, kadınlar belli bir yaştan sonra kenara çekilsin... Hayır, çekilmeyecek, çekilmesin de!’",
+     "snippet": "O Türkiye’nin en yetenekli oyuncularından. Bir süre önce köye yerleşti, hepimizi şaşırttı. Sebebini “Hiçbir şeyin artık özü yok. Kimse, hatta yediklerin bile kendisi gibi değil. Mesela enginar yesen de patlıcan yesen de aynı tat” diye anlatıyor. Sosyal medyadaki esprili videolarıyla da gündemde. Tra",
+     "published": "2026-10-04T04:00:00.000Z",
+     "titleFa": "«Nasıl bir sanrıdır ki bu, kadınlar belli bir yaştan sonra kenara çekilsin... Hayır, çekilmeyecek, çekilmesin de!»"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac167f4934ff28433ad51d8.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac167f4934ff28433ad51d8.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "نورگول یشیلچای درباره نقل مکان به روستا و دیدگاه‌هایش صحبت کرد",
+   "summaryFa": "نورگول یشیلچای، یکی از بازیگران مستعد ترکیه، دلیل نقل مکان خود به روستا را از دست رفتن اصالت مواد غذایی و همه‌چیز عنوان کرد. او همچنین به موضوع سن زنان در جامعه پرداخت.",
+   "bodyFa": [
+    "نورگول یشیلچای، بازیگر شناخته‌شده ترکیه، مدتی پیش تصمیم گرفت به روستا نقل مکان کند که این موضوع تعجب همگان را برانگیخت. او در توضیح این تصمیم گفته است که دیگر هیچ‌چیز اصالت ندارد و حتی مواد غذایی طعم واقعی خود را از دست داده‌اند، به طوری که طعم سبزیجات مختلف تفاوتی با هم ندارد.",
+    "این بازیگر مطرح همچنین با انتشار ویدیوهای طنز در شبکه‌های اجتماعی مورد توجه قرار دارد و دیدگاه خود را درباره جایگاه زنان و این تفکر که آن‌ها باید پس از سن مشخصی کنار بروند، رد کرده و تأکید کرده است که زنان نباید کنار بروند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "9871eff5df60",
+   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/murat-ceylan-wish-televizyondan-kazandigim-tum-parami-muzikte-dibine-kadar-harcamaya-hazirim-43328776",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Murat Ceylan Wish: ‘Televizyondan kazandığım tüm paramı müzikte dibine kadar harcamaya hazırım’",
+   "snippet": "Onu çoğumuz ‘Survivor’dan tanıyoruz ama Murat Ceylan Wish’in asıl tutkusu müzik. Yeni yayımladığı şarkısı ‘İyi Köpek’ kısa sürede 1 milyon 300 bini aşkın görüntülenmeye ulaşan sanatçı şimdi de yeni teklisi ‘Kanlı Aşk’ı yayımladı.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac16a64934ff28433ad51f8.jpg",
+   "video": null,
+   "published": "2026-10-04T04:00:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/murat-ceylan-wish-televizyondan-kazandigim-tum-parami-muzikte-dibine-kadar-harcamaya-hazirim-43328776",
+     "title": "Murat Ceylan Wish: ‘Televizyondan kazandığım tüm paramı müzikte dibine kadar harcamaya hazırım’",
+     "snippet": "Onu çoğumuz ‘Survivor’dan tanıyoruz ama Murat Ceylan Wish’in asıl tutkusu müzik. Yeni yayımladığı şarkısı ‘İyi Köpek’ kısa sürede 1 milyon 300 bini aşkın görüntülenmeye ulaşan sanatçı şimdi de yeni teklisi ‘Kanlı Aşk’ı yayımladı.",
+     "published": "2026-10-04T04:00:00.000Z",
+     "titleFa": "مورات جیلان ویش: آماده‌ام تمام پولی را که از تلویزیون به دست می‌آورم تا آخرین شاهی در راه موسیقی خرج کنم"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac16a64934ff28433ad51f8.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac16a64934ff28433ad51f8.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "مورات جیلان ویش: آماده‌ام تمام پولی را که از تلویزیون به دست می‌آورم در راه موسیقی خرج کنم",
+   "summaryFa": "مورات جیلان ویش که بیشتر با برنامه «سروایور» شناخته می‌شود، اعلام کرد اشتیاق واقعی او موسیقی است و آماده است تمام درآمد تلویزیونی خود را در این راه صرف کند.",
+   "bodyFa": [
+    "مورات جیلان ویش که بسیاری از مخاطبان او را از طریق حضور در برنامه تلویزیونی «سروایور» می‌شناسند، اعلام کرده است که اشتیاق و علاقه اصلی او موسیقی است. او اظهار داشته که آمادگی دارد تمامی مبالغی را که از طریق تلویزیون به دست می‌آورد، به طور کامل در حوزه موسیقی هزینه کند.",
+    "این هنرمند به تازگی تک‌آهنگ جدید خود به نام «Kanlı Aşk» (عشق خونین) را منتشر کرده است. این در حالی است که ترانه قبلی او با عنوان «İyi Köpek» (سگ خوب) در مدت کوتاهی توانست به بیش از ۱ میلیون و ۳۰۰ هزار بازدید دست یابد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "6681dac59685",
+   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/merak-etmeyi-biraktiginiz-an-yaslanmaya-baslarsiniz-43328787",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "‘Merak etmeyi bıraktığınız an yaşlanmaya başlarsınız’",
+   "snippet": "Caz dinlediği için hapis yattı, 1990’da ülkesi Küba’dan ayrıldı, modern cazın kurucusu sayılan Amerikalı müzisyen Dizzy Gillespie’nin yardımıyla yeni bir hayat kurdu. 36. Akbank Caz Festivali için İstanbul’da konser vermeye hazırlanan Arturo Sandoval’la film gibi hayatını ve müzik kariyerini konuştuk.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac16dd9934ff28433ad5218.jpg",
+   "video": null,
+   "published": "2026-10-04T04:00:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/merak-etmeyi-biraktiginiz-an-yaslanmaya-baslarsiniz-43328787",
+     "title": "‘Merak etmeyi bıraktığınız an yaşlanmaya başlarsınız’",
+     "snippet": "Caz dinlediği için hapis yattı, 1990’da ülkesi Küba’dan ayrıldı, modern cazın kurucusu sayılan Amerikalı müzisyen Dizzy Gillespie’nin yardımıyla yeni bir hayat kurdu. 36. Akbank Caz Festivali için İstanbul’da konser vermeye hazırlanan Arturo Sandoval’la film gibi hayatını ve müzik kariyerini konuştu",
+     "published": "2026-10-04T04:00:00.000Z",
+     "titleFa": "«لحظه‌ای که دست از کنجکاوی بردارید، پیر می‌شوید»"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac16dd9934ff28433ad5218.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac16dd9934ff28433ad5218.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "گفت‌وگو با آرتورو ساندوال در آستانه کنسرتش در سی‌وششمین جشنواره جاز استانبول",
+   "summaryFa": "آرتورو ساندوال، نوازنده‌ای که به دلیل گوش دادن به موسیقی جاز زندانی شده بود، در آستانه اجرای کنسرت در جشنواره جاز آک‌بانک استانبول از زندگی و فعالیت حرفه‌ای خود سخن گفت.",
+   "bodyFa": [
+    "آرتورو ساندوال خود را برای اجرای کنسرت در سی‌وششمین دوره جشنواره جاز آک‌بانک در استانبول آماده می‌کند. به همین مناسبت، در گفت‌وگویی به مرور زندگی پرماجرا و مسیر حرفه‌ای او در عرصه موسیقی پرداخته شده است؛ هنرمندی که باور دارد انسان درست از لحظه‌ای که حس کنجکاوی را از دست بدهد، روند پیری را آغاز می‌کند.",
+    "زندگی این نوازنده رویدادهای دشواری را پشت سر گذاشته است؛ او زمانی به جرم شنیدن موسیقی جاز به زندان افتاد و در سال ۱۹۹۰ ناچار شد کشورش کوبا را ترک کند. ساندوال پس از مهاجرت، با همراهی و یاری دیزی گیلیسپی، موسیقیدان برجسته آمریکایی و یکی از پایه‌گذاران جاز مدرن، توانست فصل و زندگی تازه‌ای را در فعالیت‌های هنری خود آغاز کند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "d47338063bd9",
    "url": "https://www.milliyet.com.tr/magazin/galeri/tek-celsede-bosanmisti-survivor-sahra-isiktan-yeni-paylasim-cok-sukur-allahim-7670027",
@@ -434,6 +1400,342 @@
    "aiTries": 1
   },
   {
+   "id": "b8adde3bc2bd",
+   "url": "https://www.sabah.com.tr/magazin/teknofestte-ceza-ruzgari-7673083",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Teknofest’te Ceza rüzgarı",
+   "snippet": "Havacılık, Uzay ve Teknoloji Festivali (TEKNOFEST), Şanlıurfa GAP Havalimanı'nda devam ediyor. Festival kapsamında düzenlenen kültürel etkinliklerde rap sanatçısı Ceza sahneye çıktı. Sevilen şarkılarını... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/1bb687/1200/675/0/18/1098/635?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/teknofestte-ceza-ruzgari-1791045696540.jpeg",
+   "video": null,
+   "published": "2026-10-03T16:41:52.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/teknofestte-ceza-ruzgari-7673083",
+     "title": "Teknofest’te Ceza rüzgarı",
+     "snippet": "Havacılık, Uzay ve Teknoloji Festivali (TEKNOFEST), Şanlıurfa GAP Havalimanı'nda devam ediyor. Festival kapsamında düzenlenen kültürel etkinliklerde rap sanatçısı Ceza sahneye çıktı. Sevilen şarkılarını... Devamı için tıklayınız",
+     "published": "2026-10-03T16:41:52.000Z",
+     "titleFa": "وزش بادهای جریمه در تک‌نوهاست"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/1bb687/1200/675/0/18/1098/635?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/teknofestte-ceza-ruzgari-1791045696540.jpeg",
+    "https://iasbh.tmgrup.com.tr/e44346/752/395/0/36/1098/613?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/teknofestte-ceza-ruzgari-1791045696540.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای خواننده رپ، چزا، در جشنواره تک‌نوهاست",
+   "summaryFa": "جشنواره هوانوردی، فضا و فناوری (تک‌نوهاست) در فرودگاه گپ شانلی‌اورفه در حال برگزاری است و در جریان آن، خواننده رپ، چزا، به اجرای برنامه پرداخت.",
+   "bodyFa": [
+    "جشنواره هوانوردی، فضا و فناوری (TEKNOFEST) در فرودگاه GAP شانلی‌اورفه در حال برگزاری است. در بخش رویدادهای فرهنگی این جشنواره، چزا، خواننده سبک رپ، روی صحنه رفت و به اجرای آثار محبوب خود پرداخت.",
+    "هزاران نفر از هواداران این هنرمند در محل برگزاری کنسرت حضور داشتند و ترانه‌های او را هم‌صدا با وی زمزمه کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "9e77af0dd6fc",
+   "url": "https://www.sabah.com.tr/yazarlar/gunaydin/funda-karayel/2026/10/04/teknofestte-halay-ceken-robotlar-bize-ne-anlatiyor",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Teknofest’te halay çeken robotlar bize ne anlatıyor?",
+   "snippet": "Bugüne kadar yaklaşık 12 milyon ziyaretçiye ev sahipliği yapan dünyanın en büyük havacılık, uzay ve teknoloji festivali TEKNOFEST, Güneydoğu adıyla Şanlıurfa GAP Havalimanı'nda ziyaretçilere kapılarını... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/c35148/0/0/0/0/544/840?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/teknofestte-halay-ceken-robotlar-bize-ne-anlatiyor-1791045592402.jpeg",
+   "video": null,
+   "published": "2026-10-03T16:41:06.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/yazarlar/gunaydin/funda-karayel/2026/10/04/teknofestte-halay-ceken-robotlar-bize-ne-anlatiyor",
+     "title": "Teknofest’te halay çeken robotlar bize ne anlatıyor?",
+     "snippet": "Bugüne kadar yaklaşık 12 milyon ziyaretçiye ev sahipliği yapan dünyanın en büyük havacılık, uzay ve teknoloji festivali TEKNOFEST, Güneydoğu adıyla Şanlıurfa GAP Havalimanı'nda ziyaretçilere kapılarını... Devamı için tıklayınız",
+     "published": "2026-10-03T16:41:06.000Z",
+     "titleFa": "ربات‌های در حال رقص هلای در تکنوفست به ما چه می‌گویند؟"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/c35148/0/0/0/0/544/840?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/teknofestte-halay-ceken-robotlar-bize-ne-anlatiyor-1791045592402.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/2026/04/04/1775286965973.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/halkbank-ureten-turkiye.png?v=25851",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-1.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
+    "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/10/04/164x236/04SBH01.jpg?v=25851"
+   ],
+   "mediaDone": true,
+   "titleFa": "برگزاری جشنواره هوانوردی و فناوری تکنوفست در فرودگاه شانلی‌اورفا",
+   "summaryFa": "جشنواره فناوری تکنوفست با نمایش تجهیزات هوانوردی و دستاوردهای تکنولوژیک در فرودگاه گپ شانلی‌اورفا آغاز به کار کرد.",
+   "bodyFa": [
+    "جشنواره تکنوفست که به عنوان یکی از بزرگ‌ترین رویدادهای هوانوردی، هوافضا و فناوری در جهان شناخته می‌شود و تاکنون حدود ۱۲ میلیون بازدیدکننده داشته است، در فرودگاه گپ شانلی‌اورفا درهای خود را به روی علاقه‌مندان گشود.",
+    "در جریان این رویداد، دستاوردهای مختلفی از جمله بالگردهای آتاک، هواپیماهای هورکوش، پهپادهای عنقا (ANKA) و بایراکتار TB2 و همچنین ربات‌های نمایش‌دهنده به نمایش درآمده‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "ae95e59a5ed8",
+   "url": "https://www.sabah.com.tr/magazin/burak-ozcivitten-cannes-cikarmasi-7673081",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Burak Özçivit'ten Cannes çıkarması",
+   "snippet": "atv'nin sevilen dizisi 'Güneşin Doğduğu Yer'in başrol oyuncusu Burak Özçivit, Cannes'a gidiyor. Ünlü oyuncu, 12-15 Ekim'de Fransa'da düzenlenecek uluslararası televizyon fuarı MIPCOM'a katılacak. ... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/777e45/1200/675/0/0/546/307?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/burak-ozcivitten-cannes-cikarmasi-1791045476484.jpeg",
+   "video": null,
+   "published": "2026-10-03T16:38:50.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "gunesin-dogdugu-yer"
+    ],
+    "people": [
+     "burak-ozcivit"
+    ],
+    "networks": [
+     "atv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/burak-ozcivitten-cannes-cikarmasi-7673081",
+     "title": "Burak Özçivit'ten Cannes çıkarması",
+     "snippet": "atv'nin sevilen dizisi 'Güneşin Doğduğu Yer'in başrol oyuncusu Burak Özçivit, Cannes'a gidiyor. Ünlü oyuncu, 12-15 Ekim'de Fransa'da düzenlenecek uluslararası televizyon fuarı MIPCOM'a katılacak. ... Devamı için tıklayınız",
+     "published": "2026-10-03T16:38:50.000Z",
+     "titleFa": "حضور بوراک اوزچیویت در کن"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/777e45/1200/675/0/0/546/307?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/burak-ozcivitten-cannes-cikarmasi-1791045476484.jpeg",
+    "https://iasbh.tmgrup.com.tr/13c422/752/395/0/0/546/287?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/burak-ozcivitten-cannes-cikarmasi-1791045476484.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "حضور بوراک اوزچیویت در جشنواره کن",
+   "summaryFa": "بوراک اوزچیویت، بازیگر نقش اصلی سریال «جایی که خورشید طلوع می‌کند»، برای شرکت در نمایشگاه بین‌المللی تلویزیونی MIPCOM به فرانسه می‌رود. او در این رویداد که از ۱۲ تا ۱۵ اکتبر در فرانسه برگزار می‌شود، حضور خواهد داشت.",
+   "bodyFa": [
+    "بوراک اوزچیویت، بازیگر سرشناس سریال محبوب شبکه atv یعنی «جایی که خورشید طلوع می‌کند»، عازم شهر کن در فرانسه می‌شود تا در نمایشگاه بین‌المللی تلویزیونی MIPCOM شرکت کند.",
+    "بر اساس اطلاعات منتشر شده، این رویداد مهم از تاریخ ۱۲ تا ۱۵ اکتبر برگزار خواهد شد و این بازیگر در روز ۱۲ اکتبر در نشست خبری غرفه atv به مصاحبه با رسانه‌ها خواهد پرداخت و همچنین در برنامه شام میزبانی شبکه نیز شرکت می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "781fd20b9438",
+   "url": "https://www.sabah.com.tr/yazarlar/gunaydin/ilkergezici/2026/10/04/gittigi-yerde-gurbetci-dondugu-yerde-misafir",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Gittiği yerde gurbetçi, döndüğü yerde misafir",
+   "snippet": "Devlet Tiyatroları yeni sezonu iddialı oyunlarla açtı. Ben de İstanbul Devlet Tiyatrosu'nun sezon açılışında Bilgesu Erenus'un 'Misafir'ini izledim. Geçtiğimiz ağustosta aramızdan ayrılan Erenus'un 1980'lerin... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/47ea41/0/0/0/0/519/339?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/gittigi-yerde-gurbetci-dondugu-yerde-misafir-1791043101381.jpeg",
+   "video": null,
+   "published": "2026-10-03T16:01:02.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/yazarlar/gunaydin/ilkergezici/2026/10/04/gittigi-yerde-gurbetci-dondugu-yerde-misafir",
+     "title": "Gittiği yerde gurbetçi, döndüğü yerde misafir",
+     "snippet": "Devlet Tiyatroları yeni sezonu iddialı oyunlarla açtı. Ben de İstanbul Devlet Tiyatrosu'nun sezon açılışında Bilgesu Erenus'un 'Misafir'ini izledim. Geçtiğimiz ağustosta aramızdan ayrılan Erenus'un 1980'lerin... Devamı için tıklayınız",
+     "published": "2026-10-03T16:01:02.000Z",
+     "titleFa": "در جایی که رفت مهاجر، در جایی که برگشت مهمان"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/47ea41/0/0/0/0/519/339?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/gittigi-yerde-gurbetci-dondugu-yerde-misafir-1791043101381.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/2026/04/04/1775286965973.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/halkbank-ureten-turkiye.png?v=25851",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-1.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
+    "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/10/04/164x236/04SBH01.jpg?v=25851"
+   ],
+   "mediaDone": true,
+   "titleFa": "افتتاح فصل جدید تئاتر دولتی استانبول با نمایش «مهمان»",
+   "summaryFa": "تئاتر دولتی استانبول فصل جدید خود را با اجرای نمایش «مهمان» اثر بیلگه سو ارنوس آغاز کرد. این نویسنده که در اوت گذشته درگذشت، نمایشنامه یادشده را در اوایل دهه ۱۹۸۰ نوشته بود.",
+   "bodyFa": [
+    "تئاترهای دولتی ترکیه فصل جدید کاری خود را با آثار پر سر و صدا و برجسته آغاز کرده‌اند. در همین راستا، تئاتر دولتی استانبول در مراسم افتتاحیه فصل جدید خود، نمایش «مهمان» (Misafir) نوشته بیلگه سو ارنوس را به روی صحنه برد.",
+    "این نمایشنامه که در اوایل دهه ۱۹۸۰ میلادی به نگارش درآمده، پیش از این نیز در تئاتر هنر آنکارا و تئاترهای دولتی قونیه و ازمیر اجرا شده بود. بیلگه سو ارنوس، نویسنده این اثر، در اوت گذشته درگذشت."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "d657bbae9944",
+   "url": "https://www.sabah.com.tr/magazin/saganak-altinda-konser-verdi-7673073",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Sağanak altında konser verdi",
+   "snippet": "Türk Sanat müziğinin usta ismi Muazzez Ersoy, Bursa Açık Hava Sahnesi'nde sevenleriyle buluştu. Binlerce Bursalı hayranı ile bir araya gelen ünlü sanatçı, performansı ile unutulmaz bir geceye imza attı.... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/114016/1200/675/0/157/634/514?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/saganak-altinda-konser-verdi-1791042971604.jpeg",
+   "video": null,
+   "published": "2026-10-03T15:56:48.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/saganak-altinda-konser-verdi-7673073",
+     "title": "Sağanak altında konser verdi",
+     "snippet": "Türk Sanat müziğinin usta ismi Muazzez Ersoy, Bursa Açık Hava Sahnesi'nde sevenleriyle buluştu. Binlerce Bursalı hayranı ile bir araya gelen ünlü sanatçı, performansı ile unutulmaz bir geceye imza attı.... Devamı için tıklayınız",
+     "published": "2026-10-03T15:56:48.000Z",
+     "titleFa": "او در زیر باران کنسرت اجرا کرد"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/114016/1200/675/0/157/634/514?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/saganak-altinda-konser-verdi-1791042971604.jpeg",
+    "https://iasbh.tmgrup.com.tr/385b1e/752/395/0/168/634/501?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/saganak-altinda-konser-verdi-1791042971604.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای کنسرت معزز ارسوی در زیر باران شدید در بورسا",
+   "summaryFa": "معزز ارسوی، هنرمند برجسته موسیقی سنتی ترکیه، در سالن روباز بورسا به روی صحنه رفت. او با وجود بارندگی، برای هزاران تن از طرفداران خود به اجرا پرداخت.",
+   "bodyFa": [
+    "معزز ارسوی، چهره برجسته موسیقی سنتی ترکیه، در کنسرت اخیر خود در سالن روباز بورسا با هوادارانش دیدار کرد. این هنرمند محبوب در میان استقبال هزاران نفر از مردم بورسا به اجرای برنامه پرداخت.",
+    "او در جریان این اجرا که در زیر باران برگزار شد، ترانه‌های معروف خود از جمله «Nasıl Geçti»، «Sevemez Kimse Seni» و «Taht Kurmuşsun Kalbime» را برای مخاطبان خواند و شب به یادماندنی را رقم زد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "ecd1278888f5",
+   "url": "https://www.sabah.com.tr/magazin/kendi-aramizda-soz-taktik-7673066",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "'Kendi aramızda söz taktık'",
+   "snippet": "Ünlü oyuncu Aslıhan Karalar, Kapadokya'daki dizi çekimlerine verilen kısa arada İstanbul'a geldi. Yakın bir arkadaşının doğum gününe katılmak ve iş görüşmelerini gerçekleştirmek için İstanbul'da olduğunu... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/153234/1200/675/0/99/522/393?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/kendi-aramizda-soz-taktik-1791042781771.jpeg",
+   "video": null,
+   "published": "2026-10-03T15:53:29.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/kendi-aramizda-soz-taktik-7673066",
+     "title": "'Kendi aramızda söz taktık'",
+     "snippet": "Ünlü oyuncu Aslıhan Karalar, Kapadokya'daki dizi çekimlerine verilen kısa arada İstanbul'a geldi. Yakın bir arkadaşının doğum gününe katılmak ve iş görüşmelerini gerçekleştirmek için İstanbul'da olduğunu... Devamı için tıklayınız",
+     "published": "2026-10-03T15:53:29.000Z",
+     "titleFa": "«بین خودمان تعهد بستیم»"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/153234/1200/675/0/99/522/393?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/kendi-aramizda-soz-taktik-1791042781771.jpeg",
+    "https://iasbh.tmgrup.com.tr/960e51/60/60/0/0/60/60?u=https://isbh.tmgrup.com.tr/sbh/2025/01/10/1736489014590.jpg",
+    "https://iasbh.tmgrup.com.tr/540530/752/395/0/109/522/383?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/kendi-aramizda-soz-taktik-1791042781771.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "آصلیهان کارالار از نامزدی خصوصی خود خبر داد",
+   "summaryFa": "آصلیهان کارالار، بازیگر معروف، در وقفه کوتاه فیلم‌برداری سریال جدیدش به استانبول آمد و از نامزدی خصوصی خود خبر داد. او هدف این سفر را دیدار کاری و حضور در تولد دوستش عنوان کرد.",
+   "bodyFa": [
+    "آصلیهان کارالار، بازیگر سرشناس ترکیه، در جریان وقفه کوتاهی که در ضبط سریال جدیدش در منطقه کاپادوکیه ایجاد شده بود، به استانبول سفر کرد. او اعلام کرد که برای انجام چند دیدار کاری و همچنین شرکت در جشن تولد یکی از دوستان نزدیکش به این شهر آمده است.",
+    "این بازیگر در جریان این سفر، برای نخستین بار تحولات مثبت زندگی عاطفی خود را با رسانه‌ها در میان گذاشت. او با تایید حضور فردی در زندگی‌اش اعلام کرد که آن‌ها به‌طور خصوصی و میان خودشان تعهد و نامزدی را برگزار کرده‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "cbfef027214d",
+   "url": "https://www.sabah.com.tr/magazin/kiz-kardesini-evlendirdi-7673062",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Kız kardeşini evlendirdi",
+   "snippet": "Oyuncu Şükrü Özyıldız, önceki akşam kız kardeşinin düğününe katıldı. Ünlü oyuncunun kardeşi Burcu Özyıldız, uzun süredir birlikte olduğu Onur Ekşioğlu ile evlendi. Oyuncu, gecenin en eğlenen isimlerinden... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/75598f/1200/675/0/107/327/290?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/kiz-kardesini-evlendirdi-1791042423604.jpeg",
+   "video": null,
+   "published": "2026-10-03T15:47:08.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/kiz-kardesini-evlendirdi-7673062",
+     "title": "Kız kardeşini evlendirdi",
+     "snippet": "Oyuncu Şükrü Özyıldız, önceki akşam kız kardeşinin düğününe katıldı. Ünlü oyuncunun kardeşi Burcu Özyıldız, uzun süredir birlikte olduğu Onur Ekşioğlu ile evlendi. Oyuncu, gecenin en eğlenen isimlerinden... Devamı için tıklayınız",
+     "published": "2026-10-03T15:47:08.000Z",
+     "titleFa": "خواهرش را عروس کرد"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/75598f/1200/675/0/107/327/290?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/kiz-kardesini-evlendirdi-1791042423604.jpeg",
+    "https://iasbh.tmgrup.com.tr/61f401/752/395/0/113/327/285?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/kiz-kardesini-evlendirdi-1791042423604.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "حضور شوکرو اوزیلدیز در مراسم عروسی خواهرش",
+   "summaryFa": "شوکرو اوزیلدیز، بازیگر معروف، در مراسم عروسی خواهرش بورجو اوزیلدیز با اونور اکشی‌اوغلو شرکت کرد.",
+   "bodyFa": [
+    "شوکرو اوزیلدیز، بازیگر شناخته‌شده و محبوب ترکیه‌ای، در مراسم عروسی خواهر خود شرکت کرد. این مراسم ویژه در شب‌های گذشته برگزار شد و این ستاره سینما و تلویزیون برای به اشتراک گذاشتن شادی این لحظات در کنار خانواده‌اش حضور یافت.",
+    "خواهر او، بورجو اوزیلدیز، با شریک زندگی خود اونور اکشی‌اوغلو پیمان زناشویی بست. بر اساس اطلاعات موجود، این زوج پس از یک رابطه طولانی‌مدت و صمیمی تصمیم گرفتند زندگی مشترک خود را آغاز کنند و مراسم عروسی خود را جشن بگیرند.",
+    "گزارش‌ها حاکی از آن است که شوکرو اوزیلدیز در طول این مراسم بسیار پرانرژی و شاداب بود. او به عنوان یکی از پرشورترین و خوش‌حال‌ترین مهمانان حاضر در این جشن شبانه دیده شد و در شادی خواهرش و همسر جدید او صمیمانه شریک شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
    "id": "4d1ac99700c0",
    "url": "https://www.milliyet.com.tr/magazin/galeri/uzak-sehirin-naresi-setten-paylasti-sahra-sasin-mardin-pozlarina-begeni-yagmuru-7672403",
    "source": "milliyet-magazin",
@@ -482,6 +1784,101 @@
    "bodyFa": [
     "صحرا شاش، بازیگر نقش ناره در سریال پربیننده و رکوردشکن «شهر دور» (Uzak Şehir) که از کانال دی پخش می‌شود، تصاویر جدیدی از خود را در محل فیلم‌برداری این اثر در شهر ماردین منتشر کرده است.",
     "این هنرمند عکس‌های خود را در شبکه اجتماعی اینستاگرام با هوادارانش به اشتراک گذاشت که این تصاویر در مدت زمانی کوتاه با استقبال گسترده و لایک‌های فراوان مخاطبان مواجه شدند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "ac18a36d5c29",
+   "url": "https://www.sabah.com.tr/magazin/aile-festivaline-kobaldan-tam-not-7673050",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Aile Festivali’ne Kobal’dan tam not",
+   "snippet": "Oyuncu Sinem Kobal, Rami Kütüphanesi'nde düzenlenen AileFest'i ziyaret etti. Festival alanını gezip etkinliklere katılan Kobal, çocuklar ve aileler için hazırlanan program hakkında bilgi aldı.... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/82e7eb/1200/675/0/44/956/581?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/aile-festivaline-kobaldan-tam-not-1791040544994.jpeg",
+   "video": null,
+   "published": "2026-10-03T15:16:46.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/aile-festivaline-kobaldan-tam-not-7673050",
+     "title": "Aile Festivali’ne Kobal’dan tam not",
+     "snippet": "Oyuncu Sinem Kobal, Rami Kütüphanesi'nde düzenlenen AileFest'i ziyaret etti. Festival alanını gezip etkinliklere katılan Kobal, çocuklar ve aileler için hazırlanan program hakkında bilgi aldı.... Devamı için tıklayınız",
+     "published": "2026-10-03T15:16:46.000Z",
+     "titleFa": "امتیاز کامل کوبال به جشنواره خانواده"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/82e7eb/1200/675/0/44/956/581?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/aile-festivaline-kobaldan-tam-not-1791040544994.jpeg",
+    "https://iasbh.tmgrup.com.tr/c6adbe/752/395/0/61/956/562?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/aile-festivaline-kobaldan-tam-not-1791040544994.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/2026/10/03/aile-festivaline-kobaldan-tam-not-1791040565853.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "تمجید سینم کوبال از جشنواره خانواده در کتابخانه رامی",
+   "summaryFa": "سینم کوبال، بازیگر، با حضور در جشنواره خانواده در کتابخانه رامی از فعالیت‌های تدارک‌دیده‌شده برای کودکان و خانواده‌ها بازدید و از این برنامه ابراز رضایت کرد.",
+   "bodyFa": [
+    "سینم کوبال، بازیگر، با حضور در رویداد «AileFest» (جشنواره خانواده) که در محل کتابخانه رامی برگزار شد، از بخش‌های مختلف آن دیدن کرد. او ضمن گردش در محوطه برگزاری جشنواره، در فعالیت‌های مختلف این رویداد شرکت کرد و در جریان جزئیات برنامه‌های آماده‌شده برای کودکان و خانواده‌ها قرار گرفت.",
+    "این بازیگر همچنین در حاشیه این حضور به سوالاتی با موضوع خانواده پاسخ داد. کوبال با اشاره به عملکرد این جشنواره در گردهم آوردن نسل‌های گوناگون، رضایت کامل خود را ابراز کرد و اظهار داشت که این برنامه بسیار مورد پسند او قرار گرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "0beb7e24381f",
+   "url": "https://www.sabah.com.tr/magazin/birbirimizin-hayatina-imza-attik-7673049",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "'Birbirimizin hayatına imza attık'",
+   "snippet": "Yeni evli Ceyda Düvenci ile Güçlü Mete, bir festivalde konser öncesi gazetecilerle sohbet etti. Düvenci, \"Arkadaşlarımızla çok güzel, küçük bir kutlama yaptık. Her şey çok yolunda\" dedi. Nikâhın ardından... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/b6b388/1200/675/0/113/487/386?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/birbirimizin-hayatina-imza-attik-1791040496541.jpeg",
+   "video": null,
+   "published": "2026-10-03T15:15:27.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/birbirimizin-hayatina-imza-attik-7673049",
+     "title": "'Birbirimizin hayatına imza attık'",
+     "snippet": "Yeni evli Ceyda Düvenci ile Güçlü Mete, bir festivalde konser öncesi gazetecilerle sohbet etti. Düvenci, \"Arkadaşlarımızla çok güzel, küçük bir kutlama yaptık. Her şey çok yolunda\" dedi. Nikâhın ardından... Devamı için tıklayınız",
+     "published": "2026-10-03T15:15:27.000Z",
+     "titleFa": "«امضای ما بر زندگی یکدیگر ثبت شد»"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/b6b388/1200/675/0/113/487/386?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/birbirimizin-hayatina-imza-attik-1791040496541.jpeg",
+    "https://iasbh.tmgrup.com.tr/960e51/60/60/0/0/60/60?u=https://isbh.tmgrup.com.tr/sbh/2025/01/10/1736489014590.jpg",
+    "https://iasbh.tmgrup.com.tr/6cbe22/752/395/0/120/487/377?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/birbirimizin-hayatina-imza-attik-1791040496541.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "صحبت‌های جیدا دوونچی و گوچلو مته درباره ازدواج تازه‌شان در یک جشنواره",
+   "summaryFa": "جیدا دوونچی و گوچلو مته که به‌تازگی ازدواج کرده‌اند، پیش از یک کنسرت با خبرنگاران گفتگو کردند. دوونچی اعلام کرد که جشن کوچکی با دوستانشان برگزار کرده‌اند و همه چیز بسیار خوب پیش می‌رود.",
+   "bodyFa": [
+    "جیدا دوونچی، بازیگر شناخته‌شده، به همراه همسر تازه‌اش گوچلو مته پیش از آغاز یک کنسرت در جریان یک جشنواره، با خبرنگاران گفتگو کردند و درباره آغاز زندگی مشترک خود سخن گفتند.",
+    "دوونچی در پاسخ به رسانه‌ها اعلام کرد که آن‌ها مراسم جشن خود را به صورت کوچک و صمیمانه در کنار دوستان نزدیکشان برگزار کرده‌اند و در حال حاضر وضعیت زندگی‌شان بسیار خوب است. این بازیگر همچنین اشاره کرد که پس از ثبت رسمی ازدواج، بلافاصله فعالیت‌ها و مسئولیت‌های روزمره خود را از سر گرفته‌اند.",
+    "او در ادامه صحبت‌هایش به مشغله‌های فشرده این روزهای خود اشاره کرد و توضیح داد که در حال حاضر مدیریت هم‌زمان امور کاری، تحصیل در مقطع کارشناسی ارشد و برنامه‌های مربوط به مدرسه فرزندانش را پیش می‌برد."
    ],
    "ai": true,
    "aiTries": 1
@@ -1416,11 +2813,21 @@
      "title": "Semiramis Pekkan’ın oğlu Zoran Lalvani evlendi! Ünlü sanatçıdan duygusal paylaşım",
      "snippet": "Semiramis Pekkan’ın Gulu Lalvani ile evliliğinden dünyaya gelen oğlu Zoran Lalvani, Zoe Springer ile hayatını birleştirdi. Oğlunun düğününde büyük mutluluk yaşayan Pekkan, duygularını sosyal medya hesabından paylaştı.",
      "published": "2026-10-03T11:26:27.000Z",
-     "titleFa": "پسر سمیرامیس پکان، زوران لالوانی ازدواج کرد! پست احساسی هنرمند مشهور"
+     "titleFa": "پسر سمیرامیس پکان، زوران لالوانی ازدواج کرد! اشتراک‌گذاری پست احساسی توسط هنرمند مشهور"
+    },
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/semiramis-pekkan-in-mutlu-gunu-oglu-zoran-lalvani-sessiz-sedasiz-evlendi-p365913",
+     "title": "Semiramis Pekkan'ın mutlu günü: Oğlu Zoran Lalvani sessiz sedasız evlendi",
+     "snippet": "Semiramis Pekkan'ın Gulu Lalvani ile evliliğinden dünyaya gelen oğlu Zoran Lalvani, hayatını Zoe Springer ile birleştird...",
+     "published": "2026-10-04T05:26:04.000Z",
+     "titleFa": "روز خوش سمیرامیس پکان: پسرش زوران لالوانی در سکوت خبری ازدواج کرد"
     }
    ],
    "mergedIds": [
-    "298472dd4de6"
+    "298472dd4de6",
+    "6a064bbe24bd"
    ],
    "images": [
     "https://iasbh.tmgrup.com.tr/853c83/1200/675/0/0/640/360?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/semiramis-pekkanin-mutlu-gunu-oglu-zoran-lalvani-evlendi-1791019980210.jpeg",
@@ -1432,24 +2839,42 @@
    ],
    "mediaDone": true,
    "titleFa": "ازدواج زوران لالوانی، پسر سمیرامیس پکان",
-   "summaryFa": "زوران لالوانی، پسر سمیرامیس پکان ازدواج کرد. سمیرامیس پکان با انتشار پیامی احساسی در شبکه‌های اجتماعی، شادمانی خود را از این اتفاق ابراز داشت.",
+   "summaryFa": "زوران لالوانی، پسر سمیرامیس پکان، ازدواج کرد. این هنرمند سرشناس خبر ازدواج فرزندش را با انتشاری پستی احساسی در شبکه‌های اجتماعی اعلام کرد.",
    "bodyFa": [
-    "زوران لالوانی، فرزند سمیرامیس پکان، هنرمند سرشناس، ازدواج کرد و زندگی مشترک خود را آغاز نمود. سمیرامیس پکان با ابراز خرسندی از این رویداد ویژه، احساسات و سخنان احساسی خود را به مناسبت این روز پراهمیت در شبکه‌های اجتماعی با مخاطبانش به اشتراک گذاشت.",
-    "بر اساس اخبار منتشرشده، زوران لالوانی حاصل ازدواج سمیرامیس پکان و گولو لالوانی است و با زوئی اسپرینگر پیوند زناشویی بسته است. همچنین در این گزارش‌ها به نام آژدا پکان، از چهره‌های سرشناس دنیای موسیقی ترکیه نیز اشاره شده است."
+    "زوران لالوانی، فرزند سمیرامیس پکان، هنرمند برجسته عرصه موسیقی و سینمای ترکیه، زندگی مشترک خود را آغاز کرد. سمیرامیس پکان با انتشار پستی احساسی در صفحه شخصی خود در شبکه‌های اجتماعی، خبر ازدواج فرزندش را به اشتراک گذاشت و احساسات خود را در این روز ویژه ابراز نمود.",
+    "زوران لالوانی حاصل ازدواج سمیرامیس پکان با گولو لالوانی، تاجر بریتانیایی هندی‌تبار است. بر اساس اخبار منتشرشده، او با زوئی اسپرینگر ازدواج کرده و مراسم ازدواج آن‌ها در سکوت خبری و به دور از جنجال‌های رسانه‌ای برگزار شده است."
    ],
    "comparison": {
     "agree": [
-     "ازدواج زوران لالوانی، پسر سمیرامیس پکان",
-     "ابراز شادمانی و به اشتراک گذاشتن پیامی احساسی توسط سمیرامیس پکان"
+     "زوران لالوانی، پسر سمیرامیس پکان ازدواج کرده است.",
+     "سمیرامیس پکان خبر ازدواج پسرش را از طریق پستی احساسی در شبکه‌های اجتماعی به اشتراک گذاشت."
     ],
-    "differ": [],
+    "differ": [
+     {
+      "topic": "ذکر نام همسر",
+      "views": [
+       {
+        "source": "sabah-magazin",
+        "text": "تنها ذکر کرده که او با زن مورد علاقه‌اش ازدواج کرده و نام همسر را نبرده است."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "نام همسر او را زوئی اسپرینگر اعلام کرده است."
+       },
+       {
+        "source": "sozcu-magazin",
+        "text": "نام همسر او را زوئی اسپرینگر ذکر کرده است."
+       }
+      ]
+     }
+    ],
     "unconfirmed": [
-     "ازدواج زوران لالوانی با زوئی اسپرینگر (تنها در s2 ذکر شده است)",
-     "فرزند گولو لالوانی بودن زوران (تنها در s2 ذکر شده است)"
+     "اشاره به ازدواج در سکوت خبری (تنها در s3 آمده است).",
+     "اشاره به این‌که گولو لالوانی تاجر بریتانیایی هندی‌تبار است (تنها در s3 آمده است)."
     ]
    },
    "ai": true,
-   "aiTries": 1
+   "aiTries": 2
   },
   {
    "id": "de6b674e94ff",
@@ -1994,7 +3419,16 @@
      "title": "6 yıllık aranın ardından Ankara'da 52 bin hayranıyla buluştu",
      "snippet": "Türk rock müziğinin önemli isimlerinden Şebnem Ferah, yaklaşık 6 yıllık konser arasının ardından Ankara’da sahne aldı. A...",
      "published": "2026-10-03T06:13:43.000Z",
-     "titleFa": "پس از ۶ سال وقفه، با ۵۲ هزار هوادار در آنکارا دیدار کرد"
+     "titleFa": "دیدار با ۵۲ هزار طرفدار در آنکارا پس از ۶ سال وقفه"
+    },
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/ankarada-52-bin-hayraniyla-bulustu-7673074",
+     "title": "Ankara’da 52 bin hayranıyla buluştu",
+     "snippet": "Türk rock müziğinin güçlü sesi Şebnem Ferah, 6 yıllık aranın ardından konser serisine devam ediyor. Ferah, İstanbul ve İzmir'in ardından dün akşam Ankara'da hayranlarıyla buluştu. Yıllar sonra yeniden... Devamı için tıklayınız",
+     "published": "2026-10-03T15:57:29.000Z",
+     "titleFa": "دیدار با ۵۲ هزار طرفدار در آنکارا"
     }
    ],
    "images": [
@@ -2006,14 +3440,29 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png"
    ],
    "mediaDone": true,
-   "titleFa": "دیدار شبنم فرج با ۵۲ هزار هوادار در آنکارا پس از شش سال وقفه",
-   "summaryFa": "شبنم فرج پس از حدود شش سال وقفه در برگزاری کنسرت، در آنکارا روی صحنه رفت. بلیت‌های این کنسرت در همان روز آغاز فروش به اتمام رسید.",
+   "titleFa": "دیدار شبنم فرح با ۵۲ هزار طرفدار در آنکارا پس از ۶ سال دوری از صحنه",
+   "summaryFa": "شبنم فرح، خواننده سرشناس راک ترکیه، پس از ۶ سال وقفه، کنسرت بزرگی را با حضور ۵۲ هزار تماشاگر در آنکارا برگزار کرد.",
    "bodyFa": [
-    "شبنم فرج، یکی از چهره‌های برجسته موسیقی راک ترکیه، پس از حدود شش سال دوری از اجراهای زنده، در شهر آنکارا به روی صحنه رفت.",
-    "این کنسرت در محوطه کنسرت مزرعه جنگلی آاتاتورک برگزار شد و ۵۲ هزار نفر از دوستداران موسیقی از آن بازدید کردند. همچنین گزارش شده است که تمامی بلیت‌های این رویداد در همان روز نخست عرضه به فروش رفتند."
+    "شبنم فرح، یکی از ستاره‌های برجسته و قدرتمند موسیقی راک ترکیه، پس از وقفه‌ای تقریباً ۶ ساله در فعالیت‌های صحنه‌ای خود، بار دیگر به آغوش مخاطبان بازگشت و در شهر آنکارا به اجرای برنامه پرداخت. این کنسرت بزرگ در محوطه کنسرت «آتاتورک اورمان چیفتلیگی» برگزار شد و با استقبال بی‌نظیر ۵۲ هزار تماشاگر و دوستدار موسیقی همراه بود. گزارش شده است که تمامی بلیت‌های این برنامه در همان روز نخست آغاز فروش، به طور کامل به اتمام رسیده بود.",
+    "این هنرمند که از سال جاری میلادی برگزاری کنسرت‌های خود را از سر گرفته، پیش از سفر به آنکارا، در شهرهای استانبول و ازمیر نیز به روی صحنه رفته بود. طبق جزئیات منتشر شده، نخستین اجرای او پس از سال‌ها دوری از صحنه، در تاریخ ۳ ژوئن در استانبول رقم خورد و کنسرت اخیر در آنکارا در ادامه همین تور کنسرت‌های او برگزار شده است."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 2,
+   "mergedIds": [
+    "877a894eba89"
+   ],
+   "comparison": {
+    "agree": [
+     "شبنم فرح پس از ۶ سال وقفه دوباره کنسرت‌های خود را آغاز کرده است.",
+     "۵۲ هزار نفر در کنسرت او در آنکارا حضور داشتند.",
+     "کنسرت آنکارا پس از اجراهای او در استانبول و ازمیر برگزار شد."
+    ],
+    "differ": [],
+    "unconfirmed": [
+     "رسانه Sözcü گزارش داده است که بلیت‌های کنسرت آنکارا در همان روز اول فروش تمام شده بود و محل برگزاری آن «آتاتورک اورمان چیفتلیگی» بود.",
+     "رسانه Sabah گزارش داده است که اولین کنسرت او پس از سال‌ها دوری، در تاریخ ۳ ژوئن در استانبول برگزار شده بود."
+    ]
+   }
   },
   {
    "id": "315f97e7e649",
@@ -10274,100 +11723,6 @@
    "aiTries": 1
   },
   {
-   "id": "a8b2c385c494",
-   "url": "https://www.milliyet.com.tr/magazin/zamparanin-olumunu-yorumladi-7670754",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Zamparanın Ölümü’nü yorumladı",
-   "snippet": "Şarkıya yeni bir soluk getiren İğrek, ‘Teoman Şarkıları’ projesindeki yerini aldı. Bayhan Müzik ve Avrupa Müzik iş birliğiyle dijital müzik platformlarında yayınlanan eser, hem Teoman’ın hem de İğrek’in hayranlarının beğenisini topladı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd8d6aed0288e6d3ecc896.jpg",
-   "video": null,
-   "published": "2026-10-01T04:02:04.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/zamparanin-olumunu-yorumladi-7670754",
-     "title": "‘Zamparanın Ölümü’nü yorumladı",
-     "snippet": "Şarkıya yeni bir soluk getiren İğrek, ‘Teoman Şarkıları’ projesindeki yerini aldı. Bayhan Müzik ve Avrupa Müzik iş birliğiyle dijital müzik platformlarında yayınlanan eser, hem Teoman’ın hem de İğrek’in hayranlarının beğenisini topladı.",
-     "published": "2026-10-01T04:02:04.000Z",
-     "titleFa": "تفسیر «مرگ ولگرد»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6abd8d6aed0288e6d3ecc896.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6abd8d6aed0288e6d3ecc896.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "امیر جان ایغْرِک آهنگ «مرگ ولگرد» را بازخوانی کرد",
-   "summaryFa": "امیر جان ایغْرِک قطعه محبوب «مرگ ولگرد» اثر تئومان را بازخوانی کرد. این اثر در پلتفرم‌های دیجیتال منتشر شده است.",
-   "bodyFa": [
-    "امیر جان ایغْرِک برای اجرای جدید قطعه پرطرفدار «مرگ ولگرد» متعلق به تئومان، پشت میکروفون قرار گرفت. این بازخوانی به عنوان بخشی از پروژه «آهنگ‌های تئومان» تهیه شده است.",
-    "این اثر با همکاری شرکت‌های بایهان موزیک و اوروپا موزیک آماده شده و در پلتفرم‌های دیجیتال موسیقی در دسترس مخاطبان قرار گرفته است. انتشار این قطعه توانسته است نظر مثبت و توجه طرفداران هر دو هنرمند را به خود جلب کند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "80c359bbb94c",
-   "url": "https://www.milliyet.com.tr/magazin/bosken-daha-cok-yaziyorum-7670752",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Boşken daha çok yazıyorum’",
-   "snippet": "Irmak Arıcı’nın programına konuk olarak genç meslektaşına destek veren sanatçı, “Boş vakitlerimde daha çok yazıyorum. MFÖ’nün tribute albümü var, başka sanatçılar şarkılarımızı seslendirecek. ‘Best of Mazhar Alanson’ çıkacak” dedi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd8cc5ed0288e6d3ecc88f.jpg",
-   "video": null,
-   "published": "2026-10-01T04:02:04.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/bosken-daha-cok-yaziyorum-7670752",
-     "title": "‘Boşken daha çok yazıyorum’",
-     "snippet": "Irmak Arıcı’nın programına konuk olarak genç meslektaşına destek veren sanatçı, “Boş vakitlerimde daha çok yazıyorum. MFÖ’nün tribute albümü var, başka sanatçılar şarkılarımızı seslendirecek. ‘Best of Mazhar Alanson’ çıkacak” dedi.",
-     "published": "2026-10-01T04:02:04.000Z",
-     "titleFa": "«وقتی خالی هستم بیشتر می‌نویسم»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6abd8cc5ed0288e6d3ecc88f.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6abd8cc5ed0288e6d3ecc88f.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "مظهار آلانسون از انتشار آلبوم جدید خبر داد",
-   "summaryFa": "مظهار آلانسون در برنامه ایرماک آریجی اعلام کرد که آلبوم‌های جدیدی از جمله آلبوم ادای احترام به گروه «MFÖ» و «Best of Mazhar Alanson» منتشر خواهد شد.",
-   "bodyFa": [
-    "مظهار آلانسون با حضور در برنامه ایرماک آریجی و حمایت از این هنرمند جوان، خبرهای خوشی را درباره آثار جدید خود به هوادارانش داد.",
-    "این هنرمند اعلام کرد که در زمان‌های خالی خود بیشتر به نوشتن می‌پردازد و به زودی آلبوم ادای احترام «MFÖ» که در آن دیگر هنرمندان ترانه‌های این گروه را بازخوانی خواهند کرد، منتشر می‌شود. همچنین او از انتشار آلبومی تحت عنوان «Best of Mazhar Alanson» خبر داد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
    "id": "e37cab64f82a",
    "url": "https://www.milliyet.com.tr/magazin/ilan-i-ask-yayinda-geldi-7670748",
    "source": "milliyet-magazin",
@@ -10411,275 +11766,6 @@
     "دنیز جان آکتاش، بازیگر ترکیه‌ای که مدتی بود شایعاتی درباره رابطه عاشقانه او با همکارش دوریم اوزکان مطرح می‌شد، برای نخستین بار وجود عشق در زندگی خود را تایید کرد. این بازیگر با حضور در یک برنامه، به حضور فردی در زندگی‌اش که او را خوشحال می‌کند اشاره کرد و رابطه خود را با اوزکان تایید نمود.",
     "آکتاش و دوریم اوزکان در یک سریال با یکدیگر هم‌بازی هستند. خبر رابطه عاطفی آن‌ها که پیش‌تر به صورت ادعا مطرح شده بود، با اظهارات جدید این بازیگر در جریان پخش زنده رسماً شکل واقعی به خود گرفت.",
     "او در خصوص تاثیر این رابطه بر زندگی‌اش اظهار داشت که این عشق باعث پرانرژی شدن، درخشش چشمان و تغییر نگاهش به زندگی شده است. آکتاش همچنین تاکید کرد که این حس مثبت سبب شده تا حرفه و کار خود را با اشتیاق بسیار بیشتری انجام دهد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "b04c2fdc9ae4",
-   "url": "https://www.milliyet.com.tr/magazin/kktcde-ilk-kez-perde-acti-7670745",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "KKTC’de ilk kez perde açtı",
-   "snippet": "Salamis Antik Tiyatrosu’nda gerçekleşen gösterisi alkış yağmuruna tutulan usta oyuncuya, ACTADA Sanat Merkezi Kurucusu Çağrı Tortop tarafından ‘Kıbrıs’ta İlk Perde’ anısına plaket takdim edildi. Şen, oyunun ardından uzun süre ayakta alkışlanarak, sevgi seline uğradı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd8bd7ed0288e6d3ecc882.jpg",
-   "video": null,
-   "published": "2026-10-01T04:02:02.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/kktcde-ilk-kez-perde-acti-7670745",
-     "title": "KKTC’de ilk kez perde açtı",
-     "snippet": "Salamis Antik Tiyatrosu’nda gerçekleşen gösterisi alkış yağmuruna tutulan usta oyuncuya, ACTADA Sanat Merkezi Kurucusu Çağrı Tortop tarafından ‘Kıbrıs’ta İlk Perde’ anısına plaket takdim edildi. Şen, oyunun ardından uzun süre ayakta alkışlanarak, sevgi seline uğradı.",
-     "published": "2026-10-01T04:02:02.000Z",
-     "titleFa": "پرده‌برداری برای نخستین بار در قبرس شمالی"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6abd8bd7ed0288e6d3ecc882.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6abd8bd7ed0288e6d3ecc882.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "اجرای موفقیت‌آمیز نمایش «زنگین موفاکی» با بازی Şener Şen در قبرس شمالی",
-   "summaryFa": "Şener Şen بازیگر پیشکسوت، نمایش معروف خود را برای نخستین بار در قبرس شمالی روی صحنه برد و با استقبال پرشور مخاطبان روبرو شد.",
-   "bodyFa": [
-    "Şener Şen، بازیگر نامدار، با نمایش معروف «Zengin Mutfağı» (آشپزخانه ثروتمند) که سال‌هاست با سالن‌های پر از تماشاگر اجرا می‌شود، برای نخستین بار در قبرس شمالی به روی صحنه رفت.",
-    "این اجرا در تئاتر باستانی سالامیس برگزار شد و با استقبال بسیار خوب مخاطبان همراه بود. Şener Şen پس از پایان نمایش توسط تماشاگران برای مدت طولانی به صورت ایستاده تشویق شد و مورد محبت آن‌ها قرار گرفت.",
-    "همچنین در این مراسم، پلاکتی به مناسبت «نخستین پرده در قبرس» از سوی Çağrı Tortop، بنیان‌گذار مرکز هنری ACTADA، به این هنرمند برجسته اهدا شد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "ef0cb80e0b4e",
-   "url": "https://www.hurriyet.com.tr/kelebek/melekler-belli-oldu-43325287",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "‘Melekler’ belli oldu",
-   "snippet": "Moda dünyasının merakla beklediği Victoria’s Secret Fashion Show’un 2026 kadrosu belli olmaya başladı.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6abd6e4a94237d06a2141d6c.jpg",
-   "video": null,
-   "published": "2026-10-01T04:00:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/melekler-belli-oldu-43325287",
-     "title": "‘Melekler’ belli oldu",
-     "snippet": "Moda dünyasının merakla beklediği Victoria’s Secret Fashion Show’un 2026 kadrosu belli olmaya başladı.",
-     "published": "2026-10-01T04:00:00.000Z",
-     "titleFa": "«فرشتگان» مشخص شدند"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6abd6e4a94237d06a2141d6c.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6abd6e4a94237d06a2141d6c.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3611",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3611",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3611",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3611"
-   ],
-   "mediaDone": true,
-   "titleFa": "مشخص شدن فرشتگان ویکتوریا سیکرتم",
-   "summaryFa": "ترکیب مدل‌های نمایش مد ویکتوریا سیکرتم برای سال ۲۰۲۶ میلادی در حال مشخص شدن است.",
-   "bodyFa": [
-    "نمایش مد بسیار مورد انتظار ویکتوریا سیکرتم کم‌کم جزئیات ترکیب شرکت‌کنندگان خود را برای رویداد سال ۲۰۲۶ میلادی آشکار می‌کند.",
-    "این فهرست که از مدت‌ها پیش مورد توجه دنیای مد و علاقه‌مندان آن قرار داشته، هم‌اکنون در مرحله اعلام اسامی و تکمیل کادر خود است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "3b8c91ea6a71",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/melisa-uraldan-ic-isitan-pozlar-iste-sibel-canin-torunu-linanin-son-hali-7670690",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Melisa Ural'dan iç ısıtan pozlar! İşte Sibel Can'ın torunu Lina'nın son hali",
-   "snippet": "Sanatçı Sibel Can’ın kızı Melisa Ural paylaşımlarıyla magazin gündeminde adından söz ettirmeye devam ediyor. Ural, yeğeni Lina'nın yeni karelerini Instagram'dan sevenlerinin beğenisine sundu.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd67f5ed0288e6d3ecc7e9.jpg",
-   "video": null,
-   "published": "2026-09-30T19:51:31.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/melisa-uraldan-ic-isitan-pozlar-iste-sibel-canin-torunu-linanin-son-hali-7670690",
-     "title": "Melisa Ural'dan iç ısıtan pozlar! İşte Sibel Can'ın torunu Lina'nın son hali",
-     "snippet": "Sanatçı Sibel Can’ın kızı Melisa Ural paylaşımlarıyla magazin gündeminde adından söz ettirmeye devam ediyor. Ural, yeğeni Lina'nın yeni karelerini Instagram'dan sevenlerinin beğenisine sundu.",
-     "published": "2026-09-30T19:51:31.000Z",
-     "titleFa": "تصاویر گرم و صمیمی از ملیسا اورال! این هم وضعیت جدید لینا، نوه سیبل جان"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6abd67f5ed0288e6d3ecc7e9.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6abd67f5ed0288e6d3ecc7e9.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "تصاویر جدید از لینا، نوه سیبل جان، به اشتراک گذاشته شد",
-   "summaryFa": "ملیسا اورال، دختر هنرمند مشهور سیبل جان، تصاویر جدیدی از برادرزاده‌اش لینا را در صفحه اینستاگرام خود منتشر کرد.",
-   "bodyFa": [
-    "ملیسا اورال، دختر هنرمند سرشناس سیبل جان، با انتشار تصاویر جدیدی در شبکه اجتماعی اینستاگرام، بار دیگر توجه رسانه‌های حوزه مجلات و سرگرمی را به خود جلب کرد.",
-    "او در این پست جدید، عکس‌هایی از لینا، برادرزاده خود را برای طرفدارانش به اشتراک گذاشت که این تصاویر با استقبال مخاطبان مواجه شده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "1fe1c979238b",
-   "url": "https://www.haberturk.com/magazin/foto/tuba-unsal-paris-beni-sevdi-3916301",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"Paris beni sevdi\"",
-   "snippet": "Tuba Ünsal, Paris'teki yeni yaşamından paylaşımlar yaptı. Ünlü oyuncu, şehirdeki ilk izlenimlerini \"Paris bence Beyza'nın dediği gibi insanı ya sever ya iter. Bence beni sevdi\" sözleriyle aktardı",
-   "image": "https://im.haberturk.com/l/2026/09/30/ver1790797294/3916301/jpg/1920x1080",
-   "video": null,
-   "published": "2026-09-30T19:42:36.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/tuba-unsal-paris-beni-sevdi-3916301",
-     "title": "\"Paris beni sevdi\"",
-     "snippet": "Tuba Ünsal, Paris'teki yeni yaşamından paylaşımlar yaptı. Ünlü oyuncu, şehirdeki ilk izlenimlerini \"Paris bence Beyza'nın dediği gibi insanı ya sever ya iter. Bence beni sevdi\" sözleriyle aktardı",
-     "published": "2026-09-30T19:42:36.000Z",
-     "titleFa": "پاریس مرا دوست داشت"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "طوبا اونصال از زندگی جدید خود در پاریس خبر داد",
-   "summaryFa": "طوبا اونصال بازیگر مشهور برای تحصیل دخترش به پاریس نقل مکان کرد و تصاویری از زندگی جدید خود را به اشتراک گذاشت. او احساس خود را درباره شهر پاریس در شبکه های اجتماعی بیان کرد.",
-   "bodyFa": [
-    "طوبا اونصال، بازیگر ۴۴ ساله، هفته گذشته اعلام کرده بود که به همراه پسرش جیوان مرت و به خاطر تحصیل دخترش Sare در فرانسه، به پاریس نقل مکان کرده است. او اخیراً اولین تصاویر از زندگی جدید خود در پایتخت فرانسه را در صفحه اجتماعی خود منتشر کرد.",
-    "در این تصاویر دیده می شود که اونصال در خیابان های پاریس قدم می زند و زمان خوشی را با دوستانش می گذراند. او پس از روند جابجایی، اولین برداشت های خود از شهر را با این جملات بیان کرد که پاریس انسان را یا دوست دارد یا دفع می کند و به نظر او، پاریس او را دوست داشته است.",
-    "لازم به ذکر است که Sare، دختر طوبا اونصال از ازدواجش با مورات پیلوکنلی، پیش تر در مدرسه هنری معتبر Lycée Molière در فرانسه پذیرفته شده بود."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "dff48d681a27",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/kime-gonderme-yapti-ahmet-tatlisesten-imali-sozler-insan-durdugu-yeri-kendisi-gosterir-7670680",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Kime gönderme yaptı? Ahmet Tatlıses'ten imalı sözler: İnsan durduğu yeri kendisi gösterir",
-   "snippet": "Türkücü İbrahim Tatlıses'in miras kavgası yaşadığı ve mahkemelik olduğu oğlu Ahmet Tatlıses, sosyal medya hesabından yaptığı son paylaşımla dikkat çekti. Tatlıses'in 'İnsan durduğu yeri zaten kendisi gösterir' sözleriyle kime gönderme yaptığı merak konusu oldu.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd5aa0ed0288e6d3ecc7d1.jpg",
-   "video": null,
-   "published": "2026-09-30T19:03:39.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/kime-gonderme-yapti-ahmet-tatlisesten-imali-sozler-insan-durdugu-yeri-kendisi-gosterir-7670680",
-     "title": "Kime gönderme yaptı? Ahmet Tatlıses'ten imalı sözler: İnsan durduğu yeri kendisi gösterir",
-     "snippet": "Türkücü İbrahim Tatlıses'in miras kavgası yaşadığı ve mahkemelik olduğu oğlu Ahmet Tatlıses, sosyal medya hesabından yaptığı son paylaşımla dikkat çekti. Tatlıses'in 'İnsan durduğu yeri zaten kendisi gösterir' sözleriyle kime gönderme yaptığı merak konusu oldu.",
-     "published": "2026-09-30T19:03:39.000Z",
-     "titleFa": "کیمه گوندرمه یاپتی؟ احمد تاتلیسس‌دن ایمالی سوزلر: اینسان دوردوغو یئری کندیسی گوستریر"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6abd5aa0ed0288e6d3ecc7d1.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6abd5aa0ed0288e6d3ecc7d1.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "واکنش معنادار احمد تاتلیسس در فضای مجازی",
-   "summaryFa": "احمد تاتلیسس با انتشار پیامی در شبکه‌های اجتماعی توجه‌ها را به خود جلب کرد. مخاطب این جمله کنایه‌آمیز هنوز مشخص نیست.",
-   "bodyFa": [
-    "احمد تاتلیسس، پسر ابراهیم تاتلیسس که با پدر خود بر سر ارث و میراث دچار اختلاف بوده و پرونده‌ای در دادگاه دارد، اخیراً پستی در حساب کاربری خود در شبکه‌های اجتماعی منتشر کرده است.",
-    "او در این پست از جمله «انسان جایگاه خود را خودش نشان می‌دهد» استفاده کرده که توجه کاربران را به خود جلب نموده است.",
-    "در حال حاضر مشخص نیست که این اظهارات کنایه‌آمیز احمد تاتلیسس دقیقاً خطاب به چه کسی بوده و این موضوع به عنوان یک پرسش مطرح است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "9325bfc7fb6e",
-   "url": "https://www.haberturk.com/magazin/foto/mert-yazicioglu-sevgilisi-zeynep-artukmac-ile-tenis-oynadi-3916289",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Sevgilisiyle tenis oynadı",
-   "snippet": "Mert Yazıcıoğlu, sevgilisi Zeynep Artukmaç ile tenis oynadığı keyifli anları sosyal medya hesabından takipçileriyle paylaştı",
-   "image": "https://im.haberturk.com/l/2026/09/30/ver1790794175/3916289/jpg/1920x1080",
-   "video": null,
-   "published": "2026-09-30T18:53:09.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/mert-yazicioglu-sevgilisi-zeynep-artukmac-ile-tenis-oynadi-3916289",
-     "title": "Sevgilisiyle tenis oynadı",
-     "snippet": "Mert Yazıcıoğlu, sevgilisi Zeynep Artukmaç ile tenis oynadığı keyifli anları sosyal medya hesabından takipçileriyle paylaştı",
-     "published": "2026-09-30T18:53:09.000Z",
-     "titleFa": "او با معشوقه‌اش تنیس بازی کرد"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "بازی تنیس مرت yazıcıoğlu و زینب Artukmaç",
-   "summaryFa": "مرت yazıcıoğlu تصاویری از بازی تنیس خود به همراه زینب Artukmaç در شبکه‌های اجتماعی منتشر کرد. در این برنامه، بورک dakak نیز آن‌ها را همراهی کرد.",
-   "bodyFa": [
-    "مرت yazıcıoğlu، بازیگر ۳۳ ساله، تصاویر و لحظات شاد و مفرحی از بازی تنیس خود به همراه شریک زندگی‌اش، زینب Artukmaç را در صفحه اینستاگرام خود با ۲.۴ میلیون دنبال‌کننده به اشتراک گذاشت.",
-    "رابطه این زوج که نوه روان‌پزشک و نویسنده گلِسِرن بودایجی‌اوغلو است، به گرمی ادامه دارد و آن‌ها ترجیح می‌دهند رابطه خود را پنهان نکنند. در این بازی تنیس، علاوه بر این زوج، بورک dakak نیز حضور داشت و این تصاویر با استقبال هواداران روبه‌رو شد."
    ],
    "ai": true,
    "aiTries": 1
@@ -10767,563 +11853,6 @@
    }
   },
   {
-   "id": "d9bf8168e813",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/mert-yazicioglu-aska-geldi-sevgilisi-zeynep-artukmac-ile-yeni-paylasim-7670659",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Mert Yazıcıoğlu aşka geldi! Sevgilisi Zeynep Artukmaç ile yeni paylaşım",
-   "snippet": "Dizilerin aranılan isimlerinden oyuncu Mert Yazıcıoğlu ile sevgilisi Zeynep Artukmaç'ın aşkı tam gaz devam ediyor. Ünlü isim, yeni romantik pozlarını Instagram'dan paylaştı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd4c9eed0288e6d3ecc7a7.jpg",
-   "video": null,
-   "published": "2026-09-30T17:56:09.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/mert-yazicioglu-aska-geldi-sevgilisi-zeynep-artukmac-ile-yeni-paylasim-7670659",
-     "title": "Mert Yazıcıoğlu aşka geldi! Sevgilisi Zeynep Artukmaç ile yeni paylaşım",
-     "snippet": "Dizilerin aranılan isimlerinden oyuncu Mert Yazıcıoğlu ile sevgilisi Zeynep Artukmaç'ın aşkı tam gaz devam ediyor. Ünlü isim, yeni romantik pozlarını Instagram'dan paylaştı.",
-     "published": "2026-09-30T17:56:09.000Z",
-     "titleFa": "مرت یاجی‌اوغلو عاشق شد! اشتراک‌گذاری جدید با معشوقش زینب آرتوکماچ"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6abd4c9eed0288e6d3ecc7a7.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6abd4c9eed0288e6d3ecc7a7.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار تصاویر جدید از مرت یاجی‌اوغلو و زینب آرتوکماچ",
-   "summaryFa": "مرت یاجی‌اوغلو، بازیگر سرشناس، تصاویر رومانتیک جدیدی از خود و معشوقش زینب آرتوکماچ در اینستاگرام منتشر کرد. رابطه این زوج همچنان ادامه دارد.",
-   "bodyFa": [
-    "مرت یاجی‌اوغلو، یکی از بازیگران پرکار و شناخته‌شده سریال‌ها، رابطه عاشقانه‌اش با زینب آرتوکماچ را با انتشار تصاویری جدید ادامه داده است.",
-    "این بازیگر معروف عکس‌های رمانتیک تازه‌ای از خود و معشوقش را در صفحه اینستاگرام خود به اشتراک گذاشته است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "9f0e01c1eb58",
-   "url": "https://www.milliyet.com.tr/magazin/kahtali-mice-unutulmadi-duygulandiran-klip-7670638",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Kahtalı Mıçe unutulmadı! Duygulandıran klip",
-   "snippet": "Adıyaman'ın Kahta ilçesinde 15 Şubat 2025’te hayatını kaybeden Türk Halk Müziği Sanatçısı Mustafa Kahtalı (Kahtalı Mıçe) anısına ‘Kaderimi Yaz Kalbime’ adlı özel ve son klibi çekildi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd41b6ed0288e6d3ecc787.jpg",
-   "video": null,
-   "published": "2026-09-30T17:17:32.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/kahtali-mice-unutulmadi-duygulandiran-klip-7670638",
-     "title": "Kahtalı Mıçe unutulmadı! Duygulandıran klip",
-     "snippet": "Adıyaman'ın Kahta ilçesinde 15 Şubat 2025’te hayatını kaybeden Türk Halk Müziği Sanatçısı Mustafa Kahtalı (Kahtalı Mıçe) anısına ‘Kaderimi Yaz Kalbime’ adlı özel ve son klibi çekildi.",
-     "published": "2026-09-30T17:17:32.000Z",
-     "titleFa": "کاhtalı Mıçe unutulmadı! Duygulandıran klip"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6abd41b6ed0288e6d3ecc787.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6abd41b6ed0288e6d3ecc787.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار موزیک‌ویدئوی یادبود برای مصطفی کاهتالی",
-   "summaryFa": "موزیک‌ویدئوی ویژه و نهایی مصطفی کاهتالی، هنرمند فقید موسیقی محلی ترکی، با عنوان «سرنوشتم را روی قلبم بنویس» ساخته شد. این اثر به یاد او در شهر کاهتای آدیامان تهیه شده است.",
-   "bodyFa": [
-    "به یاد مصطفی کاهتالی، هنرمند فقید موسیقی محلی ترکیه که در تاریخ ۱۵ فوریه ۲۰۲۵ در منطقه کاهتا واقع در آدیامان درگذشت، موزیک‌ویدئوی ویژه و پایانی با نام «سرنوشتم را روی قلبم بنویس» تهیه و آماده شد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "4eb64077f9c9",
-   "url": "https://www.haberturk.com/magazin/foto/seda-sayan-ve-caglar-okten-den-isvicre-de-ask-pozu-3916267",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "İsviçre'de aşk pozu",
-   "snippet": "Seda Sayan ile Çağlar Ökten, arkadaşlarıyla birlikte çıktıkları İsviçre tatilinde aşk dolu anlarını takipçileriyle paylaştı",
-   "image": "https://im.haberturk.com/l/2026/09/30/ver1790787859/3916267/jpg/1920x1080",
-   "video": null,
-   "published": "2026-09-30T17:04:47.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/seda-sayan-ve-caglar-okten-den-isvicre-de-ask-pozu-3916267",
-     "title": "İsviçre'de aşk pozu",
-     "snippet": "Seda Sayan ile Çağlar Ökten, arkadaşlarıyla birlikte çıktıkları İsviçre tatilinde aşk dolu anlarını takipçileriyle paylaştı",
-     "published": "2026-09-30T17:04:47.000Z",
-     "titleFa": "پز عاشقانه در سوئیس"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "سда سایان و چاغلار اوکتن در سفر سوئیس",
-   "summaryFa": "سدا سایان و چاغلار اوکتن که در سال ۲۰۲۲ ازدواج کرده بودند، تصاویری از سفر خود به سوئیس را با هوادارانشان به اشتراک گذاشتند. این زوج به همراه دوستانشان به زوریخ رفته و لحظات عاشقانه خود را منتشر کردند.",
-   "bodyFa": [
-    "سدا سایان، خواننده مشهور، و همسرش چاغلار اوکتن که در سال ۲۰۲۲ با یکدیگر ازدواج کردند، زندگی مشترک شادی دارند و گهگاه لحظات خود را در شبکه‌های اجتماعی بازتاب می‌دهند.",
-    "این زوج اخیراً به همراه دوستانشان راهی کشور سوئیس شده و در خیابان‌های زوریخ به گردش پرداخته‌اند. سدا سایان تصاویری از این سفر و لحظات عاشقانه خود با همسرش را در صفحه مجازی‌اش منتشر کرد.",
-    "او در یکی از عکس‌ها در حال بوسیدن چاغلار اوکتن است و با درج عبارت «عشقم» برای این تصویر، عشق خود را به همسرش به نمایش گذاրده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "b5d1956102c8",
-   "url": "https://www.sabah.com.tr/magazin/dunyayi-ayaga-kaldiran-goruntu-7671088",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Dünyayı ayağa kaldıran görüntü",
-   "snippet": "İngiliz müzik grubu Massive Attack'ın solisti Robert Del Naja, Liverpool'da düzenlenen Filistin'e destek eylemine katıldı. Sanatçı, üzerinde \"Soykırıma karşıyım, Filistin'e desteğe devam\" yazılı pankart... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/7d2124/1200/675/0/22/669/398?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/dunyayi-ayaga-kaldiran-goruntu-1790787460438.jpeg",
-   "video": null,
-   "published": "2026-09-30T16:58:51.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/dunyayi-ayaga-kaldiran-goruntu-7671088",
-     "title": "Dünyayı ayağa kaldıran görüntü",
-     "snippet": "İngiliz müzik grubu Massive Attack'ın solisti Robert Del Naja, Liverpool'da düzenlenen Filistin'e destek eylemine katıldı. Sanatçı, üzerinde \"Soykırıma karşıyım, Filistin'e desteğe devam\" yazılı pankart... Devamı için tıklayınız",
-     "published": "2026-09-30T16:58:51.000Z",
-     "titleFa": "تصویری که جهان را به تکاپو انداخت"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/7d2124/1200/675/0/22/669/398?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/dunyayi-ayaga-kaldiran-goruntu-1790787460438.jpeg",
-    "https://iasbh.tmgrup.com.tr/32d390/752/395/0/33/669/385?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/dunyayi-ayaga-kaldiran-goruntu-1790787460438.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/2026/09/30/dunyayi-ayaga-kaldiran-goruntu-1790787482317.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "بازداشت رابرت دل ناخا، خواننده گروه مسیو اتک در تجمع حامی فلسطین در لیورپول",
-   "summaryFa": "رابرت دل ناخا، خواننده گروه موسیقی مسیو اتک، به دلیل حمل پلاکارد در حمایت از فلسطین در لیورپول بازداشت شد.",
-   "bodyFa": [
-    "رابرت دل ناخا، خواننده گروه موسیقی بریتانیایی مسیو اتک، در شهر لیورپول در یک تجمع حمایتی از فلسطین شرکت کرد.",
-    "این هنرمند به دلیل حمل پلاکارد با شعار «من مخالف نسل‌کشی هستم، به حمایت از فلسطین ادامه دهید» بر اساس قانون مبارزه با تروریسم بازداشت شد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "b2868cae5511",
-   "url": "https://www.sabah.com.tr/magazin/11-milyarla-dubaide-luks-yasam-7671084",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "11 milyarla Dubai’de lüks yaşam",
-   "snippet": "Fon vurgunu yaparak kazandığı 11 milyarı alıp Dubai’ye kaçan Melis Sütşurup, eşi Mustafa Sandal ile birlikte lüks içinde yaşamaya başladı. Tarifeli uçaklar yerine özel jet tercih ediliyor, lüks ve şatafatlı... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/36d52b/1200/675/0/72/891/574?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/11-milyarla-dubaide-luks-yasam-1790787017725.jpeg",
-   "video": null,
-   "published": "2026-09-30T16:55:00.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/11-milyarla-dubaide-luks-yasam-7671084",
-     "title": "11 milyarla Dubai’de lüks yaşam",
-     "snippet": "Fon vurgunu yaparak kazandığı 11 milyarı alıp Dubai’ye kaçan Melis Sütşurup, eşi Mustafa Sandal ile birlikte lüks içinde yaşamaya başladı. Tarifeli uçaklar yerine özel jet tercih ediliyor, lüks ve şatafatlı... Devamı için tıklayınız",
-     "published": "2026-09-30T16:55:00.000Z",
-     "titleFa": "زندگی لوکس در دبی با ۱۱ میلیارد"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/36d52b/1200/675/0/72/891/574?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/11-milyarla-dubaide-luks-yasam-1790787017725.jpeg",
-    "https://iasbh.tmgrup.com.tr/960e51/60/60/0/0/60/60?u=https://isbh.tmgrup.com.tr/sbh/2025/01/10/1736489014590.jpg",
-    "https://iasbh.tmgrup.com.tr/dd013c/752/395/0/89/891/558?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/11-milyarla-dubaide-luks-yasam-1790787017725.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "ادعاهایی درباره زندگی لوکس ملیس سوت‌شوروپ و مصطفی صندل در دبی",
-   "summaryFa": "بر اساس ادعاها، ملیس سوت‌شوروپ پس از فرار با پول‌های حاصل از کلاهبرداری به دبی، به همراه همسرش مصطفی صندل زندگی لوکسی را آغاز کرده است. این گزارش حاکی از آن است که آن‌ها به جای پروازهای معمولی از جت شخصی استفاده می‌کنند.",
-   "bodyFa": [
-    "بر اساس گزارش‌های منتشرشده، ادعا می‌شود که ملیس سوت‌شوروپ پس از ارتکاب کلاهبرداری و به دست آوردن مبلغ ۱۱ میلیارد، به همراه همسرش مصطفی صندل به دبی گریخته است. این ادعا مطرح شده که او پیش از گشوده شدن پرونده تحقیقاتی مربوط به صندوق مالی، کشور را ترک کرده است.",
-    "در این گزارش همچنین ذکر شده است که این زوج در دبی زندگی بسیار مجللی دارند و در سفرهای خود به جای استفاده از پروازهای مسافربری معمولی، جت‌های شخصی را ترجیح می‌دهند. این سبک زندگی پرهزینه و شلوغی‌های پیرامون آن به موضوعی صحبت‌شده در دبی تبدیل شده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "794d5c504810",
-   "url": "https://www.sabah.com.tr/magazin/katilin-gercek-yuzunu-herkes-gorsun-7671080",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Katilin gerçek yüzünü herkes görsün",
-   "snippet": "'No Other Land', 'Hind'in Sesi' ve 'Naza' filmleri, İsrail'in Gazze Şeridi ve Batı Şeria'daki savaş suçlarını açıkça gözler önüne serdi. Şimdi de soykırımcı İsrail Başbakanı Binyamin Netanyahu'nun kirli... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/77e50e/1200/675/0/111/1071/714?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/katilin-gercek-yuzunu-herkes-gorsun-1790786906877.jpeg",
-   "video": null,
-   "published": "2026-09-30T16:49:21.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/katilin-gercek-yuzunu-herkes-gorsun-7671080",
-     "title": "Katilin gerçek yüzünü herkes görsün",
-     "snippet": "'No Other Land', 'Hind'in Sesi' ve 'Naza' filmleri, İsrail'in Gazze Şeridi ve Batı Şeria'daki savaş suçlarını açıkça gözler önüne serdi. Şimdi de soykırımcı İsrail Başbakanı Binyamin Netanyahu'nun kirli... Devamı için tıklayınız",
-     "published": "2026-09-30T16:49:21.000Z",
-     "titleFa": "بگذارید همه چهره واقعی قاتل را ببینند"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/77e50e/1200/675/0/111/1071/714?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/katilin-gercek-yuzunu-herkes-gorsun-1790786906877.jpeg",
-    "https://iasbh.tmgrup.com.tr/88adba/752/395/0/139/1071/701?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/katilin-gercek-yuzunu-herkes-gorsun-1790786906877.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/2026/09/30/katilin-gercek-yuzunu-herkes-gorsun-1790786917561.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "نمایش پرونده‌ها و بازجویی‌های بنیامین نتانیاهو در سینما",
-   "summaryFa": "فیلم‌های مختلفی درباره جنایات جنگی اسرائیل در غزه و کرانه باختری ساخته شده است. اکنون نیز تصاویری از بازجویی‌های پلیس از بنیامین نتانیاهو به سینما راه یافته است.",
-   "bodyFa": [
-    "فیلم‌های «سرزمین دیگری نیست»، «صدای هند» و «نازا» به طور آشکار جنایات جنگی اسرائیل در نوار غزه و کرانه باختری را به تصویر کشیده‌اند.",
-    "در همین راستا، پرونده‌ها و تصاویری از بازجویی‌های پلیس مربوط به بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به عرصه سینما منتقل شده است تا ابعاد تازه‌ای از آن به نمایش درآید."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "34c82b1140db",
-   "url": "https://www.sabah.com.tr/magazin/makarnalarin-tadina-bakti-7671078",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Makarnaların tadına baktı",
-   "snippet": "Oyuncu Oktay Kaynarca , önceki akşam Kuruçeşme'de bir açılışa katıldı. İşadamı Hilal Suerdem'in sahibi olduğu Pastofino'ya giden Kaynarca, sonrasında ev sahipleriyle kurdele kesti. Şef Murat Bozok'un hazırladığı... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/8110af/1200/675/0/0/1054/593?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/makarnalarin-tadina-bakti-1790786851848.jpeg",
-   "video": null,
-   "published": "2026-09-30T16:48:04.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/makarnalarin-tadina-bakti-7671078",
-     "title": "Makarnaların tadına baktı",
-     "snippet": "Oyuncu Oktay Kaynarca , önceki akşam Kuruçeşme'de bir açılışa katıldı. İşadamı Hilal Suerdem'in sahibi olduğu Pastofino'ya giden Kaynarca, sonrasında ev sahipleriyle kurdele kesti. Şef Murat Bozok'un hazırladığı... Devamı için tıklayınız",
-     "published": "2026-09-30T16:48:04.000Z",
-     "titleFa": "مکاره‌نین طادینه باقتی"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/8110af/1200/675/0/0/1054/593?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/makarnalarin-tadina-bakti-1790786851848.jpeg",
-    "https://iasbh.tmgrup.com.tr/b4044e/752/395/0/38/1054/593?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/makarnalarin-tadina-bakti-1790786851848.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "حضور اکتای کاینارجا در مراسم افتتاحیه در کوروچشمه",
-   "summaryFa": "بازیگر معروف اکتای کاینارجا در مراسم افتتاحیه یک کسب‌وکار شرکت کرد و ضمن بریدن روبان، از پاستاهای آماده‌شده توسط سرآشپز چشید.",
-   "bodyFa": [
-    "اکتای کاینارجا، بازیگر شناخته‌شده، در شب گذشته در مراسم افتتاحیه ای در منطقه کوروچشمه حضور یافت. او به فروشگاه «پاستوفینو» که متعلق به هلال سوئردم، تاجر سرشناس است، رفت.",
-    "این بازیگر در جریان این مراسم، در کنار میزبانان اقدام به بریدن روبان افتتاحیه کرد. او همچنین طعم پاستاهایی را که توسط سرآشپز مراد بوزوک تهیه شده بود، امتحان کرد.",
-    "کاینارجا پس از چشیدن پاستاها بیان کرد که با وجود اینکه نباید پاستا بخورد، اما نتوانسته در برابر آن مقاومت کند و مقداری از آن را خورده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "773b0908464b",
-   "url": "https://www.sabah.com.tr/magazin/golfe-merak-sardi-7671077",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Golfe merak sardı",
-   "snippet": "Oğuzhan Özyakup, golfe başladı. Beşiktaş'ta gösterdiği başarılı performans sonrası ani bir kararla futboldan emekli olan Özyakup, Antalya'da arkadaşlarıyla golf oynadı. Bu anları sosyal medyadan paylaşan... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/a42aec/1200/675/0/175/477/444?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/golfe-merak-sardi-1790786829018.jpeg",
-   "video": null,
-   "published": "2026-09-30T16:47:20.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/golfe-merak-sardi-7671077",
-     "title": "Golfe merak sardı",
-     "snippet": "Oğuzhan Özyakup, golfe başladı. Beşiktaş'ta gösterdiği başarılı performans sonrası ani bir kararla futboldan emekli olan Özyakup, Antalya'da arkadaşlarıyla golf oynadı. Bu anları sosyal medyadan paylaşan... Devamı için tıklayınız",
-     "published": "2026-09-30T16:47:20.000Z",
-     "titleFa": "علاقه به گلف"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/a42aec/1200/675/0/175/477/444?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/golfe-merak-sardi-1790786829018.jpeg",
-    "https://iasbh.tmgrup.com.tr/e74853/752/395/0/183/477/434?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/golfe-merak-sardi-1790786829018.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "آغاز فعالیت اوزهان اوزیاکوب در رشته گلف",
-   "summaryFa": "اوزهان اوزیاکوب، بازیکن سابق تیم بشیکتاش، پس از بازنشستگی ناگهانی از فوتبال به گلف روی آورده است. او اخیراً تصاویری از بازی گلف خود با دوستانش در آنتالیا را در شبکه‌های اجتماعی منتشر کرد.",
-   "bodyFa": [
-    "اوزهان اوزیاکوب که پس از عملکرد موفق خود در تیم بشیکتاش تصمیم به بازنشستگی ناگهانی از فوتبال گرفت، اکنون به ورزش گلف علاقه‌مند شده است. گزارش‌ها حاکی از آن است که او اخیراً در شهر آنتالیا به همراه دوستان خود به بازی گلف پرداخته است.",
-    "این ورزشکار سابق تصاویر و لحظات مربوط به بازی خود را در شبکه‌های اجتماعی به اشتراک گذاشته است و بر اساس اطلاعات موجود، در جریان این بازی موفق به ثبت ضربات خوبی شده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "7ccb73e26117",
-   "url": "https://www.sabah.com.tr/magazin/35-derece-sicaklikta-hasat-7671076",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "35 derece sıcaklıkta hasat",
-   "snippet": "Kıvanç Kasabalı, tropikal meyve bahçelerine girerek çocuklar gibi eğlendi. Türkiye'nin en büyük tropikal meyve üretim merkezlerinden biri olan Alanya'da 3 gün boyunca unutulmayacak anlar yaşayan oyuncu,... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/273f7a/1200/675/0/118/516/407?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/35-derece-sicaklikta-hasat-1790786795622.jpeg",
-   "video": null,
-   "published": "2026-09-30T16:46:43.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/35-derece-sicaklikta-hasat-7671076",
-     "title": "35 derece sıcaklıkta hasat",
-     "snippet": "Kıvanç Kasabalı, tropikal meyve bahçelerine girerek çocuklar gibi eğlendi. Türkiye'nin en büyük tropikal meyve üretim merkezlerinden biri olan Alanya'da 3 gün boyunca unutulmayacak anlar yaşayan oyuncu,... Devamı için tıklayınız",
-     "published": "2026-09-30T16:46:43.000Z",
-     "titleFa": "برداشت محصول در دمای ۳۵ درجه"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/273f7a/1200/675/0/118/516/407?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/35-derece-sicaklikta-hasat-1790786795622.jpeg",
-    "https://iasbh.tmgrup.com.tr/490658/752/395/0/127/516/398?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/35-derece-sicaklikta-hasat-1790786795622.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "برداشت محصول در دمای ۳۵ درجه توسط کیوان کسابالی",
-   "summaryFa": "کیوان کسابالی در سفر سه روزه خود به آلانیا، در هوای گرم ۳۵ درجه به برداشت میوه استوایی پرداخت. او در باغ‌های میوه استوایی لحظاتی شاد را سپری کرد.",
-   "bodyFa": [
-    "کیوان کسابالی، بازیگر، در سفر خود به آلانیا که یکی از بزرگترین مراکز تولید میوه استوایی در ترکیه است، لحظات فراموش‌نشدنی را تجربه کرد.",
-    "او با حضور در باغ‌های میوه‌های استوایی و با وجود دمای ۳۵ درجه‌ای هوا، به برداشت میوه اژدها پرداخت و از این تجربه لذت برد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "89ff48a93f4c",
-   "url": "https://www.sabah.com.tr/magazin/45-gunde-17-konser-verecek-7671075",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "45 günde 17 konser verecek",
-   "snippet": "MOTİVE, yoğun konser maratonuyla hız kesmeden devam ediyor. Eylül ayında Türkiye'yi şehir şehir dolaşan başarılı sanatçı, sahne performansıyla hayranlarıyla buluşmaya devam ederken, Ekim ayında da tam... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/95d1d7/1200/675/0/104/512/391?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/45-gunde-17-konser-verecek-1790786763716.jpeg",
-   "video": null,
-   "published": "2026-09-30T16:46:22.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/45-gunde-17-konser-verecek-7671075",
-     "title": "45 günde 17 konser verecek",
-     "snippet": "MOTİVE, yoğun konser maratonuyla hız kesmeden devam ediyor. Eylül ayında Türkiye'yi şehir şehir dolaşan başarılı sanatçı, sahne performansıyla hayranlarıyla buluşmaya devam ederken, Ekim ayında da tam... Devamı için tıklayınız",
-     "published": "2026-09-30T16:46:22.000Z",
-     "titleFa": "در ۴۵ روز ۱۷ کنسرت خواهد داد"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/95d1d7/1200/675/0/104/512/391?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/45-gunde-17-konser-verecek-1790786763716.jpeg",
-    "https://iasbh.tmgrup.com.tr/763626/752/395/0/111/512/380?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/45-gunde-17-konser-verecek-1790786763716.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "برنامه‌ریزی برای ۱۷ کنسرت در ۴۵ روز توسط موتیو",
-   "summaryFa": "موتیو پس از تور شهری خود در سپتامبر، در ماه اکتبر نیز ۱۲ کنسرت دیگر برگزار خواهد کرد.",
-   "bodyFa": [
-    "هنرمند موفق، موتیو، با برنامه‌ای فشرده و بدون وقفه به اجرای کنسرت‌های خود ادامه می‌دهد. او که در ماه سپتامبر برای اجرای زنده به شهرهای مختلف ترکیه سفر کرده بود، ارتباط خود با هوادارانش را حفظ کرد.",
-    "بر اساس اطلاعات منتشرشده، این هنرمند قرار است در مجموع ۱۷ کنسرت را در بازه زمانی ۴۵ روزه به اجرا درآورد که شامل ۱۲ کنسرت در ماه اکتبر خواهد بود."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "8b38f433f667",
-   "url": "https://www.sabah.com.tr/yazarlar/gunaydin/idil-cimrin/2026/10/01/cayli-cay-saati-lezzetleri",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Çaylı çay saati lezzetleri",
-   "snippet": "Sıcacık, halis muhlis bir Türk lezzetidir çay. Lezzetli bir çay içmek için ilk dikkat etmemiz gereken şey, şüphesiz çay seçimi. Damak tadımıza uygun olan çayı bulup doğru demleme teknikleri ile demlemek... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/49edc3/0/0/0/0/568/597?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/cayli-cay-saati-lezzetleri-1790786421766.jpeg",
-   "video": null,
-   "published": "2026-09-30T16:41:56.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/yazarlar/gunaydin/idil-cimrin/2026/10/01/cayli-cay-saati-lezzetleri",
-     "title": "Çaylı çay saati lezzetleri",
-     "snippet": "Sıcacık, halis muhlis bir Türk lezzetidir çay. Lezzetli bir çay içmek için ilk dikkat etmemiz gereken şey, şüphesiz çay seçimi. Damak tadımıza uygun olan çayı bulup doğru demleme teknikleri ile demlemek... Devamı için tıklayınız",
-     "published": "2026-09-30T16:41:56.000Z",
-     "titleFa": "طعم‌های ساعت چای با چای"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/49edc3/0/0/0/0/568/597?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/cayli-cay-saati-lezzetleri-1790786421766.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/2026/04/04/1775286965973.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/halkbank-ureten-turkiye.png?v=25825",
-    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-1.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
-    "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/10/01/164x236/01SBH01.jpg?v=25825"
-   ],
-   "mediaDone": true,
-   "titleFa": "طعم‌ها و نکات مربوط به ساعت چای",
-   "summaryFa": "این مطلب به اهمیت انتخاب چای مناسب و تکنیک‌های صحیح دم کردن آن اشاره دارد.",
-   "bodyFa": [
-    "چای به عنوان یک نوشیدنی اصیل و گرم ترکی شناخته می‌شود که برای داشتن یک تجربه خوشمزه، نخستین گام انتخاب درست آن بر اساس ذائقه است.",
-    "در این مطلب به ضرورت انتخاب چای مناسب و استفاده از روش‌های صحیح دم کردن برای لذت بردن از طعم واقعی آن تاکید شده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "a8fa1a0a5034",
-   "url": "https://www.sabah.com.tr/yazarlar/gunaydin/sb-mevlut_tezel/2026/10/01/vergi-uretim-yapilan-kente-odenirse-ne-olur",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Vergi, üretim yapılan kente ödenirse ne olur?",
-   "snippet": "Atik Ailesi'nin doğa ve kamp içerikleriyle tanınan üyesi Burcu Atik, 2025 vergilendirme döneminde 12,6 milyon TL'yi aşan gelir vergisi tahakkuku ile Bolu'nun vergi rekortmeni oldu. Atik, bir önceki yıl... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/b97fe4/0/0/0/0/704/396?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/vergi-uretim-yapilan-kente-odenirse-ne-olur-1790784570298.jpeg",
-   "video": null,
-   "published": "2026-09-30T16:11:09.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/yazarlar/gunaydin/sb-mevlut_tezel/2026/10/01/vergi-uretim-yapilan-kente-odenirse-ne-olur",
-     "title": "Vergi, üretim yapılan kente ödenirse ne olur?",
-     "snippet": "Atik Ailesi'nin doğa ve kamp içerikleriyle tanınan üyesi Burcu Atik, 2025 vergilendirme döneminde 12,6 milyon TL'yi aşan gelir vergisi tahakkuku ile Bolu'nun vergi rekortmeni oldu. Atik, bir önceki yıl... Devamı için tıklayınız",
-     "published": "2026-09-30T16:11:09.000Z",
-     "titleFa": "اگر مالیات در شهری که تولید در آن انجام می‌شود پرداخت شود چه می‌شود؟"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/b97fe4/0/0/0/0/704/396?u=https://isbh.tmgrup.com.tr/sbh/2026/09/30/vergi-uretim-yapilan-kente-odenirse-ne-olur-1790784570298.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/2026/04/04/1775286965973.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/halkbank-ureten-turkiye.png?v=25825",
-    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-1.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
-    "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/10/01/164x236/01SBH01.jpg?v=25825"
-   ],
-   "mediaDone": true,
-   "titleFa": "بورجو عاتیک رکورددار مالیات در بولو شد",
-   "summaryFa": "بورجو عاتیک، عضو شناخته شده خانواده عاتیک در زمینه محتوای طبیعت و کمپینگ، با مالیاتی بالغ بر ۱۲.۶ میلیون لیر رکورددار مالیاتی بولو شد.",
-   "bodyFa": [
-    "بر اساس اطلاعات منتشر شده، بورجو عاتیک که به خاطر تولید محتواهای مرتبط با طبیعت و کمپینگ در کنار خانواده‌اش شناخته می‌شود، در دوره مالیاتی ۲۰۲۵ توانست با پرداخت مالیات بر درآمدی که از ۱۲.۶ میلیون لیر ترکیه فراتر رفت، عنوان رکورددار مالیاتی شهر بولو را به خود اختصاص دهد.",
-    "همچنین اشاره شده است که او در سال گذشته نیز توانسته بود رتبه نخست همین فهرست را به دست آورد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
    "id": "4b7488dc4499",
    "url": "https://www.milliyet.com.tr/magazin/galeri/tolga-saritas-ve-zeynep-mayruk-ciftinden-mutlu-aile-tablosu-ogullari-alinin-son-haline-bakin-7670616",
    "source": "milliyet-magazin",
@@ -11368,100 +11897,6 @@
    "bodyFa": [
     "تولگا ساری‌تاش، بازیگر سرشناس، و همسرش زینب مایروک، طراح مد، این روزها دوران خوشی را در کنار فرزندشان سپری می‌کنند. این زوج که با ورود پسرشان علی به جمع خانواده خوشحال‌تر شده‌اند، به تازگی تصاویری از او را به نمایش گذاشته‌اند.",
     "آن‌ها همزمان با ورود فرزندشان علی به سن یک سالگی، عکس‌های جدیدی از این جشن تولد را در صفحه اینستاگرام خود منتشر کردند که مورد توجه مخاطبان قرار گرفته است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "6564f5648e01",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/ask-tam-gaz-devam-ediyor-icardi-ve-nisanlisi-china-suarezden-ayna-karsisinda-romantik-pozlar-7670604",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Aşk tam gaz devam ediyor! Icardi ve nişanlısı China Suarez'den ayna karşısında romantik pozlar",
-   "snippet": "Kariyeriyle olduğu kadar özel hayatıyla da magazin gündeminden düşmeyen yıldız futbolcu Mauro Icardi ve nişanlısı China Suarez'in mutlu beraberliği devam ediyor. İkili, yeni romantik karelerini Instagram'dan paylaştı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd2b26ed0288e6d3ecc731.jpg",
-   "video": null,
-   "published": "2026-09-30T15:31:50.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/ask-tam-gaz-devam-ediyor-icardi-ve-nisanlisi-china-suarezden-ayna-karsisinda-romantik-pozlar-7670604",
-     "title": "Aşk tam gaz devam ediyor! Icardi ve nişanlısı China Suarez'den ayna karşısında romantik pozlar",
-     "snippet": "Kariyeriyle olduğu kadar özel hayatıyla da magazin gündeminden düşmeyen yıldız futbolcu Mauro Icardi ve nişanlısı China Suarez'in mutlu beraberliği devam ediyor. İkili, yeni romantik karelerini Instagram'dan paylaştı.",
-     "published": "2026-09-30T15:31:50.000Z",
-     "titleFa": "عشق با تمام قدرت ادامه دارد! تصاویر رمانتیک مائورو ایکاردی و نامزدش چینا سوارز در مقابل آینه"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6abd2b26ed0288e6d3ecc731.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6abd2b26ed0288e6d3ecc731.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "تصاویر عاشقانه جدید مائورو ایکاردی و نامزدش چینا سوارز در اینستاگرام",
-   "summaryFa": "مائورو ایکاردی و نامزدش چینا سوارز تصاویر عاشقانه جدیدی را در صفحه اینستاگرام خود به اشتراک گذاختند. رابطه این زوج همچنان ادامه دارد.",
-   "bodyFa": [
-    "مائورو ایکاردی، بازیکن فوتبال سرشناس، به دلیل زندگی خصوصی و همچنین فعالیت‌های حرفه‌ای خود همواره در مرکز توجه رسانه‌ها قرار دارد. رابطه او و نامزدش چینا سوارز همچنان ادامه دارد و این زوج روزهای خوبی را با هم سپری می‌کنند.",
-    "این زوج اخیراً تصاویری از لحظات رمانتیک و دونفره خود را در مقابل آینه ثبت کرده و از طریق حساب کاربری خود در شبکه اجتماعی اینستاگرام با مخاطبان به اشتراک گذاشته‌اند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "e2a004ff2bc3",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/seda-sayan-zurihte-aska-geldi-esi-caglar-oktene-romantik-not-7670532",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Seda Sayan Zürih'te aşka geldi! Eşi Çağlar Ökten'e romantik not",
-   "snippet": "Ünlü sanatçı Seda Sayan, eşi Çağlar Ökten ile çıktığı İsviçre tatilinden romantik bir kare paylaştı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abd18c1ed0288e6d3ecc6c1.jpg",
-   "video": null,
-   "published": "2026-09-30T14:19:38.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/seda-sayan-zurihte-aska-geldi-esi-caglar-oktene-romantik-not-7670532",
-     "title": "Seda Sayan Zürih'te aşka geldi! Eşi Çağlar Ökten'e romantik not",
-     "snippet": "Ünlü sanatçı Seda Sayan, eşi Çağlar Ökten ile çıktığı İsviçre tatilinden romantik bir kare paylaştı.",
-     "published": "2026-09-30T14:19:38.000Z",
-     "titleFa": "سدا سایان در زوریخ عاشق شد! یادداشت رمانتیک برای همسرش چاغلار اوکتن"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6abd18c1ed0288e6d3ecc6c1.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6abd18c1ed0288e6d3ecc6c1.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "سدا سایان در زوریخ عشق خود را به همسرش ابراز کرد",
-   "summaryFa": "سدا سایان تصویری رمانتیک از سفر خود به سوئیس به همراه همسرش چاغلار اوکتن منتشر کرد.",
-   "bodyFa": [
-    "سدا سایان، هنرمند سرشناس، تصویری رمانتیک و عاشقانه از سفر خود به کشور سوئیس در صفحه شخصی‌اش به اشتراک گذاشت.",
-    "او در این سفر همراه با همسر خود، چاغلار اوکتن حضور دارد و این عکس یادگاری توجه مخاطبان را به خود جلب کرده است."
    ],
    "ai": true,
    "aiTries": 1
