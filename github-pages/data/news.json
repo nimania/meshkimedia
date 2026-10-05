@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T15:38:19.451Z",
+ "updated": "2026-10-05T16:05:08.148Z",
  "items": [
   {
    "id": "d1a43ea6a138",
@@ -450,10 +450,20 @@
      "url": "https://www.haberturk.com/magazin/kim-kardashian-dort-cocuk-icin-kac-bakisinin-oldugunu-acikladi-3917392",
      "title": "Kaç bakıcısının olduğunu açıkladı",
      "snippet": "Kim Kardashian, 2021'de ayrılıp bir yıl sonra resmen boşandığı eski eşi Kanye West'ten olan dört çocuğuna nasıl baktığını anlatırken, bakıcı sayısını da verdi",
-     "published": "2026-10-05T13:45:52.000Z"
+     "published": "2026-10-05T13:45:52.000Z",
+     "titleFa": "تعداد پرستاران خود را فاش کرد"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "کیم کارداشیان تعداد پرستاران فرزندانش را فاش کرد",
+   "summaryFa": "کیم کارداشیان اعلام کرد که برای مراقبت از چهار فرزندش پنج پرستار دارد که به صورت نوبتی فعالیت می‌کنند، هرچند او همچنان بخش زیادی از کارهای آن‌ها را خودش انجام می‌دهد.",
+   "bodyFa": [
+    "کیم کارداشیان، چهره مشهور تلویزیونی و کارآفرین ۴۵ ساله، در مصاحبه‌ای جدید درباره نحوه مدیریت زندگی خانوادگی و بزرگ کردن چهار فرزندش از همسر سابقش کانیه وست صحبت کرد. او فاش کرد که پنج پرستار بچه دارد که به صورت چرخشی وظیفه کمک در نگهداری از فرزندانش یعنی نورث (۱۳ ساله)، سینت (۱۰ ساله)، شیکاگو (۸ ساله) و سالم (۷ ساله) را بر عهده دارند.",
+    "با وجود داشتن این کادر حمایتی، کارداشیان تأکید کرد که خودش وظیفه بردن و آوردن بچه‌ها از مدرسه را انجام می‌دهد و هر شب در وعده شام خانوادگی در کنار آن‌ها حضور دارد. او خود را مادری صبور، مهربان و تا حدی سخت‌گیر توصیف کرد و گفت که بچه‌ها هنوز هم گاهی در تخت او می‌خوابند و او هر شب برایشان کتاب می‌خواند.",
+    "این ستاره برنامه‌های واقع‌نما پیش از این در سال ۲۰۲۴ اعتراف کرده بود که با وجود داشتن کمک‌های متعدد، گاهی در مسیر بزرگ کردن فرزندان احساس تنهایی می‌کند. او اشاره کرد که به دلیل ترس از قضاوت دیگران کمتر درباره سختی‌های مادری صحبت می‌کند، زیرا مردم همواره به منابع مالی گسترده او برای استخدام پرستار اشاره می‌کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "2335ad6f9bd5",
@@ -467,7 +477,7 @@
    "video": null,
    "published": "2026-10-05T13:42:45.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -480,7 +490,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/hande-ercelin-pariste-elindeki-kitaplar-dikkat-cekti-iste-tercih-ettigi-yazar-7673536",
      "title": "Hande Erçel’in Paris’te elindeki kitaplar dikkat çekti! İşte tercih ettiği yazar",
      "snippet": "Paris Moda Haftası kapsamında Valentino defilesine katılan Hande Erçel, bu kez yalnızca kombiniyle değil, elinde taşıdığı kitaplarla da gündem oldu. Ünlü oyuncunun Nobel ödüllü yazar Orhan Pamuk’un iki eserini tercih ettiği görüldü.",
-     "published": "2026-10-05T13:42:45.000Z"
+     "published": "2026-10-05T13:42:45.000Z",
+     "titleFa": "توجه به کتاب‌های در دست هانده ارچل در پاریس! این نویسنده را انتخاب کرد"
     }
    ],
    "images": [
@@ -497,7 +508,15 @@
      "url": "https://x.com/caddemilliyet/status/2107084241351962917"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "توجه به کتاب‌های همراه هانده ارچل در پاریس",
+   "summaryFa": "هانده ارچل در جریان هفته مد پاریس و شرکت در فشن‌شو والنتینو، با کتاب‌های در دست خود توجه‌ها را به خود جلب کرد.",
+   "bodyFa": [
+    "هانده ارچل، بازیگر مشهور، به منظور شرکت در نمایش برند والنتینو در هفته مد پاریس حضور یافت. او علاوه بر سبک پوشش و لباس خود، به دلیل کتاب‌هایی که در دست داشت نیز مورد توجه و در کانون اخبار قرار گرفت.",
+    "بر اساس مشاهدات انجام‌شده، این بازیگر معروف دو اثر از نوشته‌های اورهان پاموک، نویسنده برنده جایزه نوبل را با خود به همراه داشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f57c122b7051",
@@ -524,7 +543,8 @@
      "url": "https://www.sozcu.com.tr/melisa-dongel-i-at-isirdi-neye-ugradigini-sasirdi-p366374",
      "title": "Melisa Döngel'i at ısırdı: Neye uğradığını şaşırdı",
      "snippet": "Oyuncu Melisa Döngel, bir at çiftliğinde hayvanı sevmek isterken beklemediği bir an yaşadı. Ata yaklaşan Döngel, ani har...",
-     "published": "2026-10-05T13:39:46.000Z"
+     "published": "2026-10-05T13:39:46.000Z",
+     "titleFa": "ملیسا دونگل توسط اسب گاز گرفته شد: از تعجب خشکش زد"
     }
    ],
    "images": [
@@ -535,7 +555,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ardagulerturkfutboltarihinegectiyenipiyasadegeridudakucuklatti6ac38d26d83705fac6662a71png-rGAWPLVvVEKeHn4kNCdyPQ.png?w=320&h=248&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/jorgejesusronaldoicinkarariniacikladi6ac38921d83705fac663fd33png-xitUzu3Qd0aNeoCmccVH0w.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "گاز گرفته شدن ملیسا دونگل توسط اسب در مزرعه",
+   "summaryFa": "ملیسا دونگل بازیگر ترک هنگام نوازش یک اسب در مزرعه دچار حادثه شد و واکنش ناگهانی حیوان او را غافلگیر کرد.",
+   "bodyFa": [
+    "ملیسا دونگل، بازیگر شناخته‌شده، در حالی که در یک مزرعه پرورش اسب قصد داشت حیوانی را نوازش کند با واکنشی غیرمنتظره روبه‌رو شد. نزدیک شدن او به اسب و حرکت ناگهانی حیوان باعث شد تا این بازیگر دچار غافلگیری شود.",
+    "این لحظه ناگوار و شوکه‌کننده در مزرعه اسب توسط دوربین‌ها نیز ثبت شده و تصاویر آن انتشار یافته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "61d74238be8e",
@@ -562,9 +590,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/gaye-su-akyoldan-senfonik-gosteri-43330512",
      "title": "Gaye Su Akyol'dan senfonik gösteri",
      "snippet": "Gaye Su Akyol, Batı müziğinin en prestijli senfonik topluluklarından WDR Funkhausorchester ile aynı sahneyi paylaştı.",
-     "published": "2026-10-05T13:36:00.000Z"
+     "published": "2026-10-05T13:36:00.000Z",
+     "titleFa": "اجرای سمفونیک از گایه سو آکیول"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac3a7a4934ff28433ad5b2d.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac3a7a4934ff28433ad5b2d.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای سمفونیک گایه سو آکیول",
+   "summaryFa": "گایه سو آکیول با ارکستر سمفونیک WDR Funkhausorchester روی صحنه رفت.",
+   "bodyFa": [
+    "گایه سو آکیول، خواننده، با یکی از معتبرترین گروه‌های سمفونیک موسیقی غربی، یعنی ارکستر WDR Funkhausorchester، هم‌صحنه شد و به اجرای برنامه پرداخت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "43452e306b12",
@@ -593,7 +638,16 @@
      "snippet": "Eski manken Güzide Duran ile iş insanı Adnan Aksoy’un 18 yıllık evliliği mart ayında sona ermişti. Çekişmeli boşanma sürecinin ardından yollarını ayıran çift arasında gerilim ise devam ediyor.",
      "published": "2026-10-05T13:20:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac3a34b066eefba1fd61a1c.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac3a34b066eefba1fd61a1c.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true
   },
   {
    "id": "85165115c7ea",
@@ -620,9 +674,19 @@
      "url": "https://www.haberturk.com/magazin/turkan-soray-yegeni-ahmet-kaan-gezer-i-evlendirdi-gozlerden-uzak-kardesiyle-ayni-masada-poz-verdi-3917360",
      "title": "Yeğenini evlendirdi",
      "snippet": "Türkan Şoray, Nazan Şoray ve Figen Çevik Gezer, ailelerinin en özel günlerinden birinde bir araya geldi. Gezer'in oğlu Ahmet Kaan Gezer, evlendi. Gezer'in nikah şahidi Türkan Şoray oldu",
-     "published": "2026-10-05T12:41:17.000Z"
+     "published": "2026-10-05T12:41:17.000Z",
+     "titleFa": "خواهرزاده‌اش را عروس کرد"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "تورکان شورای و خواهرانش در مراسم عروسی برادرزاده‌اش دور هم جمع شدند",
+   "summaryFa": "تورکان شورای، نازان شورای و فیگن چکیک گزر در مراسم ازدواج احمد کاان گزر دور هم جمع شدند. تورکان شورای همچنین به عنوان شاهد عقد در این مراسم حضور داشت.",
+   "bodyFa": [
+    "احمد کاان گزر، پسر فیگن چکیک گزر، با شریک زندگی خود ازدواج کرد. در این مراسم خانوادگی و مهم، چهره‌های سرشناس سینمای ترکیه یعنی تورکان شورای و خواهرش نازان شورای نیز در کنار فیگن چکیک گزر حضور یافتند.",
+    "این سه خواهر که هر کدام در مسیرهای متفاوتی زندگی می‌کنند، در این جشن خانوادگی پس از مدت‌ها در کنار یکدیگر دیده شدند و عکس مشترک آن‌ها در فضای مجازی توجه زیادی به خود جلب کرد. همچنین تورکان شورای به عنوان شاهد عقد در مراسم ازدواج برادرزاده‌اش ایفای نقش کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "47e6c8adc74d",
@@ -649,9 +713,27 @@
      "url": "https://www.sozcu.com.tr/nuri-alco-50-yil-sonra-yeniden-roptasambirla-poz-verdi-p366363",
      "title": "Nuri Alço 50 yıl sonra yeniden röptaşambırla poz verdi",
      "snippet": "Nuri Alço, “Pazar Gezmesi” programında evinin kapılarını Asiye Acar'a açtı. Yeşilçam'dan kalan kıyafetlerinin de bulundu...",
-     "published": "2026-10-05T12:40:45.000Z"
+     "published": "2026-10-05T12:40:45.000Z",
+     "titleFa": "نوری آلچو پس از ۵۰ سال دوباره با لباس راحتی روپوش‌دار عکس گرفت"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/883jpg-p6PRiNXKCEKkPfitHu-Psg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/883jpg-p6PRiNXKCEKkPfitHu-Psg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/nuri-alco-50-yil-sonra-yeniden-roptasambirla-poz-verdpng-lu8h3gILxkybBgqJTY1m2w.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/nuri-alco-50-yil-sonra-yeniden-roptasambirla-poz-verpng-WE4PAhhu6UiUu0KgKGCj7g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/nurii-alcoojpg-VH6qrDNLzUCYNcSqF4bC1Q.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "نوری آلچو پس از ۵۰ سال دوباره با لباس راحتی روپوش‌دار عکس گرفت",
+   "summaryFa": "نوری آلچو در برنامه «بازار گزمسی» خانه خود را به روی آسیه آکار گشود و کمد لباس‌های خود را نشان داد. او با پوشیدن مجدد یکی از لباس‌های دوران یشیلچام پس از سال‌ها، تصاویر نمادین گذشته خود را زنده کرد.",
+   "bodyFa": [
+    "نوری آلچو، بازیگر پیشکسوت سینمای ترکیه، اخیراً در برنامه تلویزیونی «بازار گزمسی» میزبان آسیه آکار بود و در خانه خود با این برنامه گفتگو کرد.",
+    "او در جریان این برنامه، در کمد لباس‌های خود که شامل پوشاک باقی‌مانده از دوران یشیلچام است را به نمایش گذاشت و با پوشیدن یکی از لباس‌های قدیمی خود پس از گذشت سال‌ها، یادآور تصاویر و استایل‌های نمادین گذشته‌اش شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "59cd7246a925",
@@ -678,9 +760,19 @@
      "url": "https://www.haberturk.com/magazin/heidi-klum-16-yasindaki-kizi-lou-samuel-ile-paris-moda-haftasi-nda-3917368",
      "title": "Anne-kız gecesi",
      "snippet": "Heidi Klum, dört çocuğundan en küçüğü olan 16 yaşındaki kızı Lou Samuel ile birlikte BoF 500 Galası'na katıldı",
-     "published": "2026-10-05T12:29:18.000Z"
+     "published": "2026-10-05T12:29:18.000Z",
+     "titleFa": "شب مادر و دختر"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "حضور هایدی کلوم و دخترش در مهمانی BoF 500",
+   "summaryFa": "هایدی کلوم، مدل آلمانی، به همراه دختر ۱۶ ساله‌اش لو ساموئل در مهمانی BoF 500 در پاریس شرکت کرد. این مراسم در حاشیه هفته مد پاریس برگزار شد.",
+   "bodyFa": [
+    "هایدی کلوم، مدل مشهور، به همراه کوچک‌ترین فرزندش، دختر ۱۶ ساله‌اش لو ساموئل، در مراسم BoF 500 که در پاریس برگزار شد، حضور یافت.",
+    "این رویداد به مناسبت تجلیل از افراد جدید فهرست BoF 500 که شامل چهره‌های تأثیرگذار صنعت مد جهانی است، در حاشیه هفته مد پاریس برپا شد و چهره‌های سرشناس دیگری مانند سیارا، کولمن دومینگو، پریس جکسون و پریس هیلتون نیز در آن شرکت داشتند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ea4d8e4330bb",
@@ -707,9 +799,27 @@
      "url": "https://www.sozcu.com.tr/enes-batur-evinin-kapilarini-ilk-kez-acti-p366354",
      "title": "Enes Batur evinin kapılarını ilk kez açtı",
      "snippet": "Uzun süren sessizliğini bozarak yeni taşındığı 4+1 lüks dairesini gösteren ünlü fenomen Enes Batur, sosyal medyayı salla...",
-     "published": "2026-10-05T12:18:23.000Z"
+     "published": "2026-10-05T12:18:23.000Z",
+     "titleFa": "انس باتور برای اولین بار درهای خانه خود را باز کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/enes-batur-evinin-kapilarini-ilk-kez-acti-3jpg-2uXUPm2PlEqeIou682i94Q.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/enes-batur-evinin-kapilarini-ilk-kez-acti-3jpg-2uXUPm2PlEqeIou682i94Q.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/enes-batur-evinin-kapilarini-ilk-kez-acti-2jpg-3SyJb70R-USl8sKmJfgItA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/enes-batur-evinin-kapilarini-ilk-kez-acti-1jpg-0gXt16HkqkCaTYNgnv-1qQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/enes-batur-evinin-kapilarini-ilk-kez-actijpg-zMKN-Okqg02EQbnJnpostg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "انس باتور برای اولین بار درهای خانه خود را به روی مخاطبان گشود",
+   "summaryFa": "انس باتور، پدیده معروف شبکه‌های اجتماعی، سکوت طولانی‌مدت خود را شکست و آپارتمان لوکس و جدید ۴+۱ خود را به نمایش گذاشت. انتخاب‌های دکوراسیون غیرمعمول و ویژگی‌های این خانه توجه زیادی را در شبکه‌های اجتماعی به خود جلب کرد.",
+   "bodyFa": [
+    "انس باتور، چهره سرشناس فضای مجازی، پس از مدتی سکوت با نشان دادن خانه جدید خود دوباره بر سر زبان‌ها افتاد. او برای نخستین بار درهای آپارتمان لوکس ۴+۱ خود را به روی علاقه‌مندان گشود و بخش‌های مختلف آن را به نمایش گذاشت.",
+    "این خانه با جزئیات خاص و طراحی‌های متفاوتی که دارد، از جمله طراحی ویژه در اتاق کامپیوتر و صفحه نمایش بزرگ در اتاق خواب، شگفتی مخاطبان را به همراه داشت و واکنش‌های زیادی را در شبکه‌های اجتماعی برانگیخت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a70b67bfeea9",
@@ -809,9 +919,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/yesilcamin-altin-cocuku-hayata-gozlerini-yumdu-o-hep-mavi-goklere-asikti-babasi-pilot-olmasina-izin-vermeyince-film-43330357",
      "title": "Yeşilçam’ın Altın Çocuk’u hayata gözlerini yumdu… O hep mavi göklere aşıktı… Babası pilot olmasına izin vermeyince film yıldızı oldu",
      "snippet": "Türk sinemasının unutulmaz isimlerinden, Yeşilçam’ın en büyük efsanelerinden biri olan “Altın Çocuk” lakaplı usta oyuncusu Göksel Arsoy’un ölümü sanat dünyasını yasa boğdu.",
-     "published": "2026-10-05T12:15:50.000Z"
+     "published": "2026-10-05T12:15:50.000Z",
+     "titleFa": "«پسر طلایی» یشیلچام چشم از جهان فروبست... او همیشه عاشق آسمان آبی بود... وقتی پدرش اجازه خلبان شدن نداد، ستاره سینما شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac394f3875070660ff373a4.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac394f3875070660ff373a4.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "درگذشت گوکسل آرسوی، ستاره نامدار یشیلچام ملقب به «پسر طلایی»",
+   "summaryFa": "گوکسل آرسوی، بازیگر برجسته و افسانه‌ای سینمای ترکیه که به «پسر طلایی» شهرت داشت، درگذشت. مرگ این هنرمند نامادگار، جامعه هنری را در سوگ فرو برد.",
+   "bodyFa": [
+    "سینمای ترکیه یکی از چهره‌های ماندگار و افسانه‌ای خود، یعنی گوکسل آرسوی را از دست داد. این بازیگر پیشکسوت که در میان اهالی هنر و مخاطبان با لقب «پسر طلایی» شناخته می‌شد، چشم از جهان فروبست.",
+    "درگذشت این هنرمند برجسته موجی از اندوه را در جامعه هنری و سینمایی ترکیه ایجاد کرده است و فعالان این عرصه در سوگ فقدان او به سر می‌برند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f4949f305358",
@@ -838,9 +966,27 @@
      "url": "https://www.sozcu.com.tr/cocuklarina-hasret-kaldi-guzide-duran-dan-yeni-aciklama-p366337",
      "title": "Çocuklarına hasret kaldı: Güzide Duran'dan yeni açıklama",
      "snippet": "Adnan Aksoy ile olaylı boşanma sürecinin ardından çocuklarından uzak kalan Güzide Duran, sosyal medya paylaşımıyla dikka...",
-     "published": "2026-10-05T11:46:20.000Z"
+     "published": "2026-10-05T11:46:20.000Z",
+     "titleFa": "دلتنگ فرزندانش ماند: توضیح جدید از گوزیذه دوران"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/712jpg-bLwqgV97m0GddOhQbdSpUQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/712jpg-bLwqgV97m0GddOhQbdSpUQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/cocuklarina-hasret-kaldi-guzide-durandan-yeni-aciklamajpeg-C0Hg8M53GEi0OA5mayUYUw.jpeg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac39415d83705fac669f80dpng-gUOMPko3dUy4VYCieV41zw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ardagulerturkfutboltarihinegectiyenipiyasadegeridudakucuklatti6ac38d26d83705fac6662a71png-rGAWPLVvVEKeHn4kNCdyPQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "گوزیذه دوران درباره جدایی و دور ماندن از فرزندانش توضیحاتی داد",
+   "summaryFa": "گوزیذه دوران پس از روند پرحاشیه طلاق از عدنان آکسوی و دوری از فرزندانش، با انتشار پستی در شبکه‌های اجتماعی توجه‌ها را به خود جلب کرد. او در این پیام احساس ناراحتی خود را ابراز کرد و اظهارات تندی علیه همسر سابقش به کار برد.",
+   "bodyFa": [
+    "گوزیذه دوران، برنده مسابقه «بهترین مدل ترکیه» در سال ۱۹۹۶، به همراه عدنان آکسوی، چهره سرشناس تجاری، پس از طی کردن یک روند طلاق پرماجرا، در ماه مارس به طور رسمی از یکدیگر جدا شدند.",
+    "پس از این جدایی و دور ماندن از فرزندانش، گوزیذه دوران با انتشار مطلبی در فضای مجازی توجه مخاطبان را جلب نمود. او در این پیام احساس دلخوری خود را بیان کرد و اظهارات تندی را متوجه همسر سابق خود ساخت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "edad591345ca",
@@ -854,7 +1000,7 @@
    "video": null,
    "published": "2026-10-05T11:21:05.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -867,9 +1013,28 @@
      "url": "https://www.sozcu.com.tr/mujde-ar-televizyonu-hayatindan-cikardi-sasirtan-kararinin-nedenini-acikladi-p366327",
      "title": "Müjde Ar televizyonu evinden çıkardı: Şaşırtan kararının nedenini açıkladı",
      "snippet": "Yeşilçam’ın unutulmaz oyuncularından Müjde Ar, uzun süredir uzak kaldığı ekranlarla ilgili dikkat çeken bir karar aldı. ...",
-     "published": "2026-10-05T11:21:05.000Z"
+     "published": "2026-10-05T11:21:05.000Z",
+     "titleFa": "مژده آر تلویزیون را از خانه خود خارج کرد: دلیل تصمیم شگفت‌انگیز خود را توضیح داد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/mujdearjpg-ydg2zjxlUEmMrh5U855VMA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/mujdearjpg-ydg2zjxlUEmMrh5U855VMA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac39415d83705fac669f80dpng-gUOMPko3dUy4VYCieV41zw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ardagulerturkfutboltarihinegectiyenipiyasadegeridudakucuklatti6ac38d26d83705fac6662a71png-rGAWPLVvVEKeHn4kNCdyPQ.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/jorgejesusronaldoicinkarariniacikladi6ac38921d83705fac663fd33png-xitUzu3Qd0aNeoCmccVH0w.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "مژده آر تلویزیون را از خانه خود خارج کرد و دلیل تصمیم خود را توضیح داد",
+   "summaryFa": "مژده آر، بازیگر نامدار سینما، تصمیم گرفته است تلویزیون را از خانه‌اش خارج کند. او دلیل این تصمیم جالب توجه را شرح داده است.",
+   "bodyFa": [
+    "مژده آر، بازیگر فراموش‌نشدنی سینمای ترکیه و یکی از چهره‌های ماندگار سینمای یشیلچام که با آثار به یادماندنی خود در تاریخ سینما شناخته می‌شود، تصمیم متفاوتی درباره رسانه‌ها و تلویزیون اتخاذ کرده است.",
+    "این بازیگر پیشکسوت که مدتی است از پروژه‌های تلویزیونی و صحنه‌های نمایش دوری می‌کند، اعلام کرده که تلویزیون را به طور کامل از منزل خود کنار گذاشته است.",
+    "وی در خصوص این تصمیم شگفت‌انگیز خود صحبت کرده و دلایل پشت پرده این اقدام را برای مخاطبان و رسانه‌ها توضیح داده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0959ced764a0",
@@ -896,58 +1061,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-model-temizlik-takintisi-ve-mikrop-fobisiyle-taniniyor-bisikleti-once-guzelce-sildi-sonra-eldiven-takarak-bindi-43330216",
      "title": "Ünlü model temizlik takıntısı ve mikrop fobisiyle tanınıyor… Bisikleti önce güzelce sildi, sonra eldiven takarak bindi",
      "snippet": "Dünyanın gelmiş geçmiş en büyük süper modellerinden biri olarak anılmaya devam ediyor. Artık emekli olsa da hâlâ özel defileler için podyumda yürümeye ve büyük kampanyaların yüzü olmaya da devam ediyor.",
-     "published": "2026-10-05T10:44:51.000Z"
-    }
-   ]
-  },
-  {
-   "id": "b2a65747e5f8",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/yesilcamin-usta-ismi-goksel-arsoy-hayatini-kaybetti-43330221",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Yeşilçam’ın usta ismi Göksel Arsoy hayatını kaybetti",
-   "snippet": "Türk sinemasının unutulmaz isimlerinden, Yeşilçam’ın “Altın Çocuk” lakaplı usta oyuncusu Göksel Arsoy, 90 yaşında hayatını kaybetti.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac37d93066eefba1fd61917.jpg",
-   "video": null,
-   "published": "2026-10-05T10:37:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/yesilcamin-usta-ismi-goksel-arsoy-hayatini-kaybetti-43330221",
-     "title": "Yeşilçam’ın usta ismi Göksel Arsoy hayatını kaybetti",
-     "snippet": "Türk sinemasının unutulmaz isimlerinden, Yeşilçam’ın “Altın Çocuk” lakaplı usta oyuncusu Göksel Arsoy, 90 yaşında hayatını kaybetti.",
-     "published": "2026-10-05T10:37:00.000Z"
-    },
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/yesilcamin-usta-ismi-goksel-arsoy-hayatini-kaybetti-7673417",
-     "title": "Yeşilçam’ın usta ismi Göksel Arsoy hayatını kaybetti",
-     "snippet": "HABER MERKEZİ - 60'lı yıllarda Yeşilçam'da \"Altın Çocuk\" lakabıyla fırtına gibi esen Göksel Arsoy 90 yaşında hayatını kaybetti. Arsoy, oyuncu Gökhan Arsoy'un da babasıydı. Göksel Arsoy'un 1961 yılında evlendiği Soley Arsoy ile olan evliliğinden Gökhan ve Aşkım adında iki çocuğu vardı. Geçtiğimiz Mar",
-     "published": "2026-10-05T12:32:27.000Z"
-    },
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/son-dakika-goksel-arsoy-hayatini-kaybetti-3917341",
-     "title": "Göksel Arsoy hayatını kaybetti",
-     "snippet": "Türk Sineması'nın \"Altın Çocuk\" lakaplı usta oyuncusu Göksel Arsoy, 90 yaşında vefat etti. Arsoy'un cenaze töreni çarşamba günü gerçekleşecek",
-     "published": "2026-10-05T15:22:08.000Z"
+     "published": "2026-10-05T10:44:51.000Z",
+     "titleFa": "مدل معروف با وسواس تمیزی و فوبیای میکروب شناخته می شود… او ابتدا دوچرخه را تمیز کرد و سپس با دستکش سوار آن شد"
     }
    ],
-   "mergedIds": [
-    "f9a766cb8587",
-    "8dd94a0de7de"
-   ]
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac37cb3f37c929b3db24be1.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac37cb3f37c929b3db24be1.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "مدل مشهور با وسواس تمیزی و فوبیای میکروب شناخته می شود",
+   "summaryFa": "یکی از بزرگترین سوپرمدل‌های جهان با وجود بازنشستگی همچنان در فشن‌شوهای خاص و کمپین‌ها حضور دارد. او به دلیل وسواس تمیزی و فوبیای میکروب شناخته شده است.",
+   "bodyFa": [
+    "این مدل معروف که به عنوان یکی از بزرگترین سوپرمدل‌های تاریخ شناخته می‌شود، اگرچه از دنیای مدلینگ کناره‌گیری کرده، اما همچنان برای شوهای ویژه روی پرفورمنس‌ها قدم می‌زند و چهره کمپین‌های بزرگ است.",
+    "در گزارش‌ها اشاره شده است که او وسواس تمیزی و ترس از میکروب دارد و در یکی از موارد پیش از سوار شدن بر دوچرخه، آن را تمیز کرده و دستکش پوشیده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a58c76c3040b",
@@ -1023,9 +1157,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/nese-erberk-zeki-muren-beni-dansa-kaldirinca-heyecanlandim-43330169",
      "title": "Neşe Erberk: Zeki Müren beni dansa kaldırınca heyecanlandım",
      "snippet": "Bir süredir Amerika’da yaşayan Neşe Erberk, Nişantaşı City’s’de görüntülendi. Erberk, geçmişte kendisine gelen oyunculuk teklifleriyle ilgili konuştu.",
-     "published": "2026-10-05T10:16:00.000Z"
+     "published": "2026-10-05T10:16:00.000Z",
+     "titleFa": "نشه اربرک: وقتی زکی مورن مرا به رقص دعوت کرد، هیجان‌زده شدم"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac378cb066eefba1fd618ec.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac378cb066eefba1fd618ec.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "نشانه اربرک در مورد پیشنهادهای بازیگری گذشته صحبت کرد",
+   "summaryFa": "نشه اربرک که مدتی است در آمریکا زندگی می‌کند، در نیشان‌تاشی دیده شد و درباره پیشنهادهای بازیگری گذشته‌اش صحبت کرد.",
+   "bodyFa": [
+    "نشانه اربرک که مدتی است در آمریکا سکونت دارد، اخیراً در منطقه نیشان‌تاشی سیتیز دیده شد. او در این حضور درباره پیشنهادهای بازیگری که در گذشته به او ارائه شده بود، نکاتی را بیان کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6d276ab98c0f",
@@ -1052,9 +1203,20 @@
      "url": "https://www.haberturk.com/magazin/zuhal-olcay-ve-selcuk-yontem-in-kahkahali-sohbeti-3917310",
      "title": "\"Yıllar sonra ortaya çıktı\"",
      "snippet": "'Don Quixote Müzikali'nde bir araya gelen eski eşler Selçuk Yöntem ve Zuhal Olcay, müzikalin 2'nci sezonun öncesinde duygularını dile getirdi",
-     "published": "2026-10-05T10:13:39.000Z"
+     "published": "2026-10-05T10:13:39.000Z",
+     "titleFa": "سال‌ها بعد ظاهر شد"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "سلçuk یونتم و زهال اولجای پس از سال‌ها در موزیکال دون کیشوت روی صحنه می‌روند",
+   "summaryFa": "همسران سابق و دوستان دوران هنرستان، سلçuk یونتم و زهال اولجای، پیش از آغاز فصل دوم موزیکال «دون کیشوت» با خبرنگاران گفتگو کردند. اولجای در این دیدار خاطره‌ای جالب از دوران اقامت خود در لندن تعریف کرد.",
+   "bodyFa": [
+    "موزیکال «دون کیشوت» که فصل دوم خود را آغاز کرده است، بار دیگر سلçuk یونتم و زهal اولجای، بازیگران و همسران سابق را در کنار یکدیگر روی صحنه می‌آورد. این اثر در ۴۳ اجرای نخست خود توانست بیش از ۱۰۰ هزار تماشاگر را جذب کند و بازیگران آن پیش از شروع فصل جدید با نمایندگان رسانه‌ها دیدار کردند.",
+    "در جریان این نشست، زهال اولجای از لذت هم‌بازی شدن با سلçuk یونتم سخن گفت و اشاره کرد که آن‌ها از این همکاری بسیار خرسندند. یکی از نکات جالب این دیدار، خاطره‌ای بود که اولجای درباره خرید یک کتاب گریم دون کیشوت به مبلغ ۲۵ پوند در دوران سفر و تحصیل در لندن مطرح کرد و گفت که آن کتاب هنوز هم در خانه‌اش نگهداری می‌شود. یونتم نیز با طنز گفت که این موضوع پس از سال‌ها آشکار شده است.",
+    "همچنین در بخش دیگری از این گفتگو، موضوع حفظ فرم بدنی به شکل طنز مطرح شد. اولجای کار کردن را بهترین راه برای حفظ شادابی دانست و یونتم نیز توقف کار را مایه افول روحی انسان توصیف کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6d132e6aabf9",
@@ -1083,36 +1245,8 @@
      "snippet": "Temizlik takıntılı olduğu bilinen ünlü süper model Naomi Campbell, Paris'te ortak kullanıma açık olan bisikletlerden birini önce temizledi, sonra lateks eldivenle sürdü",
      "published": "2026-10-05T09:43:26.000Z"
     }
-   ]
-  },
-  {
-   "id": "e842b8b72950",
-   "url": "https://www.sozcu.com.tr/merve-ozbey-sahneden-dustu-saglik-durumuyla-ilgili-aciklama-geldi-p366226",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Sahneden düşen Merve Özbey'in sağlık durumuyla ilgili açıklama geldi",
-   "snippet": "Afyon'da konser veren Merve Özbey, sahne performansı sırasında talihsiz bir kaza geçirdi. Merdivenden düşen şarkıcı, ilk...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/422jpg-QQB1ztcZ0ky3KteABKjD6A.jpg",
-   "video": null,
-   "published": "2026-10-05T09:41:44.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/merve-ozbey-sahneden-dustu-saglik-durumuyla-ilgili-aciklama-geldi-p366226",
-     "title": "Sahneden düşen Merve Özbey'in sağlık durumuyla ilgili açıklama geldi",
-     "snippet": "Afyon'da konser veren Merve Özbey, sahne performansı sırasında talihsiz bir kaza geçirdi. Merdivenden düşen şarkıcı, ilk...",
-     "published": "2026-10-05T09:41:44.000Z"
-    }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "124af82b35e6",
@@ -1139,9 +1273,27 @@
      "url": "https://www.sozcu.com.tr/oltalarina-kilosu-1500-liradan-satilan-balik-takildi-alp-kirsan-ve-oglundan-dev-av-p366266",
      "title": "Oltalarına kilosu 1500 liradan satılan balık takıldı: Alp Kırşan ve oğlu sevinçten havalara uçtu",
      "snippet": "Alp Kırşan, oğlu Efe ile çıktığı balık avından eli boş dönmedi. Oltaya takılan dev sinaritin hallerde kilosunun yaklaşık...",
-     "published": "2026-10-05T09:41:09.000Z"
+     "published": "2026-10-05T09:41:09.000Z",
+     "titleFa": "به قلاب آن‌ها ماهی افتاد که کیلویی ۱۵۰۰ لیر فروخته می‌شود: آلپ کیرشان و پسرش از خوشحالی در هوا پرواز کردند"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/alpkirsanjpg-ahvsiPoCq0qj-yEwnlTM7A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/alpkirsanjpg-ahvsiPoCq0qj-yEwnlTM7A.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/alp-kirsan-ve-oglundan-dev-av-oltalarina-kilosu-1500-liradan-satilan-balik-takildi-3jpg-uWbgXJ3DM0a-1ooHRX6iJw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/alp-kirsan-ve-oglundan-dev-av-oltalarina-kilosu-1500-liradan-satilan-balik-takildi-2jpg-RQ5PGANwxE6S-pqSIkqyDQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/alp-kirsan-ve-oglundan-dev-av-oltalarina-kilosu-1500-liradan-satilan-balik-takildi-1jpg-QjsXj82opUWkh8TnWE2aiQ.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "شکار ماهی بزرگ توسط آلپ کیرشان و پسرش",
+   "summaryFa": "آلپ کیرشان به همراه پسرش اصفه به ماهیگیری رفت و موفق شد یک ماهی سیناری بزرگ صید کند. قیمت هر کیلوگرم از این ماهی در بازار حدود ۱۵۰۰ لیر اعلام شده است.",
+   "bodyFa": [
+    "آلپ کیرشان به همراه پسرش افه به ماهیگیری رفت و این تلاش با موفقیت همراه بود. آن‌ها توانستند یک ماهی بزرگ از نوع سیناری را با قلاب صید کنند.",
+    "بر اساس اطلاعات به دست آمده، ارزش این ماهی در بازار به گونه‌ای است که هر کیلوگرم آن حدود ۱۵۰۰ لیر به فروش می‌رسد. همچنین واکنش افه، پسر آلپ کیرشان، هنگام دیدن این ماهی بزرگ جالب توجه بود و تعجب او جلوی دوربین‌ها ثبت شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "770dd9b7901f",
@@ -1168,9 +1320,27 @@
      "url": "https://www.sozcu.com.tr/dilan-polat-in-evi-cokmeye-basladi-videoyla-son-halini-paylasti-p366298",
      "title": "Dilan Polat'ın evi çökmeye başladı: Videoyla son halini paylaştı",
      "snippet": "Dilan Polat ile eşi Engin Polat'ın evinde korku dolu anlar yaşandı. Evin tavanının aşağı doğru kaymaya başladığı söyleye...",
-     "published": "2026-10-05T09:40:13.000Z"
+     "published": "2026-10-05T09:40:13.000Z",
+     "titleFa": "خانه دیلان پولات شروع به ریزش کرد: ویدئویی از وضعیت نهایی منتشر شد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/dilanpolatevcoktujpg-MXhb-6pUHEqIvp_dbdd3kg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/dilanpolatevcoktujpg-MXhb-6pUHEqIvp_dbdd3kg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac39415d83705fac669f80dpng-gUOMPko3dUy4VYCieV41zw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ardagulerturkfutboltarihinegectiyenipiyasadegeridudakucuklatti6ac38d26d83705fac6662a71png-rGAWPLVvVEKeHn4kNCdyPQ.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/jorgejesusronaldoicinkarariniacikladi6ac38921d83705fac663fd33png-xitUzu3Qd0aNeoCmccVH0w.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "خانه دیلان پولات شروع به ریزش کرد: ویدئویی از وضعیت نهایی منتشر شد",
+   "summaryFa": "دیلان پولات و همسرش انگین پولات لحظات ترسناکی را در خانه خود تجربه کردند. پولات با انتشار ویدئویی گفت که سقف خانه در حال ریزش است.",
+   "bodyFa": [
+    "دیلان پولات و همسرش انگین پولات در خانه خود دچار ترس و وحشت شدند. گزارش‌ها حاکی از آن است که سقف خانه این زوج شروع به پایین آمدن و جابه‌جا شدن کرده است.",
+    "دیلان پولات با اشتراک‌گذاری این وضعیت و ابراز نگرانی خود در میان دنبال‌کنندگانش، اعلام کرد که سقف خانه عملاً در آستانه فرود آمدن روی سر آن‌ها بوده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "385fb6070be9",
@@ -1197,9 +1367,20 @@
      "url": "https://www.haberturk.com/magazin/foto/dua-lipa-ve-shakira-dan-sahnede-surpriz-duet-3917312",
      "title": "Sahnede sürpriz",
      "snippet": "Shakira, Madrid konserinde seyircilerine Dua Lipa ile birlikte sürpriz yaptı. İkili, 'Antologia' adlı İspanyolca şarkıyı birlikte seslendirdi",
-     "published": "2026-10-05T09:27:09.000Z"
+     "published": "2026-10-05T09:27:09.000Z",
+     "titleFa": "غافلگیری روی صحنه"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای غافلگیرکننده مشترک شکیرا و دوآ لیپا در کنسرت مادرید",
+   "summaryFa": "شکیرا در کنسرت خود در مادرید با حضور دوآ لیپا به عنوان مهمان غافلگیرکننده، ترانه معروف «آنتولوگیا» را به صورت دوئت اجرا کردند. این دو هنرمند همچنین تصاویر و احساس خود درباره این همکاری را در شبکه‌های اجتماعی به اشتراک گذاشتند.",
+   "bodyFa": [
+    "شکیرا، خواننده مشهور، در هشتمین کنسرت خود در شهر مادرید پایتخت اسپانیا، میزبان دوآ لیپا به عنوان مهمان غافلگیرکننده بود. در این برنامه، این دو خواننده ترانه اسپانیایی‌زبان «آنتولوگیا» را به صورت مشترک اجرا کردند که اجرای این اثر به زبان اسپانیایی توسط دوآ لیپا با استقبال و تحسین شکیرا و حاضران در سالن مواجه شد.",
+    "پیش از آغاز ترانه، شکیرا از همکار خود با عنوان «تانریچا» (الهه) یاد کرد و ابراز داشت که خود یکی از هواداران اوست و از پذیرش دعوتش قدردانی کرد. دوآ لیپا نیز پیش‌تر در سال ۲۰۲۵ این آهنگ را در کنسرت بوگوتا اجرا کرده بود. پس از پایان اجرا و خداحافظی لیپا، شکیرا به اجرای برنامه خود ادامه داد.",
+    "هر دو هنرمند ویدیوها و پیام‌هایی را در حساب‌های کاربری خود در شبکه‌های اجتماعی منتشر کردند. شکیرا این اجرا را رویای محقق‌شده بسیاری دانست و دوآ لیپا نیز از دعوت او برای خواندن این ترانه تشکر کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "07c26809d05e",
@@ -1213,7 +1394,7 @@
    "video": null,
    "published": "2026-10-05T09:23:13.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1226,9 +1407,28 @@
      "url": "https://www.milliyet.com.tr/magazin/sami-yusuf-muzik-propaganda-araci-degil-ilahi-bir-hediyedir-7673358",
      "title": "Sami Yusuf: Müzik propaganda aracı değil ilahi bir hediyedir",
      "snippet": "\"Hasbi Rabbi\", \"Barakah\", \"Al-Mu'allim\" ve \"My Ummah\" adlı albümlerin de aralarında olduğu birçok esere imza atan müzisyen ve besteci Sami Yusuf, müziğin bir gaye için kullanılan vesile olmadığını belirterek, \"Müzik kim olduğumuzu ve kim olmamız gerektiğini hatırlatan, gökyüzünden gelmiş ilahi bir h",
-     "published": "2026-10-05T09:23:13.000Z"
+     "published": "2026-10-05T09:23:13.000Z",
+     "titleFa": "سامی یوسف: موسیقی ابزار propaganda نیست بلکه هدیه‌ای الهی است"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac36c808a5754db75892625.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac36c808a5754db75892625.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "سامی یوسف: موسیقی ابزار تبلیغاتی نیست بلکه هدیه‌ای الهی است",
+   "summaryFa": "سامی یوسف در دیدار با هنرمندان در استانبول تاکید کرد که موسیقی یک هدیه آسمانی است. او همچنین به بررسی نقاط عطف دوران کاری خود پرداخت.",
+   "bodyFa": [
+    "سامی یوسف، آهنگساز و موسیقیدان سرشناس که با آثار برجسته‌ای همچون «حسبی ربی»، «المعلیم» و «امت من» شناخته می‌شود، اخیراً در شهر استانبول با جمعی از هنرمندان و موسیقیدانان دیدار و گفتگو کرد.",
+    "او در این نشست درباره نقاط عطف مسیر حرفه‌ای خود صحبت کرد و دیدگاه‌های خود را درباره هنر موسیقی به اشتراک گذاشت. به گفته این هنرمند، موسیقی نباید به عنوان یک ابزار یا وسیله‌ای برای اهداف تبلیغاتی مورد استفاده قرار گیرد.",
+    "سامی یوسف در ادامه توصیف خود از موسیقی، آن را هدیه‌ای الهی از جانب آسمان توصیف کرد که به انسان‌ها یادآوری می‌کند چه کسی هستند و چه کسی باید باشند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f6ebb78d8de0",
@@ -1293,7 +1493,7 @@
    "video": null,
    "published": "2026-10-05T08:45:33.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1306,9 +1506,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/40-yasinda-5inci-cocuguna-hamile-karni-burnunda-podyuma-cikti-43329930",
      "title": "40 yaşında 5’inci çocuğuna hamile… Karnı burnunda podyuma çıktı",
      "snippet": "Yakın zaman önce beşinci çocuğuna hamile olduğunu açıklayan ünlü şarkıcı, Paris Moda Haftası kapsamında düzenlenen defilede podyuma çıktı.",
-     "published": "2026-10-05T08:45:33.000Z"
+     "published": "2026-10-05T08:45:33.000Z",
+     "titleFa": "۴۰ ساله و باردار از فرزند پنجم... با شکم برآمده روی صحنه رفت"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac357b0f37c929b3db249a3.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac357b0f37c929b3db249a3.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "خواننده مشهور در انتظار پنجمین فرزندش روی صحنه رفت",
+   "summaryFa": "یک خواننده مشهور که اخیراً بارداری خود را اعلام کرده بود، با وجود بارداری در رویداد مد پاریس روی صحنه رفت.",
+   "bodyFa": [
+    "این خواننده معروف که مدتی پیش خبر بارداری پنجمین فرزند خود را به طور رسمی اعلام کرده بود، اخیراً توجه رسانه‌ها را به خود جلب کرد.",
+    "او در جریان هفته مد پاریس و در یک فشن‌شو روی صحنه رفت تا در این رویداد بین‌المللی حضور داشته باشد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c224acdd06cd",
@@ -1335,9 +1553,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/beyza-sekerci-ve-engin-hepileriden-ogullari-cana-duygusal-kutlama-43329978",
      "title": "Beyza Şekerci ve Engin Hepileri’den oğulları Can’a duygusal kutlama",
      "snippet": "Magazin dünyasının örnek çiftlerinden Beyza Şekerci ve Engin Hepileri, oğulları Can’ın 8’inci yaş gününü kutladı. Çift, bu özel gün için aile arasında bir organizasyon düzenlerken, kutlamadan kareleri sosyal medya hesaplarından paylaşmayı da ihmal etmedi.",
-     "published": "2026-10-05T08:32:00.000Z"
+     "published": "2026-10-05T08:32:00.000Z",
+     "titleFa": "جشن احساسی بینزا شکرچی و انگین هلپیری برای پسرشان جان"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac360ab066eefba1fd61897.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac360ab066eefba1fd61897.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن تولد هشت سالگی پسر بینزا شکرچی و انگین هلپیری",
+   "summaryFa": "بیضا شکرچی و انگین هلپیری تولد هشت سالگی پسرشان «جان» را با برگزاری یک مراسم خانوادگی جشن گرفتند. این زوج تصاویر این روز خاص را در شبکه‌های اجتماعی به اشتراک گذاشتند.",
+   "bodyFa": [
+    "بیضا شکرچی و انگین هلپیری، زوج شناخته‌شده دنیای مجلات، تولد هشت سالگی پسر خود به نام جان را جشن گرفتند.",
+    "این زوج برای این مناسبت ویژه یک مراسم در جمع خانوادگی تدارک دیدند و تصاویری از این جشن را در حساب‌های کاربری خود در شبکه‌های اجتماعی منتشر کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0744e8a9fe3a",
@@ -1364,9 +1600,19 @@
      "url": "https://www.haberturk.com/magazin/tom-cruise-digger-filmiyle-sinema-gisesinde-cakildi-3917277",
      "title": "Bu defa battı",
      "snippet": "'Görevimiz Tehlike' ve 'Top Gun' gibi film serileriyle büyük hasılat başarıları elde eden Tom Cruise, yeni filmiyle gişede fiyasko yaşadı",
-     "published": "2026-10-05T08:28:12.000Z"
+     "published": "2026-10-05T08:28:12.000Z",
+     "titleFa": "این بار شکست خورد"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "فیلم جدید تام کروز در گیشه شکست خورد",
+   "summaryFa": "film-جدید تام کروز با عنوان «دیگر» نتوانست در گیشه موفق عمل کند و فروشی بسیار کمتر از انتظارات داشت. این فیلم با بودجه‌ای کلان ساخته شده بود اما در روز افتتاحیه تنها ۸ میلیون دلار فروش کرد.",
+   "bodyFa": [
+    "تام کروز، ستاره مشهور سینما، در فیلم جدید خود با عنوان «دیگر» نقش یک ثروتمند نفتی را بازی می‌کند که برای یک فاجعه اکولوژیک آماده می‌شود. با این حال، فروش فیلم در گیشه بسیار ناامیدکننده بود و این اثر نتوانست انتظارات استودیوی برادران وارنر را برآورده کند.",
+    "این فیلم که بودجه‌ای بین ۱۶۰ تا ۱۸۰ میلیون دلار داشته است، در روز جمعه در بیش از ۳ هزار سینمای آمریکای شمالی تنها ۸ میلیون دلار فروش کرد. شرکت سازنده انتظار داشت حداقل ۱۸ تا ۲۰ میلیون دلار فروش افتتاحیه داشته باشد، در حالی که کارشناسان گیشه معتقدند چنین فیلم بزرگی برای بازگشت سرمایه به فروشی نزدیک به ۴۰ میلیون دلار نیاز داشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "befca4d48343",
@@ -1478,9 +1724,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/teknofest-icin-memleketinde-43329939",
      "title": "Teknofest için memleketinde",
      "snippet": "İBRAHİM Tatlıses önceki gün memleketi Şanlıurfa’ya geldi.",
-     "published": "2026-10-05T07:58:00.000Z"
+     "published": "2026-10-05T07:58:00.000Z",
+     "titleFa": "حضور در زادگاه به خاطر تکلافست"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac358aa83386a49177b2876.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac358aa83386a49177b2876.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "ابراهیم تاتلیسس برای جشنواره تکلافست به زادگاه خود رفت",
+   "summaryFa": "ابراهیم تاتلیسس در روزهای گذشته وارد شهر شانلی‌اورفه، زادگاه خود شد.",
+   "bodyFa": [
+    "ابراهیم تاتلیسس، خواننده و چهره شناخته‌شده، در روزهای گذشته برای شرکت در رویداد «تکلافست» (Teknofest) به زادگاه خود یعنی شهر شانلی‌اورفه سفر کرد و در آنجا حضور یافت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4d337a1c68f6",
@@ -1509,7 +1772,16 @@
      "snippet": "2017 yılında vizyona girerek milyonlarca seyirciye ulaşan ve gişede büyük başarı elde eden ‘Aile Arasında’, yıllardır beklenen devam filmiyle geri dönüyor.",
      "published": "2026-10-05T07:52:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac3572e83386a49177b2859.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac3572e83386a49177b2859.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true
   },
   {
    "id": "50a4c5d2df80",
@@ -1536,9 +1808,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/otrisli-tenis-kiyafeti-43329903",
      "title": "Otriş’li tenis kıyafeti",
      "snippet": "Bu yıl 26’ncı yılına ulaşan Hülya Avşar Cup Tenis Turnuvası, ikinci kez Kuzey Kıbrıs Türk Cumhuriyeti’nde gerçekleşti.",
-     "published": "2026-10-05T07:35:57.000Z"
+     "published": "2026-10-05T07:35:57.000Z",
+     "titleFa": "لباس تنیس با پری پردار"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac3534383386a49177b2827.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac3534383386a49177b2827.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "برگزاری مسابقات تنیس کاپ Hülya Avşar در قبرس شمالی",
+   "summaryFa": "بیست و ششمین دوره مسابقات تنیس کاپ Hülya Avşar برای دومین بار در جمهوری ترک قبرس شمالی برگزار شد.",
+   "bodyFa": [
+    "مسابقات تنیس کاپ Hülya Avşar امسال بیست و ششمین سالگرد خود را جشن می‌گیرد و این رقابت‌ها برای دومین بار در جمهوری ترک قبرس شمالی به اجرا درآمد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1423e6ec6941",
@@ -1567,7 +1856,16 @@
      "snippet": "Attila Atasoy’un müzik kariyerinin ilk dönemlerinde besteleyip kasetçalarla kaydettiği şarkılar, yıllar sonra albüm olarak dinleyiciyle buluştu.",
      "published": "2026-10-05T07:32:51.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac352a083386a49177b2816.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac352a083386a49177b2816.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true
   },
   {
    "id": "50fc2d0ee8c2",
@@ -1596,7 +1894,8 @@
      "snippet": "Afyonkarahisar'da sahne alan Merve Özbey, konser arasında merdivenlerden düştü. İstanbul'a dönen şarkıcı, sağlık durumu hakkında açıklamada bulundu",
      "published": "2026-10-05T07:28:52.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "62303cdc425b",
@@ -1636,7 +1935,16 @@
    ],
    "mergedIds": [
     "d9e9e837da2e"
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac34fb683386a49177b27de.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac34fb683386a49177b27de.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true
   },
   {
    "id": "71ae71a2a819",
@@ -4028,6 +4336,35 @@
    "aiTries": 1
   },
   {
+   "id": "bf17b663d72e",
+   "url": "https://www.sozcu.com.tr/diger-yegenleri-miras-derdinde-kadir-inanir-in-sarkici-yegeni-soner-arica-konserden-konsere-kosuyor-p365477",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Diğer yeğenleri miras derdinde; Kadir İnanır'ın şarkıcı yeğeni Soner Arıca konserden konsere koşuyor",
+   "snippet": "Kadir İnanır'ın mirasıyla ilgili aile içindeki tartışmalar sürerken yeğeni Soner Arıca sahne çalışmalarına devam ediyor....",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/kadirinanirrjpg-3dyfswszQ0iCyxNXCKC8mg.jpg",
+   "video": null,
+   "published": "2026-10-04T10:01:56.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/diger-yegenleri-miras-derdinde-kadir-inanir-in-sarkici-yegeni-soner-arica-konserden-konsere-kosuyor-p365477",
+     "title": "Diğer yeğenleri miras derdinde; Kadir İnanır'ın şarkıcı yeğeni Soner Arıca konserden konsere koşuyor",
+     "snippet": "Kadir İnanır'ın mirasıyla ilgili aile içindeki tartışmalar sürerken yeğeni Soner Arıca sahne çalışmalarına devam ediyor....",
+     "published": "2026-10-04T10:01:56.000Z"
+    }
+   ]
+  },
+  {
    "id": "29eea33cab8c",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sef-somer-sivrioglu-huzurevi-sakinleriyle-mutfaga-girdi-43329120",
    "source": "hurriyet-kelebek",
@@ -5693,6 +6030,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "78b89f48aede",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/yillara-meydan-okuyor-53-yasindaki-arzum-onanin-fit-hali-dikkat-cekti-7671260",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Yıllara meydan okuyor! 53 yaşındaki Arzum Onan'ın fit hali dikkat çekti",
+   "snippet": "Bir döneme damga vuran isimlerden oyuncu Arzum Onan, paylaşımlarıyla adından söz ettirmeye devam ediyor. Formda haliyle dikkat çeken Onan'ın pozlarına takipçilerinden yorum ve beğeni yağdı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6abebe1d930ba82058a9eb6a.jpg",
+   "video": null,
+   "published": "2026-10-03T23:59:44.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/yillara-meydan-okuyor-53-yasindaki-arzum-onanin-fit-hali-dikkat-cekti-7671260",
+     "title": "Yıllara meydan okuyor! 53 yaşındaki Arzum Onan'ın fit hali dikkat çekti",
+     "snippet": "Bir döneme damga vuran isimlerden oyuncu Arzum Onan, paylaşımlarıyla adından söz ettirmeye devam ediyor. Formda haliyle dikkat çeken Onan'ın pozlarına takipçilerinden yorum ve beğeni yağdı.",
+     "published": "2026-10-03T23:59:44.000Z"
+    }
+   ]
   },
   {
    "id": "d47338063bd9",
@@ -14986,6 +15352,44 @@
     "https://idsb.tmgrup.com.tr/ly/uploads/images/images/menu_items/LkKGaG.jpg",
     "https://idsb.tmgrup.com.tr/ly/theme_dailysabah/images/ds-tv.png",
     "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/24/thumbs/1200x675/462095.jpg?v=1790240246",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/03/20/thumbs/398x208/26198.jpg?v=1584695403"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "9d9292a0545a",
+   "url": "https://www.dailysabah.com/arts/cinema/harvey-weinstein-set-for-sentencing-after-years-of-sex-crime-retrials",
+   "source": "dailysabah-arts",
+   "sourceName": "Daily Sabah",
+   "lang": "en",
+   "title": "Harvey Weinstein set for sentencing after years of sex crime retrials",
+   "snippet": "The first time Harvey Weinstein was sentenced to prison, reporters, advocates and the curious public crammed the courtroom to witness the disgraced Hollywood honcho’s #MeToo reckon...",
+   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/23/462028.jpg",
+   "video": null,
+   "published": "2026-09-23T12:33:00.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "dailysabah-arts",
+     "name": "Daily Sabah",
+     "url": "https://www.dailysabah.com/arts/cinema/harvey-weinstein-set-for-sentencing-after-years-of-sex-crime-retrials",
+     "title": "Harvey Weinstein set for sentencing after years of sex crime retrials",
+     "snippet": "The first time Harvey Weinstein was sentenced to prison, reporters, advocates and the curious public crammed the courtroom to witness the disgraced Hollywood honcho’s #MeToo reckon...",
+     "published": "2026-09-23T12:33:00.000Z"
+    }
+   ],
+   "images": [
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/23/462028.jpg",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/23/thumbs/1200x675/462028.jpg",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/images/menu_items/LkKGaG.jpg",
+    "https://idsb.tmgrup.com.tr/ly/theme_dailysabah/images/ds-tv.png",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/23/thumbs/1200x675/462028.jpg?v=1790168364",
     "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/03/20/thumbs/398x208/26198.jpg?v=1584695403"
    ],
    "mediaDone": true
