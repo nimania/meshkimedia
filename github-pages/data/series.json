@@ -1247,8 +1247,7 @@
           {
             "number": 67,
             "date": "2026-10-05",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -2504,8 +2503,7 @@
           {
             "number": 5,
             "date": "2026-10-05",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
