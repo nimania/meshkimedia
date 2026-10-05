@@ -1,6 +1,248 @@
 {
- "updated": "2026-10-05T16:05:08.148Z",
+ "updated": "2026-10-05T22:41:04.739Z",
  "items": [
+  {
+   "id": "c58e03fe6080",
+   "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-bolum-on-izlemesi-3917466",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Babası olduğunu öğreniyor",
+   "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'in 5'inci bölümünden ön izleme sahnesi yayınlandı",
+   "image": "https://im.haberturk.com/l/2026/10/05/ver1791233151/3917466/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-05T20:50:52.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "sevdan-bir-ates"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-bolum-on-izlemesi-3917466",
+     "title": "Babası olduğunu öğreniyor",
+     "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'in 5'inci bölümünden ön izleme sahnesi yayınlandı",
+     "published": "2026-10-05T20:50:52.000Z",
+     "titleFa": "می‌فهمد که پدرش است"
+    }
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "PvfO4_xXJj4"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "افشای راز بزرگ پدر بودن میرزا در پیش‌نمایش قسمت پنجم سریال سِودان بیر آتش",
+   "summaryFa": "شبکه شو تی‌وی پیش‌نمایشی از قسمت پنجم سریال «سِودان بیر آتش» منتشر کرده است که در آن میرزا با حقیقت پدر بودن خود روبرو می‌شود.",
+   "bodyFa": [
+    "شبکه شو تی‌وی پیش‌نمایش جدیدی از قسمت پنجم سریال محبوب «سِودان بیر آتش» که توسط سی‌ان‌پی فیلم تولید می‌شود را منتشر کرده است. این تیزر کوتاه، صحنه‌هایی بسیار احساسی و تاثیرگذار میان دو شخصیت اصلی داستان، یعنی میرزا و هوما را به تصویر می‌کشد که توجه مخاطبان را به خود جلب کرده است.",
+    "در این صحنه، میرزا در لحظه‌ای عصبانی متوجه ترس هوما از خود می‌شود و بلافاصله لحن و رفتار خود را تغییر می‌دهد. او با در آغوش کشیدن هوما به او اطمینان می‌دهد که هرگز به او آسیب نخواهد زد. اما رویارویی اصلی زمانی رخ می‌دهد که میرزا با یادآوری گفتگوهای گذشته، با چشمانی اشک‌بار از هوما می‌پرسد که آیا او پدر واقعی‌اش است یا خیر.",
+    "با تایید و لبخند هوما، رازی که سال‌ها پنهان مانده بود فاش می‌شود و زندگی میرزا با این حقیقت بزرگ دگرگون خواهد شد. قسمت جدید این سریال پرطرفدار روز چهارشنبه ساعت ۲۰:۰۰ از شبکه شو تی‌وی پخش خواهد شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "0106036d9ed0",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/uzak-sehirin-67-bolumde-neler-oldu-alyadan-cihana-rest-enver-ile-evlenirim-43330808",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Uzak Şehir'in 67. bölümde neler oldu? Alya'dan Cihan'a rest: Enver ile evlenirim!",
+   "snippet": "Kanal D’nin Ozan Akbaba, Sinem Ünsal, Gonca Cilasun, Müfit Kayacan, Sahra Şaş, Dilin Döğer, Atakan Özkaya, İlkay Kayku, Nazmi Kırık, Sinan Demirer, Zeynep Kankonde, Muttalip Müjdeci, Barış Yalçın, Burak Şafak, Mehmet Polat, Yunus Eski, Yaren Güldiken, Kuzey Gezer'i kadrosunda buluşturan, AyNA Yapım imzalı yeni dizisi Uzak Şehir 67. bölümü ile ekranlardaydı...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac40ccd983ec8bbc1174b2a.jpg",
+   "video": null,
+   "published": "2026-10-05T20:47:12.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "uzak-sehir"
+    ],
+    "people": [
+     "ozan-akbaba",
+     "sinem-unsal",
+     "mufit-kayacan",
+     "kuzey-gezer",
+     "atakan-ozkaya",
+     "gonca-cilasun",
+     "sahra-sas",
+     "dilin-doger",
+     "nazmi-kirik",
+     "ilkay-kayku"
+    ],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/uzak-sehirin-67-bolumde-neler-oldu-alyadan-cihana-rest-enver-ile-evlenirim-43330808",
+     "title": "Uzak Şehir'in 67. bölümde neler oldu? Alya'dan Cihan'a rest: Enver ile evlenirim!",
+     "snippet": "Kanal D’nin Ozan Akbaba, Sinem Ünsal, Gonca Cilasun, Müfit Kayacan, Sahra Şaş, Dilin Döğer, Atakan Özkaya, İlkay Kayku, Nazmi Kırık, Sinan Demirer, Zeynep Kankonde, Muttalip Müjdeci, Barış Yalçın, Burak Şafak, Mehmet Polat, Yunus Eski, Yaren Güldiken, Kuzey Gezer'i kadrosunda buluşturan, AyNA Yapım ",
+     "published": "2026-10-05T20:47:12.000Z",
+     "titleFa": "آنچه در قسمت ۶۷ سریال شهر دور گذشت؟ رِست آلیا به جهان: با انور ازدواج می‌کنم!"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac40ccd983ec8bbc1174b2a.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac40ccd983ec8bbc1174b2a.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "رخدادهای قسمت ۶۷ سریال شهر دور",
+   "summaryFa": "در قسمت ۶۷ سریال شهر دور، آلیا به جهان التیماتوم می‌دهد و تهدید می‌کند که با انور ازدواج خواهد کرد.",
+   "bodyFa": [
+    "در این گزارش به اتفاقات و جزئیات مربوط به قسمت ۶۷ سریال «شهر دور» پرداخته شده است. این سریال که از شبکه کانال دی پخش می‌شود، بازیگرانی همچون اوزان آکبابا، سینم اونسال، گونجا جیلاسون، مؤفیت کایاجان، صحرا شاش، دیلین دوئر، آتاکان اوزکایا، ایلکای قایکو، نظمی قیریق و کوزی گزر را در کنار هنرمندان دیگر در تیم بازیگری خود دارد.",
+    "بر اساس اطلاعات منتشر شده، در این قسمت تحولات مهمی رخ می‌دهد و از جمله آلیا به جهان پاسخ تندی می‌دهد و اعلام می‌کند که با انور ازدواج خواهد کرد. این بخش از داستان تنش‌ها و چالش‌های جدید میان کاراکترها را به نمایش می‌گذارد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "0d006242532d",
+   "url": "https://www.haberturk.com/magazin/foto/seray-kaya-ve-idris-aybirdi-den-ask-pozu-3917465",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Aşk pozu",
+   "snippet": "Geçen ay aşklarını ilan eden oyuncu Seray Kaya ile iş insanı İdris Aybirdi'den yeni bir paylaşım geldi. Aybirdi, sevgilisiyle çekildiği romantik kareyi \"Hayatımın dönüm noktasısın\" notuyla paylaştı",
+   "image": "https://im.haberturk.com/l/2026/10/05/ver1791232285/3917465/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-05T20:32:16.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "seray-kaya"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/seray-kaya-ve-idris-aybirdi-den-ask-pozu-3917465",
+     "title": "Aşk pozu",
+     "snippet": "Geçen ay aşklarını ilan eden oyuncu Seray Kaya ile iş insanı İdris Aybirdi'den yeni bir paylaşım geldi. Aybirdi, sevgilisiyle çekildiği romantik kareyi \"Hayatımın dönüm noktasısın\" notuyla paylaştı",
+     "published": "2026-10-05T20:32:16.000Z",
+     "titleFa": "عکس عاشقانه"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار تصویر عاشقانه جدید از سرای کایا و ادریس آیبیردی",
+   "summaryFa": "سرای کایا، بازیگر سریال «شربت زغال‌فرنگی»، و ادریس آیبیردی تصاویر جدیدی از رابطه عاشقانه خود در فضای مجازی منتشر کردند. ادریس آیبیردی با انتشار عکس و ویدئویی، عشق خود را به این بازیگر ابراز کرد.",
+   "bodyFa": [
+    "سرای کایا، بازیگر شناخته‌شده‌ای که در سریال محبوب «شربت زغال‌فرنگی» نقش شخصیت «باشاک» را بر عهده دارد، بار دیگر با مسائل مربوط به زندگی خصوصی خود مورد توجه رسانه‌ها قرار گرفت. او ماهی گذشته با انتشار عکسی در مقابل آینه همراه با یک قلب آبی، خبر رابطه خود با ادریس آیبیردی، فعال حوزه کسب‌وکار را به صورت رسمی اعلام کرده بود.",
+    "این زوج اکنون نیز به اشتراک گذاشتن لحظات عاشقانه خود در شبکه‌های اجتماعی ادامه می‌دهند. در تازه‌ترین مورد، ادریس آیبیردی تصاویری از خود و سرای کایا را در صفحه اینستاگرامش منتشر کرد که در آن مشغول ابراز علاقه به نامزدش است. او این پست را با جمله‌ای رمانتیک همراه کرد و نوشت که او عشق بزرگ و نقطه عطف زندگی‌اش است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "98cb06c70b53",
+   "url": "https://www.haberturk.com/magazin/foto/orkun-isitmak-baba-oluyor-3917452",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Baba oluyor",
+   "snippet": "Orkun Işıtmak ve Merve Yorgancılar, anne-baba olacaklarını duyurdu. 2021 yılında evlenen çift, bebek haberini New York gezileri sırasında paylaştı",
+   "image": "https://im.haberturk.com/l/2026/10/05/ver1791225338/3917452/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-05T19:35:46.000Z",
+   "scope": "general",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/orkun-isitmak-baba-oluyor-3917452",
+     "title": "Baba oluyor",
+     "snippet": "Orkun Işıtmak ve Merve Yorgancılar, anne-baba olacaklarını duyurdu. 2021 yılında evlenen çift, bebek haberini New York gezileri sırasında paylaştı",
+     "published": "2026-10-05T19:35:46.000Z",
+     "titleFa": "پدر می‌شود"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "ارکان ایشیتماک و مروه یورگانجیلار والدین می‌شوند",
+   "summaryFa": "ارکان ایشیتماک و همسرش مروه یورگانجیلار که در سال ۲۰۲۱ ازدواج کرده بودند، در جریان سفر به نیویورک خبر در انتظار فرزند بودن خود را اعلام کردند.",
+   "bodyFa": [
+    "ارکان ایشیتماک، یوتیوبر مشهور، و همسرش مروه یورگانجیلار که در سال ۲۰۲۱ با یکدیگر ازدواج کرده بودند، خبر خوشی را به طرفداران خود دادند. این زوج که لحظات سفر خود به نیویورک را در شبکه‌های اجتماعی به اشتراک می‌گذاشتند، اعلام کردند که به زودی پدر و مادر خواهند شد.",
+    "ارکان ایشیتماک با انتشار ویدیویی اعلام کرد که همسرش خبری برای مخاطبان دارد و در آن تصاویر مربوط به بارداری مروه یورگانجیلار به نمایش درآمد. آن‌ها این خبر را با عبارت «آمریکای پر ماجرا» منتشر کردند و پس از این اعلام، هواداران و دنبال‌کنندگان این زوج با ارسال پیام‌های تبریک به آن‌ها واکنش نشان دادند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "180ad8cb86d6",
+   "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nden-yeni-bolum-tanitimi-3917427",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Bir şans vermiştim, eline yüzüne bulaştırdı\"",
+   "snippet": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nin heyecan dolu yeni bölümünden bir tanıtım daha izleyiciyle buluştu",
+   "image": "https://im.haberturk.com/l/2026/10/05/ver1791218778/3917427/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-05T17:20:54.000Z",
+   "scope": "linked",
+   "kind": "official",
+   "entities": {
+    "series": [
+     "kizilcik-serbeti"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nden-yeni-bolum-tanitimi-3917427",
+     "title": "\"Bir şans vermiştim, eline yüzüne bulaştırdı\"",
+     "snippet": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nin heyecan dolu yeni bölümünden bir tanıtım daha izleyiciyle buluştu",
+     "published": "2026-10-05T17:20:54.000Z",
+     "titleFa": "یک فرصت داده بودم، آن را خراب کرد"
+    }
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "0p2JrBI7TN0"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار معرفی‌نامه جدید برای قسمت تازه سریال «شربت زغال‌اخته»",
+   "summaryFa": "دومین معرفی‌نامه از قسمت جدید سریال «شربت زغال‌اخته» از شبکه شو تی‌وی پخش شد. این ویدیو از بحران‌ها و تنش‌های جدید در میان شخصیت‌های داستان خبر می‌دهد.",
+   "bodyFa": [
+    "شبکه شو تی‌وی دومین معرفی‌نامه از قسمت جدید و پرهیجان سریال محبوب «شربت زغال‌اخته» را منتشر کرد. ساخت این سریال بر عهده گلد فیلم و تهیه‌کنندگی فاروق تورگوت بوده و نویسندگی آن را ملیس جیولک و زینب گور انجام داده‌اند. کارگردانی اثر نیز بر عهده اوزگور سویملی است.",
+    "در تصاویر منتشر شده، خروج باشاک و فاتح از خانه اونال‌ها و تنها ماندن عبدالله و سالکیم در عمارت، گویای فروپاشی بزرگ در خانواده است. از سوی دیگر، تنش میان هلال و عمر بر سر kıvılcım افزایش یافته و دفاع kıvılcım از عمر در برابر لیدر، تعادل‌ها را به هم می‌ریزد.",
+    "در سکانس‌های پایانی این معرفی‌نامه، تهدید لیدر مبنی بر بستن هتل و دریافت یک تلفن حیاتی توسط عمر، نویدبخش حساب‌کشی‌های بزرگی در قسمت پیش رو است که جمعه ساعت ۲۰ در شو تی‌وی پخش خواهد شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "d1a43ea6a138",
    "url": "https://www.sozcu.com.tr/nereden-nereye-bir-donem-cogu-kisinin-ozendigi-isim-nisantasi-nda-boyle-goruntulendi-p366408",
@@ -636,7 +878,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/eski-ese-agir-suclamalar-evlilik-bitti-kavga-devam-ediyor-43330458",
      "title": "Eski eşe ağır suçlamalar... Evlilik bitti, kavga devam ediyor!",
      "snippet": "Eski manken Güzide Duran ile iş insanı Adnan Aksoy’un 18 yıllık evliliği mart ayında sona ermişti. Çekişmeli boşanma sürecinin ardından yollarını ayıran çift arasında gerilim ise devam ediyor.",
-     "published": "2026-10-05T13:20:00.000Z"
+     "published": "2026-10-05T13:20:00.000Z",
+     "titleFa": "اتهامات سنگین به همسر سابق... ازدواج تمام شد، دعوا ادامه دارد!"
     }
    ],
    "images": [
@@ -647,7 +890,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "ادامه تنش‌ها میان گüzide Duran و Adnan Aksoy پس از پایان ازدواج ۱۸ ساله",
+   "summaryFa": "ازدواج ۱۸ ساله Güzide Duran و Adnan Aksoy در ماه مارس به پایان رسید، اما تنش‌ها میان آن‌ها همچنان ادامه دارد.",
+   "bodyFa": [
+    "گوزیده دوران، مدل سابق، و عدنان آکسوی، چهره تجاری، پس از یک دوره ازدواج ۱۸ ساله که در ماه مارس به پایان رسید، همچنان با تنش و درگیری‌های پس از جدایی روبه‌رو هستند.",
+    "اگرچه این زوج پس از یک فرآیند طلاق جنجالی راه خود را از یکدیگر جدا کرده‌اند، اما گزارش‌ها حاکی از آن است که اختلافات و تنش‌ها میان آن‌ها کماکان پابرجا است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "85165115c7ea",
@@ -1243,10 +1494,20 @@
      "url": "https://www.haberturk.com/magazin/temizlik-takintili-naomi-campbell-lateks-eldivenle-bisiklet-surdu-3917237",
      "title": "Takıntısını bisiklette de gösterdi",
      "snippet": "Temizlik takıntılı olduğu bilinen ünlü süper model Naomi Campbell, Paris'te ortak kullanıma açık olan bisikletlerden birini önce temizledi, sonra lateks eldivenle sürdü",
-     "published": "2026-10-05T09:43:26.000Z"
+     "published": "2026-10-05T09:43:26.000Z",
+     "titleFa": "تاکید بر وسواس در دوچرخه‌سواری"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اقدام جالب نائومی کمپبل در پاریس؛ تمیز کردن دوچرخه عمومی پیش از سوار شدن",
+   "summaryFa": "نائومی کمپبل، مدل معروف، در پاریس و پیش از استفاده از دوچرخه عمومی، آن را ضدعفونی کرد. او با دستکش لاتکس و به همراه محافظ خود که کیف گران‌قیمتش را حمل می‌کرد، تردد کرد.",
+   "bodyFa": [
+    "نائومی کمپبل، سوپرمدل بریتانیایی که به داشتن حساسیت شدید نسبت به پاکیزگی و ترس از میکروب معروف است، در جریان هفته مد پاریس برای فرار از ترافیک تصمیم گرفت از دوچرخه‌های عمومی استفاده کند.",
+    "این مدل مشهور پیش از سوار شدن، ابتدا با استفاده از مواد شوینده دوچرخه را تمیز کرد و سپس با دستکش‌های لاتکس آبی‌رنگ سوار آن شد. او در ویدئویی توضیح داد که به دلیل ماندن در ترافیک شهر و برای رسیدن به برنامه‌هایش چاره‌ای جز این کار نداشته است.",
+    "با وجود ظاهر مردمی این تردد، محافظ کمپبل با یک کیف تمساح بسیار گران‌قیمت در حالی که او را با دوچرخه همراهی می‌کرد، جلب توجه نمود. این مدل پیش‌تر نیز حساسیت‌های بهداشتی خود را در سفرهای هوایی به نمایش گذاشته بود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "124af82b35e6",
@@ -1770,7 +2031,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/afisi-yayinlandi-43329929",
      "title": "Afişi yayınlandı",
      "snippet": "2017 yılında vizyona girerek milyonlarca seyirciye ulaşan ve gişede büyük başarı elde eden ‘Aile Arasında’, yıllardır beklenen devam filmiyle geri dönüyor.",
-     "published": "2026-10-05T07:52:00.000Z"
+     "published": "2026-10-05T07:52:00.000Z",
+     "titleFa": "انتشار پوستر"
     }
    ],
    "images": [
@@ -1781,7 +2043,14 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتشار پوستر فیلم «Aile Arasında»",
+   "summaryFa": "فیلم موفق «Aile Arasında» که در سال ۲۰۱۷ اکران شده بود، پس از سال‌ها انتظار با فیلم دوم خود بازمی‌گردد.",
+   "bodyFa": [
+    "فیلم سینمایی «Aile Arasında» که در سال ۲۰۱۷ توانسته بود میلیون‌ها مخاطب را جذب کند و در گیشه به موفقیت بزرگی دست یابد، اکنون پس از سال‌ها انتظار قرار است با یک دنباله جدید بازگردد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "50a4c5d2df80",
@@ -1854,7 +2123,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/yillar-onceki-besteleri-albumde-43329892",
      "title": "Yıllar önceki besteleri albümde",
      "snippet": "Attila Atasoy’un müzik kariyerinin ilk dönemlerinde besteleyip kasetçalarla kaydettiği şarkılar, yıllar sonra albüm olarak dinleyiciyle buluştu.",
-     "published": "2026-10-05T07:32:51.000Z"
+     "published": "2026-10-05T07:32:51.000Z",
+     "titleFa": "آهنگ‌های سال‌های دور در قالب آلبوم"
     }
    ],
    "images": [
@@ -1865,37 +2135,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
    ],
-   "mediaDone": true
-  },
-  {
-   "id": "50fc2d0ee8c2",
-   "url": "https://www.haberturk.com/magazin/merve-ozbey-konser-arasinda-merdivenlerden-dustu-saglik-durumu-hakkinda-aciklama-geldi-3917256",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Merdivenlerden düşen şarkıcıdan açıklama",
-   "snippet": "Afyonkarahisar'da sahne alan Merve Özbey, konser arasında merdivenlerden düştü. İstanbul'a dönen şarkıcı, sağlık durumu hakkında açıklamada bulundu",
-   "image": "https://im.haberturk.com/l/2026/10/05/ver1791185049/3917256/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-05T07:28:52.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/merve-ozbey-konser-arasinda-merdivenlerden-dustu-saglik-durumu-hakkinda-aciklama-geldi-3917256",
-     "title": "Merdivenlerden düşen şarkıcıdan açıklama",
-     "snippet": "Afyonkarahisar'da sahne alan Merve Özbey, konser arasında merdivenlerden düştü. İstanbul'a dönen şarkıcı, sağlık durumu hakkında açıklamada bulundu",
-     "published": "2026-10-05T07:28:52.000Z"
-    }
+   "mediaDone": true,
+   "titleFa": "انتشار آهنگ‌های قدیمی آتیلا آتاصوی در قالب یک آلبوم",
+   "summaryFa": "آهنگ‌هایی که آتیلا آتاصوی در آغاز دوران حرفه‌ای خود با ضبط صوت ضبط کرده بود، پس از گذشت سال‌ها در قالب یک آلبوم منتشر شدند.",
+   "bodyFa": [
+    "آهنگ‌های قدیمی آتیلا آتاصوی که متعلق به دوران اولیه فعالیت موسیقایی او هستند و در گذشته با استفاده از ضبط صوت ثبت شده بودند، سرانجام پس از سال‌ها به دست مخاطبان رسیدند و به صورت یک آلبوم موسیقایی منتشر شدند.",
+    "این اثر شامل قطعاتی است که این هنرمند در سال‌های دور ساخته و ثبت کرده بود و اکنون علاقه‌مندان به موسیقی می‌توانند این مجموعه‌ی تازه را بشنوند."
    ],
-   "mediaDone": true
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "62303cdc425b",
@@ -1922,7 +2170,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sira-gecesinde-rap-soyledi-43329870",
      "title": "Sıra gecesinde rap söyledi",
      "snippet": "Türkçe rap’in usta isimlerinden Ceza, Teknofest kapsamında Şanlıurfa’ya gitti.",
-     "published": "2026-10-05T07:20:00.000Z"
+     "published": "2026-10-05T07:20:00.000Z",
+     "titleFa": "اجرای رپ در شب سنتی در جریان رویداد سرا گجه"
     },
     {
      "source": "haberturk-magazin",
@@ -1930,7 +2179,8 @@
      "url": "https://www.haberturk.com/magazin/ceza-sira-gecesinde-rap-soyledi-3917267",
      "title": "Sıra gecesinde rap söyledi",
      "snippet": "Türkçe rap’in usta isimlerinden Ceza, Teknofest kapsamında Şanlıurfa'ya gitti. Teknofest'te konser veren Ceza, sonrasında sıra gecesinde rap söyledi",
-     "published": "2026-10-05T07:43:30.000Z"
+     "published": "2026-10-05T07:43:30.000Z",
+     "titleFa": "اجرای رپ در شب سنتی در جریان رویداد سرا گجه"
     }
    ],
    "mergedIds": [
@@ -1944,7 +2194,37 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اجرای رپ توسط جزا در شب سنتی «سرا گجه»",
+   "summaryFa": "جزا، خواننده سرشناس رپ ترکی، در جریان سفر خود به شانلی‌اورفه برای تک‌فنوست، در یک مراسم «سرا گجه» شرکت کرد و رپ خواند.",
+   "bodyFa": [
+    "جزا، از چهره‌های برجسته رپ ترکی، به منظور شرکت در رویداد تک‌فنوست به شانلی‌اورفه سفر کرد. بر اساس گزارش‌ها، او در فرودگاه شانلی‌اورفه گپ روی صحنه رفت و به اجرای کنسرت پرداخت.",
+    "گزارش‌ها حاکی از آن است که برنامه جزا در این شهر شامل شرکت در مراسم سنتی «سرا گجه» نیز بوده است. او در این مراسم با درخواست حاضران مواجه شد و یکی از قطعات معروف خود به نام «یرلی پلاک» را اجرا کرد."
+   ],
+   "comparison": {
+    "agree": [
+     "جزا برای رویداد تک‌فنوست به شانلی‌اورفه رفت.",
+     "جزا در جریان این سفر در یک مراسم «سرا گجه» رپ اجرا کرد."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات لباس و انتشار ویدیو در فضای مجازی",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "به جز عنوان و اشاره اولیه به سفر برای تک‌فنوست و اجرا در سرا گجه، جزئیات دیگری ارائه نداده است."
+       },
+       {
+        "source": "haberturk-magazin",
+        "text": "ذکر کرده که جزا با پوشیدن شلوار محلی سیورک روی صحنه رفته و لحظات اجرای رپ او در سرا گجه در شبکه‌های اجتماعی نیز منتشر شده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "71ae71a2a819",
@@ -1971,9 +2251,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/once-sarki-sonra-halay-43329867",
      "title": "Önce şarkı sonra halay",
      "snippet": "Aslen Mardinli olan Pınar Deniz, memleketini ziyaret etti.",
-     "published": "2026-10-05T07:17:37.000Z"
+     "published": "2026-10-05T07:17:37.000Z",
+     "titleFa": "ابتدا آواز و سپس رقص هالای"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac34f0083386a49177b27cc.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac34f0083386a49177b27cc.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true,
+   "titleFa": "دیدار پینار دنیز از زادگاهش ماردین",
+   "summaryFa": "پینار دنیز که اصالتاً اهل ماردین است، به زادگاه خود سفر کرد.",
+   "bodyFa": [
+    "پینار دنیز، بازیگر ترکیه‌ای که اصالتی ماردینی دارد، اخیراً از زادگاه خود بازدید کرده است.",
+    "این سفر با برنامه‌هایی از جمله خواندن آواز و رقص محلی هالای همراه بوده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3b9be9493289",
@@ -2195,7 +2493,8 @@
      "snippet": "Futbol dünyasının en çok konuşulan aşk üçgeninin ardından yollarını ayıran Wanda Nara ile Maxi Lopez, ortak çocuklarının geleceği için aralarındaki husumete son vererek yıllar sonra yeniden bir araya geldi",
      "published": "2026-10-05T06:35:26.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "da83da40cfb3",
@@ -2318,7 +2617,16 @@
      "snippet": "Konser için Kuzey Kıbrıs’a giden Murat Boz, 30 Ağustos’ta Girne açıklarında batan Filo Jet’te yakınlarını kaybeden ailelerin kurduğu çadırı ziyaret etti. Bir aydır sevdiklerinden gelecek haberi bekleyen ailelerin sesini duyuran Boz, “Son canımıza ulaşana kadar aramalar devam etsin” dedi.",
      "published": "2026-10-05T05:09:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac330c483386a49177b26ae.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac330c483386a49177b26ae.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true
   },
   {
    "id": "aa980f9961de",
@@ -2394,7 +2702,16 @@
      "snippet": "OYUNCU Özge Özpirinçci ile avukatı Nail Gönenli, kendilerine hakaret ve ölüm tehdidi içeren mesajlar gönderildiği iddiasıyla Kübra Süzgün’ün babası Serkan Süzgün hakkında yeniden suç duyurusunda bulundu.",
      "published": "2026-10-05T04:57:21.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac32dfc83386a49177b26a2.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac32dfc83386a49177b26a2.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
+   ],
+   "mediaDone": true
   },
   {
    "id": "e3102f5e85e2",
@@ -2867,7 +3184,16 @@
      "title": "Acıyı yansıtmak için sekiz kilo verdi",
      "snippet": "Kanal D’nin fenomen dizisi ‘Uzak Şehir’de Sadakat’a hayat veren Gonca Cilasun, karakterinin yaşadığı büyük acıyı yansıtmak için verdiği kilolarla dikkat çekti. Oyuncu, Sadakat’in evlat acısını daha gerçekçi yansıtabilmek amacıyla sekiz kilo verdiğini açıkladı. Cilasun, “Bu dünyanın en zor şeyi” sözl",
      "published": "2026-10-05T04:02:15.000Z",
-     "titleFa": "کاهش هشت کیلوگرم وزن برای انعکاس رنج و اندوه"
+     "titleFa": "آسیب را برای بازتاب دادن هشت کیلوگرم کم کرد"
+    },
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/sebnem-bozoklu-20-kilo-verdi-3917442",
+     "title": "20 kilo verdi",
+     "snippet": "Şebnem Bozoklu'nun son dönemdeki değişimi sosyal medyada dikkat çekti. Yaklaşık bir yılda 20 kilo veren oyuncunun verdiği kilolar, takipçilerinin de gözünden kaçmadı",
+     "published": "2026-10-05T17:34:28.000Z",
+     "titleFa": "۲۰ کیلوگرم کم کرد"
     }
    ],
    "images": [
@@ -2879,14 +3205,39 @@
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
    "mediaDone": true,
-   "titleFa": "کاهش وزن هشت کیلوگرمی گونجا جیلاسون برای به تصویر کشیدن رنج شخصیتش در سریال «شهر دور»",
-   "summaryFa": "گونجا جیلاسون، بازیگر سریال «شهر دور»، برای بازی باورپذیرتر در نقش مادری داغدار، هشت کیلوگرم وزن کم کرده است.",
+   "titleFa": "کاهش وزن بازیگران در اخبار جدید",
+   "summaryFa": "گونجا جیلاسون برای بازی در سریال «شهر دور» وزن کم کرد و تغییرات ظاهر شبنم بوزوکلو نیز مورد توجه قرار گرفت.",
    "bodyFa": [
-    "گونجا جیلاسون، بازیگر مطرحی که در سریال پربیننده و موفق «شهر دور» (Uzak Şehir) پخش شده از کانال دی، ایفاگر نقش شخصیت «ساداکات» است، با تغییر ظاهر خود توجه مخاطبان را جلب کرده است. او برای بازی در این نقش و به تصویر کشیدن رنج عمیق این شخصیت، کاهش وزن چشمگیری داشته است.",
-    "این بازیگر در اظهارات خود فاش کرد که برای نشان دادن واقع‌گرایانه درد جانسوز از دست دادن فرزند توسط شخصیت ساداکات، هشت کیلوگرم وزن کم کرده است. جیلاسون با اشاره به این موضوع، از دست دادن فرزند را به عنوان «سخت‌ترین چیز در این دنیا» توصیف کرد و تصمیم گرفت این اندوه بزرگ را در فیزیک خود نیز نمایان کند تا نقش برای تماشاگران باورپذیرتر باشد."
+    "در تازه‌ترین اخبار پیرامون چهره‌های تلویزیونی، گونجا جیلاسون بازیگر سریال «شهر دور» برای نشان دادن بهتر درد و رنج شخصیت خود در این مجموعه اقدام به کاهش وزن کرده است.",
+    "بر اساس گزارش‌ها، این بازیگر برای اینکه بتواند غم از دست دادن فرزند را توسط نقش خود به شکلی واقعی‌تر به تصویر بکشد، هشت کیلوگرم وزن کم کرده و خودش نیز در این باره اظهاراتی داشته است.",
+    "از سوی دیگر، در خبری جداگانه شبنم بوزوکلو که به عنوان داور در جشنواره فیلم آلتین کوزا حضور یافته بود، با تغییرات ظاهری و کاهش وزن بیست کیلوگرمی خود در طول یک سال گذشته توجه مخاطبان را در شبکه‌های اجتماعی به خود جلب کرد."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 2,
+   "mergedIds": [
+    "f0b11b41c5d8"
+   ],
+   "comparison": {
+    "agree": [],
+    "differ": [
+     {
+      "topic": "میزان و دلیل کاهش وزن بازیگران",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "گونجا جیلاسون برای نمایش درد و رنج و غم فرزند در سریال شهر دور هشت کیلوگرم وزن کم کرده است."
+       },
+       {
+        "source": "haberturk-magazin",
+        "text": "شبنم بوزوکلو در طول یک سال گذشته حدود ۲۰ کیلوگرم وزن کم کرده که تغییراتش در جشنواره آلتین کوزا مورد توجه قرار گرفت."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": [
+     "ادعاها درباره میزان دقیق کاهش وزن هر یک از بازیگران و انگیزه‌های پشت آن"
+    ]
+   }
   },
   {
    "id": "313b5744ea13",
@@ -15352,44 +15703,6 @@
     "https://idsb.tmgrup.com.tr/ly/uploads/images/images/menu_items/LkKGaG.jpg",
     "https://idsb.tmgrup.com.tr/ly/theme_dailysabah/images/ds-tv.png",
     "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/24/thumbs/1200x675/462095.jpg?v=1790240246",
-    "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/03/20/thumbs/398x208/26198.jpg?v=1584695403"
-   ],
-   "mediaDone": true
-  },
-  {
-   "id": "9d9292a0545a",
-   "url": "https://www.dailysabah.com/arts/cinema/harvey-weinstein-set-for-sentencing-after-years-of-sex-crime-retrials",
-   "source": "dailysabah-arts",
-   "sourceName": "Daily Sabah",
-   "lang": "en",
-   "title": "Harvey Weinstein set for sentencing after years of sex crime retrials",
-   "snippet": "The first time Harvey Weinstein was sentenced to prison, reporters, advocates and the curious public crammed the courtroom to witness the disgraced Hollywood honcho’s #MeToo reckon...",
-   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/23/462028.jpg",
-   "video": null,
-   "published": "2026-09-23T12:33:00.000Z",
-   "scope": "dizi",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "dailysabah-arts",
-     "name": "Daily Sabah",
-     "url": "https://www.dailysabah.com/arts/cinema/harvey-weinstein-set-for-sentencing-after-years-of-sex-crime-retrials",
-     "title": "Harvey Weinstein set for sentencing after years of sex crime retrials",
-     "snippet": "The first time Harvey Weinstein was sentenced to prison, reporters, advocates and the curious public crammed the courtroom to witness the disgraced Hollywood honcho’s #MeToo reckon...",
-     "published": "2026-09-23T12:33:00.000Z"
-    }
-   ],
-   "images": [
-    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/23/462028.jpg",
-    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/23/thumbs/1200x675/462028.jpg",
-    "https://idsb.tmgrup.com.tr/ly/uploads/images/images/menu_items/LkKGaG.jpg",
-    "https://idsb.tmgrup.com.tr/ly/theme_dailysabah/images/ds-tv.png",
-    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/23/thumbs/1200x675/462028.jpg?v=1790168364",
     "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/03/20/thumbs/398x208/26198.jpg?v=1584695403"
    ],
    "mediaDone": true
