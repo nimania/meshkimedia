@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T22:41:04.739Z",
+ "updated": "2026-10-06T03:02:01.488Z",
  "items": [
   {
    "id": "c58e03fe6080",
@@ -2491,10 +2491,20 @@
      "url": "https://www.haberturk.com/magazin/foto/wanda-nara-ve-maxi-lopez-baristi-3917219",
      "title": "Eski eşiyle barıştı",
      "snippet": "Futbol dünyasının en çok konuşulan aşk üçgeninin ardından yollarını ayıran Wanda Nara ile Maxi Lopez, ortak çocuklarının geleceği için aralarındaki husumete son vererek yıllar sonra yeniden bir araya geldi",
-     "published": "2026-10-05T06:35:26.000Z"
+     "published": "2026-10-05T06:35:26.000Z",
+     "titleFa": "آشتی با همسر سابق"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "واندا نارا و ماکسی لوپز پس از سال‌ها اختلاف آشتی کردند",
+   "summaryFa": "واندا نارا و همسر سابقش ماکسی لوپز برای آینده فرزندان مشترک خود اختلافات گذشته را کنار گذاشته و پس از سال‌ها دوباره با یکدیگر دیدار کردند. این در حالی است که رابطه پیشین آن‌ها با جنجال‌های فراوانی همراه بود.",
+   "bodyFa": [
+    "واندا نارا و ماکسی لوپز که در سال ۲۰۰۸ ازدواج کرده بودند و سه فرزند مشترک داشتند، پس از سال‌ها تنش و اختلاف تصمیم گرفتند کدورت‌ها را کنار بگذارند. ارتباط آن‌ها در سال ۲۰۱۲ و همزمان با پیوستن مائورو ایکاردی به سامپدوریا وارد مرحله تازه‌ای شد و در نهایت به جدایی انجامید.",
+    "پس از جدایی نارا و لوپز در سال ۲۰۱۳، ازدواج واندا نارا با ایکاردی در سال ۲۰۱۴ حواشی زیادی به پا کرد. این موضوع حتی به زمین مسابقه کشیده شد و تنش‌هایی میان بازیکنان ایجاد کرد که بازتاب فراوانی در رسانه‌ها داشت. همچنین فرزندان مشترک و مسائل مربوط به زندگی شخصی آن‌ها همواره مورد توجه عموم بوده است.",
+    "اکنون پس از دوره‌ای پر از فراز و نشیب و جدایی اخیر واندا نارا از مائورو ایکاردی در ماه مارس، گزارش‌ها حاکی از آن است که واندا نارا و ماکسی لوپز برای آینده فرزندانشان تصمیم به پایان دادن به اختلافات قدیمی گرفته‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "da83da40cfb3",
@@ -2591,44 +2601,6 @@
    "aiTries": 1
   },
   {
-   "id": "267870ee220a",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/murat-bozdan-9-aile-icin-cagri-43329732",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Murat Boz'dan 9 aile için çağrı",
-   "snippet": "Konser için Kuzey Kıbrıs’a giden Murat Boz, 30 Ağustos’ta Girne açıklarında batan Filo Jet’te yakınlarını kaybeden ailelerin kurduğu çadırı ziyaret etti. Bir aydır sevdiklerinden gelecek haberi bekleyen ailelerin sesini duyuran Boz, “Son canımıza ulaşana kadar aramalar devam etsin” dedi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac330c483386a49177b26ae.jpg",
-   "video": null,
-   "published": "2026-10-05T05:09:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/murat-bozdan-9-aile-icin-cagri-43329732",
-     "title": "Murat Boz'dan 9 aile için çağrı",
-     "snippet": "Konser için Kuzey Kıbrıs’a giden Murat Boz, 30 Ağustos’ta Girne açıklarında batan Filo Jet’te yakınlarını kaybeden ailelerin kurduğu çadırı ziyaret etti. Bir aydır sevdiklerinden gelecek haberi bekleyen ailelerin sesini duyuran Boz, “Son canımıza ulaşana kadar aramalar devam etsin” dedi.",
-     "published": "2026-10-05T05:09:00.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac330c483386a49177b26ae.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac330c483386a49177b26ae.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "aa980f9961de",
    "url": "https://www.hurriyet.com.tr/kelebek/magazin/bekar-anne-olmak-cok-zor-diye-gozyasi-dokuyordu-dort-cocugu-icin-bes-dadi-calistiriyormus-43329730",
    "source": "hurriyet-kelebek",
@@ -2674,44 +2646,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "4e5cccd6a013",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/kubranin-babasindan-tehdit-aliyoruz-43329729",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "'Kübra’nın babasından tehdit alıyoruz'",
-   "snippet": "OYUNCU Özge Özpirinçci ile avukatı Nail Gönenli, kendilerine hakaret ve ölüm tehdidi içeren mesajlar gönderildiği iddiasıyla Kübra Süzgün’ün babası Serkan Süzgün hakkında yeniden suç duyurusunda bulundu.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac32dfc83386a49177b26a2.jpg",
-   "video": null,
-   "published": "2026-10-05T04:57:21.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/kubranin-babasindan-tehdit-aliyoruz-43329729",
-     "title": "'Kübra’nın babasından tehdit alıyoruz'",
-     "snippet": "OYUNCU Özge Özpirinçci ile avukatı Nail Gönenli, kendilerine hakaret ve ölüm tehdidi içeren mesajlar gönderildiği iddiasıyla Kübra Süzgün’ün babası Serkan Süzgün hakkında yeniden suç duyurusunda bulundu.",
-     "published": "2026-10-05T04:57:21.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac32dfc83386a49177b26a2.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac32dfc83386a49177b26a2.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
-   ],
-   "mediaDone": true
   },
   {
    "id": "e3102f5e85e2",
@@ -4711,9 +4645,27 @@
      "url": "https://www.sozcu.com.tr/diger-yegenleri-miras-derdinde-kadir-inanir-in-sarkici-yegeni-soner-arica-konserden-konsere-kosuyor-p365477",
      "title": "Diğer yeğenleri miras derdinde; Kadir İnanır'ın şarkıcı yeğeni Soner Arıca konserden konsere koşuyor",
      "snippet": "Kadir İnanır'ın mirasıyla ilgili aile içindeki tartışmalar sürerken yeğeni Soner Arıca sahne çalışmalarına devam ediyor....",
-     "published": "2026-10-04T10:01:56.000Z"
+     "published": "2026-10-04T10:01:56.000Z",
+     "titleFa": "دیگر برادرزاده‌هایش به فکر ارث و میراث هستند؛ سونر آریکا، برادرزاده خواننده کادیر اینانیر، از این کنسرت به آن کنسرت می‌دود"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/kadirinanirrjpg-3dyfswszQ0iCyxNXCKC8mg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/kadirinanirrjpg-3dyfswszQ0iCyxNXCKC8mg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/soner-arica-2jpg-oRkOV8qd4USH-DAWx1Zjkw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/soner-arica-1jpg-OfEca9cUzUuogf2lVtMDEw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/kadir-inanir-soner-aricajpg-_HB4VOCEUk2tzCfhOOVEow.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "فعالیت‌های هنری سونер آریکا همزمان با بحث‌های ارث و میراث کادیر اینانیر",
+   "summaryFa": "همزمان با ادامه بحث‌های خانوادگی پیرامون ارثیه کادیر اینانیر، برادرزاده او یعنی سونер آریکا به فعالیت‌های صحنه‌ای خود ادامه می‌دهد. او قرار است در تور جدید خود در چندین شهر به اجرا بپردازد.",
+   "bodyFa": [
+    "در حالی که گزارش‌ها از وجود بحث‌های خانوادگی در خصوص ارث و میراث کادیر اینانیر حکایت دارند، برادرزاده خواننده او، سونر آریکا، تمرکز خود را بر روی کارهای هنری و فعالیت‌های صحنه‌ای حفظ کرده است.",
+    "بر اساس اطلاعات موجود، آریکا قرار است با تور «ترانه‌های مهمان» به روی صحنه برود و برنامه‌ریزی شده است که در مدت سه ماه در ۱۸ شهر مختلف کنسرت برگزار کند. عدم دخالت او در حواشی مربوط به ارث و توجه صرف به حرفه‌اش، مورد توجه دنبال‌کنندگانش نیز قرار گرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "29eea33cab8c",
@@ -6407,9 +6359,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/yillara-meydan-okuyor-53-yasindaki-arzum-onanin-fit-hali-dikkat-cekti-7671260",
      "title": "Yıllara meydan okuyor! 53 yaşındaki Arzum Onan'ın fit hali dikkat çekti",
      "snippet": "Bir döneme damga vuran isimlerden oyuncu Arzum Onan, paylaşımlarıyla adından söz ettirmeye devam ediyor. Formda haliyle dikkat çeken Onan'ın pozlarına takipçilerinden yorum ve beğeni yağdı.",
-     "published": "2026-10-03T23:59:44.000Z"
+     "published": "2026-10-03T23:59:44.000Z",
+     "titleFa": "مقاوم در برابر زمان! وضعیت تناسب اندام ۵۳ سالگی آرزو اونان جلب توجه کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6abebe1d930ba82058a9eb6a.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6abebe1d930ba82058a9eb6a.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تناسب اندام آرزو اونان در ۵۳ سالگی توجه‌ها را جلب کرد",
+   "summaryFa": "آرزو اونان، بازیگر شناخته‌شده، با انتشار تصاویر جدیدش در فضای مجازی توجه مخاطبان را به خود جلب کرد. تناسب اندام او در سن ۵۳ سالگی با استقبال و نظرات مثبت هواداران مواجه شد.",
+   "bodyFa": [
+    "آرزو اونان، بازیگر سرشناس که در یک دوره آثارش مورد توجه قرار گرفته بود، همچنان با تصاویر و پست‌های خود در شبکه‌های اجتماعی نام خود را مطرح می‌کند.",
+    "او اخیراً تصاویری از خود به اشتراک گذاشته که آمادگی جسمانی و فرم بدنی او در ۵۳ سالگی مورد توجه کاربران قرار گرفته است و این تصاویر با نظرات و پسندهای فراوانی از سوی دنبال‌کنندگانش روبه‌رو شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d47338063bd9",
@@ -6668,35 +6638,6 @@
      "جزئیات مربوط به رابطه گذشته دوریم اوزکان با لوکاس توریرا، فوتبالیست، و تا مرز ازدواج پیش رفتن آن‌ها."
     ]
    }
-  },
-  {
-   "id": "c6ea25de5d67",
-   "url": "https://www.milliyet.com.tr/magazin/kapiya-birakilan-yemekler-alinmayinca-gercek-ortaya-cikti-nail-kesova-evinde-baygin-bulundu-7672522",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Kapıya bırakılan yemekler alınmayınca gerçek ortaya çıktı! Nail Kesova evinde baygın bulundu",
-   "snippet": "HABER MERKEZİ - Milliyet Gazetesi yazarı Ali Eyüboğlu’nun sosyal medya hesabından paylaştığı bilgilere göre, Şişli Cami Şerifi Vakfı görevlisi, Kesova çiftinin kapısına iki gündür bıraktığı yemeklerin alınmadığını fark ederek durumu apartman yönetimine bildirdi. Yönetimin ihbarı üzerine polis ekipleri Şişli Hanımefendi Sokak’taki adrese gitti. Melek Mosso'ya İspanyol sevgili! Ünlü şarkıcı aileye girdi BAYGIN HALDE BULUNDU Dairenin kapısının çilingir yardımıyla açılmasının ardından 90 yaşındaki N",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac161b86a20a7c2fa32d278.jpg",
-   "video": null,
-   "published": "2026-10-03T20:29:32.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/kapiya-birakilan-yemekler-alinmayinca-gercek-ortaya-cikti-nail-kesova-evinde-baygin-bulundu-7672522",
-     "title": "Kapıya bırakılan yemekler alınmayınca gerçek ortaya çıktı! Nail Kesova evinde baygın bulundu",
-     "snippet": "HABER MERKEZİ - Milliyet Gazetesi yazarı Ali Eyüboğlu’nun sosyal medya hesabından paylaştığı bilgilere göre, Şişli Cami Şerifi Vakfı görevlisi, Kesova çiftinin kapısına iki gündür bıraktığı yemeklerin alınmadığını fark ederek durumu apartman yönetimine bildirdi. Yönetimin ihbarı üzerine polis ekiple",
-     "published": "2026-10-03T20:29:32.000Z"
-    }
-   ]
   },
   {
    "id": "f15ef54d3915",
@@ -12228,6 +12169,147 @@
     "قسمت شانزدهم سریال محبوب «عشق احتمالی» محصول شرکت MF Yapım و با بازی آیچا آیچین توران، اکین کوچ و فییاز شریف‌اوغلو از شبکه SHOW TV پخش شد و توانست با داستان رومانتیک خود توجه مخاطبان را جلب کند. این قسمت با هشتگ مخصوص خود توانست به مدت دو ساعت در شبکه اجتماعی X در صدر فهرست موضوعات داغ قرار گیرد.",
     "در این قسمت، ماجرای گزش زنبور علی باعث نگرانی و تجمع کادر، دفنه و تولگا در بیمارستان شد که با تلاش دکتر تامیر خطر برطرف گردید. اما آرامش میان دفنه و قادر دیری نپایید و روز بعد با درخواست دفنه برای ترک خانه توسط قادر، تنش‌ها دوباره بالا گرفت. در همین حال، در بخش دیگری از داستان، تولگا با کمک اوغوز و بررسی اسناد متوجه شد که کادر امین‌داغ در رأس آمریکایی‌ها قرار دارد که این امر شوک بزرگی برای او به همراه داشت.",
     "در پایان این قسمت پرماجرا، تلاش‌های قادر برای بازگرداندن دفنه با اقدام تامیر به یک بحران حسادت تبدیل شد و در نهایت سفر دفنه به پاریس، پایان غیرمنتظره و تکان‌دهنده‌ای را برای قادر رقم زد. همچنین مینه با کمک سوزی و ملیس تصمیم قطعی خود را برای طلاق گرفت و وسایلش را از عمارت بارتنر جمع‌آوری کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "9302fc401aa3",
+   "url": "https://www.sozcu.com.tr/nihat-kahveci-ve-esinden-mutluluk-pozu-kizlari-da-ask-karelerine-dahil-oldu-p365510",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Nihat Kahveci ve eşinden mutluluk pozu: Kızları da aşk karelerine dahil oldu",
+   "snippet": "Nihat Kahveci ile eşi Fulya Kahveci, tatil bölgesinden yaptıkları paylaşımla ailece mutluluk pozu verdi. Kırmızı güller ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/358jpg-I4ONW4Lf0Um0y9m40r4z6Q.jpg",
+   "video": null,
+   "published": "2026-10-02T09:29:22.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/nihat-kahveci-ve-esinden-mutluluk-pozu-kizlari-da-ask-karelerine-dahil-oldu-p365510",
+     "title": "Nihat Kahveci ve eşinden mutluluk pozu: Kızları da aşk karelerine dahil oldu",
+     "snippet": "Nihat Kahveci ile eşi Fulya Kahveci, tatil bölgesinden yaptıkları paylaşımla ailece mutluluk pozu verdi. Kırmızı güller ...",
+     "published": "2026-10-02T09:29:22.000Z",
+     "titleFa": "عکس خوشحالی نهاد قهوه‌چی و همسرش: دخترشان نیز وارد قاب‌های عاشقانه شد"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/358jpg-I4ONW4Lf0Um0y9m40r4z6Q.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/358jpg-I4ONW4Lf0Um0y9m40r4z6Q.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/nihat-kahveci-ve-esinden-mutluluk-pozu-kizlari-da-ask-karelerine-dahil-oldu-3jpg-ooKoGa47cUmCkR6w_cJv8w.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/nihat-kahveci-ve-esinden-mutluluk-pozu-kizlari-da-ask-karelerine-dahil-oldu-2jpg-GpccHd0JMUS1XQJL4b4lAg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac3e66cd83705fac66ff6fcpng-3ma7LgzL40mlV8dX5xNr_A.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "عکس خانوادگی نهاد قهوه‌چی و همسرش در تعطیلات",
+   "summaryFa": "نهاد قهوه‌چی و همسرش فولیا قهوه‌چی تصاویری از تعطیلات خود به همراه دخترشان منتشر کردند. این تصاویر با استقبال و نظرات مثبت دنبال‌کنندگان روبه‌رو شد.",
+   "bodyFa": [
+    "نهاد قهوه‌چی، بازیکن سابق تیم ملی، به همراه همسرش فولیا قهوه‌چی از منطقه تفریحی خود تصاویری خانوادگی را با مخاطبان به اشتراک گذاشتند.",
+    "این عکس‌ها که با گل‌های سرخ و قلب‌ها تزیین شده بودند و دختر این زوج نیز در آن‌ها حضور داشت، نظرات مثبتی مانند «ماشاءالله» و «نزار دیمسین» (چشم نخورد) را از سوی دنبال‌کنندگان دریافت کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "a1f32db93c34",
+   "url": "https://www.sozcu.com.tr/fransiz-rivierasi-nda-yildonumu-tek-gecesi-servet-degerinde-otelde-kutlama-p365465",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Fransız Rivierası'nda yıldönümü: Tek gecesi servet değerinde otelde kutlama",
+   "snippet": "Dikran Masis ile iç mimar eşi Yasemin Masis, 17. evlilik yıldönümlerini Fransız Rivierası'nda kutluyor. Dikran Masis'in ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fransiz-rivierasinda-yildonumu-tek-gecesi-servet-degerinde-otelde-kutlamapng-188wvUTqm06bQHB9UD_2mg.png",
+   "video": null,
+   "published": "2026-10-02T07:48:07.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/fransiz-rivierasi-nda-yildonumu-tek-gecesi-servet-degerinde-otelde-kutlama-p365465",
+     "title": "Fransız Rivierası'nda yıldönümü: Tek gecesi servet değerinde otelde kutlama",
+     "snippet": "Dikran Masis ile iç mimar eşi Yasemin Masis, 17. evlilik yıldönümlerini Fransız Rivierası'nda kutluyor. Dikran Masis'in ...",
+     "published": "2026-10-02T07:48:07.000Z",
+     "titleFa": "جشن سالگرد در ریویِرا فرانسه: اقامت در هتلی با هزینه یک شب به ارزش ثروت در فرانسوی"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fransiz-rivierasinda-yildonumu-tek-gecesi-servet-degerinde-otelde-kutlamapng-188wvUTqm06bQHB9UD_2mg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fransiz-rivierasinda-yildonumu-tek-gecesi-servet-degerinde-otelde-kutlamapng-188wvUTqm06bQHB9UD_2mg.png?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fransiz-riverasi-3jpg-9ujftB2PWUuj593gtolRLQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fransiz-riverasi-2jpg-f9ZiZ3t3bU_KBsI_2kF0gQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fransiz-riverasi-1jpg-NPdiWxlVtkWakzc39e11sA.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن هفدهمین سالگرد ازدواج دیکران ماسیس و همسرش در ریویِرا فرانسه",
+   "summaryFa": "دیکران ماسیس و همسر معمار داخلی‌اش، یاسمین ماسیس، هفدهمین سالگرد ازدواج خود را در ریویِرا فرانسه جشن می‌گیرند. این زوج برای این مناسبت در هتلی تاریخی اقامت دارند که قیمت هر شب آن تا ۸ هزار و ۴۰۰ یورو می‌رسد.",
+   "bodyFa": [
+    "دیکران ماسیس و همسرش یاسمین ماسیس که به عنوان معمار داخلی فعالیت می‌کند، هفدهمین سالگرد ازدواج خود را در منطقه ریویِرا فرانسه جشن می‌گیرند.",
+    "بر اساس اطلاعات منتشر شده، دیکران ماسیس برای این سالگرد یک سورپرایز در نظر گرفته و اقامتگاهی تاریخی در ریویِرا فرانسه را انتخاب کرده است که سابقه میزبانی از چهره‌های سرشناس جهان را دارد و هزینه هر یک شب اقامت در آن تا ۸ هزار و ۴۰۰ یورو می‌رسد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "af11c49a746c",
+   "url": "https://www.sozcu.com.tr/10-yillik-kusluk-bitti-teklif-geldi-p365453",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "10 yıllık küslük bitti, teklif geldi",
+   "snippet": "Şarkıcı Neco ile kızı Zeynep Özyılmazel'in yaklaşık 10 yıl süren küslüğü ağustosta sona ermişti. Kaz Dağları'nda barışan...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/454jpg-Kpxvob5H10e2ODaJyezVGw.jpg",
+   "video": null,
+   "published": "2026-10-02T07:25:52.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/10-yillik-kusluk-bitti-teklif-geldi-p365453",
+     "title": "10 yıllık küslük bitti, teklif geldi",
+     "snippet": "Şarkıcı Neco ile kızı Zeynep Özyılmazel'in yaklaşık 10 yıl süren küslüğü ağustosta sona ermişti. Kaz Dağları'nda barışan...",
+     "published": "2026-10-02T07:25:52.000Z",
+     "titleFa": "پایان قهر ۱۰ ساله تمام شد، پیشنهاد آمد"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/454jpg-Kpxvob5H10e2ODaJyezVGw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/454jpg-Kpxvob5H10e2ODaJyezVGw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac3e66cd83705fac66ff6fcpng-3ma7LgzL40mlV8dX5xNr_A.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/suleyman-soylu-sozcu-gazetesijpg-npqfe8r7GkSm7yujU7uvBg.jpg?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac3a6a9d83705fac66ff2edpng-K1GNhdyL1UC9zT5WStteXw.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "پایان قهر ۱۰ ساله نچو و زینپ اوزیلمازل با پیشنهاد جدید",
+   "summaryFa": "قهر ده ساله خواننده نچو و دخترش زینپ اوزیلمازل در مرداد ماه به پایان رسید. این پدر و دختر پس از آشتی در کوه های کازداغی، قصد دارند در یک رویداد ویژه گرد هم آیند.",
+   "bodyFa": [
+    "قهر طولانی‌مدت میان خواننده نچو و دخترش زینپ اوزیلمازل که حدود ده سال به طول انجامیده بود، در ماه اوت به پایان رسید. این دو که پیش‌تر در کوه‌های کازداغی با یکدیگر آشتی کرده بودند، اکنون خود را آماده می‌کنند تا در یک برنامه ویژه پس از سال‌ها طرفداران موسیقی را غافلگیر کرده و در کنار یکدیگر قرار گیرند.",
+    "جزئیات بیشتری درباره این همکاری یا برنامه ویژه هنوز منتشر نشده است، اما این خبر بازگشت این پدر و دختر هنرمند را پس از یک دهه دوری به تصویر می‌کشد."
    ],
    "ai": true,
    "aiTries": 1
