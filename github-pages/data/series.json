@@ -619,8 +619,7 @@
           {
             "number": 23,
             "date": "2026-10-06",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -1477,8 +1476,7 @@
           {
             "number": 5,
             "date": "2026-10-06",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -1929,8 +1927,7 @@
           {
             "number": 6,
             "date": "2026-10-06",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -2629,8 +2626,7 @@
           {
             "number": 3,
             "date": "2026-10-06",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -4056,8 +4052,7 @@
           {
             "number": 87,
             "date": "2026-10-06",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
