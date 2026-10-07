@@ -1,6 +1,636 @@
 {
- "updated": "2026-10-07T08:44:06.894Z",
+ "updated": "2026-10-07T14:17:30.953Z",
  "items": [
+  {
+   "id": "cdb3104536f2",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kocasini-set-aski-ugruna-terk-etmisti-ama-kizini-el-bebek-gul-bebek-buyuttu-sanki-iki-kardes-gibi-43332688",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Kocasını set aşkı uğruna terk etmişti... Ama kızını el bebek gül bebek büyüttü... Sanki iki kardeş gibi!",
+   "snippet": "Her anne ve baba için çocukları gözbebeğidir... Hele onlar büyüyüp serpildikçe gururları daha da artar. Bu durum, gösteri dünyasının ünlüleri için de geçerli elbette.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac62738fc033b5a8af9f0a1.jpg",
+   "video": null,
+   "published": "2026-10-07T13:37:00.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kocasini-set-aski-ugruna-terk-etmisti-ama-kizini-el-bebek-gul-bebek-buyuttu-sanki-iki-kardes-gibi-43332688",
+     "title": "Kocasını set aşkı uğruna terk etmişti... Ama kızını el bebek gül bebek büyüttü... Sanki iki kardeş gibi!",
+     "snippet": "Her anne ve baba için çocukları gözbebeğidir... Hele onlar büyüyüp serpildikçe gururları daha da artar. Bu durum, gösteri dünyasının ünlüleri için de geçerli elbette.",
+     "published": "2026-10-07T13:37:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "68799bbe0440",
+   "url": "https://www.sozcu.com.tr/tuzlu-kahve-izleyicileri-tepki-gosterdi-seyirciler-son-bolum-kararina-isyan-etti-p367013",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "İzleyiciler Tuzlu Kahve’nin son bölüm kararına tepki gösterdi: İsyan dolu yorumlar yağdı",
+   "snippet": "Star TV'nin salı akşamları ekrana gelen dizisi Tuzlu Kahve'nin bölümlerini YouTube'dan takip etmek isteyen izleyiciler, ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/tuzlu-kahveeee-1jpg-kkKls2uOn0yE8NyoqKYQ-g.jpg",
+   "video": null,
+   "published": "2026-10-07T13:36:16.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "tuzlu-kahve"
+    ],
+    "people": [],
+    "networks": [
+     "star-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/tuzlu-kahve-izleyicileri-tepki-gosterdi-seyirciler-son-bolum-kararina-isyan-etti-p367013",
+     "title": "İzleyiciler Tuzlu Kahve’nin son bölüm kararına tepki gösterdi: İsyan dolu yorumlar yağdı",
+     "snippet": "Star TV'nin salı akşamları ekrana gelen dizisi Tuzlu Kahve'nin bölümlerini YouTube'dan takip etmek isteyen izleyiciler, ...",
+     "published": "2026-10-07T13:36:16.000Z",
+     "titleFa": "بینندگان Tuzlu Kahve’nin son bölüm kararına tepki gösterdi: İsyan dolu yorumlar yağdı"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/tuzlu-kahveeee-1jpg-kkKls2uOn0yE8NyoqKYQ-g.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/tuzlu-kahveeee-1jpg-kkKls2uOn0yE8NyoqKYQ-g.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac63518d83705fac6ede081png-yZt6KZSackm7TW25A9KOYw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac633fdd83705fac6ed00c1png-SugFQ1YVeku-xm_bTg_SgQ.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac6055ed83705fac6e9ea0cpng-ahbSpDEAnEeiy8rDZ8PXuw.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "واکنش مخاطبان به تصمیم جدید درباره پخش سریال «قهوهٔ شور»",
+   "summaryFa": "انتشار قطعه‌قطعه‌ی قسمت‌های جدید سریال «قهوهٔ شور» در یوتیوب و اختصاص نسخه کامل آن به یک پلتفرم پولی، موجب اعتراض هواداران این مجموعه شد.",
+   "bodyFa": [
+    "طرفدارانی که سریال «قهوهٔ شور» را از طریق شبکه استار تی‌وی و روزهای سه‌شنبه دنبال می‌کنند و می‌خواستند قسمت‌های جدید را در یوتیوب تماشا کنند، با روش تازه‌ای روبه‌رو شدند. انتشار بخش‌بخش قسمت‌های چهارم، پنجم و ششم در این پلتفرم باعث نارضایتی شدید مخاطبان این سریال شده است.",
+    "بینندگان این مجموعه نسبت به این موضوع واکنش نشان داده و از اینکه نسخه کامل و یک‌پارچه‌ی سریال تنها از طریق یک پلتفرم دیجیتال پولی در دسترس قرار گرفته است، انتقاد کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "d6240760cb29",
+   "url": "https://www.sozcu.com.tr/3-evlilik-yapti-sadece-bir-askini-unutmadi-aliye-uzunatagan-dan-yillar-sonra-gelen-itiraf-p367040",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "3 evlilik yaptı sadece bir aşkını unutmadı: Aliye Uzunatağan'dan yıllar sonra gelen itiraf",
+   "snippet": "Usta oyuncu Aliye Uzunatağan, konuk olduğu programda geçmiş evliliklerinden ve özel hayatından bahsetti. Üç kez evlenen ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/aliyeuzunataganjpg-fkExaLxydUmJCUEDT8vtgw.jpg",
+   "video": null,
+   "published": "2026-10-07T13:32:17.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/3-evlilik-yapti-sadece-bir-askini-unutmadi-aliye-uzunatagan-dan-yillar-sonra-gelen-itiraf-p367040",
+     "title": "3 evlilik yaptı sadece bir aşkını unutmadı: Aliye Uzunatağan'dan yıllar sonra gelen itiraf",
+     "snippet": "Usta oyuncu Aliye Uzunatağan, konuk olduğu programda geçmiş evliliklerinden ve özel hayatından bahsetti. Üç kez evlenen ...",
+     "published": "2026-10-07T13:32:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": "4522461038e6",
+   "url": "https://www.haberturk.com/magazin/foto/ido-tatlises-ten-5-inci-evlilik-yil-donumu-kutlamasi-3917932",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Hayatımın en güzel 'Evet'i\"",
+   "snippet": "İbrahim Tatlıses'in kendisi gibi şarkıcı olan oğlu İdo Tatlıses, eşi Yasemin Tatlıses ile evliliklerinin 5'inci yıl dönümlerine özel duygusal bir mesaj yayımladı",
+   "image": "https://im.haberturk.com/l/2026/10/07/ver1791379872/3917932/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-07T13:31:31.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/ido-tatlises-ten-5-inci-evlilik-yil-donumu-kutlamasi-3917932",
+     "title": "\"Hayatımın en güzel 'Evet'i\"",
+     "snippet": "İbrahim Tatlıses'in kendisi gibi şarkıcı olan oğlu İdo Tatlıses, eşi Yasemin Tatlıses ile evliliklerinin 5'inci yıl dönümlerine özel duygusal bir mesaj yayımladı",
+     "published": "2026-10-07T13:31:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": "f640d76519c5",
+   "url": "https://www.milliyet.com.tr/magazin/kerem-alisiktan-yurek-yakan-performans-7674993",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Kerem Alışık'tan yürek yakan performans",
+   "snippet": "Beddua ettiği oğlu Aziz’in kamyonun altında kalarak hayatını kaybetmesi, Sadık’ı derin bir vicdan azabına sürükledi. Kerem Alışık’ın, Sadık’ın oğlunun ardından yaşadığı acıyı ve vicdan hesaplaşmasını yansıttığı sahneler, bölümün en çok konuşulan anları arasında yer aldı. “OYNAMAMIŞ, YAŞAMIŞ” Acının, pişmanlığın ve çaresizliğin iç içe geçtiği bölümde Sadık’ın duygularını en saf haliyle yansıtan usta oyuncuya izleyiciler övgüler yağdırdı. “Kerem Alışık sahneyi oynamamış, adeta yaşamış” yorumları e",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac63e7d0a5e93da6e8a1334.jpg",
+   "video": null,
+   "published": "2026-10-07T12:51:22.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "kerem-alisik"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/kerem-alisiktan-yurek-yakan-performans-7674993",
+     "title": "Kerem Alışık'tan yürek yakan performans",
+     "snippet": "Beddua ettiği oğlu Aziz’in kamyonun altında kalarak hayatını kaybetmesi, Sadık’ı derin bir vicdan azabına sürükledi. Kerem Alışık’ın, Sadık’ın oğlunun ardından yaşadığı acıyı ve vicdan hesaplaşmasını yansıttığı sahneler, bölümün en çok konuşulan anları arasında yer aldı. “OYNAMAMIŞ, YAŞAMIŞ” Acının,",
+     "published": "2026-10-07T12:51:22.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac63e7d0a5e93da6e8a1334.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac63e7d0a5e93da6e8a1334.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "bef74b884df5",
+   "url": "https://www.haberturk.com/magazin/miley-cyrus-buyuk-basarisizligiyla-tarih-yazdi-3917930",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Büyük düşüşüyle tarih yazdı",
+   "snippet": "Miley Cyrus, yeni çıkardığı 'Bass Persuades' albümüyle önce bir numaraya yükseldi, ardından bir kadın sanatçının liste tarihindeki en büyük düşüşünü yaşadı",
+   "image": "https://im.haberturk.com/l/2026/10/07/ver1791376867/3917930/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-07T12:44:11.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/miley-cyrus-buyuk-basarisizligiyla-tarih-yazdi-3917930",
+     "title": "Büyük düşüşüyle tarih yazdı",
+     "snippet": "Miley Cyrus, yeni çıkardığı 'Bass Persuades' albümüyle önce bir numaraya yükseldi, ardından bir kadın sanatçının liste tarihindeki en büyük düşüşünü yaşadı",
+     "published": "2026-10-07T12:44:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": "4f28a36fe1f7",
+   "url": "https://www.sozcu.com.tr/goksel-arsoy-un-cenazesinde-efsane-oyuncudan-sert-tepki-p367007",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Göksel Arsoy'un cenazesinde efsane oyuncudan sert tepki",
+   "snippet": "Yeşilçam'ın “Altın Çocuk” lakaplı usta oyuncusu Göksel Arsoy, 90 yaşında hayatını kaybetmesinin ardından son yolculuğuna...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/gokselarsoyjpg-0PVrznSun0aOCvxdIzNBlw.jpg",
+   "video": null,
+   "published": "2026-10-07T12:43:26.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/goksel-arsoy-un-cenazesinde-efsane-oyuncudan-sert-tepki-p367007",
+     "title": "Göksel Arsoy'un cenazesinde efsane oyuncudan sert tepki",
+     "snippet": "Yeşilçam'ın “Altın Çocuk” lakaplı usta oyuncusu Göksel Arsoy, 90 yaşında hayatını kaybetmesinin ardından son yolculuğuna...",
+     "published": "2026-10-07T12:43:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": "b1ded4395834",
+   "url": "https://www.sozcu.com.tr/milyonlarin-sevdigi-oyuncu-aski-icin-din-degistiriyor-p367017",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Milyonların sevdiği oyuncu aşkı için din değiştiriyor",
+   "snippet": "Milyonların sevdiği oyuncu Sydney Sweeney'nin sevgilisi Scooter Braun ile kurmak istediği aile için din değiştireceği id...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/854jpg-zDRwJJ8AbkWTvvzwnj4r7A.jpg",
+   "video": null,
+   "published": "2026-10-07T12:30:41.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/milyonlarin-sevdigi-oyuncu-aski-icin-din-degistiriyor-p367017",
+     "title": "Milyonların sevdiği oyuncu aşkı için din değiştiriyor",
+     "snippet": "Milyonların sevdiği oyuncu Sydney Sweeney'nin sevgilisi Scooter Braun ile kurmak istediği aile için din değiştireceği id...",
+     "published": "2026-10-07T12:30:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": "9d0f5e36bfd1",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/10-yillik-ikinci-evliligi-de-bitmisti-sonunda-aradigi-sevgiliyi-buldu-sabahin-korunde-parkta-romantizm-43332376",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "10 yıllık ikinci evliliği de bitmişti... Sonunda aradığı sevgiliyi buldu... Sabahın köründe parkta romantizm",
+   "snippet": "İlk evliliğini daha gencecik yaşında yapmıştı ünlü oyuncu ve şarkıcı... Ama sonradan itiraf ettiğine göre bu kadar erken yuva kurmak ne ona ne de eski kocasına yaradı... Kendi deyişiyle \"tecrübesizlik\" bu evliliğin sonunu getirdi.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac5fd70fc033b5a8af9ee5f.jpg",
+   "video": null,
+   "published": "2026-10-07T12:02:47.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/10-yillik-ikinci-evliligi-de-bitmisti-sonunda-aradigi-sevgiliyi-buldu-sabahin-korunde-parkta-romantizm-43332376",
+     "title": "10 yıllık ikinci evliliği de bitmişti... Sonunda aradığı sevgiliyi buldu... Sabahın köründe parkta romantizm",
+     "snippet": "İlk evliliğini daha gencecik yaşında yapmıştı ünlü oyuncu ve şarkıcı... Ama sonradan itiraf ettiğine göre bu kadar erken yuva kurmak ne ona ne de eski kocasına yaradı... Kendi deyişiyle \"tecrübesizlik\" bu evliliğin sonunu getirdi.",
+     "published": "2026-10-07T12:02:47.000Z"
+    }
+   ]
+  },
+  {
+   "id": "db2c03660586",
+   "url": "https://www.haberturk.com/magazin/foto/dilber-ay-in-esi-ibrahim-karakas-evlendi-3917909",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Dilber Ay'ın eşi evlendi",
+   "snippet": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın, İzmirli estetisyen Müge Zopun ile evlendiği ortaya çıktı",
+   "image": "https://im.haberturk.com/l/2026/10/07/ver1791371496/3917909/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-07T11:36:49.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/dilber-ay-in-esi-ibrahim-karakas-evlendi-3917909",
+     "title": "Dilber Ay'ın eşi evlendi",
+     "snippet": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın, İzmirli estetisyen Müge Zopun ile evlendiği ortaya çıktı",
+     "published": "2026-10-07T11:36:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": "4272a856afa4",
+   "url": "https://www.sozcu.com.tr/vefat-eden-ece-irtem-in-babasina-soyledigi-son-sozleri-yurekleri-burktu-p366981",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Vefat eden Ece İrtem'in babasına söylediği son sözleri yürekleri burktu",
+   "snippet": "“Kızılcık Şerbeti” dizisinde Işıl karakterini canlandıran Ece İrtem'in ani ölümü ailesini yasa boğdu. Acılı anne ve baba...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/167jpg-Aoh7OQz6BEOF4LKCJFznoQ.jpg",
+   "video": null,
+   "published": "2026-10-07T11:07:31.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "kizilcik-serbeti"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/vefat-eden-ece-irtem-in-babasina-soyledigi-son-sozleri-yurekleri-burktu-p366981",
+     "title": "Vefat eden Ece İrtem'in babasına söylediği son sözleri yürekleri burktu",
+     "snippet": "“Kızılcık Şerbeti” dizisinde Işıl karakterini canlandıran Ece İrtem'in ani ölümü ailesini yasa boğdu. Acılı anne ve baba...",
+     "published": "2026-10-07T11:07:31.000Z"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/ece-irtemin-olmeden-once-babasina-soyledigi-sozler-kahretti-beni-topraga-sen-koyacaksin-7674964",
+     "title": "Ece İrtem’in ölmeden önce babasına söylediği sözler kahretti: Beni toprağa sen koyacaksın",
+     "snippet": "“Kızılcık Şerbeti” dizisinde hayat verdiği Işıl karakteriyle tanınan Ece İrtem, 15 Haziran’da Kadıköy’deki evinde hayatını kaybetmişti. Oyuncunun ani ölümü ailesini ve sevenlerini yasa boğarken, anne ve babası ilk kez kameraların karşısına geçerek kızlarının son günlerinde yaşananları anlattı. BABAS",
+     "published": "2026-10-07T12:53:24.000Z"
+    }
+   ],
+   "mergedIds": [
+    "9ef17c5c2383"
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/167jpg-Aoh7OQz6BEOF4LKCJFznoQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/167jpg-Aoh7OQz6BEOF4LKCJFznoQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/vural-irtemjpg-Dli9WfS1r0qyEZdVOPFUFg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ece-irtem-annesijpg-Ug7V_UUzSEeWPWJlL8XNNQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac63518d83705fac6ede081png-yZt6KZSackm7TW25A9KOYw.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "64b954e20e1e",
+   "url": "https://www.hurriyet.com.tr/kelebek/magazin/tadilatina-servet-doktugu-malikanesini-zararina-satti-karisini-ve-cocuklarini-alip-fransaya-yerlesti-43332502",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Tadilatına servet döktüğü malikanesini zararına sattı… Karısını ve çocuklarını alıp Fransa’ya yerleşti",
+   "snippet": "Aslında oyunculuğa çok daha erken başlamıştı… Ama rol aldığı ekran tarihinin gelmiş geçmiş en sevilen dizilerinden biriyle dünya yıldızı oldu.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac618ecfc033b5a8af9efc9.jpg",
+   "video": null,
+   "published": "2026-10-07T10:12:13.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/tadilatina-servet-doktugu-malikanesini-zararina-satti-karisini-ve-cocuklarini-alip-fransaya-yerlesti-43332502",
+     "title": "Tadilatına servet döktüğü malikanesini zararına sattı… Karısını ve çocuklarını alıp Fransa’ya yerleşti",
+     "snippet": "Aslında oyunculuğa çok daha erken başlamıştı… Ama rol aldığı ekran tarihinin gelmiş geçmiş en sevilen dizilerinden biriyle dünya yıldızı oldu.",
+     "published": "2026-10-07T10:12:13.000Z"
+    }
+   ]
+  },
+  {
+   "id": "392da5156313",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/yasilcamin-altin-cocukuna-veda-goksel-arsoy-son-yolculuguna-ugurlaniyor-43332571",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Yeşilçam'ın 'Altın Çocuk'una veda... Göksel Arsoy son yolculuğuna uğurlandı",
+   "snippet": "5 Ekim'de hayatını kaybeden Türk sinemasının unutulmaz isimlerinden Göksel Arsoy bugün son yolculuğuna uğurlandı.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac61538983ec8bbc11757db.jpg",
+   "video": null,
+   "published": "2026-10-07T09:47:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/yasilcamin-altin-cocukuna-veda-goksel-arsoy-son-yolculuguna-ugurlaniyor-43332571",
+     "title": "Yeşilçam'ın 'Altın Çocuk'una veda... Göksel Arsoy son yolculuğuna uğurlandı",
+     "snippet": "5 Ekim'de hayatını kaybeden Türk sinemasının unutulmaz isimlerinden Göksel Arsoy bugün son yolculuğuna uğurlandı.",
+     "published": "2026-10-07T09:47:00.000Z"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/yesilcamin-altin-cocuku-goksel-arsoya-veda-tek-tesellimiz-hic-aci-cekmedi-7675006",
+     "title": "Yeşilçam'ın 'Altın Çocuk'u Göksel Arsoy'a veda: Tek tesellimiz hiç acı çekmedi",
+     "snippet": "Türk sinemasının unutulmaz isimlerinden, Yeşilçam’ın 'Altın Çocuk' lakaplı usta oyuncusu Göksel Arsoy, 90 yaşında hayatını kaybetti. Göksel Arsoy için bugün Barbaros Hayrettin Paşa Camii’nde cenaze töreni düzenlendi. Öğle namazının ardından kılınan cenaze namazı sonrası Arsoy’un cenazesi, Zincirliku",
+     "published": "2026-10-07T13:01:11.000Z"
+    }
+   ],
+   "mergedIds": [
+    "376ee860bf8d"
+   ]
+  },
+  {
+   "id": "4d02b672c203",
+   "url": "https://www.sozcu.com.tr/aleyna-tilki-evlilik-icin-tek-sartini-acikladi-p366961",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Aleyna Tilki evlilik için tek şartını açıkladı",
+   "snippet": "Aleyna Tilki, “Soy” filminin galasında kariyeri ve özel hayatıyla ilgili soruları yanıtladı. Şu anda evlenmeyi düşünmedi...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/502jpg-jhrqiy0KUUiI509sym5EIQ.jpg",
+   "video": null,
+   "published": "2026-10-07T09:38:01.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/aleyna-tilki-evlilik-icin-tek-sartini-acikladi-p366961",
+     "title": "Aleyna Tilki evlilik için tek şartını açıkladı",
+     "snippet": "Aleyna Tilki, “Soy” filminin galasında kariyeri ve özel hayatıyla ilgili soruları yanıtladı. Şu anda evlenmeyi düşünmedi...",
+     "published": "2026-10-07T09:38:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": "0ea327121ab3",
+   "url": "https://www.milliyet.com.tr/magazin/azizin-vedasi-yurekleri-kul-etti-7674880",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Aziz'in vedası yürekleri kül etti",
+   "snippet": "Aziz’in ani ölümü Karlıova Ailesi’nde telafisi olmayan bir yara açtı. Oğlunun ölümünden kendisini sorumlu tutan Sadık’ın yaşadığı vicdan azabı, Kerem Alışık’ın yürek yakan performansıyla adeta hafızalara kazındı. OYNAMADILAR, ADETA YAŞADILAR Mehmet’in yaşadığı büyük kayıp karşısındaki çaresizliği, Nimet’in öfkesi ve Simay’ın yalnızlığı bölüm boyunca yürekleri dağladı. Duyguların en saf haliyle yansıtıldığı sahneler, oyuncuların cenaze sahnelerindeki performansları ve aile fertlerinin acıyla sına",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac60ef90a5e93da6e8a109e.jpg",
+   "video": null,
+   "published": "2026-10-07T09:30:37.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "kerem-alisik"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/azizin-vedasi-yurekleri-kul-etti-7674880",
+     "title": "Aziz'in vedası yürekleri kül etti",
+     "snippet": "Aziz’in ani ölümü Karlıova Ailesi’nde telafisi olmayan bir yara açtı. Oğlunun ölümünden kendisini sorumlu tutan Sadık’ın yaşadığı vicdan azabı, Kerem Alışık’ın yürek yakan performansıyla adeta hafızalara kazındı. OYNAMADILAR, ADETA YAŞADILAR Mehmet’in yaşadığı büyük kayıp karşısındaki çaresizliği, N",
+     "published": "2026-10-07T09:30:37.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac60ef90a5e93da6e8a109e.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac60ef90a5e93da6e8a109e.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "ee5bd12b880a",
+   "url": "https://www.haberturk.com/magazin/oscar-li-oyuncu-eva-marie-saint-102-yasinda-hayatini-kaybetti-3917887",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "102 yaşında hayatını kaybetti",
+   "snippet": "Rol aldığı ilk filmle Oscar ödülü kazanan Eva Marie Saint, 102 yaşında evinde son nefesini verdi",
+   "image": "https://im.haberturk.com/l/2026/10/07/ver1791364733/3917887/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-07T09:22:02.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/oscar-li-oyuncu-eva-marie-saint-102-yasinda-hayatini-kaybetti-3917887",
+     "title": "102 yaşında hayatını kaybetti",
+     "snippet": "Rol aldığı ilk filmle Oscar ödülü kazanan Eva Marie Saint, 102 yaşında evinde son nefesini verdi",
+     "published": "2026-10-07T09:22:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": "e717e544095d",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/neslihan-acardan-kadir-inanirin-mirasiyla-ilgili-yeni-aciklama-43332452",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Neslihan Acar’dan Kadir İnanır’ın mirasıyla ilgili açıklama",
+   "snippet": "Kadir İnanır’ın vasiyeti üzerinden eski eşi Levent İnanır’la karşı karşıya gelen oyuncu Neslihan Acar, yaşanan tartışmalarla ilgili yeniden konuştu. Acar, “Herkes gibi fikrimi söyledim” dedi.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac60b3bfc033b5a8af9ef2f.jpg",
+   "video": null,
+   "published": "2026-10-07T09:05:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/neslihan-acardan-kadir-inanirin-mirasiyla-ilgili-yeni-aciklama-43332452",
+     "title": "Neslihan Acar’dan Kadir İnanır’ın mirasıyla ilgili açıklama",
+     "snippet": "Kadir İnanır’ın vasiyeti üzerinden eski eşi Levent İnanır’la karşı karşıya gelen oyuncu Neslihan Acar, yaşanan tartışmalarla ilgili yeniden konuştu. Acar, “Herkes gibi fikrimi söyledim” dedi.",
+     "published": "2026-10-07T09:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "2c74b084494d",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/daha-36-yasindayken-hayata-veda-etmisti-meger-birileri-maddi-varligina-da-goz-dikmis-birileri-olumunden-sonra-43332228",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Genç yaşta hayata veda eden oyuncuyla ilgili şok iddia: 'Birileri, ölümünden sonra mücevherlerini rehinciye verdi'",
+   "snippet": "Çocuk denecek yaşta rol aldığı yapımlarla ünlenen Hayden Panettiere, geçen ağustos ayında daha 36 yaşında ölümüyle milyonların yüreğini dağlamıştı.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac5f146fc033b5a8af9edce.jpg",
+   "video": null,
+   "published": "2026-10-07T09:00:00.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/daha-36-yasindayken-hayata-veda-etmisti-meger-birileri-maddi-varligina-da-goz-dikmis-birileri-olumunden-sonra-43332228",
+     "title": "Genç yaşta hayata veda eden oyuncuyla ilgili şok iddia: 'Birileri, ölümünden sonra mücevherlerini rehinciye verdi'",
+     "snippet": "Çocuk denecek yaşta rol aldığı yapımlarla ünlenen Hayden Panettiere, geçen ağustos ayında daha 36 yaşında ölümüyle milyonların yüreğini dağlamıştı.",
+     "published": "2026-10-07T09:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "1a6304cd6d62",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/sihirli-annemin-cileki-saclarini-kisacik-kestirdi-resmen-bambaska-biri-oldum-7674852",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Sihirli Annem’in Çilek’i saçlarını kısacık kestirdi: Resmen bambaşka biri oldum",
+   "snippet": "“Sihirli Annem” dizisindeki Çilek karakteriyle hafızalara kazınan Zeynep Özkaya, uzun saçlarını kestirerek imajını yeniledi. Yeni görünümünü sosyal medya hesabından paylaşan oyuncu, “Resmen bambaşka bir insan oldum” dedi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac607db0a5e93da6e8a1064.jpg",
+   "video": null,
+   "published": "2026-10-07T08:51:30.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/sihirli-annemin-cileki-saclarini-kisacik-kestirdi-resmen-bambaska-biri-oldum-7674852",
+     "title": "Sihirli Annem’in Çilek’i saçlarını kısacık kestirdi: Resmen bambaşka biri oldum",
+     "snippet": "“Sihirli Annem” dizisindeki Çilek karakteriyle hafızalara kazınan Zeynep Özkaya, uzun saçlarını kestirerek imajını yeniledi. Yeni görünümünü sosyal medya hesabından paylaşan oyuncu, “Resmen bambaşka bir insan oldum” dedi.",
+     "published": "2026-10-07T08:51:30.000Z"
+    }
+   ]
+  },
   {
    "id": "695246575d4b",
    "url": "https://www.haberturk.com/magazin/sydney-sweeney-aski-ugruna-din-degistiriyor-3917872",
@@ -5669,6 +6299,14 @@
      "snippet": "Yeşilçam’ın “Altın Çocuk” lakaplı usta oyuncusu Göksel Arsoy, 90 yaşında hayatını kaybetti. Arsoy’un vefatı sanat dünyasında büyük üzüntü yaratırken, dostları ve meslektaşları sosyal medya hesaplarından yaptıkları paylaşımlarla usta oyuncuya veda etti.",
      "published": "2026-10-05T14:30:00.000Z",
      "titleFa": "وداع دوستان و دوستداران با گۆکسل آرصوی..."
+    },
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/oyuncu-goksel-arsoy-a-veda-3917896",
+     "title": "Göksel Arsoy'a veda",
+     "snippet": "Türk sinemasının 'Altın Çocuk' lakaplı usta oyuncusu Göksel Arsoy, son yolculuğuna uğurlandı",
+     "published": "2026-10-07T12:51:54.000Z"
     }
    ],
    "images": [
@@ -5687,7 +6325,11 @@
     "خبر درگذشت این هنرمند باسابقه موجب اندوه فراوان در دنیای هنر شد و اهالی سینما و دوستان وی با انتشار پیام‌هایی در شبکه‌های اجتماعی یاد او را گرامی داشتند و با او وداع کردند."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "mergedIds": [
+    "6d14e432c8c6"
+   ],
+   "regen": true
   },
   {
    "id": "317a7fd69f81",
@@ -10293,494 +10935,6 @@
    "aiTries": 1
   },
   {
-   "id": "9428265c7aa9",
-   "url": "https://www.haberturk.com/magazin/ates-9-ekim-de-sinemalarda-3916871",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "'Ateş' 9 Ekim'de sinemalarda",
-   "snippet": "Savaş Satış'ın yazıp yönettiği ve başrolünü üstlendiği 'Ateş', aksiyon ve dram türündeki yapısıyla 9 Ekim'de vizyona girecek",
-   "image": "https://im.haberturk.com/l/2026/10/02/ver1790971155/3916871/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-04T09:00:53.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/ates-9-ekim-de-sinemalarda-3916871",
-     "title": "'Ateş' 9 Ekim'de sinemalarda",
-     "snippet": "Savaş Satış'ın yazıp yönettiği ve başrolünü üstlendiği 'Ateş', aksiyon ve dram türündeki yapısıyla 9 Ekim'de vizyona girecek",
-     "published": "2026-10-04T09:00:53.000Z",
-     "titleFa": "«آتش» ۹ اکتبر در سینماها"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "فیلم «آتش» با andیشه اکشن و درام ۹ اکتبر اکران می‌شود",
-   "summaryFa": "فیلم سینمایی «آتش» به نویسندگی، کارگردانی و بازیگری Savaş Satış از تاریخ ۹ اکتبر در سینماهای ترکیه روی پرده می‌رود. این اثر داستان مبارزه دادخواهانه یک سرگرد ارتش پس از مرگ مشکوک برادرش را روایت می‌کند.",
-   "bodyFa": [
-    "فیلم جدید و پرجوش‌وخروش «آتش» در ژانر اکشن و درام آماده شده و قرار است از تاریخ ۹ اکتبر در سالن‌های سینما در سراسر ترکیه اکران شود. این اثر سینمایی به تهیه‌کنندگی Streamzy Film Yapım ساخته شده است.",
-    "داستان فیلم درباره‌ی سرگرد آتش، از نیروهای ویژه است که زندگی‌اش پس از کشته شدن برادرش، کمیسر علی، دچار دگرگونی می‌شود. آتش برای کشف ابعاد پنهان این ماجرا وارد یک مبارزه سخت برای عدالت می‌شود و در این مسیر با چالش‌های شغلی و شخصی روبه‌رو می‌گردد.",
-    "نویسندگی، کارگردانی و نقش‌آفرینی اصلی این فیلم بر عهده Savaş Satış است و بازیگرانی همچون Bora Cengiz، Caner Erdem، Bahtiyar Engin، Ayşe Tunaboylu، Emrullah Çakay، Elçin Sonakın و Can Güreler در آن به ایفای نقش پرداخته‌اند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "6ef26e39d773",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/galatasarayli-leminanin-esi-cileden-cikti-bu-davranislari-cok-komik-7672748",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Galatasaraylı Lemina’nın eşi çileden çıktı! Bu davranışları çok komik",
-   "snippet": "Galatasaraylı futbolcu Mario Lemina’nın eşi Fanny Neguesha, İstanbul’da gittiği bir mekanda personelin kendisine hakaret ettiğini öne sürdü. Neguesha, futbolcu eşi olduğunun öğrenilmesinin ardından mekanın tavrının değiştiğini belirterek tepki gösterdi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac20dfb6a20a7c2fa32d5c0.jpg",
-   "video": null,
-   "published": "2026-10-04T08:30:50.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/galatasarayli-leminanin-esi-cileden-cikti-bu-davranislari-cok-komik-7672748",
-     "title": "Galatasaraylı Lemina’nın eşi çileden çıktı! Bu davranışları çok komik",
-     "snippet": "Galatasaraylı futbolcu Mario Lemina’nın eşi Fanny Neguesha, İstanbul’da gittiği bir mekanda personelin kendisine hakaret ettiğini öne sürdü. Neguesha, futbolcu eşi olduğunun öğrenilmesinin ardından mekanın tavrının değiştiğini belirterek tepki gösterdi.",
-     "published": "2026-10-04T08:30:50.000Z",
-     "titleFa": "همسر لمینای گالاتاسرای از کوره در رفت! این رفتارها بسیار خنده‌دار است"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac20dfb6a20a7c2fa32d5c0.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac20dfb6a20a7c2fa32d5c0.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "واکنش همسر ماریو لمینا به رفتار توهین‌آمیز در یک مکان در استانبول",
-   "summaryFa": "فانی نگوشا، همسر ماریو لمینا بازیکن گالاتاسرای، ادعا کرد که در یک مکان در استانبول مورد توهین پرسنل قرار گرفته است. او گفت که رفتار پرسنل پس از پی بردن به اینکه او همسر یک فوتبالیست است، تغییر کرده است.",
-   "bodyFa": [
-    "فانی نگوشا، همسر ماریو لمینا بازیکن تیم فوتبال گالاتاسرای، از برخورد پرسنل یک مکان در استانبول به شدت ابراز نارضایتی کرد و به آن واکنش نشان داد. او ادعا کرده است که در آنجا با رفتارهای توهین‌آمیزی مواجه شده است.",
-    "به گفته نگوشا، پرسنل آن مکان پس از اینکه متوجه شده‌اند او همسر یک فوتبالیست است، رفتار خود را تغییر داده‌اند و این موضوع باعث خشم و اعتراض او شده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "b31ea697ee4b",
-   "url": "https://www.milliyet.com.tr/magazin/icardi-krizinin-ardindan-bir-ilk-wanda-nara-ve-maxi-lopez-buzlari-eritti-7672717",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Icardi krizinin ardından bir ilk! Wanda Nara ve Maxi Lopez buzları eritti",
-   "snippet": "Futbol ve magazin dünyasının en çok konuşulan ilişkilerinden birine imza atan Wanda Nara, Maxi Lopez ve Mauro Icardi üçgeninde yıllardır süren gerilim yerini sürpriz bir uzlaşmaya bıraktı. Sampdoria soyunma odasında başlayan yakın dostluğun, iddialı bir ayrılık ve evlilikle sonuçlanmasının ardından geçen yılların sonunda, Wanda Nara ile Maxi Lopez ortak çocukları için aralarındaki buzları eritti. İlginizi Çekebilir SAMPDORİA SOYUNMA ODASINDAN AİLE DOSTLUĞUNA Hikaye 2008 yılında model Wanda Nara ",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac204846a20a7c2fa32d570.jpg",
-   "video": null,
-   "published": "2026-10-04T07:59:15.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/icardi-krizinin-ardindan-bir-ilk-wanda-nara-ve-maxi-lopez-buzlari-eritti-7672717",
-     "title": "Icardi krizinin ardından bir ilk! Wanda Nara ve Maxi Lopez buzları eritti",
-     "snippet": "Futbol ve magazin dünyasının en çok konuşulan ilişkilerinden birine imza atan Wanda Nara, Maxi Lopez ve Mauro Icardi üçgeninde yıllardır süren gerilim yerini sürpriz bir uzlaşmaya bıraktı. Sampdoria soyunma odasında başlayan yakın dostluğun, iddialı bir ayrılık ve evlilikle sonuçlanmasının ardından ",
-     "published": "2026-10-04T07:59:15.000Z",
-     "titleFa": "پس از بحران ایکاردی برای اولین بار! واندا نارا و ماکسی لوپز یخ‌ها را آب کردند"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac204846a20a7c2fa32d570.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac204846a20a7c2fa32d570.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "آشتی و پایان تنها سال‌ها اختلاف میان واندا نارا و ماکسی لوپز",
-   "summaryFa": "واندا نارا و ماکسی لوپز پس از سال‌ها تنش ناشی از ماجرای مائورو ایکاردی، برای آینده فرزندانشان با یکدیگر آشتی کردند و در یک قاب قرار گرفتند.",
-   "bodyFa": [
-    "واندا نارا و ماکسی لوپز که سال‌ها به خاطر مسائل مربوط به مائورو ایکاردی با یکدیگر اختلاف و جدایی پر سر و صدایی داشتند، سرانجام تنش‌های گذشته را کنار گذاشتند. این رابطه که از دوستی در رکن رختکن سمپدوریا شروع شده بود و به جدایی و ازدواج‌های جنجالی انجامیده بود، اکنون رنگ سازش به خود گرفته است.",
-    "بر اساس اطلاعات منتشر شده، این زوج سابق پس از سال‌ها دوری و تنش، برای آینده فرزندان خود تصمیم گرفتند تا کدورت‌ها را کنار بگذارند و در کنار هم در یک تصویر دیده شوند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "7357e702ee13",
-   "url": "https://www.sozcu.com.tr/gokce-bahadir-dan-yeni-hamilelik-pozu-karni-iyice-belirginlesti-p365977",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Gökçe Bahadır'dan yeni hamilelik pozu: Karnı iyice belirginleşti",
-   "snippet": "İlk kez anne olmaya hazırlanan Gökçe Bahadır, hamileliğinin yaklaşık 6. ayında yeni bir fotoğrafını paylaştı. Gözlerden ...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/665jpg-Q_jcHojGKUm6FEIaQc7OTA.jpg",
-   "video": null,
-   "published": "2026-10-04T07:58:23.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/gokce-bahadir-dan-yeni-hamilelik-pozu-karni-iyice-belirginlesti-p365977",
-     "title": "Gökçe Bahadır'dan yeni hamilelik pozu: Karnı iyice belirginleşti",
-     "snippet": "İlk kez anne olmaya hazırlanan Gökçe Bahadır, hamileliğinin yaklaşık 6. ayında yeni bir fotoğrafını paylaştı. Gözlerden ...",
-     "published": "2026-10-04T07:58:23.000Z",
-     "titleFa": "تصویر جدید از بارداری گوکچه بهادر: شکمش کاملاً برجسته شد"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/665jpg-Q_jcHojGKUm6FEIaQc7OTA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/665jpg-Q_jcHojGKUm6FEIaQc7OTA.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/gokcebahadirrrjpg-WBt9EOt1YU6vGLQ133z5DQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/gokce-bahadirrjpg-vBGUb2X7kEO_srWqs4uguw.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac21a26d83705fac62392f8png-lUWRPOp6ZUWGzQtcoa9J1w.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "تصویر جدید از بارداری گوکچه بهادر: برآمدگی شکم نمایان شد",
-   "summaryFa": "گوکچه بهادر که خود را برای اولین بار برای مادر شدن آماده می‌کند، عکس جدیدی از دوران بارداری خود منتشر کرد. در این تصویر که در آینه ثبت شده، برآمدگی شکم این بازیگر قابل مشاهده است.",
-   "bodyFa": [
-    "گوکچه بهادر، بازیگر ترکیه‌ای که در انتظار به دنیا آوردن اولین فرزند خود است، جدیدترین تصویر از دوران بارداری‌اش را با مخاطبان به اشتراک گذاشت. او که این دوران را به دور از توجه عموم سپری می‌کند، عکسی در مقابل آینه از خود منتشر کرد که در آن بارداری‌اش بیش از پیش نمایان است.",
-    "بر اساس اطلاعات موجود، این بازیگر در حدود ماه ششم بارداری خود به سر می‌برد و تصویر تازه منتشر شده نشان می‌دهد که شکم او به خوبی برجسته شده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "b87074d41d73",
-   "url": "https://www.haberturk.com/magazin/2-aile-arasinda-nin-afis-cekiminden-kamera-arkasi-goruntuleri-yayinda-3917101",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Kamera arkası görüntüleri yayında",
-   "snippet": "'2 Aile Arasında' filminin afişi ve eğlenceli kamera arkası çekimlerinden renkli bir video paylaşıldı",
-   "image": "https://im.haberturk.com/l/2026/10/04/ver1791100116/3917101/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-04T07:54:41.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/2-aile-arasinda-nin-afis-cekiminden-kamera-arkasi-goruntuleri-yayinda-3917101",
-     "title": "Kamera arkası görüntüleri yayında",
-     "snippet": "'2 Aile Arasında' filminin afişi ve eğlenceli kamera arkası çekimlerinden renkli bir video paylaşıldı",
-     "published": "2026-10-04T07:54:41.000Z",
-     "titleFa": "تصاویر پشت صحنه منتشر شد"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار پوستر و ویدیوهای پشت صحنه فیلم «بین دو خانواده»",
-   "summaryFa": "پوستر فیلم سینمایی «بین دو خانواده» به تهیه‌کنندگی BKM و نویسندگی گلسه بیرسل منتشر شد. همچنین ویدیو و تصاویری از پشت صحنه و لحظات مفرح عکاسی بازیگران این اثر در دسترس عموم قرار گرفت.",
-   "bodyFa": [
-    "فیلم سینمایی «بین دو خانواده» به تهیه‌کنندگی BKM، نویسندگی گلسه بیرسل و کارگردانی اوزان آچیکتان، اخیراً با انتشار پوستر رسمی خود توجه مخاطبان را به خود جلب کرده است. این اثر که کاراکترهای به یادماندنی فیلم اول را با بازیگران جدیدی گرد هم آورده، این روزها خبرساز شده است.",
-    "همزمان با انتشار پوستر، ویدیویی رنگی و جذاب از پشت صحنه عکاسی بازیگران این فیلم منتشر شد. در این ویدیو، لحظات مفرح و پرنشاطی از حضور بازیگران مقابل دوربین عکاسی و پوزهای متنوع آن‌ها به نمایش گذاشته شده است که فضای شاد پشت صحنه را روایت می‌کند.",
-    "در فهرست بازیگران پرکار و سرشناس این فیلم نام‌های برجسته‌ای همچون انگین گونایدین، دمت اوگار، اردال اوزیاغجیلار، دوریم یاقوت، آیتا سوزیری، فاتح آرتمن، گلسه بیرسل، دریا کاراداش، شوکت چوروه، دوین اوزگور چınar، دنیز حمزه‌اوغلو، سو کوتلو، اردال سیندوروک، اونال یتر، باتوخان بوزکورت یوزگوله، کادیر چرپیک و یاووز گونال به چشم می‌خورد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "48e241aac311",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/somer-sef-huzurevi-mutfagina-girdi-yaslilarla-birlikte-tuzlu-kek-yapti-7672691",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Somer Şef huzurevi mutfağına girdi! Yaşlılarla birlikte tuzlu kek yaptı",
-   "snippet": "Ünlü şef Somer Sivrioğlu, 1 Ekim Dünya Yaşlılar Günü kapsamında huzurevi sakinleriyle bir araya geldi. “İyilik Var” projesi kapsamında mutfağa giren Sivrioğlu, birlikte tuzlu kek hazırladı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac2007a6a20a7c2fa32d54c.jpg",
-   "video": null,
-   "published": "2026-10-04T07:32:29.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/somer-sef-huzurevi-mutfagina-girdi-yaslilarla-birlikte-tuzlu-kek-yapti-7672691",
-     "title": "Somer Şef huzurevi mutfağına girdi! Yaşlılarla birlikte tuzlu kek yaptı",
-     "snippet": "Ünlü şef Somer Sivrioğlu, 1 Ekim Dünya Yaşlılar Günü kapsamında huzurevi sakinleriyle bir araya geldi. “İyilik Var” projesi kapsamında mutfağa giren Sivrioğlu, birlikte tuzlu kek hazırladı.",
-     "published": "2026-10-04T07:32:29.000Z",
-     "titleFa": "سرآشپز سومر وارد آشپزخانه سرای سالمندان شد! او همراه با سالمندان کیک نمکی پخت"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac2007a6a20a7c2fa32d54c.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac2007a6a20a7c2fa32d54c.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "حضور سرآشپز سومر سیوری‌اوغلو در آشپزخانه سرای سالمندان",
-   "summaryFa": "سرآشپز مشهور سومر سیوری‌اوغلو به مناسبت روز جهانی سالمندان با ساکنان سرای سالمندان دیدار کرد. او در چارچوب پروژه «نیکی وجود دارد» همراه با سالمندان کیک نمکی پخت.",
-   "bodyFa": [
-    "سرآشپز معروف، سومر سیوری‌اوغلو، به مناسبت اول اکتبر، روز جهانی سالمندان، در سرای سالمندان حضور یافت و با ساکنان آنجا دیدار کرد.",
-    "او در چارچوب پروژه «نیکی وجود دارد» وارد آشپزخانه شد و به همراه سالمندان اقدام به تهیه و پخت کیک نمکی کرد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "d5b6438a60d7",
-   "url": "https://www.haberturk.com/magazin/elon-musk-cocuklarinin-annesi-shivon-zilis-ile-iliskisini-gerekce-belirtmeden-bitirdi-3917081",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Birden bire ayrıldı",
-   "snippet": "Elon Musk'ın 14 çocuğundan dördünün annesi olan Shivon Zilis, teknoloji girişimcisinin hiçbir açıklama yapmadan kendisinden ayrıldığını duyurdu. Zilis, \"Bir hafta içinde, hiçbir uyarı olmadan aşık olmaktan vazgeçmeye geçmek zor, ama bazen böyle oluyor işte\" sözlerini kullandı",
-   "image": "https://im.haberturk.com/l/2026/10/04/ver1791097300/3917081/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-04T07:21:52.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/elon-musk-cocuklarinin-annesi-shivon-zilis-ile-iliskisini-gerekce-belirtmeden-bitirdi-3917081",
-     "title": "Birden bire ayrıldı",
-     "snippet": "Elon Musk'ın 14 çocuğundan dördünün annesi olan Shivon Zilis, teknoloji girişimcisinin hiçbir açıklama yapmadan kendisinden ayrıldığını duyurdu. Zilis, \"Bir hafta içinde, hiçbir uyarı olmadan aşık olmaktan vazgeçmeye geçmek zor, ama bazen böyle oluyor işte\" sözlerini kullandı",
-     "published": "2026-10-04T07:21:52.000Z",
-     "titleFa": "به طور ناگهانی جدا شد"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "جدایی شیوون زیلیس از ایلان ماسک",
-   "summaryFa": "شیوون زیلیس اعلام کرد که ایلان ماسک بدون هیچ هشدار قبلی رابطه پنج ساله خود با او را پایان داده است. زیلیس تصریح کرد که ایلان ماسک پیام‌هایی را در تاریخ ۲۴ سپتامبر برای او ارسال کرده است.",
-   "bodyFa": [
-    "شیوون زیلیس، مادر چهار تن از فرزندان ایلان ماسک، اعلام کرد که این کارآفرین حوزه فناوری بدون هیچ‌گونه هشدار قبلی از او جدا شده است. این زوج به مدت پنج سال با یکدیگر رابطه داشتند و زیلیس برای اعلام این خبر از شبکه اجتماعی ایکس استفاده کرد.",
-    "زیلیس در توضیحات خود تصویر صفحه نمایش پیام‌های ارسالی ماسک در تاریخ ۲۴ سپتامبر را منتشر کرد و بیان داشت که گذشتن از عشق به بی‌تفاوت شدن طی یک هفته کار دشواری است. او همچنین بر این موضوع تأکید کرد که همچنان احساسات عمیقی نسبت به ایلان ماسک دارد و تلاش کرده است تا پناهگاهی امن و سرشار از آرامش برای او فراهم کند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "5bd97adfe8d4",
-   "url": "https://www.sozcu.com.tr/itir-esen-den-eyfel-de-aile-fotografi-mutlu-gununden-yeni-kareler-p365968",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Itır Esen'den Eyfel'de aile fotoğrafı: Mutlu gününden yeni kareler",
-   "snippet": "Oyuncu Itır Esen ile menajer Engin Aykanat, geçtiğimiz günlerde Paris'te dünyaevine girdi. Evliliğin ardından yeni fotoğ...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/itiresenjpg-V4X8issX2kKoCcgfJPvMZA.jpg",
-   "video": null,
-   "published": "2026-10-04T07:21:11.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/itir-esen-den-eyfel-de-aile-fotografi-mutlu-gununden-yeni-kareler-p365968",
-     "title": "Itır Esen'den Eyfel'de aile fotoğrafı: Mutlu gününden yeni kareler",
-     "snippet": "Oyuncu Itır Esen ile menajer Engin Aykanat, geçtiğimiz günlerde Paris'te dünyaevine girdi. Evliliğin ardından yeni fotoğ...",
-     "published": "2026-10-04T07:21:11.000Z",
-     "titleFa": "عکس خانوادگی ایتیر اسن در ایفل: تصاویر جدید از روز شاد او"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/itiresenjpg-V4X8issX2kKoCcgfJPvMZA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/itiresenjpg-V4X8issX2kKoCcgfJPvMZA.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/itir-esenden-eyfelde-aile-fotografi-mutlu-gununden-yeni-kareler-4jpg-9Us4bh1SrEi8GWARC8aCqg.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/itir-esenden-eyfelde-aile-fotografi-mutlu-gununden-yeni-kareler-7jpg-1vFtRy1x206kvmZgTvkPJg.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/itir-esenden-eyfelde-aile-fotografi-mutlu-gununden-yeni-kareler-6jpg-ZDRht_cjt0SPmfvepI1QPQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/itir-esenden-eyfelde-aile-fotografi-mutlu-gununden-yeni-kareler-5jpg-S6Zetmb5FkW0npgMg9guQQ.jpg"
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار عکس‌های جدید از عروسی ایتیر اسن و انگین آیقانات در پاریس",
-   "summaryFa": "ایتیر اسن و انگین آیقانات اخیراً در پاریس ازدواج کردند و عکس‌های جدیدی از مراسم خود را به اشتراک گذاشتند.",
-   "bodyFa": [
-    "بازیگر ایتیر اسن و مدیر برنامه‌ها انگین آیقانات اخیراً در شهر پاریس با یکدیگر ازدواج کردند. این زوج مراسم ازدواج خود را با حضور خانواده‌ها و نزدیکانشان برگزار کرده بودند.",
-    "پس از برگزاری این مراسم، ایتیر اسن تصاویر جدیدی از روز شاد خود را در حساب کاربری شبکه‌های اجتماعی‌اش به اشتراک گذاشت که شامل یک عکس خانوادگی در مقابل برج ایفل نیز می‌شود."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "cb2b4855b872",
-   "url": "https://www.milliyet.com.tr/magazin/murat-kekilli-sahneye-cikti-nigdede-muzik-ziyafeti-yasandi-7672665",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Murat Kekilli sahneye çıktı, Niğde’de müzik ziyafeti yaşandı",
-   "snippet": "Niğde Valiliğinin yanında kurulan festival alanında düzenlenen konserde sahne alan Kekilli, müzikseverlerle buluştu. Kekilli, konserde sevilen şarkılarını seslendirdi. Alanı dolduran vatandaşlar, sanatçının seslendirdiği şarkılara eşlik etti. Konser boyunca sanatçının performansını görüntüleyen vatandaşlar, müzik eşliğinde eğlenceli bir akşam geçirdi. Göksel’den olay yaratan sözler! ‘Erkeklerden uzak duracaksın’",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac1f78a6a20a7c2fa32d50f.jpg",
-   "video": null,
-   "published": "2026-10-04T06:52:07.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/murat-kekilli-sahneye-cikti-nigdede-muzik-ziyafeti-yasandi-7672665",
-     "title": "Murat Kekilli sahneye çıktı, Niğde’de müzik ziyafeti yaşandı",
-     "snippet": "Niğde Valiliğinin yanında kurulan festival alanında düzenlenen konserde sahne alan Kekilli, müzikseverlerle buluştu. Kekilli, konserde sevilen şarkılarını seslendirdi. Alanı dolduran vatandaşlar, sanatçının seslendirdiği şarkılara eşlik etti. Konser boyunca sanatçının performansını görüntüleyen vata",
-     "published": "2026-10-04T06:52:07.000Z",
-     "titleFa": "مراد ککیلی روی صحنه رفت، ضیافت موسیقی در نیغده رقم خورد"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac1f78a6a20a7c2fa32d50f.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac1f78a6a20a7c2fa32d50f.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "برگزاری کنسرت مراد ککیلی در ششمین جشنواره غذا و آشپزی نیغده",
-   "summaryFa": "مراد ککیلی در جریان ششمین جشنواره غذا و آشپزی در استان نیغده روی صحنه رفت و ترانه‌های محبوب خود را اجرا کرد. این کنسرت با استقبال دوستداران موسیقی همراه شد.",
-   "bodyFa": [
-    "در جریان برگزاری ششمین جشنواره غذا و آشپزی در استان نیغده، مراد ککیلی، خواننده ترکیه‌ای، روی صحنه رفت و اجراهایی برای علاقه‌مندان به موسیقی ارائه داد. این برنامه در محوطه ویژه جشنواره که در کنار ساختمان استانداری نیغده برپا شده بود، برگزار گردید.",
-    "در این رویداد، حاضران در محل جشنواره ترانه‌های شناخته‌شده این هنرمند را با او همخوانی کردند و به ثبت تصاویر و اجراهای وی پرداختند تا شبی ماندگار برای طرفداران موسیقی رقم بخورد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "47d132a308c0",
-   "url": "https://www.haberturk.com/magazin/foto/gokce-bahadir-dan-hamilelik-pozu-3917084",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Gökçe'nin heyecanı büyüyor",
-   "snippet": "Müzisyen eşi Emir Ersoy ile ilk çocuklarını kucaklarına almaya hazırlanan oyuncu Gökçe Bahadır'dan yeni fotoğraf geldi",
-   "image": "https://im.haberturk.com/l/2026/10/04/ver1791096598/3917084/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-04T06:51:10.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/gokce-bahadir-dan-hamilelik-pozu-3917084",
-     "title": "Gökçe'nin heyecanı büyüyor",
-     "snippet": "Müzisyen eşi Emir Ersoy ile ilk çocuklarını kucaklarına almaya hazırlanan oyuncu Gökçe Bahadır'dan yeni fotoğraf geldi",
-     "published": "2026-10-04T06:51:10.000Z",
-     "titleFa": "هیجان گوکچه بیشتر می‌شود"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "عکس جدید گوکچه بهادر با بارداری آشکار",
-   "summaryFa": "گوکچه بهادر، بازیگر ترک که با همسرش امیر ارسوی در انتظار تولد نخستین فرزندشان است، عکس جدیدی از دوران بارداری خود منتشر کرد. او که حدود ۶ ماهه باردار است، ترجیح می‌دهد این دوران را به دور از حواس‌پرتی‌های رسانه‌ای سپری کند.",
-   "bodyFa": [
-    "گوکچه بهادر، بازیگر سرشناس، و همسرش امیر ارسوی که در سال ۲۰۲۲ با یکدیگر ازدواج کرده بودند، این روزها در حال و هوای انتظار برای به دنیا آمدن نخستین فرزند خود به سر می‌برند. این بازیگر که حدود شش ماه از بارداری‌اش می‌گذرد، ترجیح داده است این روند را به دور از انظار عمومی و آرامش‌بخش طی کند.",
-    "به تازگی، تصویری جدید از این بازیگر منتشر شده که در آن برجستگی شکمش به وضوح دیده می‌شود. وی این عکس را در مقابل آینه ثبت و منتشر کرده است.",
-    "شایان ذکر است که او پیش‌تر درباره تجربه مادری سخن گفته و آن را موقعیتی بسیار ویژه دانسته و تأکید کرده بود که «کودک زیباترین چیز در دنیاست»."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "3b51b325de61",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/gokselden-olay-yaratan-sozler-erkeklerden-uzak-duracaksin-7672658",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Göksel’den olay yaratan sözler! ‘Erkeklerden uzak duracaksın’",
-   "snippet": "Sahne öncesi kuliste kraker yiyen Göksel, kendisine yapılan uyarı sonrası verdiği esprili yanıtla sosyal medyanın gündemine oturdu. Ünlü şarkıcının “Miden bulanıyorsa erkeklerden uzak duracaksın” sözleri dikkat çekti.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac1f1156a20a7c2fa32d4e2.jpg",
-   "video": null,
-   "published": "2026-10-04T06:26:17.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/gokselden-olay-yaratan-sozler-erkeklerden-uzak-duracaksin-7672658",
-     "title": "Göksel’den olay yaratan sözler! ‘Erkeklerden uzak duracaksın’",
-     "snippet": "Sahne öncesi kuliste kraker yiyen Göksel, kendisine yapılan uyarı sonrası verdiği esprili yanıtla sosyal medyanın gündemine oturdu. Ünlü şarkıcının “Miden bulanıyorsa erkeklerden uzak duracaksın” sözleri dikkat çekti.",
-     "published": "2026-10-04T06:26:17.000Z",
-     "titleFa": "اظهارات جنجالی گوکسل! «از مردان دور خواهی ماند»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac1f1156a20a7c2fa32d4e2.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac1f1156a20a7c2fa32d4e2.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "سخنان شوخ‌طبعانه گوکسل، خواننده ترکیه‌ای، در پشت صحنه خبرساز شد",
-   "summaryFa": "گوکسل، خواننده مشهور، با پاسخ طنزآمیزش در پشت صحنه قبل از اجرا، توجه کاربران شبکه‌های اجتماعی را جلب کرد.",
-   "bodyFa": [
-    "گوکسل، خواننده مطرح، پیش از رفتن روی صحنه و هنگام خوردن بیسکویت در پشت صحنه، پس از دریافت یک هشدار، پاسخی شوخ‌طبعانه داد.",
-    "او گفت: «اگر حالت تهوع داری باید از مردان دور بمانی.» این اظهارات طنزآمیز این خواننده به سرعت در شبکه‌های اجتماعی بازتاب یافت و مورد توجه قرار گرفت."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
    "id": "cd6e5d347213",
    "url": "https://www.sozcu.com.tr/somer-sef-luks-mekanini-kebapciya-cevirdi-p365900",
    "source": "sozcu-magazin",
@@ -10830,129 +10984,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "f20a8b0f876a",
-   "url": "https://www.sozcu.com.tr/hazar-erguclu-odul-almak-icin-ciktigi-sahnede-isyan-etti-p365927",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Hazar Ergüçlü ödül almak için çıktığı sahnede isyan etti",
-   "snippet": "Hazar Ergüçlü, 33. Uluslararası Adana Altın Koza Film Festivali’nde En İyi Kadın Oyuncu Ödülü’nü aldı. Ödül konuşmasında...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/hazarerguclujpg-7UcbHuz-EEa9rrKk7zO7KQ.jpg",
-   "video": null,
-   "published": "2026-10-04T06:02:30.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/hazar-erguclu-odul-almak-icin-ciktigi-sahnede-isyan-etti-p365927",
-     "title": "Hazar Ergüçlü ödül almak için çıktığı sahnede isyan etti",
-     "snippet": "Hazar Ergüçlü, 33. Uluslararası Adana Altın Koza Film Festivali’nde En İyi Kadın Oyuncu Ödülü’nü aldı. Ödül konuşmasında...",
-     "published": "2026-10-04T06:02:30.000Z",
-     "titleFa": "اعتراض هزار ارگوچلو روی صحنه هنگام دریافت جایزه"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/hazarerguclujpg-7UcbHuz-EEa9rrKk7zO7KQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/hazarerguclujpg-7UcbHuz-EEa9rrKk7zO7KQ.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/hazar-erguclujpg-HYZIS6hJOUK3b6GcGKvwWQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/maasjpg-CaKTbvB8jUyfesAEp6iSsg.JPG?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/trumpsozjpg-lNfddxzKVU2lZu9ENc3Qzg.jpg?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "هزار ارگوچلو جایزه بهترین بازیگر زن را در جشنواره فیلم آدانا دریافت کرد",
-   "summaryFa": "هزار ارگوچلو در سی و سومین جشنواره بین‌المللی فیلم پیله طلایی آدانا برنده جایزه بهترین بازیگر زن شد. سخنان او روی صحنه در یادبود معدنچی جان‌باخته در سوما توجهات را به خود جلب کرد.",
-   "bodyFa": [
-    "هزار ارگوچلو، بازیگر شناخته‌شده، در سی و سومین دوره از جشنواره بین‌المللی فیلم پیله طلایی آدانا به عنوان برنده جایزه بهترین بازیگر زن انتخاب شد و برای دریافت جایزه خود به روی صحنه رفت.",
-    "این بازیگر در جریان سخنرانی خود پس از دریافت جایزه، از معدنچی جان‌باخته در حادثه سوما و فرزندان به جا مانده از او یاد کرد. صحبت‌های او روی صحنه و واکنش وی بازتاب زیادی در رسانه‌ها داشته است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "fd98612c0596",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/melek-mosso-miguelle-sefilligi-seviyoruz-43328874",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Melek Mosso: Miguel’le sefilliği seviyoruz",
-   "snippet": "Melek Mosso, İspanyol sevgilisi Miguel’le ilişkisini anlattı. Birlikte kamp yaptıklarını söyleyen şarkıcı, “Çadır kuruyor, ateşimizi yakıyor, yemeğimizi yapıyoruz. Sefilliği seviyoruz yani. Dağın taşın içinde sabah kalkmak bize çok iyi geliyor” dedi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac1e6ae83386a49177b21ad.jpg",
-   "video": null,
-   "published": "2026-10-04T05:40:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/melek-mosso-miguelle-sefilligi-seviyoruz-43328874",
-     "title": "Melek Mosso: Miguel’le sefilliği seviyoruz",
-     "snippet": "Melek Mosso, İspanyol sevgilisi Miguel’le ilişkisini anlattı. Birlikte kamp yaptıklarını söyleyen şarkıcı, “Çadır kuruyor, ateşimizi yakıyor, yemeğimizi yapıyoruz. Sefilliği seviyoruz yani. Dağın taşın içinde sabah kalkmak bize çok iyi geliyor” dedi.",
-     "published": "2026-10-04T05:40:00.000Z",
-     "titleFa": "ملک موسو: من و میگل عاشق زندگی ساده و سختی کشیدن هستیم"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac1e6ae83386a49177b21ad.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac1e6ae83386a49177b21ad.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3646",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3646",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3646",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3646"
-   ],
-   "mediaDone": true,
-   "titleFa": "صحبت‌های ملک موسو درباره کمپینگ و زندگی در طبیعت همراه با میگل",
-   "summaryFa": "ملک موسو با اشاره به رابطه‌اش با میگل اعلام کرد که آن‌ها به کمپینگ علاقه دارند و از تجربه زندگی ساده در طبیعت لذت می‌برند.",
-   "bodyFa": [
-    "ملک موسو، خواننده شناخته‌شده، درباره رابطه‌اش با نامزد اسپانیایی خود به نام میگل صحبت کرد و از علاقه مشترکشان به وقت‌گذرانی و اقامت در دل طبیعت گفت.",
-    "او با اشاره به اینکه آن‌ها با یکدیگر به کمپینگ می‌روند، توضیح داد که چادر برپا می‌کنند، آتش روشن کرده و غذایشان را خودشان درست می‌کنند. این خواننده بیان کرد که از این سبک زندگی بی‌پیرایه و ساده لذت می‌برند و بیدار شدن در طبیعت و میان کوه‌ها حس بسیار خوبی به آن‌ها می‌بخشد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "6a064bbe24bd",
-   "url": "https://www.sozcu.com.tr/semiramis-pekkan-in-mutlu-gunu-oglu-zoran-lalvani-sessiz-sedasiz-evlendi-p365913",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Semiramis Pekkan'ın mutlu günü: Oğlu Zoran Lalvani sessiz sedasız evlendi",
-   "snippet": "Semiramis Pekkan'ın Gulu Lalvani ile evliliğinden dünyaya gelen oğlu Zoran Lalvani, hayatını Zoe Springer ile birleştird...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/semiramis-pekkanin-mutlu-gunu-oglu-zoran-lalvani-sessiz-sedasiz-evlendi-1png-gCth_W9tyEe4f8xsBfoUhQ.png",
-   "video": null,
-   "published": "2026-10-04T05:26:04.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/semiramis-pekkan-in-mutlu-gunu-oglu-zoran-lalvani-sessiz-sedasiz-evlendi-p365913",
-     "title": "Semiramis Pekkan'ın mutlu günü: Oğlu Zoran Lalvani sessiz sedasız evlendi",
-     "snippet": "Semiramis Pekkan'ın Gulu Lalvani ile evliliğinden dünyaya gelen oğlu Zoran Lalvani, hayatını Zoe Springer ile birleştird...",
-     "published": "2026-10-04T05:26:04.000Z"
-    }
-   ]
   },
   {
    "id": "59c20e3bbae3",
