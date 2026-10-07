@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T10:23:49.838Z",
+  "updatedAt": "2026-10-07T14:17:30.709Z",
   "metric": "Rating %",
   "windowDays": 120,
   "source": {
@@ -27,6 +27,233 @@
     }
   },
   "days": [
+    {
+      "date": "06.10.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 5.44,
+            "share": 15.91
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 5.23,
+            "share": 38.78
+          },
+          {
+            "rank": 3,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 4.83,
+            "share": 14.54
+          },
+          {
+            "rank": 4,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.98,
+            "share": 20.14
+          },
+          {
+            "rank": 5,
+            "program": "ANNE YARISI",
+            "network": "NOW",
+            "rating": 3.81,
+            "share": 10.99
+          },
+          {
+            "rank": 6,
+            "program": "TUZLU KAHVE (OZET)",
+            "network": "STAR TV",
+            "rating": 3.81,
+            "share": 11.06
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 3.35,
+            "share": 11.68
+          },
+          {
+            "rank": 8,
+            "program": "HAYSIYET (OZET)",
+            "network": "KANAL D",
+            "rating": 3.33,
+            "share": 9.75
+          },
+          {
+            "rank": 9,
+            "program": "MEHMED FETIHLER SULTANI",
+            "network": "TRT 1",
+            "rating": 3.12,
+            "share": 9.21
+          },
+          {
+            "rank": 10,
+            "program": "A.B.I.",
+            "network": "ATV",
+            "rating": 3.04,
+            "share": 9.23
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 6.76,
+            "share": 20.82
+          },
+          {
+            "rank": 2,
+            "program": "TUZLU KAHVE (OZET)",
+            "network": "STAR TV",
+            "rating": 4.53,
+            "share": 14.42
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4,
+            "share": 34.24
+          },
+          {
+            "rank": 4,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 3.43,
+            "share": 10.88
+          },
+          {
+            "rank": 5,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.01,
+            "share": 10.07
+          },
+          {
+            "rank": 6,
+            "program": "MEHMED FETIHLER SULTANI",
+            "network": "TRT 1",
+            "rating": 2.82,
+            "share": 8.77
+          },
+          {
+            "rank": 7,
+            "program": "ANNE YARISI",
+            "network": "NOW",
+            "rating": 2.65,
+            "share": 8.05
+          },
+          {
+            "rank": 8,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.53,
+            "share": 10.04
+          },
+          {
+            "rank": 9,
+            "program": "HAYSIYET (OZET)",
+            "network": "KANAL D",
+            "rating": 2.35,
+            "share": 7.61
+          },
+          {
+            "rank": 10,
+            "program": "ANNE YARISI (OZET)",
+            "network": "NOW",
+            "rating": 2.29,
+            "share": 7.1
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 7.57,
+            "share": 20.71
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 5.54,
+            "share": 39.68
+          },
+          {
+            "rank": 3,
+            "program": "TUZLU KAHVE (OZET)",
+            "network": "STAR TV",
+            "rating": 4.8,
+            "share": 14.12
+          },
+          {
+            "rank": 4,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 4.34,
+            "share": 12.25
+          },
+          {
+            "rank": 5,
+            "program": "ANNE YARISI",
+            "network": "NOW",
+            "rating": 3.38,
+            "share": 9.12
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.23,
+            "share": 11.39
+          },
+          {
+            "rank": 7,
+            "program": "MEHMED FETIHLER SULTANI",
+            "network": "TRT 1",
+            "rating": 3.23,
+            "share": 8.86
+          },
+          {
+            "rank": 8,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.2,
+            "share": 9.55
+          },
+          {
+            "rank": 9,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.99,
+            "share": 16.6
+          },
+          {
+            "rank": 10,
+            "program": "HAYSIYET (OZET)",
+            "network": "KANAL D",
+            "rating": 2.85,
+            "share": 8.5
+          }
+        ]
+      }
+    },
     {
       "date": "05.10.2026",
       "weekday": "",
