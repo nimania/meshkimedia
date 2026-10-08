@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T14:17:30.709Z",
+  "updatedAt": "2026-10-08T09:02:26.668Z",
   "metric": "Rating %",
   "windowDays": 120,
   "source": {
@@ -27,6 +27,233 @@
     }
   },
   "days": [
+    {
+      "date": "07.10.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": 7.81,
+            "share": 24.14
+          },
+          {
+            "rank": 2,
+            "program": "YERALTI",
+            "network": "NOW",
+            "rating": 6.98,
+            "share": 21.71
+          },
+          {
+            "rank": 3,
+            "program": "YERALTI (OZET)",
+            "network": "NOW",
+            "rating": 5.14,
+            "share": 15.71
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.83,
+            "share": 36.57
+          },
+          {
+            "rank": 5,
+            "program": "SEVDAN BIR ATES (OZET)",
+            "network": "SHOW TV",
+            "rating": 4.42,
+            "share": 13.29
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.68,
+            "share": 19.5
+          },
+          {
+            "rank": 7,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.12,
+            "share": 11.3
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.96,
+            "share": 10.86
+          },
+          {
+            "rank": 9,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.62,
+            "share": 9.59
+          },
+          {
+            "rank": 10,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.43,
+            "share": 7.93
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": 7.25,
+            "share": 24.52
+          },
+          {
+            "rank": 2,
+            "program": "YERALTI",
+            "network": "NOW",
+            "rating": 5.99,
+            "share": 20.26
+          },
+          {
+            "rank": 3,
+            "program": "YERALTI (OZET)",
+            "network": "NOW",
+            "rating": 4.16,
+            "share": 14.1
+          },
+          {
+            "rank": 4,
+            "program": "SEVDAN BIR ATES (OZET)",
+            "network": "SHOW TV",
+            "rating": 4.05,
+            "share": 13.31
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.74,
+            "share": 35
+          },
+          {
+            "rank": 6,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.86,
+            "share": 10.13
+          },
+          {
+            "rank": 7,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.86,
+            "share": 12.01
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.41,
+            "share": 15.62
+          },
+          {
+            "rank": 9,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.25,
+            "share": 9.6
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.45,
+            "share": 6.19
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": 8.16,
+            "share": 23.86
+          },
+          {
+            "rank": 2,
+            "program": "YERALTI",
+            "network": "NOW",
+            "rating": 7.24,
+            "share": 21.33
+          },
+          {
+            "rank": 3,
+            "program": "YERALTI (OZET)",
+            "network": "NOW",
+            "rating": 5.56,
+            "share": 17.14
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 5.11,
+            "share": 39.27
+          },
+          {
+            "rank": 5,
+            "program": "SEVDAN BIR ATES (OZET)",
+            "network": "SHOW TV",
+            "rating": 4.52,
+            "share": 13.59
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.49,
+            "share": 13.24
+          },
+          {
+            "rank": 7,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.24,
+            "share": 10.01
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.04,
+            "share": 17.44
+          },
+          {
+            "rank": 9,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.67,
+            "share": 10.26
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.06,
+            "share": 7.91
+          }
+        ]
+      }
+    },
     {
       "date": "06.10.2026",
       "weekday": "",
