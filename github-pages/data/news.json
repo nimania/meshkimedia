@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T14:47:56.312Z",
+ "updated": "2026-10-09T14:54:40.201Z",
  "items": [
   {
    "id": "521ce4c00f54",
@@ -980,6 +980,53 @@
    "aiTries": 1
   },
   {
+   "id": "fb73ab076f45",
+   "url": "https://www.hurriyet.com.tr/kelebek/magazin/bu-ayrilikla-ilgili-bildigimiz-her-sey-yalanmis-eski-karisini-yerin-dibine-soktu-olumle-bogusurken-benimle-alay-etti-bana-43335078",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Bu ayrılıkla ilgili bildiğimiz her şey yalanmış… Eski karısını yerin dibine soktu: Ölümle boğuşurken benimle alay etti, bana sarılmak bile istemedi!",
+   "snippet": "\"Evliliğim bitti çünkü eşim benden daha gençti, çocuk sahibi olmak istiyordu ve ben yaşlı bir anne olmak istemiyordum,\" demiş ve eklemişti: \"Bunun bebek için adil olmadığını düşünüyorum.\"",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8a45cac6b5ddc6b78c74b.jpg",
+   "video": null,
+   "published": "2026-10-09T08:30:48.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/bu-ayrilikla-ilgili-bildigimiz-her-sey-yalanmis-eski-karisini-yerin-dibine-soktu-olumle-bogusurken-benimle-alay-etti-bana-43335078",
+     "title": "Bu ayrılıkla ilgili bildiğimiz her şey yalanmış… Eski karısını yerin dibine soktu: Ölümle boğuşurken benimle alay etti, bana sarılmak bile istemedi!",
+     "snippet": "\"Evliliğim bitti çünkü eşim benden daha gençti, çocuk sahibi olmak istiyordu ve ben yaşlı bir anne olmak istemiyordum,\" demiş ve eklemişti: \"Bunun bebek için adil olmadığını düşünüyorum.\"",
+     "published": "2026-10-09T08:30:48.000Z",
+     "titleFa": "همه چیز درباره این جدایی دروغ بود… همسر سابقش را به شدت کوبید: وقتی با مرگ دست و پنجه نرم می‌کردم مسخره‌ام کرد، حتی نمی‌خواست بغلم کند!"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8a45cac6b5ddc6b78c74b.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac8a45cac6b5ddc6b78c74b.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "جزئیات جدید درباره جدایی و ادعاهای مطرح شده",
+   "summaryFa": "دلیل جدایی این زوج اختلاف بر سر تمایل همسر جوان‌تر به داشتن فرزند و امتناع طرف مقابل از مادر شدن در سن بالا اعلام شده است.",
+   "bodyFa": [
+    "بر اساس اطلاعات منتشر شده، تمام آنچه پیش‌تر درباره این جدایی تصور می‌شد ظاهراً صحت نداشته است. همسر سابق در اظهاراتی ادعا کرده که وقتی او با مرگ دست و پنجه نرم می‌کرده، طرف مقابل با او شوخی کرده و حتی تمایلی به در آغوش کشیدنش نداشته است.",
+    "همچنین علت اصلی پایان ازدواج این بوده که همسر جوان‌تر خواستار فرزند بوده، اما او تمایلی نداشته در سنین بالا مادر شود و این وضعیت را برای نوزاد ناعادلانه می‌دانسته است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
    "id": "a991a0472116",
    "url": "https://www.aa.com.tr/tr/kultur/fantastik-dunyalarin-kurgusal-dilleri-dil-bilimi-calismalarinda-bir-egitim-araci-olarak-kullaniliyor/4083056",
    "source": "aa-kultur",
@@ -1933,6 +1980,46 @@
    "bodyFa": [
     "این بازیگر شناخته‌شده که در کارنامه هنری خود فیلم‌های ماندگار و جوایز فراوانی دارد، زندگی پرجوش و خروشی را پشت سر گذاشته است. او در طول زندگی شخصی خود تجربه‌هایی همچون روابط عاشقانه، فرزنددار شدن، ازدواج و طلاق را داشته است.",
     "اکنون گزارش‌ها حاکی از آن است که این چهره مشهور با فکر کردن به آینده، زمین بسیار بزرگی را خریداری کرده و خود را برای یک زندگی منزوی آماده می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "5bc9ce72b432",
+   "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Necla Uygur vefat etti",
+   "snippet": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti",
+   "image": "https://im.haberturk.com/l/2026/10/08/ver1791524205/3918298/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-09T05:40:31.000Z",
+   "scope": "general",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
+     "title": "Necla Uygur vefat etti",
+     "snippet": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti",
+     "published": "2026-10-09T05:40:31.000Z",
+     "titleFa": "نگلا اویگور درگذشت"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "درگذشت نگلا اویگور، همسر نجات اویگور",
+   "summaryFa": "نگلا اویگور، بازیگر و همسر نجات اویگور، در سن ۸۹ سالگی در بیمارستان درگذشت. خبر درگذشت او توسط پسرش بهه‌زات اویگور اعلام شد.",
+   "bodyFa": [
+    "نگلا اویگور، چهره برجسته و همسر هنرمند فقید نجات اویگور، در سن ۸۹ سالگی و در حالی که تحت درمان بود، در بیمارستان جان خود را از دست داد. این خبر تلخ را بهه‌زات اویگور، یکی از پسران او، در حساب کاربری خود در شبکه‌های اجتماعی به اطلاع عموم رساند.",
+    "بهه‌زات اویگور اعلام کرد که مراسم تشییع جنازه و نماز میت برای نگلا اویگور در تاریخ ۹ اکتبر (جمعه) در مسجدی برگزار خواهد شد و پیکر او پس از اقامه نماز عصر در قبرستان فریکوی به خاک سپرده خواهد شد.",
+    "نگلا اویگور علاوه بر سال‌ها فعالیت تئاتری در کنار همسرش، پس از درگذشت نجات اویگور در سال ۲۰۱۳ نیز به همراه پسرانش سوئیل و بهه‌زات روی صحنه تئاتر رفت و از چهره‌های مهم سنت هنری خانواده اویگور به شمار می‌رفت."
    ],
    "ai": true,
    "aiTries": 1
@@ -3136,7 +3223,8 @@
      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/tuba-kalcik/2026/10/09/dijital-cagda-sahici-bir-iz-birakmanin-onemi",
      "title": "Dijital çağda sahici bir iz bırakmanın önemi",
      "snippet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan'ın TÜRGEV Güzel İşler Fabrikası'nın açılışında çok güzel ve önemli bir konuşma yaptı. 'İz bırakmak' kavramı üzerinden içinde bulunduğumuz dijital... Devamı için tıklayınız",
-     "published": "2026-10-08T15:58:14.000Z"
+     "published": "2026-10-08T15:58:14.000Z",
+     "titleFa": "اهمیت به جا گذاشتن یک ردپای واقعی در عصر دیجیتال"
     }
    ],
    "images": [
@@ -3147,7 +3235,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
     "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/10/09/164x236/09SBH01.jpg?v=25949"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "سخنرانی امینه اردوغان در افتتاحیه کارخانه کارهای خوب تورجف",
+   "summaryFa": "امینه اردوغان همسر رئیس جمهور در مراسم افتتاحیه کارخانه کارهای خوب تورجف سخنرانی مهمی انجام داد. او در این سخنرانی درباره مفهوم به جا گذاشتن اثر در عصر دیجیتال نکاتی را مطرح کرد.",
+   "bodyFa": [
+    "امینه اردوغان، همسر رجب طیب اردوغان رئیس جمهور، در مراسم افتتاحیه کارخانه کارهای خوب تورجف حضور یافت و سخنرانی کرد. او در سخنرانی خود به موضوع مهم و زیبای «به جا گذاشتن اثر» پرداخت.",
+    "وی در این مراسم ارزیابی‌های بسیار مهمی درباره عصر دیجیتالی که در آن زندگی می‌کنیم ارائه داد و به مفهوم ثبت آثار توسط انسان‌ها در طول تاریخ اشاره کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "e0e4ca229097",
@@ -3161,7 +3257,7 @@
    "video": null,
    "published": "2026-10-08T15:55:11.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -3174,7 +3270,8 @@
      "url": "https://www.sabah.com.tr/magazin/annemle-tiyatro-yapacagiz-7676500",
      "title": "Annemle tiyatro yapacağız",
      "snippet": "Oyuncu Fadik Sevin Atasoy, yeni tiyatro projesinde annesiyle aynı sahneyi paylaşacağını açıkladı. Oyuncu, \"Bir yıl sonra annemle karşılıklı oynayacağımız güzel bir oyunumuz var, ona hazırlanıyoruz\" dedi.... Devamı için tıklayınız",
-     "published": "2026-10-08T15:55:11.000Z"
+     "published": "2026-10-08T15:55:11.000Z",
+     "titleFa": "با مادرم تئاتر اجرا خواهیم کرد"
     }
    ],
    "images": [
@@ -3185,7 +3282,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "فadik سوین آتاصوی از اجرای تئاتر مشترک با مادرش خبر داد",
+   "summaryFa": "فadik سوین آتاصوی اعلام کرد که در یک پروژه جدید تئاتر با مادرش هم‌صحنه خواهد شد. او همچنین از داشتن یک پروژه فیلم کوتاه خبر داد.",
+   "bodyFa": [
+    "بازیگر شناخته‌شده، فadik سوین آتاصوی، در تازه‌ترین اظهارات خود از همکاری مشترک با مادرش در عرصه تئاتر خبر داد. او اعلام کرد که آن‌ها در حال آماده‌سازی برای یک نمایش زیبا هستند که قرار است یک سال دیگر به روی صحنه برود و در آن رو در روی یکدیگر به ایفای نقش بپردازند.",
+    "آتاصوی علاوه بر پروژه تئاتر، به داشتن یک پروژه فیلم کوتاه نیز اشاره کرد و توضیحاتی درباره فعالیت‌های هنری پیش روی خود ارائه داد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "7f4b68919032",
@@ -3212,7 +3317,8 @@
      "url": "https://www.sabah.com.tr/magazin/cinlerin-dugunu-6-kasimda-vizyonda-7676497",
      "title": "'Cinlerin Düğünü' 6 Kasım'da vizyonda",
      "snippet": "Uluslararası Film Festivali'nde dünya prömiyeri yapan Ferit Karahan imzalı 'Cinlerin Düğünü', 6 Kasım'da sinemaseverlerle buluşuyor. Aile ilişkileri, geçmişle yüzleşme ve kuşaklar boyunca aktarılan görünmez... Devamı için tıklayınız",
-     "published": "2026-10-08T15:54:05.000Z"
+     "published": "2026-10-08T15:54:05.000Z",
+     "titleFa": "فیلم «عروسی جن‌ها» ۶ نوامبر در سینماها"
     },
     {
      "source": "milliyet-magazin",
@@ -3220,7 +3326,8 @@
      "url": "https://www.milliyet.com.tr/magazin/6-kasimda-vizyonda-7676085",
      "title": "6 Kasım’da vizyonda",
      "snippet": "Toronto Uluslararası Film Festivali’ndeki dünya prömiyerinin ardından Türkiye prömiyerini 63. Uluslararası Antalya Altın Portakal Film Festivali’nde yapmaya hazırlanan Ferit Karahan imzalı proje sinemaseverlerle buluşuyor.",
-     "published": "2026-10-09T04:02:29.000Z"
+     "published": "2026-10-09T04:02:29.000Z",
+     "titleFa": "در تاریخ ۶ نوامبر روی پرده سینما"
     }
    ],
    "mergedIds": [
@@ -3234,7 +3341,40 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اکران فیلم «عروسی جن‌ها» در ششم آبان",
+   "summaryFa": "فیلم «عروسی جن‌ها» به کارگردانی فرید کاراهان در تاریخ ۶ نوامبر اکران می‌شود. بازیگرانی چون دمت اوزدمیر، کان ایلدیریم، ایلهان شن، هلین کاندمیر و سارپ بوزکورت در این اثر نقش‌آفرینی کرده‌اند.",
+   "bodyFa": [
+    "فیلم سینمایی «عروسی جن‌» به کارگردانی فرید کاراهان در تاریخ ۶ نوامبر (۶ آبان) روی پرده سینماها می‌رود. این فیلم که داستان آن پیرامون روابط خانوادگی، روبه‌رو شدن با گذشته و پیوندهای نامرئی میان نسل‌ها در یک روستای آناتولی شکل گرفته، توجه مخاطبان را به خود جلب کرده است.",
+    "بر اساس گزارش‌ها، این اثر پیش‌تر در یک جشنواره بین‌المللی فیلم دارای نمایش جهانی بوده و همچنین قرار است پرده نخست خود در ترکیه را در شصت و سومین جشنواره بین‌المللی فیلم آنتالیا پرتقال طلایی تجربه کند.",
+    "گروهی از بازیگران شناخته‌شده از جمله دمت اوزدمیر، کان ایلدیریم، ایلهان شن، هلین کاندمیر و سارپ بوزکورت در این پروژه به عنوان بازیگران اصلی حضور دارند و به ایفای نقش پرداخته‌اند."
+   ],
+   "comparison": {
+    "agree": [
+     "تاریخ اکران فیلم ۶ نوامبر است.",
+     "کارگردانی اثر بر عهده فرید کاراهان است."
+    ],
+    "differ": [
+     {
+      "topic": "جشنواره‌ها و جزئیات اکران",
+      "views": [
+       {
+        "source": "sabah-magazin",
+        "text": "به اکران جهانی در جشنواره بین‌المللی فیلم اشاره کرده است."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "به پرده نخست در جشنواره بین‌المللی فیلم آنتالیا پرتقال طلایی پس از جشنواره فیلم تورنتو اشاره کرده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": [
+     "اسامی بازیگران فیلم تنها در یک منبع اعلام شده است."
+    ]
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "9f47541ee464",
@@ -3261,9 +3401,27 @@
      "url": "https://www.sabah.com.tr/magazin/30-yila-ozel-sarkilar-7676496",
      "title": "30. yıla özel şarkılar",
      "snippet": "Türk pop müziğinin güçlü yorumcularından Cenk Eren, profesyonel sanat hayatının 30. yılına özel hazırladığı şarkılarının ilki 'Zalim'i müzikseverlerin beğenisine sundu. Tanju Okan, Selda Bağcan ve Ferdi... Devamı için tıklayınız",
-     "published": "2026-10-08T15:53:29.000Z"
+     "published": "2026-10-08T15:53:29.000Z",
+     "titleFa": "آهنگ‌هایی ویژه برای سی‌امین سالگرد"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/a59eba/1200/675/0/0/821/462?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/30-yila-ozel-sarkilar-1791474802446.jpeg",
+    "https://iasbh.tmgrup.com.tr/0d1fd3/752/395/0/2/821/432?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/30-yila-ozel-sarkilar-1791474802446.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار آهنگ جدید «ظالم» توسط جنک ارن به مناسبت سی‌امین سال فعالیت هنری",
+   "summaryFa": "جنک ارن، خواننده موسیقی پاپ، اولین آهنگ از مجموعه ویژه سی‌امین سالگرد فعالیت حرفه‌ای خود را با نام «ظالم» منتشر کرد. او پیش از این نیز آثار هنرمندانی چون تانجو اوکان، سلدا باغجان و فردی اوزبیگن را بازخوانی کرده بود.",
+   "bodyFa": [
+    "جنک ارن، یکی از خوانندگان برجسته موسیقی پاپ ترکیه، به مناسبت سی‌امین سال فعالیت حرفه‌ای خود در عرصه هنر، تصمیم گرفته است مجموعه‌ای از ترانه‌های ویژه را آماده کند. نخستین قطعه از این پروژه خاص با نام «ظالم» هم‌اکنون در دسترس علاقه‌مندان به موسیقی قرار گرفته است.",
+    "این خواننده پیش‌تر نیز با اجرای پروژه‌های موسوم به «رپرتوار»، آثار ماندگار هنرمندان سرشناسی همچون تانجو اوکان، سلدا باغجان و فردی اوزبیگن را با مخاطبان خود به اشتراک گذاشته بود و اکنون با ترانه «ظالم» مسیر هنری خود را ادامه می‌دهد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1e6f8ecb86bd",
@@ -3290,9 +3448,27 @@
      "url": "https://www.sabah.com.tr/magazin/erisilebilir-tiyatro-yeni-sezonda-da-perdelerini-aciyor-7676495",
      "title": "Erişilebilir tiyatro yeni sezonda da perdelerini açıyor",
      "snippet": "Herkes için erişilebilir bir yaşam amacıyla kurumsal sosyal sorumluluk projelerini hayata geçiren Türk Telekom, Devlet Tiyatroları Genel Müdürlüğü İstanbul Devlet Tiyatrosu ve Atatürk Kültür Merkezi (AKM)... Devamı için tıklayınız",
-     "published": "2026-10-08T15:53:02.000Z"
+     "published": "2026-10-08T15:53:02.000Z",
+     "titleFa": "تئاتر قابل دسترس در فصل جدید نیز پرده‌های خود را می‌گشاید"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/853453/1200/675/0/0/722/406?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/erisilebilir-tiyatro-yeni-sezonda-da-perdelerini-aciyor-1791474758730.jpeg",
+    "https://iasbh.tmgrup.com.tr/6ae444/752/395/0/0/735/385?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/erisilebilir-tiyatro-yeni-sezonda-da-perdelerini-aciyor-1791474758730.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "پروژه تئاتر قابل دسترس در فصل جدید نیز پرده‌های خود را می‌گشاید",
+   "summaryFa": "شرکت ترک تلکام با همکاری اداره کل تئاترهای دولتی تئاتر دولتی استانبول و مرکز فرهنگی آتاتورک، به اجرای پروژه «تئاتر قابل دسترس» در فصل جدید ادامه می‌دهد.",
+   "bodyFa": [
+    "شرکت ترک تلکام در راستای تلاش برای دسترسی همگان به زندگی، پروژه‌های مسئولیت اجتماعی شرکتی خود را به اجرا می‌گذارد.",
+    "این شرکت با همکاری اداره کل تئاترهای دولتی تئاتر دولتی استانبول و مرکز فرهنگی آتاتورک (AKM)، به فعالیت‌های خود در قالب پروژه «تئاتر قابل دسترس» در فصل جدید نیز ادامه می‌دهد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6760f282d72d",
@@ -3523,35 +3699,6 @@
    "aiTries": 1
   },
   {
-   "id": "d84d5ffae61e",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-evlat-acisi-43334420",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Atilla Taş'ın evlat acısı!",
-   "snippet": "ŞARKICI Atilla Taş'ın kızı Sezen Taş, Mersin’de bir sitedeki apartmanın 14’üncü katından düşüp yaşamını yitirdi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac7a905946fbe5b25f1ff5a.jpg",
-   "video": null,
-   "published": "2026-10-08T14:30:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-evlat-acisi-43334420",
-     "title": "Atilla Taş'ın evlat acısı!",
-     "snippet": "ŞARKICI Atilla Taş'ın kızı Sezen Taş, Mersin’de bir sitedeki apartmanın 14’üncü katından düşüp yaşamını yitirdi.",
-     "published": "2026-10-08T14:30:00.000Z"
-    }
-   ]
-  },
-  {
    "id": "9c97d1fee0c3",
    "url": "https://www.milliyet.com.tr/magazin/galeri/turkan-soray-yegeninin-dugununden-goruntuleri-paylasti-gozyaslarimizi-tutmaya-calistik-7675740",
    "source": "milliyet-magazin",
@@ -3603,35 +3750,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "855b56688602",
-   "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
-   "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atilla-tas-kiziijpg-_aE-Tlf030KviTVpuO8EPA.jpg",
-   "video": null,
-   "published": "2026-10-08T14:13:06.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
-     "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
-     "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
-     "published": "2026-10-08T14:13:06.000Z"
-    }
-   ]
   },
   {
    "id": "685c2f178e1d",
@@ -3945,35 +4063,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "e103efdc27cd",
-   "url": "https://www.haberturk.com/magazin/sezen-aksu-hastanelik-oldu-3918226",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Sevenlerini endişelendirdi",
-   "snippet": "Türk pop müziğinin usta isimlerinden Sezen Aksu’ya geçtiğimiz hafta biyopsi işlemi yapıldığı belirtildi",
-   "image": "https://im.haberturk.com/l/2026/10/08/ver1791464165/3918226/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-08T13:01:13.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/sezen-aksu-hastanelik-oldu-3918226",
-     "title": "Sevenlerini endişelendirdi",
-     "snippet": "Türk pop müziğinin usta isimlerinden Sezen Aksu’ya geçtiğimiz hafta biyopsi işlemi yapıldığı belirtildi",
-     "published": "2026-10-08T13:01:13.000Z"
-    }
-   ]
   },
   {
    "id": "402065c2b2b5",
@@ -6625,35 +6714,6 @@
    "aiTries": 1
   },
   {
-   "id": "362e1545c241",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/iki-ay-arayla-anne-ve-babasini-topraga-verdi-gercek-degerlerini-onlar-olunce-anladim-fani-oldugum-gercegi-yuzume-carpti-43333091",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "İki ay arayla anne ve babasını toprağa verdi... Gerçek değerlerini onlar ölünce anladım: Fani olduğum gerçeği yüzüme çarptı",
-   "snippet": "Şu hayatta yaşanabilecek en büyük acılardan biri evlat acısıysa eğer diğeri hatta onunla yarışacak kadar büyüğü anne ve baba acısıdır... Hele bu iki acı kısa aralıklarla gelmişse.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac65b8bfc033b5a8af9f408.jpg",
-   "video": null,
-   "published": "2026-10-08T05:46:45.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/iki-ay-arayla-anne-ve-babasini-topraga-verdi-gercek-degerlerini-onlar-olunce-anladim-fani-oldugum-gercegi-yuzume-carpti-43333091",
-     "title": "İki ay arayla anne ve babasını toprağa verdi... Gerçek değerlerini onlar ölünce anladım: Fani olduğum gerçeği yüzüme çarptı",
-     "snippet": "Şu hayatta yaşanabilecek en büyük acılardan biri evlat acısıysa eğer diğeri hatta onunla yarışacak kadar büyüğü anne ve baba acısıdır... Hele bu iki acı kısa aralıklarla gelmişse.",
-     "published": "2026-10-08T05:46:45.000Z"
-    }
-   ]
-  },
-  {
    "id": "8f299a2a8827",
    "url": "https://www.haberturk.com/magazin/merve-bolugur-un-murat-dalkilic-sessizligi-3918046",
    "source": "haberturk-magazin",
@@ -6745,35 +6805,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "8af05d547fe0",
-   "url": "https://www.sozcu.com.tr/sosyetenin-unlu-isminin-annesi-olmustu-hemsire-hakkinda-sok-gelisme-p367175",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Sosyetenin ünlü isminin annesi ölmüştü: Hemşire hakkında şok gelişme",
-   "snippet": "Selin Boronkay ve kardeşleri, 2 Mart'ta hayatını kaybeden anneleri Yücel Boronkay'ın ölümünde ihmal olduğu iddiasıyla he...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/895jpg-fC53_iTP9UWC47oLStt_Ag.jpg",
-   "video": null,
-   "published": "2026-10-08T05:27:26.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/sosyetenin-unlu-isminin-annesi-olmustu-hemsire-hakkinda-sok-gelisme-p367175",
-     "title": "Sosyetenin ünlü isminin annesi ölmüştü: Hemşire hakkında şok gelişme",
-     "snippet": "Selin Boronkay ve kardeşleri, 2 Mart'ta hayatını kaybeden anneleri Yücel Boronkay'ın ölümünde ihmal olduğu iddiasıyla he...",
-     "published": "2026-10-08T05:27:26.000Z"
-    }
-   ]
   },
   {
    "id": "cff0c7a0f779",
@@ -7081,7 +7112,8 @@
      "url": "https://www.milliyet.com.tr/magazin/hayranlarini-aci-balla-isitti-7675296",
      "title": "Hayranlarını ‘Acı Bal’la ısıttı",
      "snippet": "Havanın 5 derece olduğu gecede alanı boş bırakmayan hayranlarını şarkılarıyla ısıtan sanatçı, geçtiğimiz günlerde yayımlanan ‘Acı Bal’ parçasını da Dedüblüman’la birlikte ilk kez sahnede seslendirerek, sürpriz yaptı.",
-     "published": "2026-10-08T04:02:49.000Z"
+     "published": "2026-10-08T04:02:49.000Z",
+     "titleFa": "او هوادارانش را با «عسل تلخ» گرم کرد"
     }
    ],
    "images": [
@@ -7092,7 +7124,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اجرای موفق Sıla در جشنواره گاسترومسیر اسکی‌شهیر",
+   "summaryFa": "سیلا در اختتامیه جشنواره گاسترو فست اسکی‌شهیر برای حدود ۲۰ هزار نفر برنامه اجرا کرد. او همچنین قطعه جدید «Acı Bal» را برای اولین بار با همکاری گروه Dedüblüman روی صحنه اجرا نمود.",
+   "bodyFa": [
+    "خواننده مشهور، سیلا، در شب پایانی جشنواره گاسترو فست اسکی‌شهیر حضور یافت و با اجرای خود شبی پرشور را برای هوادارانش رقم زد. این رویداد با استقبال چشمگیر حدود ۲۰ هزار مخاطب همراه بود و به عنوان پرجمعیت‌ترین شب جشنواره به ثبت رسید.",
+    "با وجود اینکه دمای هوا در آن شب به ۵ درجه سانتی‌گراد رسیده بود، هواداران جایگاه را ترک نکردند. سیلا در جریان این کنسرت، قطعه جدید خود به نام «Acı Bal» را که اخیراً منتشر شده بود، با همراهی گروه Dedüblüman برای نخستین بار به صورت زنده اجرا کرد که این موضوع سورپرایزی برای حاضران به شمار می‌رفت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "19d0409fe666",
@@ -7119,7 +7159,8 @@
      "url": "https://www.milliyet.com.tr/magazin/biraz-degismek-lazim-7675293",
      "title": "‘Biraz değişmek lazım’",
      "snippet": "Galataport İstanbul’da görüntülenen şarkıcı, “Alışveriş beni yorar. Allah’tan klip çekimleri var, arada alışveriş yapmak zorunda kalıyorum. En son ne zaman klip çektiysem o zaman alışveriş yapmışımdır. Genelde siyahçıyım. Arada çocuklar, ‘Renkli giyin’ diyorlar, mavi deniyorum. Fotoğrafta görünce ra",
-     "published": "2026-10-08T04:02:48.000Z"
+     "published": "2026-10-08T04:02:48.000Z",
+     "titleFa": "«کمی باید تغییر کرد»"
     }
    ],
    "images": [
@@ -7130,7 +7171,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "فرحت گچر: خرید کردن من را خسته می‌کند",
+   "summaryFa": "فرحت گچر در گالاتاپورت استانبول دیده شد و اعلام کرد که علاقه‌ای به خرید کردن ندارد. او اشاره کرد که معمولاً لباس‌های مشکی می‌پوشد.",
+   "bodyFa": [
+    "فرحت گچر، خواننده ترک، در گالاتاپورت استانبول دیده شد و درباره سبک خرید کردن خود صحبت کرد. او اعلام کرد که خرید کردن برای او خسته‌کننده است و تنها به دلیل داشتن برنامه‌های ضبط ویدیو مجبور به خرید می‌شود.",
+    "این خواننده اشاره کرد که آخرین بار همزمان با ضبط ویدیوهایش خرید کرده است. او همچنین گفت که سبک پوشش او بیشتر شامل رنگ مشکی است، اما با اصرار فرزندانش گاهی لباس‌های رنگی مانند آبی را نیز امتحان می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6383180bb39a",
@@ -7157,7 +7206,8 @@
      "url": "https://www.milliyet.com.tr/magazin/dincozden-hollywood-isiltisi-7675291",
      "title": "Dinçöz’den Hollywood ışıltısı",
      "snippet": "Hollywood tarzı saç modeliyle objektif karşısına geçen şarkıcı, sosyal medyada hayranlarından beğeni aldı. Uzun ve hacimli dalgalarıyla klasik Hollywood estetiğini modern bir yorumla buluşturan Dinçöz’ün saç modeli, sosyal medyada çok konuşuldu.",
-     "published": "2026-10-08T04:02:48.000Z"
+     "published": "2026-10-08T04:02:48.000Z",
+     "titleFa": "درخشش هالیوودی از دینچوز"
     }
    ],
    "images": [
@@ -7168,7 +7218,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "ظاهر جدید پتک دینچوز با استایل هالیوودی",
+   "summaryFa": "پتک دینچوز با انتشار تصاویر جدیدی با مدل موی الهام‌گرفته از استایل هالیوودی، توجه کاربران شبکه‌های اجتماعی را به خود جلب کرد. این تغییر چهره با استقبال و تحسین هواداران این خواننده همراه شد.",
+   "bodyFa": [
+    "پتک دینچوز، خواننده مشهور، با چهره و استایلی تازه در برابر دوربین ظاهر شد که بازتاب گسترده‌ای در فضای مجازی داشت. او در این تصاویر با موهای بلند و موج‌دار دیده می‌شود که ترکیبی از زیبایی‌شناسی کلاسیک هالیوود و نگاهی مدرن است.",
+    "این تغییر ظاهر و مدل موی جدید او به یکی از موضوعات پربحث میان کاربران شبکه‌های اجتماعی تبدیل شده و توانسته است توجه و نظرات مثبت هوادارانش را به خود جلب کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "bb1e2fe3f97d",
@@ -7182,7 +7240,7 @@
    "video": null,
    "published": "2026-10-08T04:02:47.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -7195,9 +7253,27 @@
      "url": "https://www.milliyet.com.tr/magazin/ilk-konser-izmirde-7675290",
      "title": "İlk konser İzmir’de",
      "snippet": "Şarkıcı, smokinle izleyici karşısına çıktı. Konser sonrasında da Karaibrahimgil’e yoğun ilgi devam etti ve hayranları kulis önünde saatlerce bekledi. Şarkıcı, sevenleriyle tek tek fotoğraf çektirdi.",
-     "published": "2026-10-08T04:02:47.000Z"
+     "published": "2026-10-08T04:02:47.000Z",
+     "titleFa": "اولین کنسرت در ازمیر"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac6c8d550398df27d011489.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac6c8d550398df27d011489.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اولین کنسرت پروژه «سنفونَیل» نil کارابراهیم‌گیل در ازمیر",
+   "summaryFa": "پروژه جدید نil کارابراهیم‌گیل به نام «سنفونَیل» اولین کنسرت خود را در فضای باز ازمیر برگزار کرد. این خواننده با استایل اسموکینگ روی صحنه رفت و با طرفدارانش عکس یادگاری گرفت.",
+   "bodyFa": [
+    "پروژه جدید نil کارابراهیم‌گیل تحت عنوان «سنفونَیل»، نخستین اجرای خود را در فضای باز ازمیر به روی صحنه برد و با استقبال علاقه‌مندان به موسیقی روبه‌رو شد.",
+    "این خواننده با پوشیدن لباس اسموکینگ در برابر مخاطبان حاضر شد و پس از پایان کنسرت نیز توجه زیادی را به خود جلب کرد؛ به‌طوری‌که هوادارانش ساعت‌ها بیرون از اتاق فرمان (کولیس) به انتظار نشستند و او با تک‌تک آنان عکس یادگاری گرفت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "cb56ef16e624",
@@ -7224,9 +7300,28 @@
      "url": "https://www.milliyet.com.tr/magazin/sarkilar-artik-nakaratla-basliyor-7675283",
      "title": "‘Şarkılar artık nakaratla başlıyor’",
      "snippet": "‘Bambaşka Sohbetler’e konuk olan sanatçı, “Şarkı süreleri kısaldı. Artık nakaratla başlar oldu. Sosyal medyada o birkaç saniyede seyrettirdin seyrettirdin, sonra tık geçiyor seni. Geçmiş olsun. Radyolar bile uzun şarkı çalmak istemiyor” sözleriyle sitem etti.",
-     "published": "2026-10-08T04:02:46.000Z"
+     "published": "2026-10-08T04:02:46.000Z",
+     "titleFa": "«آهنگ‌ها دیگر با کراس شروع می‌شوند»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac6c69450398df27d011475.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac6c69450398df27d011475.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتقادات فوندا آرار درباره تغییرات در دنیای موسیقی",
+   "summaryFa": "فوندا آرار در یک برنامه تلویزیونی از کوتاه‌تر شدن زمان آهنگ‌ها و شروع آن‌ها با کراس (nakarat) انتقاد کرد. او اشاره کرد که حتی رادیوها هم تمایلی به پخش آهنگ‌های طولانی ندارند.",
+   "bodyFa": [
+    "فوندا آرار، هنرمند ترکیه‌ای، در گفت‌وگو با برنامه «بامباشکا سوحبتلر» به تغییرات ایجاد شده در صنعت موسیقی اشاره کرد و از روند فعلی ابراز نارضایتی نمود.",
+    "او توضیح داد که زمان آهنگ‌ها کوتاه‌تر شده و قطعات موسیقی اکنون مستقیماً با بخش کر (nakarat) آغاز می‌شوند. به گفته وی، دلیل این امر تاثیر شبکه‌های اجتماعی است که اگر نتوانید مخاطب را در همان چند ثانیه اول جذب کنید، او صفحه را رد کرده و به سراغ محتوای بعدی می‌رود.",
+    "این هنرمند همچنین افزود که حتی ایستگاه‌های رادیویی نیز دیگر تمایلی به پخش آهنگ‌های طولانی ندارند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b7142ceb61b1",
@@ -7300,9 +7395,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/italyan-restorani-acacak-43333338",
      "title": "İtalyan restoranı açacak",
      "snippet": "ABD’li ünlü oyuncu George Clooney, eşi Amal Clooney (48) ve ikiz çocuklarıyla birlikte yaşadığı Fransa’da restoran işine giriyor.",
-     "published": "2026-10-08T04:00:00.000Z"
+     "published": "2026-10-08T04:00:00.000Z",
+     "titleFa": "او رستوران ایتالیایی باز خواهد کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac6aa5275376faf77849d23.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac6aa5275376faf77849d23.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "جورج کلونی در فرانسه رستوران ایتالیایی افتتاح می‌کند",
+   "summaryFa": "جورج کلونی، بازیگر مشهور آمریکایی، قصد دارد در کشوری که همراه با همسر و فرزندانش در آن زندگی می‌کند، وارد عرصه رستوران‌داری شود.",
+   "bodyFa": [
+    "جورج کلونی، بازیگر سرشناس اهل ایالات متحده آمریکا، تصمیم گرفته است تا فعالیت جدیدی را در زمینه رستوران‌داری آغاز کند. او این کسب‌وکار جدید را در کشور فرانسه راه‌اندازی خواهد کرد.",
+    "این بازیگر مطرح، زندگی مشترک خود را به همراه همسرش امل کلونی (۴۸ ساله) و فرزندان دوقلوی خود در فرانسه می‌گذراند و اکنون قرار است یک رستوران ایتالیایی در این کشور افتتاح کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "632128fe260a",
@@ -7513,10 +7626,20 @@
      "url": "https://www.haberturk.com/magazin/soy-un-galasi-gerceklesti-3917977",
      "title": "'SOY'un galası gerçekleşti",
      "snippet": "Farah Zeynep Abdullah, Barış Arduç ve Tuba Büyüküstün'ü buluşturan mistik gerilim filmi 'SOY'un galası, oyuncu kadrosu ve sinema dünyasından çok sayıda davetlinin katılımıyla dün akşam gerçekleşti. Film, 9 Ekim'de vizyona girecek",
-     "published": "2026-10-07T16:34:08.000Z"
+     "published": "2026-10-07T16:34:08.000Z",
+     "titleFa": "مراسم افتتاحیه فیلم «SOY» برگزار شد"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "برгуاری مراسم افتتاحیه فیلم رازآلود «SOY»",
+   "summaryFa": "مراسم افتتاحیه فیلم سینمایی «SOY» با حضور بازیگران و اهالی هنر برگزار شد. این فیلم از ۹ مهر ماه اکران خود را آغاز می‌کند.",
+   "bodyFa": [
+    "مراسم افتتاحیه فیلم سینمایی «SOY» که در ژانر مهیج و ترسناک ساخته شده است، با حضور عوامل فیلم، بازیگران و چهره‌های سرشناس حوزه سینما و هنر برگزار شد. این اثر متعلق به شرکت بین‌المللی «رُزام» است که ترکی آل الشیخ مالکیت آن را بر عهده دارد.",
+    "در این مراسم که پیش از اکران عمومی فیلم برگزار شد، بازیگران اصلی از جمله فرح زینب عبدالله، باریش اردوچ، مهمت ییلماز آک، اوزگه اوزاجار و تامِر لِوِنت به همراه طوبا بویوک‌اوستون به عنوان بازیگر مهمان، در کنار مکسیم الکساندر (کارگردان)، سانر آیار (مدیر تولید) و شکرو نجاتی شاهین (نویسنده) روی فرش قرمز حضور یافتند و با خبرنگاران گفتگو کردند.",
+    "داستان این فیلم که ترکیبی از ژانر وحشت ماوراءالطبیعی و مهیج روان‌شناختی است، به موضوعاتی همچون زمان، حافظه و یک نفرین باستانی می‌پردازد. در این اثر، گذشته و حال در هم آمیخته شده و رازهای پنهانی آشکار می‌شوند که زندگی افراد را تهدید می‌کنند. فیلم «SOY» قرار است از ۹ مهر ماه روی پرده سینماها برود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "99b136158532",
@@ -7594,7 +7717,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/ipek-yazici-25-yasina-girdi-sevgilisi-ihsan-taha-torguttan-romantik-kutlama-7675165",
      "title": "İpek Yazıcı 25 yaşına girdi! Sevgilisi İhsan Taha Torğut'tan romantik kutlama",
      "snippet": "Ufuk Beydemir'den tek celsede boşandıktan sonra İhsan Taha Torğut'la yeni bir aşka yelken açan oyuncu İpek Yazıcı 25 yaşına girdi. Torğut, kız arkadaşının doğum gününü romantik bir paylaşımla kutladı.",
-     "published": "2026-10-07T15:46:24.000Z"
+     "published": "2026-10-07T15:46:24.000Z",
+     "titleFa": "ایپک یاجیجی ۲۵ ساله شد! جشن رمانتیک از سوی احسان طها تورغوت، نامزدش"
     }
    ],
    "images": [
@@ -7605,7 +7729,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "جشن تولد ۲۵ سالگی ایپک یاجیجی و تبریک رمانتیک احسان طها تورغوت",
+   "summaryFa": "ایپک یاجیجی وارد ۲۵ سالگی شد و احسان طها تورغوت تولد او را با پستی رمانتیک تبریک گفت. این بازیگر پیش‌تر از اوفوک بیدمیر جدا شده بود.",
+   "bodyFa": [
+    "ایپک یاجیجی، بازیگر ترک، وارد ۲۵ سالگی شد و به همین مناسبت احسان طها تورغوت، شریک عاطفی او، تولدش را با انتشار پیامی رمانتیک جشن گرفت.",
+    "این بازیگر پیش‌تر پس از جدایی یک‌طرفه و سریع از همسر سابق خود، اوفوک بیدمیر، وارد رابطه جدیدی با احسان طها تورغوت شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4aa35cc42d5e",
@@ -7619,7 +7751,7 @@
    "video": null,
    "published": "2026-10-07T15:41:29.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -7632,9 +7764,27 @@
      "url": "https://www.sabah.com.tr/magazin/oscarli-efsane-oldu-7675829",
      "title": "Oscarlı efsane öldü",
      "snippet": "ON the Waterfront' ve 'North by Northwest' gibi filmleriyle hafızalara kazınan Oscar ödüllü Eva Marie Saint, 102 yaşında hayatını kaybetti. Acı haber, sanatçının halkla ilişkiler sorumlusu Jeff Sanderson... Devamı için tıklayınız",
-     "published": "2026-10-07T15:41:29.000Z"
+     "published": "2026-10-07T15:41:29.000Z",
+     "titleFa": "اسکارلی افسانه اولدو"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/a85285/1200/675/0/27/1200/704?u=https://isbh.tmgrup.com.tr/sbh/2026/10/07/oscarli-efsane-oldu-1791387666580.jpeg",
+    "https://iasbh.tmgrup.com.tr/79b3af/752/395/0/47/1200/676?u=https://isbh.tmgrup.com.tr/sbh/2026/10/07/oscarli-efsane-oldu-1791387666580.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "درگذشت اوا ماری سنت، بازیگر برنده جایزه اسکار، در ۱۰۲ سالگی",
+   "summaryFa": "اوا ماری سنت، بازیگر سرشناس آثار ماندگاری چون «در بارانداز» و «شمال از شمال غربی»، در سن ۱۰۲ سالگی درگذشت. این خبر تلخ از سوی جف ساندرسون، مسئول روابط عمومی این هنرمند، اعلام شد.",
+   "bodyFa": [
+    "اوا ماری سنت، بازیگر برنده جایزه اسکار که با نقش‌آفرینی در فیلم‌های به یادماندنی و کلاسیکی همچون «در بارانداز» و «شمال از شمال غربی» در خاطره‌ها مانده بود، در سن ۱۰۲ سالگی چشم از جهان فروبست.",
+    "این خبر ناگوار توسط جف ساندرسون، مسئول روابط عمومی این هنرمند فقید، به اطلاع عموم رسید. طبق اطلاعات منتشرشده، او در منزل خود واقع در شهر لس‌آنجلس در ایالات متحده آمریکا فوت کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "43db8e87e262",
@@ -7661,9 +7811,27 @@
      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/idil-cimrin/2026/10/08/ana-yemek-olarak-yumurta",
      "title": "Ana yemek olarak yumurta",
      "snippet": "Herkese merhaba, İdilika'nın Mutfağı'nda bugün hazırlanışı son derece pratik olmasının yanı sıra aşırı doyurucu ve lezzetli olan yumurta tarifleri hazırladım. Yumurta bir akşam yemeğinin başrolü olamaz... Devamı için tıklayınız",
-     "published": "2026-10-07T15:33:59.000Z"
+     "published": "2026-10-07T15:33:59.000Z",
+     "titleFa": "Ana yemek olarak yumurta"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/2e9d2f/0/0/0/0/832/520?u=https://isbh.tmgrup.com.tr/sbh/2026/10/07/ana-yemek-olarak-yumurta-1791387181912.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/2026/04/04/1775286965973.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/halkbank-ureten-turkiye.png?v=25949",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-1.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
+    "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/10/09/164x236/09SBH01.jpg?v=25949"
+   ],
+   "mediaDone": true,
+   "titleFa": "دستurهای غذایی با تخم‌مرغ در آشپزخانه ایدیلیکا",
+   "summaryFa": "در این مطلب آشپزخانه ایدیلیکا دستورهای پخت سریع و اقتصادی با تخم‌مرغ ارائه شده است. تخم‌مرغ به عنوان یک بمب پروتئینی معرفی می‌شود که می‌تواند بسیار سیرکننده باشد.",
+   "bodyFa": [
+    "در این بخش از مطالب آشپزخانه ایدیلیکا، دستورهای متنوعی برای تهیه غذا با استفاده از تخم‌مرغ معرفی شده است. این دستورها علاوه بر سادگی در طرز تهیه، بسیار سیرکننده و خوشمزه توصیف شده‌اند.",
+    "اگرچه ممکن است در نگاه اول تخم‌مرغ گزینه مناسبی برای وعده شام به نظر نرسد، اما این ماده غذایی به عنوان یک منبع غنی از پروتئین و گزینه‌ای اقتصادی معرفی شده است که با رعایت نکات لازم می‌توان از آن در تهیه غذاها استفاده کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d95b5ef39d0e",
@@ -7730,7 +7898,8 @@
      "url": "https://www.milliyet.com.tr/magazin/cenk-eren-sahnedeki-30uncu-yilini-smart-sahnede-kutladi-bir-sarki-ile-meshur-olmadim-7675156",
      "title": "Cenk Eren sahnedeki 30'uncu yılını 'Smart Sahne'de kutladı: Bir şarkı ile meşhur olmadım",
      "snippet": "Zeynep Bozkaya ve Berke Kosova’nın sunduğu programda hem mutlu hem yorgun olduğunu belirten Cenk Eren, “Sadece fiziksel olarak değil, mental anlamda da zorlukları olan bir sektör. İlk meşhur olmaya başladığımda genç yaşta sendeledim. Profesyonel yardımlarla bu süreci atlatmak gerekir.” dedi. BİNLERC",
-     "published": "2026-10-07T15:20:32.000Z"
+     "published": "2026-10-07T15:20:32.000Z",
+     "titleFa": "چنک ارن سی‌امین سال فعالیت روی صحنه را در «اسمارت صحنه» جشن گرفت: با یک ترانه معروف نشدم"
     }
    ],
    "images": [
@@ -7741,7 +7910,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "جشن سی‌امین سالگرد فعالیت هنری چنک ارن در «اسمارت صحنه»",
+   "summaryFa": "چنک ارن سی‌امین سال فعالیت هنری خود را در برنامه «اسمارت صحنه» جشن گرفت. او تأکید کرد که با یک ترانه به شهرت نرسیده و این جایگاه را با سال‌ها روی صحنه رفتن به دست آورده است.",
+   "bodyFa": [
+    "چنک ارن، چهره شناخته‌شده موسیقی ترکیه، سی‌امین سال حضور خود در عرصه هنر را در برنامه «اسمارت صحنه» که محصول مشترک دی-اسمارت اسپور و دریم ترک است، جشن گرفت. او در این برنامه کیک تولد غافلگیرکننده‌ای را که عوامل برایش تدارک دیده بودند فوت کرد.",
+    "این هنرمند در صحبت‌های خود اشاره کرد که به پشتوانه سال‌ها اجرا و روی صحنه بودن به جایگاه امروزی رسیده است و شهرتش نتیجه تنها یک ترانه نیست. او همچنین از سختی‌های این حرفه چه به لحاظ جسمی و چه ذهنی سخن گفت و از تجربه خود در مواجهه با چالش‌های دوران جوانی و لزوم بهره‌گیری از کمک‌های تخصصی برای عبور از آن دوران یاد کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a72c8b73a2c5",
