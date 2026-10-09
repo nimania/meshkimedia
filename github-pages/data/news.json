@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T15:27:47.107Z",
+ "updated": "2026-10-09T15:32:12.886Z",
  "items": [
   {
    "id": "512b258dd99d",
@@ -535,6 +535,53 @@
    "bodyFa": [
     "صالح بادمجی، بازیگر سرشناس، پس از اینکه پدر شد، دیدگاه‌های خود را درباره موضوع ازدواج و فرزندپروری دستخوش تغییر دانست. او در تازه‌ترین اظهاراتش به ارزیابی زوج‌هایی پرداخت که تمام زندگی و تمرکز خود را معطوف فرزندانشان می‌کنند.",
     "این بازیگر با بیان جملاتی از جمله «کودک طبیعتاً خواهد رفت» و همچنین اظهارنظرهایی درباره شرکای زندگی، توجه رسانه‌ها را به خود جلب کرد و سخنانش در فضای مجازی بازتاب یافت."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "73fc50a5805d",
+   "url": "https://www.sabah.com.tr/magazin/prens-harry-20-yil-sonra-ilk-kez-agladi-prenses-diananin-o-kokusu-tum-duvarlari-yikti-7677011",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Prens Harry 20 yıl sonra ilk kez ağladı! Prenses Diana’nın o kokusu tüm duvarları yıktı",
+   "snippet": "Prens Harry'nin yıllarca herkesten sakladığı en acı sırrı, duygu yüklü bir itirafla nihayet ortaya çıktı! Annesi Prenses Diana'nın trajik ölümünün ardından yirmi yıl boyunca tek damla gözyaşı dökmediğini... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/5f9e8f/1200/675/0/0/2048/1151?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/1791542779661.jpg",
+   "video": null,
+   "published": "2026-10-09T10:54:35.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/prens-harry-20-yil-sonra-ilk-kez-agladi-prenses-diananin-o-kokusu-tum-duvarlari-yikti-7677011",
+     "title": "Prens Harry 20 yıl sonra ilk kez ağladı! Prenses Diana’nın o kokusu tüm duvarları yıktı",
+     "snippet": "Prens Harry'nin yıllarca herkesten sakladığı en acı sırrı, duygu yüklü bir itirafla nihayet ortaya çıktı! Annesi Prenses Diana'nın trajik ölümünün ardından yirmi yıl boyunca tek damla gözyaşı dökmediğini... Devamı için tıklayınız",
+     "published": "2026-10-09T10:54:35.000Z",
+     "titleFa": "پرنس هری ۲۰ سال بعد برای اولین بار گریه کرد! آن بوی پرنسس دایانا تمام دیوارها را فرو ریخت"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/5f9e8f/1200/675/0/0/2048/1151?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/1791542779661.jpg",
+    "https://iasbh.tmgrup.com.tr/be8f33/752/395/0/0/2048/1077?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/1791542779661.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "اعتراف احساسی پرنس هری درباره اشک‌ها و مادرش",
+   "summaryFa": "پرنس هری فاش کرد که تا بیست سال پس از مرگ تراژیک مادرش، پرنسس دایانا، گریه نکرده بود. او ادعا کرد که یک عطر خاص به این دوره طولانی پایان داده است.",
+   "bodyFa": [
+    "در یک اعتراف احساسی و پر از جزئیات شخصی، پرنس هری راز تلخی را که سال‌ها از دیگران پنهان کرده بود، آشکار کرد. او توضیح داد که پس از مرگ غم‌انگیز مادرش، پرنسس دایانا، تا بیست سال نتوانسته بود حتی یک قطره اشک بریزد.",
+    "طبق این گزارش، این دوره طولانی و تاریک سرانجام با استشمام بوی خاصی که متعلق به پرنسس دایانا بود، شکسته شد و او توانست واکنش احساسی نشان دهد."
    ],
    "ai": true,
    "aiTries": 1
@@ -3822,6 +3869,44 @@
    "aiTries": 1
   },
   {
+   "id": "d84d5ffae61e",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-evlat-acisi-43334420",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Atilla Taş'ın evlat acısı!",
+   "snippet": "ŞARKICI Atilla Taş'ın kızı Sezen Taş, Mersin’de bir sitedeki apartmanın 14’üncü katından düşüp yaşamını yitirdi.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac7a905946fbe5b25f1ff5a.jpg",
+   "video": null,
+   "published": "2026-10-08T14:30:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-evlat-acisi-43334420",
+     "title": "Atilla Taş'ın evlat acısı!",
+     "snippet": "ŞARKICI Atilla Taş'ın kızı Sezen Taş, Mersin’de bir sitedeki apartmanın 14’üncü katından düşüp yaşamını yitirdi.",
+     "published": "2026-10-08T14:30:00.000Z"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac7a905946fbe5b25f1ff5a.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac7a905946fbe5b25f1ff5a.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "9c97d1fee0c3",
    "url": "https://www.milliyet.com.tr/magazin/galeri/turkan-soray-yegeninin-dugununden-goruntuleri-paylasti-gozyaslarimizi-tutmaya-calistik-7675740",
    "source": "milliyet-magazin",
@@ -3873,6 +3958,44 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "855b56688602",
+   "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
+   "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atilla-tas-kiziijpg-_aE-Tlf030KviTVpuO8EPA.jpg",
+   "video": null,
+   "published": "2026-10-08T14:13:06.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
+     "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
+     "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
+     "published": "2026-10-08T14:13:06.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atilla-tas-kiziijpg-_aE-Tlf030KviTVpuO8EPA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atilla-tas-kiziijpg-_aE-Tlf030KviTVpuO8EPA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atilla-tas-kizijpg-4ntIqzKIdki1wTWdonP08A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/burhan-akdagjpg-bo60SYeuvU2QEDw_2ng7sg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac8d3728c023a08fe8bae3bpng-mRzt9IZE5EK8PGMdQ1N8zw.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "685c2f178e1d",
@@ -4186,6 +4309,36 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "e103efdc27cd",
+   "url": "https://www.haberturk.com/magazin/sezen-aksu-hastanelik-oldu-3918226",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Sevenlerini endişelendirdi",
+   "snippet": "Türk pop müziğinin usta isimlerinden Sezen Aksu’ya geçtiğimiz hafta biyopsi işlemi yapıldığı belirtildi",
+   "image": "https://im.haberturk.com/l/2026/10/08/ver1791464165/3918226/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-08T13:01:13.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/sezen-aksu-hastanelik-oldu-3918226",
+     "title": "Sevenlerini endişelendirdi",
+     "snippet": "Türk pop müziğinin usta isimlerinden Sezen Aksu’ya geçtiğimiz hafta biyopsi işlemi yapıldığı belirtildi",
+     "published": "2026-10-08T13:01:13.000Z"
+    }
+   ],
+   "mediaDone": true
   },
   {
    "id": "402065c2b2b5",
@@ -6928,6 +7081,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "8af05d547fe0",
+   "url": "https://www.sozcu.com.tr/sosyetenin-unlu-isminin-annesi-olmustu-hemsire-hakkinda-sok-gelisme-p367175",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Sosyetenin ünlü isminin annesi ölmüştü: Hemşire hakkında şok gelişme",
+   "snippet": "Selin Boronkay ve kardeşleri, 2 Mart'ta hayatını kaybeden anneleri Yücel Boronkay'ın ölümünde ihmal olduğu iddiasıyla he...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/895jpg-fC53_iTP9UWC47oLStt_Ag.jpg",
+   "video": null,
+   "published": "2026-10-08T05:27:26.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sosyetenin-unlu-isminin-annesi-olmustu-hemsire-hakkinda-sok-gelisme-p367175",
+     "title": "Sosyetenin ünlü isminin annesi ölmüştü: Hemşire hakkında şok gelişme",
+     "snippet": "Selin Boronkay ve kardeşleri, 2 Mart'ta hayatını kaybeden anneleri Yücel Boronkay'ın ölümünde ihmal olduğu iddiasıyla he...",
+     "published": "2026-10-08T05:27:26.000Z"
+    }
+   ]
   },
   {
    "id": "cff0c7a0f779",
