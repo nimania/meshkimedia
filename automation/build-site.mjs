@@ -113,7 +113,7 @@ function seriesPage(s) {
   const net = networks[s.network];
   const dubbedRecord = publishedDubbedForSeries.find(d => d.originalSeriesSlug === s.slug && (d.entries || []).some(e => e.status === "published" && e.paragraphs?.some(t => t.trim())));
   const dubbedTab = dubbedRecord ? `<a href="#dubbed-section">دوبله فارسی و پاورقی</a>` : "";
-  const dubbedSection = dubbedRecord ? `<section id="dubbed-section" class="profile-section"><div class="section-headline"><div><span>نسخه دوبله فارسی</span><h2>پاورقی‌ها و پادکست‌های ${esc(s.titleFa)}</h2></div><a class="gallery-source" href="${root}duble/${dubbedRecord.slug}/">مشاهده آرشیو ←</a></div><p>روایت قسمت‌های دوبله فارسی، با پیوند به قسمت‌های اصلی ترکی و نسخه شنیداری در صورت انتشار.</p><a href="${root}duble/${dubbedRecord.slug}/">رفتن به پاورقی‌های دوبله فارسی ←</a></section>` : "";
+  const dubbedSection = dubbedRecord ? `<section id="dubbed-section" class="profile-section"><div class="section-headline"><div><span>پاورقی</span><h2>پاورقی‌ها و پادکست‌های ${esc(s.titleFa)}</h2></div><a class="gallery-source" href="${root}duble/${dubbedRecord.slug}/">مشاهده آرشیو ←</a></div><div class="dubbed-list" style="display:flex;flex-wrap:wrap;gap:12px">${dubbedRecord.entries.filter(e=>e.status==="published").map(e=>`<a class="dubbed-card" style="border:1px solid currentColor;border-radius:10px;padding:12px;text-decoration:none" href="${root}duble/${dubbedRecord.slug}/${e.slug}/">${esc(e.title)}</a>`).join("")}</div></section>` : "";
   const img = s.hero || firstEpImage(s);
   const jsonld = { "@context": "https://schema.org", "@type": s.kind === "entertainment" ? "TVSeries" : "TVSeries", name: s.titleTr, alternateName: s.titleFa, url: `${BASE}/dizi/${s.slug}/`, inLanguage: "tr", genre: s.genre || [], countryOfOrigin: { "@type": "Country", name: "Turkey" } };
   if (img) jsonld.image = img;
@@ -144,6 +144,9 @@ ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/#episodes`, "☰", "ق
 function episodePage(s, ep) {
   const root = "../../../";
   const net = networks[s.network];
+  const dubbedEpisode = publishedDubbedForSeries.find(d=>d.originalSeriesSlug===s.slug);
+  const matchingPavaraghi = (dubbedEpisode?.entries || []).filter(e=>e.status==="published" && e.originalEpisode===ep.number && Array.isArray(e.paragraphs) && e.paragraphs.length);
+  const pavaraghiBlock = matchingPavaraghi.length ? `<section id="ep-pavaraghi" class="ep-block"><span class="kicker">پاورقی مشکی‌مدیا</span><h2>پاورقی و دوبله فارسی این قسمت</h2><div class="dubbed-list" style="display:flex;flex-wrap:wrap;gap:12px">${matchingPavaraghi.map(e=>`<a class="dubbed-card" style="border:1px solid currentColor;border-radius:10px;padding:12px;text-decoration:none" href="${root}duble/${dubbedEpisode.slug}/${e.slug}/">${esc(e.title)}</a>`).join("")}</div></section>` : "";
   const img = ep.image || (ep.images && ep.images[0]) || s.hero || "";
   const jsonld = { "@context": "https://schema.org", "@type": "TVEpisode", name: ep.title || `قسمت ${ep.number}`, episodeNumber: ep.number, url: `${BASE}/dizi/${s.slug}/bolum-${ep.number}/`, partOfSeries: { "@type": "TVSeries", name: s.titleTr, url: `${BASE}/dizi/${s.slug}/` } };
   if (ep.date && !ep.scheduled) jsonld.datePublished = ep.date;
@@ -158,6 +161,7 @@ function episodePage(s, ep) {
 <section class="ep-block" id="ep-trend-section"><span class="kicker">مسیر سریال</span><h2>جایگاه این قسمت در روند ریتینگ</h2><p class="trend-help">در نمای رتبه، عدد کمتر بهتر است و بالا رفتن خط یعنی بهبود جایگاه. نقطهٔ پررنگ قسمت فعلی است.</p><div id="ep-trend"></div><a class="trend-more" href="${root}reyting/#trends">مقایسه با سریال‌های دیگر ←</a></section>
 <section id="gallery-section" class="ep-block"><span class="kicker">تصاویر قسمت</span><h2>گالری</h2><div id="ep-gallery" class="gallery"></div><a id="ep-gallery-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع عکس‌ها در شبکهٔ پخش ↗</a></section>
 <section class="ep-block"><span class="kicker">خلاصهٔ قسمت (ری‌کپ)</span><h2>چه گذشت؟</h2><p id="ep-summary" class="ep-summary"></p><div id="ep-links" class="ep-links"></div></section>
+${pavaraghiBlock}
 <div id="ep-nav" class="ep-nav"></div>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/`, "☰", "سریال"], [`dizi/${s.slug}/bolum-${ep.number}/#ep-ratings`, "⌁", "ریتینگ", true], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
