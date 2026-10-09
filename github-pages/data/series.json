@@ -1227,10 +1227,536 @@
     ],
     "seasons": [
       {
+        "number": 1,
+        "firstEpisode": 1,
+        "label": "فصل اول",
+        "episodes": [
+          {
+            "number": 1,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 2,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 3,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 4,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 5,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 6,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 7,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 8,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 9,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 10,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 11,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 12,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 13,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 14,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 15,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 16,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 17,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 18,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 19,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 20,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 21,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 22,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 23,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 24,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 25,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 26,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 27,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 28,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "firstEpisode": 29,
+        "label": "فصل دوم",
+        "episodes": [
+          {
+            "number": 29,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 30,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 31,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 32,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 33,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 34,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 35,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 36,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 37,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 38,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 39,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 40,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 41,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 42,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 43,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 44,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 45,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 46,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 47,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 48,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 49,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 50,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 51,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 52,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 53,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 54,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 55,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 56,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 57,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 58,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 59,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 60,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 61,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 62,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 63,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          }
+        ]
+      },
+      {
         "number": 3,
         "firstEpisode": 64,
         "label": "فصل سوم",
         "episodes": [
+          {
+            "number": 64,
+            "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "archiveSource": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
           {
             "number": 65,
             "date": "2026-09-21",
@@ -1269,7 +1795,14 @@
       "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3b8e6adc7618129495.jpg",
       "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3a8e6adc7618129486.jpg"
     ],
-    "photosSource": "https://www.kanald.com.tr/uzak-sehir/foto-galeri/uzak-sehir-65-bolum-fotograflari"
+    "photosSource": "https://www.kanald.com.tr/uzak-sehir/foto-galeri/uzak-sehir-65-bolum-fotograflari",
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.kanald.com.tr/uzak-sehir/bolumler",
+      "highestVerifiedEpisode": 67,
+      "verification": "official-episode-archive",
+      "note": "آرشیو رسمی قسمت‌های ۱ تا ۶۷؛ برای بسیاری از قسمت‌ها فقط فراداده وجود دارد، نه خلاصه یا پاورقی."
+    }
   },
   "haysiyet": {
     "slug": "haysiyet",
@@ -1929,6 +2462,14 @@
             "photosSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/3-bolum-fotograflari"
           },
           {
+            "number": 4,
+            "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/4-bolum-fotograflari",
+            "archiveSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/4-bolum-fotograflari",
+            "metadataOnly": true,
+            "verification": "official-episode-gallery",
+            "summary": ""
+          },
+          {
             "number": 5,
             "date": "2026-09-29",
             "calendar": true
@@ -1949,7 +2490,14 @@
       "https://media.startv.com.tr/star-tv/images/nur01309.jpg?format=webp&height=596&quality=85&width=1000",
       "https://media.startv.com.tr/star-tv/images/nur01434.jpg?format=webp&height=596&quality=85&width=1000"
     ],
-    "photosSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/2-bolum-fotograflari"
+    "photosSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/2-bolum-fotograflari",
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/4-bolum-fotograflari",
+      "highestVerifiedEpisode": 6,
+      "verification": "official-photo-gallery+existing-episode-index",
+      "note": "قسمت ۴ با گالری رسمی تأیید شد؛ تاریخ پخش و خلاصهٔ تأییدشده هنوز تکمیل نشده‌اند."
+    }
   },
   "sevdigim-sensin": {
     "slug": "sevdigim-sensin",
@@ -2290,6 +2838,31 @@
         "label": "فصل هفتم",
         "episodes": [
           {
+            "number": 221,
+            "source": "https://www.trt1.com.tr/diziler/gonul-dagi/bolum",
+            "archiveSource": "https://www.trt1.com.tr/diziler/gonul-dagi/bolum",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 222,
+            "source": "https://www.trt1.com.tr/diziler/gonul-dagi/bolum",
+            "archiveSource": "https://www.trt1.com.tr/diziler/gonul-dagi/bolum",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": ""
+          },
+          {
+            "number": 223,
+            "source": "https://www.trt1.com.tr/haber/diziler/gonul-dagi-223-bolumuyle-19-eylulde-trt-1-ekranlarinda-33140788",
+            "archiveSource": "https://www.trt1.com.tr/diziler/gonul-dagi/bolum",
+            "metadataOnly": true,
+            "verification": "official-episode-archive",
+            "summary": "",
+            "date": "2026-09-19"
+          },
+          {
             "number": 224,
             "date": "2026-09-26",
             "calendar": true
@@ -2303,7 +2876,14 @@
       }
     ],
     "heroSource": "https://www.trt1.com.tr/diziler/gonul-dagi",
-    "synopsisSource": "https://www.trt1.com.tr/diziler/gonul-dagi"
+    "synopsisSource": "https://www.trt1.com.tr/diziler/gonul-dagi",
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.trt1.com.tr/diziler/gonul-dagi/bolum",
+      "highestVerifiedEpisode": 225,
+      "verification": "official-episode-archive",
+      "note": "فصل هفتم ۲۲۱ تا ۲۲۵ ثبت شد؛ فصل‌های پیشین هنوز کامل نیستند."
+    }
   },
   "evlilik-guzeldir": {
     "slug": "evlilik-guzeldir",
