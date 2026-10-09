@@ -43,7 +43,7 @@
         "transcriptStatus": "not-acquired",
         "sceneReviewStatus": "official-synopsis-only",
         "dubbedMappingStatus": "unverified",
-        "editorialStatus": "source-outline-awaiting-transcript",
+        "editorialStatus": "expanded-research-not-ready-for-publication",
         "reviewedStoryBeats": [
           {
             "id": "a",
@@ -74,6 +74,51 @@
             "event": "پیچیده‌شدن روابط دو خانواده رقیب از طریق دو برادر",
             "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
             "timeline": "unverified"
+          }
+        ],
+        "additionalSources": [
+          {
+            "type": "official-scene-compilation",
+            "url": "https://www.youtube.com/watch?v=QzCYUAWRkqw",
+            "title": "1. Bölümde Neler Oldu?",
+            "approxDurationSeconds": 4674
+          },
+          {
+            "type": "official-scene-clip",
+            "url": "https://www.youtube.com/watch?v=AdixCcxwOnA",
+            "title": "1. Bölüm Derin & Mehmet Sahneleri"
+          },
+          {
+            "type": "secondary-character-guide",
+            "url": "https://televizyongazetesi.com/dizi/tuzlu-kahve/karakter/mehmet-aydinoglu/",
+            "topic": "sea-rescue",
+            "verification": "secondary-unchecked-video"
+          },
+          {
+            "type": "secondary-character-guide",
+            "url": "https://televizyongazetesi.com/dizi/tuzlu-kahve/karakter/hakan-20/",
+            "topic": "betrayal-disclosure",
+            "verification": "secondary-unchecked-video"
+          },
+          {
+            "type": "secondary-character-guide",
+            "url": "https://televizyongazetesi.com/dizi/tuzlu-kahve/karakter/beste-5/",
+            "topic": "Beste-and-Elit",
+            "verification": "secondary-unchecked-video"
+          }
+        ],
+        "candidateDetails": [
+          {
+            "event": "تصاویر هاکان در حال خواستگاری از بلیز روی قایق در مراسم پخش می‌شود.",
+            "verification": "secondary-character-guide"
+          },
+          {
+            "event": "درین حلقه را داخل دریا می‌اندازد و مهمت که شنا بلد نیست برای نجات او وارد آب می‌شود.",
+            "verification": "secondary-character-guide"
+          },
+          {
+            "event": "گفت‌وگوی بسته درباره هاکان به افشای خیانت کمک می‌کند.",
+            "verification": "secondary-character-guide"
           }
         ]
       },
