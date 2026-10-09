@@ -20,8 +20,9 @@ Edit `github-pages/data/dubbed.json`:
   "series": [{
     "slug":"example-series", "titleFa":"عنوان فارسی", "titleTr":"Turkish Title",
     "description":"معرفی کوتاه تاییدشده", "hero":"",
+    "aliases":["نام فارسی دیگر"],
     "originalSeriesSlug":"existing-series-slug-if-any",
-    "broadcasts":[{"network":"gem","channel":"GEM SERIES","verified":true,"sourceUrl":"https://..."}],
+    "broadcasts":[{"network":"gem","channel":"GEM SERIES","titleFa":"عنوان پخش GEM","verified":true,"sourceUrl":"https://..."}],
     "entries":[{
       "slug":"ep-1-fa-1","title":"پاورقی قسمت ۱", "originalEpisode":1,
       "persianEpisode":1, "part":1, "parts":4,
@@ -35,3 +36,10 @@ Edit `github-pages/data/dubbed.json`:
 Numbers and broadcast mappings must be source-verified; do not mechanically divide a Turkish episode into four. The `paragraphs` are complete original prose and must not be copied subtitles. External media must have publishing rights.
 
 Do not publish placeholder recaps. The empty initial catalog intentionally only publishes the landing page.
+
+## Identity, names and broadcaster cuts
+- Each original Turkish series has exactly one canonical `slug`. The main MeshkiMedia title (`titleFa`) is not overwritten by a GEM/MBC broadcast title.
+- `aliases` contains other established titles; `broadcasts[].titleFa` is the broadcaster's exact advertised dubbed name. The index searches all names but links to the same canonical page, avoiding duplicate SEO pages.
+- `broadcasts[]` may contain both GEM and MBC Persia, but only use `verified: true` after checking an official source. Keep channel, source URL, broadcast title and dates when available.
+- A broadcaster may edit or divide episodes differently. Do not assume a Persian part number or split matches another channel. For each entry, use `broadcastRefs` with objects like `{ "network":"gem", "persianEpisode":1, "startSecond":0, "endSecond":2400, "verified":true }` when an exact alignment has been verified. If different cuts do not cover the same scenes, publish distinct entries linked to the same canonical series instead of falsely merging their contents.
+- For now `persianEpisode` at the entry level is an editorial label. Do not claim GEM/MBC numbering on an entry unless its matching `broadcastRefs` are verified.
