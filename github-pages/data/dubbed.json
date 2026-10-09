@@ -68,7 +68,8 @@
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "not-applicable",
             "readyForFullRecapLabel": true
-          }
+          },
+          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود."
         },
         {
           "slug": "dubbed-1",
@@ -111,7 +112,8 @@
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
-          }
+          },
+          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود."
         },
         {
           "slug": "dubbed-2",
@@ -154,7 +156,8 @@
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
-          }
+          },
+          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود."
         },
         {
           "slug": "dubbed-3",
@@ -197,7 +200,8 @@
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
-          }
+          },
+          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود."
         },
         {
           "slug": "original-2",
@@ -566,7 +570,17 @@
             "broadcastAlignment": "not-applicable",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-photo-gallery",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/4-bolum-fotograflari"
+            },
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-3-fragman"
+            }
+          ]
         },
         {
           "slug": "dubbed-10",
@@ -604,7 +618,17 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-photo-gallery",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/4-bolum-fotograflari"
+            },
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-3-fragman"
+            }
+          ]
         },
         {
           "slug": "dubbed-11",
@@ -642,7 +666,17 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-photo-gallery",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/4-bolum-fotograflari"
+            },
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-3-fragman"
+            }
+          ]
         },
         {
           "slug": "dubbed-12",
@@ -680,7 +714,17 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-photo-gallery",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/4-bolum-fotograflari"
+            },
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-3-fragman"
+            }
+          ]
         },
         {
           "slug": "original-5",
@@ -718,7 +762,17 @@
             "broadcastAlignment": "not-applicable",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-photo-gallery",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/5-bolum-fotograflari"
+            },
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
+            }
+          ]
         },
         {
           "slug": "dubbed-13",
@@ -755,7 +809,17 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-photo-gallery",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/5-bolum-fotograflari"
+            },
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
+            }
+          ]
         },
         {
           "slug": "dubbed-14",
@@ -792,7 +856,17 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-photo-gallery",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/5-bolum-fotograflari"
+            },
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
+            }
+          ]
         },
         {
           "slug": "dubbed-15",
@@ -829,7 +903,17 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-photo-gallery",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/5-bolum-fotograflari"
+            },
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
+            }
+          ]
         },
         {
           "slug": "original-6",
@@ -868,7 +952,13 @@
             "broadcastAlignment": "not-applicable",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/6-bolum-fragman"
+            }
+          ]
         },
         {
           "slug": "dubbed-16",
@@ -906,7 +996,13 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/6-bolum-fragman"
+            }
+          ]
         },
         {
           "slug": "dubbed-17",
@@ -944,7 +1040,13 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/6-bolum-fragman"
+            }
+          ]
         },
         {
           "slug": "dubbed-18",
@@ -982,7 +1084,13 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialVerificationNote": "صفحه رسمی حاوی متن کافی برای تأیید جزئیات این قسمت هنگام بررسی در ۹ اکتبر ۲۰۲۶ در دسترس نبود؛ متن فعلی پیش‌نویس است و نباید پاورقی تأییدشده معرفی شود."
+          "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
+          "officialSupportingMedia": [
+            {
+              "type": "official-trailer",
+              "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/6-bolum-fragman"
+            }
+          ]
         }
       ],
       "productionSources": [
@@ -8081,7 +8189,8 @@
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3892034-muhtemel-ask-in-1-bolumunde-neler-olacak",
             "https://www.showtv.com.tr/dizi/haber/3892794-muhtemel-ask-romantik-hikayesiyle-ilk-bolumden-begeni-topladi",
-            "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443"
+            "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443",
+            "https://www.youtube.com/watch?v=cA7eUHJ9pRg"
           ],
           "youtubeId": "",
           "audioUrl": "",
@@ -8092,8 +8201,10 @@
             "textLengthStatus": "length-target-met",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": true
-          }
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
+          },
+          "sourceAttributionNote": "ویدئوی خلاصه رسمی شرکت سازنده MF Yapım؛ اصالت ویدئو به معنی بررسی تایم‌کد همه صحنه‌ها نیست."
         },
         {
           "slug": "dubbed-1",
@@ -8115,7 +8226,8 @@
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3892034-muhtemel-ask-in-1-bolumunde-neler-olacak",
             "https://www.showtv.com.tr/dizi/haber/3892794-muhtemel-ask-romantik-hikayesiyle-ilk-bolumden-begeni-topladi",
-            "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443"
+            "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443",
+            "https://www.youtube.com/watch?v=cA7eUHJ9pRg"
           ],
           "youtubeId": "",
           "audioUrl": "",
@@ -8126,8 +8238,10 @@
             "textLengthStatus": "needs-expansion",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
-          }
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
+          },
+          "sourceAttributionNote": "ویدئوی خلاصه رسمی شرکت سازنده MF Yapım؛ اصالت ویدئو به معنی بررسی تایم‌کد همه صحنه‌ها نیست."
         },
         {
           "slug": "dubbed-2",
@@ -8149,7 +8263,8 @@
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3892034-muhtemel-ask-in-1-bolumunde-neler-olacak",
             "https://www.showtv.com.tr/dizi/haber/3892794-muhtemel-ask-romantik-hikayesiyle-ilk-bolumden-begeni-topladi",
-            "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443"
+            "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443",
+            "https://www.youtube.com/watch?v=cA7eUHJ9pRg"
           ],
           "youtubeId": "",
           "audioUrl": "",
@@ -8160,8 +8275,10 @@
             "textLengthStatus": "needs-expansion",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
-          }
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
+          },
+          "sourceAttributionNote": "ویدئوی خلاصه رسمی شرکت سازنده MF Yapım؛ اصالت ویدئو به معنی بررسی تایم‌کد همه صحنه‌ها نیست."
         },
         {
           "slug": "dubbed-3",
@@ -8183,7 +8300,8 @@
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3892034-muhtemel-ask-in-1-bolumunde-neler-olacak",
             "https://www.showtv.com.tr/dizi/haber/3892794-muhtemel-ask-romantik-hikayesiyle-ilk-bolumden-begeni-topladi",
-            "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443"
+            "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443",
+            "https://www.youtube.com/watch?v=cA7eUHJ9pRg"
           ],
           "youtubeId": "",
           "audioUrl": "",
@@ -8194,8 +8312,10 @@
             "textLengthStatus": "needs-expansion",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
-          }
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
+          },
+          "sourceAttributionNote": "ویدئوی خلاصه رسمی شرکت سازنده MF Yapım؛ اصالت ویدئو به معنی بررسی تایم‌کد همه صحنه‌ها نیست."
         },
         {
           "status": "published",
@@ -8227,8 +8347,10 @@
             "textLengthStatus": "needs-expansion",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
-          }
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
+          },
+          "sourceAttributionNote": "خلاصه رسمی Show TV پیش از پخش؛ روایت موجود جزئیات پس از پخش هم دارد که مستقل از خلاصه کوتاه باید بررسی شوند."
         },
         {
           "status": "published",
@@ -8260,8 +8382,10 @@
             "textLengthStatus": "needs-expansion",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
-          }
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
+          },
+          "sourceAttributionNote": "خلاصه رسمی Show TV پیش از پخش؛ روایت موجود جزئیات پس از پخش هم دارد که مستقل از خلاصه کوتاه باید بررسی شوند."
         },
         {
           "status": "published",
@@ -8293,8 +8417,10 @@
             "textLengthStatus": "needs-expansion",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
-          }
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
+          },
+          "sourceAttributionNote": "خلاصه رسمی Show TV پیش از پخش؛ روایت موجود جزئیات پس از پخش هم دارد که مستقل از خلاصه کوتاه باید بررسی شوند."
         },
         {
           "slug": "original-2",
@@ -8328,8 +8454,10 @@
             "textLengthStatus": "length-target-met",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": true
-          }
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
+          },
+          "sourceAttributionNote": "خلاصه رسمی Show TV پیش از پخش؛ روایت موجود جزئیات پس از پخش هم دارد که مستقل از خلاصه کوتاه باید بررسی شوند."
         }
       ],
       "productionSources": [
