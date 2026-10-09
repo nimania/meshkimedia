@@ -17,11 +17,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Validate catalog and monitor script locally
+        run: |
+          node --check automation/pavaraghi-source-watch.mjs
+          node automation/pavaraghi-source-watch.mjs --offline
       - name: Monitor official episode summaries
         run: node automation/pavaraghi-source-watch.mjs
       - name: Archive report for editorial review
         uses: actions/upload-artifact@v4
         with:
           name: pavaraghi-research-report
-          path: automation/reports/pavaraghi-leads.*
+          path: |
+            automation/reports/pavaraghi-leads.*
+            automation/reports/pavaraghi-backlog.json
           retention-days: 30
