@@ -855,6 +855,556 @@
         ],
         "note": "Independent editorial story-break cuts for pre-broadcast publication. Do not label as GEM/MBC episodes until broadcaster numbering and cuts are verified. The full original master remains the canonical story record."
       }
+    },
+    {
+      "slug": "sevdan-bir-ates",
+      "originalSeriesSlug": "sevdan-bir-ates",
+      "titleFa": "سِودان بیر آتش",
+      "titleTr": "Sevdan Bir Ateş",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال سِودان بیر آتش؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "ask-ve-taht",
+      "originalSeriesSlug": "ask-ve-taht",
+      "titleFa": "عشق و تخت",
+      "titleTr": "Aşk ve Taht",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال عشق و تخت؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.atv.com.tr/ask-ve-taht"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "abi",
+      "originalSeriesSlug": "abi",
+      "titleFa": "آ.ب.ای (A.B.İ.)",
+      "titleTr": "A.B.İ.",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال آ.ب.ای (A.B.İ.)؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.atv.com.tr/abi"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "gunesin-dogdugu-yer",
+      "originalSeriesSlug": "gunesin-dogdugu-yer",
+      "titleFa": "جایی که خورشید طلوع می‌کند",
+      "titleTr": "Güneşin Doğduğu Yer",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال جایی که خورشید طلوع می‌کند؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.atv.com.tr/gunesin-dogdugu-yer"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "mercan-kosk",
+      "originalSeriesSlug": "mercan-kosk",
+      "titleFa": "کوشک مرجان",
+      "titleTr": "Mercan Köşk",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال کوشک مرجان؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.atv.com.tr/mercan-kosk"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "uzak-sehir",
+      "originalSeriesSlug": "uzak-sehir",
+      "titleFa": "شهر دور",
+      "titleTr": "Uzak Şehir",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال شهر دور؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.kanald.com.tr/uzak-sehir"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "haysiyet",
+      "originalSeriesSlug": "haysiyet",
+      "titleFa": "حیثیت",
+      "titleTr": "Haysiyet",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال حیثیت؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.kanald.com.tr/haysiyet"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "guller-ve-gunahlar",
+      "originalSeriesSlug": "guller-ve-gunahlar",
+      "titleFa": "گل‌ها و گناهان",
+      "titleTr": "Güller ve Günahlar",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال گل‌ها و گناهان؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.kanald.com.tr/guller-ve-gunahlar"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "kizilcik-serbeti",
+      "originalSeriesSlug": "kizilcik-serbeti",
+      "titleFa": "شربت زغال‌اخته",
+      "titleTr": "Kızılcık Şerbeti",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال شربت زغال‌اخته؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.showtv.com.tr/dizi/tanitim/kizilcik-serbeti/2875"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "sevdigim-sensin",
+      "originalSeriesSlug": "sevdigim-sensin",
+      "titleFa": "تو همانی که دوستش دارم",
+      "titleTr": "Sevdiğim Sensin",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال تو همانی که دوستش دارم؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.startv.com.tr/dizi/sevdigim-sensin"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "gonul-dagi",
+      "originalSeriesSlug": "gonul-dagi",
+      "titleFa": "کوه دل",
+      "titleTr": "Gönül Dağı",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال کوه دل؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.trt1.com.tr/diziler/gonul-dagi"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "evlilik-guzeldir",
+      "originalSeriesSlug": "evlilik-guzeldir",
+      "titleFa": "ازدواج زیباست",
+      "titleTr": "Evlilik Güzeldir",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال ازدواج زیباست؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.trt1.com.tr/diziler/evlilik-guzeldir"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "anne-yarisi",
+      "originalSeriesSlug": "anne-yarisi",
+      "titleFa": "نیمهٔ مادر",
+      "titleTr": "Anne Yarısı",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال نیمهٔ مادر؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.nowtv.com.tr/anne-yarisi"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "omur-usta",
+      "originalSeriesSlug": "omur-usta",
+      "titleFa": "اوستا عمور",
+      "titleTr": "Ömür Usta",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال اوستا عمور؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.nowtv.com.tr/omur-usta"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "masterchef-turkiye",
+      "originalSeriesSlug": "masterchef-turkiye",
+      "titleFa": "مسترشف ترکیه",
+      "titleTr": "MasterChef Türkiye",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال مسترشف ترکیه؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.tv8.com.tr/masterchef-turkiye"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "yeralti",
+      "originalSeriesSlug": "yeralti",
+      "titleFa": "زیرزمین",
+      "titleTr": "Yeraltı",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال زیرزمین؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.nowtv.com.tr/yeralti"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "sevdam-karadeniz",
+      "originalSeriesSlug": "sevdam-karadeniz",
+      "titleFa": "سِودام قره‌دنیز",
+      "titleTr": "Sevdam Karadeniz",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال سِودام قره‌دنیز؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.nowtv.com.tr/sevdam-karadeniz"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "daha-17",
+      "originalSeriesSlug": "daha-17",
+      "titleFa": "Daha 17",
+      "titleTr": "Daha 17",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال Daha 17؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.kanald.com.tr/daha-17"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "teskilat",
+      "originalSeriesSlug": "teskilat",
+      "titleFa": "تشکیلات",
+      "titleTr": "Teşkilat",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال تشکیلات؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.trt1.com.tr/diziler/teskilat"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "cirkin",
+      "originalSeriesSlug": "cirkin",
+      "titleFa": "زشت",
+      "titleTr": "Çirkin",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال زشت؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.startv.com.tr/dizi/cirkin"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "alti-ustu-istanbul",
+      "originalSeriesSlug": "alti-ustu-istanbul",
+      "titleFa": "آلتی اوستو استانبول",
+      "titleTr": "Altı Üstü İstanbul",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال آلتی اوستو استانبول؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.atv.com.tr/alti-ustu-istanbul"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "muhtemel-ask",
+      "originalSeriesSlug": "muhtemel-ask",
+      "titleFa": "عشق احتمالی",
+      "titleTr": "Muhtemel Aşk",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال عشق احتمالی؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "mehmed-fetihler-sultani",
+      "originalSeriesSlug": "mehmed-fetihler-sultani",
+      "titleFa": "محمد: سلطان فتوحات",
+      "titleTr": "Mehmed: Fetihler Sultanı",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال محمد: سلطان فتوحات؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "baskalarinin-hayati",
+      "originalSeriesSlug": "baskalarinin-hayati",
+      "titleFa": "زندگی دیگران",
+      "titleTr": "Başkalarının Hayatı",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال زندگی دیگران؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.startv.com.tr/dizi/baskalarinin-hayati"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
+    },
+    {
+      "slug": "halef-koklerin-cagrisi",
+      "originalSeriesSlug": "halef-koklerin-cagrisi",
+      "titleFa": "جانشین: ندای ریشه‌ها",
+      "titleTr": "Halef: Köklerin Çağrısı",
+      "aliases": [],
+      "description": "پاورقی ارجینال قسمت‌های اصلی و روایت‌های دوبله فارسی سریال جانشین: ندای ریشه‌ها؛ مطالب پس از بررسی منابع معتبر منتشر می‌شوند.",
+      "broadcasts": [],
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-series",
+          "url": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi"
+        }
+      ],
+      "production": {
+        "editorialStatus": "research-queue",
+        "transcriptStatus": "not-acquired",
+        "dubbedMappingStatus": "unverified",
+        "publicationStatus": "no-published-recaps"
+      }
     }
   ]
 }
