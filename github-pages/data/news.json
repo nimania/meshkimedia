@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T14:41:43.144Z",
+ "updated": "2026-10-09T14:47:56.312Z",
  "items": [
   {
    "id": "521ce4c00f54",
@@ -130,6 +130,46 @@
    "bodyFa": [
     "در مطلبی که اخیراً منتشر شده، به موضوع تاثیر عشق و روابط عاطفی بر تصمیم‌گیری‌های زندگی پرداخته شده است؛ روابطی که گاهی با ماجراها و چالش‌های مختلفی آغاز می‌شوند.",
     "بر اساس این گزارش، برخی افراد به خاطر عشق قيد مسائل مالی را زده و حتی پیشنهادهای کاری را رد کرده‌اند تا شرایط دلخواه خود را حفظ کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "7cdec641fdcc",
+   "url": "https://www.haberturk.com/magazin/unlu-oyuncu-necla-uygur-a-veda-sira-bende-demisti-3918497",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Necla Uygur'a veda",
+   "snippet": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti. Usta sanatçı, bugün son yolculuğuna uğurlandı",
+   "image": "https://im.haberturk.com/l/2026/10/09/ver1791551603/3918497/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-09T13:57:23.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/unlu-oyuncu-necla-uygur-a-veda-sira-bende-demisti-3918497",
+     "title": "Necla Uygur'a veda",
+     "snippet": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti. Usta sanatçı, bugün son yolculuğuna uğurlandı",
+     "published": "2026-10-09T13:57:23.000Z",
+     "titleFa": "وداع با نجلا اوئیگور"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "درگذشت نجلا اوئیگور، همسر هنرمند فقید نجات اوئیگور",
+   "summaryFa": "نجلا اوئیگور، بازیگر و همسر نجات اوئیگور، در سن ۸۹ سالگی در بیمارستان درگذشت و پیکر او پس از مراسم تشییع به خاک سپرده شد.",
+   "bodyFa": [
+    "نجلا اوئیگور، چهره پیشکسوت و همسر هنرمند فقید ترک نجات اوئیگور و مادر سهیل و بهزاد اوئیگور، در سن ۸۹ سالگی در بیمارستانی که تحت درمان بود جان باخت. خبر درگذشت او توسط بهزاد اوئیگور اعلام شد.",
+    "مراسم نماز جنازه این هنرمند در مسجد تشویقیه برگزار شد و چهره‌های سرشناسی چون موجدت گزه، نور سورر، شوکت چوروح، نیلسون بلگون، آلیه اوزوناتاغان و امینه اون در آن شرکت کردند. پس از برگزاری مراسم، پیکر او در آرامستان فریدکوی به خاک سپرده شد.",
+    "نجلا اوئیگور پس از درگذشت همسرش در سال ۲۰۱۳، به همکاری با فرزندانش در تئاتر ادامه داد و در سال ۲۰۱۵ نیز در «موزیکال مارکوقاشا» روی صحنه رفته بود."
    ],
    "ai": true,
    "aiTries": 1
@@ -560,10 +600,20 @@
      "url": "https://www.haberturk.com/magazin/foto/dilber-ay-in-kizindan-ibrahim-karakas-a-tepki-3918381",
      "title": "Dilber Ay'ın kızından tepki",
      "snippet": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın, İzmirli estetisyen Müge Zopun ile evlendiği ortaya çıktı. Dilber Ay'ın kızı Filiz Çelik, Karakaş'ın \"Ben Dilber'in acısını Müge ile yendim\" sözlerine tepki gösterdi",
-     "published": "2026-10-09T09:56:34.000Z"
+     "published": "2026-10-09T09:56:34.000Z",
+     "titleFa": "واکنش دختر دیلبر آی"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "واکنش دختر دیلبر آی به ازدواج ابراهیم کاراکاش",
+   "summaryFa": "ازدواج ابراهیم کاراکاش، همسر مرحوم دیلبر آی، با یک استثنتیسین به نام موگه زوپون واکنش تند دختر دیلبر آی را در پی داشت. کاراکاش ادعا کرده است که درد از دست دادن دیلبر را با موگه التیام داده است.",
+   "bodyFa": [
+    "ابراهیم کاراکاش، همسر دیلبر آی خواننده فقیدی که در سال ۲۰۱۹ درگذشت، با زنی به نام موگه زوپون که یک استثنتیسین است، ازدواج کرد. کاراکاش مدتی پس از این ازدواج دچار حمله قلبی شد و پس از بهبودی در بخش مراقبت‌های ویژه اظهار داشت که درد فراق دیلبر آی را با همسر جدیدش فراموش کرده و او در این دوران سخت در کنارش بوده است.",
+    "موگه زوپون نیز ضمن ابراز احترام به دیلبر آی، تأکید کرد که همواره حامی همسرش بوده و آن‌ها در تمام شرایط به یکدیگر پشتیبانی خواهند داد.",
+    "با این حال، فلیز چلیک، دختر دیلبر آی، واکنش بسیار تندی به این اظهارات نشان داد. او ادعا کرد که کاراکاش دروغ می‌گوید و پس از مرگ مادرش عزادار نبوده، بلکه خیلی زود به سراغ کارهای دیگر رفته است. او همچنین مدعی شد که کاراکاش به دنبال منافع شخصی خود است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "52767220ad33",
@@ -590,7 +640,8 @@
      "url": "https://www.sozcu.com.tr/dilber-ay-in-eski-esinin-sozleri-kizini-kizdirdi-bir-yagli-kapi-daha-buldun-p367636",
      "title": "Dilber Ay'ın eski eşinin sözleri kızını kızdırdı: “Bir yağlı kapı daha buldun”",
      "snippet": "2019'da hayatını kaybeden Dilber Ay'ın eşi İbrahim Karakaş'ın yeniden evlendiği ortaya çıktı. Estetisyen Müge Zopun ile ...",
-     "published": "2026-10-09T09:51:27.000Z"
+     "published": "2026-10-09T09:51:27.000Z",
+     "titleFa": "سخنان همسر سابق دلبر آی دخترش را عصبانی کرد: «یک در روغنی دیگر پیدا کردی»"
     }
    ],
    "images": [
@@ -601,7 +652,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac8d3728c023a08fe8bae3bpng-mRzt9IZE5EK8PGMdQ1N8zw.png?w=320&h=248&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac8ce4e8c023a08fe896d56png-6NzQnBKBHkmUXsdMMBkj7Q.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "واکنش تند دختر دلبر آی به اظهارات همسر سابق این هنرمند",
+   "summaryFa": "ازدواج مجدد ابراهیم کارakaش، همسر فقید دلبر آی، با واکنش تند دختر این هنرمند روبه‌رو شد. کارakaش گفته بود که درد از دست دادن دلبر آی را با همسر جدیدش التیام داده است.",
+   "bodyFa": [
+    "مشخص شد که ابراهیم کاراکاش، همسر دلبر آی که در سال ۲۰۱۹ درگذشته بود، دوباره ازدواج کرده است. او با یک استثن‌گر به نام مژده زوپون پیمان زناشویی بسته است.",
+    "کاراکاش پس از این ازدواج اظهار داشت که درد دلبر را با مژده فراموش کرده و التیام بخشیده است. این سخنان با واکنش بسیار تند و خشمگینانه فیلیز چلیک، دختر این هنرمند فقید مواجه شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "fcb968b5debc",
@@ -628,10 +687,20 @@
      "url": "https://www.haberturk.com/magazin/foto/celine-dion-konser-esnasinda-sahnede-dustu-3918421",
      "title": "Sahnede düştü",
      "snippet": "Nadir görülen hastalığı nedeniyle altı yıl sahnelere ara veren Celine Dion, geri dönüş konser serisinin sonuncusunda talihsiz bir kaza yaşadı",
-     "published": "2026-10-09T09:41:14.000Z"
+     "published": "2026-10-09T09:41:14.000Z",
+     "titleFa": "سلین دیون روی صحنه زمین خورد"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "سلین دیون روی صحنه زمین خورد",
+   "summaryFa": "سلین دیون، خواننده ۵۸ ساله کانادایی، در جریان آخرین کنسرت خود در پاریس دچار حادثه شد و روی صحنه زمین خورد. او پس از این اتفاق بدون اینکه صدمه ببیند سریعا بلند شد و به اجرای خود ادامه داد.",
+   "bodyFa": [
+    "سلین دیون که به دلیل ابتلا به یک بیماری نادر عصبی به نام «سندرم مرد سخت» برای شش سال از صحنه‌ها دور بود، در آخرین کنسرت از سری اجراهای بازگشت خود با حادثه‌ای روبه‌رو شد. این خواننده ۵۸ ساله کانادایی در حین اجرای ترانه «در دنیایی دیگر» در سالن «پلنیتود آرنا» در پاریس روی صحنه زمین خورد.",
+    "تصاویر منتشر شده در شبکه‌های اجتماعی نشان می‌دهد که پای دیون به پاچه شلوارش گیر کرده و روی زمین افتاده است. با وجود این، او بلافاصله بدون برداشتن جراحتی از جا برخاست، با نشان دادن علامت «حالم خوب است» به هوادارانش آرامش داد و اجرای آهنگ را از سر گرفت.",
+    "این هنرمند در دسامبر ۲۰۲۲ اعلام کرده بود که به سندرم مرد سخت مبتلا شده است؛ بیماری خودایمنی و نادری که باعث سفتی عضلات و اسپاسم‌های دردناک می‌شود و درمان قطعی ندارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8a7219197342",
@@ -645,7 +714,7 @@
    "video": null,
    "published": "2026-10-09T09:31:00.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -658,9 +727,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/ceylan-ertemden-kopeklerine-ozel-ev-telif-kazancini-bakin-nereye-harcadi-43335109",
      "title": "Ceylan Ertem köpeklerine ev aldı! İçini tek tek kendi hazırladı...",
      "snippet": "Hayvanlara olan sevgisiyle tanınan ünlü şarkıcı Ceylan Ertem, köpekleri için yaptırdığı konteyner evle gündeme geldi. Telif gelirlerini köpekleri için harcayan Ertem, yeni yuvanın görüntülerini sosyal medya hesabından paylaşarak takipçilerine çağrıda bulundu.",
-     "published": "2026-10-09T09:31:00.000Z"
+     "published": "2026-10-09T09:31:00.000Z",
+     "titleFa": "جیلان ارتِم برای سگ‌هایش خانه خرید! داخل آن را شخصاً آماده کرد..."
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8b465c23893d59e735fbe.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac8b465c23893d59e735fbe.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "خرید خانه کانتینری جیلان ارتِم برای سگ‌هایش",
+   "summaryFa": "جیلان ارتِم، خواننده معروف، با هزینه‌کردن درآمدهای حق نشر خود برای سگ‌هایش یک خانه کانتینری ساخت و تصاویری از آن را در شبکه اجتماعی خود منتشر کرد.",
+   "bodyFa": [
+    "جیلان ارتِم، خواننده سرشناس که به عشق خود به حیوانات شناخته می‌شود، اقدام به ساخت یک خانه کانتینری برای سگ‌هایش کرده و بازسازی داخل آن را شخصاً انجام داده است.",
+    "او درآمدهای حاصل از حق نشر خود را صرف این کار کرده و تصاویر این خانه جدید را در حساب کاربری خود در شبکه‌های اجتماعی به اشتراک گذاشته و از دنبال‌کنندگان خود نیز دعوت به عمل آورده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "cfb7d6d17ced",
@@ -838,73 +925,6 @@
    "aiTries": 1
   },
   {
-   "id": "b1b2b21dc2c0",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-kizi-sezen-bugun-son-yolculuguna-ugurlanacak-43335119",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Atilla Taş'ın kızı Sezen bugün son yolculuğuna uğurlanacak",
-   "snippet": "Atilla Taş'ın 14. kattan düşerek hayatını kaybeden kızı Sezen, bugün son yolculuğuna uğurlanacak.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8aaad6a02409aac4a3ef6.jpg",
-   "video": null,
-   "published": "2026-10-09T08:49:54.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-kizi-sezen-bugun-son-yolculuguna-ugurlanacak-43335119",
-     "title": "Atilla Taş'ın kızı Sezen bugün son yolculuğuna uğurlanacak",
-     "snippet": "Atilla Taş'ın 14. kattan düşerek hayatını kaybeden kızı Sezen, bugün son yolculuğuna uğurlanacak.",
-     "published": "2026-10-09T08:49:54.000Z"
-    }
-   ]
-  },
-  {
-   "id": "2f8917c0e760",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yakinda-olecegi-unlu-sarkicinin-sanki-icine-dogmus-uc-gun-once-kizina-veda-etmis-baba-boyle-konusma-deyip-agladim-43334984",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Yakında öleceği ünlü şarkıcının sanki içine doğmuş... Üç gün önce kızına veda etmiş... 'Baba böyle konuşma deyip ağladım'",
-   "snippet": "Geçen yıl yaz aylarının ortasında müzik dünyasından gelen bir acı haber milyonları sarstı...",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8a9446a02409aac4a3ed4.jpg",
-   "video": null,
-   "published": "2026-10-09T08:49:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yakinda-olecegi-unlu-sarkicinin-sanki-icine-dogmus-uc-gun-once-kizina-veda-etmis-baba-boyle-konusma-deyip-agladim-43334984",
-     "title": "Yakında öleceği ünlü şarkıcının sanki içine doğmuş... Üç gün önce kızına veda etmiş... 'Baba böyle konuşma deyip ağladım'",
-     "snippet": "Geçen yıl yaz aylarının ortasında müzik dünyasından gelen bir acı haber milyonları sarstı...",
-     "published": "2026-10-09T08:49:00.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8a9446a02409aac4a3ed4.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac8a9446a02409aac4a3ed4.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "dfdeece3fb8a",
    "url": "https://www.sozcu.com.tr/8-ekim-reyting-sonuclari-aciklandi-total-ve-ab-de-zirvenin-sahibi-degisti-p367609",
    "source": "sozcu-magazin",
@@ -958,35 +978,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "fb73ab076f45",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/bu-ayrilikla-ilgili-bildigimiz-her-sey-yalanmis-eski-karisini-yerin-dibine-soktu-olumle-bogusurken-benimle-alay-etti-bana-43335078",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Bu ayrılıkla ilgili bildiğimiz her şey yalanmış… Eski karısını yerin dibine soktu: Ölümle boğuşurken benimle alay etti, bana sarılmak bile istemedi!",
-   "snippet": "\"Evliliğim bitti çünkü eşim benden daha gençti, çocuk sahibi olmak istiyordu ve ben yaşlı bir anne olmak istemiyordum,\" demiş ve eklemişti: \"Bunun bebek için adil olmadığını düşünüyorum.\"",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8a45cac6b5ddc6b78c74b.jpg",
-   "video": null,
-   "published": "2026-10-09T08:30:48.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/bu-ayrilikla-ilgili-bildigimiz-her-sey-yalanmis-eski-karisini-yerin-dibine-soktu-olumle-bogusurken-benimle-alay-etti-bana-43335078",
-     "title": "Bu ayrılıkla ilgili bildiğimiz her şey yalanmış… Eski karısını yerin dibine soktu: Ölümle boğuşurken benimle alay etti, bana sarılmak bile istemedi!",
-     "snippet": "\"Evliliğim bitti çünkü eşim benden daha gençti, çocuk sahibi olmak istiyordu ve ben yaşlı bir anne olmak istemiyordum,\" demiş ve eklemişti: \"Bunun bebek için adil olmadığını düşünüyorum.\"",
-     "published": "2026-10-09T08:30:48.000Z"
-    }
-   ]
   },
   {
    "id": "a991a0472116",
@@ -1201,7 +1192,8 @@
      "url": "https://www.milliyet.com.tr/magazin/neset-ertasin-yozgattaki-mirasi-icin-kultur-merkezi-cagrisi-adi-yasasin-sanati-olmesin-7676177",
      "title": "Neşet Ertaş'ın Yozgat'taki mirası için kültür merkezi çağrısı: Adı yaşasın, sanatı ölmesin",
      "snippet": "Türk halk müziğinin unutulmaz isimlerinden Neşet Ertaş’ın hayatında önemli bir yere sahip olan Yozgat’ın Yerköy ilçesi, sanatçının geçmişte bıraktığı izlerle anılıyor. Uzun yıllar ilçede yaşayan Ertaş’ın babası Muharrem Ertaş ile birlikte müzik yaptığı, düğünlere katıldığı ve yöredeki müzik kültürün",
-     "published": "2026-10-09T07:44:08.000Z"
+     "published": "2026-10-09T07:44:08.000Z",
+     "titleFa": "فراخوان مرکز فرهنگی برای میراث نشات ارتاش در یوزگات: نامش زنده بماند، هنرش نمیرد"
     }
    ],
    "images": [
@@ -1212,7 +1204,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "درخواست تاسیس مرکز فرهنگی به نام نشات ارتاش در یوزگات",
+   "summaryFa": "اهالی شهرستان یرکوی در یوزگات خواستار تاسیس یک مرکز فرهنگی و هنری به نام نشات ارتاش شدند. این اقدام با هدف زنده نگه داشتن یاد این هنرمند و فرهنگ ابدال صورت گرفته است.",
+   "bodyFa": [
+    "شهرستان یرکوی در استان یوزگات که زمانی محل زندگی و فعالیت هنری نشات ارتاش، از چهره‌های ماندگار موسیقی محلی ترکیه، بوده است، اکنون شاهد درخواستی مردمی برای گرامیداشت یاد اوست.",
+    "اهالی این منطقه از مقامات درخواست کرده‌اند تا برای انتقال میراث هنری این هنرمند و فرهنگ ابدال به نسل‌های آینده، یک مرکز فرهنگی و هنری به نام نشات ارتاش در این شهرستان دایر گردد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "9cb7eb67d678",
@@ -1280,7 +1280,7 @@
      "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı",
      "snippet": "2023 yılında Sedat Arpalık ile evlenen Melike Şahin'den müjdeli haber geldi. Hamilelik pozlarıyla gündeme gelen ünlü şar...",
      "published": "2026-10-09T07:07:46.000Z",
-     "titleFa": "ملیکه شاهین مادر شد: اولین نوزادش را در آغوش گرفت"
+     "titleFa": "ملیکه شاهین مادر شد: اولین bebeğini کucağına aldı"
     },
     {
      "source": "milliyet-magazin",
@@ -1288,7 +1288,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
      "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı",
      "snippet": "Ünlü şarkıcı Melike Şahin’den sevindiren haber geldi. 2023 yılında Sedat Arpalık ile evlenen başarılı sanatçı, oğlunu kucağına alarak ilk kez anne oldu.",
-     "published": "2026-10-09T09:13:33.000Z"
+     "published": "2026-10-09T09:13:33.000Z",
+     "titleFa": "ملیکه شاهین مادر شد! اولین bebeğini کucağına aldı"
     }
    ],
    "images": [
@@ -1300,18 +1301,28 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/okan-buruktan-iki-surprizpng-QFed5r9Jn068UjRy7gPISw.png?w=320&h=248&mode=crop&scale=both"
    ],
    "mediaDone": true,
-   "titleFa": "ملیکه شاهین مادر شد: اولین نوزادش را در آغوش گرفت",
-   "summaryFa": "ملیکه شاهین، خواننده معروف که در سال ۲۰۲۳ با سدات آرپالیک ازدواج کرده بود، اولین فرزند خود را به دنیا آورد.",
+   "titleFa": "ملیکه شاهین مادر شد: اولین فرزند خود را در آغوش گرفت",
+   "summaryFa": "ملیکه شاهین که در سال ۲۰۲۳ با سدات آرپالیلک ازدواج کرده بود، اولین فرزند خود را به دنیا آورد.",
    "bodyFa": [
-    "ملیکه شاهین، خواننده سرشناس که با آثار و اجراهای صحنه‌ای خود شناخته می‌شود، دوره جدیدی را در زندگی خصوصی خود آغاز کرده است. این هنرمند محبوب که پیش از این با انتشار تصاویر دوران بارداری‌اش توجه رسانه‌ها را به خود جلب کرده بود، نخستین فرزند خود را به دنیا آورد.",
-    "شاهین در سال ۲۰۲۳ پس از یک رابطه طولانی‌مدت با سدات آرپالیک ازدواج کرد. بر اساس گزارش‌های منتشر شده، فرزند این زوج یک پسر است، اما هنوز نامی که آن‌ها برای نوزاد خود انتخاب کرده‌اند مشخص نیست و این موضوع باعث کنجکاوی طرفداران شده است."
+    "ملیکه شاهین، خواننده سرشناس که در سال ۲۰۲۳ با سدات آرپالیلک ازدواج کرده بود، وارد مرحله جدیدی از زندگی شخصی خود شد و اولین فرزندش را به دنیا آورد.",
+    "طبق گزارش منابع خبری، این خواننده که پیش‌تر با عکس‌های دوران بارداری خود در رسانه‌ها مطرح شده بود، اکنون فرزند پسر خود را در آغوش گرفته است.",
+    "در حالی که خبر به دنیا آمدن فرزند این زوج تأیید شده است، رسانه‌ها اعلام کرده‌اند که نام انتخابی او برای پسرش هنوز مشخص نیست و موضوع کنجکاوی مخاطبان است."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "5cdf0c08e914"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "ملیکه شاهین در سال ۲۰۲۳ با سدات آرپالیلک ازدواج کرده است.",
+     "این خواننده اولین فرزند خود را به دنیا آورده است."
+    ],
+    "differ": [],
+    "unconfirmed": [
+     "سایت سجوکو ذکر کرده است که نام انتخابی فرزند پسر او هنوز موضوعی نامشخص و مورد کنجکاوی است."
+    ]
+   }
   },
   {
    "id": "c312cb4e20cd",
@@ -1393,7 +1404,7 @@
      "title": "\"Evlilik bana yakıştı\"",
      "snippet": "Ünlü komedyen Hasan Can Kaya, haziran ayında evlendiği Duygu Karabaş ile ilk kez kameraların karşısına geçti. Kaya, \"Evlilik bana yakıştı\" dedi",
      "published": "2026-10-09T07:03:50.000Z",
-     "titleFa": "«ازدواج به من می‌آید»"
+     "titleFa": "ازدواج به من آمد"
     },
     {
      "source": "sozcu-magazin",
@@ -1401,23 +1412,53 @@
      "url": "https://www.sozcu.com.tr/hasan-can-kaya-esini-ilk-kez-gosterdi-evlilik-bana-yakisti-p367655",
      "title": "Hasan Can Kaya eşiyle ilk kez poz verdi: “Evlilik bana yakıştı”",
      "snippet": "Hasan Can Kaya, haziran ayında ABD'de evlendiği Duygu Karabaş ile ilk kez kameraların karşısına geçti. Özel hayatını göz...",
-     "published": "2026-10-09T11:09:48.000Z"
+     "published": "2026-10-09T11:09:48.000Z",
+     "titleFa": "حسن جان کایا برای اولین بار با همسرش عکس یادگاری گرفت: «ازدواج به من آمد»"
     }
    ],
    "mediaDone": true,
-   "titleFa": "«ازدواج به من می‌آید»؛ اولین حضور حسن جان کایا و همسرش در مقابل دوربین‌ها",
-   "summaryFa": "حسن جان کایا، کمدین معروف، برای نخستین بار همراه با همسرش دویگو کاراباش در مقابل دوربین رسانه‌ها ظاهر شد و از زندگی مشترک خود ابراز رضایت کرد.",
+   "titleFa": "حسن جان کایا برای اولین بار با همسرش در انظار عمومی ظاهر شد",
+   "summaryFa": "حسن جان کایا، کمدین معروف، برای اولین بار پس از ازدواجش در ماه ژوئن با Duygu Karabaş در برابر دوربین‌ها قرار گرفت. او اظهار داشت که تأهل به او می‌آید و زندگی‌اش منظم‌تر شده است.",
    "bodyFa": [
-    "حسن جان کایا، کمدین مشهور، در جریان مهمانی آغاز فصل جدید برنامه خود به نام «کونوشانلار»، برای نخستین بار همراه با همسرش دویگو کاراباش در مقابل خبرنگاران قرار گرفت. این زوج که در ماه مارس تصمیم به ازدواج گرفته و در ماه ژوئن در ایالات متحده آمریکا ازدواج کرده بودند، برای اولین بار با هم عکس گرفتند. کایا در این مراسم اعلام کرد که ازدواج به او ساخته، او را منظم‌تر کرده و در مجموع تأثیر بسیار خوبی بر زندگی‌اش گذاشته است.",
-    "این مراسم میزبان چهره‌های مشهور دیگری نیز بود. بنسو سورال، بازیگر شناخته‌شده، به همراه همسرش هاکان باش در این برنامه حضور داشت. سورال در پاسخ به سؤال خبرنگاران درباره بچه‌دار شدن، به شوخی گفت که «بهترین بچه، بچه دیگران است» اما در ادامه اشاره کرد که داشتن فرزند مسئولیت بسیار بزرگی است و باید دید در آینده چه پیش می‌آید.",
-    "همچنین سفو، خواننده معروف، در این رویداد حضور داشت و به طرفداران خود مژده داد که ترانه جدیدش در شانزدهم ماه منتشر خواهد شد. او از پاسخ به سؤالات مربوط به زندگی خصوصی‌اش خودداری کرد و ترجیح داد این موضوع را مطرح نکند."
+    "حسن جان کایا، کمدین شناخته‌شده که زندگی خصوصی خود را به دور از دید عموم نگه می‌دارد، به همراه همسرش Duygu Karabaş برای نخستین بار در مراسمی در کنار هم دیده شدند. این زوج که در ماه مارس تصمیم به ازدواج گرفته و در ماه ژوئن در ایالات متحده آمریکا پیمان زناشویی بسته بودند، مقابل خبرنگاران و عکاسان قرار گرفتند.",
+    "این رویداد که همزمان با مهمانی آغاز فصل جدید برنامه «Konuşanlar» برگزار شد، میزبان چهره‌های مشهور دیگری نیز بود. کایا در این مراسم درباره تأهل خود صحبت کرد و بیان داشت که ازدواج به او می‌آید، انضباط بیشتری به زندگی‌اش بخشیده و تأثیر مثبتی بر او داشته است."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "d48dc5aa4784"
    ],
-   "regen": true
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/323jpg-9gn9FAXWKUSOiYhRMX1pBg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/hasan-can-kaya-evlilikkjpg-3KEqS-l-aEudY_5_61QUcQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac8d3728c023a08fe8bae3bpng-mRzt9IZE5EK8PGMdQ1N8zw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac8ce4e8c023a08fe896d56png-6NzQnBKBHkmUXsdMMBkj7Q.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/okanburukuendiselendirendurumfutbolcularinitekertekeruyardi6ac8c90e8c023a08fe876cdcpng-rt_v7RNzLE6iNVpGDpDYmg.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "comparison": {
+    "agree": [
+     "حسن جان کایا با Duygu Karabaş ازدواج کرده است.",
+     "این زوج در ماه ژوئن ازدواج کرده‌اند.",
+     "آنها برای اولین بار در کنار یکدیگر در برابر دوربین‌ها ظاهر شده‌اند."
+    ],
+    "differ": [
+     {
+      "topic": "محل ازدواج",
+      "views": [
+       {
+        "source": "haberturk-magazin",
+        "text": "این زوج در ایالات متحده آمریکا ازدواج کرده‌اند."
+       },
+       {
+        "source": "sozcu-magazin",
+        "text": "ذکری از کشور محل ازدواج نشده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   }
   },
   {
    "id": "2810eea4e6b5",
@@ -2090,35 +2131,6 @@
    "aiTries": 1
   },
   {
-   "id": "455254783b74",
-   "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
-   "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atijpg-kZSErYcK8UaLThbvexys-g.jpg",
-   "video": null,
-   "published": "2026-10-09T04:38:42.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
-     "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
-     "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
-     "published": "2026-10-09T04:38:42.000Z"
-    }
-   ]
-  },
-  {
    "id": "3044562525d1",
    "url": "https://www.hurriyet.com.tr/kelebek/hayat/esi-var-uyarisi-guldurdu-berguzar-hep-var-43334775",
    "source": "hurriyet-kelebek",
@@ -2517,9 +2529,28 @@
      "url": "https://www.milliyet.com.tr/magazin/tiyatro-disiplinle-para-kazandirir-7676094",
      "title": "‘Tiyatro disiplinle para kazandırır’",
      "snippet": "Geceye eşi Beyza Şekerci ile gelen Engin Hepileri, “Tiyatro artık para kazandırmıyor mu?” sorusuna, “İşinizi düzgün yaparsanız kazandırıyor” yanıtıyla disipline vurgu yaptı. Kutlamaya tek başına katılan Birce Akalay ise, sevgilisi Hakan Kurtaş’ın “Onu ilk gördüğümde aşık olmuştum” sözlerinin hatırla",
-     "published": "2026-10-09T04:02:31.000Z"
+     "published": "2026-10-09T04:02:31.000Z",
+     "titleFa": "«تئاتر با انضباط پول در می‌آورد»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac81a43f15b2619d4a3bb4b.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac81a43f15b2619d4a3bb4b.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "حضور چهره‌های مشهور در آغاز فصل چهاردهم زورلو پی‌اس‌ام",
+   "summaryFa": "چهره‌های سرشناس سینما و تئاتر در مراسم آغاز فصل جدید زورلو پی‌اس‌ام شرکت کردند. در جریان این مراسم، انگین هپیلری و بورجه آکالای به پرسش‌های خبرنگاران پاسخ دادند.",
+   "bodyFa": [
+    "چهره‌های مشهور ترکیه‌ای برای شرکت در مراسم آغاز فصل چهاردهم زورلو پی‌اس‌ام در این محل گردهم آمدند و این رویداد را جشن گرفتند.",
+    "انگین هپیلری به همراه همسرش بینزا شکورچی در این مراسم حضور یافت. او در پاسخ به پرسشی درباره درآمدزایی تئاتر، بر اهمیت انضباط کاری تأکید کرد و گفت که اگر کار به شکل درست انجام شود، تئاتر همچنان درآمد به همراه دارد.",
+    "از سوی دیگر، بورجه آکالای به تنهایی در این جشن شرکت کرد و یادآور اظهارات اخیر هاکان کورتاش شد که گفته بود از همان نگاه اول عاشق او شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d29b68e5b1f1",
@@ -2546,9 +2577,27 @@
      "url": "https://www.milliyet.com.tr/magazin/karadeniz-ezgileri-sunacak-7676088",
      "title": "Karadeniz ezgileri sunacak",
      "snippet": "Şarkıcı, misafirlere hem duygusal hem de hareketli anlar yaşatacak. Uzunlar, Pasha Lefkoşa’da müzikseverlerle bir araya gelecek. Şarkıcı, Karadeniz’in hareketli ezgilerine uzanan renkli repertuvarıyla misafirleri müzik yolculuğuna çıkaracak.",
-     "published": "2026-10-09T04:02:30.000Z"
+     "published": "2026-10-09T04:02:30.000Z",
+     "titleFa": "ملودی‌های دریای سیاه ارائه خواهد داد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac81955f15b2619d4a3bb18.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac81955f15b2619d4a3bb18.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای ملودی‌های دریای سیاه توسطکین اوزونلار",
+   "summaryFa": "کین اوزونلار در Pasha Lefkoşa با اجرای قطعات شاد و احساسی، شور و هیجان ملودی‌های دریای سیاه را به مخاطبان ارائه خواهد داد.",
+   "bodyFa": [
+    "کین اوزونلار قرار است در Pasha Lefkoşa با اجرای قطعات شاد و احساسی، شور و هیجان ملودی‌های دریای سیاه را به مخاطبان ارائه دهد. این خواننده با در دست داشتن یک رپرتوار رنگارنگ، مخاطبان خود را به یک سفر موسیقایی هدایت خواهد کرد.",
+    "این رویداد به عنوان انتقال‌دهنده انرژی و شور و هیجان منطقه دریای سیاه به یک شب مدیترانه‌ای توصیف شده است و علاقه‌مندان به موسیقی در این برنامه گرد هم خواهند آمد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "2a8bf591607f",
@@ -2575,9 +2624,27 @@
      "url": "https://www.milliyet.com.tr/magazin/sezen-sarkilari-almanyaya-tasiniyor-7676082",
      "title": "Sezen şarkıları Almanya’ya taşınıyor",
      "snippet": "Sanatçı, 27 Kasım’da Mannheim’da dev senfoni orkestrası eşliğinde Sezen Aksu’nun şarkılarını seslendirecek. Konserde Yener’e Almanya’nın köklü orkestralarından Deutsche Staatsphilharmonie Rheinland-Pfalz eşlik edecek.",
-     "published": "2026-10-09T04:02:28.000Z"
+     "published": "2026-10-09T04:02:28.000Z",
+     "titleFa": "آهنگ‌های سزن به آلمان منتقل می‌شود"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac81849f15b2619d4a3bafc.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac81849f15b2619d4a3bafc.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "آثار سзен آکسو با پروژه هانده ینک به آلمان می‌رود",
+   "summaryFa": "پروژه «هانده ما را به سزن ببر» هانده ینک به کشور آلمان منتقل می‌شود. این هنرمند در تاریخ ۲۷ نوامبر در شهر مانهایم به اجرای برنامه خواهد پرداخت.",
+   "bodyFa": [
+    "پروژه موسیقایی «هانده ما را به سزن ببر» متعلق به هانده ینک قرار است به آلمان برود. بر اساس اطلاعات منتشر شده، این هنرمند در تاریخ ۲۷ نوامبر در شهر مانهایم به روی صحنه خواهد رفت و ترانه‌های سزن آکسو را اجرا خواهد کرد.",
+    "در این رویداد موسیقایی، ارکستر ریشه‌دار آلمانی موسوم به Deutsche Staatsphilharmonie Rheinland-Pfalz که یک ارکستر بزرگ سمفونیک است، هانده ینک را همراهی خواهد کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "189536f09552",
@@ -2604,9 +2671,27 @@
      "url": "https://www.milliyet.com.tr/magazin/altunun-kedi-fani-7676081",
      "title": "Altun’un kedi fanı",
      "snippet": "Kapalı gişe gerçekleşen konserde sanatçı, fenomen eserlerini seslendirdi. Binlerce kişi Altun’un şarkılarına eşlik etti. Gecenin dikkat çeken detaylardan biri ise sahne arkasındaki kedi oldu. Bir kedi Altun’u kıpırdamadan konser boyunca dinledi. Sanatçı, sahnenin sonunda kedinin yanından geçerek, se",
-     "published": "2026-10-09T04:02:27.000Z"
+     "published": "2026-10-09T04:02:27.000Z",
+     "titleFa": "طرفدار گربه‌ای آلتون"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac817ddf15b2619d4a3baf3.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac817ddf15b2619d4a3baf3.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "گربه‌ای که در کنسرت هاکان آلتون روی صحنه حاضر شد",
+   "summaryFa": "هاکان آلتون در تئاتر روباز فرهنگ‌پارک ازمیر به روی صحنه رفت و حضور یک گربه در پشت صحنه این کنسرت توجه حاضران را به خود جلب کرد.",
+   "bodyFa": [
+    "هاکان آلتون، خواننده سرشناس، در تئاتر روباز فرهنگ‌پارک ازمیر اجرایی با بلیت‌های تکمیل‌شده داشت و آثار معروف خود را برای هزاران نفری که همخوانی می‌کردند، اجرا کرد.",
+    "یکی از نکات جالب توجه این اجرا که با استقبال مخاطبان روبه‌رو شد، حضور یک گربه در پشت صحنه بود که تمام مدت کنسرت را بدون حرکت به تماشای اجرای این هنرمند نشست. در پایان برنامه نیز این خواننده از کنار گربه عبور کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1043c325b857",
@@ -2633,9 +2718,28 @@
      "url": "https://www.milliyet.com.tr/magazin/yolculuk-kaldigi-yerden-devam-ediyor-7676078",
      "title": "Yolculuk kaldığı yerden devam ediyor!",
      "snippet": "Toplamda 4.4 milyondan fazla seyirciye ulaşan iki filmin devamı 26 Şubat 2027’de sinemaseverlerle buluşacak. Senaryosunu İbrahim Büyükak’ın kaleme aldığı, çekimlerine ekim ayında başlanacak ‘Yol Arkadaşım 3’ filminin oyuncu kadrosu önümüzdeki günlerde açıklanacak.",
-     "published": "2026-10-09T04:02:25.000Z"
+     "published": "2026-10-09T04:02:25.000Z",
+     "titleFa": "سفر از همان جایی که متوقف شده بود ادامه دارد!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac81740f15b2619d4a3bae8.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac81740f15b2619d4a3bae8.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "فیلم «یول آرکاداشیم ۳» در راه سینماها",
+   "summaryFa": "سومین قسمت از فیلم «یول آرکاداشیم» با بازی ابراهیم بویوک‌اک و اوغوزهان کوچ در تاریخ ۲۶ فوریه ۲۰۲۷ اکران خواهد شد. فیلم‌نامه این اثر توسط ابراهیم بویوک‌اک نوشته شده و فیلم‌برداری آن در ماه اکتبر آغاز می‌شود.",
+   "bodyFa": [
+    "مجموعه فیلم‌های محبوب «یول آرکاداشیم» که پیش‌تر توانسته بود بیش از ۴.۴ میلیون مخاطب را جذب کند، با ساخت قسمت سوم به پرده سینماها بازمی‌گردد. در این پروژه نیز مانند فیلم‌های قبلی، ابراهیم بویوک‌اک و اوغوزهان کوچ به عنوان بازیگران اصلی حضور دارند.",
+    "نگارش فیلم‌نامه این فیلم بر عهده ابراهیم بویوک‌اک است و مراحل فیلم‌برداری آن قرار است در ماه اکتبر آغاز شود. همچنین اعلام شده است که فهرست کامل بازیگران این اثر در روزهای آینده به اطلاع عموم خواهد رسید.",
+    "طرفداران این مجموعه سینمایی باید تا تاریخ ۲۶ فوریه ۲۰۲۷ منتظر بمانند تا بتوانند این فیلم جدید را در سالن‌های سینما تماشا کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "55bfeeb02f8c",
@@ -2662,7 +2766,8 @@
      "url": "https://www.sabah.com.tr/magazin/seda-sayandan-sosyal-medyayi-sallayan-sozler-o-kadinlari-hedef-aldi-bu-yaptiginiz-rezillik-7676813",
      "title": "Seda Sayan'dan sosyal medyayı sallayan sözler! O kadınları hedef aldı: \"Bu yaptığınız rezillik...\"",
      "snippet": "Kadırgalı lakaplı Seda Sayan, evlilik hayali kuran kadınları adeta topa tuttu ve duyanların kulaklarına inanamayacağı o zehir zemberek sözleri sarf etti. İşte ünlü sanatçının sosyal medyayı birbirine katan... Devamı için tıklayınız",
-     "published": "2026-10-09T03:52:00.000Z"
+     "published": "2026-10-09T03:52:00.000Z",
+     "titleFa": "سخنان تکان‌دهنده سدا سایان در شبکه‌های اجتماعی! او زنان را هدف گرفت: «این کاری که می‌کنید مایه شرمساری است...»"
     },
     {
      "source": "sozcu-magazin",
@@ -2670,12 +2775,52 @@
      "url": "https://www.sozcu.com.tr/seda-sayan-dan-sosyal-medyayi-sallayan-sozler-kendini-mi-satiyorsun-p367537",
      "title": "Seda Sayan'dan sosyal medyayı sallayan sözler: “Kendini mi satıyorsun?”",
      "snippet": "Seda Sayan, evlilikte maddi güvence arayan kadınlarla ilgili sözleriyle tartışma başlattı. Ünlü sanatçının açıklamaların...",
-     "published": "2026-10-09T05:50:27.000Z"
+     "published": "2026-10-09T05:50:27.000Z",
+     "titleFa": "سخنان تکان‌دهنده سدا سایان در شبکه‌های اجتماعی: «آیا خودت را می‌فروشی؟»"
     }
    ],
    "mergedIds": [
     "d96061264ace"
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/4582af/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/seda-sayandan-sosyal-medyayi-sallayan-sozler-o-kadinlari-hedef-aldi-bu-yaptiginiz-rezillik-1791517831759.jpeg",
+    "https://iasbh.tmgrup.com.tr/c4b28f/752/395/0/28/800/448?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/seda-sayandan-sosyal-medyayi-sallayan-sozler-o-kadinlari-hedef-aldi-bu-yaptiginiz-rezillik-1791517831759.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "سayان سayan با اظهارات خود در خصوص ازدواج و زنان جنجال‌ساز شد",
+   "summaryFa": "سدا سایان با سخنان خود درباره زنانی که در ازدواج به دنبال امنیت مالی هستند، واکنش‌های متفاوتی را در شبکه‌های اجتماعی برانگیخت.",
+   "bodyFa": [
+    "سدا سایان، خواننده و مجری معروف ملقب به کادیرگالی، با اظهارات خود پیرامون روابط و ازدواج جنجال به پا کرد و در شبکه‌های اجتماعی بحث‌برانگیز شد.",
+    "او زنانی را که رویای ازدواج در سر دارند و به دنبال امنیت مالی یا درخواست خانه از مردان پیش از ازدواج هستند، مورد انتقاد شدید قرار داد و سخنان تندی را مطرح کرد.",
+    "این اظهارات واکنش‌های مختلفی را به دنبال داشته است؛ به طوری که در شبکه‌های اجتماعی برخی از کاربران از او حمایت کرده و برخی دیگر به سخنانش اعتراض کرده‌اند."
+   ],
+   "comparison": {
+    "agree": [
+     "سدا سایان با اظهارات خود درباره زنان و ازدواج در شبکه‌های اجتماعی جنجال به پا کرد."
+    ],
+    "differ": [
+     {
+      "topic": "عنوان و جزئیات نقل‌قول‌ها",
+      "views": [
+       {
+        "source": "sabah-magazin",
+        "text": "به زنانی که رویای ازدواج دارند حمله کرده و گفته است «این کاری که می‌کنید مایه شرمساری است...»."
+       },
+       {
+        "source": "sozcu-magazin",
+        "text": "موضوع را به زنانی که در ازدواج به دنبال امنیت مالی هستند مرتبط دانسته و عبارت «آیا خودت را می‌فروشی؟» را مطرح کرده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6fea716e8499",
@@ -2702,9 +2847,27 @@
      "url": "https://www.sabah.com.tr/magazin/milli-savunmadan-teknolojik-bagimsizliga-teknofest-gencligi-piril-piril-parliyor-7676807",
      "title": "Milli savunmadan teknolojik bağımsızlığa: Teknofest gençliği pırıl pırıl parlıyor!",
      "snippet": "Türkiye, son 20 yılda hayata geçirdiği mega projeler ve yerli savunma sanayisindeki tarihi atılımlarla sadece ülkenin fiziki çehresini değil, toplumsal vizyonumuzu da baştan aşağı yeniledi. Yılların getirdiği... Devamı için tıklayınız",
-     "published": "2026-10-09T03:25:51.000Z"
+     "published": "2026-10-09T03:25:51.000Z",
+     "titleFa": "از دفاع ملی تا استقلال فناورانه: نسل تکوفست درخشان است!"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/3685b5/1200/675/0/0/991/558?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/milli-savunmadan-teknolojik-bagimsizliga-teknofest-gencligi-piril-piril-parliyor-1791516192825.jpeg",
+    "https://iasbh.tmgrup.com.tr/bbb085/60/60/0/0/162/162?u=https://isbh.tmgrup.com.tr/sbh/2022/01/18/1642490646138.jpg",
+    "https://iasbh.tmgrup.com.tr/2716b5/752/395/0/0/991/520?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/milli-savunmadan-teknolojik-bagimsizliga-teknofest-gencligi-piril-piril-parliyor-1791516192825.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "از دفاع ملی تا استقلال فناورانه: نسل تکوفست درخشان است!",
+   "summaryFa": "ترکیه در بیست سال گذشته با اجرای پروژه‌های بزرگ و پیشرفت‌های صنایع دفاعی بومی، چشم‌انداز اجتماعی و چهره فیزیکی خود را دگرگون کرده است.",
+   "bodyFa": [
+    "ترکیه در بیست سال گذشته با اجرای پروژه‌های بزرگ و جهش‌های تاریخی در حوزه صنایع دفاعی بومی، توانسته است نه تنها چهره فیزیکی کشور را تغییر دهد، بلکه بینش اجتماعی جامعه را نیز از نو بسازد.",
+    "این تحولات بزرگ توانسته است تفکر دیرینه «ما نمی‌توانیم» را از بین ببرد و آن را با یک اعتمادبه‌نفس ملی استوار جایگزین کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "e1544b0e7102",
@@ -2718,7 +2881,7 @@
    "video": null,
    "published": "2026-10-08T21:09:44.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -2731,7 +2894,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/iste-soranin-son-hali-irem-helvacioglu-ve-minik-kizindan-yeni-kare-7676040",
      "title": "İşte Sora'nın son hali! İrem Helvacıoğlu ve minik kızından yeni kare",
      "snippet": "Eşi Ural Kaspar'dan boşanan oyuncu İrem Helvacıoğlu, paylaşımlarıyla adından söz ettirmeye devam ediyor. Ünlü isim, sevimli kızı Sora'nın yeni karesini Instagram hesabından sevenlerinin beğenisine sundu.",
-     "published": "2026-10-08T21:09:44.000Z"
+     "published": "2026-10-08T21:09:44.000Z",
+     "titleFa": "این هم آخرین وضعیت سورا! قاب جدید از ایرم حلواچی‌اوغلو و دختر کوچکش"
     }
    ],
    "images": [
@@ -2742,7 +2906,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تصویر جدید ایرم حلواچی‌اوغلو و دخترش سورا",
+   "summaryFa": "ایرم حلواچی‌اوغلو، بازیگر ترکیه‌ای، عکس جدیدی از دختر کوچک خود سورا را در صفحه اینستاگرامش منتشر کرد. او پیش‌تر از اورال کسپار جدا شده است.",
+   "bodyFa": [
+    "ایرم حلواچی‌اوغلو، بازیگر سرشناس که پس از جدایی از همسرش اورال کسپار همواره با انتشار تصاویر و مطالب مختلف مورد توجه رسانه‌ها و کاربران قرار دارد، این بار نیز عکس تازه‌ای از دختر کوچک خود به نام سورا را در حساب کاربری اینستاگرامش با طرفداران و مخاطبان به اشتراک گذاشت.",
+    "این تصویر جدید که بازتاب‌دهنده لحظاتی از این بازیگر و فرزندش است، به عنوان پست جدید او در فضای مجازی توجه هواداران را به خود جلب کرده و بازنشر شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ecda643287a8",
@@ -2792,36 +2964,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "5bc9ce72b432",
-   "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Necla Uygur vefat etti",
-   "snippet": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti",
-   "image": "https://im.haberturk.com/l/2026/10/08/ver1791487927/3918298/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-08T20:27:58.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
-     "title": "Necla Uygur vefat etti",
-     "snippet": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti",
-     "published": "2026-10-08T20:27:58.000Z"
-    }
-   ],
-   "mediaDone": true
   },
   {
    "id": "e4894a777dc8",
@@ -2923,64 +3065,6 @@
    "aiTries": 1
   },
   {
-   "id": "19c8657f042d",
-   "url": "https://www.haberturk.com/magazin/atilla-tas-in-kizi-14-uncu-kattan-duserek-hayatini-kaybetti-3918247",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Atilla Taş'ın acı günü",
-   "snippet": "Şarkıcı Atilla Taş’ın kızı Sezen Taş, Mersin’de hayatını kaybetti. Sezen Taş’ın bir binanın 14'üncü katından düştüğü belirtildi",
-   "image": "https://im.haberturk.com/l/2026/10/08/ver1791479202/3918247/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-08T17:59:31.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/atilla-tas-in-kizi-14-uncu-kattan-duserek-hayatini-kaybetti-3918247",
-     "title": "Atilla Taş'ın acı günü",
-     "snippet": "Şarkıcı Atilla Taş’ın kızı Sezen Taş, Mersin’de hayatını kaybetti. Sezen Taş’ın bir binanın 14'üncü katından düştüğü belirtildi",
-     "published": "2026-10-08T17:59:31.000Z"
-    }
-   ]
-  },
-  {
-   "id": "1b07e85dd522",
-   "url": "https://www.haberturk.com/magazin/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3918280",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Samar Dadgar'ın acı günü",
-   "snippet": "Şarkıcı Özcan Deniz ile mutlu bir evliliği olan Samar Dadgar, 3 yaşındaki yeğeninin vefat ettiğini açıkladı",
-   "image": "https://im.haberturk.com/l/2026/10/08/ver1791479647/3918280/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-08T17:14:28.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3918280",
-     "title": "Samar Dadgar'ın acı günü",
-     "snippet": "Şarkıcı Özcan Deniz ile mutlu bir evliliği olan Samar Dadgar, 3 yaşındaki yeğeninin vefat ettiğini açıkladı",
-     "published": "2026-10-08T17:14:28.000Z"
-    }
-   ]
-  },
-  {
    "id": "6e9afef24ab0",
    "url": "https://www.milliyet.com.tr/magazin/galeri/yasak-ask-evliligini-bitirmisti-sahra-isiktan-sert-sozler-karakter-satin-alamazsin-7675882",
    "source": "milliyet-magazin",
@@ -3028,75 +3112,6 @@
    "aiTries": 1
   },
   {
-   "id": "641af16a59df",
-   "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
-   "snippet": "Ünlü şarkıcı Özcan Deniz’in eşi Samar Dadgar, sosyal medya hesabından yaptığı paylaşımla acı haberi duyurdu. Dadgar, 3 y...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/denizjpg-n9MEikgAJ0KwkqdAff2RlQ.jpg",
-   "video": null,
-   "published": "2026-10-08T16:39:34.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
-     "title": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
-     "snippet": "Ünlü şarkıcı Özcan Deniz’in eşi Samar Dadgar, sosyal medya hesabından yaptığı paylaşımla acı haberi duyurdu. Dadgar, 3 y...",
-     "published": "2026-10-08T16:39:34.000Z"
-    }
-   ]
-  },
-  {
-   "id": "4c6307c8dfbb",
-   "url": "https://www.milliyet.com.tr/magazin/ozcan-denizin-esi-samar-dadgarin-aci-gunu-3-yasindaki-yegeni-hayatini-kaybetti-7675855",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü! 3 yaşındaki yeğeni hayatını kaybetti",
-   "snippet": "HABER MERKEZİ - Şarkıcı ve oyuncu Özcan Deniz, uzun süredir aşk yaşadığı sevgilisi Samar Dadgar ile 2023 yılında evlenmişti. Geçtiğimiz günlerde evliliklerinin 3. yılını kutlayan çiftin mutlu beraberliği devam ediyor.Sık sık mutluluk pozlarını paylaşan ikili, son olarak takipçilerine üzücü bir haberi duyurdu. Son dakika... Atilla Taş'ın kızı Sezen Taş, 14. kattan düşerek hayatını kaybetti ACI HABERİ DUYURDU Sosyal medyayı aktif olarak kullanan Dadgar, Instagram hesabından yaptığı paylaşımla yeğe",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac7b3874969daebc3bd8606.jpg",
-   "video": null,
-   "published": "2026-10-08T16:23:05.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/ozcan-denizin-esi-samar-dadgarin-aci-gunu-3-yasindaki-yegeni-hayatini-kaybetti-7675855",
-     "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü! 3 yaşındaki yeğeni hayatını kaybetti",
-     "snippet": "HABER MERKEZİ - Şarkıcı ve oyuncu Özcan Deniz, uzun süredir aşk yaşadığı sevgilisi Samar Dadgar ile 2023 yılında evlenmişti. Geçtiğimiz günlerde evliliklerinin 3. yılını kutlayan çiftin mutlu beraberliği devam ediyor.Sık sık mutluluk pozlarını paylaşan ikili, son olarak takipçilerine üzücü bir haber",
-     "published": "2026-10-08T16:23:05.000Z"
-    },
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3-yasindaki-yegenini-kaybetti-p367535",
-     "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü: 3 yaşındaki yeğenini kaybetti",
-     "snippet": "Özcan Deniz'in eşi Samar Dadgar'dan üzücü haber geldi. Sosyal medya hesabından yaptığı paylaşımla acısını duyuran Dadgar...",
-     "published": "2026-10-09T05:44:32.000Z"
-    }
-   ],
-   "mergedIds": [
-    "03b1a1202810"
-   ]
-  },
-  {
    "id": "3cf7cb39ee48",
    "url": "https://www.sabah.com.tr/yazarlar/gunaydin/tuba-kalcik/2026/10/09/dijital-cagda-sahici-bir-iz-birakmanin-onemi",
    "source": "sabah-magazin",
@@ -3123,7 +3138,16 @@
      "snippet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan'ın TÜRGEV Güzel İşler Fabrikası'nın açılışında çok güzel ve önemli bir konuşma yaptı. 'İz bırakmak' kavramı üzerinden içinde bulunduğumuz dijital... Devamı için tıklayınız",
      "published": "2026-10-08T15:58:14.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/2126b0/0/0/0/0/731/395?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/dijital-cagda-sahici-bir-iz-birakmanin-onemi-1791474984939.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/2026/04/04/1775286965973.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/halkbank-ureten-turkiye.png?v=25949",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-1.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
+    "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/10/09/164x236/09SBH01.jpg?v=25949"
+   ],
+   "mediaDone": true
   },
   {
    "id": "e0e4ca229097",
@@ -3152,7 +3176,16 @@
      "snippet": "Oyuncu Fadik Sevin Atasoy, yeni tiyatro projesinde annesiyle aynı sahneyi paylaşacağını açıkladı. Oyuncu, \"Bir yıl sonra annemle karşılıklı oynayacağımız güzel bir oyunumuz var, ona hazırlanıyoruz\" dedi.... Devamı için tıklayınız",
      "published": "2026-10-08T15:55:11.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/edf480/1200/675/0/156/484/429?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/annemle-tiyatro-yapacagiz-1791474898883.jpeg",
+    "https://iasbh.tmgrup.com.tr/976497/752/395/0/166/484/420?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/annemle-tiyatro-yapacagiz-1791474898883.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "7f4b68919032",
@@ -3192,7 +3225,16 @@
    ],
    "mergedIds": [
     "5a47ee41d9c0"
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/3266d5/1200/675/0/0/1000/562?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/cinlerin-dugunu-6-kasimda-vizyonda-1791474829997.jpeg",
+    "https://iasbh.tmgrup.com.tr/3aa772/752/395/0/36/1000/562?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/cinlerin-dugunu-6-kasimda-vizyonda-1791474829997.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "9f47541ee464",
