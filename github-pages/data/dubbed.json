@@ -2550,10 +2550,12 @@
         }
       ],
       "production": {
-        "editorialStatus": "research-queue",
+        "editorialStatus": "nonfiction-recap-format-needed",
         "transcriptStatus": "not-acquired",
         "dubbedMappingStatus": "unverified",
-        "publicationStatus": "no-published-recaps"
+        "publicationStatus": "no-published-recaps",
+        "pavaraghiQueueReason": "مسابقه آشپزی · نیازمند قالب گزارش نتایج و رقابت‌ها",
+        "officialEpisodesUrl": "https://www.tv8.com.tr/masterchef-turkiye"
       }
     },
     {
@@ -2697,10 +2699,15 @@
         }
       ],
       "production": {
-        "editorialStatus": "research-queue",
+        "editorialStatus": "awaiting-broadcast",
         "transcriptStatus": "not-acquired",
         "dubbedMappingStatus": "unverified",
-        "publicationStatus": "no-published-recaps"
+        "publicationStatus": "no-published-recaps",
+        "pavaraghiQueueReason": "در انتظار پخش قسمت اول · ۱۲ اکتبر ۲۰۲۶",
+        "scheduledPremiere": "2026-10-12",
+        "verifiedSourceUrls": [
+          "https://www.nowtv.com.tr/Sevdam-Karadeniz/bolum-ozetleri"
+        ]
       }
     },
     {
