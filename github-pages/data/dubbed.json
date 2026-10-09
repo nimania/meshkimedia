@@ -69,7 +69,17 @@
             "broadcastAlignment": "not-applicable",
             "readyForFullRecapLabel": true
           },
-          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود."
+          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
+          "characterNameConflict": {
+            "networkEpisodeSynopsis": "Selin",
+            "networkPostBroadcastArticle": "Elit",
+            "affectedCharacter": "Murat's fiancee",
+            "resolution": "unresolved-primary-source-conflict",
+            "sources": [
+              "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+              "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede"
+            ]
+          }
         },
         {
           "slug": "dubbed-1",
@@ -113,7 +123,17 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود."
+          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
+          "characterNameConflict": {
+            "networkEpisodeSynopsis": "Selin",
+            "networkPostBroadcastArticle": "Elit",
+            "affectedCharacter": "Murat's fiancee",
+            "resolution": "unresolved-primary-source-conflict",
+            "sources": [
+              "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+              "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede"
+            ]
+          }
         },
         {
           "slug": "dubbed-2",
@@ -157,7 +177,17 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود."
+          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
+          "characterNameConflict": {
+            "networkEpisodeSynopsis": "Selin",
+            "networkPostBroadcastArticle": "Elit",
+            "affectedCharacter": "Murat's fiancee",
+            "resolution": "unresolved-primary-source-conflict",
+            "sources": [
+              "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+              "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede"
+            ]
+          }
         },
         {
           "slug": "dubbed-3",
@@ -201,7 +231,17 @@
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
-          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود."
+          "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
+          "characterNameConflict": {
+            "networkEpisodeSynopsis": "Selin",
+            "networkPostBroadcastArticle": "Elit",
+            "affectedCharacter": "Murat's fiancee",
+            "resolution": "unresolved-primary-source-conflict",
+            "sources": [
+              "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+              "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede"
+            ]
+          }
         },
         {
           "slug": "original-2",
@@ -566,7 +606,7 @@
             "wordCount": 213,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-full-episode-synopsis-not-accessible-for-verification",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "not-applicable",
             "readyForFullRecapLabel": false
           },
@@ -580,7 +620,12 @@
               "type": "official-trailer",
               "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-3-fragman"
             }
-          ]
+          ],
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/4-bolum-fotograflari",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         },
         {
           "slug": "dubbed-10",
@@ -614,7 +659,7 @@
             "wordCount": 66,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-full-episode-synopsis-not-accessible-for-verification",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
@@ -628,7 +673,12 @@
               "type": "official-trailer",
               "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-3-fragman"
             }
-          ]
+          ],
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/4-bolum-fotograflari",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         },
         {
           "slug": "dubbed-11",
@@ -662,7 +712,7 @@
             "wordCount": 78,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-full-episode-synopsis-not-accessible-for-verification",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
@@ -676,7 +726,12 @@
               "type": "official-trailer",
               "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-3-fragman"
             }
-          ]
+          ],
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/4-bolum-fotograflari",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         },
         {
           "slug": "dubbed-12",
@@ -710,7 +765,7 @@
             "wordCount": 69,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-full-episode-synopsis-not-accessible-for-verification",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
@@ -724,7 +779,12 @@
               "type": "official-trailer",
               "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-3-fragman"
             }
-          ]
+          ],
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/4-bolum-fotograflari",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/4-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         },
         {
           "slug": "original-5",
@@ -758,7 +818,7 @@
             "wordCount": 204,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-full-episode-synopsis-not-accessible-for-verification",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "not-applicable",
             "readyForFullRecapLabel": false
           },
@@ -772,7 +832,11 @@
               "type": "official-trailer",
               "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
             }
-          ]
+          ],
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         },
         {
           "slug": "dubbed-13",
@@ -805,7 +869,7 @@
             "wordCount": 66,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-full-episode-synopsis-not-accessible-for-verification",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
@@ -819,7 +883,11 @@
               "type": "official-trailer",
               "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
             }
-          ]
+          ],
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         },
         {
           "slug": "dubbed-14",
@@ -852,7 +920,7 @@
             "wordCount": 69,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-full-episode-synopsis-not-accessible-for-verification",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
@@ -866,7 +934,11 @@
               "type": "official-trailer",
               "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
             }
-          ]
+          ],
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         },
         {
           "slug": "dubbed-15",
@@ -899,7 +971,7 @@
             "wordCount": 69,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-full-episode-synopsis-not-accessible-for-verification",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
@@ -913,7 +985,11 @@
               "type": "official-trailer",
               "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
             }
-          ]
+          ],
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/5-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         },
         {
           "slug": "original-6",
@@ -948,7 +1024,7 @@
             "wordCount": 375,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "secondary-post-broadcast-report-needs-primary-video-review",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "not-applicable",
             "readyForFullRecapLabel": false
           },
@@ -960,8 +1036,11 @@
             }
           ],
           "verifiedSourceUrls": [
-            "https://www.diziler.com/dizi/tuzlu-kahve"
-          ]
+            "https://www.diziler.com/dizi/tuzlu-kahve",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/6-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         },
         {
           "slug": "dubbed-16",
@@ -995,7 +1074,7 @@
             "wordCount": 81,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-full-episode-synopsis-not-accessible-for-verification",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
@@ -1005,7 +1084,12 @@
               "type": "official-trailer",
               "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/6-bolum-fragman"
             }
-          ]
+          ],
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/6-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         },
         {
           "slug": "dubbed-17",
@@ -1039,7 +1123,7 @@
             "wordCount": 71,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-full-episode-synopsis-not-accessible-for-verification",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
@@ -1049,7 +1133,12 @@
               "type": "official-trailer",
               "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/6-bolum-fragman"
             }
-          ]
+          ],
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/6-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         },
         {
           "slug": "dubbed-18",
@@ -1084,7 +1173,7 @@
             "wordCount": 186,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "secondary-post-broadcast-report-needs-primary-video-review",
+            "sourceStatus": "official-promotional-material-only-full-story-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           },
@@ -1096,8 +1185,11 @@
             }
           ],
           "verifiedSourceUrls": [
-            "https://www.diziler.com/dizi/tuzlu-kahve"
-          ]
+            "https://www.diziler.com/dizi/tuzlu-kahve",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/6-bolum-fragman"
+          ],
+          "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند."
         }
       ],
       "productionSources": [
@@ -1199,7 +1291,17 @@
           }
         ],
         "qualityReviewDate": "2026-10-09",
-        "editorialNote": "Episode 1 through 6 have both formats, but episode 2–6 texts are brief and need verification/expansion from fuller official descriptions or video before being called full pavaraghi."
+        "editorialNote": "Episode 1 through 6 have both formats, but episode 2–6 texts are brief and need verification/expansion from fuller official descriptions or video before being called full pavaraghi.",
+        "editorialPriority": 1,
+        "completionStatus": "in-progress-source-gated",
+        "currentScope": "existing-six-original-episodes-and-eighteen-editorial-persian-segments-only",
+        "verifiedBoundaryCount": 0,
+        "remainingRequirements": [
+          "Verify scene content for original episodes 1-6 against full video",
+          "Resolve Selin/Elit identity discrepancy",
+          "Verify dubbed episode boundaries against actual broadcaster cuts",
+          "Rewrite editorial Persian sections only after source confirmation"
+        ]
       },
       "productionPlan": {
         "originalEpisode": 1,
