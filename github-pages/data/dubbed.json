@@ -22,7 +22,29 @@
       "aliases": [],
       "description": "پاورقی فارسی قسمت‌ها و نسخه شنیداری با اجرای مشکی‌مدیا.",
       "broadcasts": [],
-      "entries": []
+      "entries": [],
+      "productionSources": [
+        {
+          "type": "official-episode",
+          "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+          "originalEpisode": 1
+        },
+        {
+          "type": "official-video",
+          "url": "https://youtu.be/KEmczHqPIy0",
+          "youtubeId": "KEmczHqPIy0",
+          "originalEpisode": 1,
+          "durationSeconds": 7419
+        }
+      ],
+      "production": {
+        "originalEpisode": 1,
+        "sourceStatus": "video-confirmed",
+        "transcriptStatus": "not-acquired",
+        "sceneReviewStatus": "pending",
+        "dubbedMappingStatus": "unverified",
+        "editorialStatus": "preproduction"
+      }
     }
   ]
 }
