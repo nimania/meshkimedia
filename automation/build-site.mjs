@@ -56,7 +56,7 @@ for (const pr of Object.values(people)) pr.credits.sort((a, b) => (b.year || 0) 
 // ---- shared HTML shell with full SEO ---------------------------------------
 const SITE_NAV = (root, active) => {
   const items = [
-    ["", "خانه"], ["diziler/", "سریال‌ها"], ["haber/", "اخبار"], ["takvim/", "تقویم"], ["ozetler/", "خلاصه‌ها"], ["fragmanlar/", "فراگمان‌ها"],
+    ["", "خانه"], ["diziler/", "سریال‌ها"], ["duble/", "دوبله فارسی"], ["haber/", "اخبار"], ["takvim/", "تقویم"], ["ozetler/", "خلاصه‌ها"], ["fragmanlar/", "فراگمان‌ها"],
     ["reyting/", "ریتینگ"], ["oyuncular/", "بازیگران"], ["karakterler/", "کاراکترها"], ["kanal/", "شبکه‌ها"], ["ara/", "جستجو"],
   ];
   return `<nav class="site-nav" aria-label="بخش‌ها">${items.map(([h, t]) => `<a href="${root}${h}"${active === h ? ' class="on"' : ""}>${t}</a>`).join("")}</nav>`;
@@ -491,6 +491,40 @@ await mkdir(p("reyting/"), { recursive: true });
 await writeFile(p("reyting/index.html"), ratingsPage(), "utf8"); count.lists++;
 urls.push({ loc: `${BASE}/reyting/`, pri: "0.8" });
 
+
+// ---- Persian-dubbed series / original MeshkiMedia pavaraghi ----------------
+const dubbedData = existsSync(p("data/dubbed.json"))
+  ? JSON.parse(await readFile(p("data/dubbed.json"), "utf8"))
+  : { series: [] };
+const dubbedSeries = (dubbedData.series || []).filter((s) => s.slug && /^[a-z0-9-]+$/.test(s.slug));
+const dubbedNav = '<p class="dubbed-intro">پاورقی‌های اختصاصی سریال‌های دوبله فارسی؛ روایت داستان با جزئیات و نسخه صوتی با اجرای مشکی‌مدیا، پس از انتشار.</p>';
+const dubbedCard = (title, detail, href) => '<a class="dubbed-card" href="' + href + '"><strong>' + esc(title) + '</strong><span>' + esc(detail) + '</span><b>مشاهده ←</b></a>';
+const dubbedStyles = '<style>.dubbed-intro{max-width:68ch;line-height:2;color:var(--muted,#777)}.dubbed-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:15px;margin:22px 0}.dubbed-card{display:flex;flex-direction:column;gap:10px;padding:22px;border:1px solid var(--border,#ddd);border-radius:16px;color:inherit;text-decoration:none;background:var(--surface,#fff)}.dubbed-card strong{font-size:1.2rem}.dubbed-card span{color:var(--muted,#777);line-height:1.8}.dubbed-card b{font-size:.85rem}.pavaraghi-text{max-width:77ch;font-size:1.1rem;line-height:2.25}.pavaraghi-text p{margin:0 0 1.5em}.pavaraghi-audio{max-width:780px;margin:22px 0}.pavaraghi-video{aspect-ratio:16/9;width:100%;max-width:780px;border:0;border-radius:12px}.pavaraghi-audio audio{width:100%}</style>';
+const dubbedShell = (root,meta,html) => head(root,meta) + dubbedStyles + html + boot(root, {}, [], "20261009dub1");
+await mkdir(p("duble/"),{recursive:true});
+const publishedDubbed = dubbedSeries.map((s) => ({ ...s, entries: (s.entries || []).filter((e) => e.status === "published" && Array.isArray(e.paragraphs) && e.paragraphs.some((x) => x.trim())) })).filter((s)=>s.entries.length);
+const dubbedLanding = '<main class="app-shell"><section class="intro"><span class="kicker">مشکی‌مدیا · دوبله فارسی</span><h1>سریال‌های دوبله فارسی و پاورقی‌ها</h1>' + dubbedNav + '</section>' +
+  (publishedDubbed.length ? '<div class="dubbed-list">' + publishedDubbed.map((s)=>dubbedCard(s.titleFa,s.titleTr || "سریال دوبله فارسی","./"+s.slug+"/")).join("") + '</div>' : '<p class="notice">آرشیو پاورقی‌های دوبله فارسی در حال آماده‌سازی است. مطالب پس از بازبینی و انتشار نمایش داده می‌شوند.</p>') + '</main>';
+await writeFile(p("duble/index.html"),dubbedShell("../",{title:"پاورقی سریال‌های دوبله فارسی | مشکی‌مدیا",desc:"آرشیو روایت فارسی قسمت‌های سریال‌های ترکی و نسخه‌های صوتی مشکی‌مدیا",path:"duble/"},dubbedLanding),"utf8");
+urls.push({loc:BASE+"/duble/",pri:"0.7"});
+for (const s of publishedDubbed) {
+  await mkdir(p("duble/"+s.slug+"/"),{recursive:true});
+  const seriesPath="duble/"+s.slug+"/";
+  const seriesBody='<main class="app-shell"><section class="intro"><div class="crumbs"><a href="../../duble/">دوبله فارسی</a></div><span class="kicker">آرشیو پاورقی</span><h1>'+esc(s.titleFa)+'</h1><p>'+esc(s.description || s.titleTr || "")+'</p>'+(s.originalSeriesSlug?'<p><a href="../../dizi/'+encodeURIComponent(s.originalSeriesSlug)+'/">صفحه اصلی سریال در مشکی‌مدیا ←</a></p>':"")+'</section><div class="dubbed-list">'+s.entries.map((e)=>dubbedCard(e.title || "قسمت "+e.persianEpisode,"قسمت ترکی "+(e.originalEpisode || "نامشخص"),"./"+e.slug+"/")).join("")+'</div></main>';
+  await writeFile(p(seriesPath+"index.html"),dubbedShell("../../",{title:s.titleFa+" | پاورقی‌های مشکی‌مدیا",desc:s.description || "پاورقی‌های دوبله فارسی",path:seriesPath},seriesBody),"utf8");
+  urls.push({loc:BASE+"/"+seriesPath,pri:"0.6"});
+  for(let i=0;i<s.entries.length;i++){
+    const e=s.entries[i]; if(!/^[a-z0-9-]+$/.test(e.slug))continue;
+    const path=seriesPath+e.slug+"/";await mkdir(p(path),{recursive:true});
+    const yt=/^[a-zA-Z0-9_-]{11}$/.test(e.youtubeId || "")?'<div class="pavaraghi-audio"><h2>پادکست با صدای مشکی‌مدیا</h2><iframe class="pavaraghi-video" src="https://www.youtube-nocookie.com/embed/'+e.youtubeId+'" title="پادکست پاورقی" allow="encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>':"";
+    const audio=/^https:\/\//.test(e.audioUrl || "")?'<div class="pavaraghi-audio"><h2>نسخه شنیداری</h2><audio controls preload="none" src="'+esc(e.audioUrl)+'"></audio></div>':"";
+    const prev=s.entries[i-1],next=s.entries[i+1];
+    const body='<main class="app-shell"><article><div class="crumbs"><a href="../../../duble/">دوبله فارسی</a> / <a href="../">'+esc(s.titleFa)+'</a></div><header class="intro"><span class="kicker">پاورقی مشکی‌مدیا</span><h1>'+esc(e.title || "قسمت "+e.persianEpisode)+'</h1><p>قسمت اصلی ترکی: '+esc(e.originalEpisode || "ثبت‌نشده")+' · قسمت دوبله فارسی: '+esc(e.persianEpisode || "ثبت‌نشده")+'</p></header><div class="pavaraghi-text">'+e.paragraphs.map(t=>'<p>'+esc(t)+'</p>').join("")+'</div>'+yt+audio+'</article><nav class="dubbed-list">'+(prev?dubbedCard("قسمت قبل","ادامه آرشیو","../"+prev.slug+"/"):"")+(next?dubbedCard("قسمت بعد","ادامه آرشیو","../"+next.slug+"/"):"")+'</nav></main>';
+    await writeFile(p(path+"index.html"),dubbedShell("../../../",{title:(e.title || "پاورقی")+" | "+s.titleFa+" | مشکی‌مدیا",desc:(e.paragraphs[0]||"").slice(0,155),path},body),"utf8");
+    urls.push({loc:BASE+"/"+path,pri:"0.5"});
+  }
+}
+
 // ---- search index ----------------------------------------------------------
 const searchIndex = [];
 for (const s of seriesArr) searchIndex.push({ t: "series", titleFa: s.titleFa, titleTr: s.titleTr, sub: (networks[s.network] || {}).name || "", url: `dizi/${s.slug}/` });
@@ -499,6 +533,7 @@ for (const pr of Object.values(people)) searchIndex.push({ t: "actor", titleFa: 
 for (const ch of Object.values(characters)) searchIndex.push({ t: "character", titleFa: ch.nameFa || ch.name, titleTr: ch.name + (ch.personNameFa ? " · " + ch.personNameFa : ""), sub: ch.seriesTitleFa, url: `karakter/${ch.slug}/` });
 for (const w of Object.values(works)) searchIndex.push({ t: "work", titleFa: w.titleFa || w.titleTr, titleTr: w.titleTr, sub: w.kind === "film" ? "فیلم" : "سریال", url: `asar/${w.slug}/` });
 for (const net of Object.values(networks)) searchIndex.push({ t: "network", titleFa: net.name, titleTr: net.nameFa || "", sub: "شبکه", url: `kanal/${net.slug}/` });
+for (const s of publishedDubbed) { searchIndex.push({ t:"series", titleFa:s.titleFa, titleTr:s.titleTr || "", sub:"دوبله فارسی", url:"duble/"+s.slug+"/" }); for (const e of s.entries) searchIndex.push({t:"episode",titleFa:e.title || "پاورقی "+s.titleFa,titleTr:s.titleTr || "",sub:"پاورقی دوبله فارسی",url:"duble/"+s.slug+"/"+e.slug+"/"}); }
 await writeFile(p("data/search-index.json"), JSON.stringify(searchIndex) + "\n", "utf8");
 
 // ---- sitemap.xml + robots.txt ----------------------------------------------
