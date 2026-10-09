@@ -1,6 +1,82 @@
 {
- "updated": "2026-10-09T16:19:52.927Z",
+ "updated": "2026-10-09T16:32:31.450Z",
  "items": [
+  {
+   "id": "0a82330dd437",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/yegeninin-olumuyle-yikildi-samar-dadgar-acisini-gozyaslariyla-paylasti-7676445",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Yeğeninin ölümüyle yıkıldı! Samar Dadgar acısını gözyaşlarıyla paylaştı",
+   "snippet": "Şarkıcı Özcan Deniz'in eşi Samar Dadgar, 3 yaşındaki yeğeninin vefatının ardından zor günler geçiriyor. Dadgar, yeğeninden kalan zıbını gözyaşlarıyla paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac9142bf15b2619d4a3c2f5.jpg",
+   "video": null,
+   "published": "2026-10-09T16:22:45.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/yegeninin-olumuyle-yikildi-samar-dadgar-acisini-gozyaslariyla-paylasti-7676445",
+     "title": "Yeğeninin ölümüyle yıkıldı! Samar Dadgar acısını gözyaşlarıyla paylaştı",
+     "snippet": "Şarkıcı Özcan Deniz'in eşi Samar Dadgar, 3 yaşındaki yeğeninin vefatının ardından zor günler geçiriyor. Dadgar, yeğeninden kalan zıbını gözyaşlarıyla paylaştı.",
+     "published": "2026-10-09T16:22:45.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac9142bf15b2619d4a3c2f5.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac9142bf15b2619d4a3c2f5.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "0d8db2247158",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/necla-uygur-gozyaslariyla-son-yolculuguna-ugurlandi-7676431",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Necla Uygur gözyaşlarıyla son yolculuğuna uğurlandı",
+   "snippet": "89 yaşında hayatını kaybeden usta oyuncu Necla Uygur, Teşvikiye Camii’nde ikindi vakti kılınan cenaze namazının ardından Feriköy Mezarlığı’nda toprağa verildi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac90c51f15b2619d4a3c270.jpg",
+   "video": null,
+   "published": "2026-10-09T15:48:19.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/necla-uygur-gozyaslariyla-son-yolculuguna-ugurlandi-7676431",
+     "title": "Necla Uygur gözyaşlarıyla son yolculuğuna uğurlandı",
+     "snippet": "89 yaşında hayatını kaybeden usta oyuncu Necla Uygur, Teşvikiye Camii’nde ikindi vakti kılınan cenaze namazının ardından Feriköy Mezarlığı’nda toprağa verildi.",
+     "published": "2026-10-09T15:48:19.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac90c51f15b2619d4a3c270.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac90c51f15b2619d4a3c270.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "02ba636c2976",
    "url": "https://www.haberturk.com/magazin/murat-cemcir-ve-selcuk-aydemir-iflas-etti-3918527",
@@ -333,6 +409,36 @@
    }
   },
   {
+   "id": "e0c0ef3fae07",
+   "url": "https://www.haberturk.com/magazin/foto/sarkici-atilla-tas-in-kizi-topraga-verildi-3918479",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Kızını toprağa verdi",
+   "snippet": "Atilla Taş'ın Mersin’de bir sitedeki apartmanın 14’üncü katından düşüp yaşamını yitiren kızı Sezen Taş son yolculuğuna uğurlandı. Ünlü şarkıcının feryadı yürekleri yaktı",
+   "image": "https://im.haberturk.com/l/2026/10/09/ver1791547852/3918479/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-09T13:50:27.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/sarkici-atilla-tas-in-kizi-topraga-verildi-3918479",
+     "title": "Kızını toprağa verdi",
+     "snippet": "Atilla Taş'ın Mersin’de bir sitedeki apartmanın 14’üncü katından düşüp yaşamını yitiren kızı Sezen Taş son yolculuğuna uğurlandı. Ünlü şarkıcının feryadı yürekleri yaktı",
+     "published": "2026-10-09T13:50:27.000Z"
+    }
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "f6303036747c",
    "url": "https://www.hurriyet.com.tr/kelebek/magazin/istese-en-luks-otomobile-binip-gaza-basar-gencecik-yasinda-at-arabasi-kullaniyor-43335479",
    "source": "hurriyet-kelebek",
@@ -420,6 +526,64 @@
    "aiTries": 1
   },
   {
+   "id": "67f9da091feb",
+   "url": "https://www.milliyet.com.tr/magazin/atilla-tas-kizini-son-yolculuguna-ugurladi-tabutuna-sarilip-gozyasi-doktu-7676300",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Atilla Taş kızını son yolculuğuna uğurladı! Tabutuna sarılıp gözyaşı döktü",
+   "snippet": "Mersin'in Erdemli ilçesi Çeşmeli Mahallesi'nde bulunan Liparis 5 Tatil Sitesi'nde dün sabah saatlerinde meydana gelen olayda, 2 çocuk annesi Sezen Taş (34), yaşadığı binanın 14. katındaki evinin balkonundan düşerek hayatını kaybetti. Olayın ardından Sezen Taş'ın cenazesi, otopsi işlemlerinin tamamlanmasıyla Mezitli Mezarlığı'na götürüldü. Atilla Taş'ın evlat acısı... Kızı Sezen Taş'la ilgili yıllar önce söylediği sözleri ortaya çıktı KIZININ TABUTUNA SARILIP AĞLADI Eşiyle ayrıldıktan sonra psiko",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac8d3f4f15b2619d4a3bfb2.jpg",
+   "video": null,
+   "published": "2026-10-09T12:31:41.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/atilla-tas-kizini-son-yolculuguna-ugurladi-tabutuna-sarilip-gozyasi-doktu-7676300",
+     "title": "Atilla Taş kızını son yolculuğuna uğurladı! Tabutuna sarılıp gözyaşı döktü",
+     "snippet": "Mersin'in Erdemli ilçesi Çeşmeli Mahallesi'nde bulunan Liparis 5 Tatil Sitesi'nde dün sabah saatlerinde meydana gelen olayda, 2 çocuk annesi Sezen Taş (34), yaşadığı binanın 14. katındaki evinin balkonundan düşerek hayatını kaybetti. Olayın ardından Sezen Taş'ın cenazesi, otopsi işlemlerinin tamamla",
+     "published": "2026-10-09T12:31:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": "33d77a29cd61",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tas-kizi-sezeni-topraga-verdi-babam-ben-geldim-babam-43335506",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Atilla Taş kızı Sezen'i toprağa verdi... 'Babam, ben geldim babam'",
+   "snippet": "4. kattan düşerek hayatını kaybeden Sezen Taş'ın cenazesi Mersin'de toprağa verilirken, şarkıcı Atilla Taş cenaze töreninde güçlüklü ayakta durabildi",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8dc208562bad6a4dfda4c.jpg",
+   "video": null,
+   "published": "2026-10-09T12:20:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tas-kizi-sezeni-topraga-verdi-babam-ben-geldim-babam-43335506",
+     "title": "Atilla Taş kızı Sezen'i toprağa verdi... 'Babam, ben geldim babam'",
+     "snippet": "4. kattan düşerek hayatını kaybeden Sezen Taş'ın cenazesi Mersin'de toprağa verilirken, şarkıcı Atilla Taş cenaze töreninde güçlüklü ayakta durabildi",
+     "published": "2026-10-09T12:20:00.000Z"
+    }
+   ]
+  },
+  {
    "id": "0ca9388d350d",
    "url": "https://www.hurriyet.com.tr/kelebek/magazin/kendi-cocuklari-oldu-ama-kalbindeki-yara-hala-kaniyor-olmus-annemin-duvardaki-resmiyle-konusuyorum-43335487",
    "source": "hurriyet-kelebek",
@@ -464,6 +628,46 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "0d5a22456454",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/atilla-tasin-kizi-gozyaslari-arasinda-topraga-verildi-7676311",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Atilla Taş'ın kızı gözyaşları arasında toprağa verildi",
+   "snippet": "Mersin'in Erdemli ilçesinde yaşadığı binanın 14. katından düşerek hayatını kaybeden şarkıcı Atilla Taş'ın kızı Sezen Taş (34), düzenlenen cenaze töreninin ardından Mersin'de toprağa verildi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac8d492f15b2619d4a3bfbe.jpg",
+   "video": null,
+   "published": "2026-10-09T11:53:43.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/atilla-tasin-kizi-gozyaslari-arasinda-topraga-verildi-7676311",
+     "title": "Atilla Taş'ın kızı gözyaşları arasında toprağa verildi",
+     "snippet": "Mersin'in Erdemli ilçesinde yaşadığı binanın 14. katından düşerek hayatını kaybeden şarkıcı Atilla Taş'ın kızı Sezen Taş (34), düzenlenen cenaze töreninin ardından Mersin'de toprağa verildi.",
+     "published": "2026-10-09T11:53:43.000Z"
+    },
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/atilla-tasin-kizi-sezen-tas-gozyaslari-icinde-topraga-verildi-7677037",
+     "title": "Atilla Taş'ın kızı Sezen Taş gözyaşları içinde toprağa verildi!",
+     "snippet": "Şarkıcı Atilla Taş’ın 34 yaşındaki kızı Sezen Taş, Mersin’de yaşadığı binanın 14. katından düşerek hayatını kaybetti. İki çocuk annesi Sezen Taş’ın cenaze töreninde kızının tabutuna sarılan acılı sanatçı... Devamı için tıklayınız",
+     "published": "2026-10-09T12:02:27.000Z"
+    }
+   ],
+   "mergedIds": [
+    "94ac26277589"
+   ]
   },
   {
    "id": "9f2d2caef486",
@@ -827,6 +1031,35 @@
    "aiTries": 1
   },
   {
+   "id": "a687666b3000",
+   "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-oyuncu-marketin-onunde-silah-zoruyla-soyuldu-yaralanip-kanlar-icinde-kaldi-43335271",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Ünlü oyuncu marketin önünde silah zoruyla soyuldu, yaralanıp kanlar içinde kaldı!",
+   "snippet": "Magazin sitelerine kısa bir süre önce düşen haber görenleri dehşete düşürdü. Hollywood ünlülerinin yaşadığı lüks bir mahalledeki marketin önünde soyulan ünlü oyuncu adeta ölümden döndü.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8baabac6b5ddc6b78c801.jpg",
+   "video": null,
+   "published": "2026-10-09T09:59:44.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-oyuncu-marketin-onunde-silah-zoruyla-soyuldu-yaralanip-kanlar-icinde-kaldi-43335271",
+     "title": "Ünlü oyuncu marketin önünde silah zoruyla soyuldu, yaralanıp kanlar içinde kaldı!",
+     "snippet": "Magazin sitelerine kısa bir süre önce düşen haber görenleri dehşete düşürdü. Hollywood ünlülerinin yaşadığı lüks bir mahalledeki marketin önünde soyulan ünlü oyuncu adeta ölümden döndü.",
+     "published": "2026-10-09T09:59:44.000Z"
+    }
+   ]
+  },
+  {
    "id": "179f17bdfcd9",
    "url": "https://www.haberturk.com/magazin/foto/dilber-ay-in-kizindan-ibrahim-karakas-a-tepki-3918381",
    "source": "haberturk-magazin",
@@ -1174,6 +1407,64 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "b1b2b21dc2c0",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-kizi-sezen-bugun-son-yolculuguna-ugurlanacak-43335119",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Atilla Taş'ın kızı Sezen bugün son yolculuğuna uğurlanacak",
+   "snippet": "Atilla Taş'ın 14. kattan düşerek hayatını kaybeden kızı Sezen, bugün son yolculuğuna uğurlanacak.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8aaad6a02409aac4a3ef6.jpg",
+   "video": null,
+   "published": "2026-10-09T08:49:54.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-kizi-sezen-bugun-son-yolculuguna-ugurlanacak-43335119",
+     "title": "Atilla Taş'ın kızı Sezen bugün son yolculuğuna uğurlanacak",
+     "snippet": "Atilla Taş'ın 14. kattan düşerek hayatını kaybeden kızı Sezen, bugün son yolculuğuna uğurlanacak.",
+     "published": "2026-10-09T08:49:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": "2f8917c0e760",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yakinda-olecegi-unlu-sarkicinin-sanki-icine-dogmus-uc-gun-once-kizina-veda-etmis-baba-boyle-konusma-deyip-agladim-43334984",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Yakında öleceği ünlü şarkıcının sanki içine doğmuş... Üç gün önce kızına veda etmiş... 'Baba böyle konuşma deyip ağladım'",
+   "snippet": "Geçen yıl yaz aylarının ortasında müzik dünyasından gelen bir acı haber milyonları sarstı...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8a9446a02409aac4a3ed4.jpg",
+   "video": null,
+   "published": "2026-10-09T08:49:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yakinda-olecegi-unlu-sarkicinin-sanki-icine-dogmus-uc-gun-once-kizina-veda-etmis-baba-boyle-konusma-deyip-agladim-43334984",
+     "title": "Yakında öleceği ünlü şarkıcının sanki içine doğmuş... Üç gün önce kızına veda etmiş... 'Baba böyle konuşma deyip ağladım'",
+     "snippet": "Geçen yıl yaz aylarının ortasında müzik dünyasından gelen bir acı haber milyonları sarstı...",
+     "published": "2026-10-09T08:49:00.000Z"
+    }
+   ]
   },
   {
    "id": "dfdeece3fb8a",
@@ -2276,6 +2567,35 @@
    "aiTries": 1
   },
   {
+   "id": "19c8657f042d",
+   "url": "https://www.haberturk.com/magazin/atilla-tas-in-kizi-14-uncu-kattan-duserek-hayatini-kaybetti-3918247",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Atilla Taş'ın acı günü",
+   "snippet": "Şarkıcı Atilla Taş’ın kızı Sezen Taş, Mersin’de hayatını kaybetti. Sezen Taş’ın bir binanın 14'üncü katından düştüğü belirtildi",
+   "image": "https://im.haberturk.com/l/2026/10/08/ver1791479202/3918247/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-09T05:39:56.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/atilla-tas-in-kizi-14-uncu-kattan-duserek-hayatini-kaybetti-3918247",
+     "title": "Atilla Taş'ın acı günü",
+     "snippet": "Şarkıcı Atilla Taş’ın kızı Sezen Taş, Mersin’de hayatını kaybetti. Sezen Taş’ın bir binanın 14'üncü katından düştüğü belirtildi",
+     "published": "2026-10-09T05:39:56.000Z"
+    }
+   ]
+  },
+  {
    "id": "878a0d962631",
    "url": "https://www.hurriyet.com.tr/kelebek/hayat/48-yasini-48-arkadasiyla-kutladi-43334796",
    "source": "hurriyet-kelebek",
@@ -2467,6 +2787,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "455254783b74",
+   "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
+   "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atijpg-kZSErYcK8UaLThbvexys-g.jpg",
+   "video": null,
+   "published": "2026-10-09T04:38:42.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
+     "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
+     "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
+     "published": "2026-10-09T04:38:42.000Z"
+    }
+   ]
   },
   {
    "id": "3044562525d1",
@@ -3403,6 +3752,35 @@
    "aiTries": 1
   },
   {
+   "id": "1b07e85dd522",
+   "url": "https://www.haberturk.com/magazin/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3918280",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Samar Dadgar'ın acı günü",
+   "snippet": "Şarkıcı Özcan Deniz ile mutlu bir evliliği olan Samar Dadgar, 3 yaşındaki yeğeninin vefat ettiğini açıkladı",
+   "image": "https://im.haberturk.com/l/2026/10/08/ver1791479647/3918280/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-08T17:14:28.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3918280",
+     "title": "Samar Dadgar'ın acı günü",
+     "snippet": "Şarkıcı Özcan Deniz ile mutlu bir evliliği olan Samar Dadgar, 3 yaşındaki yeğeninin vefat ettiğini açıkladı",
+     "published": "2026-10-08T17:14:28.000Z"
+    }
+   ]
+  },
+  {
    "id": "6e9afef24ab0",
    "url": "https://www.milliyet.com.tr/magazin/galeri/yasak-ask-evliligini-bitirmisti-sahra-isiktan-sert-sozler-karakter-satin-alamazsin-7675882",
    "source": "milliyet-magazin",
@@ -3448,6 +3826,75 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "641af16a59df",
+   "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
+   "snippet": "Ünlü şarkıcı Özcan Deniz’in eşi Samar Dadgar, sosyal medya hesabından yaptığı paylaşımla acı haberi duyurdu. Dadgar, 3 y...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/denizjpg-n9MEikgAJ0KwkqdAff2RlQ.jpg",
+   "video": null,
+   "published": "2026-10-08T16:39:34.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
+     "title": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
+     "snippet": "Ünlü şarkıcı Özcan Deniz’in eşi Samar Dadgar, sosyal medya hesabından yaptığı paylaşımla acı haberi duyurdu. Dadgar, 3 y...",
+     "published": "2026-10-08T16:39:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": "4c6307c8dfbb",
+   "url": "https://www.milliyet.com.tr/magazin/ozcan-denizin-esi-samar-dadgarin-aci-gunu-3-yasindaki-yegeni-hayatini-kaybetti-7675855",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü! 3 yaşındaki yeğeni hayatını kaybetti",
+   "snippet": "HABER MERKEZİ - Şarkıcı ve oyuncu Özcan Deniz, uzun süredir aşk yaşadığı sevgilisi Samar Dadgar ile 2023 yılında evlenmişti. Geçtiğimiz günlerde evliliklerinin 3. yılını kutlayan çiftin mutlu beraberliği devam ediyor.Sık sık mutluluk pozlarını paylaşan ikili, son olarak takipçilerine üzücü bir haberi duyurdu. Son dakika... Atilla Taş'ın kızı Sezen Taş, 14. kattan düşerek hayatını kaybetti ACI HABERİ DUYURDU Sosyal medyayı aktif olarak kullanan Dadgar, Instagram hesabından yaptığı paylaşımla yeğe",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac7b3874969daebc3bd8606.jpg",
+   "video": null,
+   "published": "2026-10-08T16:23:05.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/ozcan-denizin-esi-samar-dadgarin-aci-gunu-3-yasindaki-yegeni-hayatini-kaybetti-7675855",
+     "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü! 3 yaşındaki yeğeni hayatını kaybetti",
+     "snippet": "HABER MERKEZİ - Şarkıcı ve oyuncu Özcan Deniz, uzun süredir aşk yaşadığı sevgilisi Samar Dadgar ile 2023 yılında evlenmişti. Geçtiğimiz günlerde evliliklerinin 3. yılını kutlayan çiftin mutlu beraberliği devam ediyor.Sık sık mutluluk pozlarını paylaşan ikili, son olarak takipçilerine üzücü bir haber",
+     "published": "2026-10-08T16:23:05.000Z"
+    },
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3-yasindaki-yegenini-kaybetti-p367535",
+     "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü: 3 yaşındaki yeğenini kaybetti",
+     "snippet": "Özcan Deniz'in eşi Samar Dadgar'dan üzücü haber geldi. Sosyal medya hesabından yaptığı paylaşımla acısını duyuran Dadgar...",
+     "published": "2026-10-09T05:44:32.000Z"
+    }
+   ],
+   "mergedIds": [
+    "03b1a1202810"
+   ]
   },
   {
    "id": "3cf7cb39ee48",
@@ -3950,6 +4397,35 @@
    "aiTries": 1
   },
   {
+   "id": "d84d5ffae61e",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-evlat-acisi-43334420",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Atilla Taş'ın evlat acısı!",
+   "snippet": "ŞARKICI Atilla Taş'ın kızı Sezen Taş, Mersin’de bir sitedeki apartmanın 14’üncü katından düşüp yaşamını yitirdi.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac7a905946fbe5b25f1ff5a.jpg",
+   "video": null,
+   "published": "2026-10-08T14:30:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-evlat-acisi-43334420",
+     "title": "Atilla Taş'ın evlat acısı!",
+     "snippet": "ŞARKICI Atilla Taş'ın kızı Sezen Taş, Mersin’de bir sitedeki apartmanın 14’üncü katından düşüp yaşamını yitirdi.",
+     "published": "2026-10-08T14:30:00.000Z"
+    }
+   ]
+  },
+  {
    "id": "9c97d1fee0c3",
    "url": "https://www.milliyet.com.tr/magazin/galeri/turkan-soray-yegeninin-dugununden-goruntuleri-paylasti-gozyaslarimizi-tutmaya-calistik-7675740",
    "source": "milliyet-magazin",
@@ -4001,6 +4477,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "855b56688602",
+   "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
+   "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atilla-tas-kiziijpg-_aE-Tlf030KviTVpuO8EPA.jpg",
+   "video": null,
+   "published": "2026-10-08T14:13:06.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
+     "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
+     "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
+     "published": "2026-10-08T14:13:06.000Z"
+    }
+   ]
   },
   {
    "id": "685c2f178e1d",
@@ -10285,267 +10790,6 @@
      "title": "Abisi Ahmet Uğurlu’yu kaybeden Mustafa Uğurlu: Bir parçam yok oldu",
      "snippet": "İki yıl önce abisi Ahmet Uğurlu’yu kaybeden Mustafa Uğurlu, yaşadığı zorlu süreci anlattı: “Abimi kaybettikten sonra biraz inzivaya çekileyim dedim ama çok ağır geldi. Bir parçam yok olmuş gibi hissettim.”",
      "published": "2026-10-07T05:26:40.000Z"
-    }
-   ]
-  },
-  {
-   "id": "9a211493314f",
-   "url": "https://www.sozcu.com.tr/guzel-karisini-senin-icin-mi-birakti-ihanet-iddiasina-tek-kelimelik-yanit-p366834",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "“Güzel karısını senin için mi bıraktı?” İhanet iddiasına tek kelimelik yanıt",
-   "snippet": "Edwina Sponza, yıllar önce aşk yaşadığı İbrahim Kutluay ile ilgili takipçilerinden gelen soruları yanıtladı. Kutluay'la ...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/edwinajpg-f1SpjNPSlkGMGesCfFXOTA.jpg",
-   "video": null,
-   "published": "2026-10-07T05:19:08.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/guzel-karisini-senin-icin-mi-birakti-ihanet-iddiasina-tek-kelimelik-yanit-p366834",
-     "title": "“Güzel karısını senin için mi bıraktı?” İhanet iddiasına tek kelimelik yanıt",
-     "snippet": "Edwina Sponza, yıllar önce aşk yaşadığı İbrahim Kutluay ile ilgili takipçilerinden gelen soruları yanıtladı. Kutluay'la ...",
-     "published": "2026-10-07T05:19:08.000Z"
-    }
-   ]
-  },
-  {
-   "id": "a80864f55421",
-   "url": "https://www.haberturk.com/magazin/birkan-sokullu-yazin-bayagi-calistik-3917774",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"Yazın bayağı çalıştık\"",
-   "snippet": "Birkan Sokullu ve sevgilisi Eda Gürkaynak, Etiler'de görüntülendi. Çift, yaz tatilleri ve yeni projeleri hakkında konuştu. Sokullu, \"Yazın bayağı çalıştık, son bir ay tatil yaptık. Ufak ufak bir yerlere gidip geldik\" dedi",
-   "image": "https://im.haberturk.com/l/2026/10/06/ver1791349472/3917774/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-07T05:04:53.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/birkan-sokullu-yazin-bayagi-calistik-3917774",
-     "title": "\"Yazın bayağı çalıştık\"",
-     "snippet": "Birkan Sokullu ve sevgilisi Eda Gürkaynak, Etiler'de görüntülendi. Çift, yaz tatilleri ve yeni projeleri hakkında konuştu. Sokullu, \"Yazın bayağı çalıştık, son bir ay tatil yaptık. Ufak ufak bir yerlere gidip geldik\" dedi",
-     "published": "2026-10-07T05:04:53.000Z"
-    }
-   ]
-  },
-  {
-   "id": "02936d03db9a",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/10-yasindan-beri-calisti-sifirdan-baslayip-ekranin-en-zengin-yuzu-oldu-yildiz-ismin-yillik-kazanci-dudak-ucuklatti-43332124",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "10 yaşından beri çalıştı, sıfırdan başlayıp ekranın en zengin yüzü oldu… Yıldız ismin yıllık kazancı dudak uçuklattı!",
-   "snippet": "Uzun kariyeri boyunca televizyon ekranlarının en ünlü yüzlerinden biri oldu, sayısız program sundu, birçok kitap yazdı, hiç durmadan çalıştı ve artık 80 yaşını geçmiş olmasına rağmen de durmaya hiç niyeti yok…",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac5ce42fc033b5a8af9ecc0.jpg",
-   "video": null,
-   "published": "2026-10-07T04:44:55.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/10-yasindan-beri-calisti-sifirdan-baslayip-ekranin-en-zengin-yuzu-oldu-yildiz-ismin-yillik-kazanci-dudak-ucuklatti-43332124",
-     "title": "10 yaşından beri çalıştı, sıfırdan başlayıp ekranın en zengin yüzü oldu… Yıldız ismin yıllık kazancı dudak uçuklattı!",
-     "snippet": "Uzun kariyeri boyunca televizyon ekranlarının en ünlü yüzlerinden biri oldu, sayısız program sundu, birçok kitap yazdı, hiç durmadan çalıştı ve artık 80 yaşını geçmiş olmasına rağmen de durmaya hiç niyeti yok…",
-     "published": "2026-10-07T04:44:55.000Z"
-    }
-   ]
-  },
-  {
-   "id": "94b8c6eec303",
-   "url": "https://www.sabah.com.tr/yazarlar/gunaydin/idil-cimrin/2026/10/07/hamburgerin-dogusu",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Hamburgerin doğuşu",
-   "snippet": "Ruslar, ilk olarak Cengizhan'ın oğlu Kubilay Han Moskova'yı fethettiğinde, Moğollar'dan öğrendikleri bu yemeğe Tatar bifteği adını vermişler. O zamanlar at etiyle yapılırmış. Ruslarla ticaret yapan Almanlar,... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/4d95c4/0/0/0/0/1183/711?u=https://isbh.tmgrup.com.tr/sbh/2026/10/07/hamburgerin-dogusu-1791347726581.jpeg",
-   "video": null,
-   "published": "2026-10-07T04:36:51.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/yazarlar/gunaydin/idil-cimrin/2026/10/07/hamburgerin-dogusu",
-     "title": "Hamburgerin doğuşu",
-     "snippet": "Ruslar, ilk olarak Cengizhan'ın oğlu Kubilay Han Moskova'yı fethettiğinde, Moğollar'dan öğrendikleri bu yemeğe Tatar bifteği adını vermişler. O zamanlar at etiyle yapılırmış. Ruslarla ticaret yapan Almanlar,... Devamı için tıklayınız",
-     "published": "2026-10-07T04:36:51.000Z"
-    }
-   ]
-  },
-  {
-   "id": "9e4c8e216838",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/derin-mermercinin-yalisina-yolcu-vapuru-carpti-benim-cocuklarim-bu-evde-43332119",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Derin Mermerci'nin yalısına yolcu vapuru çarptı... 'Benim çocuklarım bu evde'",
-   "snippet": "Derin Mermerci'nin Boğaz kenarındaki tarihi Kazasker Necmettin Efendi Yalısı'na yolcu vapuru çarptı. O anları Derin Mermerci sosyal medya hesabından paylaştı.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac5cac0fc033b5a8af9ec9a.jpg",
-   "video": null,
-   "published": "2026-10-07T04:29:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/derin-mermercinin-yalisina-yolcu-vapuru-carpti-benim-cocuklarim-bu-evde-43332119",
-     "title": "Derin Mermerci'nin yalısına yolcu vapuru çarptı... 'Benim çocuklarım bu evde'",
-     "snippet": "Derin Mermerci'nin Boğaz kenarındaki tarihi Kazasker Necmettin Efendi Yalısı'na yolcu vapuru çarptı. O anları Derin Mermerci sosyal medya hesabından paylaştı.",
-     "published": "2026-10-07T04:29:00.000Z"
-    }
-   ]
-  },
-  {
-   "id": "862eb872b7da",
-   "url": "https://www.milliyet.com.tr/magazin/muhtesem-bir-komedi-izleyecegiz-7674627",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Muhteşem bir komedi izleyeceğiz’",
-   "snippet": "MESUT YILMAZ -İstanbul Mecidiyeköy’deki Trump Sahne’de perde açan oyunu izleyen Ebru Şallı, “Ülkemizin gülmeye çok ihtiyacı var. Şafak da muhteşem bir komedi sergiliyor” dedi. Tiyatronun önemine dikkat çeken Erhan Yazıcıoğlu ise, “Sinemayı ve oyunculuğu besleyen tiyatrodur. O yüzden bu dönüş ruhumu okşuyor” diye konuştu.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac56f5b50398df27d0110b5.jpg",
-   "video": null,
-   "published": "2026-10-07T04:02:28.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/muhtesem-bir-komedi-izleyecegiz-7674627",
-     "title": "‘Muhteşem bir komedi izleyeceğiz’",
-     "snippet": "MESUT YILMAZ -İstanbul Mecidiyeköy’deki Trump Sahne’de perde açan oyunu izleyen Ebru Şallı, “Ülkemizin gülmeye çok ihtiyacı var. Şafak da muhteşem bir komedi sergiliyor” dedi. Tiyatronun önemine dikkat çeken Erhan Yazıcıoğlu ise, “Sinemayı ve oyunculuğu besleyen tiyatrodur. O yüzden bu dönüş ruhumu ",
-     "published": "2026-10-07T04:02:28.000Z"
-    }
-   ]
-  },
-  {
-   "id": "01a8badf9db5",
-   "url": "https://www.milliyet.com.tr/magazin/paris-yuruyusu-132-ulkede-yankilandi-7674625",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Paris yürüyüşü 132 ülkede yankılandı",
-   "snippet": "MTM Medya Takip Merkezi tarafından hazırlanan çalışmada, X’te 27 bin 387, Instagram’da ise 2.2 milyon etkileşim alan oyuncu; Türkiye’de aura, rahatlık ve podyum performansıyla, Fransa’da ise Türk oyuncu kimliğiyle öne çıktı. Brezilya’da güzellik ve karizmasıyla konuşulan Sarıkaya, Vietnam’da Hailey Bieber’la benzer Saint Laurent görünümü ve Kendall Jenner’ın performansıyla kıyaslandı. Oyuncunun, yurt dışı basınında uluslararası moda görünürlüğü ağırlık kazanırken, başarısıyla takdir topladı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac56e8850398df27d0110a2.jpg",
-   "video": null,
-   "published": "2026-10-07T04:02:27.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/paris-yuruyusu-132-ulkede-yankilandi-7674625",
-     "title": "Paris yürüyüşü 132 ülkede yankılandı",
-     "snippet": "MTM Medya Takip Merkezi tarafından hazırlanan çalışmada, X’te 27 bin 387, Instagram’da ise 2.2 milyon etkileşim alan oyuncu; Türkiye’de aura, rahatlık ve podyum performansıyla, Fransa’da ise Türk oyuncu kimliğiyle öne çıktı. Brezilya’da güzellik ve karizmasıyla konuşulan Sarıkaya, Vietnam’da Hailey ",
-     "published": "2026-10-07T04:02:27.000Z"
-    }
-   ]
-  },
-  {
-   "id": "a28188cf210c",
-   "url": "https://www.milliyet.com.tr/magazin/moskovada-sergilendi-7674617",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Moskova’da sergilendi",
-   "snippet": "Manege Central Exhibition Hall’de gerçekleşen defilede karakteristik deri kullanımı, terziliği ve siluetleri dikkat çeken tasarımcı, “Koleksiyonda geçmişin izlerini çağdaş silüetlerle buluştururken, müziği de bu anlatının bir parçası olarak ele aldım” ifadelerini kullandı. Aytulum’un tasarımları, beğeni topladı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac56cad50398df27d011088.jpg",
-   "video": null,
-   "published": "2026-10-07T04:02:26.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/moskovada-sergilendi-7674617",
-     "title": "Moskova’da sergilendi",
-     "snippet": "Manege Central Exhibition Hall’de gerçekleşen defilede karakteristik deri kullanımı, terziliği ve siluetleri dikkat çeken tasarımcı, “Koleksiyonda geçmişin izlerini çağdaş silüetlerle buluştururken, müziği de bu anlatının bir parçası olarak ele aldım” ifadelerini kullandı. Aytulum’un tasarımları, be",
-     "published": "2026-10-07T04:02:26.000Z"
-    }
-   ]
-  },
-  {
-   "id": "cd09bfe514e6",
-   "url": "https://www.milliyet.com.tr/magazin/yurt-disinda-dostluk-bulusmasi-7674616",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Yurt dışında dostluk buluşması",
-   "snippet": "Richard Mille’in kızı ve markanın, marka ve iş birlikleri direktörü olan Amanda Mille ile yakın arkadaş olan Yaşar, buluşmalarından samimi kareleri paylaştı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac56c5550398df27d01107e.jpg",
-   "video": null,
-   "published": "2026-10-07T04:02:25.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/yurt-disinda-dostluk-bulusmasi-7674616",
-     "title": "Yurt dışında dostluk buluşması",
-     "snippet": "Richard Mille’in kızı ve markanın, marka ve iş birlikleri direktörü olan Amanda Mille ile yakın arkadaş olan Yaşar, buluşmalarından samimi kareleri paylaştı.",
-     "published": "2026-10-07T04:02:25.000Z"
     }
    ]
   },
