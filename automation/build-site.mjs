@@ -561,8 +561,16 @@ await mkdir(p("pavaraghi/"),{recursive:true});
 const publishedDubbed = dubbedSeries.map((s) => ({ ...s, entries: (s.entries || []).filter((e) => e.status === "published" && Array.isArray(e.paragraphs) && e.paragraphs.some((x) => typeof x === "string" && x.trim())) })).filter((s)=>s.entries.length);
 const dubbedTypeLabel = (e) => e.kind === "original" ? "پاورقی کامل قسمت اصلی ترکی" : e.broadcastRefs?.some(r=>r.verified===true) ? "پاورقی نسخه دوبله فارسی" : "بخش‌بندی اختصاصی مشکی‌مدیا، پیش از اعلام مرز قسمت‌های دوبله";
 const dubbedEpisodeLabel = (e) => e.kind === "original" ? "قسمت " + e.originalEpisode + " اصلی ترکی" : e.broadcastRefs?.some(r=>r.verified===true) ? "قسمت " + e.persianEpisode + " دوبله فارسی" : "بخش " + (e.part || e.persianEpisode) + " پاورقی فارسی";
-const dubbedLanding = '<main class="app-shell"><section class="intro"><span class="kicker">مشکی‌مدیا · آرشیو روایت‌ها</span><h1>پاورقی</h1>' + dubbedNav + '</section>' +
-  (publishedDubbed.length ? '<div class="dubbed-list">' + publishedDubbed.map((s)=>dubbedCard(s.titleFa,dubbedBroadcastLabel(s) || s.titleTr || "سریال دارای پاورقی","./"+s.slug+"/",pavaraghiCover(s,{}))).join("") + '</div>' : '<p class="notice">آرشیو پاورقی‌های دوبله فارسی در حال آماده‌سازی است. مطالب پس از بازبینی و انتشار نمایش داده می‌شوند.</p>') + '</main>';
+const catalogSeries = dubbedSeries.map(s => ({...s, entries:(s.entries||[]).filter(e=>e.status==="published"&&Array.isArray(e.paragraphs)&&e.paragraphs.some(t=>typeof t==="string"&&t.trim()))})).sort((a,b)=>(b.entries.length>0?1:0)-(a.entries.length>0?1:0) || a.titleFa.localeCompare(b.titleFa,"fa"));
+const catalogCard = s => {
+ const original=s.entries.filter(e=>e.kind==="original").length, persian=s.entries.filter(e=>e.kind==="dubbed").length;
+ const tally=s.entries.length ? original+" پاورقی ارجینال · "+persian+" پاورقی فارسی" : "در صف تدوین · هنوز پاورقی منتشر نشده";
+ return dubbedCard(s.titleFa,tally,"./"+s.slug+"/",pavaraghiCover(s,{}));
+};
+const dubbedLanding = '<main class="app-shell"><section class="intro"><span class="kicker">مشکی‌مدیا · آرشیو روایت‌ها</span><h1>پاورقی</h1>' + dubbedNav + '<p>برای هر سریال، پاورقی‌های ارجینال و بخش‌های فارسی جداگانه و به ترتیب شماره در دسترس هستند. سریال‌های بدون متن منتشرشده با وضعیت «در صف تدوین» مشخص‌اند.</p></section>' +
+ '<nav class="pavaraghi-jump" aria-label="دسته‌بندی"><a href="#ready">دارای پاورقی</a><a href="#upcoming">در صف تدوین</a></nav>' +
+ '<section id="ready"><h2>سریال‌های دارای پاورقی</h2><div class="dubbed-list">'+catalogSeries.filter(s=>s.entries.length).map(catalogCard).join("")+'</div></section>'+
+ '<section id="upcoming"><h2>سریال‌های در صف تدوین</h2><div class="dubbed-list">'+catalogSeries.filter(s=>!s.entries.length).map(catalogCard).join("")+'</div></section></main>';
 await writeFile(p("pavaraghi/index.html"),dubbedShell("../",{title:"پاورقی | آرشیو روایت ارجینال و دوبله فارسی | مشکی‌مدیا",desc:"تمام پاورقی‌های مشکی‌مدیا؛ روایت قسمت‌های اصلی ترکی و دوبله‌های فارسی هر سریال",path:"pavaraghi/"},dubbedLanding),"utf8");
 urls.push({loc:BASE+"/pavaraghi/",pri:"0.7"});
 for (const s of publishedDubbed) {
@@ -608,7 +616,7 @@ for (const pr of Object.values(people)) searchIndex.push({ t: "actor", titleFa: 
 for (const ch of Object.values(characters)) searchIndex.push({ t: "character", titleFa: ch.nameFa || ch.name, titleTr: ch.name + (ch.personNameFa ? " · " + ch.personNameFa : ""), sub: ch.seriesTitleFa, url: `karakter/${ch.slug}/` });
 for (const w of Object.values(works)) searchIndex.push({ t: "work", titleFa: w.titleFa || w.titleTr, titleTr: w.titleTr, sub: w.kind === "film" ? "فیلم" : "سریال", url: `asar/${w.slug}/` });
 for (const net of Object.values(networks)) searchIndex.push({ t: "network", titleFa: net.name, titleTr: net.nameFa || "", sub: "شبکه", url: `kanal/${net.slug}/` });
-for (const s of publishedDubbed) { for (const name of dubbedNames(s)) searchIndex.push({ t:"series", titleFa:name, titleTr:s.titleTr || "", sub:"پاورقی · "+s.titleFa, url:"pavaraghi/"+s.slug+"/" }); for (const e of s.entries) searchIndex.push({t:"episode",titleFa:e.title || dubbedEpisodeLabel(e) + " | " + s.titleFa,titleTr:s.titleTr || "",sub:"پاورقی مشکی‌مدیا",url:"pavaraghi/"+s.slug+"/"+e.slug+"/"}); }
+for (const s of catalogSeries) { for (const name of dubbedNames(s)) searchIndex.push({ t:"series", titleFa:name, titleTr:s.titleTr || "", sub:"پاورقی · "+s.titleFa, url:"pavaraghi/"+s.slug+"/" }); for (const e of s.entries) searchIndex.push({t:"episode",titleFa:e.title || dubbedEpisodeLabel(e) + " | " + s.titleFa,titleTr:s.titleTr || "",sub:"پاورقی مشکی‌مدیا",url:"pavaraghi/"+s.slug+"/"+e.slug+"/"}); }
 await writeFile(p("data/search-index.json"), JSON.stringify(searchIndex) + "\n", "utf8");
 
 // ---- sitemap.xml + robots.txt ----------------------------------------------
