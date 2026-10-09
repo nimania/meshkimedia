@@ -41,9 +41,41 @@
         "originalEpisode": 1,
         "sourceStatus": "video-confirmed",
         "transcriptStatus": "not-acquired",
-        "sceneReviewStatus": "pending",
+        "sceneReviewStatus": "official-synopsis-only",
         "dubbedMappingStatus": "unverified",
-        "editorialStatus": "preproduction"
+        "editorialStatus": "source-outline-awaiting-transcript",
+        "reviewedStoryBeats": [
+          {
+            "id": "a",
+            "event": "آماده‌شدن درین برای ازدواج با هاکان",
+            "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+            "timeline": "unverified"
+          },
+          {
+            "id": "b",
+            "event": "بازگشت مهمت از آمریکا و ملاقات با خانواده",
+            "source": "https://www.youtube.com/watch?v=KEmczHqPIy0",
+            "timeline": "unverified"
+          },
+          {
+            "id": "c",
+            "event": "روشن‌شدن خیانت هاکان و پایان رابطه با درین",
+            "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+            "timeline": "unverified"
+          },
+          {
+            "id": "d",
+            "event": "آشنایی درین و مهمت و آغاز نزدیک‌شدن آنها",
+            "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+            "timeline": "unverified"
+          },
+          {
+            "id": "e",
+            "event": "پیچیده‌شدن روابط دو خانواده رقیب از طریق دو برادر",
+            "source": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+            "timeline": "unverified"
+          }
+        ]
       },
       "productionPlan": {
         "originalEpisode": 1,
