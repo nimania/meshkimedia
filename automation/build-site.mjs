@@ -50,11 +50,11 @@ function pavaraghiGroups(record, entries, root, { preview = false } = {}) {
     { kind: "dubbed", title: "پاورقی فارسی", sub: "شماره‌گذاری پیوسته بخش‌های فارسی مشکی‌مدیا", anchor: "pavaraghi-dubbed", max: 6 }
   ];
   return groups.map(group => {
-    let items = entries.filter(e => e.status === "published" && e.kind === group.kind);
+    let items = entries.filter(e => e.status === "published" && e.kind === group.kind).sort((a,b)=>group.kind==="original" ? Number(a.originalEpisode||0)-Number(b.originalEpisode||0) : Number(a.part||a.persianEpisode||0)-Number(b.part||b.persianEpisode||0));
     if (preview) items = items.slice(-group.max).reverse();
     if (!items.length) return "";
     const cards = items.map(e => pavaraghiCard(
-      e.title, "قسمت اصلی ترکی " + e.originalEpisode,
+      e.title, e.kind==="original" ? "قسمت اصلی ترکی "+e.originalEpisode : "قسمت اصلی "+e.originalEpisode+" · بخش فارسی "+(e.part||e.persianEpisode),
       root + "pavaraghi/" + record.slug + "/" + e.slug + "/",
       pavaraghiCover(record, e)
     )).join("");
@@ -555,22 +555,36 @@ const dubbedNames = (s) => [...new Set([s.titleFa, s.titleTr, ...(s.aliases || [
 const dubbedBroadcastLabel = (s) => dubbedBroadcasts(s).map(b => (b.network === "gem" ? "GEM" : b.network === "mbc-persia" ? "MBC Persia" : b.network) + (b.titleFa ? " («" + b.titleFa + "»)" : "")).join(" · ");
 const dubbedNav = '<p class="dubbed-intro">آرشیو پاورقی‌های سریال‌ها در دو بخش: روایت قسمت‌های اصلی ترکی و بخش‌های فارسی مشکی‌مدیا. نسخه‌های صوتی پس از ضبط اضافه می‌شوند.</p>';
 const dubbedCard = (title, detail, href, cover) => pavaraghiCard(title, detail, href, cover);
-const dubbedStyles = '<style>.pavaraghi-jump{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:14px;margin:20px auto}.pavaraghi-jump a{display:inline-flex;padding:9px 18px;border:1px solid var(--line,#ddd);border-radius:999px;background:var(--surface,#fff);color:inherit;text-decoration:none;white-space:nowrap}.pavaraghi-jump-separator{color:var(--muted,#888);padding:0 3px}.dubbed-intro{max-width:68ch;line-height:2;color:var(--muted,#777)}.pavaraghi-text{max-width:77ch;font-size:1.1rem;line-height:2.25}.pavaraghi-text p{margin:0 0 1.5em}.pavaraghi-audio{max-width:780px;margin:22px 0}.pavaraghi-video{aspect-ratio:16/9;width:100%;max-width:780px;border:0;border-radius:12px}.pavaraghi-audio audio{width:100%}</style>';
+const dubbedStyles = '<style>.pv-toolbar{display:flex;align-items:end;flex-wrap:wrap;gap:14px;margin:22px 0}.pv-toolbar label{display:flex;flex:1;min-width:190px;flex-direction:column;gap:6px;color:var(--muted,#666)}.pv-toolbar input,.pv-toolbar select{height:44px;border:1px solid var(--line,#ccc);border-radius:10px;background:var(--surface,#fff);color:inherit;padding:8px 12px;font:inherit}.pv-filterbuttons{display:flex;flex-wrap:wrap;gap:6px}.pv-filterbuttons button{border-radius:99px;border:1px solid var(--line,#ccc);padding:8px 13px;font:inherit;color:inherit;cursor:pointer;background:var(--surface,#fff)}.pv-filterbuttons button.on{background:#d90021;color:white;border-color:#d90021}.pv-card{min-width:0}.pv-card[hidden],section[hidden],#pv-empty[hidden]{display:none!important}.pv-stats,.pv-summary{color:var(--muted,#777);line-height:1.9}.pv-sources{margin:20px 0;padding:14px 18px;border:1px solid var(--line,#ddd);border-radius:12px;font-size:.92rem;color:var(--muted,#666)}.pv-sources summary{cursor:pointer;font-weight:700}.pv-sources p{line-height:1.9}.pv-sources a{color:inherit}.pv-sources li{margin:6px 0;overflow-wrap:anywhere}.pavaraghi-jump{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:14px;margin:20px auto}.pavaraghi-jump a{display:inline-flex;padding:9px 18px;border:1px solid var(--line,#ddd);border-radius:999px;background:var(--surface,#fff);color:inherit;text-decoration:none;white-space:nowrap}.pavaraghi-jump-separator{color:var(--muted,#888);padding:0 3px}.dubbed-intro{max-width:68ch;line-height:2;color:var(--muted,#777)}.pavaraghi-text{max-width:77ch;font-size:1.1rem;line-height:2.25}.pavaraghi-text p{margin:0 0 1.5em}.pavaraghi-audio{max-width:780px;margin:22px 0}.pavaraghi-video{aspect-ratio:16/9;width:100%;max-width:780px;border:0;border-radius:12px}.pavaraghi-audio audio{width:100%}</style>';
 const dubbedShell = (root,meta,html) => head(root,{...meta,version:"20261009pavaraghi2"}) + dubbedStyles + html + boot(root, {}, [], "20261009pavaraghi2");
 await mkdir(p("pavaraghi/"),{recursive:true});
 const publishedDubbed = dubbedSeries.map((s) => ({ ...s, entries: (s.entries || []).filter((e) => e.status === "published" && Array.isArray(e.paragraphs) && e.paragraphs.some((x) => typeof x === "string" && x.trim())) })).filter((s)=>s.entries.length);
 const dubbedTypeLabel = (e) => e.kind === "original" ? "پاورقی کامل قسمت اصلی ترکی" : e.broadcastRefs?.some(r=>r.verified===true) ? "پاورقی نسخه دوبله فارسی" : "بخش‌بندی اختصاصی مشکی‌مدیا، پیش از اعلام مرز قسمت‌های دوبله";
 const dubbedEpisodeLabel = (e) => e.kind === "original" ? "قسمت " + e.originalEpisode + " اصلی ترکی" : e.broadcastRefs?.some(r=>r.verified===true) ? "قسمت " + e.persianEpisode + " دوبله فارسی" : "بخش " + (e.part || e.persianEpisode) + " پاورقی فارسی";
+
 const catalogSeries = dubbedSeries.map(s => ({...s, entries:(s.entries||[]).filter(e=>e.status==="published"&&Array.isArray(e.paragraphs)&&e.paragraphs.some(t=>typeof t==="string"&&t.trim()))})).sort((a,b)=>(b.entries.length>0?1:0)-(a.entries.length>0?1:0) || a.titleFa.localeCompare(b.titleFa,"fa"));
-const catalogCard = s => {
- const original=s.entries.filter(e=>e.kind==="original").length, persian=s.entries.filter(e=>e.kind==="dubbed").length;
- const tally=s.entries.length ? original+" پاورقی ارجینال · "+persian+" پاورقی فارسی" : "در صف تدوین · هنوز پاورقی منتشر نشده";
- return dubbedCard(s.titleFa,tally,"./"+s.slug+"/",pavaraghiCover(s,{}));
+const catalogNetwork = s => {
+  const src = series[s.originalSeriesSlug || s.slug] || {};
+  const net = networks[src.network] || {};
+  return net.nameFa || net.name || src.network || "نامشخص";
 };
-const dubbedLanding = '<main class="app-shell"><section class="intro"><span class="kicker">مشکی‌مدیا · آرشیو روایت‌ها</span><h1>پاورقی</h1>' + dubbedNav + '<p>برای هر سریال، پاورقی‌های ارجینال و بخش‌های فارسی جداگانه و به ترتیب شماره در دسترس هستند. سریال‌های بدون متن منتشرشده با وضعیت «در صف تدوین» مشخص‌اند.</p></section>' +
- '<nav class="pavaraghi-jump" aria-label="دسته‌بندی"><a href="#ready">دارای پاورقی</a><a href="#upcoming">در صف تدوین</a></nav>' +
- '<section id="ready"><h2>سریال‌های دارای پاورقی</h2><div class="dubbed-list">'+catalogSeries.filter(s=>s.entries.length).map(catalogCard).join("")+'</div></section>'+
- '<section id="upcoming"><h2>سریال‌های در صف تدوین</h2><div class="dubbed-list">'+catalogSeries.filter(s=>!s.entries.length).map(catalogCard).join("")+'</div></section></main>';
+const catalogNetworks = [...new Set(catalogSeries.map(catalogNetwork))].sort((a,b)=>a.localeCompare(b,"fa"));
+const catalogCard = s => {
+ const nOriginal=s.entries.filter(e=>e.kind==="original").length, nPersian=s.entries.filter(e=>e.kind==="dubbed").length;
+ const ready=!!(nOriginal+nPersian);
+ const detail=ready ? nOriginal+" ارجینال · "+nPersian+" فارسی" : "در صف پژوهش و نگارش";
+ const search=[...dubbedNames(s),catalogNetwork(s)].join(" ");
+ return '<div class="pv-card" data-pv-card data-search="'+esc(search)+'" data-status="'+(ready?"ready":"queue")+'" data-network="'+esc(catalogNetwork(s))+'">'+dubbedCard(s.titleFa,detail+" · "+catalogNetwork(s),"./"+s.slug+"/",pavaraghiCover(s,{}))+'</div>';
+};
+const readyCount=catalogSeries.filter(s=>s.entries.length).length, queueCount=catalogSeries.length-readyCount;
+const publishedCount=catalogSeries.reduce((n,s)=>n+s.entries.length,0);
+const catalogToolbar='<div class="pv-toolbar"><label>جست‌وجوی سریال<input id="pv-search" type="search" placeholder="نام فارسی یا ترکی…" autocomplete="off"></label><label>شبکه<select id="pv-network"><option value="">همه شبکه‌ها</option>'+catalogNetworks.map(n=>'<option value="'+esc(n)+'">'+esc(n)+'</option>').join("")+'</select></label><div class="pv-filterbuttons" role="group" aria-label="وضعیت انتشار"><button type="button" class="on" aria-pressed="true" data-pv-status="all">همه</button><button type="button" aria-pressed="false" data-pv-status="ready">دارای پاورقی</button><button type="button" aria-pressed="false" data-pv-status="queue">در صف تدوین</button></div></div>';
+const catalogScript='<script>(function(){const q=document.getElementById("pv-search"),net=document.getElementById("pv-network"),summary=document.getElementById("pv-summary"),cards=Array.from(document.querySelectorAll("[data-pv-card]")),buttons=Array.from(document.querySelectorAll("[data-pv-status]"));let status="all";const norm=x=>String(x||"").toLocaleLowerCase("fa").replace(/ي/g,"ی").replace(/ك/g,"ک").trim();function apply(){let n=0;for(const card of cards){const visible=(!q.value||norm(card.dataset.search).includes(norm(q.value)))&&(!net.value||card.dataset.network===net.value)&&(status==="all"||card.dataset.status===status);card.hidden=!visible;if(visible)n++}for(const sec of document.querySelectorAll("[data-pv-section]"))sec.hidden=!sec.querySelector("[data-pv-card]:not([hidden])");summary.textContent=n+" سریال مطابق جست‌وجو";document.getElementById("pv-empty").hidden=n>0}q.addEventListener("input",apply);net.addEventListener("change",apply);for(const button of buttons)button.addEventListener("click",()=>{status=button.dataset.pvStatus;for(const b of buttons){b.classList.toggle("on",b===button);b.setAttribute("aria-pressed",b===button?"true":"false")}apply()});apply()})();</script>';
+const dubbedLanding='<main class="app-shell"><section class="intro"><span class="kicker">مشکی‌مدیا · آرشیو روایت‌ها</span><h1>پاورقی</h1>'+dubbedNav+'<p class="pv-stats">'+catalogSeries.length+' سریال · '+readyCount+' سریال دارای پاورقی · '+publishedCount+' روایت منتشرشده</p></section>'+catalogToolbar+
+'<p id="pv-summary" aria-live="polite" class="pv-summary"></p>'+
+'<section id="ready" data-pv-section><h2>سریال‌های دارای پاورقی ('+readyCount+')</h2><div class="dubbed-list">'+catalogSeries.filter(s=>s.entries.length).map(catalogCard).join("")+'</div></section>'+
+'<section id="upcoming" data-pv-section><h2>در صف پژوهش و تدوین ('+queueCount+')</h2><p class="pv-summary">این سریال‌ها هنوز متن تأییدشده ندارند؛ تنها پرونده پیگیری برایشان وجود دارد.</p><div class="dubbed-list">'+catalogSeries.filter(s=>!s.entries.length).map(catalogCard).join("")+'</div></section>'+
+'<p id="pv-empty" hidden>سریالی با این مشخصات پیدا نشد.</p></main>'+catalogScript;
 await writeFile(p("pavaraghi/index.html"),dubbedShell("../",{title:"پاورقی | آرشیو روایت ارجینال و دوبله فارسی | مشکی‌مدیا",desc:"تمام پاورقی‌های مشکی‌مدیا؛ روایت قسمت‌های اصلی ترکی و دوبله‌های فارسی هر سریال",path:"pavaraghi/"},dubbedLanding),"utf8");
 urls.push({loc:BASE+"/pavaraghi/",pri:"0.7"});
 for (const s of catalogSeries) {
@@ -587,7 +601,8 @@ for (const s of catalogSeries) {
     const kindEntries=s.entries.filter(item=>item.kind===e.kind);
     const inKind=kindEntries.findIndex(item=>item.slug===e.slug);
     const prev=kindEntries[inKind-1],next=kindEntries[inKind+1];
-    const body='<main class="app-shell"><article><div class="crumbs"><a href="../../../pavaraghi/">پاورقی</a> / <a href="../">'+esc(s.titleFa)+'</a></div><header class="intro"><span class="kicker">پاورقی مشکی‌مدیا</span><h1>'+esc(e.title || "قسمت "+e.persianEpisode)+'</h1><p>قسمت اصلی ترکی: '+esc(e.originalEpisode || "ثبت‌نشده")+(e.broadcastRefs?.some(r=>r.verified===true)?' · '+esc(e.broadcastRefs.filter(r=>r.verified===true).map(r=>(r.network==="gem"?"GEM":r.network==="mbc-persia"?"MBC Persia":r.network)+": قسمت "+r.persianEpisode).join(" · ")):' · بخش پاورقی: '+esc(e.part || e.persianEpisode || "ثبت‌نشده"))+'</p></header>'+pavaraghiFigure(pavaraghiCover(s,e))+'<div class="pavaraghi-text">'+e.paragraphs.map(t=>'<p>'+esc(t)+'</p>').join("")+'</div>'+yt+audio+'</article><nav class="dubbed-list">'+(prev?dubbedCard("قسمت قبل","ادامه آرشیو","../"+prev.slug+"/"):"")+(next?dubbedCard("قسمت بعد","ادامه آرشیو","../"+next.slug+"/"):"")+'</nav></main>';
+    const sourceUrls=(e.verifiedSourceUrls||[]).filter(u=>typeof u==="string"&&/^https:\/\/[^\s"<>]+$/.test(u)).slice(0,6); const foot=(e.sourceNote||sourceUrls.length)?'<details class="pv-sources"><summary>منابع و حدود دقت این روایت</summary>'+(e.sourceNote?'<p>'+esc(e.sourceNote)+'</p>':"")+(sourceUrls.length?'<ul>'+sourceUrls.map((u,i)=>'<li><a href="'+esc(u)+'" target="_blank" rel="noopener noreferrer">منبع '+(i+1)+' ↗</a></li>').join("")+'</ul>':"")+'</details>':"";
+    const body='<main class="app-shell"><article><div class="crumbs"><a href="../../../pavaraghi/">پاورقی</a> / <a href="../">'+esc(s.titleFa)+'</a></div><header class="intro"><span class="kicker">پاورقی مشکی‌مدیا</span><h1>'+esc(e.title || "قسمت "+e.persianEpisode)+'</h1><p>قسمت اصلی ترکی: '+esc(e.originalEpisode || "ثبت‌نشده")+(e.broadcastRefs?.some(r=>r.verified===true)?' · '+esc(e.broadcastRefs.filter(r=>r.verified===true).map(r=>(r.network==="gem"?"GEM":r.network==="mbc-persia"?"MBC Persia":r.network)+": قسمت "+r.persianEpisode).join(" · ")):' · بخش پاورقی: '+esc(e.part || e.persianEpisode || "ثبت‌نشده"))+'</p></header>'+pavaraghiFigure(pavaraghiCover(s,e))+'<div class="pavaraghi-text">'+e.paragraphs.map(t=>'<p>'+esc(t)+'</p>').join("")+'</div>'+foot+yt+audio+'</article><nav class="dubbed-list">'+(prev?dubbedCard("قسمت قبل","ادامه آرشیو","../"+prev.slug+"/"):"")+(next?dubbedCard("قسمت بعد","ادامه آرشیو","../"+next.slug+"/"):"")+'</nav></main>';
     await writeFile(p(path+"index.html"),dubbedShell("../../../",{title:(e.title || "پاورقی")+" | "+s.titleFa+" | مشکی‌مدیا",desc:(e.paragraphs[0]||"").slice(0,155),path,ogImage:pavaraghiCover(s,e)?.src || ""},body),"utf8");
     urls.push({loc:BASE+"/"+path,pri:"0.5"});
   }
