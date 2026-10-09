@@ -8,6 +8,7 @@ on:
       - "automation/build-pages-data.mjs"
       - "automation/tiak-daily.mjs"
       - "automation/build-site.mjs"
+      - "automation/audit-pavaraghi.mjs"
       - "automation/social-rating-cards.py"
       - "automation/social-content.py"
       - "automation/solar_date.py"
@@ -73,6 +74,8 @@ jobs:
         env:
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
         continue-on-error: true
+      - name: Audit pavaraghi coverage and register episode gaps
+        run: node automation/audit-pavaraghi.mjs
       - name: Regenerate static pages from data
         run: node automation/build-site.mjs
       # Posts each new story (photo + title + summary + link) to the Telegram channel.
