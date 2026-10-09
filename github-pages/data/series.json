@@ -4487,6 +4487,96 @@
         "firstEpisode": 1,
         "episodes": [
           {
+            "number": 1,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-1-izle/133682",
+            "metadataOnly": false,
+            "verification": "official-first-episode-video",
+            "summary": "",
+            "date": "2026-06-18",
+            "watchUrl": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-1-izle/133682"
+          },
+          {
+            "number": 2,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "metadataOnly": true,
+            "verification": "official-episode-index",
+            "summary": ""
+          },
+          {
+            "number": 3,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "metadataOnly": true,
+            "verification": "official-episode-index",
+            "summary": ""
+          },
+          {
+            "number": 4,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "metadataOnly": true,
+            "verification": "official-episode-index",
+            "summary": ""
+          },
+          {
+            "number": 5,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "metadataOnly": true,
+            "verification": "official-episode-index",
+            "summary": ""
+          },
+          {
+            "number": 6,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "metadataOnly": true,
+            "verification": "official-episode-index",
+            "summary": ""
+          },
+          {
+            "number": 7,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "metadataOnly": true,
+            "verification": "official-episode-index",
+            "summary": ""
+          },
+          {
+            "number": 8,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "metadataOnly": true,
+            "verification": "official-episode-index",
+            "summary": ""
+          },
+          {
+            "number": 9,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "metadataOnly": true,
+            "verification": "official-episode-index",
+            "summary": ""
+          },
+          {
+            "number": 10,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "metadataOnly": true,
+            "verification": "official-episode-index",
+            "summary": ""
+          },
+          {
+            "number": 11,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "metadataOnly": true,
+            "verification": "official-episode-index",
+            "summary": ""
+          },
+          {
             "number": 12,
             "date": "2026-09-03"
           },
@@ -4506,10 +4596,27 @@
             "number": 16,
             "date": "2026-10-01",
             "calendar": true
+          },
+          {
+            "number": 17,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+            "source": "https://www.showtv.com.tr/dizi/haber/3918446-muhtemel-ask-17-bolumuyle-ekranlara-geldi",
+            "metadataOnly": false,
+            "verification": "official-postbroadcast-report",
+            "summary": "قادر برای جلوگیری از سفر دفنه و تامر به پاریس به فرودگاه می‌رود و در هواپیما با دفنه روبه‌رو می‌شود. هم‌زمان، در عروسی اوزلم و تولگا، علی با دیدن نتایج آزمایش دی‌ان‌ای به نتیجه‌ای تکان‌دهنده درباره پدرش می‌رسد و در برابر جمع اعلام می‌کند تولگا پدر اوست.",
+            "date": "2026-10-08",
+            "watchUrl": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-17-izle/135277"
           }
         ]
       }
-    ]
+    ],
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+      "highestVerifiedEpisode": 17,
+      "verification": "official-full-episode-index",
+      "note": "قسمت‌های ۱ تا ۱۷ از فهرست رسمی؛ قسمت‌های فاقد خلاصه، رکورد فراداده‌ای هستند و هنوز پاورقی ندارند."
+    }
   },
   "mehmed-fetihler-sultani": {
     "slug": "mehmed-fetihler-sultani",
