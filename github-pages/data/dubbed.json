@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "description": "Persian dubbed-series catalog and MeshkiMedia original pavaraghi (editorial publishing only)",
+  "networks": [
+    {
+      "id": "gem",
+      "name": "GEM TV",
+      "verified": false
+    },
+    {
+      "id": "mbc-persia",
+      "name": "MBC Persia",
+      "verified": false
+    }
+  ],
+  "series": []
+}
