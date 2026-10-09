@@ -573,10 +573,10 @@ const dubbedLanding = '<main class="app-shell"><section class="intro"><span clas
  '<section id="upcoming"><h2>سریال‌های در صف تدوین</h2><div class="dubbed-list">'+catalogSeries.filter(s=>!s.entries.length).map(catalogCard).join("")+'</div></section></main>';
 await writeFile(p("pavaraghi/index.html"),dubbedShell("../",{title:"پاورقی | آرشیو روایت ارجینال و دوبله فارسی | مشکی‌مدیا",desc:"تمام پاورقی‌های مشکی‌مدیا؛ روایت قسمت‌های اصلی ترکی و دوبله‌های فارسی هر سریال",path:"pavaraghi/"},dubbedLanding),"utf8");
 urls.push({loc:BASE+"/pavaraghi/",pri:"0.7"});
-for (const s of publishedDubbed) {
+for (const s of catalogSeries) {
   await mkdir(p("pavaraghi/"+s.slug+"/"),{recursive:true});
   const seriesPath="pavaraghi/"+s.slug+"/";
-  const seriesBody='<main class="app-shell"><section class="intro"><div class="crumbs"><a href="../../pavaraghi/">پاورقی‌ها</a></div><span class="kicker">آرشیو پاورقی</span><h1>پاورقی‌های '+esc(s.titleFa)+'</h1><p>'+esc(s.description || s.titleTr || "")+'</p>'+(s.originalSeriesSlug?'<p><a href="../../dizi/'+encodeURIComponent(s.originalSeriesSlug)+'/">صفحه اصلی سریال در مشکی‌مدیا ←</a></p>':"")+'<nav class="pavaraghi-jump" aria-label="دسته‌بندی پاورقی‌ها"><a href="#pavaraghi-original">پاورقی ارجینال</a> <span class="pavaraghi-jump-separator" aria-hidden="true">•</span> <a href="#pavaraghi-dubbed">پاورقی فارسی</a></nav></section>'+pavaraghiGroups(s,s.entries,"../../")+'</main>';
+  const seriesBody='<main class="app-shell"><section class="intro"><div class="crumbs"><a href="../../pavaraghi/">پاورقی‌ها</a></div><span class="kicker">آرشیو پاورقی</span><h1>پاورقی‌های '+esc(s.titleFa)+'</h1><p>'+esc(s.description || s.titleTr || "")+'</p>'+(s.originalSeriesSlug?'<p><a href="../../dizi/'+encodeURIComponent(s.originalSeriesSlug)+'/">صفحه اصلی سریال در مشکی‌مدیا ←</a></p>':"")+'<nav class="pavaraghi-jump" aria-label="دسته‌بندی پاورقی‌ها"><a href="#pavaraghi-original">پاورقی ارجینال</a> <span class="pavaraghi-jump-separator" aria-hidden="true">•</span> <a href="#pavaraghi-dubbed">پاورقی فارسی</a></nav></section>'+(s.entries.length?pavaraghiGroups(s,s.entries,"../../"):'<p class="notice">این سریال در صف پژوهش و تدوین پاورقی قرار دارد؛ هنوز متن تأییدشده‌ای منتشر نشده است.</p>')+'</main>';
   await writeFile(p(seriesPath+"index.html"),dubbedShell("../../",{title:dubbedNames(s).join("، ")+" | پاورقی‌های مشکی‌مدیا",desc:(s.description || "پاورقی‌های دوبله فارسی")+" | "+dubbedBroadcastLabel(s),path:seriesPath},seriesBody),"utf8");
   urls.push({loc:BASE+"/"+seriesPath,pri:"0.6"});
   for(let i=0;i<s.entries.length;i++){
