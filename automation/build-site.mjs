@@ -196,7 +196,8 @@ function episodePage(s, ep) {
   if (ep.date && !ep.scheduled) jsonld.datePublished = ep.date;
   if (img) jsonld.image = img;
   if (ep.summary) jsonld.description = ep.summary.slice(0, 300);
-  const h = head(root, { title: `${s.titleFa} — قسمت ${ep.number}${ep.title ? "؛ " + ep.title : ""} | مشکی مدیا`, desc: (ep.summary || `ریتینگ و وضعیت قسمت ${ep.number} سریال ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/bolum-${ep.number}/`, ogImage: img, ogType: "video.episode", jsonld, version: "20261009groupsfit" });
+  const hRaw = head(root, { title: `${s.titleFa} — قسمت ${ep.number}${ep.title ? "؛ " + ep.title : ""} | مشکی مدیا`, desc: (ep.summary || `ریتینگ و وضعیت قسمت ${ep.number} سریال ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/bolum-${ep.number}/`, ogImage: img, ogType: "video.episode", jsonld, version: "20261009groupsfit" });
+  const h = ep.metadataOnly && !(ep.summary||"").trim() ? hRaw.replace("</head>", '<meta name="robots" content="noindex,follow"></head>') : hRaw;
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a id="crumb-series" href="#">سریال</a><span>/</span><span>قسمت ${ep.number}</span></div>
