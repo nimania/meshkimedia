@@ -2890,5 +2890,14 @@
         }
       ]
     }
-  ]
+  ],
+  "editorialReviewUpdate": {
+    "updatedAt": "2026-10-09",
+    "sourceCommit": "471bc9032b3afbcaf2f9c534e4d7d23c5e126f18",
+    "readyForFullRecapLabel": 7,
+    "needsReview": 237,
+    "under500Words": 237,
+    "missingDirectSourceLinks": 20,
+    "note": "Length and metadata checks do not establish content accuracy. Broadcaster dubbing boundaries remain unverified. No historical episodes added."
+  }
 }
