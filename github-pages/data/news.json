@@ -1,6 +1,64 @@
 {
- "updated": "2026-10-09T16:32:31.450Z",
+ "updated": "2026-10-09T17:11:20.401Z",
  "items": [
+  {
+   "id": "5784668d882f",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/atilla-tasin-kizi-hayatini-kaybetti-laradan-unlulere-sert-sozler-bir-gun-olsun-bu-aciyi-hissedin-7676454",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Atilla Taş'ın kızı hayatını kaybetti! Lara'dan ünlülere sert sözler: Bir gün olsun bu acıyı hissedin",
+   "snippet": "Şarkıcı Atilla Taş'ın vefat eden kızı Sezen Taş toprağa verildi. Sosyal medyadan meslektaşı için taziye mesajı paylaşan Lara, sanat camiasına yönelik sert ifadeler kullandı. Lara, Instagram'daki mesajına 'Biraz olsun bu acıya saygı duyamıyor musunuz? Ne kadar acımasız, ne kadar vefasızsınız' notunu düştü.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac91c20f15b2619d4a3c33e.jpg",
+   "video": null,
+   "published": "2026-10-09T17:01:39.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/atilla-tasin-kizi-hayatini-kaybetti-laradan-unlulere-sert-sozler-bir-gun-olsun-bu-aciyi-hissedin-7676454",
+     "title": "Atilla Taş'ın kızı hayatını kaybetti! Lara'dan ünlülere sert sözler: Bir gün olsun bu acıyı hissedin",
+     "snippet": "Şarkıcı Atilla Taş'ın vefat eden kızı Sezen Taş toprağa verildi. Sosyal medyadan meslektaşı için taziye mesajı paylaşan Lara, sanat camiasına yönelik sert ifadeler kullandı. Lara, Instagram'daki mesajına 'Biraz olsun bu acıya saygı duyamıyor musunuz? Ne kadar acımasız, ne kadar vefasızsınız' notunu ",
+     "published": "2026-10-09T17:01:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": "6de8fb69bd48",
+   "url": "https://www.sozcu.com.tr/lara-atilla-tas-tepkisi-p367733",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Şarkıcı Lara'dan Atilla Taş'ın acısına sessiz kalan ünlülere tepki",
+   "snippet": "Atilla Taş'ın kızı Sezen Taş'ın 14'üncü kattan düşerek yaşamını yitirmesinin ardından şarkıcı Lara, yaşanan acı karşısın...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/lara-atilla-tasjpg-cJSh0rt6OkqmJ3c2Zz8BFQ.jpg",
+   "video": null,
+   "published": "2026-10-09T16:35:04.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/lara-atilla-tas-tepkisi-p367733",
+     "title": "Şarkıcı Lara'dan Atilla Taş'ın acısına sessiz kalan ünlülere tepki",
+     "snippet": "Atilla Taş'ın kızı Sezen Taş'ın 14'üncü kattan düşerek yaşamını yitirmesinin ardından şarkıcı Lara, yaşanan acı karşısın...",
+     "published": "2026-10-09T16:35:04.000Z"
+    }
+   ]
+  },
   {
    "id": "0a82330dd437",
    "url": "https://www.milliyet.com.tr/magazin/galeri/yegeninin-olumuyle-yikildi-samar-dadgar-acisini-gozyaslariyla-paylasti-7676445",
@@ -628,6 +686,46 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "70ae523e9404",
+   "url": "https://www.sozcu.com.tr/sanat-camiasinin-aci-gunu-gonca-vuslateri-ve-hazal-kaya-dan-duygulandiran-taziye-mesaji-p367671",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Sanat camiasının acı günü: Gonca Vuslateri ve Hazal Kaya'dan duygulandıran taziye mesajı",
+   "snippet": "Yıllar boyunca birçok ünlü isimle setlerde çalışan Batu'nun hayatını kaybettiği öğrenildi. Acı haberi alan Hazal Kaya, G...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/batusanatcamiasijpg-XC0BWWvhw0mGRueuPxei7A.jpg",
+   "video": null,
+   "published": "2026-10-09T12:08:20.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "gonca-vuslateri"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sanat-camiasinin-aci-gunu-gonca-vuslateri-ve-hazal-kaya-dan-duygulandiran-taziye-mesaji-p367671",
+     "title": "Sanat camiasının acı günü: Gonca Vuslateri ve Hazal Kaya'dan duygulandıran taziye mesajı",
+     "snippet": "Yıllar boyunca birçok ünlü isimle setlerde çalışan Batu'nun hayatını kaybettiği öğrenildi. Acı haberi alan Hazal Kaya, G...",
+     "published": "2026-10-09T12:08:20.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/batusanatcamiasijpg-XC0BWWvhw0mGRueuPxei7A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/batusanatcamiasijpg-XC0BWWvhw0mGRueuPxei7A.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sanat-camiasinin-aci-gunu-unlu-isimlerle-setlerde-birlikte-calismisti-2jpg-5oWNmBhAxECH-dPZoyeCdQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sanat-camiasinin-aci-gunu-unlu-isimlerle-setlerde-birlikte-calismisti-1jpg-qYTbw-b9TUiNuhSl9kmJRg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sanat-camiasinin-aci-gunu-unlu-isimlerle-setlerde-birlikte-calismisti-4jpg-nQqQyrO9ykGfdtv0Cdxgkg.jpg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "0d5a22456454",
@@ -1465,6 +1563,46 @@
      "published": "2026-10-09T08:49:00.000Z"
     }
    ]
+  },
+  {
+   "id": "5e93fb30ff5e",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/sanat-camiasini-yasa-bogan-olum-unlu-isimlerden-batuya-pes-pese-veda-7676213",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Sanat camiasını yasa boğan ölüm! Ünlü isimlerden Batu’ya peş peşe veda",
+   "snippet": "Uzun yıllar birçok ünlü isimle setlerde çalışan Batu’nun hayatını kaybetmesi sanat camiasını yasa boğdu. Ölüm nedeni henüz açıklanmazken Hazal Kaya, Ceyda Ateş, Gonca Vuslateri ve Gözde Seda Altuner sosyal medya hesaplarından peş peşe veda mesajları paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac8a6faf15b2619d4a3bdc0.jpg",
+   "video": null,
+   "published": "2026-10-09T08:38:39.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "gonca-vuslateri"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/sanat-camiasini-yasa-bogan-olum-unlu-isimlerden-batuya-pes-pese-veda-7676213",
+     "title": "Sanat camiasını yasa boğan ölüm! Ünlü isimlerden Batu’ya peş peşe veda",
+     "snippet": "Uzun yıllar birçok ünlü isimle setlerde çalışan Batu’nun hayatını kaybetmesi sanat camiasını yasa boğdu. Ölüm nedeni henüz açıklanmazken Hazal Kaya, Ceyda Ateş, Gonca Vuslateri ve Gözde Seda Altuner sosyal medya hesaplarından peş peşe veda mesajları paylaştı.",
+     "published": "2026-10-09T08:38:39.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac8a6faf15b2619d4a3bdc0.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac8a6faf15b2619d4a3bdc0.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "dfdeece3fb8a",
@@ -2622,6 +2760,14 @@
      "snippet": "Ersay Üner, 48. yaş günü önceki akşam The Game adlı mekanda kutladı.",
      "published": "2026-10-09T05:33:00.000Z",
      "titleFa": "او ۴۸ سالگی‌اش را با ۴۸ دوست جشن گرفت"
+    },
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/gupse-ozay-baris-arduc-un-dogum-gununu-kutladi-3918548",
+     "title": "Eşinin yeni yaşını kutladı",
+     "snippet": "Gupse Özay, 39 yaşına giren eşi Barış Arduç'un doğum gününü, kızları Jan Asya ile birlikte çekildikleri bir fotoğrafla kutladı",
+     "published": "2026-10-09T16:47:53.000Z"
     }
    ],
    "images": [
@@ -2640,7 +2786,11 @@
     "بر اساس اطلاعات منتشر شده، اونر در این مهمانی دورهمی خاص، میزبان ۴۸ نفر از دوستان خود بود تا ورود به سالگرد تولد ۴۸ سالگی‌اش را در کنار آن‌ها جشن بگیرد."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "mergedIds": [
+    "daf3cb5438a1"
+   ],
+   "regen": true
   },
   {
    "id": "0cf2226b1fd6",
@@ -9425,6 +9575,48 @@
    "aiTries": 1
   },
   {
+   "id": "4272a856afa4",
+   "url": "https://www.sozcu.com.tr/vefat-eden-ece-irtem-in-babasina-soyledigi-son-sozleri-yurekleri-burktu-p366981",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Vefat eden Ece İrtem'in babasına söylediği son sözleri yürekleri burktu",
+   "snippet": "“Kızılcık Şerbeti” dizisinde Işıl karakterini canlandıran Ece İrtem'in ani ölümü ailesini yasa boğdu. Acılı anne ve baba...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/167jpg-Aoh7OQz6BEOF4LKCJFznoQ.jpg",
+   "video": null,
+   "published": "2026-10-07T11:07:31.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "kizilcik-serbeti"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/vefat-eden-ece-irtem-in-babasina-soyledigi-son-sozleri-yurekleri-burktu-p366981",
+     "title": "Vefat eden Ece İrtem'in babasına söylediği son sözleri yürekleri burktu",
+     "snippet": "“Kızılcık Şerbeti” dizisinde Işıl karakterini canlandıran Ece İrtem'in ani ölümü ailesini yasa boğdu. Acılı anne ve baba...",
+     "published": "2026-10-07T11:07:31.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/167jpg-Aoh7OQz6BEOF4LKCJFznoQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/167jpg-Aoh7OQz6BEOF4LKCJFznoQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/vural-irtemjpg-Dli9WfS1r0qyEZdVOPFUFg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ece-irtem-annesijpg-Ug7V_UUzSEeWPWJlL8XNNQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac8d3728c023a08fe8bae3bpng-mRzt9IZE5EK8PGMdQ1N8zw.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "64b954e20e1e",
    "url": "https://www.hurriyet.com.tr/kelebek/magazin/tadilatina-servet-doktugu-malikanesini-zararina-satti-karisini-ve-cocuklarini-alip-fransaya-yerlesti-43332502",
    "source": "hurriyet-kelebek",
@@ -10732,64 +10924,6 @@
      "title": "Didem Balçın: İğnesiz zayıfladım",
      "snippet": "Didem Balçın önceki gün Etiler’deki bir kafeden çıkarken görüntülendi.",
      "published": "2026-10-07T05:42:00.000Z"
-    }
-   ]
-  },
-  {
-   "id": "58d692fcd76a",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/meger-unlu-filmin-setinde-neler-olmus-neler-kamera-onunde-bir-rol-arkadasiyla-sevgili-gibi-yapti-cekim-aralarinda-43331800",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Meğer ünlü filmin setinde neler olmuş neler... Kamera önünde bir rol arkadaşıyla 'sevgili gibi' yaptı... Çekim aralarında diğer rol arkadaşının kollarına koştu",
-   "snippet": "Görünüşe göre film setlerinde, kamera arkasında yaşananlar da başlı başına bir film olacak türden... Çekişmeler, rekabet bir yana bir de setlerde yaşanan aşklar ve daha da ötesinde kaçamaklar var.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac50818fc033b5a8af9eba3.jpg",
-   "video": null,
-   "published": "2026-10-07T05:38:46.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/meger-unlu-filmin-setinde-neler-olmus-neler-kamera-onunde-bir-rol-arkadasiyla-sevgili-gibi-yapti-cekim-aralarinda-43331800",
-     "title": "Meğer ünlü filmin setinde neler olmuş neler... Kamera önünde bir rol arkadaşıyla 'sevgili gibi' yaptı... Çekim aralarında diğer rol arkadaşının kollarına koştu",
-     "snippet": "Görünüşe göre film setlerinde, kamera arkasında yaşananlar da başlı başına bir film olacak türden... Çekişmeler, rekabet bir yana bir de setlerde yaşanan aşklar ve daha da ötesinde kaçamaklar var.",
-     "published": "2026-10-07T05:38:46.000Z"
-    }
-   ]
-  },
-  {
-   "id": "6842dbe927bd",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/abisi-ahmet-ugurluyu-kaybeden-mustafa-ugurlu-bir-parcam-yok-oldu-43332133",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Abisi Ahmet Uğurlu’yu kaybeden Mustafa Uğurlu: Bir parçam yok oldu",
-   "snippet": "İki yıl önce abisi Ahmet Uğurlu’yu kaybeden Mustafa Uğurlu, yaşadığı zorlu süreci anlattı: “Abimi kaybettikten sonra biraz inzivaya çekileyim dedim ama çok ağır geldi. Bir parçam yok olmuş gibi hissettim.”",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac5d7c6fc033b5a8af9ed01.jpg",
-   "video": null,
-   "published": "2026-10-07T05:26:40.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/abisi-ahmet-ugurluyu-kaybeden-mustafa-ugurlu-bir-parcam-yok-oldu-43332133",
-     "title": "Abisi Ahmet Uğurlu’yu kaybeden Mustafa Uğurlu: Bir parçam yok oldu",
-     "snippet": "İki yıl önce abisi Ahmet Uğurlu’yu kaybeden Mustafa Uğurlu, yaşadığı zorlu süreci anlattı: “Abimi kaybettikten sonra biraz inzivaya çekileyim dedim ama çok ağır geldi. Bir parçam yok olmuş gibi hissettim.”",
-     "published": "2026-10-07T05:26:40.000Z"
     }
    ]
   },
