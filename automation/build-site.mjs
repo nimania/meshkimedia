@@ -511,8 +511,8 @@ const dubbedStyles = '<style>.dubbed-intro{max-width:68ch;line-height:2;color:va
 const dubbedShell = (root,meta,html) => head(root,meta) + dubbedStyles + html + boot(root, {}, [], "20261009dub1");
 await mkdir(p("duble/"),{recursive:true});
 const publishedDubbed = dubbedSeries.map((s) => ({ ...s, entries: (s.entries || []).filter((e) => e.status === "published" && Array.isArray(e.paragraphs) && e.paragraphs.some((x) => typeof x === "string" && x.trim())) })).filter((s)=>s.entries.length);
-const dubbedTypeLabel = (e) => e.kind === "original" ? "پاورقی کامل قسمت اصلی ترکی" : "پاورقی نسخه دوبله فارسی";
-const dubbedEpisodeLabel = (e) => e.kind === "original" ? "قسمت " + e.originalEpisode + " اصلی ترکی" : "قسمت " + e.persianEpisode + " دوبله فارسی";
+const dubbedTypeLabel = (e) => e.kind === "original" ? "پاورقی کامل قسمت اصلی ترکی" : e.broadcastRefs?.some(r=>r.verified===true) ? "پاورقی نسخه دوبله فارسی" : "بخش‌بندی اختصاصی مشکی‌مدیا، پیش از اعلام مرز قسمت‌های دوبله";
+const dubbedEpisodeLabel = (e) => e.kind === "original" ? "قسمت " + e.originalEpisode + " اصلی ترکی" : e.broadcastRefs?.some(r=>r.verified===true) ? "قسمت " + e.persianEpisode + " دوبله فارسی" : "بخش " + (e.part || e.persianEpisode) + " پاورقی فارسی";
 const dubbedLanding = '<main class="app-shell"><section class="intro"><span class="kicker">مشکی‌مدیا · دوبله فارسی</span><h1>سریال‌های دوبله فارسی و پاورقی‌ها</h1>' + dubbedNav + '</section>' +
   (publishedDubbed.length ? '<div class="dubbed-list">' + publishedDubbed.map((s)=>dubbedCard(s.titleFa,dubbedBroadcastLabel(s) || s.titleTr || "سریال دوبله فارسی","./"+s.slug+"/")).join("") + '</div>' : '<p class="notice">آرشیو پاورقی‌های دوبله فارسی در حال آماده‌سازی است. مطالب پس از بازبینی و انتشار نمایش داده می‌شوند.</p>') + '</main>';
 await writeFile(p("duble/index.html"),dubbedShell("../",{title:"پاورقی سریال‌های دوبله فارسی | مشکی‌مدیا",desc:"آرشیو روایت فارسی قسمت‌های سریال‌های ترکی و نسخه‌های صوتی مشکی‌مدیا",path:"duble/"},dubbedLanding),"utf8");
