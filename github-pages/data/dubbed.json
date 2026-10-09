@@ -44,6 +44,50 @@
         "sceneReviewStatus": "pending",
         "dubbedMappingStatus": "unverified",
         "editorialStatus": "preproduction"
+      },
+      "productionPlan": {
+        "originalEpisode": 1,
+        "originalMaster": {
+          "slug": "original-1",
+          "kind": "original",
+          "status": "draft",
+          "title": "قهوهٔ شور — پاورقی کامل قسمت ۱ ترکی",
+          "originalEpisode": 1,
+          "paragraphs": []
+        },
+        "dubbedCandidates": [
+          {
+            "slug": "dubbed-1",
+            "kind": "dubbed",
+            "status": "draft",
+            "title": "قهوهٔ شور — پاورقی قسمت 1 دوبله فارسی",
+            "originalEpisode": 1,
+            "persianEpisode": 1,
+            "paragraphs": [],
+            "boundaryStatus": "provisional-not-broadcast-verified"
+          },
+          {
+            "slug": "dubbed-2",
+            "kind": "dubbed",
+            "status": "draft",
+            "title": "قهوهٔ شور — پاورقی قسمت 2 دوبله فارسی",
+            "originalEpisode": 1,
+            "persianEpisode": 2,
+            "paragraphs": [],
+            "boundaryStatus": "provisional-not-broadcast-verified"
+          },
+          {
+            "slug": "dubbed-3",
+            "kind": "dubbed",
+            "status": "draft",
+            "title": "قهوهٔ شور — پاورقی قسمت 3 دوبله فارسی",
+            "originalEpisode": 1,
+            "persianEpisode": 3,
+            "paragraphs": [],
+            "boundaryStatus": "provisional-not-broadcast-verified"
+          }
+        ],
+        "note": "Proposed 3-part editorial structure, not a claim about GEM or MBC broadcast cuts. Verify timing before publication."
       }
     }
   ]
