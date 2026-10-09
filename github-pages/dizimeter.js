@@ -75,7 +75,9 @@
   function allEpisodes(s) {
     const out = [];
     (s.seasons || []).forEach((season) => (season.episodes || []).forEach((ep) => out.push(Object.assign({ season: season.number }, ep))));
-    return out.sort((a, b) => (a.date || "").localeCompare(b.date || "") || a.number - b.number);
+    // Continuous broadcaster episode numbers are the canonical archive order.
+    // Metadata-only backfills can lack dates, so sorting by date would scramble seasons.
+    return out.sort((a, b) => Number(a.number) - Number(b.number));
   }
 
   // Calendar entries can precede editorial episode pages. They carry only
@@ -84,14 +86,18 @@
     const episodes = allEpisodes(s);
     for (const [date, entries] of Object.entries(calendar?.days || {})) {
       for (const entry of entries) {
-        if (entry.slug !== s.slug || !Number.isInteger(Number(entry.episode))) continue;
-        if (!episodes.some((ep) => ep.date === date || Number(ep.number) === Number(entry.episode))) {
-          episodes.push({ number: Number(entry.episode), season: entry.season,
-            date, scheduled: true, preview: true });
+        if (entry.slug !== s.slug || !Number.isInteger(Number(entry.episode)) || Number(entry.episode) < 1) continue;
+        const season = (s.seasons || []).find(x => Number(x.number) === Number(entry.season));
+        // Calendar numbering is *within a season*. Only translate when the
+        // season offset has been documented; never guess a broadcast number.
+        if (!season || !Number.isInteger(Number(season.firstEpisode))) continue;
+        const number = Number(season.firstEpisode) + Number(entry.episode) - 1;
+        if (!episodes.some(ep => Number(ep.number) === number || ep.date === date)) {
+          episodes.push({ number, season: Number(entry.season), date, scheduled: true, preview: true });
         }
       }
     }
-    return episodes.sort((a, b) => (a.date || "").localeCompare(b.date || "") || a.number - b.number);
+    return episodes.sort((a, b) => Number(a.number) - Number(b.number));
   }
 
   // ---- People & characters derived from series cast -------------------------
