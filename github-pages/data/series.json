@@ -597,6 +597,85 @@
     ],
     "seasons": [
       {
+        "number": 1,
+        "label": "فصل اول",
+        "firstEpisode": 1,
+        "episodes": [
+          {
+            "number": 1,
+            "archiveSource": "https://www.atv.com.tr/abi/1-bolum/izle",
+            "source": "https://www.atv.com.tr/abi/1-bolum/izle",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 11,
+            "archiveSource": "https://www.atv.com.tr/abi/bolumler",
+            "source": "https://www.atv.com.tr/abi/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 12,
+            "archiveSource": "https://www.atv.com.tr/abi/bolumler",
+            "source": "https://www.atv.com.tr/abi/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 13,
+            "archiveSource": "https://www.atv.com.tr/abi/bolumler",
+            "source": "https://www.atv.com.tr/abi/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 14,
+            "archiveSource": "https://www.atv.com.tr/abi/bolumler",
+            "source": "https://www.atv.com.tr/abi/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 15,
+            "archiveSource": "https://www.atv.com.tr/abi/bolumler",
+            "source": "https://www.atv.com.tr/abi/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 16,
+            "archiveSource": "https://www.atv.com.tr/abi/bolumler",
+            "source": "https://www.atv.com.tr/abi/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 17,
+            "archiveSource": "https://www.atv.com.tr/abi/bolumler",
+            "source": "https://www.atv.com.tr/abi/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 18,
+            "archiveSource": "https://www.atv.com.tr/abi/bolumler",
+            "source": "https://www.atv.com.tr/abi/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          }
+        ]
+      },
+      {
         "number": 2,
         "firstEpisode": 19,
         "label": "فصل دوم",
@@ -605,7 +684,7 @@
             "number": 19,
             "date": "2026-09-08",
             "title": "بازگشت پنهانی دوغان",
-            "summary": "هشت ماه پس از آنکه همه دوغان را مرده تصور کردند، او زنده بازمی‌گردد؛ اما برای روبه‌رو شدن با ساروهان، بازگشتش را پنهان می‌کند. خاندان هانجی‌اوغلو پراکنده شده و آنچه به خانواده تعلق داشت زیر کنترل ساروهان است. دیدار دوبارهٔ دوغان و لیلا رازها و احساسات قدیمی را زنده می‌کند. دوغان برای انتقام به نزدیکان ساروهان راه می‌یابد، در حالی که تصمیم تازهٔ ساروهان دربارهٔ لیلا تعادل میان هر سه نفر را برهم می‌زند.",
+            "summary": "دوغان که همه او را مرده می‌پنداشتند، هشت ماه پس از نجات پنهانی به دست غالب بازمی‌گردد و درمی‌یابد ساروهان خانواده هانجی‌اوغلو را متلاشی کرده است. او برای انتقام زنده بودنش را پنهان می‌کند. دیدارش با لیلا، رابطه قدیمی و رازهای ناگفته را زنده می‌کند؛ ساروهان نیز برای لیلا برنامه‌ای دارد.",
             "image": "https://iatv.tmgrup.com.tr/album/2026/09/07/19-bolum-foto-galeri-1788766810405.jpg",
             "images": [
               "https://iatv.tmgrup.com.tr/album/2026/09/07/19-bolum-foto-galeri-1788766810405.jpg",
@@ -616,13 +695,15 @@
             ],
             "photosSource": "https://www.atv.com.tr/abi/galeri/19-bolum-foto-galeri-1788768136",
             "source": "https://www.atv.com.tr/abi/19-bolum/izle",
-            "watchUrl": "https://www.atv.com.tr/abi/19-bolum/izle"
+            "watchUrl": "https://www.atv.com.tr/abi/19-bolum/izle",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 20,
             "date": "2026-09-15",
             "title": "پیشنهاد ساروهان",
-            "summary": "پیشنهاد ازدواج ساروهان، لیلا را میان پیشبرد مأموریتش و احساسش به دوغان قرار می‌دهد. دوغان به گفته‌های او مشکوک می‌شود و در بندر دست به اقدامی می‌زند که بحرانی تازه می‌آفریند. در همین زمان رد خواهرش ملک را، که با نام میرا زندگی تازه‌ای ساخته، پیدا می‌کند و می‌کوشد بی‌سروصدا از او محافظت کند. نقشهٔ ساروهان علیه سینان و پیام‌های مرموز بندر نشانهٔ درگیری بزرگ‌تری است.",
+            "summary": "پیشنهاد ازدواج ساروهان، لیلا را میان مأموریتش و احساسش به دوغان قرار می‌دهد. دوغان به حرف‌های او مشکوک می‌شود و در بندر اقدامی می‌کند که بحرانی تازه می‌آفریند. او خواهرش ملک را با نام تازه میرا پیدا می‌کند و برای محافظت از او پنهانی وارد عمل می‌شود؛ ساروهان نیز علیه سینان نقشه می‌کشد.",
             "image": "https://iatv.tmgrup.com.tr/album/2026/09/14/abi-20-bolum-foto-galeri-1789375791251.jpg",
             "images": [
               "https://iatv.tmgrup.com.tr/album/2026/09/14/abi-20-bolum-foto-galeri-1789375791251.jpg",
@@ -633,13 +714,15 @@
             ],
             "photosSource": "https://www.atv.com.tr/abi/galeri/abi-20-bolum-foto-galeri",
             "source": "https://www.atv.com.tr/abi/20-bolum/izle",
-            "watchUrl": "https://www.atv.com.tr/abi/20-bolum/izle"
+            "watchUrl": "https://www.atv.com.tr/abi/20-bolum/izle",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 21,
             "date": "2026-09-22",
             "title": "تله در بندر",
-            "summary": "ساروهان در پاسخ به تهدید ناشناسی که در بندر با آن روبه‌رو شده، محمولهٔ بعدی را به تله تبدیل می‌کند؛ دوغان نیز برای مقابله آماده است. او باور ندارد تصمیم لیلا برای ازدواج با ساروهان تمام حقیقت باشد و با هویت مورات به رؤیا نزدیک می‌شود تا سرنخ بیشتری پیدا کند. در شب نامزدی، دوغان و لیلا دوباره روبه‌روی هم قرار می‌گیرند، در حالی که لیلا می‌خواهد او را از محموله و خطر پیش رو دور نگه دارد.",
+            "summary": "اقدام دوغان در بندر ساروهان را خشمگین می‌کند. دوغان در پی کشف دلیل ازدواج لیلاست و از گفت‌وگو با رؤیا به تناقضی در گفته‌های او پی می‌برد. دوغان به نقشه محموله ساروهان ضربه می‌زند و به‌جای کالای مورد انتظار، عروسک‌های خرسی تحویل داده می‌شود. افراد قدرت برای ربودن رؤیا اقدام می‌کنند؛ لیلا کمک می‌کند رؤیا فرار کند ولی خودش گرفتار می‌شود.",
             "image": "https://iatv.tmgrup.com.tr/album/2026/09/21/21-bolum-foto-galeri-1789977139352.jpg",
             "images": [
               "https://iatv.tmgrup.com.tr/album/2026/09/21/21-bolum-foto-galeri-1789977139352.jpg",
@@ -649,19 +732,29 @@
               "https://iatv.tmgrup.com.tr/album/2026/09/21/21-bolum-foto-galeri-1789977142463.jpg"
             ],
             "photosSource": "https://www.atv.com.tr/abi/galeri/21-bolum-foto-galeri-1789985363",
-            "source": "https://www.atv.com.tr/abi/21-bolum/izle",
-            "watchUrl": "https://www.atv.com.tr/abi/21-bolum/izle",
-            "fragman": "https://www.atv.com.tr/abi/21-bolum-1-fragman/izle"
+            "source": "https://www.atv.com.tr/haberler/2026/09/23/leyla-kacirildi",
+            "watchUrl": "https://www.atv.com.tr/haberler/2026/09/23/leyla-kacirildi",
+            "fragman": "https://www.atv.com.tr/abi/21-bolum-1-fragman/izle",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 22,
             "date": "2026-09-29",
-            "calendar": true
+            "source": "https://www.atv.com.tr/abi/22-bolum/izle",
+            "watchUrl": "https://www.atv.com.tr/abi/22-bolum/izle",
+            "summary": "لیلا پیشنهاد ازدواج ساروهان را می‌پذیرد، اما دوغان اطمینان دارد دلیل پنهانی در کار است. ساروهان پس از شکست در بندر برای محموله‌ای دیگر آماده می‌شود. سینان با شناخت بیشتر از ماهیت ساروهان برای بازپس‌گیری اموال خانواده اقدام می‌کند. دوغان با هویت مورات به رؤیا نزدیک می‌شود و نقشه خطرناکی برای مختل‌کردن محموله بعدی می‌کشد.",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 23,
             "date": "2026-10-06",
-            "calendar": true
+            "source": "https://www.atv.com.tr/abi/23-bolum/izle",
+            "watchUrl": "https://www.atv.com.tr/abi/23-bolum/izle",
+            "summary": "آشکارشدن زنده بودن دوغان خانواده هانجی‌اوغلو را به هم می‌رساند. دوغان برای حفظ امنیت نزدیکان و پس گرفتن اموال در برابر ساروهان می‌ایستد. لیلا میان وظیفه و حمایت از دوغان گرفتار است؛ تلفنی که به دست ساروهان می‌افتد، معادلات را تغییر می‌دهد. ساروهان برای ضدحمله آماده می‌شود و دوغان برای نجات خانواده همه‌چیز را به خطر می‌اندازد.",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           }
         ]
       }
@@ -679,7 +772,13 @@
     "aliases": [
       "آ.ب.ای (A.B.İ.)",
       "آ.ب.ای"
-    ]
+    ],
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.atv.com.tr/abi/bolumler",
+      "verification": "official-episode-archive",
+      "note": "بخش زیادی از آرشیو فصل اول تنها در فهرست شبکه مشاهده می‌شود؛ فعلاً قسمت‌های ۱ و ۱۱ تا ۱۸ ثبت شدند و شماره‌های ۲ تا ۱۰ هنوز نیازمند کنترل مستقیم‌اند."
+    }
   },
   "gunesin-dogdugu-yer": {
     "slug": "gunesin-dogdugu-yer",
@@ -1844,7 +1943,7 @@
             "number": 65,
             "date": "2026-09-21",
             "title": "بازگشت دنیز به ماردین",
-            "summary": "جیهان، دنیز را به ماردین می‌آورد و آلیا برای رسیدن به پسرش در برابر او می‌ایستد. میان آن دو، رنج‌های گذشته و احساسات فروخورده دوباره زنده می‌شود. حرکت غیرمنتظرهٔ اجمل، آلیا را بر سر انتخابی خطرناک می‌گذارد؛ در همان حال خواست زرین برای دیدن دخترش، کشمکش آلبورا و بای‌بارس را شدیدتر می‌کند و راز قدیمی صداقت به آشکار شدن نزدیک می‌شود. ورود کارتال و آزادی قریب‌الوقوع آتش نیز نوید رویارویی تازه‌ای را می‌دهد.",
+            "summary": "جیهان، دنیز را به ماردین می‌آورد و آلیا برای بازپس گرفتن پسرش مقابل او قرار می‌گیرد. حرکت غیرمنتظره اجمل، آلیا را میان تصمیمی پرخطر و احساسات حل‌نشده قرار می‌دهد. تلاش زرین برای دیدن دخترش اختلاف آلبورا و بای‌بارس را بیشتر می‌کند. حضور کارتال، احتمال آزادی آتش و راز قدیمی صداقت نیز تهدیدهای تازه‌ای پدید می‌آورند.",
             "source": "https://www.kanald.com.tr/uzak-sehir/ozetler/uzak-sehir-65-bolum-ozeti",
             "images": [
               "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3a8e6adc7618129484.jpg",
@@ -1854,17 +1953,25 @@
             ],
             "image": "https://image.kanald.com.tr/i/kanald/100/0x0/6aacff3a8e6adc7618129484.jpg",
             "photosSource": "https://www.kanald.com.tr/uzak-sehir/foto-galeri/uzak-sehir-65-bolum-fotograflari",
-            "fragman": "https://www.kanald.com.tr/uzak-sehir/fragmanlar/uzak-sehir-65-bolum-fragmani-2"
+            "fragman": "https://www.kanald.com.tr/uzak-sehir/fragmanlar/uzak-sehir-65-bolum-fragmani-2",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 66,
             "date": "2026-09-28",
-            "calendar": true
+            "source": "https://www.kanald.com.tr/uzak-sehir/ozetler/uzak-sehir-66-bolum-ozeti",
+            "summary": "تصمیم آلیا شکافی عمیق در رابطه‌اش با جیهان ایجاد می‌کند. جیهان نمی‌خواهد از پسرش بگذرد و آلیا ناچار به اقدامات تازه‌ای می‌شود. کایا زرین را کنار مرد دیگری می‌بیند و دفتر اختلاف‌های گذشته دوباره باز می‌شود. همکاری غیرمنتظره آلیا و ناره و ورود فردی تازه، آینده خاندان آلبورا را با خطر روبه‌رو می‌کند.",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 67,
             "date": "2026-10-05",
-            "calendar": true
+            "source": "https://www.kanald.com.tr/uzak-sehir/ozetler/uzak-sehir-67-bolum-ozeti",
+            "summary": "آلیا برای خروج از میدیات همراه دنیز به فرودگاه می‌رود، اما اتهامی سنگین همه برنامه‌هایش را به هم می‌زند. جیهان می‌کوشد بی‌گناهی او را ثابت کند. دیدار غیرمنتظره کارتال گذشته عاطفی‌اش را زنده می‌کند و نامه‌ای از گذشته آلبورا به رازی پنهان اشاره دارد. حسن مانع آشکارشدن حقیقت می‌شود و صداقت در آستانه رویارویی تازه‌ای قرار می‌گیرد.",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           }
         ]
       }
@@ -2306,6 +2413,254 @@
             "photosSource": "https://www.kanald.com.tr/guller-ve-gunahlar/foto-galeri/guller-ve-gunahlar-1-bolum-fotograflari",
             "watchUrl": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler/guller-ve-gunahlar-ilk-bolum",
             "fragman": "https://www.kanald.com.tr/guller-ve-gunahlar/fragmanlar/guller-ve-gunahlar-fragmani-4"
+          },
+          {
+            "number": 2,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 3,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 4,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 5,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 6,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 7,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 8,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 9,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 10,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 11,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 12,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 13,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 14,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 15,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 16,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 17,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 18,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 19,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 20,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 21,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 22,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 23,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 24,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 25,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 26,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 27,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 28,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 29,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 30,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 31,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 32,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
           }
         ]
       },
@@ -2314,14 +2669,37 @@
         "firstEpisode": 33,
         "episodes": [
           {
+            "number": 33,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 34,
+            "archiveSource": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
             "number": 35,
             "date": "2026-09-26",
-            "calendar": true
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/ozetler/guller-ve-gunahlar-35-bolum-ozeti",
+            "summary": "بَرّاک درمی‌یابد سرهات پدر کادر است و این آگاهی موقعیت خانواده را تغییر می‌دهد. یوسف تجر می‌خواهد سرهات را مسئول کارهای تاریک خود کند. جیهان که نمی‌تواند رضایت پدرش را به دست آورد، خشونت روانی علیه آزرا را تشدید می‌کند. زینب، یوسف را عامل رنج‌های گذشته می‌داند و مقابلش می‌ایستد.",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 36,
             "date": "2026-10-03",
-            "calendar": true
+            "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler/guller-ve-gunahlar-son-bolum",
+            "watchUrl": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler/guller-ve-gunahlar-son-bolum",
+            "summary": "زینب در جریان تلاش برای حساب‌خواهی وارد خطر می‌شود و سرهات با به‌خطرانداختن جان خود نجاتش می‌دهد. آزرا برای جلوگیری از بزرگ‌شدن فرزندش کنار جیهان در آستانه تصمیم دشواری است. بَرّاک می‌خواهد نقش مادری کادر را به دست آورد. اتفاق میان موتلو و جیهان، سرهات و زینب را وارد مرحله‌ای تازه می‌کند و اقدام دو دختر سرهات آن‌ها را غافلگیر می‌سازد.",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           }
         ]
       }
@@ -2332,7 +2710,13 @@
       "https://image.kanald.com.tr/i/kanald/100/0x0/68e8aabd5230f6fc7d0a59e3.jpg",
       "https://image.kanald.com.tr/i/kanald/100/0x0/68e8aabd5230f6fc7d0a59e4.jpg"
     ],
-    "photosSource": "https://www.kanald.com.tr/guller-ve-gunahlar/foto-galeri/guller-ve-gunahlar-1-bolum-fotograflari"
+    "photosSource": "https://www.kanald.com.tr/guller-ve-gunahlar/foto-galeri/guller-ve-gunahlar-1-bolum-fotograflari",
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.kanald.com.tr/guller-ve-gunahlar/bolumler",
+      "verification": "official-episode-archive",
+      "note": "تمام شماره‌های ۱ تا ۳۶ از آرشیو رسمی در بانک ثبت شدند؛ بسیاری هنوز فقط رکورد فراداده‌ای دارند."
+    }
   },
   "kizilcik-serbeti": {
     "slug": "kizilcik-serbeti",
@@ -2448,6 +2832,1138 @@
     ],
     "seasons": [
       {
+        "number": 1,
+        "firstEpisode": 1,
+        "label": "فصل 1",
+        "episodes": [
+          {
+            "number": 1,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 2,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 3,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 4,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 5,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 6,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 7,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 8,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 9,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 10,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 11,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 12,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 13,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 14,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 15,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 16,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 17,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 18,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 19,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 20,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 21,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 22,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 23,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 24,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 25,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 26,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 27,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 28,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 29,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "firstEpisode": 30,
+        "label": "فصل 2",
+        "episodes": [
+          {
+            "number": 30,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 31,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 32,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 33,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 34,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 35,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 36,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 37,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 38,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 39,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 40,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 41,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 42,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 43,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 44,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 45,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 46,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 47,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 48,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 49,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 50,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 51,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 52,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 53,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 54,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 55,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 56,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 57,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 58,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 59,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 60,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 61,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 62,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 63,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 64,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 65,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 66,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "firstEpisode": 67,
+        "label": "فصل 3",
+        "episodes": [
+          {
+            "number": 67,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 68,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 69,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 70,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 71,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 72,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 73,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 74,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 75,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 76,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 77,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 78,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 79,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 80,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 81,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 82,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 83,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 84,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 85,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 86,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 87,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 88,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 89,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 90,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 91,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 92,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 93,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 94,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 95,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 96,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 97,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 98,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 99,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 100,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 101,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 102,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 103,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "firstEpisode": 104,
+        "label": "فصل 4",
+        "episodes": [
+          {
+            "number": 104,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 105,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 106,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 107,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 108,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 109,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 110,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 111,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 112,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 113,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 114,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 115,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 116,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 117,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 118,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 119,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 120,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 121,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 122,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 123,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 124,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 125,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 126,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 127,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 128,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 129,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 130,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 131,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 132,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 133,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 134,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 135,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 136,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 137,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          },
+          {
+            "number": 138,
+            "archiveSource": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "verification": "official-episode-index",
+            "metadataOnly": true,
+            "summary": ""
+          }
+        ]
+      },
+      {
         "number": 5,
         "firstEpisode": 139,
         "label": "فصل پنجم",
@@ -2455,18 +3971,32 @@
           {
             "number": 140,
             "date": "2026-09-25",
-            "calendar": true
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-140-izle/135038",
+            "watchUrl": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-140-izle/135038",
+            "summary": "باشاک در معاینه پزشکی خبر سنگینی می‌شنود و باید میان درمان خود و سلامت جنین تصمیم بگیرد؛ او حقیقت را از فاتح مخفی می‌کند. مشخص می‌شود یوسف اطلاعات شرکت را به آسیل و آسوده منتقل کرده و هلدینگ اونال در معرض بحران است. الیف با بوغرا در آستانه ازدواج قرار می‌گیرد و رابطه عمر با هلال موجب ناراحتی درونی قیویلجیم می‌شود.",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 141,
             "date": "2026-10-02",
-            "calendar": true
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "watchUrl": "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-5-bolum-141-izle/135166",
+            "summary": "نقشه آسوده و آسیل با کمک یوسف به نتیجه می‌رسد و عبدالله و فاتح اختیار شرکت را از دست می‌دهند. ازدواج الیف و بوغرا برگزار می‌شود. لیدر و قیویلجیم به یکدیگر نزدیک می‌شوند و عمر با دیدنشان دچار تنش می‌شود. باشاک بی‌اطلاع فاتح درمان بیماری جدی‌اش را آغاز می‌کند و پیامی روی تلفنش، فاتح را نگران می‌سازد.",
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           }
         ]
       }
     ],
     "heroSource": "https://www.showtv.com.tr/dizi/haber/3911853-kizilcik-serbeti-nin-merakla-beklenen-5-sezon-afisi-yayinlandi",
-    "synopsisSource": "https://www.showtv.com.tr/dizi/haber/3524713-show-tv-nin-yeni-dizisi-kizilcik-serbeti-nin-afisi-yayinlandi"
+    "synopsisSource": "https://www.showtv.com.tr/dizi/haber/3524713-show-tv-nin-yeni-dizisi-kizilcik-serbeti-nin-afisi-yayinlandi",
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.showtv.com.tr/dizi/tanitim/kizilcik-serbeti/2875",
+      "verification": "official-episode-archive",
+      "note": "آرشیو رسمی Show TV فصل‌های اول تا پنجم، قسمت‌های ۱ تا ۱۴۱ را تأیید می‌کند؛ قسمت‌های قدیمی تنها در حد شماره ثبت شده‌اند."
+    }
   },
   "tuzlu-kahve": {
     "slug": "tuzlu-kahve",
