@@ -60,34 +60,40 @@
             "slug": "dubbed-1",
             "kind": "dubbed",
             "status": "draft",
-            "title": "قهوهٔ شور — پاورقی قسمت 1 دوبله فارسی",
+            "title": "قهوهٔ شور — پاورقی فارسی، بخش 1",
             "originalEpisode": 1,
             "persianEpisode": 1,
             "paragraphs": [],
-            "boundaryStatus": "provisional-not-broadcast-verified"
+            "boundaryStatus": "editorial-cut-not-broadcaster",
+            "part": 1,
+            "broadcastRefs": []
           },
           {
             "slug": "dubbed-2",
             "kind": "dubbed",
             "status": "draft",
-            "title": "قهوهٔ شور — پاورقی قسمت 2 دوبله فارسی",
+            "title": "قهوهٔ شور — پاورقی فارسی، بخش 2",
             "originalEpisode": 1,
             "persianEpisode": 2,
             "paragraphs": [],
-            "boundaryStatus": "provisional-not-broadcast-verified"
+            "boundaryStatus": "editorial-cut-not-broadcaster",
+            "part": 2,
+            "broadcastRefs": []
           },
           {
             "slug": "dubbed-3",
             "kind": "dubbed",
             "status": "draft",
-            "title": "قهوهٔ شور — پاورقی قسمت 3 دوبله فارسی",
+            "title": "قهوهٔ شور — پاورقی فارسی، بخش 3",
             "originalEpisode": 1,
             "persianEpisode": 3,
             "paragraphs": [],
-            "boundaryStatus": "provisional-not-broadcast-verified"
+            "boundaryStatus": "editorial-cut-not-broadcaster",
+            "part": 3,
+            "broadcastRefs": []
           }
         ],
-        "note": "Proposed 3-part editorial structure, not a claim about GEM or MBC broadcast cuts. Verify timing before publication."
+        "note": "Independent editorial story-break cuts for pre-broadcast publication. Do not label as GEM/MBC episodes until broadcaster numbering and cuts are verified. The full original master remains the canonical story record."
       }
     }
   ]
