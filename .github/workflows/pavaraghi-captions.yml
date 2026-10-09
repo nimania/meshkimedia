@@ -1,5 +1,9 @@
 name: Meshki Pavaraghi - Caption Availability
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/pavaraghi-captions.yml'
   workflow_dispatch:
     inputs:
       youtube_url:
@@ -17,7 +21,7 @@ jobs:
         run: python -m pip install --upgrade yt-dlp
       - name: Probe episode metadata and subtitles (no video download)
         env:
-          YOUTUBE_URL: ${{ inputs.youtube_url }}
+          YOUTUBE_URL: ${{ inputs.youtube_url || 'https://www.youtube.com/watch?v=KEmczHqPIy0' }}
         shell: bash
         run: |
           set +e
@@ -40,6 +44,9 @@ jobs:
             printf '{"status":"unavailable","message":"Metadata fetch failed. Inspect episode-error.log."}\n' > caption-report.json
           fi
           cat caption-report.json >> "$GITHUB_STEP_SUMMARY"
+          if [ "$result" -eq 0 ]; then
+            yt-dlp --skip-download --write-subs --write-auto-subs --sub-langs "tr,tr-.*" --sub-format vtt -o "caption-%(id)s.%(ext)s" "$YOUTUBE_URL" >> episode-error.log 2>&1 || true
+          fi
       - name: Upload private workflow artifact for editorial review
         uses: actions/upload-artifact@v4
         with:
@@ -47,4 +54,5 @@ jobs:
           path: |
             caption-report.json
             episode-error.log
+            caption-*.vtt
           retention-days: 7
