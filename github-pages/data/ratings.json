@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T09:02:26.668Z",
+  "updatedAt": "2026-10-09T14:11:59.997Z",
   "metric": "Rating %",
   "windowDays": 120,
   "source": {
@@ -27,6 +27,233 @@
     }
   },
   "days": [
+    {
+      "date": "08.10.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "HALEF KOKLERIN CAGRISI",
+            "network": "NOW",
+            "rating": 4.54,
+            "share": 14.01
+          },
+          {
+            "rank": 2,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 4.41,
+            "share": 14.36
+          },
+          {
+            "rank": 3,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 4.27,
+            "share": 13.62
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.2,
+            "share": 33.76
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.65,
+            "share": 20.1
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.59,
+            "share": 12.99
+          },
+          {
+            "rank": 7,
+            "program": "HALEF KOKLERIN CAGRISI (OZET)",
+            "network": "NOW",
+            "rating": 3.21,
+            "share": 10.02
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.94,
+            "share": 10.76
+          },
+          {
+            "rank": 9,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.85,
+            "share": 10.42
+          },
+          {
+            "rank": 10,
+            "program": "GUNESIN DOGDUGU YER (OZET)",
+            "network": "ATV",
+            "rating": 2.84,
+            "share": 9.03
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 3.49,
+            "share": 12.43
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.16,
+            "share": 29.95
+          },
+          {
+            "rank": 3,
+            "program": "HALEF KOKLERIN CAGRISI",
+            "network": "NOW",
+            "rating": 3.15,
+            "share": 10.77
+          },
+          {
+            "rank": 4,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.82,
+            "share": 11.72
+          },
+          {
+            "rank": 5,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.78,
+            "share": 10.84
+          },
+          {
+            "rank": 6,
+            "program": "HALEF KOKLERIN CAGRISI (OZET)",
+            "network": "NOW",
+            "rating": 2.68,
+            "share": 9.21
+          },
+          {
+            "rank": 7,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 2.62,
+            "share": 9.53
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.48,
+            "share": 16.28
+          },
+          {
+            "rank": 9,
+            "program": "GUNESIN DOGDUGU YER (OZET)",
+            "network": "ATV",
+            "rating": 2.26,
+            "share": 7.91
+          },
+          {
+            "rank": 10,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.19,
+            "share": 9.25
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 4.43,
+            "share": 13.68
+          },
+          {
+            "rank": 2,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.34,
+            "share": 33.43
+          },
+          {
+            "rank": 3,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.64,
+            "share": 13.76
+          },
+          {
+            "rank": 4,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 3.57,
+            "share": 11.22
+          },
+          {
+            "rank": 5,
+            "program": "HALEF KOKLERIN CAGRISI",
+            "network": "NOW",
+            "rating": 3.49,
+            "share": 10.46
+          },
+          {
+            "rank": 6,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 3.13,
+            "share": 10.4
+          },
+          {
+            "rank": 7,
+            "program": "MUHTEMEL ASK",
+            "network": "SHOW TV",
+            "rating": 2.97,
+            "share": 9.23
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.88,
+            "share": 17.22
+          },
+          {
+            "rank": 9,
+            "program": "HALEF KOKLERIN CAGRISI (OZET)",
+            "network": "NOW",
+            "rating": 2.79,
+            "share": 8.72
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.52,
+            "share": 9.64
+          }
+        ]
+      }
+    },
     {
       "date": "07.10.2026",
       "weekday": "",
