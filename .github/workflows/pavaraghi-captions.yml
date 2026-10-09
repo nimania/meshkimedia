@@ -1,0 +1,50 @@
+name: Meshki Pavaraghi - Caption Availability
+on:
+  workflow_dispatch:
+    inputs:
+      youtube_url:
+        description: "Official episode URL"
+        required: true
+        default: "https://www.youtube.com/watch?v=KEmczHqPIy0"
+permissions:
+  contents: read
+jobs:
+  caption-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Install yt-dlp
+        run: python -m pip install --upgrade yt-dlp
+      - name: Probe episode metadata and subtitles (no video download)
+        env:
+          YOUTUBE_URL: ${{ inputs.youtube_url }}
+        shell: bash
+        run: |
+          set +e
+          yt-dlp --skip-download --dump-single-json "$YOUTUBE_URL" > episode-metadata.json 2> episode-error.log
+          result=$?
+          if [ "$result" -eq 0 ]; then
+            python - <<'PY'
+          import json
+          obj=json.load(open("episode-metadata.json"))
+          out={
+            "id": obj.get("id"),
+            "title": obj.get("title"),
+            "duration": obj.get("duration"),
+            "subtitles": {lang: [x.get("ext") for x in variants] for lang,variants in (obj.get("subtitles") or {}).items()},
+            "automatic_captions": {lang: [x.get("ext") for x in variants] for lang,variants in (obj.get("automatic_captions") or {}).items()}
+          }
+          open("caption-report.json","w").write(json.dumps(out,ensure_ascii=False,indent=2))
+          PY
+          else
+            printf '{"status":"unavailable","message":"Metadata fetch failed. Inspect episode-error.log."}\n' > caption-report.json
+          fi
+          cat caption-report.json >> "$GITHUB_STEP_SUMMARY"
+      - name: Upload private workflow artifact for editorial review
+        uses: actions/upload-artifact@v4
+        with:
+          name: caption-availability
+          path: |
+            caption-report.json
+            episode-error.log
+          retention-days: 7
