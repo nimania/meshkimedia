@@ -1,0 +1,27 @@
+name: Pavaraghi daily research review
+on:
+  schedule:
+    - cron: "37 5 * * *"
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pavaraghi-research
+  cancel-in-progress: false
+jobs:
+  collect-review-leads:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Monitor official episode summaries
+        run: node automation/pavaraghi-source-watch.mjs
+      - name: Archive report for editorial review
+        uses: actions/upload-artifact@v4
+        with:
+          name: pavaraghi-research-report
+          path: automation/reports/pavaraghi-leads.*
+          retention-days: 30
