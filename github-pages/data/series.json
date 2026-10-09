@@ -1,7 +1,7 @@
 {
   "sevdan-bir-ates": {
     "slug": "sevdan-bir-ates",
-    "titleFa": "سِودان بیر آتش",
+    "titleFa": "عشقت یک آتش است",
     "titleTr": "Sevdan Bir Ateş",
     "ratingKey": "SEVDAN BIR ATES",
     "network": "show-tv",
@@ -215,7 +215,11 @@
       "https://im.haberturk.com/galeri/2026/09/21/ver1790238958/507717/7b81e3e653366a2ed100d168605e8c57_840.jpg"
     ],
     "photosSource": "https://www.showtv.com.tr/show-tv-dizi/galeri/507717-sevdan-bir-ates-3-bolum-fotograflari",
-    "synopsisSource": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087"
+    "synopsisSource": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087",
+    "aliases": [
+      "سِودان بیر آتش",
+      "سودان بیر آتش"
+    ]
   },
   "ask-ve-taht": {
     "slug": "ask-ve-taht",
@@ -427,7 +431,7 @@
   },
   "abi": {
     "slug": "abi",
-    "titleFa": "آ.ب.ای (A.B.İ.)",
+    "titleFa": "خانواده یک آزمون است",
     "titleTr": "A.B.İ.",
     "ratingKey": "A.B.I.",
     "network": "atv",
@@ -631,7 +635,11 @@
       "https://iatv.tmgrup.com.tr/album/2026/09/21/21-bolum-foto-galeri-1789977145760.jpg"
     ],
     "photosSource": "https://www.atv.com.tr/abi/galeriler",
-    "synopsisSource": "https://www.atv.com.tr/abi/19-bolum/izle"
+    "synopsisSource": "https://www.atv.com.tr/abi/19-bolum/izle",
+    "aliases": [
+      "آ.ب.ای (A.B.İ.)",
+      "آ.ب.ای"
+    ]
   },
   "gunesin-dogdugu-yer": {
     "slug": "gunesin-dogdugu-yer",
@@ -780,7 +788,7 @@
   },
   "mercan-kosk": {
     "slug": "mercan-kosk",
-    "titleFa": "کوشک مرجان",
+    "titleFa": "عمارت مرجان",
     "titleTr": "Mercan Köşk",
     "ratingKey": "MERCAN KOSK",
     "network": "atv",
@@ -840,7 +848,7 @@
         "roleFa": "اسود هوزان",
         "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321185216.jpg",
         "personSlug": "mehmet-ozgur",
-        "description": "رئیس خاندان هوزان؛ مردی سخت‌گیر و ترسناک که زخم‌های گذشته و حس انتقام را با خود دارد و از خطرناک‌ترین چهره‌هایی است که تعادل کوشک مرجان را به هم می‌زند.",
+        "description": "رئیس خاندان هوزان؛ مردی سخت‌گیر و ترسناک که زخم‌های گذشته و حس انتقام را با خود دارد و از خطرناک‌ترین چهره‌هایی است که تعادل عمارت مرجان را به هم می‌زند.",
         "source": "https://www.atv.com.tr/mercan-kosk/kadro/esved-hozan"
       },
       {
@@ -860,7 +868,7 @@
         "roleFa": "حفصه مرجان‌داغ",
         "image": "https://iatv.tmgrup.com.tr/2026/08/21/204x204/1787321528449.jpg",
         "personSlug": "ulviye-karaca",
-        "description": "مادر آراس که سال‌ها بی‌صدا تاوان تصمیم‌های گذشته‌اش را داده؛ زنی فداکار که وجدان کوشک مرجان به شمار می‌آید.",
+        "description": "مادر آراس که سال‌ها بی‌صدا تاوان تصمیم‌های گذشته‌اش را داده؛ زنی فداکار که وجدان عمارت مرجان به شمار می‌آید.",
         "source": "https://www.atv.com.tr/mercan-kosk/kadro/hafsa-mercandag"
       },
       {
@@ -1065,7 +1073,10 @@
       "https://iatv.tmgrup.com.tr/album/2026/09/17/1789636935826.jpg"
     ],
     "photosSource": "https://www.atv.com.tr/mercan-kosk/galeriler",
-    "synopsisSource": "https://www.atv.com.tr/mercan-kosk/1-bolum/izle"
+    "synopsisSource": "https://www.atv.com.tr/mercan-kosk/1-bolum/izle",
+    "aliases": [
+      "کوشک مرجان"
+    ]
   },
   "uzak-sehir": {
     "slug": "uzak-sehir",
@@ -2634,7 +2645,7 @@
   },
   "omur-usta": {
     "slug": "omur-usta",
-    "titleFa": "اوستا عمور",
+    "titleFa": "اومور اوستا",
     "titleTr": "Ömür Usta",
     "ratingKey": "OMUR USTA",
     "network": "now",
@@ -2817,7 +2828,10 @@
       }
     ],
     "heroSource": "https://etbilarabi.com/ميكس/مخرجة-العشق-الممنوع-تعيد-بولنت-إينال-ونورغول-يشيلتشاي-إلى-الواجهة-في-المعلمة-أومور",
-    "synopsisSource": "https://www.nowtv.com.tr/Omur-Usta/bilgi"
+    "synopsisSource": "https://www.nowtv.com.tr/Omur-Usta/bilgi",
+    "aliases": [
+      "اوستا عمور"
+    ]
   },
   "masterchef-turkiye": {
     "slug": "masterchef-turkiye",
@@ -3088,7 +3102,7 @@
   },
   "daha-17": {
     "slug": "daha-17",
-    "titleFa": "Daha 17",
+    "titleFa": "هنوز ۱۷ سالشه",
     "titleTr": "Daha 17",
     "ratingKey": "DAHA 17",
     "network": "kanal-d",
@@ -3293,6 +3307,9 @@
           }
         ]
       }
+    ],
+    "aliases": [
+      "Daha 17"
     ]
   },
   "teskilat": {
@@ -3509,7 +3526,7 @@
   },
   "alti-ustu-istanbul": {
     "slug": "alti-ustu-istanbul",
-    "titleFa": "آلتی اوستو استانبول",
+    "titleFa": "بالا و پایین استانبول",
     "titleTr": "Altı Üstü İstanbul",
     "ratingKey": "ALTI USTU ISTANBUL",
     "network": "atv",
@@ -3711,6 +3728,9 @@
           }
         ]
       }
+    ],
+    "aliases": [
+      "آلتی اوستو استانبول"
     ]
   },
   "muhtemel-ask": {
