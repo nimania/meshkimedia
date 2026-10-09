@@ -167,11 +167,14 @@
               "https://im.haberturk.com/galeri/2026/09/14/ver1789388950/507685/c7b96b9807d805894297fc62454a0275_840.jpg",
               "https://im.haberturk.com/galeri/2026/09/14/ver1789388950/507685/352a392bd3310ed1547f348b5cd7871b_840.jpg"
             ],
-            "summary": "میرزا نمی‌تواند لیلا و هوما را در ایستگاه رها کند و آن‌ها را با خود می‌برد. حضور دوبارهٔ لیلا، عشق و خشم هفت‌سالهٔ میرزا را هم‌زمان زنده می‌کند، در حالی که او هنوز هوما را دختر نسیم می‌داند. لیلا برای عبور از مرز عجله دارد و پلیس نیز به‌دلیل اتفاقات حلب در تعقیب اوست؛ اما قول می‌دهد پس از بازگشت به ترکیه حقیقت را برای میرزا تعریف کند.",
+            "summary": "میرزا نمی‌تواند لیلا و هما را در ایستگاه رها کند و آن‌ها را همراه خود می‌برد، اما همچنان تصور می‌کند هما دختر نسیم است. لیلا می‌خواهد از مرز بگذرد و قول می‌دهد حقیقت را پس از بازگشت به ترکیه بگوید. مراسم ازدواج میرزا در کاپادوکیه در پیش است و او ناچار به تصمیمی سرنوشت‌ساز می‌شود.",
             "source": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-2-izle/134865",
             "photosSource": "https://www.showtv.com.tr/show-tv-dizi/galeri/507685-sevdan-bir-ates-2-bolum-fotograflari",
             "watchUrl": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-2-izle/134865",
-            "fragman": "https://www.showtv.com.tr/dizi/fragman/sevdan-bir-ates-2-bolum-fragmani/134753"
+            "fragman": "https://www.showtv.com.tr/dizi/fragman/sevdan-bir-ates-2-bolum-fragmani/134753",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 3,
@@ -195,12 +198,22 @@
           {
             "number": 4,
             "date": "2026-09-30",
-            "calendar": true
+            "summary": "پس از شبی پرخطر در قزل‌وادی، میرزا برای یافتن لیلا و هما تلاش می‌کند؛ آب در چاهی که هما گرفتار آن شده بالا می‌آید. میرزا پس از نجاتشان آن دو را به عمارت می‌برد؛ تهدیدهای وصلات، هراس هما، تردید میرزا نسبت به گذشته و بحران‌های دیگر خانواده ادامه دارد.",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-4-izle/135117",
+            "watchUrl": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-4-izle/135117",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 5,
             "date": "2026-10-07",
-            "calendar": true
+            "summary": "میرزا به پدر بودن خود نسبت به هما شک می‌کند و درخواست آزمایش دی‌ان‌ای می‌دهد. ثبت رسمی کودک با نام خانوادگی کوزاکلی، لیلا را با مانع قانونی روبه‌رو می‌کند و وصلات او را بازداشت و سپس در صدد فرستادن هما به حلب است. لیلا شبانه برای بردن دخترش وارد عمارت می‌شود.",
+            "source": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-5-izle/135252",
+            "watchUrl": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-5-izle/135252",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           }
         ]
       }
@@ -219,7 +232,14 @@
     "aliases": [
       "سِودان بیر آتش",
       "سودان بیر آتش"
-    ]
+    ],
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087",
+      "lastVerifiedEpisode": 5,
+      "verification": "official episode pages and archived network synopsis",
+      "note": "فهرست قسمت‌های جدید با صفحات رسمی تطبیق داده شد؛ خلاصه‌های موجود شرح رسمی‌اند، نه پاورقی کامل صحنه‌به‌صحنه."
+    }
   },
   "ask-ve-taht": {
     "slug": "ask-ve-taht",
@@ -376,7 +396,7 @@
             "number": 2,
             "date": "2026-09-16",
             "title": "رازهای کاخ قونیه",
-            "summary": "علاءالدین بار دیگر با دِستینا روبه‌رو می‌شود، بی‌آنکه از هویت واقعی او آگاه باشد. ورود دِستینا به کاخ و جایگاه تازهٔ آنا، تنش میان آنان و ملیکه را بالا می‌برد. هم‌زمان علاءالدین در پی عاملان کمینی است که برایش ترتیب داده‌اند و این جست‌وجو حلقه را بر برادرش جلال‌الدین تنگ‌تر می‌کند. پدر دِستینا نیز برای یافتن پاسخ به قونیه می‌آید و رویارویی او با سلطان می‌تواند سرنوشت کالونوروس را تغییر دهد.",
+            "summary": "دستینا هویت واقعی‌اش را از علاءالدین پنهان می‌کند و ورودش به قصر تنش او با ملیکه را آشکار می‌سازد. علاءالدین در پی یافتن عوامل کمین می‌رود و حلقه بر جلال‌الدین تنگ‌تر می‌شود؛ هم‌زمان کر وارد برای پیگیری سرنوشت فرزندانش به قونیه می‌آید.",
             "source": "https://www.atv.com.tr/ask-ve-taht/2-bolum/izle",
             "photosSource": "https://www.atv.com.tr/ask-ve-taht/galeri/2-bolum-foto-galeri-1789465656",
             "images": [
@@ -387,7 +407,10 @@
               "https://iatv.tmgrup.com.tr/album/2026/09/15/2-bolum-foto-galeri-1789456278866.jpg"
             ],
             "image": "https://iatv.tmgrup.com.tr/album/2026/09/15/2-bolum-foto-galeri-1789456276867.jpg",
-            "watchUrl": "https://www.atv.com.tr/ask-ve-taht/2-bolum/izle"
+            "watchUrl": "https://www.atv.com.tr/ask-ve-taht/2-bolum/izle",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 3,
@@ -409,12 +432,22 @@
           {
             "number": 4,
             "date": "2026-09-30",
-            "calendar": true
+            "summary": "دستینا ملیکه را به خیانت متهم می‌کند و نام جلال‌الدین را به میان می‌آورد. زندانی شدن جلال‌الدین توازن قصر را بر هم می‌زند. دستینا برای محافظت از خود اقدام خطرناکی می‌کند و علاءالدین برای آشکار کردن هویت واقعی او دست به سفر می‌زند.",
+            "source": "https://www.atv.com.tr/ask-ve-taht/4-bolum/izle",
+            "watchUrl": "https://www.atv.com.tr/ask-ve-taht/4-bolum/izle",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 5,
             "date": "2026-10-07",
-            "calendar": true
+            "summary": "علاءالدین از محاصره آندریاس جان به در می‌برد و برای نجات دستینای ربوده‌شده می‌رود. در قونیه تنش جلال‌الدین و ام‌هان به مرز درگیری می‌رسد. علاءالدین دستینا را نجات می‌دهد و او در محل آشنایی قدیمشان تأیید می‌کند همان دختری است که زمانی جان او را نجات داده بود؛ ملیکه نیز به نزدیکی‌شان پی می‌برد.",
+            "source": "https://www.atv.com.tr/ask-ve-taht/5-bolum/izle",
+            "watchUrl": "https://www.atv.com.tr/ask-ve-taht/5-bolum/izle",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           }
         ]
       }
@@ -427,7 +460,14 @@
       "https://iatv.tmgrup.com.tr/album/2026/08/20/zindandan-tahta-dusmanliktan-aska-ask-ve-tahttan-ilk-tanitim-1787213601729.jpg"
     ],
     "photosSource": "https://www.atv.com.tr/ask-ve-taht/galeri/zindandan-tahta-dusmanliktan-aska-ask-ve-tahttan-ilk-tanitim",
-    "synopsisSource": "https://www.atv.com.tr/ask-ve-taht/1-bolum/izle"
+    "synopsisSource": "https://www.atv.com.tr/ask-ve-taht/1-bolum/izle",
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.atv.com.tr/ask-ve-taht/bolumler",
+      "lastVerifiedEpisode": 5,
+      "verification": "official episode pages and archived network synopsis",
+      "note": "فهرست قسمت‌های جدید با صفحات رسمی تطبیق داده شد؛ خلاصه‌های موجود شرح رسمی‌اند، نه پاورقی کامل صحنه‌به‌صحنه."
+    }
   },
   "abi": {
     "slug": "abi",
@@ -755,7 +795,7 @@
             "number": 2,
             "date": "2026-09-24",
             "title": "بازگشت لیلا به آدانا",
-            "summary": "کنان همراه پسرش به آدانا برمی‌گردد و خانواده برای ازدواج او با هانزاده آماده می‌شود. در همین هنگام لیلا، که سال‌ها از فرزندش دور بوده، برای دیدن او به شهر بازمی‌گردد. حضورش نقشه‌های جلالت برای حفظ خانواده و اعتبارش را به خطر می‌اندازد و کنان را دوباره در برابر رازهای گذشته قرار می‌دهد. تلاش لیلا برای رسیدن به پسرش، آیندهٔ چند خانواده را تحت تأثیر قرار می‌دهد.",
+            "summary": "کنعان با پسرش به آدانا بازمی‌گردد و خانواده‌ها برای ازدواج او و هانزاده آماده می‌شوند. اما لیلا برای دیدن دوباره پسرش نیز به آدانا آمده و در برابر خاندان کوزان و گذشته حل‌نشده قرار می‌گیرد. جلالت در پی تحکیم پیوند دو خانواده است.",
             "image": "https://iatv.tmgrup.com.tr/album/2026/09/23/2-bolum-foto-galeri-1790150481599.jpg",
             "images": [
               "https://iatv.tmgrup.com.tr/album/2026/09/23/2-bolum-foto-galeri-1790150481599.jpg",
@@ -767,12 +807,30 @@
             "photosSource": "https://www.atv.com.tr/gunesin-dogdugu-yer/galeri/2-bolum-foto-galeri-1790158128",
             "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/2-bolum/izle",
             "watchUrl": "https://www.atv.com.tr/gunesin-dogdugu-yer/2-bolum/izle",
-            "fragman": "https://www.atv.com.tr/gunesin-dogdugu-yer/2-bolum-1-fragman/izle"
+            "fragman": "https://www.atv.com.tr/gunesin-dogdugu-yer/2-bolum-1-fragman/izle",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 3,
             "date": "2026-10-01",
-            "calendar": true
+            "summary": "دیدار کوتاه لیلا با پسرش پایان می‌یابد و او در آدانا با مشکلات تازه‌ای روبه‌رو می‌شود. شایعات، تنش میان دو خاندان را تشدید می‌کند؛ هانزاده برای حفظ ازدواجش تلاش می‌کند و جیهون برای فهمیدن واقعیت دست به اقدامی خطرناک می‌زند.",
+            "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/3-bolum/izle",
+            "watchUrl": "https://www.atv.com.tr/gunesin-dogdugu-yer/3-bolum/izle",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
+          },
+          {
+            "number": 4,
+            "date": "2026-10-08",
+            "summary": "حرکت خطرناک جیهون، اعتماد کنعان به نزدیک‌ترین دوستش را متزلزل می‌کند. لیلا برای اثبات بی‌گناهی‌اش می‌کوشد و هانزاده میان برادر و همسرش گرفتار می‌شود. خشم جلالت پیامدهایی برای مونیسه دارد و ورود چهره‌ای از گذشته، نقشه‌های خاندان کوزان را تهدید می‌کند.",
+            "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/4-bolum/izle",
+            "watchUrl": "https://www.atv.com.tr/gunesin-dogdugu-yer/4-bolum/izle",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           }
         ]
       }
@@ -784,7 +842,14 @@
       "https://iatv.tmgrup.com.tr/album/2026/09/23/2-bolum-foto-galeri-1790150482122.jpg"
     ],
     "photosSource": "https://www.atv.com.tr/gunesin-dogdugu-yer/galeriler",
-    "synopsisSource": "https://www.atv.com.tr/gunesin-dogdugu-yer/1-bolum/izle"
+    "synopsisSource": "https://www.atv.com.tr/gunesin-dogdugu-yer/1-bolum/izle",
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.atv.com.tr/gunesin-dogdugu-yer/bolumler",
+      "lastVerifiedEpisode": 4,
+      "verification": "official episode pages and archived network synopsis",
+      "note": "فهرست قسمت‌های جدید با صفحات رسمی تطبیق داده شد؛ خلاصه‌های موجود شرح رسمی‌اند، نه پاورقی کامل صحنه‌به‌صحنه."
+    }
   },
   "mercan-kosk": {
     "slug": "mercan-kosk",
@@ -1010,7 +1075,7 @@
             "number": 2,
             "date": "2026-09-12",
             "title": "آتش در باغ",
-            "summary": "پیش از آنکه خانواده‌ها با گفته‌های جمره روبه‌رو شوند، آتش‌سوزی باغ او و آراس را گرفتار می‌کند. رازهایی که آراس پنهان کرده جمره را به حقیقت نزدیک‌تر می‌سازد و گذشتهٔ توپراک نیز کم‌کم آشکار می‌شود. بازگشت آراس به طرسوس، سلچوک را در بندر به اقدامی خطرناک می‌کشاند. در همین زمان اسود به اطلاعاتی دربارهٔ جمره می‌رسد و او را به هدفی تازه تبدیل می‌کند.",
+            "summary": "آتش‌سوزی باغ جمره و آراس را در خطر قرار می‌دهد. پنهان‌کاری آراس جمره را به حقیقت اصیل نزدیک‌تر می‌کند و رازهای گذشته توپراک آشکارتر می‌شود. سلچوک در بندر اقدام پرخطری می‌کند و اسود از حقیقتی درباره جمره باخبر می‌شود؛ در پایان جمره هدف آدم‌ربایی مردان اسود قرار می‌گیرد.",
             "image": "https://iatv.tmgrup.com.tr/album/2026/09/11/2-bolum-foto-galeri-1789117706957.jpg",
             "images": [
               "https://iatv.tmgrup.com.tr/album/2026/09/11/2-bolum-foto-galeri-1789117706957.jpg",
@@ -1021,7 +1086,10 @@
             ],
             "photosSource": "https://www.atv.com.tr/mercan-kosk/galeri/2-bolum-foto-galeri-1789125231",
             "source": "https://www.atv.com.tr/mercan-kosk/2-bolum/izle",
-            "watchUrl": "https://www.atv.com.tr/mercan-kosk/2-bolum/izle"
+            "watchUrl": "https://www.atv.com.tr/mercan-kosk/2-bolum/izle",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 3,
@@ -1043,7 +1111,7 @@
             "number": 4,
             "date": "2026-09-26",
             "title": "رد توپراک در قبرس",
-            "summary": "جمره پس از آگاهی از آنچه برای توپراک رخ داده، همراه آراس به قبرس می‌رود. دیدن آن‌ها در کنار هم، حسادت توپراک را شدت می‌دهد و یک حافظهٔ USB که جمره در اتاق او پیدا می‌کند به دست فردی غیرمنتظره می‌افتد. در عمارت، اختلاف اسلم و هولیا بالا می‌گیرد؛ اسود هم برای محموله‌های پنهانی‌اش راه تازه‌ای می‌جوید. اقدام بعدی آراس می‌تواند اسود را به رویارویی مستقیمی بکشاند.",
+            "summary": "جمره برای یافتن توپراک همراه آراس به قبرس می‌رود. دیدن آن دو در کنار هم، حسادت توپراک را برمی‌انگیزد. حافظه USB کشف‌شده در اتاق توپراک به دست شخصی غیرمنتظره می‌افتد؛ تنش اسلم و هولیا افزایش می‌یابد و اقدام آراس در مسیر محموله‌های پنهانی، اسود را با بحران روبه‌رو می‌کند.",
             "image": "https://iatv.tmgrup.com.tr/album/2026/09/25/4-bolum-foto-galeri-1790329525428.jpg",
             "images": [
               "https://iatv.tmgrup.com.tr/album/2026/09/25/4-bolum-foto-galeri-1790329525428.jpg",
@@ -1054,12 +1122,20 @@
             ],
             "photosSource": "https://www.atv.com.tr/mercan-kosk/galeri/4-bolum-foto-galeri-1790338368",
             "source": "https://www.atv.com.tr/mercan-kosk/4-bolum/izle",
-            "watchUrl": "https://www.atv.com.tr/mercan-kosk/4-bolum/izle"
+            "watchUrl": "https://www.atv.com.tr/mercan-kosk/4-bolum/izle",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 5,
             "date": "2026-10-03",
-            "calendar": true
+            "summary": "حرکت‌های آراس در بندر اسود را تحت فشار می‌گذارد و جمره درباره پیام مرموزی که دریافت کرده از آراس توضیح می‌خواهد. پیراهنی با رد رژ لب، اختلاف دیگری ایجاد می‌کند؛ آغاز کار مرت در عمارت هوزان و بازگشت توپراک به تارسوس، مناسبات دو خاندان را پیچیده‌تر می‌کند.",
+            "source": "https://www.atv.com.tr/mercan-kosk/5-bolum/izle",
+            "watchUrl": "https://www.atv.com.tr/mercan-kosk/5-bolum/izle",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           }
         ]
       }
@@ -1076,7 +1152,14 @@
     "synopsisSource": "https://www.atv.com.tr/mercan-kosk/1-bolum/izle",
     "aliases": [
       "کوشک مرجان"
-    ]
+    ],
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.atv.com.tr/mercan-kosk/bolumler",
+      "lastVerifiedEpisode": 5,
+      "verification": "official episode pages and archived network synopsis",
+      "note": "فهرست قسمت‌های جدید با صفحات رسمی تطبیق داده شد؛ خلاصه‌های موجود شرح رسمی‌اند، نه پاورقی کامل صحنه‌به‌صحنه."
+    }
   },
   "uzak-sehir": {
     "slug": "uzak-sehir",
@@ -1990,11 +2073,14 @@
               "https://image.kanald.com.tr/i/kanald/100/0x0/6aa8dc9c8e6adc7618128e67.jpg",
               "https://image.kanald.com.tr/i/kanald/100/0x0/6aa8dc9b8e6adc7618128e5c.jpg"
             ],
-            "summary": "محمد و سیمای برخلاف خواست خانواده‌هایشان پنهانی ازدواج می‌کنند. بازگشت آنان، اختلاف‌های قدیمی را تازه می‌کند و درگیری طارق با برادران کارلی‌اوا تنش را بالا می‌برد. هالوک ازدواج دخترش را رویارویی با آبروی خانواده می‌بیند و محمد در تنگنای تازه‌ای تصمیمی غافلگیرکننده می‌گیرد.",
+            "summary": "محمد و سیمای دور از رضایت خانواده‌ها پنهانی ازدواج می‌کنند. بازگشت آنان، نزاع دو خاندان را شدیدتر می‌کند؛ هالوک تصمیم دخترش را ضربه‌ای به حیثیت خود می‌داند و در پی پاسخ سختی است. مشاجرات طارق با برادران کارلی‌اووا نیز اختلاف‌ها را گسترش می‌دهد.",
             "source": "https://www.kanald.com.tr/haysiyet/ozetler/haysiyet-2-bolum-ozeti",
             "photosSource": "https://www.kanald.com.tr/haysiyet/foto-galeri/haysiyet-2-bolum-fotograflari",
-            "watchUrl": "https://eurod.kanald.com.tr/haysiyet/bolumler/haysiyet-2-bolum",
-            "fragman": "https://www.kanald.com.tr/haysiyet/fragmanlar/haysiyet-2-bolum-fragmani"
+            "watchUrl": "https://www.kanald.com.tr/haysiyet/ozetler/haysiyet-2-bolum-ozeti",
+            "fragman": "https://www.kanald.com.tr/haysiyet/fragmanlar/haysiyet-2-bolum-fragmani",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 3,
@@ -2005,20 +2091,34 @@
               "https://image.kanald.com.tr/i/kanald/100/0x0/6ab0dde98e6adc7618129b43.jpg",
               "https://image.kanald.com.tr/i/kanald/100/0x0/6ab0dde98e6adc7618129b45.jpg"
             ],
-            "summary": "بدهی‌های قدیمی خانوادهٔ کارلی‌اوا، زندگی مشترک تازهٔ محمد و سیمای را تهدید می‌کند و خطر از دست دادن زمین خانواده جدی می‌شود. محمد برای کمک دوباره کار می‌کند؛ در همین حال هالوک برای دور کردن سیمای از او نقشه می‌کشد. فداکاری سیمای نیز ناخواسته به بحرانی تازه میان دو خانواده تبدیل می‌شود.",
+            "summary": "بدهی‌های قدیمی، زمین خانواده کارلی‌اووا و زندگی تازه محمد و سیمای را تهدید می‌کند. محمد برای تأمین هزینه‌ها به کار بازمی‌گردد؛ هالوک برای جدا کردن دخترش از محمد نقشه می‌کشد و سیمای دست به فداکاری‌ای می‌زند که اختلاف دو خاندان را تشدید می‌کند.",
             "source": "https://www.kanald.com.tr/haysiyet/ozetler/haysiyet-3-bolum-ozeti",
             "photosSource": "https://www.kanald.com.tr/haysiyet/foto-galeri/haysiyet-3-bolum-fotograflari",
-            "fragman": "https://www.kanald.com.tr/haysiyet/fragmanlar/haysiyet-3-bolum-fragmani"
+            "fragman": "https://www.kanald.com.tr/haysiyet/fragmanlar/haysiyet-3-bolum-fragmani",
+            "watchUrl": "https://www.kanald.com.tr/haysiyet/ozetler/haysiyet-3-bolum-ozeti",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 4,
             "date": "2026-09-29",
-            "calendar": true
+            "summary": "خرید کامیون توسط عزیز و درگیری‌اش با پدر، خانواده کارلی‌اووا را با بحرانی شدید روبه‌رو می‌کند. سیمای به خانه پدری بازمی‌گردد و محمد زیر فشار دو خاندان قرار می‌گیرد. درست هنگام احتمال آشتی صادق و عزیز، تصادفی هولناک رخ می‌دهد.",
+            "source": "https://www.kanald.com.tr/haysiyet/bolumler/haysiyet-4-bolum",
+            "watchUrl": "https://www.kanald.com.tr/haysiyet/bolumler/haysiyet-4-bolum",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           },
           {
             "number": 5,
             "date": "2026-10-06",
-            "calendar": true
+            "summary": "مرگ عزیز خانواده کارلی‌اووا را داغدار می‌کند؛ صادق در پی عذاب وجدان ناپدید می‌شود و محمد به جست‌وجوی او می‌رود. سیمای از سوی نعمت سرزنش می‌شود و خانواده خودش حمایتش می‌کنند. بحران حاملگی گلسوم و تصمیم صادق در اوج عذاب وجدان خانواده را با خطر تازه روبه‌رو می‌کند.",
+            "source": "https://www.kanald.com.tr/haysiyet/bolumler/haysiyet-son-bolum",
+            "watchUrl": "https://www.kanald.com.tr/haysiyet/bolumler/haysiyet-son-bolum",
+            "metadataOnly": false,
+            "verification": "official-episode-description",
+            "lastEditorialReview": "2026-10-09"
           }
         ]
       }
@@ -2031,7 +2131,14 @@
       "https://image.kanald.com.tr/i/kanald/100/0x0/6aa8dc9c8e6adc7618128e67.jpg",
       "https://image.kanald.com.tr/i/kanald/100/0x0/6aa8dc9b8e6adc7618128e5c.jpg"
     ],
-    "photosSource": "https://www.kanald.com.tr/haysiyet/foto-galeri/haysiyet-1-bolum-fotograflari"
+    "photosSource": "https://www.kanald.com.tr/haysiyet/foto-galeri/haysiyet-1-bolum-fotograflari",
+    "archiveAudit": {
+      "checkedOn": "2026-10-09",
+      "source": "https://www.kanald.com.tr/haysiyet/bolumler",
+      "lastVerifiedEpisode": 5,
+      "verification": "official episode pages and archived network synopsis",
+      "note": "فهرست قسمت‌های جدید با صفحات رسمی تطبیق داده شد؛ خلاصه‌های موجود شرح رسمی‌اند، نه پاورقی کامل صحنه‌به‌صحنه."
+    }
   },
   "guller-ve-gunahlar": {
     "slug": "guller-ve-gunahlar",
