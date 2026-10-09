@@ -99,6 +99,11 @@
       $("#gallery-section").hidden = true;
     }
 
+    // An archive number is not a finished summary or a recap.
+    if (ep.metadataOnly) {
+      $("#ep-summary").parentElement.querySelector(".kicker").textContent = "ثبت در آرشیو رسمی";
+      $("#ep-summary").parentElement.querySelector("h2").textContent = "وضعیت مستندسازی این قسمت";
+    }
     // An official preview is not an after-airing recap.
     if (ep.preview) {
       $("#ep-summary").parentElement.querySelector(".kicker").textContent = isScheduled ? "برنامهٔ پخش" : "معرفی رسمی قسمت";
@@ -107,7 +112,7 @@
     // Summary
     $("#ep-summary").textContent = ep.summary && ep.summary.trim()
       ? ep.summary
-      : isScheduled ? `طبق تقویم، قسمت ${D.fmtInt(ep.number)} از فصل ${D.fmtInt(ep.season)} برای ${D.isoToFa(ep.date)} ثبت شده است. خلاصه و تصاویر آن پس از انتشار اطلاعات رسمی اضافه می‌شوند.` : "خلاصهٔ این قسمت به‌زودی از منبع رسمی افزوده می‌شود.";
+      : isScheduled ? `طبق تقویم، قسمت ${D.fmtInt(ep.number)} از فصل ${D.fmtInt(ep.season)} برای ${D.isoToFa(ep.date)} ثبت شده است. خلاصه و تصاویر آن پس از انتشار اطلاعات رسمی اضافه می‌شوند.` : ep.metadataOnly ? "وجود این قسمت در آرشیو رسمی شبکه تأیید شده است؛ هنوز خلاصهٔ داستان و پاورقی مستند این قسمت آماده نشده است." : "خلاصهٔ این قسمت به‌زودی از منبع رسمی افزوده می‌شود.";
 
     // Links: fragman + official source
     const links = [];
@@ -115,7 +120,7 @@
     if (ep.watchUrl) links.push(`<a class="btn-primary" href="${D.esc(ep.watchUrl)}" target="_blank" rel="noopener noreferrer">▶ تماشای قسمت در شبکه</a>`);
     else if (s.official && s.official.episodes) links.push(`<a class="btn-primary" href="${D.esc(s.official.episodes)}" target="_blank" rel="noopener noreferrer">قسمت‌ها در شبکه ↗</a>`);
     if (fragman) links.push(`<a class="btn-ghost" href="${D.esc(fragman)}" target="_blank" rel="noopener noreferrer">${ep.fragman ? '▶ تماشای تیزر قسمت' : 'فراگمان‌های سریال ↗'}</a>`);
-    if (ep.source && ep.source !== ep.watchUrl) links.push(`<a class="btn-ghost" href="${D.esc(ep.source)}" target="_blank" rel="noopener noreferrer">${ep.preview ? "منبع معرفی قسمت" : "منبع خلاصه"} ↗</a>`);
+    if (ep.source && ep.source !== ep.watchUrl) links.push(`<a class="btn-ghost" href="${D.esc(ep.source)}" target="_blank" rel="noopener noreferrer">${ep.metadataOnly ? "مرجع آرشیو قسمت‌ها" : ep.preview ? "منبع معرفی قسمت" : "منبع خلاصه"} ↗</a>`);
     $("#ep-links").innerHTML = links.join("");
 
     // Prev / next episode nav
