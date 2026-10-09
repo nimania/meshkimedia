@@ -16,6 +16,7 @@ const calendar = JSON.parse(await readFile(p("data/calendar.json"), "utf8"));
 const ratings = JSON.parse(await readFile(p("data/ratings.json"), "utf8"));
 const newsData = existsSync(p("data/news.json")) ? JSON.parse(await readFile(p("data/news.json"), "utf8")) : { items: [] };
 const bios = existsSync(p("data/bios.json")) ? JSON.parse(await readFile(p("data/bios.json"), "utf8")) : {};
+const publishedDubbedForSeries = existsSync(p("data/dubbed.json")) ? JSON.parse(await readFile(p("data/dubbed.json"),"utf8")).series || [] : [];
 const seriesArr = Object.values(series);
 
 // ---- slug (MUST match github-pages/dizimeter.js) ---------------------------
@@ -110,6 +111,9 @@ const firstEpImage = (s) => { for (const se of s.seasons || []) for (const e of 
 function seriesPage(s) {
   const root = "../../";
   const net = networks[s.network];
+  const dubbedRecord = publishedDubbedForSeries.find(d => d.originalSeriesSlug === s.slug && (d.entries || []).some(e => e.status === "published" && e.paragraphs?.some(t => t.trim())));
+  const dubbedTab = dubbedRecord ? `<a href="#dubbed-section">دوبله فارسی و پاورقی</a>` : "";
+  const dubbedSection = dubbedRecord ? `<section id="dubbed-section" class="profile-section"><div class="section-headline"><div><span>نسخه دوبله فارسی</span><h2>پاورقی‌ها و پادکست‌های ${esc(s.titleFa)}</h2></div><a class="gallery-source" href="${root}duble/${dubbedRecord.slug}/">مشاهده آرشیو ←</a></div><p>روایت قسمت‌های دوبله فارسی، با پیوند به قسمت‌های اصلی ترکی و نسخه شنیداری در صورت انتشار.</p><a href="${root}duble/${dubbedRecord.slug}/">رفتن به پاورقی‌های دوبله فارسی ←</a></section>` : "";
   const img = s.hero || firstEpImage(s);
   const jsonld = { "@context": "https://schema.org", "@type": s.kind === "entertainment" ? "TVSeries" : "TVSeries", name: s.titleTr, alternateName: s.titleFa, url: `${BASE}/dizi/${s.slug}/`, inLanguage: "tr", genre: s.genre || [], countryOfOrigin: { "@type": "Country", name: "Turkey" } };
   if (img) jsonld.image = img;
@@ -123,13 +127,14 @@ function seriesPage(s) {
 <h1 id="title-fa">${esc(s.titleFa)}</h1><p id="title-tr" dir="ltr">${esc(s.titleTr)}</p>
 <div class="profile-facts"><span id="network"></span><span id="airing"></span><span id="studio"></span></div>
 <div id="genre" class="genre-chips"></div></div></section>
-<nav class="profile-tabs" aria-label="بخش‌های صفحه"><a href="#about">داستان</a><a href="#cast-section">بازیگران</a><a href="#news">اخبار</a><a href="#trend">ریتینگ</a><a href="#eps">قسمت‌ها</a></nav>
+<nav class="profile-tabs" aria-label="بخش‌های صفحه"><a href="#about">داستان</a><a href="#cast-section">بازیگران</a><a href="#news">اخبار</a><a href="#trend">ریتینگ</a><a href="#eps">قسمت‌ها</a>${dubbedTab}</nav>
 <section id="about" class="profile-section"><div class="section-kicker">داستان</div><p id="synopsis" class="synopsis"></p><a id="synopsis-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع داستان ↗</a><div id="official-links" class="official-links"></div></section>
 <section id="series-gallery-section" class="profile-section" hidden><div class="section-headline"><div><span>تصاویر رسمی</span><h2>عکس‌های سریال</h2></div><a id="series-gallery-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع عکس‌ها ↗</a></div><div id="series-gallery" class="gallery"></div></section>
 <section id="cast-section" class="profile-section"><div class="section-headline"><div><span>بازیگران و نقش‌ها</span><h2>چه کسی چه نقشی دارد؟</h2></div><small>روی نام بازیگر یا نقش بزنید</small></div><div id="cast" class="cast-grid"></div><p id="cast-empty" class="notice" hidden>فهرست تأییدشدهٔ بازیگران این سریال هنوز تکمیل نشده است.</p></section>
 <section id="news" class="profile-section"><div class="section-headline"><div><span>اخبار</span><h2>آخرین خبرهای ${esc(s.titleFa)}</h2></div><a class="gallery-source" href="${root}haber/">همهٔ اخبار ↗</a></div><div id="series-news" class="news-feed"><div class="notice">در حال بارگذاری اخبار…</div></div></section>
 <section id="trend" class="profile-section"><div class="section-headline"><div><span>ریتینگ</span><h2>روند ریتینگ پخش به پخش</h2></div><small>Total · AB · ABC1</small></div><div id="series-trend"></div></section>
 <section id="eps" class="profile-section"><div class="section-headline"><div><span>قسمت‌ها</span><h2>ری‌کپ و ریتینگ قسمت‌ها</h2></div><small>Total · AB · ABC1</small></div><div id="episodes" class="episodes"></div></section>
+${dubbedSection}
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/#episodes`, "☰", "قسمت‌ها", true], [`dizi/${s.slug}/#cast`, "◉", "بازیگران"], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
   return h + body + boot(root, { slug: s.slug }, ["rating-trends.js", "series-page.js", "gallery.js", "news.js"], "20260930news4");
