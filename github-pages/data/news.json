@@ -1,6 +1,44 @@
 {
- "updated": "2026-10-08T22:07:13.000Z",
+ "updated": "2026-10-09T02:13:13.344Z",
  "items": [
+  {
+   "id": "e1544b0e7102",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/iste-soranin-son-hali-irem-helvacioglu-ve-minik-kizindan-yeni-kare-7676040",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "İşte Sora'nın son hali! İrem Helvacıoğlu ve minik kızından yeni kare",
+   "snippet": "Eşi Ural Kaspar'dan boşanan oyuncu İrem Helvacıoğlu, paylaşımlarıyla adından söz ettirmeye devam ediyor. Ünlü isim, sevimli kızı Sora'nın yeni karesini Instagram hesabından sevenlerinin beğenisine sundu.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac8061ff15b2619d4a3ba07.jpg",
+   "video": null,
+   "published": "2026-10-08T21:09:44.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/iste-soranin-son-hali-irem-helvacioglu-ve-minik-kizindan-yeni-kare-7676040",
+     "title": "İşte Sora'nın son hali! İrem Helvacıoğlu ve minik kızından yeni kare",
+     "snippet": "Eşi Ural Kaspar'dan boşanan oyuncu İrem Helvacıoğlu, paylaşımlarıyla adından söz ettirmeye devam ediyor. Ünlü isim, sevimli kızı Sora'nın yeni karesini Instagram hesabından sevenlerinin beğenisine sundu.",
+     "published": "2026-10-08T21:09:44.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac8061ff15b2619d4a3ba07.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac8061ff15b2619d4a3ba07.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "ecda643287a8",
    "url": "https://www.milliyet.com.tr/magazin/galeri/fazla-kilolarindan-eser-kalmadi-berguzar-korelin-son-hali-dikkat-cekti-7675967",
@@ -49,6 +87,36 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "5bc9ce72b432",
+   "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Necla Uygur vefat etti",
+   "snippet": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti",
+   "image": "https://im.haberturk.com/l/2026/10/08/ver1791487927/3918298/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-08T20:27:58.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
+     "title": "Necla Uygur vefat etti",
+     "snippet": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti",
+     "published": "2026-10-08T20:27:58.000Z"
+    }
+   ],
+   "mediaDone": true
   },
   {
    "id": "e4894a777dc8",
@@ -150,6 +218,64 @@
    "aiTries": 1
   },
   {
+   "id": "19c8657f042d",
+   "url": "https://www.haberturk.com/magazin/atilla-tas-in-kizi-14-uncu-kattan-duserek-hayatini-kaybetti-3918247",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Atilla Taş'ın acı günü",
+   "snippet": "Şarkıcı Atilla Taş’ın kızı Sezen Taş, Mersin’de hayatını kaybetti. Sezen Taş’ın bir binanın 14'üncü katından düştüğü belirtildi",
+   "image": "https://im.haberturk.com/l/2026/10/08/ver1791479202/3918247/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-08T17:59:31.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/atilla-tas-in-kizi-14-uncu-kattan-duserek-hayatini-kaybetti-3918247",
+     "title": "Atilla Taş'ın acı günü",
+     "snippet": "Şarkıcı Atilla Taş’ın kızı Sezen Taş, Mersin’de hayatını kaybetti. Sezen Taş’ın bir binanın 14'üncü katından düştüğü belirtildi",
+     "published": "2026-10-08T17:59:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": "1b07e85dd522",
+   "url": "https://www.haberturk.com/magazin/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3918280",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Samar Dadgar'ın acı günü",
+   "snippet": "Şarkıcı Özcan Deniz ile mutlu bir evliliği olan Samar Dadgar, 3 yaşındaki yeğeninin vefat ettiğini açıkladı",
+   "image": "https://im.haberturk.com/l/2026/10/08/ver1791479647/3918280/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-08T17:14:28.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3918280",
+     "title": "Samar Dadgar'ın acı günü",
+     "snippet": "Şarkıcı Özcan Deniz ile mutlu bir evliliği olan Samar Dadgar, 3 yaşındaki yeğeninin vefat ettiğini açıkladı",
+     "published": "2026-10-08T17:14:28.000Z"
+    }
+   ]
+  },
+  {
    "id": "6e9afef24ab0",
    "url": "https://www.milliyet.com.tr/magazin/galeri/yasak-ask-evliligini-bitirmisti-sahra-isiktan-sert-sozler-karakter-satin-alamazsin-7675882",
    "source": "milliyet-magazin",
@@ -195,6 +321,64 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "641af16a59df",
+   "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
+   "snippet": "Ünlü şarkıcı Özcan Deniz’in eşi Samar Dadgar, sosyal medya hesabından yaptığı paylaşımla acı haberi duyurdu. Dadgar, 3 y...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/denizjpg-n9MEikgAJ0KwkqdAff2RlQ.jpg",
+   "video": null,
+   "published": "2026-10-08T16:39:34.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
+     "title": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
+     "snippet": "Ünlü şarkıcı Özcan Deniz’in eşi Samar Dadgar, sosyal medya hesabından yaptığı paylaşımla acı haberi duyurdu. Dadgar, 3 y...",
+     "published": "2026-10-08T16:39:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": "4c6307c8dfbb",
+   "url": "https://www.milliyet.com.tr/magazin/ozcan-denizin-esi-samar-dadgarin-aci-gunu-3-yasindaki-yegeni-hayatini-kaybetti-7675855",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü! 3 yaşındaki yeğeni hayatını kaybetti",
+   "snippet": "HABER MERKEZİ - Şarkıcı ve oyuncu Özcan Deniz, uzun süredir aşk yaşadığı sevgilisi Samar Dadgar ile 2023 yılında evlenmişti. Geçtiğimiz günlerde evliliklerinin 3. yılını kutlayan çiftin mutlu beraberliği devam ediyor.Sık sık mutluluk pozlarını paylaşan ikili, son olarak takipçilerine üzücü bir haberi duyurdu. Son dakika... Atilla Taş'ın kızı Sezen Taş, 14. kattan düşerek hayatını kaybetti ACI HABERİ DUYURDU Sosyal medyayı aktif olarak kullanan Dadgar, Instagram hesabından yaptığı paylaşımla yeğe",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac7b3874969daebc3bd8606.jpg",
+   "video": null,
+   "published": "2026-10-08T16:23:05.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/ozcan-denizin-esi-samar-dadgarin-aci-gunu-3-yasindaki-yegeni-hayatini-kaybetti-7675855",
+     "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü! 3 yaşındaki yeğeni hayatını kaybetti",
+     "snippet": "HABER MERKEZİ - Şarkıcı ve oyuncu Özcan Deniz, uzun süredir aşk yaşadığı sevgilisi Samar Dadgar ile 2023 yılında evlenmişti. Geçtiğimiz günlerde evliliklerinin 3. yılını kutlayan çiftin mutlu beraberliği devam ediyor.Sık sık mutluluk pozlarını paylaşan ikili, son olarak takipçilerine üzücü bir haber",
+     "published": "2026-10-08T16:23:05.000Z"
+    }
+   ]
   },
   {
    "id": "6760f282d72d",
@@ -425,6 +609,35 @@
    "aiTries": 1
   },
   {
+   "id": "d84d5ffae61e",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-evlat-acisi-43334420",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Atilla Taş'ın evlat acısı!",
+   "snippet": "ŞARKICI Atilla Taş'ın kızı Sezen Taş, Mersin’de bir sitedeki apartmanın 14’üncü katından düşüp yaşamını yitirdi.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac7a905946fbe5b25f1ff5a.jpg",
+   "video": null,
+   "published": "2026-10-08T14:30:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-evlat-acisi-43334420",
+     "title": "Atilla Taş'ın evlat acısı!",
+     "snippet": "ŞARKICI Atilla Taş'ın kızı Sezen Taş, Mersin’de bir sitedeki apartmanın 14’üncü katından düşüp yaşamını yitirdi.",
+     "published": "2026-10-08T14:30:00.000Z"
+    }
+   ]
+  },
+  {
    "id": "9c97d1fee0c3",
    "url": "https://www.milliyet.com.tr/magazin/galeri/turkan-soray-yegeninin-dugununden-goruntuleri-paylasti-gozyaslarimizi-tutmaya-calistik-7675740",
    "source": "milliyet-magazin",
@@ -476,6 +689,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "855b56688602",
+   "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
+   "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atilla-tas-kiziijpg-_aE-Tlf030KviTVpuO8EPA.jpg",
+   "video": null,
+   "published": "2026-10-08T14:13:06.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
+     "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
+     "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
+     "published": "2026-10-08T14:13:06.000Z"
+    }
+   ]
   },
   {
    "id": "685c2f178e1d",
@@ -789,6 +1031,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "e103efdc27cd",
+   "url": "https://www.haberturk.com/magazin/sezen-aksu-hastanelik-oldu-3918226",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Sevenlerini endişelendirdi",
+   "snippet": "Türk pop müziğinin usta isimlerinden Sezen Aksu’ya geçtiğimiz hafta biyopsi işlemi yapıldığı belirtildi",
+   "image": "https://im.haberturk.com/l/2026/10/08/ver1791464165/3918226/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-08T13:01:13.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/sezen-aksu-hastanelik-oldu-3918226",
+     "title": "Sevenlerini endişelendirdi",
+     "snippet": "Türk pop müziğinin usta isimlerinden Sezen Aksu’ya geçtiğimiz hafta biyopsi işlemi yapıldığı belirtildi",
+     "published": "2026-10-08T13:01:13.000Z"
+    }
+   ]
   },
   {
    "id": "402065c2b2b5",
@@ -3440,6 +3711,35 @@
    "aiTries": 1
   },
   {
+   "id": "362e1545c241",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/iki-ay-arayla-anne-ve-babasini-topraga-verdi-gercek-degerlerini-onlar-olunce-anladim-fani-oldugum-gercegi-yuzume-carpti-43333091",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "İki ay arayla anne ve babasını toprağa verdi... Gerçek değerlerini onlar ölünce anladım: Fani olduğum gerçeği yüzüme çarptı",
+   "snippet": "Şu hayatta yaşanabilecek en büyük acılardan biri evlat acısıysa eğer diğeri hatta onunla yarışacak kadar büyüğü anne ve baba acısıdır... Hele bu iki acı kısa aralıklarla gelmişse.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac65b8bfc033b5a8af9f408.jpg",
+   "video": null,
+   "published": "2026-10-08T05:46:45.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/iki-ay-arayla-anne-ve-babasini-topraga-verdi-gercek-degerlerini-onlar-olunce-anladim-fani-oldugum-gercegi-yuzume-carpti-43333091",
+     "title": "İki ay arayla anne ve babasını toprağa verdi... Gerçek değerlerini onlar ölünce anladım: Fani olduğum gerçeği yüzüme çarptı",
+     "snippet": "Şu hayatta yaşanabilecek en büyük acılardan biri evlat acısıysa eğer diğeri hatta onunla yarışacak kadar büyüğü anne ve baba acısıdır... Hele bu iki acı kısa aralıklarla gelmişse.",
+     "published": "2026-10-08T05:46:45.000Z"
+    }
+   ]
+  },
+  {
    "id": "8f299a2a8827",
    "url": "https://www.haberturk.com/magazin/merve-bolugur-un-murat-dalkilic-sessizligi-3918046",
    "source": "haberturk-magazin",
@@ -3531,6 +3831,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "8af05d547fe0",
+   "url": "https://www.sozcu.com.tr/sosyetenin-unlu-isminin-annesi-olmustu-hemsire-hakkinda-sok-gelisme-p367175",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Sosyetenin ünlü isminin annesi ölmüştü: Hemşire hakkında şok gelişme",
+   "snippet": "Selin Boronkay ve kardeşleri, 2 Mart'ta hayatını kaybeden anneleri Yücel Boronkay'ın ölümünde ihmal olduğu iddiasıyla he...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/895jpg-fC53_iTP9UWC47oLStt_Ag.jpg",
+   "video": null,
+   "published": "2026-10-08T05:27:26.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sosyetenin-unlu-isminin-annesi-olmustu-hemsire-hakkinda-sok-gelisme-p367175",
+     "title": "Sosyetenin ünlü isminin annesi ölmüştü: Hemşire hakkında şok gelişme",
+     "snippet": "Selin Boronkay ve kardeşleri, 2 Mart'ta hayatını kaybeden anneleri Yücel Boronkay'ın ölümünde ihmal olduğu iddiasıyla he...",
+     "published": "2026-10-08T05:27:26.000Z"
+    }
+   ]
   },
   {
    "id": "cff0c7a0f779",
@@ -5181,6 +5510,59 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "4272a856afa4",
+   "url": "https://www.sozcu.com.tr/vefat-eden-ece-irtem-in-babasina-soyledigi-son-sozleri-yurekleri-burktu-p366981",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Vefat eden Ece İrtem'in babasına söylediği son sözleri yürekleri burktu",
+   "snippet": "“Kızılcık Şerbeti” dizisinde Işıl karakterini canlandıran Ece İrtem'in ani ölümü ailesini yasa boğdu. Acılı anne ve baba...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/167jpg-Aoh7OQz6BEOF4LKCJFznoQ.jpg",
+   "video": null,
+   "published": "2026-10-07T11:07:31.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "kizilcik-serbeti"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/vefat-eden-ece-irtem-in-babasina-soyledigi-son-sozleri-yurekleri-burktu-p366981",
+     "title": "Vefat eden Ece İrtem'in babasına söylediği son sözleri yürekleri burktu",
+     "snippet": "“Kızılcık Şerbeti” dizisinde Işıl karakterini canlandıran Ece İrtem'in ani ölümü ailesini yasa boğdu. Acılı anne ve baba...",
+     "published": "2026-10-07T11:07:31.000Z"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/ece-irtemin-olmeden-once-babasina-soyledigi-sozler-kahretti-beni-topraga-sen-koyacaksin-7674964",
+     "title": "Ece İrtem’in ölmeden önce babasına söylediği sözler kahretti: Beni toprağa sen koyacaksın",
+     "snippet": "“Kızılcık Şerbeti” dizisinde hayat verdiği Işıl karakteriyle tanınan Ece İrtem, 15 Haziran’da Kadıköy’deki evinde hayatını kaybetmişti. Oyuncunun ani ölümü ailesini ve sevenlerini yasa boğarken, anne ve babası ilk kez kameraların karşısına geçerek kızlarının son günlerinde yaşananları anlattı. BABAS",
+     "published": "2026-10-07T12:53:24.000Z"
+    }
+   ],
+   "mergedIds": [
+    "9ef17c5c2383"
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/167jpg-Aoh7OQz6BEOF4LKCJFznoQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/167jpg-Aoh7OQz6BEOF4LKCJFznoQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/vural-irtemjpg-Dli9WfS1r0qyEZdVOPFUFg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ece-irtem-annesijpg-Ug7V_UUzSEeWPWJlL8XNNQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac79d238c023a08fef1864apng-vE5ahP1Ww0_s8YRa-HfVhA.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "64b954e20e1e",
@@ -9894,93 +10276,6 @@
    "aiTries": 1
   },
   {
-   "id": "332ffb27b555",
-   "url": "https://www.haberturk.com/magazin/foto/altin-cocuk-goksel-arsoy-un-cenaze-toreni-belli-oldu-3917510",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Cenaze töreni belli oldu",
-   "snippet": "Türk Sineması'nın \"Altın Çocuk\" lakaplı usta oyuncusu Göksel Arsoy, 90 yaşında vefat etti. Usta oyuncu, yarın son yolculuğuna uğurlanacak",
-   "image": "https://im.haberturk.com/l/2026/10/06/ver1791264981/3917510/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-06T05:44:08.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/altin-cocuk-goksel-arsoy-un-cenaze-toreni-belli-oldu-3917510",
-     "title": "Cenaze töreni belli oldu",
-     "snippet": "Türk Sineması'nın \"Altın Çocuk\" lakaplı usta oyuncusu Göksel Arsoy, 90 yaşında vefat etti. Usta oyuncu, yarın son yolculuğuna uğurlanacak",
-     "published": "2026-10-06T05:44:08.000Z",
-     "titleFa": "مراسم تدفین مشخص شد"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "گöksel arsoy در سن ۹۰ سالگی درگذشت",
-   "summaryFa": "گöksel arsoy بازیگر پیشکسوت سینمای ترک ملقب به «پسر طلایی» در ۹۰ سالگی درگذشت. مراسم تشییع جنازه او فردا برگزار می‌شود.",
-   "bodyFa": [
-    "گöksel arsoy، بازیگر برجسته و نام آشنای سینمای ترکیه که با لقب «پسر طلایی» شناخته می‌شد، در سن ۹۰ سالگی دار فانی را وداع گفت. خبر درگذشت این هنرمند بزرگ موجی از اندوه را در میان اهالی سینما و دوستداران فیلم‌های کلاسیک ایجاد کرده است.",
-    "بر اساس اطلاعات اعلام شده، مراسم تشییع پیکر این بازیگر فقید فردا پس از اقامه نماز ظهر در مسجد بارباروس هایرتین پاشا، در آرامستان زنجیرلی‌کوی به خاک سپرده خواهد شد. او در ماه مارس گذشته جشن تولد ۹۰ سالگی خود را در کنار خانواده‌اش برگزار کرده بود.",
-    "پس از انتشار خبر درگذشت گöksel arsoy، چهره‌های سرشناس سینمای ترکیه از جمله Türkan Şoray، Ediz Hun و Hülya Koçyiğit با انتشار پیام‌هایی ضمن ابراز تأسف عمیق، به تمجید از جایگاه هنری، اخلاق و نقش مهم او در دوران طلایی سینمای ترکیه پرداختند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "7fba7dd369aa",
-   "url": "https://www.sozcu.com.tr/mesut-ozil-gozdesini-satisa-cikardi-fiyati-2-milyon-750-bin-tl-p366497",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Mesut Özil gözdesini satışa çıkardı: Fiyatı 2 milyon 750 bin TL",
-   "snippet": "Mesut Özil, kendisi için özel olarak tasarlanan motosikletini satışa çıkardı. 2015 model Harley-Davidson Night Rod Speci...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/603jpg-cpvdfSouZU_n7rtTHklAew.jpg",
-   "video": null,
-   "published": "2026-10-06T05:28:05.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/mesut-ozil-gozdesini-satisa-cikardi-fiyati-2-milyon-750-bin-tl-p366497",
-     "title": "Mesut Özil gözdesini satışa çıkardı: Fiyatı 2 milyon 750 bin TL",
-     "snippet": "Mesut Özil, kendisi için özel olarak tasarlanan motosikletini satışa çıkardı. 2015 model Harley-Davidson Night Rod Speci...",
-     "published": "2026-10-06T05:28:05.000Z",
-     "titleFa": "مسوت اوزیل گوهره خود را به فروش رساند: قیمت ۲ میلیون و ۷۵۰ هزار لیره"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/603jpg-cpvdfSouZU_n7rtTHklAew.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/603jpg-cpvdfSouZU_n7rtTHklAew.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/mesut-ozilljpeg-RjHyXDz730OwqfVF0UTSPA.jpeg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/nihatkahvecidenenkotujenerasyoncikisiamillitakimaatespuskurdu6ac49a33d83705fac671776fpng-WZiFcDudSke3zwguW2dnrw.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/okanburukbukararialmakzorundakaldivazgecilmezoyuncusunuyedegecekecek6ac490e1d83705fac67176c2png-MStzMy3WA0S389gbuKJPKA.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "مسوت اوزیل موتورسیکلت شخصی‌سازی شده خود را به فروش رساند",
-   "summaryFa": "مسوت اوزیل، فوتبالیست سابق مشهور، موتورسیکلت Harley-Davidson مدل ۲۰۱۵ خود را برای فروش گذاشته است. این وسیله نقلیه به طور ویژه برای او طراحی شده و دارای جزئیاتی مرتبط با دوران ورزشی او است.",
-   "bodyFa": [
-    "مسوت اوزیل، بازیکن سابق فوتبال، موتورسیکلت سفارشی و مورد علاقه خود را برای فروش عرضه کرده است. این وسیله یک دستگاه موتورسیکلت Harley-Davidson Night Rod Special ساخت سال ۲۰۱۵ است که به طور ویژه برای شخص او طراحی و آمادهسازی شده بود.",
-    "روی این موتورسیکلت جزئیاتی به کار رفته است که به طور مستقیم به دوران فوتبال و سابقه ورزشی این ستاره سابق اشاره دارد. قیمت تعیین شده برای این موتورسیکلت خاص ۲ میلیون و ۷۵۰ هزار لیره اعلام شده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
    "id": "5b6df292c7cc",
    "url": "https://www.hurriyet.com.tr/kelebek/hayat/ihanet-iddialariyla-gundemdeydi-hayatimin-donum-noktasi-43330909",
    "source": "hurriyet-kelebek",
@@ -10025,430 +10320,6 @@
    "bodyFa": [
     "ادریس آی‌بیردی که پیش‌تر ادعا شده بود در دوران تأهل خود با صحرا ایشیک با سرای کایا بازیگر ترک رابطه داشته است، پس از نهایی شدن جدایی‌اش، رابطه‌اش با این بازیگر را به شکل عمومی اعلام کرد.",
     "آی‌بیردی با انتشار تصویری مشترک در کنار سرای کایا در فضای مجازی، احساسات خود را نسبت به او ابراز کرد و در توضیحات این تصویر نوشت: «تو سراسر عشقی، نقطه عطف زندگی‌ام»."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "8f3ef0c64218",
-   "url": "https://www.sozcu.com.tr/nejat-isler-yigildi-konser-sonrasi-2-kisi-zor-tasidi-p366484",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Nejat İşler yığıldı: Konser sonrası 2 kişi zor taşıdı",
-   "snippet": "Uzun süredir gözlerden uzak olan Nejat İşler, yıllar sonra yeniden sahnelere dönen Leyla The Band'in konserinde ortaya ç...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/1jpg-e4f2Ik-jV0ynq7eQFWBQFQ.jpg",
-   "video": null,
-   "published": "2026-10-06T05:03:03.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/nejat-isler-yigildi-konser-sonrasi-2-kisi-zor-tasidi-p366484",
-     "title": "Nejat İşler yığıldı: Konser sonrası 2 kişi zor taşıdı",
-     "snippet": "Uzun süredir gözlerden uzak olan Nejat İşler, yıllar sonra yeniden sahnelere dönen Leyla The Band'in konserinde ortaya ç...",
-     "published": "2026-10-06T05:03:03.000Z",
-     "titleFa": "نجات ایشلر از حال رفت: دو نفر با سختی او را پس از کنسرت جابجا کردند"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/1jpg-e4f2Ik-jV0ynq7eQFWBQFQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/1jpg-e4f2Ik-jV0ynq7eQFWBQFQ.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac51c49d83705fac68d0c57png-i6mtqSQWIECmnukWUuY4Yw.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac4e6abd83705fac673e6ffpng-c5985oy3CE2lCYm10JtzLQ.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac4e591d83705fac673e2ffpng-oy9Dm1Nybkehv0NpDZ4mGA.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "حضور نجات ایشلر در کنسرت گروه لیلا د بند",
-   "summaryFa": "نجات ایشلر پس از مدت‌ها دوری از انظار عمومی، در کنسرت گروه لیلا د بند دیده شد و در اواخر شب برای ایستادن دچار مشکل شده بود.",
-   "bodyFa": [
-    "نجات ایشلر، بازیگر مشهور، پس از مدت‌ها دوری از چشم رسانه‌ها، در کنسرت گروه «لیلا د بند» که پس از سال‌ها دوباره به روی صحنه رفته است، حضور یافت.",
-    "او این کنسرت را به همراه چاغلار چوروملو تماشا کرد. بر اساس گزارش‌ها، این بازیگر در ساعات پایانی شب در حفظ تعادل و ایستادن روی پای خود با مشکل روبه‌رو شده بود."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "0f400cb391a9",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/iki-eski-karisindan-da-kopamamisti-ask-artik-tatli-bir-hayal-bekar-bir-adam-olarak-cok-mutluyum-43330898",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "İki eski karısından da kopamamıştı… Aşk artık tatlı bir hayal: Bekar bir adam olarak çok mutluyum",
-   "snippet": "Hayranlarının gözünde artık bir efsane dönüşmüş aşklarını uzun yıllar sonra küllerinden doğurup yeniden sevgili olup evlenmişlerdi. Görkemli bir düğünden sonra birlikte yaşlanacaklarını umdukları yeni hayatlarına başladılar.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac48013fc033b5a8af9e5c7.jpg",
-   "video": null,
-   "published": "2026-10-06T04:59:04.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/iki-eski-karisindan-da-kopamamisti-ask-artik-tatli-bir-hayal-bekar-bir-adam-olarak-cok-mutluyum-43330898",
-     "title": "İki eski karısından da kopamamıştı… Aşk artık tatlı bir hayal: Bekar bir adam olarak çok mutluyum",
-     "snippet": "Hayranlarının gözünde artık bir efsane dönüşmüş aşklarını uzun yıllar sonra küllerinden doğurup yeniden sevgili olup evlenmişlerdi. Görkemli bir düğünden sonra birlikte yaşlanacaklarını umdukları yeni hayatlarına başladılar.",
-     "published": "2026-10-06T04:59:04.000Z",
-     "titleFa": "از دو همسر سابقش هم جدا نمی‌شد… عشق دیگر یک رویای شیرین است: به عنوان یک مرد مجرد بسیار خوشحالم"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac48013fc033b5a8af9e5c7.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac48013fc033b5a8af9e5c7.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
-   ],
-   "mediaDone": true,
-   "titleFa": "دیدگاه جدید درباره زندگی مجردی و عشق",
-   "summaryFa": "یکی از چهره‌های شناخته‌شده که پس از سال‌ها جدایی دوباره ازدواج کرده بود، اکنون از زندگی به عنوان یک مرد مجرد ابراز رضایت می‌کند.",
-   "bodyFa": [
-    "در این گزارش به وضعیت زندگی شخصی فردی اشاره می‌شود که عشق افسانه‌ای او با همسرش پس از سال‌ها دوباره شکل گرفته و به ازدواج ختم شده بود. آن‌ها پس از یک عروسی باشکوه، زندگی مشترک جدیدی را آغاز کرده بودند تا در کنار هم پیر شوند.",
-    "با این حال، اکنون این دیدگاه مطرح شده که عشق دیگر تنها یک رویای شیرین است و این فرد اعلام کرده که به عنوان یک مرد مجرد بسیار خوشحال است، در حالی که پیش‌تر حتی از همسران سابق خود نیز جدا نمی‌شد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "5e14b471cf6c",
-   "url": "https://www.sozcu.com.tr/blok3-un-basina-gelmeyen-kalmadi-hapis-ve-para-cezasi-yagdi-p366485",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Blok3'ün başına gelmeyen kalmadı: Hapis ve para cezası yağdı",
-   "snippet": "İstanbul Ataşehir’de ehliyetsiz ve 1.14 promil alkollü şekilde araç kullanırken yakalanan Blok3 mahlaslı rapçi Hakan Ayd...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/bljpg-G0K93Lthaka2ZAJsEGyoKw.jpg",
-   "video": null,
-   "published": "2026-10-06T04:53:15.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/blok3-un-basina-gelmeyen-kalmadi-hapis-ve-para-cezasi-yagdi-p366485",
-     "title": "Blok3'ün başına gelmeyen kalmadı: Hapis ve para cezası yağdı",
-     "snippet": "İstanbul Ataşehir’de ehliyetsiz ve 1.14 promil alkollü şekilde araç kullanırken yakalanan Blok3 mahlaslı rapçi Hakan Ayd...",
-     "published": "2026-10-06T04:53:15.000Z",
-     "titleFa": "سرنوشت تلخ دنباله‌دار برای Blok3: باران احکام زندان و جریمه نقدی"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/bljpg-G0K93Lthaka2ZAJsEGyoKw.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/bljpg-G0K93Lthaka2ZAJsEGyoKw.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/blokjpg-HIAyRPUHQkeCYYZy_D-8YQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac51c49d83705fac68d0c57png-i6mtqSQWIECmnukWUuY4Yw.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac4e6abd83705fac673e6ffpng-c5985oy3CE2lCYm10JtzLQ.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "مجازات زندان و جریمه نقدی برای خواننده رپ معروف، Blok3",
-   "summaryFa": "هاکان آیدین، معروف به Blok3، به دلیل رانندگی بدون گواهینامه و در حالت مستی در استانبول به ۴ ماه حبس محکوم شد که این حکم به ۱۲ هزار لیر جریمه نقدی تبدیل شد.",
-   "bodyFa": [
-    "هاکان آیدین که با نام هنری Blok3 شناخته می‌شود، در منطقه آتاشهیر استانبول در حین رانندگی بدون داشتن گواهینامه و با داشتن ۱.۱۴ پرومیل الکل توسط پلیس متوقف شد و پرونده قضایی او به نتیجه رسید.",
-    "دادگاه برای این خواننده رپ مجازات ۴ ماه حبس در نظر گرفت که این حکم نهایتاً به پرداخت ۱۲ هزار لیر ترکیه جریمه نقدی تبدیل شد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "59db31ecf158",
-   "url": "https://www.sozcu.com.tr/cem-yilmaz-dan-uc-kusak-aile-pozu-allah-saklasin-notuyla-paylasti-p366483",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Cem Yılmaz'dan üç kuşak aile pozu: \"Allah saklasın\" notuyla paylaştı",
-   "snippet": "Ünlü komedyen Cem Yılmaz, babası Arif Yılmaz, ağabeyi Can Yılmaz ve oğlu Kemal Yılmaz ile birlikte çekilen aile fotoğraf...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/cem1jpg-Os_f1yaslU6D8r63fKkfZg.jpg",
-   "video": null,
-   "published": "2026-10-06T04:46:11.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/cem-yilmaz-dan-uc-kusak-aile-pozu-allah-saklasin-notuyla-paylasti-p366483",
-     "title": "Cem Yılmaz'dan üç kuşak aile pozu: \"Allah saklasın\" notuyla paylaştı",
-     "snippet": "Ünlü komedyen Cem Yılmaz, babası Arif Yılmaz, ağabeyi Can Yılmaz ve oğlu Kemal Yılmaz ile birlikte çekilen aile fotoğraf...",
-     "published": "2026-10-06T04:46:11.000Z",
-     "titleFa": "عکس خانوادگی سه نسل از جم ایلماز: او این عکس را با یادداشت «الله saklasın» منتشر کرد"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/cem1jpg-Os_f1yaslU6D8r63fKkfZg.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/cem1jpg-Os_f1yaslU6D8r63fKkfZg.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/cempng-LKP_h967XEy-2S851kV7Rw.PNG",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac51c49d83705fac68d0c57png-i6mtqSQWIECmnukWUuY4Yw.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac4e6abd83705fac673e6ffpng-c5985oy3CE2lCYm10JtzLQ.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار عکس خانوادگی سه نسل توسط جم ایلماز",
-   "summaryFa": "جم ایلماز کمدین معروف عکس خانوادگی خود را در کنار پدر، برادر و پسرش منتشر کرد. او این تصویر را با یادداشت «الله saklasın» به اشتراک گذاشت.",
-   "bodyFa": [
-    "جم ایلماز، کمدین مشهور، تصویر مشترکی از سه نسل خانواده خود را در شبکه‌های اجتماعی منتشر کرد که در آن پدرش عارف ایلماز، برادرش جان ایلماز و پسرش کمال ایلماز حضور دارند.",
-    "او این قاب خانوادگی را با عبارت «الله saklasın :))» همراه کرده و با مخاطبان خود به اشتراک گذاشته است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "cacc646be557",
-   "url": "https://www.milliyet.com.tr/magazin/ilk-kez-harbiyede-sahne-aldilar-7673888",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "İlk kez Harbiye’de sahne aldılar",
-   "snippet": "Harbiye sahnesine ilk kez çıkacağını belirten Ali Atay, “Ne hissedeceğimi şu an ben de bilmiyorum. Sahneye ilk adımı attığımda anlayacağım” dedi. Meriç Aral, eşi Serkan Keskin’i yalnız bırakmadı. Çocukları Güneş için Aral, “Artık bir yaşında. Biz de alıştık. Kendi ritmini buldu, yavaş yavaş büyüyor. Onu heyecanla takip ediyoruz” diye konuştu.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac42f4450398df27d010c18.jpg",
-   "video": null,
-   "published": "2026-10-06T04:02:20.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/ilk-kez-harbiyede-sahne-aldilar-7673888",
-     "title": "İlk kez Harbiye’de sahne aldılar",
-     "snippet": "Harbiye sahnesine ilk kez çıkacağını belirten Ali Atay, “Ne hissedeceğimi şu an ben de bilmiyorum. Sahneye ilk adımı attığımda anlayacağım” dedi. Meriç Aral, eşi Serkan Keskin’i yalnız bırakmadı. Çocukları Güneş için Aral, “Artık bir yaşında. Biz de alıştık. Kendi ritmini buldu, yavaş yavaş büyüyor.",
-     "published": "2026-10-06T04:02:20.000Z",
-     "titleFa": "آن‌ها برای نخستین بار در هاربیه روی صحنه رفتند"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac42f4450398df27d010c18.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac42f4450398df27d010c18.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "گroه لیلا د بند برای نخستین بار در هاربیه روی صحنه رفتند",
-   "summaryFa": "گروه لیلا د بند شامل اونور اونلو، علی آتای، سرکان کسکین و فرات ایکیسیوری برای اولین بار در صحنه روباز هاربیه اجرا کردند. مریچ آرال نیز برای حمایت از همسرش سرکان کسکین در این رویداد حضور داشت.",
-   "bodyFa": [
-    "گروه موسیقی «لیلا د بند» که چهره‌هایی همچون اونور اونلو، علی آتای، سرکان کسکین و فرات ایکیسیوری در آن حضور دارند، برای نخستین بار در صحنه روباز استانبول یعنی هاربیه به اجرای برنامه پرداختند.",
-    "علی آتای پیش از رفتن روی صحنه ابراز داشت که هنوز نمی‌داند چه احساسی خواهد داشت و این موضوع را پس از برداشتن نخستین گام روی صحنه درک خواهد کرد. همچنین مریچ آرال همسر سرکان کسکین در این اجرا حضور یافت و او را همراهی کرد.",
-    "آرال درباره فرزندشان به نام گونش توضیح داد که او اکنون یک ساله شده است، آن‌ها به شرایط جدید عادت کرده‌اند و کودک آرام‌آرام و با پیدا کردن ریتم خود در حال رشد است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "273e909eaadb",
-   "url": "https://www.milliyet.com.tr/magazin/sarki-soylemeyi-seviyorum-7673887",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Şarkı söylemeyi seviyorum’",
-   "snippet": "Sahnede kendisini özgür ve iyi hissettiğini belirten Akil, şarkı söylemeyi çok sevdiğini söyledi. Akil, sahne performanslarını turneye taşımayı planladıklarını ve Avrupa turnesi hedeflerinin olduğunu belirtti.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac42e9450398df27d010c12.jpg",
-   "video": null,
-   "published": "2026-10-06T04:02:20.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/sarki-soylemeyi-seviyorum-7673887",
-     "title": "‘Şarkı söylemeyi seviyorum’",
-     "snippet": "Sahnede kendisini özgür ve iyi hissettiğini belirten Akil, şarkı söylemeyi çok sevdiğini söyledi. Akil, sahne performanslarını turneye taşımayı planladıklarını ve Avrupa turnesi hedeflerinin olduğunu belirtti.",
-     "published": "2026-10-06T04:02:20.000Z",
-     "titleFa": "«شکارچی‌گری را دوست دارم»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac42e9450398df27d010c12.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac42e9450398df27d010c12.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "پلین آکیل: عاشق خوانندگی هستم و حس آزادی روی صحنه دارم",
-   "summaryFa": "پلین آکیل در اجرایی در استانبول از علاقه خود به خوانندگی و حس آزادی روی صحنه گفت. او همچنین از برنامه‌ریزی برای تور اروپایی خبر داد.",
-   "bodyFa": [
-    "پلین آکیل اخیراً در مکانی در کوروچشمه استانبول روی صحنه رفت و به اجرای برنامه پرداخت.",
-    "او پس از اجرا اعلام کرد که عاشق خوانندگی است و روی صحنه حس آزادی و حال خوبی دارد. آکیل همچنین اشاره کرد که آن‌ها برنامه‌ریزی کرده‌اند تا اجراهای صحنه‌ای خود را به صورت تور برگزار کنند و هدف‌گذاری آن‌ها شامل تور اروپایی نیز می‌شود."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "c4576cb6cff8",
-   "url": "https://www.milliyet.com.tr/magazin/bes-dilde-betul-demir-7673885",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Beş dilde Betül Demir!",
-   "snippet": "Konser boyunca Türkçe hit parçalarının yanı sıra İngilizce, Fransızca, İspanyolca ve İtalyanca eserleri seslendiren sanatçı, dinleyicilere zengin bir repertuvar sundu.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac42dba50398df27d010c03.jpg",
-   "video": null,
-   "published": "2026-10-06T04:02:19.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/bes-dilde-betul-demir-7673885",
-     "title": "Beş dilde Betül Demir!",
-     "snippet": "Konser boyunca Türkçe hit parçalarının yanı sıra İngilizce, Fransızca, İspanyolca ve İtalyanca eserleri seslendiren sanatçı, dinleyicilere zengin bir repertuvar sundu.",
-     "published": "2026-10-06T04:02:19.000Z",
-     "titleFa": "بتول دمیر به پنج زبان!"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac42dba50398df27d010c03.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac42dba50398df27d010c03.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "اجرای بتول دمیر به پنج زبان در استانبول",
-   "summaryFa": "بتول دمیر در یک شب خاص در استانبول قطعاتی را به پنج زبان مختلف اجرا کرد. او علاوه بر ترانه‌های هیت ترکی، قطعاتی به زبان‌های انگلیسی، فرانسوی، اسپانیایی و ایتالیایی خواند.",
-   "bodyFa": [
-    "بتول دمیر، هنرمند ترکیه‌ای، در جریان یک اجرای صحنه‌ای در شهر استانبول، برنامه‌ای با قطعات متنوع به روی صحنه برد. او در این شب خاص علاوه بر خواندن ترانه‌های محبوب و شناخته‌شده ترکیه‌ای، آثار مختلفی را نیز به زبان‌های انگلیسی، فرانسوی، اسپانیایی و ایتالیایی اجرا کرد.",
-    "این هنرمند با ارائه این مجموعه متنوع از آثار به زبان‌های گوناگون، فهرستی غنی و پربار از ترانه‌ها را برای مخاطبان و حاضران در سالن ارائه داد که با استقبال روبرو شد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "aae3365401b2",
-   "url": "https://www.milliyet.com.tr/magazin/guncel-konulara-deginiyoruz-7673884",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Güncel konulara değiniyoruz’",
-   "snippet": "Oyuncu, “Köfte Necmi biraz çılgın bir karakter. Bu kez bir Almanya yolculuğu var. Sınırları yürüyerek aşma meselesi de var. Biraz güncel konulara değiniyoruz; zaten güncel meseleleri işlemeyi seviyoruz ve hemen hemen her filmde bunlardan besleniyoruz” dedi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac42d5850398df27d010bfc.jpg",
-   "video": null,
-   "published": "2026-10-06T04:02:18.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/guncel-konulara-deginiyoruz-7673884",
-     "title": "‘Güncel konulara değiniyoruz’",
-     "snippet": "Oyuncu, “Köfte Necmi biraz çılgın bir karakter. Bu kez bir Almanya yolculuğu var. Sınırları yürüyerek aşma meselesi de var. Biraz güncel konulara değiniyoruz; zaten güncel meseleleri işlemeyi seviyoruz ve hemen hemen her filmde bunlardan besleniyoruz” dedi.",
-     "published": "2026-10-06T04:02:18.000Z",
-     "titleFa": "«به موضوعات روز می‌پردازیم»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac42d5850398df27d010bfc.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac42d5850398df27d010bfc.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "اظهارات تیمور آکار درباره فیلم «Çakallarla Dans 8: Şututgart Çıkarması»",
-   "summaryFa": "تیمور آکار اعلام کرد که فیلم جدید «Çakallarla Dans 8: Şututgart Çıkarması» به موضوعات روز می‌پردازد. او به ویژگی‌های شخصیت کوفته نجمی و سفر او به آلمان اشاره کرد.",
-   "bodyFa": [
-    "تیمور آکار، بازیگر ترکیه‌ای، در خصوص حضور دوباره خود در نقش «کوفته نجمی» در فیلم جدید «Çakallarla Dans 8: Şututgart Çıkarması» توضیحاتی ارائه داد. او اشاره کرد که این اثر به مسائل و موضوعات روز جامعه می‌پردازد.",
-    "به گفته این بازیگر، در این قسمت داستانی پیرامون سفر به آلمان و عبور پیاده از مرزها روایت می‌شود. او همچنین افزود که تیم سازنده علاقه‌مند است به موضوعات روز بپردازد و تقریباً در تمامی فیلم‌های خود از چنین مسائلی الهام می‌گیرد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "1010326993ca",
-   "url": "https://www.milliyet.com.tr/magazin/tam-bir-cember-gibi-7673857",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Tam bir çember gibi...’",
-   "snippet": "İlk 43 temsilinde 100 bini aşkın seyirciye ulaşan müzikalin oyuncuları, yeni sezonun ilk sahnesi öncesinde bir araya geldi. Olcay, “Konservatuvardan sonra 19 yaşımdaydım. Selçuk 23 yaşındaydı ve evlenmiştik. Mesleki eğitim için Londra’ya gittiğimizde kısıtlı bütçemize rağmen 25 sterlin verip kocaman bir makyaj kitabı satın almıştık. O kitap Don Kişot’un makyaj kitabıydı. Aradan 40 yıl geçti, o kitap hâlâ evimde durur ve biz bugün aynı sahnedeyiz. Tam bir çember gibi...” dedi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac42c3e50398df27d010bf6.jpg",
-   "video": null,
-   "published": "2026-10-06T04:02:18.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/tam-bir-cember-gibi-7673857",
-     "title": "‘Tam bir çember gibi...’",
-     "snippet": "İlk 43 temsilinde 100 bini aşkın seyirciye ulaşan müzikalin oyuncuları, yeni sezonun ilk sahnesi öncesinde bir araya geldi. Olcay, “Konservatuvardan sonra 19 yaşımdaydım. Selçuk 23 yaşındaydı ve evlenmiştik. Mesleki eğitim için Londra’ya gittiğimizde kısıtlı bütçemize rağmen 25 sterlin verip kocaman",
-     "published": "2026-10-06T04:02:18.000Z",
-     "titleFa": "«Tam bir çember gibi...»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac42c3e50398df27d010bf6.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac42c3e50398df27d010bf6.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "آغاز فصل دوم موزیکال دون کیشوت با بازی سلچوک یونتِم و زهال اولجای",
-   "summaryFa": "فصل دوم موزیکال دون کیشوت با بازی سلچوک یونتِم و زهال اولجای در حالی آغاز شد که این نمایش در ۴۳ اجرای اول خود بیش از ۱۰۰ هزار تماشاگر جذب کرده بود.",
-   "bodyFa": [
-    "موزیکال «دون کیشوت» با بازی سلچوک یونتِم و زهال اولجای وارد فصل دوم خود شد و این دو بازیگر را دوباره در کنار هم روی صحنه آورد.",
-    "بازیگران این موزیکال پیش از شروع اولین اجرای فصل جدید دور هم جمع شدند. این نمایش در ۴۳ اجرای اولیه خود توانسته بود بیش از ۱۰۰ هزار تماشاگر را به خود جذب کند."
    ],
    "ai": true,
    "aiTries": 1
