@@ -59,7 +59,16 @@
           "coverCaption": "قهوه شور — تصویر معرفی سریال",
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
-          "editorialQuality": "source-grounded-condensed"
+          "editorialQuality": "source-grounded-condensed",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 658,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "length-target-met",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": true
+          }
         },
         {
           "slug": "dubbed-1",
@@ -88,7 +97,21 @@
           "coverCaption": "قهوه شور — تصویر معرفی سریال",
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
-          "editorialQuality": "source-grounded-condensed"
+          "editorialQuality": "source-grounded-condensed",
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+            "https://www.youtube.com/watch?v=AdixCcxwOnA"
+          ],
+          "sourceAttributionNote": "منابع قسمت اول نسخه اصلی؛ مرزبندی این روایت فارسی با پخش دوبله تأیید نشده است.",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 245,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -117,7 +140,21 @@
           "coverCaption": "قهوه شور — تصویر معرفی سریال",
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
-          "editorialQuality": "source-grounded-condensed"
+          "editorialQuality": "source-grounded-condensed",
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+            "https://www.youtube.com/watch?v=AdixCcxwOnA"
+          ],
+          "sourceAttributionNote": "منابع قسمت اول نسخه اصلی؛ مرزبندی این روایت فارسی با پخش دوبله تأیید نشده است.",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 207,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -146,7 +183,21 @@
           "coverCaption": "قهوه شور — تصویر معرفی سریال",
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
-          "editorialQuality": "source-grounded-condensed"
+          "editorialQuality": "source-grounded-condensed",
+          "verifiedSourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+            "https://www.youtube.com/watch?v=AdixCcxwOnA"
+          ],
+          "sourceAttributionNote": "منابع قسمت اول نسخه اصلی؛ مرزبندی این روایت فارسی با پخش دوبله تأیید نشده است.",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 206,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-2",
@@ -174,7 +225,16 @@
           "coverSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/2-bolum-fotograflari",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 249,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-4",
@@ -201,7 +261,16 @@
           "coverSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/2-bolum-fotograflari",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 90,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-5",
@@ -228,7 +297,16 @@
           "coverSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/2-bolum-fotograflari",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 83,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-6",
@@ -255,7 +333,16 @@
           "coverSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/2-bolum-fotograflari",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 76,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-3",
@@ -284,7 +371,16 @@
           "coverSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/3-bolum-fotograflari",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 215,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-7",
@@ -312,7 +408,16 @@
           "coverSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/3-bolum-fotograflari",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 64,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-8",
@@ -340,7 +445,16 @@
           "coverSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/3-bolum-fotograflari",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 75,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-9",
@@ -368,7 +482,16 @@
           "coverSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/3-bolum-fotograflari",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 76,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-4",
@@ -397,7 +520,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 213,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-10",
@@ -425,7 +557,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 66,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-11",
@@ -453,7 +594,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 78,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-12",
@@ -481,7 +631,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 69,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-5",
@@ -509,7 +668,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 204,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-13",
@@ -536,7 +704,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 66,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-14",
@@ -563,7 +740,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 69,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-15",
@@ -590,7 +776,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 69,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-6",
@@ -619,7 +814,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 235,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-16",
@@ -647,7 +851,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 81,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-17",
@@ -675,7 +888,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 71,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-18",
@@ -703,7 +925,16 @@
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
-          "needsExpansion": true
+          "needsExpansion": true,
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 83,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "needs-direct-source-links",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -938,7 +1169,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 564,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "length-target-met",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": true
+          }
         },
         {
           "slug": "dubbed-1",
@@ -962,7 +1202,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 186,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -986,7 +1235,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 174,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -1010,7 +1268,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 204,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-2",
@@ -1032,7 +1299,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 306,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-4",
@@ -1054,7 +1330,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 104,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-5",
@@ -1076,7 +1361,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 97,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-6",
@@ -1098,7 +1392,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 105,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-3",
@@ -1118,7 +1421,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 270,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-7",
@@ -1140,7 +1452,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 88,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-8",
@@ -1162,7 +1483,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 85,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-9",
@@ -1184,7 +1514,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 97,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-4",
@@ -1204,7 +1543,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 230,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-10",
@@ -1226,7 +1574,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 75,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-11",
@@ -1248,7 +1605,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 80,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-12",
@@ -1270,7 +1636,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 75,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-5",
@@ -1290,7 +1665,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 230,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-13",
@@ -1312,7 +1696,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 84,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-14",
@@ -1334,7 +1727,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 63,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-15",
@@ -1356,7 +1758,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 83,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -1406,7 +1817,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 601,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "length-target-met",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": true
+          }
         },
         {
           "slug": "dubbed-1",
@@ -1430,7 +1850,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 193,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -1454,7 +1883,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 206,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -1478,7 +1916,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 202,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-2",
@@ -1500,7 +1947,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 282,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-4",
@@ -1522,7 +1978,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 91,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-5",
@@ -1544,7 +2009,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 94,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-6",
@@ -1566,7 +2040,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 97,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-3",
@@ -1586,7 +2069,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 215,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-7",
@@ -1608,7 +2100,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 68,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-8",
@@ -1630,7 +2131,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 68,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-9",
@@ -1652,7 +2162,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 79,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-4",
@@ -1672,7 +2191,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 201,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-10",
@@ -1694,7 +2222,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 69,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-11",
@@ -1716,7 +2253,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 60,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-12",
@@ -1738,7 +2284,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 72,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-5",
@@ -1758,7 +2313,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 205,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-13",
@@ -1780,7 +2344,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 68,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-14",
@@ -1802,7 +2375,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 65,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-15",
@@ -1824,7 +2406,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 72,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -1877,7 +2468,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 534,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "length-target-met",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": true
+          }
         },
         {
           "slug": "dubbed-1",
@@ -1901,7 +2501,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 173,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -1925,7 +2534,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 167,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -1949,7 +2567,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 194,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-19",
@@ -1970,7 +2597,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 233,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-4",
@@ -1993,7 +2629,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 78,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-5",
@@ -2016,7 +2661,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 77,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-6",
@@ -2039,7 +2693,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 78,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-20",
@@ -2059,7 +2722,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 216,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-7",
@@ -2081,7 +2753,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 72,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-8",
@@ -2103,7 +2784,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 75,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-9",
@@ -2125,7 +2815,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 69,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-21",
@@ -2146,7 +2845,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 227,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-10",
@@ -2169,7 +2877,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 81,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-11",
@@ -2192,7 +2909,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 77,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-12",
@@ -2215,7 +2941,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 69,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-22",
@@ -2235,7 +2970,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 194,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-13",
@@ -2257,7 +3001,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 64,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-14",
@@ -2279,7 +3032,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 61,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-15",
@@ -2301,7 +3063,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 69,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-23",
@@ -2321,7 +3092,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 210,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-16",
@@ -2343,7 +3123,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 67,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-17",
@@ -2365,7 +3154,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 74,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-18",
@@ -2387,7 +3185,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 69,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -2437,7 +3244,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 410,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -2461,7 +3277,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 136,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -2485,7 +3310,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 143,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -2509,7 +3343,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 131,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-2",
@@ -2531,7 +3374,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 257,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-4",
@@ -2553,7 +3405,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 72,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-5",
@@ -2575,7 +3436,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 88,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-6",
@@ -2597,7 +3467,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 97,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-3",
@@ -2617,7 +3496,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 210,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-7",
@@ -2639,7 +3527,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 66,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-8",
@@ -2661,7 +3558,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 62,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-9",
@@ -2683,7 +3589,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 82,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-4",
@@ -2703,7 +3618,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 226,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-10",
@@ -2725,7 +3649,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 73,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-11",
@@ -2747,7 +3680,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 75,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-12",
@@ -2769,7 +3711,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 78,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -2821,7 +3772,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 473,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -2845,7 +3805,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 155,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -2869,7 +3838,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 154,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -2893,7 +3871,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 164,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-2",
@@ -2916,7 +3903,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 239,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-4",
@@ -2939,7 +3935,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 74,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-5",
@@ -2962,7 +3967,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 84,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-6",
@@ -2985,7 +3999,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 81,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-3",
@@ -3005,7 +4028,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 234,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-7",
@@ -3027,7 +4059,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 68,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-8",
@@ -3049,7 +4090,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 90,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-9",
@@ -3071,7 +4121,16 @@
           "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 76,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-4",
@@ -3091,7 +4150,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 252,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-10",
@@ -3113,7 +4181,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 87,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-11",
@@ -3135,7 +4212,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 86,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-12",
@@ -3157,7 +4243,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 79,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-5",
@@ -3177,7 +4272,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 234,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-13",
@@ -3199,7 +4303,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 80,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-14",
@@ -3221,7 +4334,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 81,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-15",
@@ -3243,7 +4365,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 73,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -3293,7 +4424,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 419,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -3317,7 +4457,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 160,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -3341,7 +4490,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 127,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -3365,7 +4523,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 132,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-65",
@@ -3385,7 +4552,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 228,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-4",
@@ -3407,7 +4583,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 72,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-5",
@@ -3429,7 +4614,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 77,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-6",
@@ -3451,7 +4645,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 79,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-66",
@@ -3472,7 +4675,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 212,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-7",
@@ -3495,7 +4707,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 70,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-8",
@@ -3518,7 +4739,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 64,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-9",
@@ -3541,7 +4771,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 78,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-67",
@@ -3561,7 +4800,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 219,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-10",
@@ -3583,7 +4831,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 73,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-11",
@@ -3605,7 +4862,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 72,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-12",
@@ -3627,7 +4893,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 74,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -3677,7 +4952,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 479,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -3701,7 +4985,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 169,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -3725,7 +5018,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 149,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -3749,7 +5051,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 161,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-2",
@@ -3771,7 +5082,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 238,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-4",
@@ -3793,7 +5113,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 76,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-5",
@@ -3815,7 +5144,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 77,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-6",
@@ -3837,7 +5175,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 85,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-3",
@@ -3857,7 +5204,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 226,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-7",
@@ -3879,7 +5235,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 77,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-8",
@@ -3901,7 +5266,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 74,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-9",
@@ -3923,7 +5297,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 75,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-4",
@@ -3943,7 +5326,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 217,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-10",
@@ -3965,7 +5357,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 72,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-11",
@@ -3987,7 +5388,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 67,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-12",
@@ -4009,7 +5419,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 78,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-5",
@@ -4029,7 +5448,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 228,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-13",
@@ -4051,7 +5479,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 79,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-14",
@@ -4073,7 +5510,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 74,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-15",
@@ -4095,7 +5541,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 75,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -4145,7 +5600,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 384,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -4169,7 +5633,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 121,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -4193,7 +5666,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 132,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -4217,7 +5699,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 131,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-35",
@@ -4238,7 +5729,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 196,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-4",
@@ -4261,7 +5761,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 56,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-5",
@@ -4284,7 +5793,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 70,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-6",
@@ -4307,7 +5825,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 70,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-36",
@@ -4328,7 +5855,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 222,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-7",
@@ -4351,7 +5887,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 72,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-8",
@@ -4374,7 +5919,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 75,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-9",
@@ -4397,7 +5951,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 75,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -4446,7 +6009,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 408,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -4469,7 +6041,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 143,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -4492,7 +6073,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 130,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -4515,7 +6105,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 135,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-140",
@@ -4535,7 +6134,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 247,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-4",
@@ -4557,7 +6165,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 86,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-5",
@@ -4579,7 +6196,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 84,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-6",
@@ -4601,7 +6227,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 77,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-141",
@@ -4621,7 +6256,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 230,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-7",
@@ -4643,7 +6287,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 77,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-8",
@@ -4665,7 +6318,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 81,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-9",
@@ -4687,7 +6349,16 @@
           ],
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 72,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -4736,7 +6407,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 421,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -4759,7 +6439,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 145,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -4782,7 +6471,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 135,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -4805,7 +6503,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 141,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -4854,7 +6561,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 412,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -4877,7 +6593,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 135,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -4900,7 +6625,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 140,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -4923,7 +6657,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 137,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -4972,7 +6715,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 452,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -4995,7 +6747,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 157,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -5018,7 +6779,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 139,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -5041,7 +6811,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 156,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -5091,7 +6870,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 429,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -5115,7 +6903,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 156,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -5139,7 +6936,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 135,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -5163,7 +6969,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 138,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -5215,7 +7030,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 428,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -5239,7 +7063,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 143,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -5263,7 +7096,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 150,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -5287,7 +7129,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 135,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -5362,7 +7213,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 385,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -5387,7 +7247,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 131,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -5412,7 +7281,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 118,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -5437,7 +7315,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 136,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -5516,7 +7403,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 373,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -5540,7 +7436,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 121,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -5564,7 +7469,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 122,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -5588,7 +7502,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 130,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -5637,7 +7560,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 385,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -5660,7 +7592,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 137,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -5683,7 +7624,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 129,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -5706,7 +7656,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 119,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -5756,7 +7715,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 391,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -5780,7 +7748,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 136,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -5804,7 +7781,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 132,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -5828,7 +7814,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 123,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -5880,7 +7875,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 532,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "length-target-met",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": true
+          }
         },
         {
           "slug": "dubbed-1",
@@ -5904,7 +7908,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 183,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -5928,7 +7941,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 169,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -5952,7 +7974,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 180,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -6003,7 +8034,16 @@
             "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443"
           ],
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 515,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "length-target-met",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": true
+          }
         },
         {
           "slug": "dubbed-1",
@@ -6028,7 +8068,16 @@
             "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443"
           ],
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 172,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -6053,7 +8102,16 @@
             "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443"
           ],
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 161,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -6078,7 +8136,16 @@
             "https://www.showtv.com.tr/dizi/fragman/muhtemel-ask-1-bolum-fragmani/133443"
           ],
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 182,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "status": "published",
@@ -6102,7 +8169,16 @@
             "پایان قسمت اول برای دفنه دردسر تازه‌ای به‌جا گذاشته است. وقتی دو مردی که به‌تازگی وارد زندگی‌اش شده‌اند، یعنی قادر امینداغ و تولگا ارز، مقابل خانه‌اش با یکدیگر درگیر می‌شوند، خانواده دفنه هم شاهد ماجرا هستند. مینه و سوزان خیلی زود متوجه می‌شوند که دو مرد با خلق‌وخوی متفاوت، هر دو در اطراف دفنه حضور پیدا کرده‌اند. اما خود دفنه در این لحظه بیش از هر چیز نگران دفتر وکالتش است.",
             "دفنه باید هزینه دروغی را بپردازد که به لونت گفته بود. او در تنگنای مالی قرار دارد و امیدش این است که دو مردی را که نمی‌توانند همدیگر را تحمل کنند، در یک پروژه مشترک همراه کند. دفنه حقیقت را به تولگا می‌گوید. تولگا که برای خودش نیز نقشه‌هایی دارد، پیشنهاد همکاری را می‌پذیرد. حالا نوبت دشوارتر می‌رسد: گرفتن موافقت قادر.",
             "دفنه برای متقاعد کردن قادر به خانه و سپس مزرعه او می‌رود و با جنبه‌های تازه‌ای از زندگی او آشنا می‌شود. بااین‌حال، خواهش‌هایش نتیجه فوری ندارد و پاسخ قادر منفی است. دفنه ناامید به دفتر برمی‌گردد، اما آنجا با صحنه‌ای بدتر مواجه می‌شود: مأموران اجرای بدهی به دفتر رسیده‌اند. خطری که پیش‌تر می‌کوشید آن را عقب بیندازد، حالا درست پیش رویش قرار دارد."
-          ]
+          ],
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 195,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "status": "published",
@@ -6126,7 +8202,16 @@
             "دفنه پس از برخورد با مأموران بدهی تقریباً می‌پذیرد که راه‌هایش به بن‌بست رسیده‌اند. تصمیم می‌گیرد روز بعد نزد لونت برود و حقیقت را به او بگوید. تصورش این است که نقشه همکاری قادر و تولگا شکست خورده و نمی‌تواند دفتر را از بحران بیرون بیاورد. اما اتفاقی افتاده که خودش از آن خبر ندارد: قادر گرفتاری دفتر را دیده و تصمیمش را عوض کرده است.",
             "قادر برای کمک به دفنه قبول می‌کند با تولگا در یک پروژه کار کند. این تصمیم، بن‌بست مذاکرات را باز می‌کند و برای دفنه فرصتی فراهم می‌سازد که فعالیت دفتر حقوقی را ادامه دهد. البته موافقت دو مرد به معنی آرام‌شدن روابطشان نیست. هر یک با انگیزه و پیشینه خاص خودش وارد همکاری می‌شود و اختلاف‌ها همچنان باقی است.",
             "لونت قرارداد همکاری را با شرط‌هایی سنگین آماده می‌کند. دفنه آن را امضا می‌کند و در نقش وکیل پروژه، خود را در برابر مسئولیت‌های تازه‌ای قرار می‌دهد. شرکت از بحران فوری فاصله می‌گیرد، اما او حالا باید در میانه دو مردی کار کند که از روز اول به هم اعتماد نداشته‌اند. روایت رسمی قسمت دوم همچنین به سفر اسب‌سواری دفنه و قادر در جنگل اشاره می‌کند؛ یکی از برخوردهایی که نزدیکی آن دو را بیشتر نشان می‌دهد."
-          ]
+          ],
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 202,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "status": "published",
@@ -6150,7 +8235,16 @@
             "با شروع کار سه‌نفره در دفتر، رقابت و سوءظن بیشتر می‌شود. تولگا تلاش می‌کند لونت را نسبت به قادر بدبین کند. در همین روزها دفنه و قادر هم به یکدیگر نزدیک‌تر شده‌اند. قادر سرانجام تصمیم می‌گیرد احساسش را با دفنه در میان بگذارد؛ برای همین به او تلفن می‌زند. اما درست وقتی می‌خواهد حرف اصلی را بگوید، صدای تولگا را کنار دفنه می‌شنود.",
             "قادر پیش از اینکه احساسش را بیان کند، تماس را تمام می‌کند. دفنه که می‌خواهد سوءتفاهم را برطرف کند، به خانه او می‌رود. انتظار دارد با قادر صحبت کند و بداند میانشان چه اتفاقی افتاده است، ولی دیدارش مسیر دیگری پیدا می‌کند. در خانه با واقعیتی مواجه می‌شود که تا آن لحظه از آن خبر نداشته است.",
             "همسر قادر به خانه برگشته است. قادر هم به دفنه می‌گوید تصمیمشان برای طلاق لغو شده است. این خبر پایان تکان‌دهنده قسمت دوم است: دفنه که تازه از بحران کاری اندکی فاصله گرفته و رابطه‌اش با قادر شکل دیگری پیدا کرده بود، حالا درمی‌یابد مردی که به او نزدیک شده همچنان به ازدواجش بازگشته است. ادامه این گره عاطفی به قسمت‌های بعد مربوط می‌شود."
-          ]
+          ],
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 184,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "original-2",
@@ -6176,7 +8270,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 581,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "length-target-met",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": true
+          }
         }
       ],
       "productionSources": [
@@ -6225,7 +8328,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 366,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -6248,7 +8360,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 131,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -6271,7 +8392,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 112,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -6294,7 +8424,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 123,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -6344,7 +8483,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 445,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -6368,7 +8516,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 151,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -6392,7 +8549,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 146,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -6416,7 +8582,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 148,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
@@ -6466,7 +8641,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 385,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "not-applicable",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-1",
@@ -6490,7 +8674,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 144,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-2",
@@ -6514,7 +8707,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 118,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         },
         {
           "slug": "dubbed-3",
@@ -6538,7 +8740,16 @@
           ],
           "publishedAt": "2026-10-09",
           "youtubeId": "",
-          "audioUrl": ""
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-09",
+            "wordCount": 123,
+            "minimumTargetWords": 500,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
         }
       ],
       "productionSources": [
