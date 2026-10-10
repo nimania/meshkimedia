@@ -136,7 +136,7 @@
             "https://www.youtube.com/watch?v=KEmczHqPIy0"
           ],
           "sourceAttributionNote": "منابع قسمت اول نسخه اصلی؛ مرزبندی این روایت فارسی با پخش دوبله تأیید نشده است.",
-          "editorialReview": "بازنویسی مستقل برای روایت شنیداری بر اساس رویدادهای مستند پاورقی ارجینال قسمت ۱؛ نیازمند بازشنوی و تأیید نهایی تحریریه پیش از ضبط",
+          "editorialReview": "بازنویسی مستقل برای روایت شنیداری بر اساس رویدادهای مستند پاورقی ارجینال قسمت ۱؛ نیازمند بازشنوی و تأیید نهایی تحریریه پیش از ضبط | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
           "characterNameConflict": {
             "networkEpisodeSynopsis": "Selin",
@@ -150,7 +150,12 @@
           },
           "episodeEvidenceFile": "github-pages/data/pavaraghi-evidence/tuzlu-kahve-original-1.json",
           "editorialTitle": "دو خانواده، سه نقشه برای ازدواج",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "بازگشت مهمت و نقشه خاتون"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -188,7 +193,7 @@
             "https://www.youtube.com/watch?v=KEmczHqPIy0"
           ],
           "sourceAttributionNote": "منابع قسمت اول نسخه اصلی؛ مرزبندی این روایت فارسی با پخش دوبله تأیید نشده است.",
-          "editorialReview": "بازنویسی مستقل برای روایت شنیداری بر اساس رویدادهای مستند پاورقی ارجینال قسمت ۱؛ نیازمند بازشنوی و تأیید نهایی تحریریه پیش از ضبط",
+          "editorialReview": "بازنویسی مستقل برای روایت شنیداری بر اساس رویدادهای مستند پاورقی ارجینال قسمت ۱؛ نیازمند بازشنوی و تأیید نهایی تحریریه پیش از ضبط | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
           "characterNameConflict": {
             "networkEpisodeSynopsis": "Selin",
@@ -202,7 +207,12 @@
           },
           "episodeEvidenceFile": "github-pages/data/pavaraghi-evidence/tuzlu-kahve-original-1.json",
           "editorialTitle": "پایان یک نامزدی کنار دریا",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "تصاویر قایق و تصمیم درین"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -240,7 +250,7 @@
             "https://www.youtube.com/watch?v=KEmczHqPIy0"
           ],
           "sourceAttributionNote": "منابع قسمت اول نسخه اصلی؛ مرزبندی این روایت فارسی با پخش دوبله تأیید نشده است.",
-          "editorialReview": "بازنویسی مستقل برای روایت شنیداری بر اساس رویدادهای مستند پاورقی ارجینال قسمت ۱؛ نیازمند بازشنوی و تأیید نهایی تحریریه پیش از ضبط",
+          "editorialReview": "بازنویسی مستقل برای روایت شنیداری بر اساس رویدادهای مستند پاورقی ارجینال قسمت ۱؛ نیازمند بازشنوی و تأیید نهایی تحریریه پیش از ضبط | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
           "characterNameConflict": {
             "networkEpisodeSynopsis": "Selin",
@@ -254,7 +264,12 @@
           },
           "episodeEvidenceFile": "github-pages/data/pavaraghi-evidence/tuzlu-kahve-original-1.json",
           "editorialTitle": "نجات‌دهنده‌ای که خودش نجات می‌خواهد",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "آشنایی‌ای دور از نقشه خانواده"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -358,26 +373,19 @@
           "gallery": [],
           "editorialQuality": "source-grounded-editorial-section",
           "needsExpansion": true,
-          "editorialReview": {
-            "reviewedAt": "2026-10-10",
-            "wordCount": 475,
-            "minimumTargetWords": 250,
-            "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-episode-synopsis-linked-not-full-video-review",
-            "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false,
-            "narrationDraftReady": true,
-            "fullEpisodeVideoReviewed": false,
-            "readAloudCheck": "pending",
-            "independentPersianNarration": true
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "verifiedSourceUrls": [
             "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/2-bolum",
             "https://www.subtitlecat.com/subs/1682/Tuzlu%20Kahve%202.%20B%C3%B6l%C3%BCm.html"
           ],
           "sourceAttributionNote": "خلاصه رسمی قسمت اصلی در Star TV؛ تقسیم سه‌گانه فارسی، مرزبندی تأییدشده پخش دوبله نیست.",
           "editorialTitle": "یک شام دوستانه و یک رویارویی قدیمی",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 3,
+              "title": "دشمنی‌ای که سر میز شام پنهان نمی‌ماند"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -410,26 +418,19 @@
           "gallery": [],
           "editorialQuality": "source-grounded-editorial-section",
           "needsExpansion": true,
-          "editorialReview": {
-            "reviewedAt": "2026-10-10",
-            "wordCount": 435,
-            "minimumTargetWords": 250,
-            "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-episode-synopsis-linked-not-full-video-review",
-            "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false,
-            "narrationDraftReady": true,
-            "fullEpisodeVideoReviewed": false,
-            "readAloudCheck": "pending",
-            "independentPersianNarration": true
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "verifiedSourceUrls": [
             "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/2-bolum",
             "https://www.subtitlecat.com/subs/1682/Tuzlu%20Kahve%202.%20B%C3%B6l%C3%BCm.html"
           ],
           "sourceAttributionNote": "خلاصه رسمی قسمت اصلی در Star TV؛ تقسیم سه‌گانه فارسی، مرزبندی تأییدشده پخش دوبله نیست.",
           "editorialTitle": "آیبکه، هاکان و انتخاب‌های تازه",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 3,
+              "title": "آیبکه و بازگشت هاکان به حاشیه ماجرا"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -462,26 +463,19 @@
           "gallery": [],
           "editorialQuality": "source-grounded-editorial-section",
           "needsExpansion": true,
-          "editorialReview": {
-            "reviewedAt": "2026-10-10",
-            "wordCount": 441,
-            "minimumTargetWords": 250,
-            "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-episode-synopsis-linked-not-full-video-review",
-            "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false,
-            "narrationDraftReady": true,
-            "fullEpisodeVideoReviewed": false,
-            "readAloudCheck": "pending",
-            "independentPersianNarration": true
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "verifiedSourceUrls": [
             "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/2-bolum",
             "https://www.subtitlecat.com/subs/1682/Tuzlu%20Kahve%202.%20B%C3%B6l%C3%BCm.html"
           ],
           "sourceAttributionNote": "خلاصه رسمی قسمت اصلی در Star TV؛ تقسیم سه‌گانه فارسی، مرزبندی تأییدشده پخش دوبله نیست.",
           "editorialTitle": "دیدار درین با خانواده مهمت",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 3,
+              "title": "دیدار با خاتون و پیچیدگی روابط خانوادگی"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -512,22 +506,22 @@
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
           "needsExpansion": true,
-          "editorialReview": {
-            "reviewedAt": "2026-10-09",
-            "wordCount": 465,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-episode-synopsis-linked-not-full-video-review",
-            "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false,
-            "fullEpisodeVideoReviewed": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "verifiedSourceUrls": [
             "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/3-bolum"
           ],
           "sourceAttributionNote": "خلاصه رسمی قسمت اصلی در Star TV؛ تقسیم سه‌گانه فارسی، مرزبندی تأییدشده پخش دوبله نیست.",
           "editorialTitle": "وقتی آشنایی درین و مهمت جدی‌تر می‌شود",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "مخالفت الیت و نگرانی‌های خانواده"
+            },
+            {
+              "afterParagraph": 4,
+              "title": "تصمیمی برای نزدیک‌ترشدن دو خانواده"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -690,16 +684,7 @@
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
           "needsExpansion": true,
-          "editorialReview": {
-            "reviewedAt": "2026-10-09",
-            "wordCount": 443,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
-            "sourceStatus": "secondary-post-broadcast-report",
-            "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false,
-            "fullEpisodeVideoReviewed": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
           "officialSupportingMedia": [
             {
@@ -718,7 +703,16 @@
           ],
           "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند.",
           "editorialTitle": "نقشه‌ای پشت اختلاف خانواده‌ها",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "دخالت تایلان و تلاش برای روشن‌شدن حقیقت"
+            },
+            {
+              "afterParagraph": 4,
+              "title": "فاصله‌ای که احساس دو نفر را آشکارتر می‌کند"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -919,16 +913,7 @@
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
           "needsExpansion": true,
-          "editorialReview": {
-            "reviewedAt": "2026-10-09",
-            "wordCount": 424,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
-            "sourceStatus": "secondary-episode-synopsis",
-            "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false,
-            "fullEpisodeVideoReviewed": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
           "officialSupportingMedia": [
             {
@@ -946,7 +931,16 @@
           ],
           "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند.",
           "editorialTitle": "دو خواستگاری در یک روز",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "آماده‌سازی مراسم و خبر حلقه"
+            },
+            {
+              "afterParagraph": 4,
+              "title": "دو خواستگاری در یک روز"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -1142,15 +1136,7 @@
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
           "needsExpansion": true,
-          "editorialReview": {
-            "reviewedAt": "2026-10-09",
-            "wordCount": 375,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
-            "sourceStatus": "official-promotional-material-only-full-story-unverified",
-            "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "editorialVerificationNote": "منابع رسمی تصویری/تیزر یافت شدند، اما این صفحات خلاصه دقیق صحنه‌به‌صحنه ندارند؛ روایت هنوز نیازمند تطبیق مستقل با ویدئوی کامل است.",
           "officialSupportingMedia": [
             {
@@ -1165,7 +1151,16 @@
           ],
           "sourceAttributionNote": "پیوندهای رسمی برای شناسایی قسمت/تیزر و عکس‌ها؛ این منابع درستی تمام رخدادهای روایت را تأیید نمی‌کنند.",
           "editorialTitle": "نامزدی در سایه رازها و دخالت خانواده‌ها",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "پیشنهادی که خاتون هم در آن نقش دارد"
+            },
+            {
+              "afterParagraph": 4,
+              "title": "تنش تازه در آستانه نامزدی"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -8515,19 +8510,19 @@
           ],
           "youtubeId": "",
           "audioUrl": "",
-          "editorialReview": {
-            "reviewedAt": "2026-10-10",
-            "wordCount": 523,
-            "minimumTargetWords": 450,
-            "textLengthStatus": "length-target-met",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
-            "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false,
-            "fullEpisodeVideoReviewed": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "sourceAttributionNote": "ویدئوی خلاصه رسمی شرکت سازنده MF Yapım؛ اصالت ویدئو به معنی بررسی تایم‌کد همه صحنه‌ها نیست.",
           "editorialTitle": "دفنه میان بحران دفتر وکالت و دو آشنایی تازه",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 3,
+              "title": "ملاقات‌هایی دور از دنیای آشنای دفنه"
+            },
+            {
+              "afterParagraph": 6,
+              "title": "دو آشنایی و بحرانی که حل نمی‌شود"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -8555,19 +8550,15 @@
           ],
           "youtubeId": "",
           "audioUrl": "",
-          "editorialReview": {
-            "reviewedAt": "2026-10-10",
-            "wordCount": 172,
-            "minimumTargetWords": 150,
-            "textLengthStatus": "length-target-met",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
-            "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false,
-            "fullEpisodeVideoReviewed": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "sourceAttributionNote": "ویدئوی خلاصه رسمی شرکت سازنده MF Yapım؛ اصالت ویدئو به معنی بررسی تایم‌کد همه صحنه‌ها نیست.",
           "editorialTitle": "بحرانی که دفنه را به جست‌وجوی کمک می‌فرستد",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "دیدار با لونت"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -8595,19 +8586,15 @@
           ],
           "youtubeId": "",
           "audioUrl": "",
-          "editorialReview": {
-            "reviewedAt": "2026-10-10",
-            "wordCount": 161,
-            "minimumTargetWords": 150,
-            "textLengthStatus": "length-target-met",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
-            "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false,
-            "fullEpisodeVideoReviewed": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "sourceAttributionNote": "ویدئوی خلاصه رسمی شرکت سازنده MF Yapım؛ اصالت ویدئو به معنی بررسی تایم‌کد همه صحنه‌ها نیست.",
           "editorialTitle": "مهمانی ناآشنا و برخورد با قادر",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "آشنایی با قادر"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -8635,19 +8622,15 @@
           ],
           "youtubeId": "",
           "audioUrl": "",
-          "editorialReview": {
-            "reviewedAt": "2026-10-10",
-            "wordCount": 190,
-            "minimumTargetWords": 150,
-            "textLengthStatus": "length-target-met",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
-            "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false,
-            "fullEpisodeVideoReviewed": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "sourceAttributionNote": "ویدئوی خلاصه رسمی شرکت سازنده MF Yapım؛ اصالت ویدئو به معنی بررسی تایم‌کد همه صحنه‌ها نیست.",
           "editorialTitle": "دو مرد تازه در زندگی دفنه",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "حضور هم‌زمان قادر و تولگا"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -8673,19 +8656,15 @@
             "دفنه باید هزینه دروغی را بپردازد که به لونت گفته بود. او در تنگنای مالی قرار دارد و امیدش این است که دو مردی را که نمی‌توانند همدیگر را تحمل کنند، در یک پروژه مشترک همراه کند. دفنه حقیقت را به تولگا می‌گوید. تولگا که برای خودش نیز نقشه‌هایی دارد، پیشنهاد همکاری را می‌پذیرد. حالا نوبت دشوارتر می‌رسد: گرفتن موافقت قادر.",
             "دفنه برای متقاعد کردن قادر به خانه و سپس مزرعه او می‌رود و با جنبه‌های تازه‌ای از زندگی او آشنا می‌شود. بااین‌حال، خواهش‌هایش نتیجه فوری ندارد و پاسخ قادر منفی است. دفنه ناامید به دفتر برمی‌گردد، اما آنجا با صحنه‌ای بدتر مواجه می‌شود: مأموران اجرای بدهی به دفتر رسیده‌اند. خطری که پیش‌تر می‌کوشید آن را عقب بیندازد، حالا درست پیش رویش قرار دارد."
           ],
-          "editorialReview": {
-            "reviewedAt": "2026-10-10",
-            "wordCount": 195,
-            "minimumTargetWords": 150,
-            "textLengthStatus": "length-target-met",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
-            "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false,
-            "fullEpisodeVideoReviewed": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "sourceAttributionNote": "خلاصه رسمی Show TV پیش از پخش؛ روایت موجود جزئیات پس از پخش هم دارد که مستقل از خلاصه کوتاه باید بررسی شوند.",
           "editorialTitle": "دفنه برای قانع‌کردن قادر دست به کار می‌شود",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "مذاکره دشوار با قادر"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -8711,19 +8690,15 @@
             "قادر برای کمک به دفنه قبول می‌کند با تولگا در یک پروژه کار کند. این تصمیم، بن‌بست مذاکرات را باز می‌کند و برای دفنه فرصتی فراهم می‌سازد که فعالیت دفتر حقوقی را ادامه دهد. البته موافقت دو مرد به معنی آرام‌شدن روابطشان نیست. هر یک با انگیزه و پیشینه خاص خودش وارد همکاری می‌شود و اختلاف‌ها همچنان باقی است.",
             "لونت قرارداد همکاری را با شرط‌هایی سنگین آماده می‌کند. دفنه آن را امضا می‌کند و در نقش وکیل پروژه، خود را در برابر مسئولیت‌های تازه‌ای قرار می‌دهد. شرکت از بحران فوری فاصله می‌گیرد، اما او حالا باید در میانه دو مردی کار کند که از روز اول به هم اعتماد نداشته‌اند. روایت رسمی قسمت دوم همچنین به سفر اسب‌سواری دفنه و قادر در جنگل اشاره می‌کند؛ یکی از برخوردهایی که نزدیکی آن دو را بیشتر نشان می‌دهد."
           ],
-          "editorialReview": {
-            "reviewedAt": "2026-10-10",
-            "wordCount": 202,
-            "minimumTargetWords": 150,
-            "textLengthStatus": "length-target-met",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
-            "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false,
-            "fullEpisodeVideoReviewed": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "sourceAttributionNote": "خلاصه رسمی Show TV پیش از پخش؛ روایت موجود جزئیات پس از پخش هم دارد که مستقل از خلاصه کوتاه باید بررسی شوند.",
           "editorialTitle": "امضای قراردادی با شرط‌های سنگین",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "قرارداد همکاری با لونت"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -8749,19 +8724,15 @@
             "قادر پیش از اینکه احساسش را بیان کند، تماس را تمام می‌کند. دفنه که می‌خواهد سوءتفاهم را برطرف کند، به خانه او می‌رود. انتظار دارد با قادر صحبت کند و بداند میانشان چه اتفاقی افتاده است، ولی دیدارش مسیر دیگری پیدا می‌کند. در خانه با واقعیتی مواجه می‌شود که تا آن لحظه از آن خبر نداشته است.",
             "همسر قادر به خانه برگشته است. قادر هم به دفنه می‌گوید تصمیمشان برای طلاق لغو شده است. این خبر پایان تکان‌دهنده قسمت دوم است: دفنه که تازه از بحران کاری اندکی فاصله گرفته و رابطه‌اش با قادر شکل دیگری پیدا کرده بود، حالا درمی‌یابد مردی که به او نزدیک شده همچنان به ازدواجش بازگشته است. ادامه این گره عاطفی به قسمت‌های بعد مربوط می‌شود."
           ],
-          "editorialReview": {
-            "reviewedAt": "2026-10-10",
-            "wordCount": 184,
-            "minimumTargetWords": 150,
-            "textLengthStatus": "length-target-met",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
-            "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false,
-            "fullEpisodeVideoReviewed": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "sourceAttributionNote": "خلاصه رسمی Show TV پیش از پخش؛ روایت موجود جزئیات پس از پخش هم دارد که مستقل از خلاصه کوتاه باید بررسی شوند.",
           "editorialTitle": "رقابت در دفتر و خبری از خانه قادر",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 2,
+              "title": "بازگشت غیرمنتظره همسر قادر"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         },
         {
@@ -8789,19 +8760,19 @@
           "publishedAt": "2026-10-09",
           "youtubeId": "",
           "audioUrl": "",
-          "editorialReview": {
-            "reviewedAt": "2026-10-10",
-            "wordCount": 581,
-            "minimumTargetWords": 450,
-            "textLengthStatus": "length-target-met",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
-            "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false,
-            "fullEpisodeVideoReviewed": false
-          },
+          "editorialReview": "[object Object] | میان‌تیترهای اختصاصی ثبت شدند؛ کامل‌بودن روایت و انطباق با ویدئو هنوز نیازمند بازبینی است.",
           "sourceAttributionNote": "خلاصه رسمی Show TV پیش از پخش؛ روایت موجود جزئیات پس از پخش هم دارد که مستقل از خلاصه کوتاه باید بررسی شوند.",
           "editorialTitle": "قراردادی دشوار و بازگشت ناگهانی یک همسر",
-          "sections": [],
+          "sections": [
+            {
+              "afterParagraph": 3,
+              "title": "پیشنهاد همکاری و قراردادی دشوار"
+            },
+            {
+              "afterParagraph": 6,
+              "title": "بازگشت همسر قادر و فروپاشی انتظارها"
+            }
+          ],
           "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
         }
       ],
