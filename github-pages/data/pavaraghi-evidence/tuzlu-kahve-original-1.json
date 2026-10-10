@@ -120,13 +120,14 @@
   "publicationGate": {
     "originalEightMinuteReady": false,
     "persianFourMinuteReady": false,
-    "reason": "Insufficient scene-level verified facts; no invented dialogue, timestamp, or repeated padding permitted"
+    "reason": "Original narrative ~1135 words and three dubbed sections exist, but full episode/caption timeline and disputed Murat fiancee identity remain unresolved. Cannot approve as a fully verified spoken recap."
   },
   "nextActions": [
-    "Obtain authorized Turkish subtitles or detailed scene log for official full episode",
-    "Resolve name discrepancy from cast credit or video",
-    "Verify exact events scene by scene and add timecodes",
-    "Only then draft 8-minute original and 4-minute Persian editorial segments"
+    "Acquire accessible full-episode transcript/subtitles or scene-by-scene viewing notes",
+    "Resolve Selin/Elit naming inconsistency using actual episode credits or spoken dialogue",
+    "Verify every specific detail beyond Star TV synopsis",
+    "Perform spoken-language pass and compare dubbed section boundaries",
+    "Only then certify first original and dubbed cuts as youtube-ready"
   ],
   "lastVerifiedAt": "2026-10-10",
   "sourceCoverageAssessment": {
@@ -137,7 +138,18 @@
     "transcriptAvailable": false,
     "fullVideoActuallyReviewed": false,
     "timestampsAvailable": false,
-    "remainingGap": "No verified scene sequence or dialogue to support 1120+ word original and 560+ word Persian segments without padding"
+    "remainingGap": "No verified scene sequence or dialogue to support 1120+ word original and 560+ word Persian segments without padding",
+    "confirmation20261010": {
+      "officialEpisodeSynopsis": "Selin is named Murat's fiancee",
+      "officialPostbroadcastReport": "Elit is named Murat's fiancee",
+      "officialGeneralStory": "Murat's fiancee unnamed",
+      "conclusion": "Conflicting official descriptions persist; a character name should not be asserted as fully verified.",
+      "sourceUrls": [
+        "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+        "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede",
+        "https://www.startv.com.tr/dizi/tuzlu-kahve/fragmanlar/ilk-tanitim"
+      ]
+    }
   },
   "sceneExtractionStatus": "blocked-on-accessible-caption-or-complete-video-transcript"
 }
