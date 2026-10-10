@@ -1,5 +1,6 @@
 {
-  "purpose": "Request a fresh GitHub Pages publish after Gemini billing changes",
+  "purpose": "Retest full GitHub Actions pipeline with Gemini API after billing/quota increase",
   "requestedOn": "2026-10-10",
-  "requestSequence": 1
+  "requestSequence": 2,
+  "retestAt": "2026-10-10"
 }
