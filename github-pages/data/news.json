@@ -1,6 +1,53 @@
 {
- "updated": "2026-10-10T11:05:41.937Z",
+ "updated": "2026-10-10T11:13:09.672Z",
  "items": [
+  {
+   "id": "ddd9191d02c8",
+   "url": "https://www.hurriyet.com.tr/kelebek/magazin/basina-ne-geldiyse-fazla-sevgiden-geldi-o-da-kendi-kosesinde-ders-calisip-duruyor-43336477",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Başına ne geldiyse fazla sevgiden geldi... O da kendi köşesinde ders çalışıp duruyor",
+   "snippet": "Dünyanın tanıdığı hatta daha da ötesinde hayranlıkla takip ettiği biri olmak kolay değil... İlk anda özenilecek gibi görünen bu durumun bir de \"karanlık\" tarafı var çünkü.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6aca048c93192880ef06b515.jpg",
+   "video": null,
+   "published": "2026-10-10T10:56:22.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/basina-ne-geldiyse-fazla-sevgiden-geldi-o-da-kendi-kosesinde-ders-calisip-duruyor-43336477",
+     "title": "Başına ne geldiyse fazla sevgiden geldi... O da kendi köşesinde ders çalışıp duruyor",
+     "snippet": "Dünyanın tanıdığı hatta daha da ötesinde hayranlıkla takip ettiği biri olmak kolay değil... İlk anda özenilecek gibi görünen bu durumun bir de \"karanlık\" tarafı var çünkü.",
+     "published": "2026-10-10T10:56:22.000Z",
+     "titleFa": "باşına ne geldiyse fazla sevgiden geldi... O da kendi köşesinde ders çalışıp duruyor"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aca048c93192880ef06b515.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aca048c93192880ef06b515.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "نگاهی به جنبه تاریک شهرت جهانی و زندگی افراد شناخته‌شده",
+   "summaryFa": "این گزارش به سختی‌ها و جنبه تاریک شهرت جهانی و زندگی افرادی می‌پردازد که با تحسین عمومی روبه‌رو هستند. متن اشاره می‌کند که داشتن چنین موقعیتی تنها جنبه‌های دلپذیر ندارد.",
+   "bodyFa": [
+    "در دنیایی که افراد مشهور توسط همگان شناخته شده و با تحسین دنبال می‌شوند، این وضعیت در نگاه اول ممکن است مطلوب به نظر برسد. با این حال، این گزارش اشاره می‌کند که چنین جایگاهی دارای ابعاد تاریکی نیز است و زندگی برای کسانی که در مرکز توجه قرار دارند چندان هم آسان نیست.",
+    "این مطلب که از سوی حریت منتشر شده، به چالش‌های زندگی افرادی می‌پردازد که در سطح جهان شناخته شده‌اند و نشان می‌دهد شهرت زیاد می‌تواند پیامدهای خاص خود را به همراه داشته باشد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "20c5f0f6f6de",
    "url": "https://www.sabah.com.tr/magazin/esra-erolda-genc-cifte-mutlu-yuva-midyat-belediye-baskanindan-cumhurbaskani-erdogana-tesekkur-7677717",
@@ -1168,7 +1215,8 @@
      "guller-ve-gunahlar"
     ],
     "people": [
-     "cemre-baysel"
+     "cemre-baysel",
+     "murat-yildirim"
     ],
     "networks": [
      "kanal-d"
@@ -1182,7 +1230,16 @@
      "title": "Zeynep’e sihirli dokunuş",
      "snippet": "Kanal D’nin sevilen dizisi “Güller ve Günahlar”ın Zeynep’i Cemre Baysel, son bölümdeki dans sahnesinde giydiği kıyafetle yaptığı paylaşımla sosyal medyayı hareketlendirdi.",
      "published": "2026-10-10T05:22:01.000Z",
-     "titleFa": "لمس جادویی برای زینب"
+     "titleFa": "لمس جادویی بر روی زینب"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/cemre-baysele-sihirli-dokunus-sikligiyla-goz-kamastirdi-7676820",
+     "title": "Cemre Baysel'e sihirli dokunuş! Şıklığıyla göz kamaştırdı",
+     "snippet": "Cemre Baysel’in, Güller ve Günahlar ’da Murat Yıldırım’ın hayat verdiği Serhat karakteriyle dans ettiği sahnede giydiği kıyafetle yaptığı paylaşım, takipçilerinden büyük beğeni aldı. Baysel, paylaşımına “Ekibimden sahne için biraz sihir” notunu düştü. Oyuncunun zarif görünümü, kısa sürede takipçiler",
+     "published": "2026-10-10T11:06:13.000Z",
+     "titleFa": "لمس جادویی برای جمره بایسل! او با ظرافت خود خیره کننده بود"
     }
    ],
    "images": [
@@ -1194,14 +1251,41 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
    ],
    "mediaDone": true,
-   "titleFa": "توجه شبکه‌های اجتماعی به لباس جمره بایسل در سریال گل‌ها و گناهان",
-   "summaryFa": "جمره بایسل با انتشار پستی از لباس خود در صحنه رقص قسمت جدید سریال «گل‌ها و گناهان»، توجه زیادی را در شبکه‌های اجتماعی به خود جلب کرد.",
+   "titleFa": "لباس جمره بایسل در سریال گل‌ها و گناهان مورد توجه قرار گرفت",
+   "summaryFa": "جمره بایسل با لباس خود در صحنه رقص سریال «گل‌ها و گناهان» توجه مخاطبان را در شبکه‌های اجتماعی جلب کرد. این بازیگر همچنین در پروژه «Pembe Top Sahada» برای آگاهی‌رسانی درباره سرطان سینه مشارکت دارد.",
    "bodyFa": [
-    "جمره بایسل، بازیگر نقش زینب در سریال «گل‌ها و گناهان» از شبکه کانال دی، با انتشار پستی در شبکه‌های اجتماعی توجه مخاطبان را جلب کرده است.",
-    "این پست مربوط به لباسی است که او در صحنه رقص قسمت اخیر این سریال بر تن داشت و بازخورد گسترده‌ای در فضای مجازی داشته است."
+    "جمره بایسل، بازیگر نقش زینب در سریال محبوب «گل‌ها و گناهان» از شبکه Kanal D، اخیراً با لباس خود در صحنه رقص این سریال توجه زیادی را در شبکه‌های اجتماعی به خود جلب کرده است. این بازیگر تصاویر مربوط به این لباس را در فضای مجازی به اشتراک گذاشته است.",
+    "بر اساس گزارش‌ها، این پست و ظاهر شیک او با استقبال و بازخوردهای مثبت فراوانی از سوی دنبال‌کنندگانش مواجه شده است. همچنین به طور جداگانه ذکر شده است که این بازیگر با حمایت از پروژه‌های مسئولیت اجتماعی، از جمله پروژه «Pembe Top Sahada» با هدف تأکید بر اهمیت تشخیص زودرس سرطان سینه، فعالیت دارد."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 2,
+   "mergedIds": [
+    "fe9b9e8c15ce"
+   ],
+   "comparison": {
+    "agree": [
+     "جمره بایسل بازیگر نقش زینب در سریال «گل‌ها و گناهان» از شبکه Kanal D است.",
+     "لباس پوشیده شده توسط جمره بایسل در صحنه رقص سریال و اشتراک‌گذاری آن در شبکه‌های اجتماعی مورد توجه قرار گرفته است."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات تکمیلی درباره فعالیت‌های بازیگر و توضیحات پست",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "تنها به لباس صحنه رقص و واکنش‌های شبکه‌های اجتماعی به آن اشاره کرده است."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "اشاره کرده است که بایسل یادداشت «کمی جادو از تیمم برای صحنه» را روی پست خود نوشته و همچنین به حمایت او از پروژه «Pembe Top Sahada» درباره سرطان سینه پرداخته است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": [
+     "مورات ییلدیریم در نقش سرحات در صحنه رقص با جمره بایسل حضور داشته است (فقط در منبع دوم ذکر شده است)."
+    ]
+   }
   },
   {
    "id": "3fe9b6ad6ac6",
@@ -5261,6 +5345,44 @@
    "aiTries": 1
   },
   {
+   "id": "03b1a1202810",
+   "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3-yasindaki-yegenini-kaybetti-p367535",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü: 3 yaşındaki yeğenini kaybetti",
+   "snippet": "Özcan Deniz'in eşi Samar Dadgar'dan üzücü haber geldi. Sosyal medya hesabından yaptığı paylaşımla acısını duyuran Dadgar...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/813jpg-sYGlsUL2tU2GtKz31Cqy8A.jpg",
+   "video": null,
+   "published": "2026-10-09T05:44:32.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3-yasindaki-yegenini-kaybetti-p367535",
+     "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü: 3 yaşındaki yeğenini kaybetti",
+     "snippet": "Özcan Deniz'in eşi Samar Dadgar'dan üzücü haber geldi. Sosyal medya hesabından yaptığı paylaşımla acısını duyuran Dadgar...",
+     "published": "2026-10-09T05:44:32.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/813jpg-sYGlsUL2tU2GtKz31Cqy8A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/813jpg-sYGlsUL2tU2GtKz31Cqy8A.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/samar-dadgar-yegenijpg-u7ntzqf0Ok_mV-ytV3bUZg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/nihatkahvecidengalatasarayinyildizinayorumyenidendogmamaciolabilir6ac9d9e8cc403fabc1e4f2c9png-tMawcyDnQU_Bga32UG91Rw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac9d6d2cc403fabc1e1de97png-XiHZwrDROUC5XlOTI7gIew.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "432c1c450284",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kubilay-aka-asik-oldugumda-daha-duygusal-oluyorum-43334799",
    "source": "hurriyet-kelebek",
@@ -5618,6 +5740,44 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "455254783b74",
+   "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
+   "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atijpg-kZSErYcK8UaLThbvexys-g.jpg",
+   "video": null,
+   "published": "2026-10-09T04:38:42.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
+     "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
+     "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
+     "published": "2026-10-09T04:38:42.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atijpg-kZSErYcK8UaLThbvexys-g.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atijpg-kZSErYcK8UaLThbvexys-g.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/tasjpg-RZ8DYuTWmEi_WpUk8D_-hA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/nihatkahvecidengalatasarayinyildizinayorumyenidendogmamaciolabilir6ac9d9e8cc403fabc1e4f2c9png-tMawcyDnQU_Bga32UG91Rw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac9d6d2cc403fabc1e1de97png-XiHZwrDROUC5XlOTI7gIew.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "3044562525d1",
