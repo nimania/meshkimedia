@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T04:54:02.554Z",
+ "updated": "2026-10-10T05:02:34.051Z",
  "items": [
   {
    "id": "e803f5b05fc3",
@@ -1882,6 +1882,46 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "70ae523e9404",
+   "url": "https://www.sozcu.com.tr/sanat-camiasinin-aci-gunu-gonca-vuslateri-ve-hazal-kaya-dan-duygulandiran-taziye-mesaji-p367671",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Sanat camiasının acı günü: Gonca Vuslateri ve Hazal Kaya'dan duygulandıran taziye mesajı",
+   "snippet": "Yıllar boyunca birçok ünlü isimle setlerde çalışan Batu'nun hayatını kaybettiği öğrenildi. Acı haberi alan Hazal Kaya, G...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/batusanatcamiasijpg-XC0BWWvhw0mGRueuPxei7A.jpg",
+   "video": null,
+   "published": "2026-10-09T12:08:20.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "gonca-vuslateri"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sanat-camiasinin-aci-gunu-gonca-vuslateri-ve-hazal-kaya-dan-duygulandiran-taziye-mesaji-p367671",
+     "title": "Sanat camiasının acı günü: Gonca Vuslateri ve Hazal Kaya'dan duygulandıran taziye mesajı",
+     "snippet": "Yıllar boyunca birçok ünlü isimle setlerde çalışan Batu'nun hayatını kaybettiği öğrenildi. Acı haberi alan Hazal Kaya, G...",
+     "published": "2026-10-09T12:08:20.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/batusanatcamiasijpg-XC0BWWvhw0mGRueuPxei7A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/batusanatcamiasijpg-XC0BWWvhw0mGRueuPxei7A.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sanat-camiasinin-aci-gunu-unlu-isimlerle-setlerde-birlikte-calismisti-2jpg-5oWNmBhAxECH-dPZoyeCdQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sanat-camiasinin-aci-gunu-unlu-isimlerle-setlerde-birlikte-calismisti-1jpg-qYTbw-b9TUiNuhSl9kmJRg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sanat-camiasinin-aci-gunu-unlu-isimlerle-setlerde-birlikte-calismisti-4jpg-nQqQyrO9ykGfdtv0Cdxgkg.jpg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "0d5a22456454",
@@ -10595,6 +10635,39 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "4272a856afa4",
+   "url": "https://www.sozcu.com.tr/vefat-eden-ece-irtem-in-babasina-soyledigi-son-sozleri-yurekleri-burktu-p366981",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Vefat eden Ece İrtem'in babasına söylediği son sözleri yürekleri burktu",
+   "snippet": "“Kızılcık Şerbeti” dizisinde Işıl karakterini canlandıran Ece İrtem'in ani ölümü ailesini yasa boğdu. Acılı anne ve baba...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/167jpg-Aoh7OQz6BEOF4LKCJFznoQ.jpg",
+   "video": null,
+   "published": "2026-10-07T11:07:31.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "kizilcik-serbeti"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/vefat-eden-ece-irtem-in-babasina-soyledigi-son-sozleri-yurekleri-burktu-p366981",
+     "title": "Vefat eden Ece İrtem'in babasına söylediği son sözleri yürekleri burktu",
+     "snippet": "“Kızılcık Şerbeti” dizisinde Işıl karakterini canlandıran Ece İrtem'in ani ölümü ailesini yasa boğdu. Acılı anne ve baba...",
+     "published": "2026-10-07T11:07:31.000Z"
+    }
+   ]
   },
   {
    "id": "0ea327121ab3",
