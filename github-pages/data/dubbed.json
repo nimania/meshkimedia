@@ -8290,7 +8290,7 @@
           "slug": "original-1",
           "kind": "original",
           "status": "published",
-          "title": "پاورقی ارجینال — قسمت ۱",
+          "title": "پاورقی ارجینال قسمت ۱ | بحران دفتر دفنه و آشنایی با قادر و تولگا",
           "originalEpisode": 1,
           "paragraphs": [
             "دفنه درین، وکیل موفقی که بار مسئولیت خانواده را هم بر دوش دارد، برای سرپا نگه‌داشتن دفتر حقوقی‌اش با مشکل مالی روبه‌رو شده است. او با کار و تلاش خودش پیش آمده، اما بدهی‌ها حالا به جایی رسیده‌اند که ادامه کار دفتر به خطر افتاده است. دفنه می‌خواهد راهی برای نجات کسب‌وکارش پیدا کند، بدون اینکه استقلالی را که همیشه برایش مهم بوده از دست بدهد.",
@@ -8304,7 +8304,7 @@
             "قسمت اول پاسخ روشنی به این پرسش نمی‌دهد که دفنه چگونه از بحران مالی بیرون می‌آید یا رابطه‌اش با کدام‌یک از این دو مرد جدی خواهد شد. آنچه فعلاً روشن است، آغاز آشنایی سه شخصیت و شکست تلاش‌های اولیه دفنه برای حل مسئله دفتر وکالت است. جزئیات رویدادهای قسمت دوم، از جمله تلاش دفنه برای قانع‌کردن هر دو مرد و معرفی آن‌ها به مادر و خاله‌اش، به این پاورقی افزوده نشده‌اند."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده با اتکا به خلاصه و گزارش رسمی قسمت اول Show TV؛ متن کامل ویدئو بررسی نشده است. تقسیم فارسی تحریریه‌ای است و با مرز پخش دوبله یکسان دانسته نمی‌شود.",
+          "sourceNote": "روایت تحریریه بر پایه منابع رسمی Show TV و گزارش‌های ثبت‌شده؛ صحت تمام جزئیات و ترتیب صحنه‌ها هنوز با نسخه کامل ویدئویی بررسی نشده است.",
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3892034-muhtemel-ask-in-1-bolumunde-neler-olacak",
             "https://www.showtv.com.tr/dizi/haber/3892794-muhtemel-ask-romantik-hikayesiyle-ilk-bolumden-begeni-topladi",
@@ -8314,9 +8314,9 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 515,
-            "minimumTargetWords": 500,
+            "minimumTargetWords": 450,
             "textLengthStatus": "length-target-met",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "not-applicable",
@@ -8329,7 +8329,7 @@
           "slug": "dubbed-1",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش ۱",
+          "title": "پاورقی فارسی ۱ | بدهی‌های دفنه و درخواست کمک",
           "originalEpisode": 1,
           "persianEpisode": 1,
           "part": 1,
@@ -8341,7 +8341,7 @@
             "اوزلم، دوست دوران دانشگاه دفنه، به او کمک می‌کند تا با لونت دیدار کند؛ کسی که پیش‌تر هزینه تحصیل دفنه را با بورسیه تأمین کرده و اکنون به خانواده صاحب هلدینگ بارتینر تعلق دارد. درخواست کمک مالی برای دفنه آسان نیست. بااین‌حال، وقتی گزینه‌هایش محدود می‌شوند، راه ملاقات با لونت را دنبال می‌کند."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده با اتکا به خلاصه و گزارش رسمی قسمت اول Show TV؛ متن کامل ویدئو بررسی نشده است. تقسیم فارسی تحریریه‌ای است و با مرز پخش دوبله یکسان دانسته نمی‌شود.",
+          "sourceNote": "پاورقی فارسی بر اساس تقسیم‌بندی تحریریه مشکی‌مدیا از قسمت اصلی؛ شماره بخش به معنی شماره رسمی دوبله تلویزیونی نیست. متن و ترتیب صحنه‌ها به بازبینی ویدئوی کامل نیاز دارند.",
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3892034-muhtemel-ask-in-1-bolumunde-neler-olacak",
             "https://www.showtv.com.tr/dizi/haber/3892794-muhtemel-ask-romantik-hikayesiyle-ilk-bolumden-begeni-topladi",
@@ -8351,10 +8351,10 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 172,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
+            "minimumTargetWords": 150,
+            "textLengthStatus": "length-target-met",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false,
@@ -8366,7 +8366,7 @@
           "slug": "dubbed-2",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش ۲",
+          "title": "پاورقی فارسی ۲ | مهمانی و آشنایی با دو مرد",
           "originalEpisode": 1,
           "persianEpisode": 2,
           "part": 2,
@@ -8378,7 +8378,7 @@
             "در تبلیغات رسمی سریال همچنین آمده است که دفنه در جریان ملاقاتی برای کمک به یکی از دوستانش با قادر آشنا می‌شود. این برخورد و آشنایی با تولگا، دو مسیر عاطفی متفاوت در برابر دفنه قرار می‌دهد. هنوز روشن نیست این ارتباط‌ها به کجا می‌رسند؛ دفنه پیش از هر چیز باید راهی برای نجات دفترش پیدا کند."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده با اتکا به خلاصه و گزارش رسمی قسمت اول Show TV؛ متن کامل ویدئو بررسی نشده است. تقسیم فارسی تحریریه‌ای است و با مرز پخش دوبله یکسان دانسته نمی‌شود.",
+          "sourceNote": "پاورقی فارسی بر اساس تقسیم‌بندی تحریریه مشکی‌مدیا از قسمت اصلی؛ شماره بخش به معنی شماره رسمی دوبله تلویزیونی نیست. متن و ترتیب صحنه‌ها به بازبینی ویدئوی کامل نیاز دارند.",
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3892034-muhtemel-ask-in-1-bolumunde-neler-olacak",
             "https://www.showtv.com.tr/dizi/haber/3892794-muhtemel-ask-romantik-hikayesiyle-ilk-bolumden-begeni-topladi",
@@ -8388,10 +8388,10 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 161,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
+            "minimumTargetWords": 150,
+            "textLengthStatus": "length-target-met",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false,
@@ -8403,7 +8403,7 @@
           "slug": "dubbed-3",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش ۳",
+          "title": "پاورقی فارسی ۳ | دیدار غیرمنتظره قادر و تولگا",
           "originalEpisode": 1,
           "persianEpisode": 3,
           "part": 3,
@@ -8415,7 +8415,7 @@
             "قسمت اول پاسخ روشنی به این پرسش نمی‌دهد که دفنه چگونه از بحران مالی بیرون می‌آید یا رابطه‌اش با کدام‌یک از این دو مرد جدی خواهد شد. آنچه فعلاً روشن است، آغاز آشنایی سه شخصیت و شکست تلاش‌های اولیه دفنه برای حل مسئله دفتر وکالت است. جزئیات رویدادهای قسمت دوم، از جمله تلاش دفنه برای قانع‌کردن هر دو مرد و معرفی آن‌ها به مادر و خاله‌اش، به این پاورقی افزوده نشده‌اند."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده با اتکا به خلاصه و گزارش رسمی قسمت اول Show TV؛ متن کامل ویدئو بررسی نشده است. تقسیم فارسی تحریریه‌ای است و با مرز پخش دوبله یکسان دانسته نمی‌شود.",
+          "sourceNote": "پاورقی فارسی بر اساس تقسیم‌بندی تحریریه مشکی‌مدیا از قسمت اصلی؛ شماره بخش به معنی شماره رسمی دوبله تلویزیونی نیست. متن و ترتیب صحنه‌ها به بازبینی ویدئوی کامل نیاز دارند.",
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3892034-muhtemel-ask-in-1-bolumunde-neler-olacak",
             "https://www.showtv.com.tr/dizi/haber/3892794-muhtemel-ask-romantik-hikayesiyle-ilk-bolumden-begeni-topladi",
@@ -8425,10 +8425,10 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 182,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
+            "minimumTargetWords": 150,
+            "textLengthStatus": "length-target-met",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false,
@@ -8440,7 +8440,7 @@
           "status": "published",
           "originalEpisode": 2,
           "publishedAt": "2026-10-09",
-          "sourceNote": "بازنویسی داستانی بر اساس گزارش رسمی پس از پخش قسمت دوم Show TV. جزئیات صحنه‌ها محدود به موارد تأییدشده است؛ سه بخش فارسی برش تحریریه‌اند و با برش واقعی GEM/MBC یکی دانسته نمی‌شوند.",
+          "sourceNote": "پاورقی فارسی بر اساس تقسیم‌بندی تحریریه مشکی‌مدیا از قسمت اصلی؛ شماره بخش به معنی شماره رسمی دوبله تلویزیونی نیست. متن و ترتیب صحنه‌ها به بازبینی ویدئوی کامل نیاز دارند.",
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3894367-muhtemel-ask-tum-kategorilerde-zirvede",
             "https://www.showtv.com.tr/dizi/haber/3893616-muhtemel-ask-in-2-bolumunde-neler-olacak"
@@ -8449,7 +8449,7 @@
           "audioUrl": "",
           "slug": "dubbed-4",
           "kind": "dubbed",
-          "title": "پاورقی فارسی — بخش 4",
+          "title": "پاورقی فارسی ۴ | اختلاف دو مرد و تهدید توقیف دفتر",
           "persianEpisode": 4,
           "part": 4,
           "boundaryStatus": "editorial-cut-not-broadcaster",
@@ -8460,10 +8460,10 @@
             "دفنه برای متقاعد کردن قادر به خانه و سپس مزرعه او می‌رود و با جنبه‌های تازه‌ای از زندگی او آشنا می‌شود. بااین‌حال، خواهش‌هایش نتیجه فوری ندارد و پاسخ قادر منفی است. دفنه ناامید به دفتر برمی‌گردد، اما آنجا با صحنه‌ای بدتر مواجه می‌شود: مأموران اجرای بدهی به دفتر رسیده‌اند. خطری که پیش‌تر می‌کوشید آن را عقب بیندازد، حالا درست پیش رویش قرار دارد."
           ],
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 195,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
+            "minimumTargetWords": 150,
+            "textLengthStatus": "length-target-met",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false,
@@ -8475,7 +8475,7 @@
           "status": "published",
           "originalEpisode": 2,
           "publishedAt": "2026-10-09",
-          "sourceNote": "بازنویسی داستانی بر اساس گزارش رسمی پس از پخش قسمت دوم Show TV. جزئیات صحنه‌ها محدود به موارد تأییدشده است؛ سه بخش فارسی برش تحریریه‌اند و با برش واقعی GEM/MBC یکی دانسته نمی‌شوند.",
+          "sourceNote": "پاورقی فارسی بر اساس تقسیم‌بندی تحریریه مشکی‌مدیا از قسمت اصلی؛ شماره بخش به معنی شماره رسمی دوبله تلویزیونی نیست. متن و ترتیب صحنه‌ها به بازبینی ویدئوی کامل نیاز دارند.",
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3894367-muhtemel-ask-tum-kategorilerde-zirvede",
             "https://www.showtv.com.tr/dizi/haber/3893616-muhtemel-ask-in-2-bolumunde-neler-olacak"
@@ -8484,7 +8484,7 @@
           "audioUrl": "",
           "slug": "dubbed-5",
           "kind": "dubbed",
-          "title": "پاورقی فارسی — بخش 5",
+          "title": "پاورقی فارسی ۵ | قرارداد دشوار و امید تازه",
           "persianEpisode": 5,
           "part": 5,
           "boundaryStatus": "editorial-cut-not-broadcaster",
@@ -8495,10 +8495,10 @@
             "لونت قرارداد همکاری را با شرط‌هایی سنگین آماده می‌کند. دفنه آن را امضا می‌کند و در نقش وکیل پروژه، خود را در برابر مسئولیت‌های تازه‌ای قرار می‌دهد. شرکت از بحران فوری فاصله می‌گیرد، اما او حالا باید در میانه دو مردی کار کند که از روز اول به هم اعتماد نداشته‌اند. روایت رسمی قسمت دوم همچنین به سفر اسب‌سواری دفنه و قادر در جنگل اشاره می‌کند؛ یکی از برخوردهایی که نزدیکی آن دو را بیشتر نشان می‌دهد."
           ],
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 202,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
+            "minimumTargetWords": 150,
+            "textLengthStatus": "length-target-met",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false,
@@ -8510,7 +8510,7 @@
           "status": "published",
           "originalEpisode": 2,
           "publishedAt": "2026-10-09",
-          "sourceNote": "بازنویسی داستانی بر اساس گزارش رسمی پس از پخش قسمت دوم Show TV. جزئیات صحنه‌ها محدود به موارد تأییدشده است؛ سه بخش فارسی برش تحریریه‌اند و با برش واقعی GEM/MBC یکی دانسته نمی‌شوند.",
+          "sourceNote": "پاورقی فارسی بر اساس تقسیم‌بندی تحریریه مشکی‌مدیا از قسمت اصلی؛ شماره بخش به معنی شماره رسمی دوبله تلویزیونی نیست. متن و ترتیب صحنه‌ها به بازبینی ویدئوی کامل نیاز دارند.",
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3894367-muhtemel-ask-tum-kategorilerde-zirvede",
             "https://www.showtv.com.tr/dizi/haber/3893616-muhtemel-ask-in-2-bolumunde-neler-olacak"
@@ -8519,7 +8519,7 @@
           "audioUrl": "",
           "slug": "dubbed-6",
           "kind": "dubbed",
-          "title": "پاورقی فارسی — بخش 6",
+          "title": "پاورقی فارسی ۶ | بازگشت همسر قادر",
           "persianEpisode": 6,
           "part": 6,
           "boundaryStatus": "editorial-cut-not-broadcaster",
@@ -8530,10 +8530,10 @@
             "همسر قادر به خانه برگشته است. قادر هم به دفنه می‌گوید تصمیمشان برای طلاق لغو شده است. این خبر پایان تکان‌دهنده قسمت دوم است: دفنه که تازه از بحران کاری اندکی فاصله گرفته و رابطه‌اش با قادر شکل دیگری پیدا کرده بود، حالا درمی‌یابد مردی که به او نزدیک شده همچنان به ازدواجش بازگشته است. ادامه این گره عاطفی به قسمت‌های بعد مربوط می‌شود."
           ],
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 184,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
+            "minimumTargetWords": 150,
+            "textLengthStatus": "length-target-met",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false,
@@ -8545,7 +8545,7 @@
           "slug": "original-2",
           "kind": "original",
           "status": "published",
-          "title": "پاورقی ارجینال — قسمت 2",
+          "title": "پاورقی ارجینال قسمت ۲ | همکاری اجباری و راز زندگی قادر",
           "originalEpisode": 2,
           "paragraphs": [
             "پایان قسمت اول برای دفنه دردسر تازه‌ای به‌جا گذاشته است. وقتی دو مردی که به‌تازگی وارد زندگی‌اش شده‌اند، یعنی قادر امینداغ و تولگا ارز، مقابل خانه‌اش با یکدیگر درگیر می‌شوند، خانواده دفنه هم شاهد ماجرا هستند. مینه و سوزان خیلی زود متوجه می‌شوند که دو مرد با خلق‌وخوی متفاوت، هر دو در اطراف دفنه حضور پیدا کرده‌اند. اما خود دفنه در این لحظه بیش از هر چیز نگران دفتر وکالتش است.",
@@ -8558,7 +8558,7 @@
             "قادر پیش از اینکه احساسش را بیان کند، تماس را تمام می‌کند. دفنه که می‌خواهد سوءتفاهم را برطرف کند، به خانه او می‌رود. انتظار دارد با قادر صحبت کند و بداند میانشان چه اتفاقی افتاده است، ولی دیدارش مسیر دیگری پیدا می‌کند. در خانه با واقعیتی مواجه می‌شود که تا آن لحظه از آن خبر نداشته است.",
             "همسر قادر به خانه برگشته است. قادر هم به دفنه می‌گوید تصمیمشان برای طلاق لغو شده است. این خبر پایان تکان‌دهنده قسمت دوم است: دفنه که تازه از بحران کاری اندکی فاصله گرفته و رابطه‌اش با قادر شکل دیگری پیدا کرده بود، حالا درمی‌یابد مردی که به او نزدیک شده همچنان به ازدواجش بازگشته است. ادامه این گره عاطفی به قسمت‌های بعد مربوط می‌شود."
           ],
-          "sourceNote": "بازنویسی داستانی بر اساس گزارش رسمی پس از پخش قسمت دوم Show TV. جزئیات صحنه‌ها محدود به موارد تأییدشده است؛ سه بخش فارسی برش تحریریه‌اند و با برش واقعی GEM/MBC یکی دانسته نمی‌شوند.",
+          "sourceNote": "روایت تحریریه بر پایه منابع رسمی Show TV و گزارش‌های ثبت‌شده؛ صحت تمام جزئیات و ترتیب صحنه‌ها هنوز با نسخه کامل ویدئویی بررسی نشده است.",
           "verifiedSourceUrls": [
             "https://www.showtv.com.tr/dizi/haber/3894367-muhtemel-ask-tum-kategorilerde-zirvede",
             "https://www.showtv.com.tr/dizi/haber/3893616-muhtemel-ask-in-2-bolumunde-neler-olacak"
@@ -8567,9 +8567,9 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 581,
-            "minimumTargetWords": 500,
+            "minimumTargetWords": 450,
             "textLengthStatus": "length-target-met",
             "sourceStatus": "source-links-recorded-needs-content-verification",
             "broadcastAlignment": "not-applicable",
@@ -8590,7 +8590,15 @@
         "transcriptStatus": "not-acquired",
         "dubbedMappingStatus": "unverified",
         "publicationStatus": "published-partial-coverage",
-        "publicationAuditNote": "Published catalog entries exist; full broadcast coverage and source verification not established (audit 2026-10-09)."
+        "publicationAuditNote": "Published catalog entries exist; full broadcast coverage and source verification not established (audit 2026-10-09).",
+        "editorialPriority": 2,
+        "completionStatus": "existing-two-episodes-editorially-organized-video-review-pending",
+        "currentScope": "two-original-episodes-six-Persian-editorial-segments",
+        "requiredBeforeFinal": [
+          "Review original full episodes against prose",
+          "Verify postbroadcast scene claims",
+          "Check broadcaster dubbed segmentation before labeling as official"
+        ]
       }
     },
     {
