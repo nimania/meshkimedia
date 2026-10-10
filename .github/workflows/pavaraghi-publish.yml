@@ -1,0 +1,48 @@
+name: Publish updated Pavaraghi pages
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'github-pages/data/dubbed.json'
+      - 'automation/build-site.mjs'
+      - '.github/workflows/pavaraghi-publish.yml'
+permissions:
+  contents: write
+concurrency:
+  group: publish-pavaraghi-static-pages
+  cancel-in-progress: false
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Generate static pages from current catalog
+        run: node automation/build-site.mjs
+      - name: Assert expanded Tuzlu Kahve original episode 2 was generated
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          page = Path('github-pages/pavaraghi/tuzlu-kahve/original-2/index.html')
+          assert page.exists(), f'Missing generated page: {page}'
+          text = page.read_text(encoding='utf-8')
+          expected = 'قسمت دوم «قهوه شور» از همان جایی راه می‌افتد'
+          assert expected in text, 'Pavaraghi page still has old opening paragraph'
+          assert 'ورود ترکان' in text, 'Pavaraghi page missing expanded story section'
+          print('Verified updated original episode 2 page is generated')
+          PY
+      - name: Commit generated Pavaraghi pages
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add github-pages/pavaraghi/ github-pages/data/search-index.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Build updated Pavaraghi article pages from catalog'
+            git push
+          fi
