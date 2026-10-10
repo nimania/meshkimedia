@@ -1,6 +1,93 @@
 {
- "updated": "2026-10-09T21:00:43.238Z",
+ "updated": "2026-10-10T00:55:20.678Z",
  "items": [
+  {
+   "id": "6b55c12dcb2d",
+   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/en-cok-merak-edilenler-43336159",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "En çok merak edilenler...",
+   "snippet": "Haftanın seçkisinde pazartesi raflara çıkacak olan Booker ödüllü ‘Tayvan Seyahatnamesi’ de var.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac968c88562bad6a4dfdc64.jpg",
+   "video": null,
+   "published": "2026-10-09T22:21:01.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/en-cok-merak-edilenler-43336159",
+     "title": "En çok merak edilenler...",
+     "snippet": "Haftanın seçkisinde pazartesi raflara çıkacak olan Booker ödüllü ‘Tayvan Seyahatnamesi’ de var.",
+     "published": "2026-10-09T22:21:01.000Z",
+     "titleFa": "بیشترین کنجکاوی‌ها..."
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac968c88562bad6a4dfdc64.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac968c88562bad6a4dfdc64.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "کتاب‌های مورد توجه هفته",
+   "summaryFa": "کتاب «سفرنامه تایوان» برنده جایزه بوکر در گزیده اخبار این هفته معرفی شد.",
+   "bodyFa": [
+    "در گزیده اخبار این هفته، کتاب «سفرنامه تایوان» که برنده جایزه بوکر شده است، معرفی شد.",
+    "این کتاب قرار است روز دوشنبه در قفسه کتاب‌فروشی‌ها عرضه شود."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "69552948c23a",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/askini-ilan-etti-derya-pinar-ak-ve-sevgilisinden-romantik-kare-7676538",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Aşkını ilan etti! Derya Pınar Ak ve sevgilisinden romantik kare",
+   "snippet": "'Sultana' filmindeki rolüyle son dönemde adından sıkça söz ettiren oyuncu Derya Pınar Ak, sevgilisi Muammer Akmeşe ile birlikte olduğu aşk dolu pozu sosyal medyadan takipçileriyle paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac959e3f15b2619d4a3c51a.jpg",
+   "video": null,
+   "published": "2026-10-09T21:19:55.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "derya-pinar-ak"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/askini-ilan-etti-derya-pinar-ak-ve-sevgilisinden-romantik-kare-7676538",
+     "title": "Aşkını ilan etti! Derya Pınar Ak ve sevgilisinden romantik kare",
+     "snippet": "'Sultana' filmindeki rolüyle son dönemde adından sıkça söz ettiren oyuncu Derya Pınar Ak, sevgilisi Muammer Akmeşe ile birlikte olduğu aşk dolu pozu sosyal medyadan takipçileriyle paylaştı.",
+     "published": "2026-10-09T21:19:55.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac959e3f15b2619d4a3c51a.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac959e3f15b2619d4a3c51a.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "a72ce805ef75",
    "url": "https://www.milliyet.com.tr/magazin/galeri/begeni-yagdi-yagmur-yukselden-patili-dostuyla-ic-isitan-poz-7676506",
@@ -102,7 +189,8 @@
      "url": "https://www.milliyet.com.tr/magazin/survivor-sude-burcu-instagramdan-gelen-mesaji-ifsa-etti-sert-sozlerle-yanit-verdi-7676483",
      "title": "Survivor Sude Burcu Instagram'dan gelen mesajı ifşa etti! Sert sözlerle yanıt verdi",
      "snippet": "HABER MERKEZİ - Survivor yarışmasıyla adını duyuran Mert Öcal, bir süredir aşk yaşadığı sevgilisi Sude Burcu ile 2022 yılında aile arasında düzenlenen bir törenle nişanlanmıştı. Survivor All Star 2022'ye aşklarıyla damga vuran Mert Öcal ve Sude Burcu, 2024'te Eylül ayında evlenmişti. Atilla Taş'ın k",
-     "published": "2026-10-09T18:36:52.000Z"
+     "published": "2026-10-09T18:36:52.000Z",
+     "titleFa": "سوده بورجو از مسابقه سوروایور پیام دریافتی در اینستاگرام را افشا کرد! با کلمات تندی پاسخ داد"
     }
    ],
    "images": [
@@ -113,7 +201,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "سوده بورجو پیام دریافتی در اینستاگرام را افشا کرد و پاسخ تندی داد",
+   "summaryFa": "سوده بورجو که به همراه مرت اوجال در مسابقه سوروایور شناخته شده بود، اخیراً پیامی را که در شبکه‌های اجتماعی دریافت کرده بود، با مخاطبان به اشتراک گذاشت و واکنش تندی به آن نشان داد. زندگی مشترک این زوج که در سپتامبر ۲۰۲۴ ازدواج کرده بودند، همچنان ادامه دارد.",
+   "bodyFa": [
+    "سوده بورجو و مرت اوجال که با حضور در مسابقه سوروایور شناخته شده و رابطه عاشقانه‌شان در فصل ۲۰۲۲ توجه زیادی جلب کرده بود، پس از نامزدی در همان سال، در سپتامبر ۲۰۲۴ با یکدیگر ازدواج کردند. زندگی مشترک این زوج همچنان ادامه دارد و آن‌ها اخیراً تجربه جدیدی از زندگی خانوادگی را از سر می‌گذرانند.",
+    "به تازگی سوده بورجو پیامی را که از یکی از کاربران در شبکه‌های اجتماعی دریافت کرده بود، در صفحه خود افشا کرد و با کلماتی تند پاسخ این فالوور را داد. جزئیات بیشتری درباره محتوای پیام دریافت شده در این گزارش ذکر نشده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "104ea58b511b",
@@ -10829,35 +10925,6 @@
     }
    ],
    "mediaDone": true
-  },
-  {
-   "id": "5d30f288c695",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/oyunculugun-devami-gelecek-43332166",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Oyunculuğun devamı gelecek",
-   "snippet": "Birkan Sokullu ve Eda Gürkaynak çifti önceki gün Etiler’de görüntülendi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac5dff4fc033b5a8af9ed4c.jpg",
-   "video": null,
-   "published": "2026-10-07T06:01:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/oyunculugun-devami-gelecek-43332166",
-     "title": "Oyunculuğun devamı gelecek",
-     "snippet": "Birkan Sokullu ve Eda Gürkaynak çifti önceki gün Etiler’de görüntülendi.",
-     "published": "2026-10-07T06:01:00.000Z"
-    }
-   ]
   },
   {
    "id": "47d95cee1521",
