@@ -1,0 +1,43 @@
+name: Publish Meshki Media - fast static recovery
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "automation/build-site.mjs"
+      - "github-pages/data/dubbed.json"
+      - "github-pages/pavaraghi/amade-zabt/index.html"
+      - ".github/workflows/publish-pages-fast.yml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build static site from committed data, without Gemini or news collection
+        run: node automation/build-site.mjs
+      - name: Confirm recording page exists
+        run: test -s github-pages/pavaraghi/amade-zabt/index.html
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: github-pages
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
