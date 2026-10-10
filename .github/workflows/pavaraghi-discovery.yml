@@ -1,0 +1,30 @@
+name: Pavaraghi multilingual subtitle discovery
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: pavaraghi-discovery
+  cancel-in-progress: false
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Discover potential subtitle sources
+        run: python scripts/pavaraghi_multilingual_discovery.py
+      - name: Commit candidate status if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-pages/data/pavaraghi-discovery-status.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update multilingual subtitle discovery queue"
+            git push
+          fi
