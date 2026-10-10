@@ -1,6 +1,166 @@
 {
- "updated": "2026-10-10T05:33:57.438Z",
+ "updated": "2026-10-10T05:37:36.228Z",
  "items": [
+  {
+   "id": "85897583e714",
+   "url": "https://www.hurriyet.com.tr/kelebek/stil/hadise-turkmenistan-yolcusu-43336229",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Hadise Türkmenistan yolcusu",
+   "snippet": "Hadise önceki akşam İstanbul Havalimanı’nda görüntülendi.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9cd0b8562bad6a4dfdd43.jpg",
+   "video": null,
+   "published": "2026-10-10T05:28:57.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/hadise-turkmenistan-yolcusu-43336229",
+     "title": "Hadise Türkmenistan yolcusu",
+     "snippet": "Hadise önceki akşam İstanbul Havalimanı’nda görüntülendi.",
+     "published": "2026-10-10T05:28:57.000Z"
+    }
+   ]
+  },
+  {
+   "id": "ac767e61ab63",
+   "url": "https://www.haberturk.com/magazin/khabib-nurmagomedov-nisantasi-nda-alisveris-yapti-3918572",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Nişantaşı'nda alışveriş yaptı",
+   "snippet": "Dünyaca ünlü karma dövüş sanatçısı Khabib Nurmagomedov İstanbul'a geldi. Nurmagomedov, Nişantaşı'nda iki valiz dolusu alışveriş yaptı",
+   "image": "https://im.haberturk.com/l/2026/10/09/ver1791570590/3918572/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-10T05:28:41.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/khabib-nurmagomedov-nisantasi-nda-alisveris-yapti-3918572",
+     "title": "Nişantaşı'nda alışveriş yaptı",
+     "snippet": "Dünyaca ünlü karma dövüş sanatçısı Khabib Nurmagomedov İstanbul'a geldi. Nurmagomedov, Nişantaşı'nda iki valiz dolusu alışveriş yaptı",
+     "published": "2026-10-10T05:28:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": "7b8f690d70de",
+   "url": "https://www.hurriyet.com.tr/kelebek/stil/50-ulkede-vizyona-girecek-43336226",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "50 ülkede vizyona girecek",
+   "snippet": "Halit Ergenç ve Meryem Uzerli’yi buluşturan “İmroz’da Bahar” uluslararası yolculuğuna başlıyor.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9cc7a8562bad6a4dfdd37.jpg",
+   "video": null,
+   "published": "2026-10-10T05:26:40.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/50-ulkede-vizyona-girecek-43336226",
+     "title": "50 ülkede vizyona girecek",
+     "snippet": "Halit Ergenç ve Meryem Uzerli’yi buluşturan “İmroz’da Bahar” uluslararası yolculuğuna başlıyor.",
+     "published": "2026-10-10T05:26:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": "716f14b0181c",
+   "url": "https://www.hurriyet.com.tr/kelebek/stil/erken-surpriz-43336222",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Erken sürpriz",
+   "snippet": "Hülya Avşar bugün 63 yaşına giriyor.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9cbd78562bad6a4dfdd2d.jpg",
+   "video": null,
+   "published": "2026-10-10T05:23:56.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/erken-surpriz-43336222",
+     "title": "Erken sürpriz",
+     "snippet": "Hülya Avşar bugün 63 yaşına giriyor.",
+     "published": "2026-10-10T05:23:56.000Z"
+    }
+   ]
+  },
+  {
+   "id": "346ae7907885",
+   "url": "https://www.hurriyet.com.tr/kelebek/stil/zeynepe-sihirli-dokunus-43336219",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Zeynep’e sihirli dokunuş",
+   "snippet": "Kanal D’nin sevilen dizisi “Güller ve Günahlar”ın Zeynep’i Cemre Baysel, son bölümdeki dans sahnesinde giydiği kıyafetle yaptığı paylaşımla sosyal medyayı hareketlendirdi.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9cb5b8562bad6a4dfdd23.jpg",
+   "video": null,
+   "published": "2026-10-10T05:22:01.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "guller-ve-gunahlar"
+    ],
+    "people": [
+     "cemre-baysel"
+    ],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/zeynepe-sihirli-dokunus-43336219",
+     "title": "Zeynep’e sihirli dokunuş",
+     "snippet": "Kanal D’nin sevilen dizisi “Güller ve Günahlar”ın Zeynep’i Cemre Baysel, son bölümdeki dans sahnesinde giydiği kıyafetle yaptığı paylaşımla sosyal medyayı hareketlendirdi.",
+     "published": "2026-10-10T05:22:01.000Z"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9cb5b8562bad6a4dfdd23.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac9cb5b8562bad6a4dfdd23.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "3fe9b6ad6ac6",
    "url": "https://www.haberturk.com/magazin/mert-kilic-aslihan-asker-gibidir-3918601",
@@ -2010,6 +2170,46 @@
    "aiTries": 1
   },
   {
+   "id": "70ae523e9404",
+   "url": "https://www.sozcu.com.tr/sanat-camiasinin-aci-gunu-gonca-vuslateri-ve-hazal-kaya-dan-duygulandiran-taziye-mesaji-p367671",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Sanat camiasının acı günü: Gonca Vuslateri ve Hazal Kaya'dan duygulandıran taziye mesajı",
+   "snippet": "Yıllar boyunca birçok ünlü isimle setlerde çalışan Batu'nun hayatını kaybettiği öğrenildi. Acı haberi alan Hazal Kaya, G...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/batusanatcamiasijpg-XC0BWWvhw0mGRueuPxei7A.jpg",
+   "video": null,
+   "published": "2026-10-09T12:08:20.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "gonca-vuslateri"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sanat-camiasinin-aci-gunu-gonca-vuslateri-ve-hazal-kaya-dan-duygulandiran-taziye-mesaji-p367671",
+     "title": "Sanat camiasının acı günü: Gonca Vuslateri ve Hazal Kaya'dan duygulandıran taziye mesajı",
+     "snippet": "Yıllar boyunca birçok ünlü isimle setlerde çalışan Batu'nun hayatını kaybettiği öğrenildi. Acı haberi alan Hazal Kaya, G...",
+     "published": "2026-10-09T12:08:20.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/batusanatcamiasijpg-XC0BWWvhw0mGRueuPxei7A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/batusanatcamiasijpg-XC0BWWvhw0mGRueuPxei7A.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sanat-camiasinin-aci-gunu-unlu-isimlerle-setlerde-birlikte-calismisti-2jpg-5oWNmBhAxECH-dPZoyeCdQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sanat-camiasinin-aci-gunu-unlu-isimlerle-setlerde-birlikte-calismisti-1jpg-qYTbw-b9TUiNuhSl9kmJRg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sanat-camiasinin-aci-gunu-unlu-isimlerle-setlerde-birlikte-calismisti-4jpg-nQqQyrO9ykGfdtv0Cdxgkg.jpg"
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "0d5a22456454",
    "url": "https://www.milliyet.com.tr/magazin/galeri/atilla-tasin-kizi-gozyaslari-arasinda-topraga-verildi-7676311",
    "source": "milliyet-magazin",
@@ -2845,6 +3045,46 @@
      "published": "2026-10-09T08:49:00.000Z"
     }
    ]
+  },
+  {
+   "id": "5e93fb30ff5e",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/sanat-camiasini-yasa-bogan-olum-unlu-isimlerden-batuya-pes-pese-veda-7676213",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Sanat camiasını yasa boğan ölüm! Ünlü isimlerden Batu’ya peş peşe veda",
+   "snippet": "Uzun yıllar birçok ünlü isimle setlerde çalışan Batu’nun hayatını kaybetmesi sanat camiasını yasa boğdu. Ölüm nedeni henüz açıklanmazken Hazal Kaya, Ceyda Ateş, Gonca Vuslateri ve Gözde Seda Altuner sosyal medya hesaplarından peş peşe veda mesajları paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac8a6faf15b2619d4a3bdc0.jpg",
+   "video": null,
+   "published": "2026-10-09T08:38:39.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "gonca-vuslateri"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/sanat-camiasini-yasa-bogan-olum-unlu-isimlerden-batuya-pes-pese-veda-7676213",
+     "title": "Sanat camiasını yasa boğan ölüm! Ünlü isimlerden Batu’ya peş peşe veda",
+     "snippet": "Uzun yıllar birçok ünlü isimle setlerde çalışan Batu’nun hayatını kaybetmesi sanat camiasını yasa boğdu. Ölüm nedeni henüz açıklanmazken Hazal Kaya, Ceyda Ateş, Gonca Vuslateri ve Gözde Seda Altuner sosyal medya hesaplarından peş peşe veda mesajları paylaştı.",
+     "published": "2026-10-09T08:38:39.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac8a6faf15b2619d4a3bdc0.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac8a6faf15b2619d4a3bdc0.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "dfdeece3fb8a",
@@ -10179,186 +10419,6 @@
    "bodyFa": [
     "امره آلتوغ، چهره موسیقی پاپ ترکیه، با نمایش تازه خود تحت عنوان «یک افسانه پاپ» در هاربیه به اجرای برنامه پرداخت. او پیش از آغاز این کنسرت در گفتگویی شرکت کرد و درباره این اثر توضیحاتی ارائه داد.",
     "به گفته آلتوغ، این برنامه برای او اهمیت زیادی دارد و در واقع تحقق رویایی است که از دو سال پیش در سر داشته است. در این پروژه، مجموعه‌ای از آثار و قطعات برگزیده مربوط به سیر ۷۰ ساله موسیقی پاپ ترکیه به مخاطبان ارائه می‌شود."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "17482c899b6d",
-   "url": "https://www.sozcu.com.tr/hatipoglu-nun-tiktok-ta-gecede-300-400-bin-lira-kazaniyor-sozleri-sonrasi-gozler-o-yarismaciya-p367070",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Hatipoğlu’nun ‘TikTok’ta gecede 300-400 bin lira kazanıyor’ sözleri sonrası gözler o yarışmacıya çevrildi",
-   "snippet": "Eski Survivor yarışmacısı Hakan Hatipoğlu'nun TikTok canlı yayınlarıyla ilgili, \"Eski bir Survivor yarışmacısı gecede 30...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/instagram-400-bin-tl-kazanan-survivorjpg-w0Z1HYAb_kyEHuYNrmjeqA.jpg",
-   "video": null,
-   "published": "2026-10-07T15:15:59.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/hatipoglu-nun-tiktok-ta-gecede-300-400-bin-lira-kazaniyor-sozleri-sonrasi-gozler-o-yarismaciya-p367070",
-     "title": "Hatipoğlu’nun ‘TikTok’ta gecede 300-400 bin lira kazanıyor’ sözleri sonrası gözler o yarışmacıya çevrildi",
-     "snippet": "Eski Survivor yarışmacısı Hakan Hatipoğlu'nun TikTok canlı yayınlarıyla ilgili, \"Eski bir Survivor yarışmacısı gecede 30...",
-     "published": "2026-10-07T15:15:59.000Z",
-     "titleFa": "سخنان هاتیپ‌اوغلو درباره کسب درآمد ۳۰۰ تا ۴۰۰ هزار لیره‌ای در هر شب در تیک‌تاک، نگاه‌ها را به آن شرکت‌کننده دوخت"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/asena-survivorjpg-WUDIEV5bYka8GUzfq8pp2Q.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/asena-survivor-demirbag-tiktokjpg-ydSyH6CROk2UgEg_vO-r9Q.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/asena-demirbag-survivorjpg-1kHucGJHnUuRUQFd5jPNGQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/kredi-karti-ekstrelerinde-buyuk-degisimpng-LKpOkCiHG06SMg1t6BwuQQ.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac64f66d83705fac6f8f3d9png-TOwIsO8-tEGvisk9ns3EcQ.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "اظهارات هاکان هاتیپ‌اوغلو درباره درآمد ۳۰۰ تا ۴۰۰ هزار لیره‌ای یک شرکت‌کننده سابق سورایور در تیک‌تاک",
-   "summaryFa": "هاکان هاتیپ‌اوغلو ادعا کرد که یک شرکت‌کننده سابق مسابقه سورایور در هر شب بین ۳۰۰ تا ۴۰۰ هزار لیر از تیک‌تاک درآمد دارد. با وجود اینکه او نامی نبرد، در شبکه‌های اجتماعی ادعا شد که این شخص آصنا دمیرباغ است.",
-   "bodyFa": [
-    "هاکان هاتیپ‌اوغلو، شرکت‌کننده سابق مسابقه سورایور، در اظهاراتی درباره پخش‌های زنده تیک‌تاک اعلام کرد که یکی از شرکت‌کنندگان سابق این مسابقه می‌تواند در هر شب بین ۳۰۰ تا ۴۰۰ هزار لیر درآمد کسب کند. این ادعا بازتاب زیادی در اخبار مجله‌ای داشت.",
-    "اگرچه هاتیپ‌اوغلو در صحبت‌های خود به هیچ شخص مشخصی اشاره نکرد و نامی نیاورد، اما پس از این اظهارات، کاربران در شبکه‌های اجتماعی مدعی شدند که فرد مورد نظر آصنا دمیرباغ است. این ادعاها در حال حاضر در سطح گمانه‌زنی‌های فضای مجازی مطرح است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "15b9ae674028",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/neslihan-atagul-mutfakta-marifetlerini-konusturdu-7675140",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Neslihan Atagül mutfakta marifetlerini konuşturdu",
-   "snippet": "Geçtiğimiz yıl oğlu Aziz’i kucağına alarak ilk kez anne olan Neslihan Atagül, bu kez mutfaktan yaptığı paylaşımla gündeme geldi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac65b4a0a5e93da6e8a141f.jpg",
-   "video": null,
-   "published": "2026-10-07T14:52:09.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/neslihan-atagul-mutfakta-marifetlerini-konusturdu-7675140",
-     "title": "Neslihan Atagül mutfakta marifetlerini konuşturdu",
-     "snippet": "Geçtiğimiz yıl oğlu Aziz’i kucağına alarak ilk kez anne olan Neslihan Atagül, bu kez mutfaktan yaptığı paylaşımla gündeme geldi.",
-     "published": "2026-10-07T14:52:09.000Z",
-     "titleFa": "نسلیهان آتاگول مهارت‌هایش را در آشپزخانه به رخ کشید"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac65b4a0a5e93da6e8a141f.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac65b4a0a5e93da6e8a141f.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "هنرنمایی نسلیهان آتاگول در آشپزخانه",
-   "summaryFa": "نسلیهان آتاگول که سال گذشته با تولد پسرش عزیز برای نخستین بار مادر شد، با انتشار پستی از آشپزخانه خبرساز شد.",
-   "bodyFa": [
-    "نسلیهان آتاگول که سال گذشته با به دنیا آوردن پسرش عزیز برای نخستین بار مادر شدن را تجربه کرده بود، این بار با انتشار پستی از آشپزخانه در کانون توجه قرار گرفت. او در این تصویر و اشتراک‌گذاری جدید، مهارت‌های خود را در آشپزی به نمایش گذاشته است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "5a656b88a09f",
-   "url": "https://www.haberturk.com/magazin/unlu-oyuncu-george-clooney-fransa-da-restoran-acti-3917944",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Restorancı oluyor",
-   "snippet": "Eşi ve çocuklarıyla birlikte Fransız vatandaşlığı alan ve Fransa'da yaşamaya başlayan George Clooney, ülkede restoran işine giriyor",
-   "image": "https://im.haberturk.com/l/2026/10/07/ver1791381968/3917944/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-07T14:14:37.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/unlu-oyuncu-george-clooney-fransa-da-restoran-acti-3917944",
-     "title": "Restorancı oluyor",
-     "snippet": "Eşi ve çocuklarıyla birlikte Fransız vatandaşlığı alan ve Fransa'da yaşamaya başlayan George Clooney, ülkede restoran işine giriyor",
-     "published": "2026-10-07T14:14:37.000Z",
-     "titleFa": "رستوران‌دار می‌شود"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "جورج کلونی در فرانسه رستوران‌دار می‌شود",
-   "summaryFa": "جورج کلونی، ستاره هالیوود، قصد دارد با همکاری یک هتل‌دار کانادایی، یک رستوران ایتالیایی در جنوب فرانسه افتتاح کند. او و خانواده‌اش مدتی است که به فرانسه نقل مکان کرده و شهروندی این کشور را دریافت کرده‌اند.",
-   "bodyFa": [
-    "جورج کلونی، بازیگر ۶۵ ساله هالیوود، پس از دریافت شهروندی فرانسه و نقل مکان به این کشور همراه با همسرش امل کلونی و دوقلوهای ۹ ساله‌شان، الا و الکساندر، اکنون در حال ورود به حوزه رستوران‌داری در جنوب فرانسه است. او قصد دارد یک رستوران ایتالیایی را در منطقه پرووانس، در نزدیکی محل سکونت خود راه‌اندازی کند.",
-    "این ستاره سینما برای افتتاح این رستوران که قرار است بهار آینده بازگشایی شود، با یک هتل‌دار کانادایی به نام گراهام پورتر همکاری می‌کند. عملیات بازسازی این مکان از هم‌اکنون آغاز شده است، هرچند هنوز نام رستوران، سرآشپز و منوی آن اعلام نشده است. این رستوران در فاصله حدوداً ۲۰ کیلومتری از عمارت و تاکستان خانوادگی آن‌ها قرار دارد که در سال ۲۰۲۱ خریداری شده بود.",
-    "خانواده کلونی در دسامبر ۲۰۲۵ پس از انتشار رسمی مراحل اداری در روزنامه رسمی، شهروندی فرانسه را دریافت کردند. جورج کلونی پیش از این علت انتخاب فرانسه برای زندگی را تمایل به بزرگ کردن فرزندانش به دور از هیاهو و نورهای خیره‌کننده هالیوود عنوان کرده و گفته بود که آن‌ها در یک مزرعه در فرانسه زندگی می‌کنند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "81f2f9a922b2",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yillar-sonra-yeniden-benimle-kal-43333061",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Yıllar sonra yeniden 'Benimle Kal'",
-   "snippet": "Çelik’in 1995 yılında yayımlanan ve müzik kariyerinin unutulmaz çalışmalarından biri olarak hafızalarda yer eden “Benimle Kal” albümü, yıllar sonra plak formatında yeniden hayat buluyor!",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac652701a32b1bb2a090767.jpg",
-   "video": null,
-   "published": "2026-10-07T14:09:33.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yillar-sonra-yeniden-benimle-kal-43333061",
-     "title": "Yıllar sonra yeniden 'Benimle Kal'",
-     "snippet": "Çelik’in 1995 yılında yayımlanan ve müzik kariyerinin unutulmaz çalışmalarından biri olarak hafızalarda yer eden “Benimle Kal” albümü, yıllar sonra plak formatında yeniden hayat buluyor!",
-     "published": "2026-10-07T14:09:33.000Z",
-     "titleFa": "پس از سال‌ها دوباره «با من بمان»"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac652701a32b1bb2a090767.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac652701a32b1bb2a090767.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار مجدد آلبوم «با من بمان» چلیک پس از سال‌ها در قالب صفحه گرامافون",
-   "summaryFa": "آلبوم معروف «با من بمان» اثر چلیک که در سال ۱۹۹۵ منتشر شده بود، پس از سال‌ها دوباره در قالب صفحه گرامافون عرضه می‌شود.",
-   "bodyFa": [
-    "آلبوم موسیقی «با من بمان» (Benimle Kal) اثر چلیک که نخستین بار در سال ۱۹۹۵ منتشر شد و به عنوان یکی از آثار ماندگار کارنامه هنری او در یادها ثبت شده است، پس از سال‌ها دوباره عرضه می‌شود.",
-    "طبق اخبار منتشرشده، این آلبوم خاطره‌انگیز قرار است پس از گذشت سال‌ها از انتشار اولیه‌اش، این بار در قالب صفحه گرامافون در دسترس علاقه‌مندان قرار گیرد."
    ],
    "ai": true,
    "aiTries": 1
