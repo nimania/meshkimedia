@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "series": "tuzlu-kahve",
+  "originalEpisode": 1,
+  "createdAt": "2026-10-10",
+  "scope": "Pilot: 8-minute original and three 4-minute editorial Persian segments; existing episode only",
+  "targets": {
+    "narrationWordsPerMinute": 140,
+    "originalTargetWords": 1120,
+    "persianSegmentTargetWords": 560,
+    "persianSegments": 3
+  },
+  "sources": [
+    {
+      "id": "star-episode",
+      "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
+      "kind": "official_episode_synopsis",
+      "reviewed": "text"
+    },
+    {
+      "id": "star-after",
+      "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede",
+      "kind": "official_postbroadcast_summary",
+      "reviewed": "text"
+    },
+    {
+      "id": "official-video",
+      "url": "https://www.youtube.com/watch?v=KEmczHqPIy0",
+      "kind": "official_full_episode_video",
+      "reviewed": "description_only_video_not_watched"
+    },
+    {
+      "id": "official-scenes",
+      "url": "https://www.youtube.com/watch?v=AdixCcxwOnA",
+      "kind": "official_scene_compilation",
+      "reviewed": "description_only_video_not_watched"
+    }
+  ],
+  "events": [
+    {
+      "id": "E01",
+      "event": "درین برای ازدواج با هاکان آماده می‌شود",
+      "sources": [
+        "star-episode",
+        "official-video"
+      ],
+      "confidence": "confirmed-by-official-description",
+      "timestamp": null
+    },
+    {
+      "id": "E02",
+      "event": "مهمت از آمریکا برمی‌گردد و خانواده او انتظار ماندنش را دارند",
+      "sources": [
+        "star-episode",
+        "official-video"
+      ],
+      "confidence": "confirmed-by-official-description",
+      "timestamp": null
+    },
+    {
+      "id": "E03",
+      "event": "درین از خیانت هاکان آگاه می‌شود و رابطه را تمام می‌کند",
+      "sources": [
+        "star-episode",
+        "star-after"
+      ],
+      "confidence": "confirmed-by-official-description",
+      "timestamp": null
+    },
+    {
+      "id": "E04",
+      "event": "مهمت و درین با یکدیگر آشنا می‌شوند و رابطه‌ای غیرمنتظره شکل می‌گیرد",
+      "sources": [
+        "star-episode",
+        "star-after",
+        "official-scenes"
+      ],
+      "confidence": "confirmed-by-official-description",
+      "timestamp": null
+    },
+    {
+      "id": "E05",
+      "event": "پیوندهای دو برادر آیدین‌اوغلو با دختران خانواده‌های رقیب به هم گره می‌خورد",
+      "sources": [
+        "star-episode",
+        "star-after"
+      ],
+      "confidence": "confirmed-by-official-description",
+      "timestamp": null
+    }
+  ],
+  "nameDiscrepancy": {
+    "names": [
+      "Selin",
+      "Elit"
+    ],
+    "observations": [
+      {
+        "source": "star-episode",
+        "name": "Selin"
+      },
+      {
+        "source": "star-after",
+        "name": "Elit"
+      },
+      {
+        "source": "official-scenes",
+        "name": "Elit (cast listing)"
+      }
+    ],
+    "editorialDisplay": "الیت",
+    "status": "editorial-choice-not-independently-scene-verified"
+  },
+  "missingEvidence": [
+    "full-video scene timeline and timestamps",
+    "dialogue or subtitle transcript with authorized access",
+    "official broadcaster dubbed episode cuts and start/end boundaries",
+    "scene-level details beyond short official synopsis"
+  ],
+  "publicationGate": {
+    "originalEightMinuteReady": false,
+    "persianFourMinuteReady": false,
+    "reason": "Insufficient scene-level verified facts; no invented dialogue, timestamp, or repeated padding permitted"
+  },
+  "nextActions": [
+    "Review full official episode and record per-scene timing and actions",
+    "Retrieve authorized Turkish subtitles or transcribe with rights and source attribution",
+    "Expand original recap only with confirmed new scene facts",
+    "Verify actual Persian dubbed cut boundaries or retain explicitly editorial segments",
+    "Narration test and correction"
+  ]
+}
