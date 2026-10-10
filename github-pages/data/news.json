@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T08:17:33.023Z",
+ "updated": "2026-10-10T08:21:06.313Z",
  "items": [
   {
    "id": "b7bcd88e88c1",
@@ -1010,6 +1010,45 @@
    "aiTries": 1
   },
   {
+   "id": "19d9b640dbd4",
+   "url": "https://www.haberturk.com/magazin/nukhet-duru-robocop-gibi-geziyorum-3918605",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Robocop gibi geziyorum\"",
+   "snippet": "Nükhet Duru, ayağında küçük bir kırık olduğunu açıkladı. Konserleri nedeniyle ayağını alçıya aldırmadığını söyleyen şarkıcı, \"Robocop gibi geziyorum\" diyerek, espri yaptı",
+   "image": "https://im.haberturk.com/l/2026/10/09/ver1791579132/3918605/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-10T05:12:30.000Z",
+   "scope": "general",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/nukhet-duru-robocop-gibi-geziyorum-3918605",
+     "title": "\"Robocop gibi geziyorum\"",
+     "snippet": "Nükhet Duru, ayağında küçük bir kırık olduğunu açıkladı. Konserleri nedeniyle ayağını alçıya aldırmadığını söyleyen şarkıcı, \"Robocop gibi geziyorum\" diyerek, espri yaptı",
+     "published": "2026-10-10T05:12:30.000Z",
+     "titleFa": "«Robocop gibi geziyorum»"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "نکحت دورو از شکستگی خفیف پای خود خبر داد",
+   "summaryFa": "نکحت دورو خواننده سرشناس اعلام کرد که به دلیل داشتن کنسرت، پای خود را گچ نگرفته است. او همچنین هرگونه فکر کردن به بازنشستگی را رد کرد.",
+   "bodyFa": [
+    "نکحت دورو، خواننده مطرح، اخیراً در یک مرکز خرید دیده شده و درباره وضعیت سلامتی و برنامه کاری خود به گفتگو با خبرنگاران پرداخته است. او توضیح داد که اخیراً زمین خورده و دچار شکستگی کوچکی در ناحیه پا شده است.",
+    "این هنرمند به دلیل داشتن برنامه فشرده کنسرت‌ها، تصمیم گرفته است فعلاً پای خود را گچ نگیرد و به گفته خودش مانند «روبوکپ» تردد می‌کند. دورو همچنین در پاسخ به پرسشی درباره احتمال بازنشستگی خود، با قاطعیت اعلام کرد که در این حرفه بازنشستگی وجود ندارد و صحنه اجرا بازنشسته نمی‌شود و به عنوان نمونه به وضعیت سزن آکسو اشاره کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
    "id": "db1b1deeabbe",
    "url": "https://www.hurriyet.com.tr/kelebek/hayat/savasi-icardi-kazandi-mahkemeden-wandaya-sok-karar-43336212",
    "source": "hurriyet-kelebek",
@@ -1128,7 +1167,8 @@
      "url": "https://www.milliyet.com.tr/magazin/odullu-yonetmenin-basrolu-oldu-7676611",
      "title": "Ödüllü yönetmenin başrolü oldu",
      "snippet": "Rotasını Berlin’e çeviren oyuncu; Almanca, İngilizce ve Türkçe çekilecek uluslararası yapımın başrolünü üstlendi. Oğluyla Almanya’da yeni bir hayat kurmaya çalışan Merve’nin hikâyesini anlatmaya hazırlanan Erçel, rolü için dil eğitimi alacak. Çekimlerine 2027’nin ilk aylarında başlanacak filmde Erçe",
-     "published": "2026-10-10T04:02:38.000Z"
+     "published": "2026-10-10T04:02:38.000Z",
+     "titleFa": "بازیگر نقش اول کارگردان برنده جایزه شد"
     }
    ],
    "images": [
@@ -1139,7 +1179,16 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "پذیرش نقش اصلی فیلم بین‌المللی «دیاسپورا» توسط هانده ارچل",
+   "summaryFa": "هانده ارچل بازیگر نقش اول فیلم بین‌المللی «دیاسپورا» به کارگردانی نادر ساعی‌ور شد. این اثر در آلمان فیلمبرداری خواهد شد و ارچل برای آن آموزش زبان خواهد دید.",
+   "bodyFa": [
+    "هانده ارچل برای بازی در فیلم جدید و بین‌المللی «دیاسپورا» به کارگردانی نادر ساعی‌ور، کارگردان ایرانی، قرارداد امضا کرد. او قرار است در این اثر نقش اصلی را بر عهده بگیرد.",
+    "این پروژه که مسیر آن به سمت برلین است، به زبان‌های آلمانی، انگلیسی و ترکی تولید خواهد شد. داستان فیلم درباره مروه است که تلاش می‌کند زندگی جدیدی را همراه با پسرش در آلمان بسازد. ارچل همچنین برای آماده‌سازی جهت این نقش، دوره‌های آموزش زبان خواهد گذراند.",
+    "آغاز فیلمبرداری این اثر سینمایی برای ماه‌های اولیه سال ۲۰۲۷ میلادی برنامه‌ریزی شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "33f5934d666a",
@@ -1166,7 +1215,8 @@
      "url": "https://www.milliyet.com.tr/magazin/kiz-cocuklari-gelecegimiz-7676610",
      "title": "‘Kız çocukları geleceğimiz’",
      "snippet": "‘İz Bırak’ temasıyla Atatürk Kültür Merkezi’nde sergilenen eserleri inceleyen Koçyiğit, TÜRGEV’in genç kızların eğitimine verdiği desteğin toplumun geleceği açısından büyük değer taşıdığını söyledi.",
-     "published": "2026-10-10T04:02:37.000Z"
+     "published": "2026-10-10T04:02:37.000Z",
+     "titleFa": "«دختران، آینده ما هستند»"
     }
    ],
    "images": [
@@ -1177,7 +1227,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "حضور چهره‌های سرشناس در مراسم افتتاحیه فصل بنیاد توُرگِو",
+   "summaryFa": "هولیا کوچ‌ییغیت، اصلی هونل و ییلدیز چاعری آاتیک‌سوی در مراسم افتتاحیه فصل جدید بنیاد خدمات آموزشی و جوانان ترکیه شرکت کردند. آن‌ها در این رویداد از آثار هنری بازدید کرده و حمایت از تحصیل دختران جوان را ارزشمند دانستند.",
+   "bodyFa": [
+    "هولیا کوچ‌ییغیت، اصلی هونل و ییلدیز چاعری آاتیک‌سوی در مراسم افتتاحیه فصل «GİF’27» که توسط بنیاد خدمات آموزشی و جوانان ترکیه (TÜRGEV) در مرکز فرهنگی آتاتورک برگزار شد، حضور یافتند. این چهره‌ها در مسیر تولید دختران جوان از نمایشگاه تا صحنه نمایش، همراهی کردند.",
+    "هولیا کوچ‌ییغیت پس از بررسی آثار به نمایش درآمده با تم «رد پا»، تاکید کرد که حمایت بنیاد توُرگِو از آموزش دختران جوان، ارزش بسیار زیادی برای آینده جامعه دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "91d202a01b9f",
@@ -1191,7 +1249,7 @@
    "video": null,
    "published": "2026-10-10T04:02:37.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1204,7 +1262,8 @@
      "url": "https://www.milliyet.com.tr/magazin/resmen-bosandilar-7676609",
      "title": "Resmen boşandılar!",
      "snippet": "Mauro Icardi ile Wanda Nara arasında iki yıldır süren sancılı boşanma davası resmen sonuçlandı. Milano Mahkemesi, Galatasaray’ın eski futbolcusu ile evliliği sona eren Nara’nın aylık 250 bin euro nafaka talebini de kendini geçindirecek kadar geliri ve mal varlığı olmasını gerekçe göstererek reddetti",
-     "published": "2026-10-10T04:02:37.000Z"
+     "published": "2026-10-10T04:02:37.000Z",
+     "titleFa": "آنها رسماً طلاق گرفتند!"
     }
    ],
    "images": [
@@ -1215,7 +1274,16 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "رسمی شدن طلاق مورو ایکاردی و واندا نارا",
+   "summaryFa": "پرونده طلاق مورو ایکاردی و واندا نارا پس از دو سال به پایان رسید و دادگاه درخواست نفقه واندا نارا را رد کرد.",
+   "bodyFa": [
+    "پس از یک روند طولانی و پرجنجال دو ساله، پرونده طلاق مورو ایکاردی، فوتبالیست سابق گاتاسرای، و واندا نارا به صورت رسمی به سرانجام رسید و این زوج از یکدیگر جدا شدند.",
+    "دادگاه شهر میلان درخواست واندا نارا برای دریافت مبلغ ۲۵0 هزار یورو به عنوان نفقه ماهانه را مورد پذیرش قرار نداد. دلیل این تصمیم دادگاه، دارا بودن درآمد و دارایی کافی از سوی نارا برای تامین مخارج خود اعلام شده است.",
+    "مورو ایکاردی پس از قطعی شدن این حکم، با انتشار عبارتی اعلام کرد که در حال جشن گرفتن آغاز یک فصل تازه در زندگی خود است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1aa928c127b2",
@@ -1290,9 +1358,28 @@
      "url": "https://www.milliyet.com.tr/magazin/seyirciyi-kandiramazsin-7676606",
      "title": "‘Seyirciyi kandıramazsın’",
      "snippet": "MESUT YILMAZ - ‘Konuşanlar’ programının yeni sezonunu arkadaşlarıyla Boop Kuruçeşme’de kutlayan komedyen, “Seyirciyi asla kandıramazsınız; içtenliği ve art niyeti hemen anlarlar” dedi. Partiye eşi Hakan Baş’la katılan Bensu Soral, “Bebek özlemi var mı?” sorusuna, “Çok büyük bir sorumluluk. En güzel ",
-     "published": "2026-10-10T04:02:35.000Z"
+     "published": "2026-10-10T04:02:35.000Z",
+     "titleFa": "«نمی‌توانید مخاطب را فریب دهید»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac974d0f15b2619d4a3c5d6.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac974d0f15b2619d4a3c5d6.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "حسن جان کایا: نمی‌توانید مخاطب را فریب دهید",
+   "summaryFa": "حسن جان کایا در جشن فصل جدید برنامه‌اش بر اهمیت صمیمیت تأکید کرد. بنسو سورال نیز همراه با همسرش در این مهمانی حضور داشت.",
+   "bodyFa": [
+    "حسن جان کایا، کمدین معروف، راز ارتباط قوی خود با مخاطبان را صمیمیت دانست و تأکید کرد که مخاطبان هرگز فریب نمی‌خورند و به راحتی متوجه صمیمیت یا سوءنیت می‌شوند.",
+    "این کمدین فصل جدید برنامه «کونوشانلار» (Konuşanlar) را طی جشنی با حضور دوستانش در منطقه بوپ کوروچشمه جشن گرفت.",
+    "بنسو سورال نیز به همراه همسرش هاکان باش در این مهمانی شرکت کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "59361ad8c608",
@@ -1319,9 +1406,27 @@
      "url": "https://www.milliyet.com.tr/magazin/londra-hayali-sarkiyla-taclandi-7676605",
      "title": "Londra hayali şarkıyla taçlandı",
      "snippet": "Türkiye’de başlayan hikâyelerini global sahneye taşıyan grup, nazar boncuğu, Türk çayı gibi kültürel öğelerin de yer aldığı klibiyle beğeni topladı. Manifest, yeni şarkılarını ilk kez Londra’da 16 Ekim’de gerçekleşecek Wembley konserinde canlı olarak söyleyecek.",
-     "published": "2026-10-10T04:02:35.000Z"
+     "published": "2026-10-10T04:02:35.000Z",
+     "titleFa": "رویای لندن با ترانه‌ای تاج‌گذاری کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac9748af15b2619d4a3c5cf.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac9748af15b2619d4a3c5cf.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار نخستین تک‌آهنگ انگلیسی گروه Manifest به نام «Tralala»",
+   "summaryFa": "گروه Manifest نخستین تک‌آهنگ انگلیسی خود را با نام «Tralala» منتشر کرد و قصد دارد آن را در کنسرت ومبلی لندن اجرا کند.",
+   "bodyFa": [
+    "گروه Manifest که داستان خود را از ترکیه آغاز کرده و به صحنه جهانی برده است، اولین تک‌آهنگ انگلیسی خود به نام «Tralala» را به دست هواداران رساند. این اثر با موزییک‌ویدیویی همراه است که در آن المان‌های فرهنگی نظیر چای ترکی و nazar boncuğu (مهره چشم زخم) به چشم می‌خورد و با استقبال مخاطبان مواجه شده است.",
+    "این گروه همچنین قرار است این قطعه جدید را برای نخستین بار به‌صورت زنده در کنسرت ومبلی لندن که در تاریخ ۱۶ اکتبر برگزار می‌شود، اجرا کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5333936741a0",
@@ -1348,9 +1453,27 @@
      "url": "https://www.milliyet.com.tr/magazin/bogazda-illuzyon-gosterileri-7676604",
      "title": "Boğaz’da illüzyon gösterileri",
      "snippet": "Ünlü isimler, Boğaz manzarası eşliğinde müzik ve illüzyon gösterileriyle renklenen gecede boy gösterdi. Ünlü isimler, The M Lounge’da gösterilerle şaşırtıcı ve eğlenceli anlar yaşadı.",
-     "published": "2026-10-10T04:02:34.000Z"
+     "published": "2026-10-10T04:02:34.000Z",
+     "titleFa": "نمایش‌های شعبده‌بازی در بسفر"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac973fbf15b2619d4a3c5c8.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac973fbf15b2619d4a3c5c8.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "نمایش‌های شعبده‌بازی در تنگه بسفر با حضور چهره‌های مشهور",
+   "summaryFa": "جمعی از چهره‌های سرشناس در رویدادی در استانبول شرکت کردند و لحظات شاد و سرگرم‌کننده‌ای را در کنار موسیقی و نمایش‌های شعبده‌بازی تجربه نمودند.",
+   "bodyFa": [
+    "بر اساس گزارش‌های منتشرشده، شماری از چهره‌های سرشناس ترکیه‌ای از جمله هازال فیلیز کوچوکوسه، آسلی بکی‌اوغلو، سلین گنچ، اکین تورکمن و آسنا توغال اخیراً در یک رویداد ویژه در شهر استانبول شرکت کردند.",
+    "این مراسم که با چشم‌انداز زیبای بسفر همراه بود، شامل برنامه‌های متنوعی از جمله اجرای موسیقی و نمایش‌های شعبده‌بازی بود که فضایی شاد و تعجب‌آور را برای مهمانان در مکان The M Lounge رقم زد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "857f44bf00d0",
@@ -1428,9 +1551,27 @@
      "url": "https://www.milliyet.com.tr/magazin/festival-yolculuguna-basliyor-7676601",
      "title": "Festival yolculuğuna başlıyor",
      "snippet": "Özcan Alper’in yazıp yönettiği film, 20 Ekim’de El Gouna Film Festivali’nde dünya prömiyerini gerçekleştirecek. Proje, ardından Azerbaycan ve Avrupa başta olmak üzere 50 ülkede sinemaseverlerle buluşacak.",
-     "published": "2026-10-10T04:02:31.000Z"
+     "published": "2026-10-10T04:02:31.000Z",
+     "titleFa": "آغاز سفر جشنواره‌ای"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac972f7f15b2619d4a3c5b3.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac972f7f15b2619d4a3c5b3.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "آغاز سفر international فیلم «بهار در ایمروز» در جشنواره فیلم الجونه",
+   "summaryFa": "فیلم «بهار در ایمروز» به نویسندگی و کارگردانی اوزجان آلپر، در تاریخ ۲۰ اکتبر در جشنواره فیلم الجونه پرمیر جهانی خود را برگزار می‌کند. این اثر که هالیت ارگچ و مریم اوزرلی را پس از ۱۵ سال دوباره دور هم جمع کرده، قرار است در ۵۰ کشور اکران شود.",
+   "bodyFa": [
+    "فیلم «بهار در ایمروز» که به نویسندگی و کارگردانی اوزجان آلپر ساخته شده است، سفر بین‌المللی خود را آغاز می‌کند. این پروژه توجه مخاطبان را به خود جلب کرده زیرا پس از گذشت ۱۵ سال، هالیت ارگچ و مریم اوزرلی را بار دیگر در یک پروژه مشترک در کنار یکدیگر قرار داده است.",
+    "بر اساس اطلاعات منتشر شده، این اثر قرار است در تاریخ ۲۰ اکتبر نخستین نمایش جهانی خود را در جشنواره فیلم الجونه تجربه کند. پس از این رویداد، فیلم مذکور مسیر خود را در سینماهای حدود ۵۰ کشور مختلف از جمله در آذربایجان و کشورهای اروپایی ادامه خواهد داد و با علاقه‌مندان به سینما دیدار می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d062728ee9fb",
@@ -1457,9 +1598,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/tarihte-iz-birakan-8-fotograf-bir-dikiz-aynasi-gibi-gecmisteki-yerimizi-gormemizi-sagliyor-43336103",
      "title": "Tarihte iz bırakan 8 fotoğraf: ‘Bir dikiz aynası gibi geçmişteki yerimizi görmemizi sağlıyor’",
      "snippet": "Bir deklanşör sesiyle zamanı durdurup hayatın içindeki o eşsiz ‘an’ları yakalayarak geleceğe taşıyabiliyoruz. Tam 200 yıldır tarihe iz bırakan fotoğraf sanatını Mimar Sinan Güzel Sanatlar Üniversitesi’nden Prof. Dr. Ozan Bilgeseren’den dinledik: “Önemli olduğunu düşündüğümüz her şeyin ekran görüntüs",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "تاریخده ایز برأکان ۸ فوتوغراف: ‘بیر دیکیز آیناسی گیبی گذشته‌کی یریمیزی گؤرمه‌میزی ساغلایور’"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9564a8562bad6a4dfdbc8.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac9564a8562bad6a4dfdbc8.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "نگاهی به هشت عکس ماندگار در تاریخ و هنر عکاسی",
+   "summaryFa": "درباره هنر عکاسی که ۲۰۰ سال است تاریخ را ثبت می‌کند، با پروفسور اوزان بیلگه‌سرن گفتگو شده است.",
+   "bodyFa": [
+    "هنر عکاسی این امکان را فراهم می‌کند که با یک کلیک، زمان متوقف شود و لحظات بی‌نظیر زندگی برای آینده ثبت گردند. این هنر که ۲۰۰ سال است در تاریخ ردپایی ماندگار بر جای گذاشته، موضوع گفتگویی با پروفسور اوزان بیلگه‌سرن از دانشگاه هنرهای زیبای معمار سینان بوده است.",
+    "در این بررسی به هشت عکس که در تاریخ اثرگذار بوده‌اند پرداخته شده و درباره جایگاه عکاسی به عنوان ابزاری برای دیدن گذشته بحث شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ef2d4e651bad",
@@ -1486,9 +1645,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/ben-sevgiye-inanan-bir-kotumserim-43336111",
      "title": "‘Ben sevgiye inanan bir kötümserim’",
      "snippet": "‘Yann Arthus-Bertrand: Bir Bakışın Mirası’ sergisi 212 Photography Istanbul kapsamında MSGSÜ Tophane-i Amire Kültür ve Sanat Merkezi’nde izleyiciyle buluşuyor. 80 yaşındaki fotoğrafçı ve aktivist Arthus-Bertrand’la fotoğrafçılığını ve insanın doğa üzerindeki etkisini konuştuk.",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "«من یک بدبینِ معتقد به عشق هستم»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9584f8562bad6a4dfdbd7.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac9584f8562bad6a4dfdbd7.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "نمایشگاه «میراث یک نگاه» اثر یان آرتوس-برتراند در استانبول",
+   "summaryFa": "نمایشگاه این عکاس و فعال ۸۰ ساله در مرکز فرهنگ و هنر توپهانه‌ای عامیره برگزار می‌شود. در این مصاحبه درباره عکاسی و تاثیر انسان بر طبیعت گفتگو شده است.",
+   "bodyFa": [
+    "نمایشگاه «یان آرتوس-برتراند: میراث یک نگاه» در چارچوب رویداد ۲۱۲ عکاسی استانبول در مرکز فرهنگ و هنر MSGSÜ Tophane-i Amire برای بازدیدکنندگان به نمایش درآمده است.",
+    "در جریان این رویداد، با این عکاس و فعال ۸۰ ساله درباره هنر عکاسی و همچنین میزان تاثیرگذاری انسان بر روی طبیعت گفتگو و تبادل نظر شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a0b0943f1153",
@@ -1515,9 +1692,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/likyada-perde-aciliyor-43336117",
      "title": "Likya’da perde açılıyor...",
      "snippet": "Kaş Tiyatro Günleri başlıyor. Etkinlik Kaş’tan Mira, Patara antik kentlerine uzanıyor ve 5’inci yılında da katılanları tiyatro, arkeoloji ve mitolojiye doyuracak.",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "پرده در لیدیا باز می‌شود..."
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac959188562bad6a4dfdbe5.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac959188562bad6a4dfdbe5.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "آغاز روزهای تئاتر لیدیا در کاش",
+   "summaryFa": "روزهای تئاتر کاش با برنامه‌های متنوع در شهرهای باستانی آغاز می‌شود. این رویداد در پنجمین سال برگزاری، شرکت‌کنندگان را با تئاتر، باستان‌شناسی و اسطوره‌شناسی آشنا می‌کند.",
+   "bodyFa": [
+    "رویداد فرهنگی روزهای تئاتر کاش فعالیت خود را آغاز کرده و برنامه‌های آن به شهرهای باستانی میرا و پاتارا نیز گسترش می‌یابد.",
+    "این رویداد که اکنون پنجمین سال برگزاری خود را تجربه می‌کند، تلاش دارد تا شرکت‌کنندگان را از طریق تئاتر، باستان‌شناسی و مباحث مرتبط با اسطوره‌شناسی سرگرم کند و اطلاعات آن‌ها را افزایش دهد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "abd22de12296",
@@ -1544,9 +1739,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/ya-dunyanin-sonuna-gelmissek-43336119",
      "title": "Ya ‘dünyanın sonu’na gelmişsek...",
      "snippet": "Arter’in yeni sergisi ‘Sonra Yok. Sonrası Şimdi.’ dünyanın sonunu gelecekteki bir felaket olarak değil, çoktan başlamış bir süreç olarak ele alıyor. Peki, çıkmazın içinde olduğumuzu fark etmek, bize bir çıkış yolu gösterebilir mi?",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "یا «دنیاهای سوء»‌نا گل‌میشسک..."
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac95b6c8562bad6a4dfdbee.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac95b6c8562bad6a4dfdbee.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "بررسی نمایشگاه جدید آرتر با عنوان «بعدی نیست. بعدش حالا است»",
+   "summaryFa": "نمایشگاه جدید آرتر به موضوع پایان جهان می‌پردازد و آن را به عنوان فرآیندی آغازشده بررسی می‌کند.",
+   "bodyFa": [
+    "نمایشگاه جدیدی با عنوان «بعدی نیست. بعدش حالا است» در آرتر برگزار شده است که به مقوله پایان جهان نگاه متفاوتی دارد.",
+    "این نمایشگاه پایان جهان را نه به عنوان یک فاجعه در آینده، بلکه به عنوان فرآیندی که از پیش آغاز شده است، زیر ذره‌بین قرار می‌دهد و این پرسش را مطرح می‌کند که آیا آگاهی از بن‌بست می‌تواند راه نجاتی به ما نشان دهد یا خیر."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "46d54999355e",
@@ -1573,9 +1786,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/lezzetli-hayat/recetenin-kendisi-biziz-43336122",
      "title": "‘Reçetenin kendisi biziz’",
      "snippet": "Antalya denince ilk akla gelen restoran, üç kuşağın yönettiği 7 Mehmet, yaklaşık 90 yıl sonra ilk kez başka bir şehirde kalıcı bir masa kurdu. Tersane İstanbul’daki yeni restoranın odağında aynı usta, aynı ürün, aynı reçetenin yanında lezzet hafızasını da taşıyabilmek var.",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "«Reçetenin kendisi biziz»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac95ed68562bad6a4dfdc05.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac95ed68562bad6a4dfdc05.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "رستوران ۷ مهمت پس از حدود ۹۰ سال در شهر دیگری شعبه دایر کرد",
+   "summaryFa": "رستوران معروف ۷ مهمت در آنتالیا که توسط سه نسل مدیریت می‌شود، پس از حدود ۹۰ سال برای نخستین بار در شهر دیگری میز دائم راه‌اندازی کرد.",
+   "bodyFa": [
+    "رستوران ۷ مهمت که به عنوان شناخته‌شده‌ترین رستوران آنتالیا توسط سه نسل اداره می‌شود، تصمیم گرفته است پس از گذشت حدود ۹۰ سال فعالیت، برای نخستین بار در شهری دیگر نیز حضور دائمی داشته باشد.",
+    "شعبه جدید این رستوران در «ترسانه استانبول» افتتاح شده است و هدف اصلی آن حفظ همان استادان، مواد اولیه، دستور پخت و انتقال حافظه طعم و مزه پیشین به مکانی جدید است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d41ed35fbb31",
@@ -1602,9 +1833,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/lezzetli-hayat/gastronomi-kazaninda-kaynayanlar-43336140",
      "title": "Gastronomi kazanında kaynayanlar",
      "snippet": "Yeme-içme dünyasından en son haberler...",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "آنچه در دیگ جوشان gastronomi می‌گذرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac962218562bad6a4dfdc1e.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac962218562bad6a4dfdc1e.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "آخرین اخبار دنیای غذا و نوشیدنی",
+   "summaryFa": "نگاهی به تازه‌ترین اخبار و رویدادهای دنیای غذا و نوشیدنی در روزنامه حریت.",
+   "bodyFa": [
+    "روزنامه حریت در گزارشی به تازه‌ترین اخبار و رویدادهای مربوط به دنیای غذا و نوشیدنی پرداخته است.",
+    "این مطلب شامل اطلاعاتی درباره تازه‌های این حوزه است که بدون جزئیات بیشتر منتشر شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "56bd5562c71f",
@@ -1631,9 +1880,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/lezzetli-hayat/renk-renk-cesit-cesit-biber-43336147",
      "title": "Renk renk, çeşit çeşit: Biber",
      "snippet": "Kimi tatlı, kimi acı; kimi ince kabuklu, kimi etli... Biberin çeşidi çok, her birinin mutfaktaki yeri de lezzeti de başka. Artık mevsiminin de sonuna yaklaşırken hangisi közlenmeye daha uygun, hangisi soslara yakışıyor, hangisi tavada çabucak pişiyor? Şef Müge Ergül biber çeşitlerinin özelliklerini ",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "رنگ رنگ، çeşit çeşit: Biber"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac963428562bad6a4dfdc2c.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac963428562bad6a4dfdc2c.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "رنگ‌ها و انواع مختلف فلفل در آشپزخانه",
+   "summaryFa": "فلفل‌ها انواع مختلفی با طعم‌ها و ویژگی‌های گوناگون دارند که هر یک برای کاربرد خاصی در آشپزی مناسب هستند.",
+   "bodyFa": [
+    "با نزدیک شدن به پایان فصل فلفل، شناخت انواع مختلف آن اهمیت بیشتری پیدا می‌کند. این صیفی‌جات شامل نمونه‌های شیرین یا تند، با پوست نازک یا گوشتی هستند که هر کدام جایگاه و طعم ویژه‌ای در آشپزخانه دارند.",
+    "بر اساس اطلاعات منتشر شده، شِف مجه ارگل ویژگی‌های انواع فلفل را بررسی کرده و توضیح داده است که کدام نوع برای درست کردن سس، کدام یک برای تفت دادن سریع در ماهیتابه و کدام نمونه برای کبابی کردن مناسب‌تر است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "07fdb742a807",
@@ -1660,9 +1927,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/lezzetli-hayat/en-iyi-10-yaglamaci-incecik-sebit-bolca-sos-43336157",
      "title": "En iyi 10 yağlamacı: İncecik şebit, bolca sos",
      "snippet": "Kayseri mutfağı, mantı kadar yağlama da demek... Yörede şebit denen ince hamur katmanları, arasına yayılan bol kıymalı harç ve son dokunuşta yoğurt ve maydanoz... Jüri üyelerimize “Kayseri mutfağının simge yemeklerinden yağlamayı en iyi nerede yeriz” diye sorduk; Kayseri’den İstanbul’a, Ankara’dan İ",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "En iyi 10 yağlamacı: İncecik şebit, bolca sos"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac966bc8562bad6a4dfdc52.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac966bc8562bad6a4dfdc52.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "۱۰ yağlamacı برتر: شebit نازک و سس فراوان",
+   "summaryFa": "آشپزی قیصریه علاوه بر مانتی به خاطر yağlama نیز شناخته می‌شود و شامل لایه‌های نازک خمیر، سس گوشت چرخ‌کرده و ماست و جعفری است. هیئت داوران در این باره که yağlama را کجا می‌توان بهتر خورد، نظر داده‌اند.",
+   "bodyFa": [
+    "آشپزی منطقه قیصریه بیش از هر چیز با مانتی شناخته می‌شود، اما yağlama نیز یکی از غذاهای نمادین این خطه است. این غذا شامل لایه‌های نازک خمیر موسوم به شebit است که میان آن‌ها با مایه گوشت چرخ‌کرده پر می‌شود و در نهایت با ماست و جعفری سرو می‌گردد.",
+    "در این گزارش، از اعضای هیئت داوران پرسیده شده است که غذای نمادین yağlama را در کجا می‌توان به بهترین شکل میل کرد و این موضوع در شهرهایی از قیصریه گرفته تا استانبول و آنکارا بررسی شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6bb99839b234",
@@ -1689,9 +1974,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/yukselen-suadiye-43336161",
      "title": "Yükselen Suadiye...",
      "snippet": "Şehrin en popüler semtlerinden biri artık Suadiye. Yeni mekânlar açılıyor, mahalle hareketleniyor. İyi yemek de var, geceyi uzatmak isteyenlere canlı müzik de. Ben bile sık sık ‘karşı’ya geçiyorsam vardır bir bildiğim...",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "سوادیه‌ی در حال رشد..."
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9692d8562bad6a4dfdc6b.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac9692d8562bad6a4dfdc6b.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "رشد محبوبیت منطقه سوادیه",
+   "summaryFa": "منطقه سوادیه به یکی از محبوب‌ترین محله‌های شهر تبدیل شده است و با کافه‌ها و امکانات جدید رونق گرفته است.",
+   "bodyFa": [
+    "منطقه سوادیه این روزها به عنوان یکی از محبوب‌ترین محله‌های شهر شناخته می‌شود که شاهد افتتاح مکان‌های جدید و افزایش پویایی است.",
+    "این محله امکاناتی نظیر غذای خوب و موسیقی زنده برای کسانی که مایلند شب را طولانی‌تر کنند، فراهم کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c6d4de4e3ebb",
@@ -1718,9 +2021,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/bir-numara-olmak-degil-sanat-yapmak-istiyorum-43336167",
      "title": "‘Bir numara olmak değil sanat yapmak istiyorum’",
      "snippet": "Müziğiyle tüm dünyayı kucakladı. Bir süre önce evlendi. Ardından çocuğu Blues’u kucağına aldı. Çalışmalarına ara vermeden devam etti. Şimdi kasım ayında başlayacağı Türkiye turnesinin hazırlıkları içinde. Karsu’yla buluşuyoruz; son iki senede evlilikle değişen hayatını, anneliği, müziği konuşuyoruz:",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "«بردن عنوان شماره یک مهم نیست، می‌خواهم هنر خلق کنم»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac96c4f8562bad6a4dfdc84.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac96c4f8562bad6a4dfdc84.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "مصاحبه با کارسو درباره زندگی شخصی، مادری و تور ترکیه",
+   "summaryFa": "کارسو در گفتگویی از تغییرات زندگی خود در دو سال گذشته، ازدواج، مادری و آماده شدن برای تور ترکیه در ماه نوامبر سخ گفت.",
+   "bodyFa": [
+    "کارسو پس از ازدواج و به دنیا آوردن فرزندش به نام بلوز، بدون وقفه به فعالیت‌های هنری خود ادامه داده است. او اکنون در تدارک برگزاری یک تور در ترکیه است که قرار است از ماه نوامبر آغاز شود.",
+    "او در گفتگو با روزنامه حریت درباره تحولات زندگی شخصی‌اش در دو سال اخیر، تجربه‌های مادری و همچنین مسیر حرفه‌ای و دغدغه‌های هنری خود صحبت کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "79f4999d9d9e",
@@ -1747,9 +2068,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/renkler-carpisiyor-minimalizm-biraz-ara-veriyor-43336170",
      "title": "Renkler çarpışıyor, minimalizm biraz ara veriyor",
      "snippet": "Bir ay boyunca gözümüz İlkbahar/Yaz 2027 koleksiyonlarının sergilendiği moda haftalarındaydı. Bu organizasyonların en sevdiğim taraflarından biri katılımcıların ne giydiğine bakmak. Çünkü sokak stilleri de podyum kadar ilham verici olabiliyor. Bu sezon danteller, hayvan desenleri, düşük beller revaç",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "رنگ‌ها برخورد می‌کنند، مینیمالیسم کمی استراحت می‌کند"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac96dba8562bad6a4dfdc93.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac96dba8562bad6a4dfdc93.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "بررسی استایل‌های خیابانی در هفته‌های مد بهار و تابستان ۲۰۲۷",
+   "summaryFa": "هفته‌های مد بهار و تابستان ۲۰۲۷ به پایان رسید و بررسی استایل شرکت‌کنندگان نشان داد که طرح‌های جدیدی مانند تور، نقش حیوانات و فاق‌های کوتاه مورد توجه قرار گرفته‌اند.",
+   "bodyFa": [
+    "طی یک ماه گذشته، نگاه‌ها به هفته‌های مد برای نمایش کلکسیون‌های بهار و تابستان ۲۰۲۷ دوخته شده بود. یکی از جذابیت‌های این رویدادها، زیر نظر گرفتن لباس‌هایی است که شرکت‌کنندگان به تن می‌کنند، زیرا استایل‌های خیابانی نیز می‌توانند به اندازه لباس‌های روی پدیوم الهام‌بخش باشند.",
+    "بر اساس بررسی‌های انجام شده در این فصل، روند مد شاهد تغییراتی بوده است؛ به طوری که رنگ‌ها با یکدیگر تقابل دارند و سبک مینیمالیسم موقتاً کنار گذاشته شده است. در این میان، استفاده از تورها، طرح‌های پوست حیوانات و لباس‌های با فاق کوتاه از جمله مواردی هستند که در این فصل رواج پیدا کرده‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "7db47e8af243",
@@ -1776,38 +2115,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/uc-de-yetmez-bes-tane-bes-de-yetmez-43336171",
      "title": "‘Üç de yetmez beş tane, beş de yetmez...’",
      "snippet": "Yeni nesil son dönemde kullandığı çoğu eşyaya ‘charm’ denen aksesuarları takarak onları kişiselleştiriyor. Anahtarlıklara, telefonlara, çantalara ve hatta ayakkabılara takılan bu objeleri kimi moda olduğu için kullanıyor, kimi de sevdiği karakterleri hep yanında taşımanın iyi bir yolu olarak görüyor",
-     "published": "2026-10-10T04:00:00.000Z"
+     "published": "2026-10-10T04:00:00.000Z",
+     "titleFa": "«سه تا هم کم است، پنج تا، پنج تا هم کم است...»"
     }
-   ]
-  },
-  {
-   "id": "6c4098b3fb02",
-   "url": "https://www.sabah.com.tr/magazin/yasak-askin-bedeli-agir-oldu-guzide-duran-cocuklarimi-gostermiyor-demisti-gercek-baska-cikti-7677560",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Yasak aşkın bedeli ağır oldu! Güzide Duran \"çocuklarımı göstermiyor\" demişti... Gerçek başka çıktı!",
-   "snippet": "Eski manken Güzide Duran'ın \"Çocuklarımı benden kopardılar\" feryadının altından herkesi şoke eden bambaşka bir gerçek çıktı! \"Yasak aşk\" uğruna yuvasını dağıttığı konuşulan ünlü ismin çocuklarıyla neden... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/83333d/1200/675/0/262/755/686?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791602138603.jpeg",
-   "video": null,
-   "published": "2026-10-10T03:20:07.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/yasak-askin-bedeli-agir-oldu-guzide-duran-cocuklarimi-gostermiyor-demisti-gercek-baska-cikti-7677560",
-     "title": "Yasak aşkın bedeli ağır oldu! Güzide Duran \"çocuklarımı göstermiyor\" demişti... Gerçek başka çıktı!",
-     "snippet": "Eski manken Güzide Duran'ın \"Çocuklarımı benden kopardılar\" feryadının altından herkesi şoke eden bambaşka bir gerçek çıktı! \"Yasak aşk\" uğruna yuvasını dağıttığı konuşulan ünlü ismin çocuklarıyla neden... Devamı için tıklayınız",
-     "published": "2026-10-10T03:20:07.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac96f868562bad6a4dfdcb5.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac96f868562bad6a4dfdcb5.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "روند رو به رشد استفاده از اکسسوری‌های «چارم» در میان نسل جدید",
+   "summaryFa": "نسل جدید اخیراً از اکسسوری‌هایی به نام «چارم» برای شخصی‌سازی وسایل خود استفاده می‌کنند. این وسایل شامل جاسوئیچی، تلفن همراه، کیف و کفش می‌شود.",
+   "bodyFa": [
+    "در ماه‌های اخیر، استفاده از لوازم جانبی موسوم به «چارم» برای شخصی‌سازی لوازم شخصی در میان نسل جدید بسیار رواج یافته است. این اشیاء کوچک به اقلامی مانند جاسوئیچی‌ها، گوشی‌های تلفن همراه، کیف‌ها و حتی کفش‌ها متصل می‌شوند.",
+    "بر اساس اطلاعات موجود، انگیزه افراد از به کار بردن این اکسسوری‌ها متفاوت است؛ برخی به دلیل پیروی از مد روز به سراغ آن‌ها می‌روند و گروهی دیگر این روند را روشی مناسب برای به همراه داشتن شخصیت‌های مورد علاقه خود می‌دانند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6b55c12dcb2d",
@@ -1929,7 +2257,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/begeni-yagdi-yagmur-yukselden-patili-dostuyla-ic-isitan-poz-7676506",
      "title": "Beğeni yağdı! Yağmur Yüksel'den patili dostuyla iç ısıtan poz",
      "snippet": "Oyuncu Yağmur Yüksel, kariyerinin yanında özel hayatı ve paylaşımlarıyla magazin camiasında adından söz ettiriyor. Instagram'ı aktif olarak kullanan Yağmur, patili can dostu Gece ile yeni pozlarını sevenlerinin beğenisine sundu.",
-     "published": "2026-10-09T20:10:31.000Z"
+     "published": "2026-10-09T20:10:31.000Z",
+     "titleFa": "بارش لایک! عکس‌های گرم یاغмур یوکسل با دوست پشمالویش"
     }
    ],
    "images": [
@@ -1940,7 +2269,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تصاویر جدید یاغмур یوکسل با حیوان خانگی‌اش",
+   "summaryFa": "یاغмур یوکسل، بازیگر ترکیه‌ای، تصاویر تازه‌ای از خود و حیوان خانگی‌اش «گجه» در اینستاگرام منتشر کرد که مورد توجه هواداران قرار گرفت.",
+   "bodyFa": [
+    "یاغмур یوکسل، بازیگر شناخته‌شده، علاوه بر فعالیت‌های حرفه‌ای خود در عرصه بازیگری، با اشتراک‌گذاری تصاویر زندگی شخصی‌اش در شبکه اجتماعی اینستاگرام همواره توجه رسانه‌های مگاتین و هواداران را به خود جلب می‌کند.",
+    "این بازیگر اخیراً عکس‌های تازه‌ای از خود در کنار حیوان خانگی و دوست وفادارش «گجه» منتشر کرده است که این تصاویر جدید با استقبال و پسند کاربران و طرفداران او در فضای مجازی روبه‌رو شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "17c685fbc66d",
@@ -1967,7 +2304,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/ahmet-kural-ve-cagla-gizem-kural-ciftinden-mutlu-aile-tablosu-iste-ogullari-kemal-ve-demirin-son-hali-7676494",
      "title": "Ahmet Kural ve Çağla Gizem Kural çiftinden mutlu aile tablosu! İşte oğulları Kemal ve Demir'in son hali",
      "snippet": "Dizilerin aranılan isimlerinden başarılı oyuncu Ahmet Kural ve eşi Çağla Gizem Kural'ın mutlu evliliği devam ediyor. Kemal ve Demir adında iki çocuğu olan çift, mutlu aile pozlarını Instagram'dan takipçileriyle paylaştı.",
-     "published": "2026-10-09T19:39:10.000Z"
+     "published": "2026-10-09T19:39:10.000Z",
+     "titleFa": "تصویر خانوادگی شاد از احمد کورال و چاغلا گیزم کورال! این هم وضعیت جدید پسرانشان کمال و دمیر"
     }
    ],
    "images": [
@@ -1978,7 +2316,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تصاویر جدید از خانواده Ahmet Kural و Çağla Gizem Kural",
+   "summaryFa": "Ahmet Kural و همسرش Çağla Gizem Kural تصاویر خانوادگی جدیدی از خود و فرزندانشان در اینستاگرام منتشر کردند.",
+   "bodyFa": [
+    "احمد کورال، بازیگر سرشناس سریال‌ها، و همسرش چاغلا گیزم کورال به زندگی مشترک و شاد خود ادامه می‌دهند. این زوج که دارای دو فرزند به نام‌های کمال و دمیر هستند، اخیراً تصاویر خانوادگی خود را در صفحه اینستاگرام با دنبال‌کنندگانشان به اشتراک گذاشته‌اند.",
+    "این تصاویر جدید، لحظات شاد این خانواده چهار نفره را به نمایش می‌گذارد و مورد توجه هواداران این بازیگر قرار گرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ddcebce1237b",
@@ -2052,7 +2398,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/tiktoktan-400-bin-tl-kazaniyor-iddiasi-survivor-asena-demirbagin-dubai-pozlari-olay-oldu-7676472",
      "title": "TikTok'tan 400 bin TL kazanıyor iddiası! Survivor Asena Demirbağ'ın Dubai pozları olay oldu",
      "snippet": "Survivor yarışmasıyla tanınan fenomen Asena Demirbağ’ın TikTok canlı yayınlarında gecede 400 bin lira kazandığı iddiası magazin gündeminde konuşulmaya devam ediyor. Dubai'ye giden Demirbağ, tatil pozlarıyla dikkat çekti.",
-     "published": "2026-10-09T17:48:08.000Z"
+     "published": "2026-10-09T17:48:08.000Z",
+     "titleFa": "ادعای درآمد ۴۰۰ هزار لیره‌ای از تیک‌تاک! عکس‌های دبی از آسنا دمیرباغ، چهره سورنا، جنجال‌ساز شد"
     }
    ],
    "images": [
@@ -2063,7 +2410,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تصاویر دبی و ادعای درآمد ۴۰۰ هزار لیره‌ای آسنا دمیرباغ از تیک‌تاک",
+   "summaryFa": "آسنا دمیرباغ، چهره شناخته‌شده مسابقه سورنا، با انتشار عکس‌های سفرش به دبی توجه‌ها را به خود جلب کرد. همچنین ادعاهایی درباره درآمد شبانه او از پخش زنده تیک‌تاک مطرح شده است.",
+   "bodyFa": [
+    "آسنا دمیرباغ که با حضور در مسابقه سورنا شناخته شده است، این روزها به خاطر انتشار تصاویر سفر خود به دبی در کانون توجه رسانه‌ها و فضای مجازی قرار دارد.",
+    "علاوه بر تصاویر این سفر، ادعایی در جریان است مبنی بر اینکه او از طریق پخش زنده در شبکه اجتماعی تیک‌تاک درآمدی معادل ۴۰۰ هزار لیر در هر شب دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5784668d882f",
