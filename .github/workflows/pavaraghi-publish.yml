@@ -9,13 +9,18 @@ on:
       - '.github/workflows/pavaraghi-publish.yml'
 permissions:
   contents: write
+  pages: write
+  id-token: write
 concurrency:
-  group: publish-pavaraghi-static-pages
+  group: github-pages
   cancel-in-progress: false
 jobs:
-  rebuild:
+  rebuild-and-deploy:
     runs-on: ubuntu-latest
     timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -46,3 +51,12 @@ jobs:
             git commit -m 'Build updated Pavaraghi article pages from catalog'
             git push
           fi
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload complete site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: github-pages
+      - name: Deploy generated pages
+        id: deployment
+        uses: actions/deploy-pages@v4
