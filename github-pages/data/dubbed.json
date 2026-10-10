@@ -2750,7 +2750,7 @@
           "slug": "original-1",
           "kind": "original",
           "status": "published",
-          "title": "پاورقی ارجینال — قسمت ۱",
+          "title": "پاورقی ارجینال قسمت 1 | بازگشت به خانواده و آغاز بحران",
           "originalEpisode": 1,
           "paragraphs": [
             "دوغان، جراح موفقی که در ازمیر زندگی مستقلی برای خود ساخته، سال‌هاست از خانواده‌اش در استانبول فاصله گرفته است. او برای عروسی خواهرش به شهر برمی‌گردد؛ سفری که قرار بوده کوتاه باشد، اما گذشته خانوادگی در همان روز اول دوباره سر راهش قرار می‌گیرد. در خاندان هانجی‌اوغلو روابط قدرت و تجارت با دلخوری‌های قدیمی درآمیخته است.",
@@ -2763,7 +2763,7 @@
             "در مراسم، تیراندازی هوایی نیز رخ می‌دهد و دوغان به آن واکنش تند نشان می‌دهد. اما بحران اصلی در پایان قسمت اتفاق می‌افتد: دوغان صدای فریاد چاغلا را می‌شنود و طاهر را خون‌آلود روی زمین می‌بیند. او که خودش پزشک است، فوراً برای نجات پدر دست به کار می‌شود و طاهر را به بیمارستان می‌رساند. با وجود اختلاف عمیق میانشان، برای زنده ماندنش تلاش می‌کند و عمل جراحی موفق می‌شود.",
             "هنوز خانواده از شوک تیراندازی بیرون نیامده که پلیس خبر تازه‌ای می‌دهد. به گفته مأمور، سلاح مرتبط با تیراندازی به طاهر متعلق به ملک هانجی‌اوغلو بوده و ملک به اتهام اقدام به قتل بازداشت شده است. به این ترتیب، سفر کوتاه دوغان نه‌تنها پایان نمی‌گیرد، بلکه او را در مرکز بحران تازه‌ای قرار می‌دهد: پدرش از مرگ نجات یافته، اما ملک با اتهامی سنگین روبه‌روست."
           ],
-          "sourceNote": "روایت مستند و فشرده بر اساس شرح و گزارش رسمی شبکه ATV؛ بازبینی تمام سکانس‌های نسخه کامل انجام نشده است. سه بخش فارسی تقسیم تحریریه‌اند، نه شماره‌های تأییدشده دوبله تلویزیونی.",
+          "sourceNote": "روایت موجود براساس منابع ثبت‌شده؛ ادعای مشاهده کامل ویدئو یا تطبیق کامل صحنه‌ها ندارد.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/1-bolum/izle",
             "https://www.atv.com.tr/haberler/2026/01/14/abiden-rekor-baslangic-sali-aksaminin-abisi-belli-oldu"
@@ -2772,20 +2772,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 534,
             "minimumTargetWords": 500,
             "textLengthStatus": "length-target-met",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": true
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-1",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 1",
+          "title": "پاورقی فارسی 1 | بازگشت به خانواده و آغاز بحران (آغاز)",
           "originalEpisode": 1,
           "persianEpisode": 1,
           "part": 1,
@@ -2796,7 +2797,7 @@
             "طاهر، پدر خانواده، از سینان می‌خواهد شراکتش را با بهرام قطع کند و از او فاصله بگیرد. سینان نمی‌تواند این همکاری را پایان دهد. وقتی برای استقبال از دوغان به فرودگاه می‌رود، مردان بهرام او را تهدید می‌کنند. دوغان که شاهد اتفاق است، دخالت می‌کند و تهدیدکنندگان را دور می‌کند. به این ترتیب، هنوز دیدار خانوادگی درست شروع نشده، دوغان وارد اختلاف تجاری و خطرناک برادرش می‌شود.",
             "دوغان در حالی به خانه برگشته که ظاهراً قصد ندارد دوباره در کشمکش‌های هانجی‌اوغلو گرفتار شود. بااین‌حال، حضورش بر تصمیم‌های دیگران تأثیر می‌گذارد. او می‌بیند درگیری با بهرام به بیرون از خانه کشیده شده و حتی استقبال معمول از یک عضو خانواده نیز می‌تواند به تهدید و خشونت ختم شود."
           ],
-          "sourceNote": "روایت مستند و فشرده بر اساس شرح و گزارش رسمی شبکه ATV؛ بازبینی تمام سکانس‌های نسخه کامل انجام نشده است. سه بخش فارسی تقسیم تحریریه‌اند، نه شماره‌های تأییدشده دوبله تلویزیونی.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/1-bolum/izle",
             "https://www.atv.com.tr/haberler/2026/01/14/abiden-rekor-baslangic-sali-aksaminin-abisi-belli-oldu"
@@ -2805,20 +2806,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 173,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-2",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 2",
+          "title": "پاورقی فارسی 2 | بازگشت به خانواده و آغاز بحران (میانه)",
           "originalEpisode": 1,
           "persianEpisode": 2,
           "part": 2,
@@ -2829,7 +2831,7 @@
             "ملک نیز به دوغان می‌گوید پدرش قرار است او را از مدرسه بیرون بیاورد و از او کمک می‌خواهد. در همین روزها چاغلا برای مصاحبه شغلی به شرکت هانجی‌اوغلو می‌رود؛ تصمیمی که با نگرانی‌اش برای خواهرش پیوند دارد. وقتی آنجا دوباره دوغان را می‌بیند، به اشتباه گمان می‌کند او همان ییلماز، مسئول مصاحبه، است.",
             "ییلماز کمی بعد از راه می‌رسد و با تأیید دوغان، چاغلا برای کار پذیرفته می‌شود. پس از این اتفاق، ییلماز چاغلا و خواهرش را به مراسم عروسی دعوت می‌کند. در نتیجه چاغلا، که در ابتدا برای یافتن شغل وارد شرکت شده بود، به جمع خانوادگی پیچیده هانجی‌اوغلو نزدیک‌تر می‌شود."
           ],
-          "sourceNote": "روایت مستند و فشرده بر اساس شرح و گزارش رسمی شبکه ATV؛ بازبینی تمام سکانس‌های نسخه کامل انجام نشده است. سه بخش فارسی تقسیم تحریریه‌اند، نه شماره‌های تأییدشده دوبله تلویزیونی.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/1-bolum/izle",
             "https://www.atv.com.tr/haberler/2026/01/14/abiden-rekor-baslangic-sali-aksaminin-abisi-belli-oldu"
@@ -2838,20 +2840,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 167,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-3",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 3",
+          "title": "پاورقی فارسی 3 | بازگشت به خانواده و آغاز بحران (پایان)",
           "originalEpisode": 1,
           "persianEpisode": 3,
           "part": 3,
@@ -2862,7 +2865,7 @@
             "در مراسم، تیراندازی هوایی نیز رخ می‌دهد و دوغان به آن واکنش تند نشان می‌دهد. اما بحران اصلی در پایان قسمت اتفاق می‌افتد: دوغان صدای فریاد چاغلا را می‌شنود و طاهر را خون‌آلود روی زمین می‌بیند. او که خودش پزشک است، فوراً برای نجات پدر دست به کار می‌شود و طاهر را به بیمارستان می‌رساند. با وجود اختلاف عمیق میانشان، برای زنده ماندنش تلاش می‌کند و عمل جراحی موفق می‌شود.",
             "هنوز خانواده از شوک تیراندازی بیرون نیامده که پلیس خبر تازه‌ای می‌دهد. به گفته مأمور، سلاح مرتبط با تیراندازی به طاهر متعلق به ملک هانجی‌اوغلو بوده و ملک به اتهام اقدام به قتل بازداشت شده است. به این ترتیب، سفر کوتاه دوغان نه‌تنها پایان نمی‌گیرد، بلکه او را در مرکز بحران تازه‌ای قرار می‌دهد: پدرش از مرگ نجات یافته، اما ملک با اتهامی سنگین روبه‌روست."
           ],
-          "sourceNote": "روایت مستند و فشرده بر اساس شرح و گزارش رسمی شبکه ATV؛ بازبینی تمام سکانس‌های نسخه کامل انجام نشده است. سه بخش فارسی تقسیم تحریریه‌اند، نه شماره‌های تأییدشده دوبله تلویزیونی.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/1-bolum/izle",
             "https://www.atv.com.tr/haberler/2026/01/14/abiden-rekor-baslangic-sali-aksaminin-abisi-belli-oldu"
@@ -2871,20 +2874,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 194,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "original-19",
           "kind": "original",
           "status": "published",
-          "title": "پاورقی ارجینال — قسمت 19",
+          "title": "پاورقی ارجینال قسمت 19 | بازگشت فصل تازه و تنش‌های خانوادگی",
           "originalEpisode": 19,
           "paragraphs": [
             "هشت ماه است که نزدیکان دوغان فکر می‌کنند او مرده است. اما روایت رسمی قسمت نوزدهم نشان می‌دهد غالب او را نجات داده و مدتی پنهانی تحت درمان بوده است. وقتی دوغان دوباره امکان حرکت پیدا می‌کند، با خانواده‌ای روبه‌رو می‌شود که نظم گذشته‌اش فروپاشیده و ساروهان بر اموال خاندان هانجی‌اوغلو مسلط شده است. دوغان تصمیم می‌گیرد زنده‌بودنش را پنهان نگه دارد و برای بازپس‌گرفتن آنچه خانواده از دست داده، از درون ساختار ساروهان دست به اقدام بزند.",
@@ -2892,7 +2896,7 @@
             "ساروهان هم در مسیر ورود به شبکه بزرگ‌تری از جرایم است. عدنان برای آزمودن او بسته‌ای خالی می‌فرستد و ساروهان با واکنش خود از این آزمون می‌گذرد و به تلفن مخصوص شبکه دسترسی پیدا می‌کند. لیلا به دیدار ساروهان می‌رود و دوغان پنهانی دنبالشان می‌کند. ساروهان ناگهان حلقه‌ای بیرون می‌آورد و از لیلا خواستگاری می‌کند. لیلا شوکه می‌شود و دوغان که صحنه را می‌بیند به‌شدت تحت تأثیر قرار می‌گیرد. پاسخ لیلا در گزارش قسمت نوزدهم روشن نشده است."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "روایت موجود براساس منابع ثبت‌شده؛ ادعای مشاهده کامل ویدئو یا تطبیق کامل صحنه‌ها ندارد.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/haberler/2026/09/09/abi-yeni-sezonun-ilk-bolumuyle-goz-doldurdu",
             "https://www.atv.com.tr/abi/19-bolum/izle"
@@ -2901,20 +2905,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 233,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-4",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 4",
+          "title": "پاورقی فارسی 4 | بازگشت فصل تازه و تنش‌های خانوادگی (آغاز)",
           "originalEpisode": 19,
           "persianEpisode": 4,
           "part": 4,
@@ -2924,7 +2929,7 @@
             "هشت ماه است که نزدیکان دوغان فکر می‌کنند او مرده است. اما روایت رسمی قسمت نوزدهم نشان می‌دهد غالب او را نجات داده و مدتی پنهانی تحت درمان بوده است. وقتی دوغان دوباره امکان حرکت پیدا می‌کند، با خانواده‌ای روبه‌رو می‌شود که نظم گذشته‌اش فروپاشیده و ساروهان بر اموال خاندان هانجی‌اوغلو مسلط شده است. دوغان تصمیم می‌گیرد زنده‌بودنش را پنهان نگه دارد و برای بازپس‌گرفتن آنچه خانواده از دست داده، از درون ساختار ساروهان دست به اقدام بزند."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/haberler/2026/09/09/abi-yeni-sezonun-ilk-bolumuyle-goz-doldurdu",
             "https://www.atv.com.tr/abi/19-bolum/izle"
@@ -2933,20 +2938,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 78,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-5",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 5",
+          "title": "پاورقی فارسی 5 | بازگشت فصل تازه و تنش‌های خانوادگی (میانه)",
           "originalEpisode": 19,
           "persianEpisode": 5,
           "part": 5,
@@ -2956,7 +2962,7 @@
             "در میان این نقشه، دیدار با لیلا گذشته عاطفی دوغان را زنده می‌کند. دوغان گمان دارد لیلا با اختیار خودش کنار ساروهان مانده است، اما واقعیت دیگری وجود دارد: لیلا مأمور پلیس در یک عملیات مخفی است و برای شناسایی شبکه تبهکاری ساروهان به او نزدیک شده. او به‌خاطر مأموریت و احساساتش نسبت به دوغان می‌کوشد او را از ساروهان و رؤیا دور نگه دارد. دوغان هشدار لیلا را نمی‌پذیرد و همچنان با رؤیا در ارتباط می‌ماند."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/haberler/2026/09/09/abi-yeni-sezonun-ilk-bolumuyle-goz-doldurdu",
             "https://www.atv.com.tr/abi/19-bolum/izle"
@@ -2965,20 +2971,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 77,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-6",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 6",
+          "title": "پاورقی فارسی 6 | بازگشت فصل تازه و تنش‌های خانوادگی (پایان)",
           "originalEpisode": 19,
           "persianEpisode": 6,
           "part": 6,
@@ -2988,7 +2995,7 @@
             "ساروهان هم در مسیر ورود به شبکه بزرگ‌تری از جرایم است. عدنان برای آزمودن او بسته‌ای خالی می‌فرستد و ساروهان با واکنش خود از این آزمون می‌گذرد و به تلفن مخصوص شبکه دسترسی پیدا می‌کند. لیلا به دیدار ساروهان می‌رود و دوغان پنهانی دنبالشان می‌کند. ساروهان ناگهان حلقه‌ای بیرون می‌آورد و از لیلا خواستگاری می‌کند. لیلا شوکه می‌شود و دوغان که صحنه را می‌بیند به‌شدت تحت تأثیر قرار می‌گیرد. پاسخ لیلا در گزارش قسمت نوزدهم روشن نشده است."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/haberler/2026/09/09/abi-yeni-sezonun-ilk-bolumuyle-goz-doldurdu",
             "https://www.atv.com.tr/abi/19-bolum/izle"
@@ -2997,20 +3004,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 78,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "original-20",
           "kind": "original",
           "status": "published",
-          "title": "پاورقی ارجینال — قسمت 20",
+          "title": "پاورقی ارجینال قسمت 20 | پیامدهای بحران و تصمیم‌های تازه",
           "originalEpisode": 20,
           "paragraphs": [
             "پیشنهاد ازدواج ساروهان، لیلا را میان مأموریتی خطرناک و علاقه قدیمی‌اش به دوغان گرفتار می‌کند. او برای ادامه عملیات باید به ساروهان نزدیک بماند، اما نمی‌خواهد دوغان را نیز در معرض خطر قرار دهد. دوغان در حرف‌های لیلا نکته‌هایی متناقض می‌بیند و به این فکر می‌افتد که پشت رابطه ظاهری او با ساروهان حقیقت دیگری پنهان است. هرچه لیلا تلاش می‌کند فاصله را حفظ کند، دوغان بیشتر به دنبال فهمیدن ماجرا می‌رود.",
@@ -3018,7 +3026,7 @@
             "دوغان همچنین رد خواهرش ملک را پیدا می‌کند. ملک که می‌خواهد از دیگران دور باشد، با نام «میرا» زندگی تازه‌ای برای خود ساخته است. دوغان تصمیم می‌گیرد برای حفاظت از او بی‌سروصدا وارد عمل شود. در سوی دیگر ساروهان نقشه‌ای علیه سینان تدارک می‌بیند و پیام‌های ناشناس بندر از آغاز رویارویی بزرگ‌تری خبر می‌دهند. پایان این قسمت همچنان به تصمیم لیلا و پیامدهای بازی دوغان در بندر وابسته است."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "روایت موجود براساس منابع ثبت‌شده؛ ادعای مشاهده کامل ویدئو یا تطبیق کامل صحنه‌ها ندارد.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/20-bolum/izle"
           ],
@@ -3026,20 +3034,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 216,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-7",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 7",
+          "title": "پاورقی فارسی 7 | پیامدهای بحران و تصمیم‌های تازه (آغاز)",
           "originalEpisode": 20,
           "persianEpisode": 7,
           "part": 7,
@@ -3049,7 +3058,7 @@
             "پیشنهاد ازدواج ساروهان، لیلا را میان مأموریتی خطرناک و علاقه قدیمی‌اش به دوغان گرفتار می‌کند. او برای ادامه عملیات باید به ساروهان نزدیک بماند، اما نمی‌خواهد دوغان را نیز در معرض خطر قرار دهد. دوغان در حرف‌های لیلا نکته‌هایی متناقض می‌بیند و به این فکر می‌افتد که پشت رابطه ظاهری او با ساروهان حقیقت دیگری پنهان است. هرچه لیلا تلاش می‌کند فاصله را حفظ کند، دوغان بیشتر به دنبال فهمیدن ماجرا می‌رود."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/20-bolum/izle"
           ],
@@ -3057,20 +3066,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 72,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-8",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 8",
+          "title": "پاورقی فارسی 8 | پیامدهای بحران و تصمیم‌های تازه (میانه)",
           "originalEpisode": 20,
           "persianEpisode": 8,
           "part": 8,
@@ -3080,7 +3090,7 @@
             "دوغان برای ضربه‌زدن به قدرت ساروهان در بندر دست به اقدام می‌زند. حرکت او بحرانی جدی ایجاد می‌کند و بخشی از راه‌حل ناگهان در اختیار سینان قرار می‌گیرد. این بحران به جنگی گسترده‌تر میان دوغان و ساروهان تبدیل می‌شود؛ جنگی که موضوع آن تنها روابط شخصی نیست و پای شبکه محموله‌ها و دارایی خانواده هانجی‌اوغلو هم در میان است. شرح رسمی نوع دقیق محموله و نتیجه نهایی اقدام دوغان را در این قسمت توضیح نمی‌دهد."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/20-bolum/izle"
           ],
@@ -3088,20 +3098,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 75,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-9",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 9",
+          "title": "پاورقی فارسی 9 | پیامدهای بحران و تصمیم‌های تازه (پایان)",
           "originalEpisode": 20,
           "persianEpisode": 9,
           "part": 9,
@@ -3111,7 +3122,7 @@
             "دوغان همچنین رد خواهرش ملک را پیدا می‌کند. ملک که می‌خواهد از دیگران دور باشد، با نام «میرا» زندگی تازه‌ای برای خود ساخته است. دوغان تصمیم می‌گیرد برای حفاظت از او بی‌سروصدا وارد عمل شود. در سوی دیگر ساروهان نقشه‌ای علیه سینان تدارک می‌بیند و پیام‌های ناشناس بندر از آغاز رویارویی بزرگ‌تری خبر می‌دهند. پایان این قسمت همچنان به تصمیم لیلا و پیامدهای بازی دوغان در بندر وابسته است."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/20-bolum/izle"
           ],
@@ -3119,20 +3130,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 69,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "original-21",
           "kind": "original",
           "status": "published",
-          "title": "پاورقی ارجینال — قسمت 21",
+          "title": "پاورقی ارجینال قسمت 21 | ربوده‌شدن لیلا و تشدید خطر",
           "originalEpisode": 21,
           "paragraphs": [
             "اقدام دوغان در بندر ساروهان را خشمگین کرده است. در شهر تصویرهایی دیده می‌شود که از مرگ غالب خبر می‌دهند و دشمنی دو مرد شدت می‌گیرد. دوغان از سوی دیگر به لیلا مشکوک است؛ پس از حرف زدن با رؤیا، متوجه تناقضی در روایت لیلا می‌شود و به این نتیجه می‌رسد که او حقیقت را از دوغان پنهان کرده است. سینان نیز که از تله فرمان جان سالم به در برده، برای بازپس‌گیری دارایی ازدست‌رفته خانواده به مقابله با ساروهان می‌رود.",
@@ -3140,7 +3152,7 @@
             "ساروهان با خیال پیروزی نزد عدنان می‌رود، اما وقتی درهای خودرو باز می‌شود، به‌جای کالای مورد انتظار عروسک خرسی دیده می‌شود. عدنان تنها چهل‌وهشت ساعت برای یافتن محموله به ساروهان فرصت می‌دهد. هم‌زمان افراد قدرت می‌خواهند رؤیا را بربایند. لیلا با آنان درگیر می‌شود و کمک می‌کند رؤیا فرار کند؛ اما خودش به دست قدرت می‌افتد. این پایانِ تأییدشده قسمت بیست‌ویکم است، نه یک حدس درباره نجات بعدی او."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "روایت موجود براساس منابع ثبت‌شده؛ ادعای مشاهده کامل ویدئو یا تطبیق کامل صحنه‌ها ندارد.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/haberler/2026/09/23/leyla-kacirildi",
             "https://www.atv.com.tr/abi/galeri/abi-2-bolumde-neler-oldu"
@@ -3149,20 +3161,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 227,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-10",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 10",
+          "title": "پاورقی فارسی 10 | ربوده‌شدن لیلا و تشدید خطر (آغاز)",
           "originalEpisode": 21,
           "persianEpisode": 10,
           "part": 10,
@@ -3172,7 +3185,7 @@
             "اقدام دوغان در بندر ساروهان را خشمگین کرده است. در شهر تصویرهایی دیده می‌شود که از مرگ غالب خبر می‌دهند و دشمنی دو مرد شدت می‌گیرد. دوغان از سوی دیگر به لیلا مشکوک است؛ پس از حرف زدن با رؤیا، متوجه تناقضی در روایت لیلا می‌شود و به این نتیجه می‌رسد که او حقیقت را از دوغان پنهان کرده است. سینان نیز که از تله فرمان جان سالم به در برده، برای بازپس‌گیری دارایی ازدست‌رفته خانواده به مقابله با ساروهان می‌رود."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/haberler/2026/09/23/leyla-kacirildi",
             "https://www.atv.com.tr/abi/galeri/abi-2-bolumde-neler-oldu"
@@ -3181,20 +3194,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 81,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-11",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 11",
+          "title": "پاورقی فارسی 11 | ربوده‌شدن لیلا و تشدید خطر (میانه)",
           "originalEpisode": 21,
           "persianEpisode": 11,
           "part": 11,
@@ -3204,7 +3218,7 @@
             "ساروهان و عدنان برای جابه‌جایی محموله‌ای مهم آماده می‌شوند. دوغان هم نقشه‌ای برای تصاحب آن می‌چیند. لیلا برای آنکه دوغان گرفتار دام نشود، او را در خانه‌ای کوهستانی حبس می‌کند، اما می‌فهمد محموله برنامه‌ریزی‌شده خودش بخشی از تله ساروهان برای یافتن دشمن ناشناس است. دوغان موفق می‌شود از خانه بیرون بیاید و همراه بهرام و یاشار مسیر محموله واقعی را پیدا کند. او به جای افتادن در دام، کالایی را که ساروهان برای عدنان می‌فرستاد تصاحب می‌کند."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/haberler/2026/09/23/leyla-kacirildi",
             "https://www.atv.com.tr/abi/galeri/abi-2-bolumde-neler-oldu"
@@ -3213,20 +3227,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 77,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-12",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 12",
+          "title": "پاورقی فارسی 12 | ربوده‌شدن لیلا و تشدید خطر (پایان)",
           "originalEpisode": 21,
           "persianEpisode": 12,
           "part": 12,
@@ -3236,7 +3251,7 @@
             "ساروهان با خیال پیروزی نزد عدنان می‌رود، اما وقتی درهای خودرو باز می‌شود، به‌جای کالای مورد انتظار عروسک خرسی دیده می‌شود. عدنان تنها چهل‌وهشت ساعت برای یافتن محموله به ساروهان فرصت می‌دهد. هم‌زمان افراد قدرت می‌خواهند رؤیا را بربایند. لیلا با آنان درگیر می‌شود و کمک می‌کند رؤیا فرار کند؛ اما خودش به دست قدرت می‌افتد. این پایانِ تأییدشده قسمت بیست‌ویکم است، نه یک حدس درباره نجات بعدی او."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/haberler/2026/09/23/leyla-kacirildi",
             "https://www.atv.com.tr/abi/galeri/abi-2-bolumde-neler-oldu"
@@ -3245,20 +3260,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 69,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "original-22",
           "kind": "original",
           "status": "published",
-          "title": "پاورقی ارجینال — قسمت 22",
+          "title": "پاورقی ارجینال قسمت 22 | رویارویی‌های تازه در خانواده",
           "originalEpisode": 22,
           "paragraphs": [
             "لیلا پیشنهاد ازدواج ساروهان را پذیرفته، ولی دوغان باور نمی‌کند همه این تصمیم از خواست شخصی او سرچشمه گرفته باشد. دوغان تلاش می‌کند به علت پنهان ماجرا پی ببرد و هم‌زمان برنامه مقابله با ساروهان را پیش ببرد. لیلا نیز برای ماندن در کنار ساروهان بهای سنگینی می‌پردازد و پنهان‌کردن احساسش به دوغان دشوارتر شده است. این وضعیت هر دیدار آن‌ها را پیچیده می‌کند.",
@@ -3266,7 +3282,7 @@
             "دوغان اکنون هم می‌خواهد بفهمد چه رازی لیلا را به ساروهان وابسته کرده، و هم قصد دارد انتقال بزرگ بعدی را مختل کند. ساروهان نیز می‌کوشد مهاجم ناشناس را به دام بیندازد و می‌داند در اطرافش بازی دیگری جریان دارد. خلاصه رسمی قسمت بیست‌ودوم نتیجه دقیق این نقشه‌ها را روشن نمی‌کند. آنچه ثبت می‌کنیم تشدید رقابت در بندر، نزدیک‌شدن سینان به جنگ اقتصادی و ادامه پنهان‌کاری دوغان و لیلاست."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "روایت موجود براساس منابع ثبت‌شده؛ ادعای مشاهده کامل ویدئو یا تطبیق کامل صحنه‌ها ندارد.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/22-bolum/izle"
           ],
@@ -3274,20 +3290,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 194,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-13",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 13",
+          "title": "پاورقی فارسی 13 | رویارویی‌های تازه در خانواده (آغاز)",
           "originalEpisode": 22,
           "persianEpisode": 13,
           "part": 13,
@@ -3297,7 +3314,7 @@
             "لیلا پیشنهاد ازدواج ساروهان را پذیرفته، ولی دوغان باور نمی‌کند همه این تصمیم از خواست شخصی او سرچشمه گرفته باشد. دوغان تلاش می‌کند به علت پنهان ماجرا پی ببرد و هم‌زمان برنامه مقابله با ساروهان را پیش ببرد. لیلا نیز برای ماندن در کنار ساروهان بهای سنگینی می‌پردازد و پنهان‌کردن احساسش به دوغان دشوارتر شده است. این وضعیت هر دیدار آن‌ها را پیچیده می‌کند."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/22-bolum/izle"
           ],
@@ -3305,20 +3322,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 64,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-14",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 14",
+          "title": "پاورقی فارسی 14 | رویارویی‌های تازه در خانواده (میانه)",
           "originalEpisode": 22,
           "persianEpisode": 14,
           "part": 14,
@@ -3328,7 +3346,7 @@
             "ساروهان که در بندر ضربه خورده، به دنبال عامل آن می‌گردد و برای انتقال محموله تازه برنامه می‌ریزد. سینان که کم‌کم به چهره واقعی ساروهان پی برده، برای بازپس‌گیری اموال خانواده هانجی‌اوغلو مصمم‌تر می‌شود. دوغان برای نزدیک شدن به رؤیا از نام «مورات» استفاده می‌کند؛ کاری که حسادت لیلا را برمی‌انگیزد و می‌تواند او را به اطلاعات پنهانی ساروهان نزدیک‌تر کند."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/22-bolum/izle"
           ],
@@ -3336,20 +3354,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 61,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-15",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 15",
+          "title": "پاورقی فارسی 15 | رویارویی‌های تازه در خانواده (پایان)",
           "originalEpisode": 22,
           "persianEpisode": 15,
           "part": 15,
@@ -3359,7 +3378,7 @@
             "دوغان اکنون هم می‌خواهد بفهمد چه رازی لیلا را به ساروهان وابسته کرده، و هم قصد دارد انتقال بزرگ بعدی را مختل کند. ساروهان نیز می‌کوشد مهاجم ناشناس را به دام بیندازد و می‌داند در اطرافش بازی دیگری جریان دارد. خلاصه رسمی قسمت بیست‌ودوم نتیجه دقیق این نقشه‌ها را روشن نمی‌کند. آنچه ثبت می‌کنیم تشدید رقابت در بندر، نزدیک‌شدن سینان به جنگ اقتصادی و ادامه پنهان‌کاری دوغان و لیلاست."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/22-bolum/izle"
           ],
@@ -3367,20 +3386,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 69,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "original-23",
           "kind": "original",
           "status": "published",
-          "title": "پاورقی ارجینال — قسمت 23",
+          "title": "پاورقی ارجینال قسمت 23 | ادامه کشمکش‌های خانواده",
           "originalEpisode": 23,
           "paragraphs": [
             "آشکار شدن زنده‌بودن دوغان به خانواده هانجی‌اوغلو فرصت دیداری دوباره می‌دهد؛ خانواده‌ای که ماه‌ها تصور می‌کرد او را از دست داده است. اما بازگشت دوغان فقط پایان یک دوری طولانی نیست. او برای حفاظت از نزدیکانش و بازپس‌گرفتن اموالی که ساروهان تصاحب کرده، وارد مرحله آشکارتر مبارزه می‌شود. دوغان حرکتی جسورانه انجام می‌دهد و ساروهان ناگهان او را پشت میزی می‌بیند که انتظار حضورش را نداشته است.",
@@ -3388,7 +3408,7 @@
             "روشن‌شدن بخش‌هایی از رازهای گذشته باعث می‌شود دوغان و لیلا راهی برای مبارزه مشترک پیدا کنند. با این همه، هدف ساروهان دیگر فقط دوغان نیست و نزدیکان او نیز در معرض خطرند. دوغان برای بیرون آوردن عزیزانش از این بحران حاضر می‌شود همه چیز را به خطر بیندازد. خلاصه رسمی پایان قطعی این رویارویی و سرنوشت تمام افراد را بیان نمی‌کند؛ بنابراین آن را به‌عنوان اتفاقی حل‌شده روایت نمی‌کنیم."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "روایت موجود براساس منابع ثبت‌شده؛ ادعای مشاهده کامل ویدئو یا تطبیق کامل صحنه‌ها ندارد.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/23-bolum/izle"
           ],
@@ -3396,20 +3416,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 210,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-16",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 16",
+          "title": "پاورقی فارسی 16 | ادامه کشمکش‌های خانواده (آغاز)",
           "originalEpisode": 23,
           "persianEpisode": 16,
           "part": 16,
@@ -3419,7 +3440,7 @@
             "آشکار شدن زنده‌بودن دوغان به خانواده هانجی‌اوغلو فرصت دیداری دوباره می‌دهد؛ خانواده‌ای که ماه‌ها تصور می‌کرد او را از دست داده است. اما بازگشت دوغان فقط پایان یک دوری طولانی نیست. او برای حفاظت از نزدیکانش و بازپس‌گرفتن اموالی که ساروهان تصاحب کرده، وارد مرحله آشکارتر مبارزه می‌شود. دوغان حرکتی جسورانه انجام می‌دهد و ساروهان ناگهان او را پشت میزی می‌بیند که انتظار حضورش را نداشته است."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/23-bolum/izle"
           ],
@@ -3427,20 +3448,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 67,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-17",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 17",
+          "title": "پاورقی فارسی 17 | ادامه کشمکش‌های خانواده (میانه)",
           "originalEpisode": 23,
           "persianEpisode": 17,
           "part": 17,
@@ -3450,7 +3472,7 @@
             "لیلا هنوز زیر فشار رازهایی است که حفظ آن‌ها را بخشی از مأموریت خود می‌داند. او می‌خواهد هم از دوغان محافظت کند و هم عملیاتی را که علیه ساروهان آغاز کرده به خطر نیندازد. اما تلفنی که به دست ساروهان می‌رسد معادلات را عوض می‌کند. رؤیا هم از آنچه فهمیده سرخورده می‌شود. در سوی دیگر، ساروهان متوجه می‌شود در اطرافش نقشه‌ای در جریان است و بدون آشکار کردن همه دانسته‌هایش برای ضدحمله آماده می‌شود."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/23-bolum/izle"
           ],
@@ -3458,20 +3480,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 74,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-18",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 18",
+          "title": "پاورقی فارسی 18 | ادامه کشمکش‌های خانواده (پایان)",
           "originalEpisode": 23,
           "persianEpisode": 18,
           "part": 18,
@@ -3481,7 +3504,7 @@
             "روشن‌شدن بخش‌هایی از رازهای گذشته باعث می‌شود دوغان و لیلا راهی برای مبارزه مشترک پیدا کنند. با این همه، هدف ساروهان دیگر فقط دوغان نیست و نزدیکان او نیز در معرض خطرند. دوغان برای بیرون آوردن عزیزانش از این بحران حاضر می‌شود همه چیز را به خطر بیندازد. خلاصه رسمی پایان قطعی این رویارویی و سرنوشت تمام افراد را بیان نمی‌کند؛ بنابراین آن را به‌عنوان اتفاقی حل‌شده روایت نمی‌کنیم."
           ],
           "publishedAt": "2026-10-09",
-          "sourceNote": "روایت فشرده مبتنی بر معرفی و گزارش رسمی شبکه ATV؛ هیچ رونوشت کامل صحنه‌به‌صحنه بررسی نشده است. سه بخش فارسی صرفاً تقسیم تحریریه مشکی‌مدیا هستند و برش دوبله تلویزیونی تأیید نشده است.",
+          "sourceNote": "بخش‌بندی تحریریه براساس پاورقی ارجینال موجود؛ شماره قسمت رسمی دوبله نیست و انطباق با نسخه تلویزیونی تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/abi/23-bolum/izle"
           ],
@@ -3489,13 +3512,14 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 69,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-links-recorded-story-detail-unverified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         }
       ],
@@ -3510,7 +3534,11 @@
         "transcriptStatus": "not-acquired",
         "dubbedMappingStatus": "unverified",
         "publicationStatus": "published-partial-coverage",
-        "publicationAuditNote": "Published catalog entries exist; full broadcast coverage and source verification not established (audit 2026-10-09)."
+        "publicationAuditNote": "Published catalog entries exist; full broadcast coverage and source verification not established (audit 2026-10-09).",
+        "editorialPriority": 5,
+        "completionStatus": "existing-six-episodes-structurally-aligned-video-review-pending",
+        "currentScope": "existing-episodes-1-and-19-through-23-only",
+        "editorialNote": "Historical backfill prohibited; only already present entries edited."
       }
     },
     {
