@@ -46,11 +46,13 @@
           "sourceCompleteness": "official episode synopsis + official final-scene metadata + secondary character account",
           "verifiedSourceUrls": [
             "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
-            "https://www.youtube.com/watch?v=AdixCcxwOnA"
+            "https://www.youtube.com/watch?v=AdixCcxwOnA",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede",
+            "https://www.youtube.com/watch?v=KEmczHqPIy0"
           ],
           "editorialNote": "Concise narrative, not a fully verified scene-by-scene recap; no invented dialogues. Do not advertise as 8–10 minutes unless actual voice test confirms.",
           "part": 1,
-          "sourceNote": "روایت فشرده بر پایه منابع رسمی و اطلاعات تکمیلی منتشرشده؛ بازبینی صحنه‌به‌صحنه انجام نشده است.",
+          "sourceNote": "داستان اصلی با خلاصه و گزارش رسمی Star TV و شرح رسمی کانال ویدئویی مطابقت اولیه دارد؛ زمان‌بندی صحنه‌ها، گفت‌وگوها و مرزبندی دوبله هنوز بررسی نشده‌اند.",
           "publishedAt": "2026-10-09",
           "youtubeId": "",
           "audioUrl": "",
@@ -61,13 +63,14 @@
           "gallery": [],
           "editorialQuality": "source-grounded-condensed",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 658,
             "minimumTargetWords": 500,
             "textLengthStatus": "length-target-met",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-and-postbroadcast-recap-text-verified",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": true
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           },
           "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
           "characterNameConflict": {
@@ -79,7 +82,8 @@
               "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
               "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede"
             ]
-          }
+          },
+          "episodeEvidenceFile": "github-pages/data/pavaraghi-evidence/tuzlu-kahve-original-1.json"
         },
         {
           "slug": "dubbed-1",
@@ -99,7 +103,7 @@
           "broadcastRefs": [],
           "sourceCompleteness": "official synopsis plus secondary character profiles; scene chronology not independently verified",
           "editorialNote": "Editorial pre-broadcast segment. Not a GEM or MBC cut. Not yet sufficient for an 8–10 minute recording.",
-          "sourceNote": "بخش‌بندی تحریریه مشکی‌مدیا پیش از پخش دوبله؛ این شماره، شماره رسمی GEM یا MBC Persia نیست.",
+          "sourceNote": "داستان اصلی با خلاصه و گزارش رسمی Star TV و شرح رسمی کانال ویدئویی مطابقت اولیه دارد؛ زمان‌بندی صحنه‌ها، گفت‌وگوها و مرزبندی دوبله هنوز بررسی نشده‌اند.",
           "publishedAt": "2026-10-09",
           "youtubeId": "",
           "audioUrl": "",
@@ -111,17 +115,20 @@
           "editorialQuality": "source-grounded-condensed",
           "verifiedSourceUrls": [
             "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
-            "https://www.youtube.com/watch?v=AdixCcxwOnA"
+            "https://www.youtube.com/watch?v=AdixCcxwOnA",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede",
+            "https://www.youtube.com/watch?v=KEmczHqPIy0"
           ],
           "sourceAttributionNote": "منابع قسمت اول نسخه اصلی؛ مرزبندی این روایت فارسی با پخش دوبله تأیید نشده است.",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 245,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-and-postbroadcast-recap-text-verified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           },
           "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
           "characterNameConflict": {
@@ -133,7 +140,8 @@
               "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
               "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede"
             ]
-          }
+          },
+          "episodeEvidenceFile": "github-pages/data/pavaraghi-evidence/tuzlu-kahve-original-1.json"
         },
         {
           "slug": "dubbed-2",
@@ -153,7 +161,7 @@
           "broadcastRefs": [],
           "sourceCompleteness": "official synopsis plus secondary character profiles; scene chronology not independently verified",
           "editorialNote": "Editorial pre-broadcast segment. Not a GEM or MBC cut. Not yet sufficient for an 8–10 minute recording.",
-          "sourceNote": "بخش‌بندی تحریریه مشکی‌مدیا پیش از پخش دوبله؛ این شماره، شماره رسمی GEM یا MBC Persia نیست.",
+          "sourceNote": "داستان اصلی با خلاصه و گزارش رسمی Star TV و شرح رسمی کانال ویدئویی مطابقت اولیه دارد؛ زمان‌بندی صحنه‌ها، گفت‌وگوها و مرزبندی دوبله هنوز بررسی نشده‌اند.",
           "publishedAt": "2026-10-09",
           "youtubeId": "",
           "audioUrl": "",
@@ -165,17 +173,20 @@
           "editorialQuality": "source-grounded-condensed",
           "verifiedSourceUrls": [
             "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
-            "https://www.youtube.com/watch?v=AdixCcxwOnA"
+            "https://www.youtube.com/watch?v=AdixCcxwOnA",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede",
+            "https://www.youtube.com/watch?v=KEmczHqPIy0"
           ],
           "sourceAttributionNote": "منابع قسمت اول نسخه اصلی؛ مرزبندی این روایت فارسی با پخش دوبله تأیید نشده است.",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 207,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-and-postbroadcast-recap-text-verified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           },
           "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
           "characterNameConflict": {
@@ -187,7 +198,8 @@
               "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
               "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede"
             ]
-          }
+          },
+          "episodeEvidenceFile": "github-pages/data/pavaraghi-evidence/tuzlu-kahve-original-1.json"
         },
         {
           "slug": "dubbed-3",
@@ -207,7 +219,7 @@
           "broadcastRefs": [],
           "sourceCompleteness": "official synopsis plus secondary character profiles; scene chronology not independently verified",
           "editorialNote": "Editorial pre-broadcast segment. Not a GEM or MBC cut. Not yet sufficient for an 8–10 minute recording.",
-          "sourceNote": "بخش‌بندی تحریریه مشکی‌مدیا پیش از پخش دوبله؛ این شماره، شماره رسمی GEM یا MBC Persia نیست.",
+          "sourceNote": "داستان اصلی با خلاصه و گزارش رسمی Star TV و شرح رسمی کانال ویدئویی مطابقت اولیه دارد؛ زمان‌بندی صحنه‌ها، گفت‌وگوها و مرزبندی دوبله هنوز بررسی نشده‌اند.",
           "publishedAt": "2026-10-09",
           "youtubeId": "",
           "audioUrl": "",
@@ -219,17 +231,20 @@
           "editorialQuality": "source-grounded-condensed",
           "verifiedSourceUrls": [
             "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
-            "https://www.youtube.com/watch?v=AdixCcxwOnA"
+            "https://www.youtube.com/watch?v=AdixCcxwOnA",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede",
+            "https://www.youtube.com/watch?v=KEmczHqPIy0"
           ],
           "sourceAttributionNote": "منابع قسمت اول نسخه اصلی؛ مرزبندی این روایت فارسی با پخش دوبله تأیید نشده است.",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 206,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-and-postbroadcast-recap-text-verified",
             "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           },
           "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
           "characterNameConflict": {
@@ -241,7 +256,8 @@
               "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
               "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede"
             ]
-          }
+          },
+          "episodeEvidenceFile": "github-pages/data/pavaraghi-evidence/tuzlu-kahve-original-1.json"
         },
         {
           "slug": "original-2",
@@ -1311,7 +1327,19 @@
           "Resolve Selin/Elit identity discrepancy",
           "Verify dubbed episode boundaries against actual broadcaster cuts",
           "Rewrite editorial Persian sections only after source confirmation"
-        ]
+        ],
+        "characterNameResolution": {
+          "character": "Murat's partner",
+          "preferredDisplayName": "الیت",
+          "basis": "Official Star TV postbroadcast report says Elit and official video channel character cast maps Yasemin Ergene to Elit İpekli. Star TV episode synopsis and a prerelease post alternatively say Selin.",
+          "status": "resolved-for-editorial-display-with-official-source-conflict-noted",
+          "checkedAt": "2026-10-10",
+          "sourceUrls": [
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede",
+            "https://www.youtube.com/watch?v=AdixCcxwOnA",
+            "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum"
+          ]
+        }
       },
       "productionPlan": {
         "originalEpisode": 1,
