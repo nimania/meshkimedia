@@ -2222,7 +2222,7 @@
           "slug": "original-2",
           "kind": "original",
           "status": "published",
-          "title": "پاورقی ارجینال — قسمت ۲",
+          "title": "پاورقی ارجینال قسمت 2 | دستینا در قصر و حلقه توطئه",
           "originalEpisode": 2,
           "paragraphs": [
             "علاءالدین بار دیگر دستینا را می‌بیند؛ دختری که سال‌ها پیش جانش را نجات داده، ولی حالا از سرزمینی می‌آید که با قدرت سیاسی سلطان اختلاف دارد. دستینا تلاش می‌کند هویت واقعی‌اش را پنهان کند، زیرا آشکار شدن اینکه شاهزاده کالونوروس است برای خودش و نزدیکانش خطر دارد.",
@@ -2232,7 +2232,7 @@
             "علاءالدین هم‌زمان در پی کشف کسانی است که برایش کمین گذاشته بودند. نزدیک‌شدن سلطان به حقیقت، جلال‌الدین را نگران می‌کند و او می‌خواهد پیش از آشکار شدن نقش خود راهی برای خروج از بحران پیدا کند.",
             "در کالونوروس، کر وارد از وضعیت فرزندانش بی‌خبر است و آندریاس، جنگجویی قدرتمند، را دوباره به کار فرامی‌خواند. او خود برای روبه‌روشدن با سلطان به قونیه می‌آید؛ علاءالدین هم می‌خواهد از این ملاقات به سود سیاست خود استفاده کند. نتیجه نهایی مذاکره یا آشکار شدن هویت دستینا در معرفی قسمت دوم قطعی نشده و در این روایت نیز قطعی معرفی نمی‌شود."
           ],
-          "sourceNote": "روایت فشرده بر اساس شرح رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بازبینی کامل ویدئو و دیالوگ‌ها انجام نشده است. سه بخش فارسی تقسیم تحریریه مشکی‌مدیا هستند، نه شماره رسمی قسمت دوبله.",
+          "sourceNote": "بازگویی بر اساس شرح رسمی ATV؛ برای تأیید صحنه‌به‌صحنه باید ویدئوی کامل بررسی شود.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/ask-ve-taht/2-bolum/izle"
           ],
@@ -2240,20 +2240,21 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 282,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-synopsis-checked",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-4",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 4",
+          "title": "پاورقی فارسی 4 | بازگشت دستینا به قصر",
           "originalEpisode": 2,
           "persianEpisode": 4,
           "part": 4,
@@ -2263,7 +2264,7 @@
             "علاءالدین بار دیگر دستینا را می‌بیند؛ دختری که سال‌ها پیش جانش را نجات داده، ولی حالا از سرزمینی می‌آید که با قدرت سیاسی سلطان اختلاف دارد. دستینا تلاش می‌کند هویت واقعی‌اش را پنهان کند، زیرا آشکار شدن اینکه شاهزاده کالونوروس است برای خودش و نزدیکانش خطر دارد.",
             "وقتی دستینا به قصر قونیه می‌رسد، رابطه سلطان با اطرافیانش پیچیده‌تر می‌شود. ملیکه که در انتظار ازدواج با علاءالدین است، حضور زن جوان دیگری در نزدیکی او را خوش نمی‌دارد. دستینا هم با وجود تلاش برای پنهان ماندن، ناگزیر وارد مناسبات حساس دربار می‌شود."
           ],
-          "sourceNote": "روایت فشرده بر اساس شرح رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بازبینی کامل ویدئو و دیالوگ‌ها انجام نشده است. سه بخش فارسی تقسیم تحریریه مشکی‌مدیا هستند، نه شماره رسمی قسمت دوبله.",
+          "sourceNote": "روایت تحریریه بر اساس قسمت اصلی؛ مرزبندی این بخش‌ها با قسمت‌بندی شبکه دوبله تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/ask-ve-taht/2-bolum/izle"
           ],
@@ -2271,11 +2272,11 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 91,
-            "minimumTargetWords": 500,
+            "minimumTargetWords": 150,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-synopsis-checked",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           }
@@ -2284,7 +2285,7 @@
           "slug": "dubbed-5",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 5",
+          "title": "پاورقی فارسی 5 | جلال‌الدین و توطئه کمین",
           "originalEpisode": 2,
           "persianEpisode": 5,
           "part": 5,
@@ -2294,7 +2295,7 @@
             "ورود آنا به اتاق ویژه سلطان از پیش ملیکه را رنجانده بود. حالا بازگشت علاءالدین همراه دستینا تنش را به رویارویی مستقیم نزدیک می‌کند. معرفی شبکه می‌گوید برخورد دستینا و ملیکه که دستینا با عنوان اسیر وارد قصر شده، نخستین مرحله رقابت آن دو را رقم می‌زند.",
             "دستینا از یک سو برای محافظت از کالونوروس هویتش را پنهان می‌کند و از سوی دیگر باید با مخالفت ملیکه کنار بیاید. در چنین محیطی، اختلاف شخصی این دو زن از روابط قدرت قصر جدا نیست. اما گفت‌وگوهای دقیق میان آن‌ها در خلاصه رسمی ذکر نشده است."
           ],
-          "sourceNote": "روایت فشرده بر اساس شرح رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بازبینی کامل ویدئو و دیالوگ‌ها انجام نشده است. سه بخش فارسی تقسیم تحریریه مشکی‌مدیا هستند، نه شماره رسمی قسمت دوبله.",
+          "sourceNote": "روایت تحریریه بر اساس قسمت اصلی؛ مرزبندی این بخش‌ها با قسمت‌بندی شبکه دوبله تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/ask-ve-taht/2-bolum/izle"
           ],
@@ -2302,11 +2303,11 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 94,
-            "minimumTargetWords": 500,
+            "minimumTargetWords": 150,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-synopsis-checked",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           }
@@ -2315,7 +2316,7 @@
           "slug": "dubbed-6",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 6",
+          "title": "پاورقی فارسی 6 | رویارویی کر وارد با سلطان",
           "originalEpisode": 2,
           "persianEpisode": 6,
           "part": 6,
@@ -2325,7 +2326,7 @@
             "علاءالدین هم‌زمان در پی کشف کسانی است که برایش کمین گذاشته بودند. نزدیک‌شدن سلطان به حقیقت، جلال‌الدین را نگران می‌کند و او می‌خواهد پیش از آشکار شدن نقش خود راهی برای خروج از بحران پیدا کند.",
             "در کالونوروس، کر وارد از وضعیت فرزندانش بی‌خبر است و آندریاس، جنگجویی قدرتمند، را دوباره به کار فرامی‌خواند. او خود برای روبه‌روشدن با سلطان به قونیه می‌آید؛ علاءالدین هم می‌خواهد از این ملاقات به سود سیاست خود استفاده کند. نتیجه نهایی مذاکره یا آشکار شدن هویت دستینا در معرفی قسمت دوم قطعی نشده و در این روایت نیز قطعی معرفی نمی‌شود."
           ],
-          "sourceNote": "روایت فشرده بر اساس شرح رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بازبینی کامل ویدئو و دیالوگ‌ها انجام نشده است. سه بخش فارسی تقسیم تحریریه مشکی‌مدیا هستند، نه شماره رسمی قسمت دوبله.",
+          "sourceNote": "روایت تحریریه بر اساس قسمت اصلی؛ مرزبندی این بخش‌ها با قسمت‌بندی شبکه دوبله تأیید نشده است.",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/ask-ve-taht/2-bolum/izle"
           ],
@@ -2333,11 +2334,11 @@
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 97,
-            "minimumTargetWords": 500,
+            "minimumTargetWords": 150,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-synopsis-checked",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           }
@@ -2475,7 +2476,7 @@
           "slug": "original-4",
           "kind": "original",
           "status": "published",
-          "title": "پاورقی ارجینال — قسمت 4",
+          "title": "پاورقی ارجینال قسمت 4 | اتهام خیانت و راز راهروی مخفی",
           "originalEpisode": 4,
           "paragraphs": [
             "دستینا ملیکه را به خیانت متهم می‌کند و این اتهام در برابر علاءالدین، مناسبات قصر را به هم می‌ریزد. ملیکه که پیش‌تر هم از نزدیکی دستینا به سلطان ناراحت بود، اکنون با اتهامی روبه‌رو شده که به موقعیتش در دربار آسیب می‌زند. وقتی علاءالدین می‌پرسد ملیکه چگونه از راهروی مخفی باخبر شده، دستینا نام جلال‌الدین را به میان می‌آورد. این پاسخ، بررسی ماجرا را به درون خاندان سلطنتی می‌کشاند.",
@@ -2486,47 +2487,49 @@
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/ask-ve-taht/4-bolum/izle"
           ],
-          "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
+          "sourceNote": "بازگویی بر اساس شرح رسمی ATV؛ برای تأیید صحنه‌به‌صحنه باید ویدئوی کامل بررسی شود.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 201,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-synopsis-checked",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-10",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 10",
+          "title": "پاورقی فارسی 10 | اتهام خیانت علیه ملیکه",
           "originalEpisode": 4,
           "persianEpisode": 10,
           "part": 10,
           "boundaryStatus": "editorial-cut-not-broadcaster",
           "broadcastRefs": [],
           "paragraphs": [
-            "دستینا ملیکه را به خیانت متهم می‌کند و این اتهام در برابر علاءالدین، مناسبات قصر را به هم می‌ریزد. ملیکه که پیش‌تر هم از نزدیکی دستینا به سلطان ناراحت بود، اکنون با اتهامی روبه‌رو شده که به موقعیتش در دربار آسیب می‌زند. وقتی علاءالدین می‌پرسد ملیکه چگونه از راهروی مخفی باخبر شده، دستینا نام جلال‌الدین را به میان می‌آورد. این پاسخ، بررسی ماجرا را به درون خاندان سلطنتی می‌کشاند."
+            "دستینا ملیکه را به خیانت متهم می‌کند و این اتهام در برابر علاءالدین، مناسبات قصر را به هم می‌ریزد. ملیکه که پیش‌تر هم از نزدیکی دستینا به سلطان ناراحت بود، اکنون با اتهامی روبه‌رو شده که به موقعیتش در دربار آسیب می‌زند. وقتی علاءالدین می‌پرسد ملیکه چگونه از راهروی مخفی باخبر شده، دستینا نام جلال‌الدین را به میان می‌آورد. این پاسخ، بررسی ماجرا را به درون خاندان سلطنتی می‌کشاند.",
+            "جلال‌الدین زندانی می‌شود. ام‌هان از زندانی شدن او خشنود است، اما نورجهان و آیابا برای تغییر وضعیت دست به کار می‌شوند. احتمال آشکارشدن رازهای پشت ماجرا بیشتر شده و هر تصمیمی می‌تواند میان نزدیکان سلطان اختلاف تازه‌ای ایجاد کند. در چنین فضای پرتنشی، دستینا نیز احساس می‌کند باید برای حفظ امنیت خودش اقدامی کند؛ اما حرکت او ساده پیش نمی‌رود."
           ],
           "publishedAt": "2026-10-09",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/ask-ve-taht/4-bolum/izle"
           ],
-          "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
+          "sourceNote": "روایت تحریریه بر اساس قسمت اصلی؛ مرزبندی این بخش‌ها با قسمت‌بندی شبکه دوبله تأیید نشده است.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
-            "wordCount": 69,
-            "minimumTargetWords": 500,
+            "reviewedAt": "2026-10-10",
+            "wordCount": 129,
+            "minimumTargetWords": 150,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-synopsis-checked",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           }
@@ -2535,41 +2538,10 @@
           "slug": "dubbed-11",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 11",
+          "title": "پاورقی فارسی 11 | زندانی‌شدن جلال‌الدین",
           "originalEpisode": 4,
           "persianEpisode": 11,
           "part": 11,
-          "boundaryStatus": "editorial-cut-not-broadcaster",
-          "broadcastRefs": [],
-          "paragraphs": [
-            "جلال‌الدین زندانی می‌شود. ام‌هان از زندانی شدن او خشنود است، اما نورجهان و آیابا برای تغییر وضعیت دست به کار می‌شوند. احتمال آشکارشدن رازهای پشت ماجرا بیشتر شده و هر تصمیمی می‌تواند میان نزدیکان سلطان اختلاف تازه‌ای ایجاد کند. در چنین فضای پرتنشی، دستینا نیز احساس می‌کند باید برای حفظ امنیت خودش اقدامی کند؛ اما حرکت او ساده پیش نمی‌رود."
-          ],
-          "publishedAt": "2026-10-09",
-          "verifiedSourceUrls": [
-            "https://www.atv.com.tr/ask-ve-taht/4-bolum/izle"
-          ],
-          "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
-          "editorialQuality": "source-grounded-condensed",
-          "youtubeId": "",
-          "audioUrl": "",
-          "editorialReview": {
-            "reviewedAt": "2026-10-09",
-            "wordCount": 60,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
-            "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
-          }
-        },
-        {
-          "slug": "dubbed-12",
-          "kind": "dubbed",
-          "status": "published",
-          "title": "پاورقی فارسی — بخش 12",
-          "originalEpisode": 4,
-          "persianEpisode": 12,
-          "part": 12,
           "boundaryStatus": "editorial-cut-not-broadcaster",
           "broadcastRefs": [],
           "paragraphs": [
@@ -2579,16 +2551,45 @@
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/ask-ve-taht/4-bolum/izle"
           ],
-          "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
+          "sourceNote": "روایت تحریریه بر اساس قسمت اصلی؛ مرزبندی این بخش‌ها با قسمت‌بندی شبکه دوبله تأیید نشده است.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 72,
-            "minimumTargetWords": 500,
+            "minimumTargetWords": 150,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-synopsis-checked",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
+        },
+        {
+          "slug": "dubbed-12",
+          "kind": "dubbed",
+          "status": "published",
+          "title": "پاورقی فارسی 12 | راز هویت دستینا",
+          "originalEpisode": 4,
+          "persianEpisode": 12,
+          "part": 12,
+          "boundaryStatus": "editorial-cut-not-broadcaster",
+          "broadcastRefs": [],
+          "paragraphs": [],
+          "publishedAt": "2026-10-09",
+          "verifiedSourceUrls": [
+            "https://www.atv.com.tr/ask-ve-taht/4-bolum/izle"
+          ],
+          "sourceNote": "روایت تحریریه بر اساس قسمت اصلی؛ مرزبندی این بخش‌ها با قسمت‌بندی شبکه دوبله تأیید نشده است.",
+          "editorialQuality": "source-grounded-condensed",
+          "youtubeId": "",
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-10",
+            "wordCount": 0,
+            "minimumTargetWords": 150,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "official-episode-synopsis-checked",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           }
@@ -2597,7 +2598,7 @@
           "slug": "original-5",
           "kind": "original",
           "status": "published",
-          "title": "پاورقی ارجینال — قسمت 5",
+          "title": "پاورقی ارجینال قسمت 5 | نجات دستینا و کشف راز گذشته",
           "originalEpisode": 5,
           "paragraphs": [
             "علاءالدین از محاصره مرگباری که آندریاس برایش ترتیب داده جان به در می‌برد. اما خطر تمام نشده: دستینا ربوده شده و سلطان به دنبال یافتن او می‌رود. برای علاءالدین، نجات دستینا هم به رابطه شخصی‌شان مربوط است و هم به رازهایی که درباره هویت او هنوز روشن نشده. هم‌زمان، اختلاف‌های قصر در قونیه ادامه دارد و جلال‌الدین با ام‌هان درگیر تنشی می‌شود که می‌تواند به برخوردی خونین بینجامد.",
@@ -2608,47 +2609,49 @@
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/ask-ve-taht/5-bolum/izle"
           ],
-          "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
+          "sourceNote": "بازگویی بر اساس شرح رسمی ATV؛ برای تأیید صحنه‌به‌صحنه باید ویدئوی کامل بررسی شود.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 205,
             "minimumTargetWords": 500,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-synopsis-checked",
             "broadcastAlignment": "not-applicable",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "fullEpisodeVideoReviewed": false
           }
         },
         {
           "slug": "dubbed-13",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 13",
+          "title": "پاورقی فارسی 13 | نجات دستینا و خطر آندریاس",
           "originalEpisode": 5,
           "persianEpisode": 13,
           "part": 13,
           "boundaryStatus": "editorial-cut-not-broadcaster",
           "broadcastRefs": [],
           "paragraphs": [
-            "علاءالدین از محاصره مرگباری که آندریاس برایش ترتیب داده جان به در می‌برد. اما خطر تمام نشده: دستینا ربوده شده و سلطان به دنبال یافتن او می‌رود. برای علاءالدین، نجات دستینا هم به رابطه شخصی‌شان مربوط است و هم به رازهایی که درباره هویت او هنوز روشن نشده. هم‌زمان، اختلاف‌های قصر در قونیه ادامه دارد و جلال‌الدین با ام‌هان درگیر تنشی می‌شود که می‌تواند به برخوردی خونین بینجامد."
+            "علاءالدین از محاصره مرگباری که آندریاس برایش ترتیب داده جان به در می‌برد. اما خطر تمام نشده: دستینا ربوده شده و سلطان به دنبال یافتن او می‌رود. برای علاءالدین، نجات دستینا هم به رابطه شخصی‌شان مربوط است و هم به رازهایی که درباره هویت او هنوز روشن نشده. هم‌زمان، اختلاف‌های قصر در قونیه ادامه دارد و جلال‌الدین با ام‌هان درگیر تنشی می‌شود که می‌تواند به برخوردی خونین بینجامد.",
+            "در قونیه کسی غیرمنتظره برای جلوگیری از فاجعه میان جلال‌الدین و ام‌هان پا پیش می‌گذارد؛ معرفی رسمی نام این فرد را مشخص نمی‌کند. ملیکه نیز در اتاق علاءالدین تصویری از دستینا پیدا می‌کند. دیدن این تصویر، خشم و بی‌اعتمادی او را بیشتر می‌کند. ملیکه نیروهایی را همراه خود می‌برد تا رد علاءالدین و دستینا را پیدا کند و از حقیقت رابطه آن دو سر درآورد."
           ],
           "publishedAt": "2026-10-09",
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/ask-ve-taht/5-bolum/izle"
           ],
-          "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
+          "sourceNote": "روایت تحریریه بر اساس قسمت اصلی؛ مرزبندی این بخش‌ها با قسمت‌بندی شبکه دوبله تأیید نشده است.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
-            "wordCount": 68,
-            "minimumTargetWords": 500,
+            "reviewedAt": "2026-10-10",
+            "wordCount": 133,
+            "minimumTargetWords": 150,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-synopsis-checked",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           }
@@ -2657,41 +2660,10 @@
           "slug": "dubbed-14",
           "kind": "dubbed",
           "status": "published",
-          "title": "پاورقی فارسی — بخش 14",
+          "title": "پاورقی فارسی 14 | خشم ملیکه و تصویر پنهان",
           "originalEpisode": 5,
           "persianEpisode": 14,
           "part": 14,
-          "boundaryStatus": "editorial-cut-not-broadcaster",
-          "broadcastRefs": [],
-          "paragraphs": [
-            "در قونیه کسی غیرمنتظره برای جلوگیری از فاجعه میان جلال‌الدین و ام‌هان پا پیش می‌گذارد؛ معرفی رسمی نام این فرد را مشخص نمی‌کند. ملیکه نیز در اتاق علاءالدین تصویری از دستینا پیدا می‌کند. دیدن این تصویر، خشم و بی‌اعتمادی او را بیشتر می‌کند. ملیکه نیروهایی را همراه خود می‌برد تا رد علاءالدین و دستینا را پیدا کند و از حقیقت رابطه آن دو سر درآورد."
-          ],
-          "publishedAt": "2026-10-09",
-          "verifiedSourceUrls": [
-            "https://www.atv.com.tr/ask-ve-taht/5-bolum/izle"
-          ],
-          "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
-          "editorialQuality": "source-grounded-condensed",
-          "youtubeId": "",
-          "audioUrl": "",
-          "editorialReview": {
-            "reviewedAt": "2026-10-09",
-            "wordCount": 65,
-            "minimumTargetWords": 500,
-            "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
-            "broadcastAlignment": "unverified-editorial-segmentation",
-            "readyForFullRecapLabel": false
-          }
-        },
-        {
-          "slug": "dubbed-15",
-          "kind": "dubbed",
-          "status": "published",
-          "title": "پاورقی فارسی — بخش 15",
-          "originalEpisode": 5,
-          "persianEpisode": 15,
-          "part": 15,
           "boundaryStatus": "editorial-cut-not-broadcaster",
           "broadcastRefs": [],
           "paragraphs": [
@@ -2701,16 +2673,45 @@
           "verifiedSourceUrls": [
             "https://www.atv.com.tr/ask-ve-taht/5-bolum/izle"
           ],
-          "sourceNote": "روایت فشرده از خلاصه رسمی شبکه و در موارد مشخص گزارش پس از پخش؛ بررسی کامل تصویر یا زیرنویس قسمت صورت نگرفته. شماره بخش‌های فارسی تقسیم تحریریه مشکی‌مدیاست و معادل برش واقعی دوبله نیست.",
+          "sourceNote": "روایت تحریریه بر اساس قسمت اصلی؛ مرزبندی این بخش‌ها با قسمت‌بندی شبکه دوبله تأیید نشده است.",
           "editorialQuality": "source-grounded-condensed",
           "youtubeId": "",
           "audioUrl": "",
           "editorialReview": {
-            "reviewedAt": "2026-10-09",
+            "reviewedAt": "2026-10-10",
             "wordCount": 72,
-            "minimumTargetWords": 500,
+            "minimumTargetWords": 150,
             "textLengthStatus": "needs-expansion",
-            "sourceStatus": "source-links-recorded-needs-content-verification",
+            "sourceStatus": "official-episode-synopsis-checked",
+            "broadcastAlignment": "unverified-editorial-segmentation",
+            "readyForFullRecapLabel": false
+          }
+        },
+        {
+          "slug": "dubbed-15",
+          "kind": "dubbed",
+          "status": "published",
+          "title": "پاورقی فارسی 15 | اعتراف دستینا درباره گذشته",
+          "originalEpisode": 5,
+          "persianEpisode": 15,
+          "part": 15,
+          "boundaryStatus": "editorial-cut-not-broadcaster",
+          "broadcastRefs": [],
+          "paragraphs": [],
+          "publishedAt": "2026-10-09",
+          "verifiedSourceUrls": [
+            "https://www.atv.com.tr/ask-ve-taht/5-bolum/izle"
+          ],
+          "sourceNote": "روایت تحریریه بر اساس قسمت اصلی؛ مرزبندی این بخش‌ها با قسمت‌بندی شبکه دوبله تأیید نشده است.",
+          "editorialQuality": "source-grounded-condensed",
+          "youtubeId": "",
+          "audioUrl": "",
+          "editorialReview": {
+            "reviewedAt": "2026-10-10",
+            "wordCount": 0,
+            "minimumTargetWords": 150,
+            "textLengthStatus": "needs-expansion",
+            "sourceStatus": "official-episode-synopsis-checked",
             "broadcastAlignment": "unverified-editorial-segmentation",
             "readyForFullRecapLabel": false
           }
@@ -2729,7 +2730,7 @@
         "publicationStatus": "published-partial-coverage",
         "publicationAuditNote": "Published catalog entries exist; full broadcast coverage and source verification not established (audit 2026-10-09).",
         "editorialPriority": 4,
-        "completionStatus": "in-progress-five-existing-episodes",
+        "completionStatus": "existing-five-episodes-editorially-aligned-video-validation-pending",
         "currentScope": "five-original-episodes-fifteen-Persian-editorial-segments"
       }
     },
