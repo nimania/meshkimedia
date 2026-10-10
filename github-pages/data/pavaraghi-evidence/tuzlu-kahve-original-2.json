@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "seriesSlug": "tuzlu-kahve",
+  "episode": 2,
+  "updatedAt": "2026-10-10",
+  "scope": "existing fictional series episode",
+  "sourceCandidates": [
+    {
+      "language": "tr",
+      "url": "https://www.subtitlecat.com/subs/1682/Tuzlu%20Kahve%202.%20B%C3%B6l%C3%BCm.html",
+      "status": "webpage-transcript-visible",
+      "verification": "Original subtitles text displayed, dialogue names include Derin Mehmet Murat; direct video synchronization not reviewed",
+      "rights": "permission-to-reuse-undetermined",
+      "use": "reference only until permission confirmed"
+    },
+    {
+      "language": "en",
+      "url": "https://www.subtitlecat.com/subs/1682/Tuzlu%20Kahve%202.%20B%C3%B6l%C3%BCm.html",
+      "status": "download-option-listed",
+      "verification": "not-downloaded-or-reviewed",
+      "rights": "unknown"
+    },
+    {
+      "language": "es",
+      "url": "https://www.subtitlecat.com/subs/1682/Tuzlu%20Kahve%202.%20B%C3%B6l%C3%BCm.html",
+      "status": "download-option-listed",
+      "verification": "not-downloaded-or-reviewed",
+      "rights": "unknown"
+    },
+    {
+      "language": "tr",
+      "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/2-bolum",
+      "status": "official-episode-page",
+      "verification": "episode page title verified"
+    }
+  ],
+  "localeSearchPriority": [
+    "tr",
+    "fa",
+    "en",
+    "ar",
+    "sr",
+    "bs",
+    "hr"
+  ],
+  "sceneEvidence": [
+    {
+      "id": "E2-A",
+      "source": "official Star TV episode synopsis",
+      "event": "درین و مهمت همراه مراد و الیت در شام مشترک خانواده‌ها حاضر می‌شوند",
+      "videoTimecode": null,
+      "status": "network-synopsis"
+    },
+    {
+      "id": "E2-B",
+      "source": "official Star TV episode synopsis",
+      "event": "الیت با نزدیکی درین و مهمت مخالفت می‌کند",
+      "videoTimecode": null,
+      "status": "network-synopsis"
+    },
+    {
+      "id": "E2-C",
+      "source": "official Star TV episode synopsis",
+      "event": "کندان برای نزدیک‌کردن مهمت و آیبکه برنامه دارد",
+      "videoTimecode": null,
+      "status": "network-synopsis"
+    },
+    {
+      "id": "E2-D",
+      "source": "official Star TV episode synopsis",
+      "event": "درین با هاکان روبه‌رو می‌شود و جدایی را قطعی می‌کند",
+      "videoTimecode": null,
+      "status": "network-synopsis"
+    }
+  ],
+  "targets": {
+    "originalMinWords": 1040,
+    "originalPreferredWords": 1120,
+    "persianSegmentMinWords": 520,
+    "segments": 3
+  },
+  "currentWords": {
+    "original": 558,
+    "persianSegments": [
+      157,
+      159,
+      242
+    ]
+  },
+  "gate": {
+    "subtitleCandidateFound": true,
+    "subtitleEpisodeMatchedByMetadata": true,
+    "fullTranscriptVerifiedAgainstVideo": false,
+    "rightsReviewed": false,
+    "originalEightMinutesReady": false,
+    "persianFourMinutesReady": false,
+    "actualDubbedCutBoundariesVerified": false,
+    "publicationApproved": false
+  },
+  "nextStep": "Inspect and lawfully ingest Turkish timed subtitle cues, sample against full episode; prepare verified scene log before rewriting."
+}
