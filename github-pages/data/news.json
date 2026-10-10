@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T08:28:26.880Z",
+ "updated": "2026-10-10T08:33:25.476Z",
  "items": [
   {
    "id": "607a7eb6fb1e",
@@ -3665,44 +3665,6 @@
    "aiTries": 1
   },
   {
-   "id": "a687666b3000",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-oyuncu-marketin-onunde-silah-zoruyla-soyuldu-yaralanip-kanlar-icinde-kaldi-43335271",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Ünlü oyuncu marketin önünde silah zoruyla soyuldu, yaralanıp kanlar içinde kaldı!",
-   "snippet": "Magazin sitelerine kısa bir süre önce düşen haber görenleri dehşete düşürdü. Hollywood ünlülerinin yaşadığı lüks bir mahalledeki marketin önünde soyulan ünlü oyuncu adeta ölümden döndü.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8baabac6b5ddc6b78c801.jpg",
-   "video": null,
-   "published": "2026-10-09T09:59:44.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-oyuncu-marketin-onunde-silah-zoruyla-soyuldu-yaralanip-kanlar-icinde-kaldi-43335271",
-     "title": "Ünlü oyuncu marketin önünde silah zoruyla soyuldu, yaralanıp kanlar içinde kaldı!",
-     "snippet": "Magazin sitelerine kısa bir süre önce düşen haber görenleri dehşete düşürdü. Hollywood ünlülerinin yaşadığı lüks bir mahalledeki marketin önünde soyulan ünlü oyuncu adeta ölümden döndü.",
-     "published": "2026-10-09T09:59:44.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8baabac6b5ddc6b78c801.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac8baabac6b5ddc6b78c801.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "179f17bdfcd9",
    "url": "https://www.haberturk.com/magazin/foto/dilber-ay-in-kizindan-ibrahim-karakas-a-tepki-3918381",
    "source": "haberturk-magazin",
@@ -4050,82 +4012,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "b1b2b21dc2c0",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-kizi-sezen-bugun-son-yolculuguna-ugurlanacak-43335119",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Atilla Taş'ın kızı Sezen bugün son yolculuğuna uğurlanacak",
-   "snippet": "Atilla Taş'ın 14. kattan düşerek hayatını kaybeden kızı Sezen, bugün son yolculuğuna uğurlanacak.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8aaad6a02409aac4a3ef6.jpg",
-   "video": null,
-   "published": "2026-10-09T08:49:54.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/atilla-tasin-kizi-sezen-bugun-son-yolculuguna-ugurlanacak-43335119",
-     "title": "Atilla Taş'ın kızı Sezen bugün son yolculuğuna uğurlanacak",
-     "snippet": "Atilla Taş'ın 14. kattan düşerek hayatını kaybeden kızı Sezen, bugün son yolculuğuna uğurlanacak.",
-     "published": "2026-10-09T08:49:54.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8aaad6a02409aac4a3ef6.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac8aaad6a02409aac4a3ef6.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
-   ],
-   "mediaDone": true
-  },
-  {
-   "id": "2f8917c0e760",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yakinda-olecegi-unlu-sarkicinin-sanki-icine-dogmus-uc-gun-once-kizina-veda-etmis-baba-boyle-konusma-deyip-agladim-43334984",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Yakında öleceği ünlü şarkıcının sanki içine doğmuş... Üç gün önce kızına veda etmiş... 'Baba böyle konuşma deyip ağladım'",
-   "snippet": "Geçen yıl yaz aylarının ortasında müzik dünyasından gelen bir acı haber milyonları sarstı...",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8a9446a02409aac4a3ed4.jpg",
-   "video": null,
-   "published": "2026-10-09T08:49:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yakinda-olecegi-unlu-sarkicinin-sanki-icine-dogmus-uc-gun-once-kizina-veda-etmis-baba-boyle-konusma-deyip-agladim-43334984",
-     "title": "Yakında öleceği ünlü şarkıcının sanki içine doğmuş... Üç gün önce kızına veda etmiş... 'Baba böyle konuşma deyip ağladım'",
-     "snippet": "Geçen yıl yaz aylarının ortasında müzik dünyasından gelen bir acı haber milyonları sarstı...",
-     "published": "2026-10-09T08:49:00.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8a9446a02409aac4a3ed4.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac8a9446a02409aac4a3ed4.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
-   ],
-   "mediaDone": true
   },
   {
    "id": "dfdeece3fb8a",
@@ -5276,35 +5162,6 @@
    "aiTries": 1
   },
   {
-   "id": "19c8657f042d",
-   "url": "https://www.haberturk.com/magazin/atilla-tas-in-kizi-14-uncu-kattan-duserek-hayatini-kaybetti-3918247",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Atilla Taş'ın acı günü",
-   "snippet": "Şarkıcı Atilla Taş’ın kızı Sezen Taş, Mersin’de hayatını kaybetti. Sezen Taş’ın bir binanın 14'üncü katından düştüğü belirtildi",
-   "image": "https://im.haberturk.com/l/2026/10/08/ver1791479202/3918247/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-09T05:39:56.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/atilla-tas-in-kizi-14-uncu-kattan-duserek-hayatini-kaybetti-3918247",
-     "title": "Atilla Taş'ın acı günü",
-     "snippet": "Şarkıcı Atilla Taş’ın kızı Sezen Taş, Mersin’de hayatını kaybetti. Sezen Taş’ın bir binanın 14'üncü katından düştüğü belirtildi",
-     "published": "2026-10-09T05:39:56.000Z"
-    }
-   ]
-  },
-  {
    "id": "878a0d962631",
    "url": "https://www.hurriyet.com.tr/kelebek/hayat/48-yasini-48-arkadasiyla-kutladi-43334796",
    "source": "hurriyet-kelebek",
@@ -5330,7 +5187,7 @@
      "title": "48. yaşını 48 arkadaşıyla kutladı",
      "snippet": "Ersay Üner, 48. yaş günü önceki akşam The Game adlı mekanda kutladı.",
      "published": "2026-10-09T05:33:00.000Z",
-     "titleFa": "او ۴۸ سالگی‌اش را با ۴۸ دوست جشن گرفت"
+     "titleFa": "جشن ۴۸ سالگی با ۴۸ دوست"
     },
     {
      "source": "haberturk-magazin",
@@ -5338,7 +5195,8 @@
      "url": "https://www.haberturk.com/magazin/foto/gupse-ozay-baris-arduc-un-dogum-gununu-kutladi-3918548",
      "title": "Eşinin yeni yaşını kutladı",
      "snippet": "Gupse Özay, 39 yaşına giren eşi Barış Arduç'un doğum gününü, kızları Jan Asya ile birlikte çekildikleri bir fotoğrafla kutladı",
-     "published": "2026-10-09T16:47:53.000Z"
+     "published": "2026-10-09T16:47:53.000Z",
+     "titleFa": "تبریک تولد همسر"
     }
    ],
    "images": [
@@ -5350,18 +5208,36 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
    ],
    "mediaDone": true,
-   "titleFa": "جشن تولد ۴۸ سالگی ارسای اونر با ۴۸ دوست",
-   "summaryFa": "ارسای اونر تولد ۴۸ سالگی خود را در یک مکان تفریحی جشن گرفت. او این مراسم را با حضور ۴۸ تن از دوستانش برگزار کرد.",
+   "titleFa": "جشن تولد چهره‌های سرشناس در اخبار جدید",
+   "summaryFa": "اخبار جدید حاکی از برگزاری جشن تولد برای چهره‌های سرشناس است.",
    "bodyFa": [
-    "ارسای اونر، هنرمند شناخته‌شده، اخیراً تولد ۴۸ سالگی خود را جشن گرفت. این مراسم در شب گذشته در مکانی به نام The Game برگزار شد.",
-    "بر اساس اطلاعات منتشر شده، اونر در این مهمانی دورهمی خاص، میزبان ۴۸ نفر از دوستان خود بود تا ورود به سالگرد تولد ۴۸ سالگی‌اش را در کنار آن‌ها جشن بگیرد."
+    "بر اساس گزارش‌های منتشر شده، ارسای اونر تولد ۴۸ سالگی خود را در مکانی به نام The Game با حضور ۴۸ نفر از دوستانش جشن گرفت.",
+    "از سوی دیگر، باریش اردوچ وارد ۳۹ سالگی شد و همسرش گوپسه اوزای با انتشار عکسی خانوادگی به همراه دخترشان جان آسیا، این روز را تبریک گفت."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "daf3cb5438a1"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [],
+    "differ": [
+     {
+      "topic": "موضوع و جزئیات جشن تولد",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "ارسای اونر تولد ۴۸ سالگی خود را در مکانی به نام The Game با ۴۸ دوست جشن گرفت."
+       },
+       {
+        "source": "haberturk-magazin",
+        "text": "گوپسه اوزای تولد ۳۹ سالگی همسرش باریش اردوچ را با عکسی خانوادگی همراه با دخترشان جان آسیا تبریک گفت."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   }
   },
   {
    "id": "0cf2226b1fd6",
@@ -5508,35 +5384,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "455254783b74",
-   "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
-   "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atijpg-kZSErYcK8UaLThbvexys-g.jpg",
-   "video": null,
-   "published": "2026-10-09T04:38:42.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
-     "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
-     "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
-     "published": "2026-10-09T04:38:42.000Z"
-    }
-   ]
   },
   {
    "id": "3044562525d1",
@@ -6473,35 +6320,6 @@
    "aiTries": 1
   },
   {
-   "id": "1b07e85dd522",
-   "url": "https://www.haberturk.com/magazin/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3918280",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Samar Dadgar'ın acı günü",
-   "snippet": "Şarkıcı Özcan Deniz ile mutlu bir evliliği olan Samar Dadgar, 3 yaşındaki yeğeninin vefat ettiğini açıkladı",
-   "image": "https://im.haberturk.com/l/2026/10/08/ver1791479647/3918280/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-08T17:14:28.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3918280",
-     "title": "Samar Dadgar'ın acı günü",
-     "snippet": "Şarkıcı Özcan Deniz ile mutlu bir evliliği olan Samar Dadgar, 3 yaşındaki yeğeninin vefat ettiğini açıkladı",
-     "published": "2026-10-08T17:14:28.000Z"
-    }
-   ]
-  },
-  {
    "id": "6e9afef24ab0",
    "url": "https://www.milliyet.com.tr/magazin/galeri/yasak-ask-evliligini-bitirmisti-sahra-isiktan-sert-sozler-karakter-satin-alamazsin-7675882",
    "source": "milliyet-magazin",
@@ -6575,7 +6393,16 @@
      "snippet": "Ünlü şarkıcı Özcan Deniz’in eşi Samar Dadgar, sosyal medya hesabından yaptığı paylaşımla acı haberi duyurdu. Dadgar, 3 y...",
      "published": "2026-10-08T16:39:34.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/denizjpg-n9MEikgAJ0KwkqdAff2RlQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/denizjpg-n9MEikgAJ0KwkqdAff2RlQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac98f37cc403fabc1ccf1e6png-bMNhlTNQRUq-jKzvbShZVw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac98838cc403fabc1cab5e3png-j_dwTr2AAEmC10ppUNuy5Q.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac9861fcc403fabc1c88120png-3Fiqs9MCrUeTfOCH9oV-lw.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "4c6307c8dfbb",
@@ -6615,7 +6442,16 @@
    ],
    "mergedIds": [
     "03b1a1202810"
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac7b3874969daebc3bd8606.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac7b3874969daebc3bd8606.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "3cf7cb39ee48",
@@ -7144,7 +6980,16 @@
      "snippet": "ŞARKICI Atilla Taş'ın kızı Sezen Taş, Mersin’de bir sitedeki apartmanın 14’üncü katından düşüp yaşamını yitirdi.",
      "published": "2026-10-08T14:30:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac7a905946fbe5b25f1ff5a.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac7a905946fbe5b25f1ff5a.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true
   },
   {
    "id": "9c97d1fee0c3",
