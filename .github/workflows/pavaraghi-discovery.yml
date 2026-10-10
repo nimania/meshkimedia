@@ -17,7 +17,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Check discovery and evidence scripts
+        run: python -m py_compile scripts/pavaraghi_multilingual_discovery.py scripts/pavaraghi_subtitle_evidence.py
       - name: Discover potential subtitle sources
+        env:
+          PAVARAGHI_EPISODES_PER_RUN: "4"
         run: python scripts/pavaraghi_multilingual_discovery.py
       - name: Commit candidate status if changed
         run: |
