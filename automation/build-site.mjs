@@ -630,9 +630,9 @@ for (const s of catalogSeries) {
     const prev=kindEntries[inKind-1],next=kindEntries[inKind+1];
     const sourceUrls=(e.verifiedSourceUrls||[]).filter(u=>typeof u==="string"&&/^https:\/\/[^\s"<>]+$/.test(u)).slice(0,6); const foot=(e.sourceNote||sourceUrls.length)?'<details class="pv-sources"><summary>منابع و حدود دقت این روایت</summary>'+(e.sourceNote?'<p>'+esc(e.sourceNote)+'</p>':"")+(sourceUrls.length?'<ul>'+sourceUrls.map((u,i)=>'<li><a href="'+esc(u)+'" target="_blank" rel="noopener noreferrer">منبع '+(i+1)+' ↗</a></li>').join("")+'</ul>':"")+'</details>':"";
     const standardPavaraghi = e.editorialQuality === "youtube-ready";
-    const publicTitle = standardPavaraghi && typeof e.editorialTitle === "string" && e.editorialTitle.trim() ? e.editorialTitle.trim() : e.title;
+    const publicTitle = typeof e.editorialTitle === "string" && e.editorialTitle.trim() ? e.editorialTitle.trim() : e.title;
     const sectionMap = new Map();
-    if (standardPavaraghi && Array.isArray(e.sections)) for (const section of e.sections) {
+    if (Array.isArray(e.sections)) for (const section of e.sections) {
       if (section && Number.isInteger(section.afterParagraph) && section.afterParagraph >= 0 && section.afterParagraph < e.paragraphs.length && typeof section.title === "string" && section.title.trim()) sectionMap.set(section.afterParagraph, section.title.trim());
     }
     const narrativeHtml = e.paragraphs.map((t,i)=>(sectionMap.has(i)?'<h2 class="pavaraghi-subheading">'+esc(sectionMap.get(i))+'</h2>':"")+'<p>'+esc(t)+'</p>').join("");
