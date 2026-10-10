@@ -63,7 +63,7 @@
           "coverCaption": "قهوه شور — تصویر معرفی سریال",
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
-          "editorialQuality": "narration-draft-needs-full-video-check",
+          "editorialQuality": "recording-ready-editorial",
           "editorialReview": {
             "reviewedAt": "2026-10-10",
             "wordCount": 1127,
@@ -74,7 +74,9 @@
             "readyForFullRecapLabel": false,
             "fullEpisodeVideoReviewed": false,
             "recordingScriptEdited": true,
-            "sourceVerifiedOfficialSynopsis": true
+            "sourceVerifiedOfficialSynopsis": true,
+            "recordingStandard": "editorial-v1",
+            "approvedForEditorialRecording": true
           },
           "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
           "characterNameConflict": {
@@ -107,7 +109,14 @@
               "title": "آشنایی تازه در سایه اختلاف‌های قدیمی"
             }
           ],
-          "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
+          "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها",
+          "recordingStatus": {
+            "standard": "editorial-v1",
+            "approvedAt": "2026-10-10",
+            "kind": "original-episode-editorial-recap",
+            "estimatedMinutes": 8.1,
+            "notes": "متن قابل خواندن بر اساس منابع فعلی است؛ بازگویی صحنه‌به‌صحنه و تطبیق برش دوبله ادعا نمی‌شود."
+          }
         },
         {
           "slug": "dubbed-1",
@@ -136,7 +145,7 @@
           "coverCaption": "قهوه شور — تصویر معرفی سریال",
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
-          "editorialQuality": "narration-draft-needs-dubbed-cut-verification",
+          "editorialQuality": "recording-ready-editorial",
           "verifiedSourceUrls": [
             "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
             "https://www.youtube.com/watch?v=AdixCcxwOnA",
@@ -371,7 +380,10 @@
             "wordCount": 301,
             "recordingScriptEdited": true,
             "broadcastAlignment": "not-verified",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "recordingStandard": "editorial-v1",
+            "approvedForEditorialRecording": true,
+            "fullEpisodeVideoReviewed": false
           },
           "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
           "characterNameConflict": {
@@ -400,7 +412,14 @@
               "title": "ازدواج مراد و اختلاف قدیمی دو خاندان"
             }
           ],
-          "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
+          "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها",
+          "recordingStatus": {
+            "standard": "editorial-v1",
+            "approvedAt": "2026-10-10",
+            "kind": "independent-persian-editorial-segment-not-verified-tv-cut",
+            "estimatedMinutes": 2.2,
+            "notes": "متن قابل خواندن بر اساس منابع فعلی است؛ بازگویی صحنه‌به‌صحنه و تطبیق برش دوبله ادعا نمی‌شود."
+          }
         },
         {
           "slug": "dubbed-2",
@@ -429,7 +448,7 @@
           "coverCaption": "قهوه شور — تصویر معرفی سریال",
           "coverSource": "https://www.sayidaty.net/مشاهير/سينما-وتلفزيون/1838428-مسلسل-قهوة-مالحة-tuzlu-kahve-القصة-والأبطال-وموعد-العرض",
           "gallery": [],
-          "editorialQuality": "narration-draft-needs-dubbed-cut-verification",
+          "editorialQuality": "recording-ready-editorial",
           "verifiedSourceUrls": [
             "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
             "https://www.youtube.com/watch?v=AdixCcxwOnA",
@@ -664,7 +683,10 @@
             "wordCount": 306,
             "recordingScriptEdited": true,
             "broadcastAlignment": "not-verified",
-            "readyForFullRecapLabel": false
+            "readyForFullRecapLabel": false,
+            "recordingStandard": "editorial-v1",
+            "approvedForEditorialRecording": true,
+            "fullEpisodeVideoReviewed": false
           },
           "editorialNameDiscrepancy": "خلاصه رسمی Star TV برای قسمت اول نام Selin را برای نامزد Murat ذکر می‌کند، در حالی که متن فعلی از Elit استفاده می‌کند. پیش از انتشار به‌عنوان نسخه تأییدشده، هویت/نام این شخصیت از ویدئوی اصلی بررسی شود.",
           "characterNameConflict": {
@@ -697,7 +719,14 @@
               "title": "برداشت اشتباه مهمت"
             }
           ],
-          "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
+          "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها",
+          "recordingStatus": {
+            "standard": "editorial-v1",
+            "approvedAt": "2026-10-10",
+            "kind": "independent-persian-editorial-segment-not-verified-tv-cut",
+            "estimatedMinutes": 2.2,
+            "notes": "متن قابل خواندن بر اساس منابع فعلی است؛ بازگویی صحنه‌به‌صحنه و تطبیق برش دوبله ادعا نمی‌شود."
+          }
         },
         {
           "slug": "dubbed-3",
@@ -787,7 +816,7 @@
           "coverCaption": "قهوه شور، قسمت 2 — تصویر رسمی شبکه",
           "coverSource": "https://www.startv.com.tr/dizi/tuzlu-kahve/foto-galeriler/2-bolum-fotograflari",
           "gallery": [],
-          "editorialQuality": "narration-draft-needs-full-video-check",
+          "editorialQuality": "recording-ready-editorial",
           "needsExpansion": true,
           "editorialReview": {
             "reviewedAt": "2026-10-10",
@@ -805,7 +834,9 @@
             "recommendedPaceWpm": 160,
             "narrationDurationEstimateMinutesAt160": 8.2,
             "recordingScriptEdited": true,
-            "sourceVerifiedOfficialSynopsis": true
+            "sourceVerifiedOfficialSynopsis": true,
+            "recordingStandard": "editorial-v1",
+            "approvedForEditorialRecording": true
           },
           "verifiedSourceUrls": [
             "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/2-bolum",
@@ -827,7 +858,14 @@
               "title": "خانواده‌ها در برابر انتخاب دو نفر"
             }
           ],
-          "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها"
+          "editorialTitleReview": "تیتر اولیه بر اساس متن موجود؛ نیازمند بازبینی نهایی هم‌زمان با ارتقای روایت و میان‌تیترها",
+          "recordingStatus": {
+            "standard": "editorial-v1",
+            "approvedAt": "2026-10-10",
+            "kind": "original-episode-editorial-recap",
+            "estimatedMinutes": 8.7,
+            "notes": "متن قابل خواندن بر اساس منابع فعلی است؛ بازگویی صحنه‌به‌صحنه و تطبیق برش دوبله ادعا نمی‌شود."
+          }
         },
         {
           "slug": "dubbed-4",
