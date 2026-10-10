@@ -15,13 +15,13 @@
       "id": "star-episode",
       "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/bolumler/1-bolum",
       "kind": "official_episode_synopsis",
-      "reviewed": "text"
+      "reviewed": "web-page-text-directly-verified"
     },
     {
       "id": "star-after",
       "url": "https://www.startv.com.tr/dizi/tuzlu-kahve/haber/tuzlu-kahve-zirvede",
       "kind": "official_postbroadcast_summary",
-      "reviewed": "text"
+      "reviewed": "web-page-text-directly-verified"
     },
     {
       "id": "official-video",
@@ -44,7 +44,7 @@
         "star-episode",
         "official-video"
       ],
-      "confidence": "confirmed-by-official-description",
+      "confidence": "official-text-confirmed-no-scene-timestamp",
       "timestamp": null
     },
     {
@@ -54,7 +54,7 @@
         "star-episode",
         "official-video"
       ],
-      "confidence": "confirmed-by-official-description",
+      "confidence": "official-text-confirmed-no-scene-timestamp",
       "timestamp": null
     },
     {
@@ -64,7 +64,7 @@
         "star-episode",
         "star-after"
       ],
-      "confidence": "confirmed-by-official-description",
+      "confidence": "official-text-confirmed-no-scene-timestamp",
       "timestamp": null
     },
     {
@@ -75,7 +75,7 @@
         "star-after",
         "official-scenes"
       ],
-      "confidence": "confirmed-by-official-description",
+      "confidence": "official-text-confirmed-no-scene-timestamp",
       "timestamp": null
     },
     {
@@ -85,7 +85,7 @@
         "star-episode",
         "star-after"
       ],
-      "confidence": "confirmed-by-official-description",
+      "confidence": "official-text-confirmed-no-scene-timestamp",
       "timestamp": null
     }
   ],
@@ -123,10 +123,21 @@
     "reason": "Insufficient scene-level verified facts; no invented dialogue, timestamp, or repeated padding permitted"
   },
   "nextActions": [
-    "Review full official episode and record per-scene timing and actions",
-    "Retrieve authorized Turkish subtitles or transcribe with rights and source attribution",
-    "Expand original recap only with confirmed new scene facts",
-    "Verify actual Persian dubbed cut boundaries or retain explicitly editorial segments",
-    "Narration test and correction"
-  ]
+    "Obtain authorized Turkish subtitles or detailed scene log for official full episode",
+    "Resolve name discrepancy from cast credit or video",
+    "Verify exact events scene by scene and add timecodes",
+    "Only then draft 8-minute original and 4-minute Persian editorial segments"
+  ],
+  "lastVerifiedAt": "2026-10-10",
+  "sourceCoverageAssessment": {
+    "officialNetworkEpisodeSynopsis": "Names Selin as Murat's partner; confirms rivalry, return from America, Hakan betrayal, Derin-Mehmet meeting",
+    "officialPostbroadcastArticle": "Names Elit as Murat's partner; confirms the same main narrative beats",
+    "additionalSceneLevelFactsFromTheseTwoSources": 0,
+    "characterNameConflictStillPresent": true,
+    "transcriptAvailable": false,
+    "fullVideoActuallyReviewed": false,
+    "timestampsAvailable": false,
+    "remainingGap": "No verified scene sequence or dialogue to support 1120+ word original and 560+ word Persian segments without padding"
+  },
+  "sceneExtractionStatus": "blocked-on-accessible-caption-or-complete-video-transcript"
 }
