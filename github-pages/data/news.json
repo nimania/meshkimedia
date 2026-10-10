@@ -1,6 +1,53 @@
 {
- "updated": "2026-10-10T11:57:49.288Z",
+ "updated": "2026-10-10T12:05:18.160Z",
  "items": [
+  {
+   "id": "a1c790e0a330",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/yasasaydi-60-yasinda-olacakti-ibrahim-erkalin-kizi-babasini-dogum-gununde-andi-7676844",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Yaşasaydı 60 yaşında olacaktı! İbrahim Erkal'ın kızı babasını doğum gününde andı",
+   "snippet": "2017 yılında hayatını kaybeden İbrahim Erkal, doğum gününde ailesi tarafından duygusal paylaşımlarla anıldı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aca26c7f15b2619d4a3c916.jpg",
+   "video": null,
+   "published": "2026-10-10T11:54:18.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/yasasaydi-60-yasinda-olacakti-ibrahim-erkalin-kizi-babasini-dogum-gununde-andi-7676844",
+     "title": "Yaşasaydı 60 yaşında olacaktı! İbrahim Erkal'ın kızı babasını doğum gününde andı",
+     "snippet": "2017 yılında hayatını kaybeden İbrahim Erkal, doğum gününde ailesi tarafından duygusal paylaşımlarla anıldı.",
+     "published": "2026-10-10T11:54:18.000Z",
+     "titleFa": "اگر زنده بود ۶۰ ساله می‌شد! دختر ابراهیم ارکال پدرش را در روز تولدش یاد کرد"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aca26c7f15b2619d4a3c916.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aca26c7f15b2619d4a3c916.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "یادbood ابراهیم ارکال در سالگرد تولدش توسط دخترش",
+   "summaryFa": "ابراهیم ارکال که در سال ۲۰۱۷ درگذشت، در روز تولدش توسط خانواده‌اش با انتشار پیام‌های احساسی یاد شد.",
+   "bodyFa": [
+    "ابراهیم ارکال که در سال ۲۰۱۷ میلادی چشم از جهان فروبست، در سالروز تولدش مورد یادآوری خانواده‌اش قرار گرفت. اگر او در قید حیات بود، اکنون ۶۰ سالگی خود را جشن می‌گرفت.",
+    "اعضای خانواده این هنرمند فقید به همین مناسبت با انتشار پیام‌های احساسی و یادکرد از او، زادروز وی را گرامی داشتند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "1f86d76f9e09",
    "url": "https://www.sozcu.com.tr/sefo-nun-yanindaki-kadin-merak-konusu-oldu-yuzunu-gizledi-p367870",
@@ -4379,6 +4426,44 @@
    "aiTries": 1
   },
   {
+   "id": "2f8917c0e760",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yakinda-olecegi-unlu-sarkicinin-sanki-icine-dogmus-uc-gun-once-kizina-veda-etmis-baba-boyle-konusma-deyip-agladim-43334984",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Yakında öleceği ünlü şarkıcının sanki içine doğmuş... Üç gün önce kızına veda etmiş... 'Baba böyle konuşma deyip ağladım'",
+   "snippet": "Geçen yıl yaz aylarının ortasında müzik dünyasından gelen bir acı haber milyonları sarstı...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8a9446a02409aac4a3ed4.jpg",
+   "video": null,
+   "published": "2026-10-09T08:49:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yakinda-olecegi-unlu-sarkicinin-sanki-icine-dogmus-uc-gun-once-kizina-veda-etmis-baba-boyle-konusma-deyip-agladim-43334984",
+     "title": "Yakında öleceği ünlü şarkıcının sanki içine doğmuş... Üç gün önce kızına veda etmiş... 'Baba böyle konuşma deyip ağladım'",
+     "snippet": "Geçen yıl yaz aylarının ortasında müzik dünyasından gelen bir acı haber milyonları sarstı...",
+     "published": "2026-10-09T08:49:00.000Z"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac8a9446a02409aac4a3ed4.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac8a9446a02409aac4a3ed4.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "dfdeece3fb8a",
    "url": "https://www.sozcu.com.tr/8-ekim-reyting-sonuclari-aciklandi-total-ve-ab-de-zirvenin-sahibi-degisti-p367609",
    "source": "sozcu-magazin",
@@ -5392,6 +5477,44 @@
    "aiTries": 1
   },
   {
+   "id": "03b1a1202810",
+   "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3-yasindaki-yegenini-kaybetti-p367535",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü: 3 yaşındaki yeğenini kaybetti",
+   "snippet": "Özcan Deniz'in eşi Samar Dadgar'dan üzücü haber geldi. Sosyal medya hesabından yaptığı paylaşımla acısını duyuran Dadgar...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/813jpg-sYGlsUL2tU2GtKz31Cqy8A.jpg",
+   "video": null,
+   "published": "2026-10-09T05:44:32.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3-yasindaki-yegenini-kaybetti-p367535",
+     "title": "Özcan Deniz'in eşi Samar Dadgar'ın acı günü: 3 yaşındaki yeğenini kaybetti",
+     "snippet": "Özcan Deniz'in eşi Samar Dadgar'dan üzücü haber geldi. Sosyal medya hesabından yaptığı paylaşımla acısını duyuran Dadgar...",
+     "published": "2026-10-09T05:44:32.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/813jpg-sYGlsUL2tU2GtKz31Cqy8A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/813jpg-sYGlsUL2tU2GtKz31Cqy8A.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/samar-dadgar-yegenijpg-u7ntzqf0Ok_mV-ytV3bUZg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/nihatkahvecidengalatasarayinyildizinayorumyenidendogmamaciolabilir6ac9d9e8cc403fabc1e4f2c9png-tMawcyDnQU_Bga32UG91Rw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ac9d6d2cc403fabc1e1de97png-XiHZwrDROUC5XlOTI7gIew.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "432c1c450284",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kubilay-aka-asik-oldugumda-daha-duygusal-oluyorum-43334799",
    "source": "hurriyet-kelebek",
@@ -5525,6 +5648,36 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "19c8657f042d",
+   "url": "https://www.haberturk.com/magazin/atilla-tas-in-kizi-14-uncu-kattan-duserek-hayatini-kaybetti-3918247",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Atilla Taş'ın acı günü",
+   "snippet": "Şarkıcı Atilla Taş’ın kızı Sezen Taş, Mersin’de hayatını kaybetti. Sezen Taş’ın bir binanın 14'üncü katından düştüğü belirtildi",
+   "image": "https://im.haberturk.com/l/2026/10/08/ver1791479202/3918247/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-09T05:39:56.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/atilla-tas-in-kizi-14-uncu-kattan-duserek-hayatini-kaybetti-3918247",
+     "title": "Atilla Taş'ın acı günü",
+     "snippet": "Şarkıcı Atilla Taş’ın kızı Sezen Taş, Mersin’de hayatını kaybetti. Sezen Taş’ın bir binanın 14'üncü katından düştüğü belirtildi",
+     "published": "2026-10-09T05:39:56.000Z"
+    }
+   ],
+   "mediaDone": true
   },
   {
    "id": "878a0d962631",
@@ -5749,6 +5902,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "455254783b74",
+   "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
+   "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atijpg-kZSErYcK8UaLThbvexys-g.jpg",
+   "video": null,
+   "published": "2026-10-09T04:38:42.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
+     "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
+     "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
+     "published": "2026-10-09T04:38:42.000Z"
+    }
+   ]
   },
   {
    "id": "3044562525d1",
@@ -6722,6 +6904,35 @@
    }
   },
   {
+   "id": "1b07e85dd522",
+   "url": "https://www.haberturk.com/magazin/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3918280",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Samar Dadgar'ın acı günü",
+   "snippet": "Şarkıcı Özcan Deniz ile mutlu bir evliliği olan Samar Dadgar, 3 yaşındaki yeğeninin vefat ettiğini açıkladı",
+   "image": "https://im.haberturk.com/l/2026/10/08/ver1791479647/3918280/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-08T17:14:28.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/ozcan-deniz-in-esi-samar-dadgar-in-aci-gunu-3918280",
+     "title": "Samar Dadgar'ın acı günü",
+     "snippet": "Şarkıcı Özcan Deniz ile mutlu bir evliliği olan Samar Dadgar, 3 yaşındaki yeğeninin vefat ettiğini açıkladı",
+     "published": "2026-10-08T17:14:28.000Z"
+    }
+   ]
+  },
+  {
    "id": "6e9afef24ab0",
    "url": "https://www.milliyet.com.tr/magazin/galeri/yasak-ask-evliligini-bitirmisti-sahra-isiktan-sert-sozler-karakter-satin-alamazsin-7675882",
    "source": "milliyet-magazin",
@@ -6767,6 +6978,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "641af16a59df",
+   "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
+   "snippet": "Ünlü şarkıcı Özcan Deniz’in eşi Samar Dadgar, sosyal medya hesabından yaptığı paylaşımla acı haberi duyurdu. Dadgar, 3 y...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/denizjpg-n9MEikgAJ0KwkqdAff2RlQ.jpg",
+   "video": null,
+   "published": "2026-10-08T16:39:34.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
+     "title": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
+     "snippet": "Ünlü şarkıcı Özcan Deniz’in eşi Samar Dadgar, sosyal medya hesabından yaptığı paylaşımla acı haberi duyurdu. Dadgar, 3 y...",
+     "published": "2026-10-08T16:39:34.000Z"
+    }
+   ]
   },
   {
    "id": "3cf7cb39ee48",
@@ -7322,6 +7562,35 @@
    "aiTries": 1
   },
   {
+   "id": "855b56688602",
+   "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
+   "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atilla-tas-kiziijpg-_aE-Tlf030KviTVpuO8EPA.jpg",
+   "video": null,
+   "published": "2026-10-08T14:13:06.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
+     "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
+     "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
+     "published": "2026-10-08T14:13:06.000Z"
+    }
+   ]
+  },
+  {
    "id": "685c2f178e1d",
    "url": "https://www.hurriyet.com.tr/kelebek/keyif/dunya-muziginin-kalbi-sanliurfada-atacak-43334348",
    "source": "hurriyet-kelebek",
@@ -7633,6 +7902,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "e103efdc27cd",
+   "url": "https://www.haberturk.com/magazin/sezen-aksu-hastanelik-oldu-3918226",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Sevenlerini endişelendirdi",
+   "snippet": "Türk pop müziğinin usta isimlerinden Sezen Aksu’ya geçtiğimiz hafta biyopsi işlemi yapıldığı belirtildi",
+   "image": "https://im.haberturk.com/l/2026/10/08/ver1791464165/3918226/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-08T13:01:13.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/sezen-aksu-hastanelik-oldu-3918226",
+     "title": "Sevenlerini endişelendirdi",
+     "snippet": "Türk pop müziğinin usta isimlerinden Sezen Aksu’ya geçtiğimiz hafta biyopsi işlemi yapıldığı belirtildi",
+     "published": "2026-10-08T13:01:13.000Z"
+    }
+   ]
   },
   {
    "id": "402065c2b2b5",
