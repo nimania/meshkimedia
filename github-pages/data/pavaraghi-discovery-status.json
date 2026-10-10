@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T17:19:50.249900+00:00",
+  "generatedAt": "2026-10-10T21:40:41.967462+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "tuzlu-kahve:1",
-    "tuzlu-kahve:2",
-    "tuzlu-kahve:3",
-    "tuzlu-kahve:4"
+    "tuzlu-kahve:5",
+    "tuzlu-kahve:6",
+    "abi:1",
+    "abi:19"
   ],
   "episodes": [
     {
@@ -132,6 +132,134 @@
         "\"Tuzlu Kahve\" \"4\" srpski prevod subtitle",
         "\"Tuzlu Kahve\" \"4\" bosanski titlovi subtitle",
         "\"Tuzlu Kahve\" \"4\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "tuzlu-kahve:5",
+      "seriesSlug": "tuzlu-kahve",
+      "seriesTitle": "قهوهٔ شور",
+      "originalEpisode": 5,
+      "checkedAt": "2026-10-10T21:40:41.967462+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Tuzlu Kahve\" \"5\" Türkçe altyazı subtitle",
+        "\"Tuzlu Kahve\" \"5\" زیرنویس فارسی subtitle",
+        "\"Tuzlu Kahve\" \"5\" English subtitles subtitle",
+        "\"Tuzlu Kahve\" \"5\" ترجمة عربية subtitle",
+        "\"Tuzlu Kahve\" \"5\" srpski prevod subtitle",
+        "\"Tuzlu Kahve\" \"5\" bosanski titlovi subtitle",
+        "\"Tuzlu Kahve\" \"5\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "tuzlu-kahve:6",
+      "seriesSlug": "tuzlu-kahve",
+      "seriesTitle": "قهوهٔ شور",
+      "originalEpisode": 6,
+      "checkedAt": "2026-10-10T21:40:41.967462+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Tuzlu Kahve\" \"6\" Türkçe altyazı subtitle",
+        "\"Tuzlu Kahve\" \"6\" زیرنویس فارسی subtitle",
+        "\"Tuzlu Kahve\" \"6\" English subtitles subtitle",
+        "\"Tuzlu Kahve\" \"6\" ترجمة عربية subtitle",
+        "\"Tuzlu Kahve\" \"6\" srpski prevod subtitle",
+        "\"Tuzlu Kahve\" \"6\" bosanski titlovi subtitle",
+        "\"Tuzlu Kahve\" \"6\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "abi:1",
+      "seriesSlug": "abi",
+      "seriesTitle": "خانواده یک آزمون است",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-10T21:40:41.967462+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"A.B.İ.\" \"1\" Türkçe altyazı subtitle",
+        "\"A.B.İ.\" \"1\" زیرنویس فارسی subtitle",
+        "\"A.B.İ.\" \"1\" English subtitles subtitle",
+        "\"A.B.İ.\" \"1\" ترجمة عربية subtitle",
+        "\"A.B.İ.\" \"1\" srpski prevod subtitle",
+        "\"A.B.İ.\" \"1\" bosanski titlovi subtitle",
+        "\"A.B.İ.\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "abi:19",
+      "seriesSlug": "abi",
+      "seriesTitle": "خانواده یک آزمون است",
+      "originalEpisode": 19,
+      "checkedAt": "2026-10-10T21:40:41.967462+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"A.B.İ.\" \"19\" Türkçe altyazı subtitle",
+        "\"A.B.İ.\" \"19\" زیرنویس فارسی subtitle",
+        "\"A.B.İ.\" \"19\" English subtitles subtitle",
+        "\"A.B.İ.\" \"19\" ترجمة عربية subtitle",
+        "\"A.B.İ.\" \"19\" srpski prevod subtitle",
+        "\"A.B.İ.\" \"19\" bosanski titlovi subtitle",
+        "\"A.B.İ.\" \"19\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
