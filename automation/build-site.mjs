@@ -642,6 +642,17 @@ for (const s of catalogSeries) {
     const kindEntries=s.entries.filter(item=>item.kind===e.kind);
     const inKind=kindEntries.findIndex(item=>item.slug===e.slug);
     const prev=kindEntries[inKind-1],next=kindEntries[inKind+1];
+    // Short, source-bounded recap from published earlier entries of the same edition.
+    // Show at most two previous installments; do not generate new plot assertions.
+    const recapItems=kindEntries.slice(Math.max(0,inKind-2),inKind).filter(item=>Array.isArray(item.paragraphs)&&item.paragraphs.length).map(item=>{
+      const brief=(item.recapShort || item.paragraphs[item.paragraphs.length-1] || "").trim();
+      const words=brief.split(/\s+/).filter(Boolean);
+      const excerpt=words.slice(0,42).join(" ")+(words.length>42?"…":"");
+      const number=item.kind==="original"?(item.originalEpisode||""):(item.part||item.persianEpisode||"");
+      return {excerpt,number,slug:item.slug};
+    }).filter(item=>item.excerpt);
+    const previouslyHtml=recapItems.length?'<aside class="pavaraghi-previously" aria-label="آنچه گذشت" style="background:#332a1f;border:1px solid #af8351;border-right:5px solid #e4a64d;border-radius:14px;padding:15px 19px;margin:20px 0 26px;color:#fff4e3"><strong style="font-size:1.12rem;color:#ffd38e">آنچه گذشت</strong><ul style="margin:9px 0 0;padding-right:20px">'+recapItems.map(item=>'<li style="margin:6px 0"><a href="../'+esc(item.slug)+'/" style="color:#ffd38e">بخش '+esc(item.number)+'</a> · '+esc(item.excerpt)+'</li>').join("")+'</ul></aside>':"";
+
     const sourceUrls=(e.verifiedSourceUrls||[]).filter(u=>typeof u==="string"&&/^https:\/\/[^\s"<>]+$/.test(u)).slice(0,6); const foot=(e.sourceNote||sourceUrls.length)?'<details class="pv-sources"><summary>منابع و حدود دقت این روایت</summary>'+(e.sourceNote?'<p>'+esc(e.sourceNote)+'</p>':"")+(sourceUrls.length?'<ul>'+sourceUrls.map((u,i)=>'<li><a href="'+esc(u)+'" target="_blank" rel="noopener noreferrer">منبع '+(i+1)+' ↗</a></li>').join("")+'</ul>':"")+'</details>':"";
     const standardPavaraghi = e.editorialQuality === "youtube-ready";
     const publicTitle = typeof e.editorialTitle === "string" && e.editorialTitle.trim() ? e.editorialTitle.trim() : e.title;
