@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "github-pages/data/dubbed.json"
 OUTPUT = ROOT / "github-pages/data/pavaraghi-discovery-status.json"
 LANGS = ("tr", "fa", "en", "ar", "sr", "bs", "hr")
+LANG_TERMS = {"tr": "Türkçe altyazı", "fa": "زیرنویس فارسی", "en": "English subtitles", "ar": "ترجمة عربية", "sr": "srpski prevod", "bs": "bosanski titlovi", "hr": "hrvatski titlovi"}
 SOURCES = ("subtitlecat.com", "subdl.com", "opensubtitles.org")
 EXCLUDED = ("masterchef", "reality", "talk-show", "non-fiction")
 MAX_EPISODES = int(os.getenv("PAVARAGHI_EPISODES_PER_RUN", "4"))
@@ -67,21 +68,21 @@ def main():
         key = series["slug"] + ":" + str(episode)
         # Two targeted queries per episode. All languages remain in the fallback queue.
         names = [series.get("titleTr", ""), series.get("titleFa", "")]
-        queries = [f'"{names[0]}" "{episode}" bölüm subtitle site:subtitlecat.com',
-                   f'"{names[0]}" "{episode}" subtitles srt ar sr bs hr']
+        queries = [f'"{names[0]}" "{episode}" {LANG_TERMS[lang]} subtitle' for lang in LANGS]
         hits, errors = [], []
         for q in queries:
             matches, err = discover(q)
             hits.extend(matches)
             if err:
                 errors.append(err)
-            time.sleep(1)
+            time.sleep(0.35)
         unique = {hit["url"]: hit for hit in hits}
         old[key] = {
             "key":key, "seriesSlug":series["slug"], "seriesTitle":series["titleFa"],
             "originalEpisode":episode, "checkedAt":now, "languagesToTry":list(LANGS),
             "candidateUrls":list(unique.values()), "lastSearchError":"; ".join(errors) or None,
-            "state":"candidates-found-needs-episode-validation" if unique else "no-validated-source-yet",
+            "queriesRun":queries, "queryCount":len(queries),
+            "state":"candidates-found-needs-episode-validation" if unique else ("search-unavailable" if errors else "no-results"),
             "transcriptVerified":False, "dubbedBoundariesVerified":False,
             "publicationApproved":False
         }
