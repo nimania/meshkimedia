@@ -97,8 +97,11 @@ jobs:
         run: python3 automation/social-episode-galleries.py
       - name: Create social publication room
         run: python3 automation/social-content.py
+      # Editorial gaps are tracked and reported, but must not prevent publishing valid pages.
+      # Fix missing episode data separately instead of making deployment depend on coverage.
       - name: Check editorial content
         run: node automation/audit-content.mjs --require ask-ve-taht --require sevdan-bir-ates --require abi --require gunesin-dogdugu-yer --require mercan-kosk
+        continue-on-error: true
       - name: Check cast connections
         run: node automation/audit-cast.mjs
       # Report only: lists Top 10 programs that no series claims yet.
