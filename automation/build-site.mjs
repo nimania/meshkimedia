@@ -658,7 +658,7 @@ for (const s of catalogSeries) {
     const upcoming=kindEntries.slice(inKind+1,inKind+3).filter(item=>Array.isArray(item.paragraphs)&&item.paragraphs.length&&Array.isArray(item.verifiedSourceUrls)&&item.verifiedSourceUrls.length);
     const upcomingFacts=upcoming.map(item=>{
       const t=(item.teaserShort || item.paragraphs[0] || "").trim();
-      const words=t.split(/\\s+/).filter(Boolean);
+      const words=t.split(/\s+/).filter(Boolean);
       return words.slice(0,Math.min(45,words.length)).join(" ")+(words.length>45?"…":"");
     }).filter(Boolean);
     const teaserText=upcomingFacts.slice(0,2).join(" ");
