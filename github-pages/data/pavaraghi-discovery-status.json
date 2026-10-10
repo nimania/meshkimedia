@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-10T17:19:50.249900+00:00",
+  "mode": "discovery-only-no-auto-publication",
+  "firstPriority": "tuzlu-kahve",
+  "totalExistingOriginalEpisodes": 61,
+  "processedThisRun": [
+    "tuzlu-kahve:1",
+    "tuzlu-kahve:2",
+    "tuzlu-kahve:3",
+    "tuzlu-kahve:4"
+  ],
+  "episodes": [
+    {
+      "key": "tuzlu-kahve:1",
+      "seriesSlug": "tuzlu-kahve",
+      "seriesTitle": "قهوهٔ شور",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-10T17:19:50.249900+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Tuzlu Kahve\" \"1\" Türkçe altyazı subtitle",
+        "\"Tuzlu Kahve\" \"1\" زیرنویس فارسی subtitle",
+        "\"Tuzlu Kahve\" \"1\" English subtitles subtitle",
+        "\"Tuzlu Kahve\" \"1\" ترجمة عربية subtitle",
+        "\"Tuzlu Kahve\" \"1\" srpski prevod subtitle",
+        "\"Tuzlu Kahve\" \"1\" bosanski titlovi subtitle",
+        "\"Tuzlu Kahve\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "tuzlu-kahve:2",
+      "seriesSlug": "tuzlu-kahve",
+      "seriesTitle": "قهوهٔ شور",
+      "originalEpisode": 2,
+      "checkedAt": "2026-10-10T17:19:50.249900+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Tuzlu Kahve\" \"2\" Türkçe altyazı subtitle",
+        "\"Tuzlu Kahve\" \"2\" زیرنویس فارسی subtitle",
+        "\"Tuzlu Kahve\" \"2\" English subtitles subtitle",
+        "\"Tuzlu Kahve\" \"2\" ترجمة عربية subtitle",
+        "\"Tuzlu Kahve\" \"2\" srpski prevod subtitle",
+        "\"Tuzlu Kahve\" \"2\" bosanski titlovi subtitle",
+        "\"Tuzlu Kahve\" \"2\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "tuzlu-kahve:3",
+      "seriesSlug": "tuzlu-kahve",
+      "seriesTitle": "قهوهٔ شور",
+      "originalEpisode": 3,
+      "checkedAt": "2026-10-10T17:19:50.249900+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Tuzlu Kahve\" \"3\" Türkçe altyazı subtitle",
+        "\"Tuzlu Kahve\" \"3\" زیرنویس فارسی subtitle",
+        "\"Tuzlu Kahve\" \"3\" English subtitles subtitle",
+        "\"Tuzlu Kahve\" \"3\" ترجمة عربية subtitle",
+        "\"Tuzlu Kahve\" \"3\" srpski prevod subtitle",
+        "\"Tuzlu Kahve\" \"3\" bosanski titlovi subtitle",
+        "\"Tuzlu Kahve\" \"3\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "tuzlu-kahve:4",
+      "seriesSlug": "tuzlu-kahve",
+      "seriesTitle": "قهوهٔ شور",
+      "originalEpisode": 4,
+      "checkedAt": "2026-10-10T17:19:50.249900+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Tuzlu Kahve\" \"4\" Türkçe altyazı subtitle",
+        "\"Tuzlu Kahve\" \"4\" زیرنویس فارسی subtitle",
+        "\"Tuzlu Kahve\" \"4\" English subtitles subtitle",
+        "\"Tuzlu Kahve\" \"4\" ترجمة عربية subtitle",
+        "\"Tuzlu Kahve\" \"4\" srpski prevod subtitle",
+        "\"Tuzlu Kahve\" \"4\" bosanski titlovi subtitle",
+        "\"Tuzlu Kahve\" \"4\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    }
+  ]
+}
