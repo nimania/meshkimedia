@@ -1,0 +1,4163 @@
+{
+  "schemaVersion": 1,
+  "scope": "all published pavaraghi entries in dubbed.json",
+  "generatedFrom": "github-pages/data/dubbed.json",
+  "policy": "Queue tracks editorial work; it does not automatically certify or rewrite episodes.",
+  "priorityOrder": [
+    "tuzlu-kahve",
+    "muhtemel-ask",
+    "all other series"
+  ],
+  "total": 244,
+  "ready": 0,
+  "queue": [
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 1,
+      "words": 658,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 1,
+      "words": 265,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 1,
+      "words": 260,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 1,
+      "words": 252,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "original-2",
+      "kind": "original",
+      "originalEpisode": 2,
+      "priority": 1,
+      "words": 1313,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-4",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 1,
+      "words": 475,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-5",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 1,
+      "words": 435,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-6",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 1,
+      "words": 441,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "original-3",
+      "kind": "original",
+      "originalEpisode": 3,
+      "priority": 1,
+      "words": 465,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-7",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 1,
+      "words": 162,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-8",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 1,
+      "words": 152,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-9",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 1,
+      "words": 151,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "original-4",
+      "kind": "original",
+      "originalEpisode": 4,
+      "priority": 1,
+      "words": 443,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-10",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 1,
+      "words": 146,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-11",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 1,
+      "words": 144,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-12",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 1,
+      "words": 153,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "original-5",
+      "kind": "original",
+      "originalEpisode": 5,
+      "priority": 1,
+      "words": 424,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-13",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 1,
+      "words": 128,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-14",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 1,
+      "words": 137,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-15",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 1,
+      "words": 159,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "original-6",
+      "kind": "original",
+      "originalEpisode": 6,
+      "priority": 1,
+      "words": 375,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-16",
+      "kind": "dubbed",
+      "originalEpisode": 6,
+      "priority": 1,
+      "words": 81,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-17",
+      "kind": "dubbed",
+      "originalEpisode": 6,
+      "priority": 1,
+      "words": 71,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "tuzlu-kahve",
+      "seriesFa": "قهوهٔ شور",
+      "slug": "dubbed-18",
+      "kind": "dubbed",
+      "originalEpisode": 6,
+      "priority": 1,
+      "words": 186,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "muhtemel-ask",
+      "seriesFa": "احتمالاً عشقه",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 2,
+      "words": 523,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "muhtemel-ask",
+      "seriesFa": "احتمالاً عشقه",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 2,
+      "words": 172,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "muhtemel-ask",
+      "seriesFa": "احتمالاً عشقه",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 2,
+      "words": 161,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "muhtemel-ask",
+      "seriesFa": "احتمالاً عشقه",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 2,
+      "words": 190,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "muhtemel-ask",
+      "seriesFa": "احتمالاً عشقه",
+      "slug": "original-2",
+      "kind": "original",
+      "originalEpisode": 2,
+      "priority": 2,
+      "words": 581,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "muhtemel-ask",
+      "seriesFa": "احتمالاً عشقه",
+      "slug": "dubbed-4",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 2,
+      "words": 195,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "muhtemel-ask",
+      "seriesFa": "احتمالاً عشقه",
+      "slug": "dubbed-5",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 2,
+      "words": 202,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "muhtemel-ask",
+      "seriesFa": "احتمالاً عشقه",
+      "slug": "dubbed-6",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 2,
+      "words": 184,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 564,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 186,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 174,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 204,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "original-2",
+      "kind": "original",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 628,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-4",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 104,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-5",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 97,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-6",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 105,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "original-3",
+      "kind": "original",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 478,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-7",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 153,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-8",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 150,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-9",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 175,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "original-4",
+      "kind": "original",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 230,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-10",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 75,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-11",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 80,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-12",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 75,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "original-5",
+      "kind": "original",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 230,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-13",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 84,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-14",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 63,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdan-bir-ates",
+      "seriesFa": "عشقت یک آتش است",
+      "slug": "dubbed-15",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 83,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 601,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 193,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 206,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 202,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "original-2",
+      "kind": "original",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 282,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-4",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 91,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-5",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 94,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-6",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 97,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "original-3",
+      "kind": "original",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 447,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-7",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 152,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-8",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 139,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-9",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 156,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "original-4",
+      "kind": "original",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 201,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-10",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 129,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-11",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 72,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-12",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 0,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "original-5",
+      "kind": "original",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 205,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-13",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 133,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-14",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 72,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "ask-ve-taht",
+      "seriesFa": "عشق و تخت",
+      "slug": "dubbed-15",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 0,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 534,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 173,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 167,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 194,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "original-19",
+      "kind": "original",
+      "originalEpisode": 19,
+      "priority": 3,
+      "words": 599,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-4",
+      "kind": "dubbed",
+      "originalEpisode": 19,
+      "priority": 3,
+      "words": 165,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-5",
+      "kind": "dubbed",
+      "originalEpisode": 19,
+      "priority": 3,
+      "words": 172,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-6",
+      "kind": "dubbed",
+      "originalEpisode": 19,
+      "priority": 3,
+      "words": 262,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "original-20",
+      "kind": "original",
+      "originalEpisode": 20,
+      "priority": 3,
+      "words": 216,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-7",
+      "kind": "dubbed",
+      "originalEpisode": 20,
+      "priority": 3,
+      "words": 72,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-8",
+      "kind": "dubbed",
+      "originalEpisode": 20,
+      "priority": 3,
+      "words": 75,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-9",
+      "kind": "dubbed",
+      "originalEpisode": 20,
+      "priority": 3,
+      "words": 69,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "original-21",
+      "kind": "original",
+      "originalEpisode": 21,
+      "priority": 3,
+      "words": 227,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-10",
+      "kind": "dubbed",
+      "originalEpisode": 21,
+      "priority": 3,
+      "words": 81,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-11",
+      "kind": "dubbed",
+      "originalEpisode": 21,
+      "priority": 3,
+      "words": 77,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-12",
+      "kind": "dubbed",
+      "originalEpisode": 21,
+      "priority": 3,
+      "words": 69,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "original-22",
+      "kind": "original",
+      "originalEpisode": 22,
+      "priority": 3,
+      "words": 194,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-13",
+      "kind": "dubbed",
+      "originalEpisode": 22,
+      "priority": 3,
+      "words": 64,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-14",
+      "kind": "dubbed",
+      "originalEpisode": 22,
+      "priority": 3,
+      "words": 61,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-15",
+      "kind": "dubbed",
+      "originalEpisode": 22,
+      "priority": 3,
+      "words": 69,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "original-23",
+      "kind": "original",
+      "originalEpisode": 23,
+      "priority": 3,
+      "words": 210,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-16",
+      "kind": "dubbed",
+      "originalEpisode": 23,
+      "priority": 3,
+      "words": 67,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-17",
+      "kind": "dubbed",
+      "originalEpisode": 23,
+      "priority": 3,
+      "words": 74,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "abi",
+      "seriesFa": "خانواده یک آزمون است",
+      "slug": "dubbed-18",
+      "kind": "dubbed",
+      "originalEpisode": 23,
+      "priority": 3,
+      "words": 69,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 410,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 136,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 143,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 131,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "original-2",
+      "kind": "original",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 257,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-4",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 72,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-5",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 88,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-6",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 97,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "original-3",
+      "kind": "original",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 210,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-7",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 66,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-8",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 62,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-9",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 82,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "original-4",
+      "kind": "original",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 226,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-10",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 73,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-11",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 75,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gunesin-dogdugu-yer",
+      "seriesFa": "جایی که خورشید طلوع می‌کند",
+      "slug": "dubbed-12",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 78,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 473,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 155,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 154,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 164,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "original-2",
+      "kind": "original",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 239,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-4",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 74,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-5",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 84,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-6",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 81,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "original-3",
+      "kind": "original",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 234,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-7",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 68,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-8",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 90,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-9",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 76,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "original-4",
+      "kind": "original",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 252,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-10",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 87,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-11",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 86,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-12",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 79,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "original-5",
+      "kind": "original",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 234,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-13",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 80,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-14",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 81,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mercan-kosk",
+      "seriesFa": "عمارت مرجان",
+      "slug": "dubbed-15",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 73,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 419,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 160,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 127,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 132,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "original-65",
+      "kind": "original",
+      "originalEpisode": 65,
+      "priority": 3,
+      "words": 228,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-4",
+      "kind": "dubbed",
+      "originalEpisode": 65,
+      "priority": 3,
+      "words": 72,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-5",
+      "kind": "dubbed",
+      "originalEpisode": 65,
+      "priority": 3,
+      "words": 77,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-6",
+      "kind": "dubbed",
+      "originalEpisode": 65,
+      "priority": 3,
+      "words": 79,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "original-66",
+      "kind": "original",
+      "originalEpisode": 66,
+      "priority": 3,
+      "words": 212,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-7",
+      "kind": "dubbed",
+      "originalEpisode": 66,
+      "priority": 3,
+      "words": 70,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-8",
+      "kind": "dubbed",
+      "originalEpisode": 66,
+      "priority": 3,
+      "words": 64,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-9",
+      "kind": "dubbed",
+      "originalEpisode": 66,
+      "priority": 3,
+      "words": 78,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "original-67",
+      "kind": "original",
+      "originalEpisode": 67,
+      "priority": 3,
+      "words": 219,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-10",
+      "kind": "dubbed",
+      "originalEpisode": 67,
+      "priority": 3,
+      "words": 73,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-11",
+      "kind": "dubbed",
+      "originalEpisode": 67,
+      "priority": 3,
+      "words": 72,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "uzak-sehir",
+      "seriesFa": "شهر دور",
+      "slug": "dubbed-12",
+      "kind": "dubbed",
+      "originalEpisode": 67,
+      "priority": 3,
+      "words": 74,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 479,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 169,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 149,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 161,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "original-2",
+      "kind": "original",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 238,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-4",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 76,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-5",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 77,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-6",
+      "kind": "dubbed",
+      "originalEpisode": 2,
+      "priority": 3,
+      "words": 85,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "original-3",
+      "kind": "original",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 226,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-7",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 77,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-8",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 74,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-9",
+      "kind": "dubbed",
+      "originalEpisode": 3,
+      "priority": 3,
+      "words": 75,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "original-4",
+      "kind": "original",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 217,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-10",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 72,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-11",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 67,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-12",
+      "kind": "dubbed",
+      "originalEpisode": 4,
+      "priority": 3,
+      "words": 78,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "original-5",
+      "kind": "original",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 228,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-13",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 79,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-14",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 74,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "haysiyet",
+      "seriesFa": "حیثیت",
+      "slug": "dubbed-15",
+      "kind": "dubbed",
+      "originalEpisode": 5,
+      "priority": 3,
+      "words": 75,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 384,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 121,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 132,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 131,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "original-35",
+      "kind": "original",
+      "originalEpisode": 35,
+      "priority": 3,
+      "words": 196,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "dubbed-4",
+      "kind": "dubbed",
+      "originalEpisode": 35,
+      "priority": 3,
+      "words": 56,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "dubbed-5",
+      "kind": "dubbed",
+      "originalEpisode": 35,
+      "priority": 3,
+      "words": 70,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "dubbed-6",
+      "kind": "dubbed",
+      "originalEpisode": 35,
+      "priority": 3,
+      "words": 70,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "original-36",
+      "kind": "original",
+      "originalEpisode": 36,
+      "priority": 3,
+      "words": 222,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "dubbed-7",
+      "kind": "dubbed",
+      "originalEpisode": 36,
+      "priority": 3,
+      "words": 72,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "dubbed-8",
+      "kind": "dubbed",
+      "originalEpisode": 36,
+      "priority": 3,
+      "words": 75,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "guller-ve-gunahlar",
+      "seriesFa": "گل‌ها و گناهان",
+      "slug": "dubbed-9",
+      "kind": "dubbed",
+      "originalEpisode": 36,
+      "priority": 3,
+      "words": 75,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 408,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 143,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 130,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 135,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "original-140",
+      "kind": "original",
+      "originalEpisode": 140,
+      "priority": 3,
+      "words": 247,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "dubbed-4",
+      "kind": "dubbed",
+      "originalEpisode": 140,
+      "priority": 3,
+      "words": 86,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "dubbed-5",
+      "kind": "dubbed",
+      "originalEpisode": 140,
+      "priority": 3,
+      "words": 84,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "dubbed-6",
+      "kind": "dubbed",
+      "originalEpisode": 140,
+      "priority": 3,
+      "words": 77,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "original-141",
+      "kind": "original",
+      "originalEpisode": 141,
+      "priority": 3,
+      "words": 230,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "dubbed-7",
+      "kind": "dubbed",
+      "originalEpisode": 141,
+      "priority": 3,
+      "words": 77,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "dubbed-8",
+      "kind": "dubbed",
+      "originalEpisode": 141,
+      "priority": 3,
+      "words": 81,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "kizilcik-serbeti",
+      "seriesFa": "شربت زغال‌اخته",
+      "slug": "dubbed-9",
+      "kind": "dubbed",
+      "originalEpisode": 141,
+      "priority": 3,
+      "words": 72,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdigim-sensin",
+      "seriesFa": "تو همانی که دوستش دارم",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 421,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdigim-sensin",
+      "seriesFa": "تو همانی که دوستش دارم",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 145,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdigim-sensin",
+      "seriesFa": "تو همانی که دوستش دارم",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 135,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "sevdigim-sensin",
+      "seriesFa": "تو همانی که دوستش دارم",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 141,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gonul-dagi",
+      "seriesFa": "کوه دل",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 412,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gonul-dagi",
+      "seriesFa": "کوه دل",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 135,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gonul-dagi",
+      "seriesFa": "کوه دل",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 140,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "gonul-dagi",
+      "seriesFa": "کوه دل",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 137,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "evlilik-guzeldir",
+      "seriesFa": "ازدواج زیباست",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 452,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "evlilik-guzeldir",
+      "seriesFa": "ازدواج زیباست",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 157,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "evlilik-guzeldir",
+      "seriesFa": "ازدواج زیباست",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 139,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "evlilik-guzeldir",
+      "seriesFa": "ازدواج زیباست",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 156,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "anne-yarisi",
+      "seriesFa": "نیمهٔ مادر",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 429,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "anne-yarisi",
+      "seriesFa": "نیمهٔ مادر",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 156,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "anne-yarisi",
+      "seriesFa": "نیمهٔ مادر",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 135,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "anne-yarisi",
+      "seriesFa": "نیمهٔ مادر",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 138,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "omur-usta",
+      "seriesFa": "اومور اوستا",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 428,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "omur-usta",
+      "seriesFa": "اومور اوستا",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 143,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "omur-usta",
+      "seriesFa": "اومور اوستا",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 150,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "omur-usta",
+      "seriesFa": "اومور اوستا",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 135,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "yeralti",
+      "seriesFa": "زیرزمین",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 385,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "yeralti",
+      "seriesFa": "زیرزمین",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 131,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "yeralti",
+      "seriesFa": "زیرزمین",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 118,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "yeralti",
+      "seriesFa": "زیرزمین",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 136,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "daha-17",
+      "seriesFa": "هنوز ۱۷ سالشه",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 373,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "daha-17",
+      "seriesFa": "هنوز ۱۷ سالشه",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 121,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "daha-17",
+      "seriesFa": "هنوز ۱۷ سالشه",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 122,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "daha-17",
+      "seriesFa": "هنوز ۱۷ سالشه",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 130,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "teskilat",
+      "seriesFa": "تشکیلات",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 385,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "teskilat",
+      "seriesFa": "تشکیلات",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 137,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "teskilat",
+      "seriesFa": "تشکیلات",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 129,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "teskilat",
+      "seriesFa": "تشکیلات",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 119,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "cirkin",
+      "seriesFa": "زشت",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 391,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "cirkin",
+      "seriesFa": "زشت",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 136,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "cirkin",
+      "seriesFa": "زشت",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 132,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "cirkin",
+      "seriesFa": "زشت",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 123,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "alti-ustu-istanbul",
+      "seriesFa": "بالا و پایین استانبول",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 532,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "alti-ustu-istanbul",
+      "seriesFa": "بالا و پایین استانبول",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 183,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "alti-ustu-istanbul",
+      "seriesFa": "بالا و پایین استانبول",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 169,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "alti-ustu-istanbul",
+      "seriesFa": "بالا و پایین استانبول",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 180,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mehmed-fetihler-sultani",
+      "seriesFa": "محمد: سلطان فتوحات",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 366,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mehmed-fetihler-sultani",
+      "seriesFa": "محمد: سلطان فتوحات",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 131,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mehmed-fetihler-sultani",
+      "seriesFa": "محمد: سلطان فتوحات",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 112,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "mehmed-fetihler-sultani",
+      "seriesFa": "محمد: سلطان فتوحات",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 123,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "baskalarinin-hayati",
+      "seriesFa": "زندگی دیگران",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 445,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "baskalarinin-hayati",
+      "seriesFa": "زندگی دیگران",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 151,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "baskalarinin-hayati",
+      "seriesFa": "زندگی دیگران",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 146,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "baskalarinin-hayati",
+      "seriesFa": "زندگی دیگران",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 148,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "halef-koklerin-cagrisi",
+      "seriesFa": "جانشین: ندای ریشه‌ها",
+      "slug": "original-1",
+      "kind": "original",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 385,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-evidence",
+        "expand-faithful-narrative",
+        "original-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "halef-koklerin-cagrisi",
+      "seriesFa": "جانشین: ندای ریشه‌ها",
+      "slug": "dubbed-1",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 144,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "halef-koklerin-cagrisi",
+      "seriesFa": "جانشین: ندای ریشه‌ها",
+      "slug": "dubbed-2",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 118,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    },
+    {
+      "series": "halef-koklerin-cagrisi",
+      "seriesFa": "جانشین: ندای ریشه‌ها",
+      "slug": "dubbed-3",
+      "kind": "dubbed",
+      "originalEpisode": 1,
+      "priority": 3,
+      "words": 123,
+      "status": "needs-editorial-upgrade",
+      "actions": [
+        "verify-segment-boundaries",
+        "rewrite-independently",
+        "dubbed-title",
+        "scene-subheadings",
+        "voice-review"
+      ]
+    }
+  ]
+}
