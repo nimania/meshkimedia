@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T21:40:41.967462+00:00",
+  "generatedAt": "2026-10-11T05:42:21.200027+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "tuzlu-kahve:5",
-    "tuzlu-kahve:6",
-    "abi:1",
-    "abi:19"
+    "abi:20",
+    "abi:21",
+    "abi:22",
+    "abi:23"
   ],
   "episodes": [
     {
@@ -260,6 +260,134 @@
         "\"A.B.İ.\" \"19\" srpski prevod subtitle",
         "\"A.B.İ.\" \"19\" bosanski titlovi subtitle",
         "\"A.B.İ.\" \"19\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "abi:20",
+      "seriesSlug": "abi",
+      "seriesTitle": "خانواده یک آزمون است",
+      "originalEpisode": 20,
+      "checkedAt": "2026-10-11T05:42:21.200027+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"A.B.İ.\" \"20\" Türkçe altyazı subtitle",
+        "\"A.B.İ.\" \"20\" زیرنویس فارسی subtitle",
+        "\"A.B.İ.\" \"20\" English subtitles subtitle",
+        "\"A.B.İ.\" \"20\" ترجمة عربية subtitle",
+        "\"A.B.İ.\" \"20\" srpski prevod subtitle",
+        "\"A.B.İ.\" \"20\" bosanski titlovi subtitle",
+        "\"A.B.İ.\" \"20\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "abi:21",
+      "seriesSlug": "abi",
+      "seriesTitle": "خانواده یک آزمون است",
+      "originalEpisode": 21,
+      "checkedAt": "2026-10-11T05:42:21.200027+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"A.B.İ.\" \"21\" Türkçe altyazı subtitle",
+        "\"A.B.İ.\" \"21\" زیرنویس فارسی subtitle",
+        "\"A.B.İ.\" \"21\" English subtitles subtitle",
+        "\"A.B.İ.\" \"21\" ترجمة عربية subtitle",
+        "\"A.B.İ.\" \"21\" srpski prevod subtitle",
+        "\"A.B.İ.\" \"21\" bosanski titlovi subtitle",
+        "\"A.B.İ.\" \"21\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "abi:22",
+      "seriesSlug": "abi",
+      "seriesTitle": "خانواده یک آزمون است",
+      "originalEpisode": 22,
+      "checkedAt": "2026-10-11T05:42:21.200027+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"A.B.İ.\" \"22\" Türkçe altyazı subtitle",
+        "\"A.B.İ.\" \"22\" زیرنویس فارسی subtitle",
+        "\"A.B.İ.\" \"22\" English subtitles subtitle",
+        "\"A.B.İ.\" \"22\" ترجمة عربية subtitle",
+        "\"A.B.İ.\" \"22\" srpski prevod subtitle",
+        "\"A.B.İ.\" \"22\" bosanski titlovi subtitle",
+        "\"A.B.İ.\" \"22\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "abi:23",
+      "seriesSlug": "abi",
+      "seriesTitle": "خانواده یک آزمون است",
+      "originalEpisode": 23,
+      "checkedAt": "2026-10-11T05:42:21.200027+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"A.B.İ.\" \"23\" Türkçe altyazı subtitle",
+        "\"A.B.İ.\" \"23\" زیرنویس فارسی subtitle",
+        "\"A.B.İ.\" \"23\" English subtitles subtitle",
+        "\"A.B.İ.\" \"23\" ترجمة عربية subtitle",
+        "\"A.B.İ.\" \"23\" srpski prevod subtitle",
+        "\"A.B.İ.\" \"23\" bosanski titlovi subtitle",
+        "\"A.B.İ.\" \"23\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
