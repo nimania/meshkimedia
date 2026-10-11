@@ -1,6 +1,53 @@
 {
- "updated": "2026-10-10T22:36:20.715Z",
+ "updated": "2026-10-11T01:57:10.363Z",
  "items": [
+  {
+   "id": "94036819b949",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/instagram-hesabini-kapatmisti-kivanc-tatlitug-nedenini-ilk-kez-acikladi-7675214",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Instagram hesabını kapatmıştı! Kıvanç Tatlıtuğ nedenini ilk kez açıkladı",
+   "snippet": "Kariyeri ve özel hayatıyla magazin gündeminden düşmeyen oyuncu Kıvanç Tatlıtuğ, yaklaşık 5 milyon takipçisi bulunan Instagram hesabını neden kapattığını açıkladı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac68f1a50398df27d011396.jpg",
+   "video": null,
+   "published": "2026-10-10T23:45:17.000Z",
+   "scope": "general",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/instagram-hesabini-kapatmisti-kivanc-tatlitug-nedenini-ilk-kez-acikladi-7675214",
+     "title": "Instagram hesabını kapatmıştı! Kıvanç Tatlıtuğ nedenini ilk kez açıkladı",
+     "snippet": "Kariyeri ve özel hayatıyla magazin gündeminden düşmeyen oyuncu Kıvanç Tatlıtuğ, yaklaşık 5 milyon takipçisi bulunan Instagram hesabını neden kapattığını açıkladı.",
+     "published": "2026-10-10T23:45:17.000Z",
+     "titleFa": "حساب اینستاگرامش را بسته بود! کوانچ تاتلیتوع برای اولین بار دلیلش را توضیح داد"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ac68f1a50398df27d011396.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ac68f1a50398df27d011396.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "کوانچ تاتلیتوع علت بستن حساب اینستاگرام خود را توضیح داد",
+   "summaryFa": "کوانچ تاتلیتوع، بازیگر سرشناس، برای نخستین بار دلیل بستن صفحه اینستاگرام خود با ۵ میلیون دنبال‌کننده را بیان کرد.",
+   "bodyFa": [
+    "کوانچ تاتلیتوع، بازیگر مطرح که اخبار مربوط به حرفه و زندگی شخصی‌اش همواره در صدر حواشی رسانه‌ها قرار دارد، علت بستن حساب کاربری خود در اینستاگرام را برای اولین بار فاش کرد.",
+    "این حساب کاربری پیش از بسته شدن، حدود ۵ میلیون دنبال‌کننده داشت."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "5cccd3077401",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/guller-ve-gunahlarin-37-bolumunde-neler-oldu-43337144",
@@ -186,6 +233,36 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "0075df7818df",
+   "url": "https://www.haberturk.com/magazin/foto/atilla-tas-in-kizi-sezen-tas-in-eski-esinden-aciklama-3918817",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Eski eşinden açıklama",
+   "snippet": "Şarkıcı Atilla Taş'ın kızı Sezen Taş, Mersin'deki bir sitedeki apartmanın 14'üncü katından düşerek hayatını kaybetmişti. Sezen Taş'ın eski eşi Uğur Haliloğlu, kendisi hakkında çıkan iddialarla ilgili konuştu",
+   "image": "https://im.haberturk.com/l/2026/10/10/ver1791661507/3918817/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-10T19:57:42.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/atilla-tas-in-kizi-sezen-tas-in-eski-esinden-aciklama-3918817",
+     "title": "Eski eşinden açıklama",
+     "snippet": "Şarkıcı Atilla Taş'ın kızı Sezen Taş, Mersin'deki bir sitedeki apartmanın 14'üncü katından düşerek hayatını kaybetmişti. Sezen Taş'ın eski eşi Uğur Haliloğlu, kendisi hakkında çıkan iddialarla ilgili konuştu",
+     "published": "2026-10-10T19:57:42.000Z"
+    }
+   ],
+   "mediaDone": true
   },
   {
    "id": "dd18a5ee9a07",
@@ -11106,93 +11183,6 @@
     "مجموعه تلویزیونی محبوب «عشق احتمالی» (Muhtemel Aşk) محصول شرکت ام‌اف یاپیم (MF Yapım)، امشب با هفدهمین قسمت خود از شبکه شو تی‌وی (Show TV) مهمان خانه‌های بینندگان خواهد بود. در این قسمت جدید، ماجراهای هیجان‌انگیزی برای شخصیت‌های اصلی داستان رقم می‌خورد که مسیر زندگی آن‌ها را تغییر می‌دهد.",
     "در خلاصه این قسمت آمده است که قدیر برای جلوگیری از سفر دفنه به پاریس، او را تا هواپیما تعقیب می‌کند و این موضوع باعث بروز یک بحران حسادت غیرمنتظره میان آن‌ها می‌شود. از سوی دیگر، سفر ناگهانی گلیز و تصمیم نهایی او، زندگی قدیر و دفنه را به شدت تحت تاثیر قرار خواهد داد. همچنین هدیه تولد مرموزی که قادر برای علی می‌فرستد، دریچه‌ای به سوی یک راز قدیمی باز می‌کند.",
     "در حالی که همه شخصیت‌ها در آستانه شروعی تازه هستند، حل یک معما توسط علی در مراسم عروسی اوزلم و تولگا، تمام معادلات را به هم می‌زند. افشای این حقیقت بزرگ توسط علی در مقابل همه و سر سفره عقد، شوک بزرگی به حاضران وارد خواهد کرد. بازیگرانی چون آیچا آیشین توران، اکین کوچ و فیاض شریف‌اوغلو در این سریال به ایفای نقش می‌پردازند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "322fbd2f17a9",
-   "url": "https://www.haberturk.com/magazin/ersay-uner-e-arkadaslarindan-surpriz-dogum-gunu-partisi-3918064",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Arkadaşları sürpriz yaptı",
-   "snippet": "Demet Akalın, Berkay Şahin ve Elif Buse Doğan gibi ünlü isimler, yakın arkadaşları Ersay Üner'in 48'inci yaş gününü organize ettikleri sürpriz doğum günü partisiyle kutladı",
-   "image": "https://im.haberturk.com/l/2026/10/08/ver1791443432/3918064/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-08T07:11:54.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/ersay-uner-e-arkadaslarindan-surpriz-dogum-gunu-partisi-3918064",
-     "title": "Arkadaşları sürpriz yaptı",
-     "snippet": "Demet Akalın, Berkay Şahin ve Elif Buse Doğan gibi ünlü isimler, yakın arkadaşları Ersay Üner'in 48'inci yaş gününü organize ettikleri sürpriz doğum günü partisiyle kutladı",
-     "published": "2026-10-08T07:11:54.000Z",
-     "titleFa": "دوستانش غافلگیری ترتیب دادند"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "جشن تولد غافلگیرکننده برای ارس اونer",
-   "summaryFa": "ارس اونer، خواننده، تولد ۴۸ سالگی خود را با یک مهمانی غافلگیرکننده که توسط دوستانش تدارک دیده شده بود، جشن گرفت. چهره‌های سرشناسی مانند دمت آکالین، برکای شاهین و الیف بوسه دوغان در این مراسم حضور داشتند.",
-   "bodyFa": [
-    "بر اساس گزارش‌ها، ارس اونer در ۴۸ سالگی خود توسط دوستان نزدیکش با یک مهمانی تولد غافلگیرکننده مواجه شد و این روز را جشن گرفت.",
-    "در این مهمانی که جو دوستانه‌ای داشت، چهره‌های شناخته‌شده‌ای همچون برکای شاهین، الیف بوسه دوغان، به همراه دمت آکالین و شریک زندگی‌اش اوکان کورت حضور پیدا کردند.",
-    "ارس اونer از این اقدام دوستانش بسیار خوشحال شد و توانست لحظات شاد و مفرحی را در کنار آن‌ها سپری کند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "ec44fd374f51",
-   "url": "https://www.sabah.com.tr/magazin/heyecan-kaldigi-yerden-devam-ediyor-esra-erolla-var-misin-yok-musun-yeniden-basliyor-7676194",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Heyecan kaldığı yerden devam ediyor! Esra Erol'la 'Var Mısın Yok Musun' yeniden başlıyor!",
-   "snippet": "atv’nin milyonlar dağıtan yarışması Var Mısın Yok Musun geri dönüyor. Sunuculuğunu Esra Erol’un yaptığı program Salı akşamı kaldığı yerden devam ediyor. Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/f1e62c/1200/675/0/0/1920/1080?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/heyecan-kaldigi-yerden-devam-ediyor-esra-erolla-var-misin-yok-musun-yeniden-basliyor-1791442498458.jpeg",
-   "video": null,
-   "published": "2026-10-08T06:55:59.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/heyecan-kaldigi-yerden-devam-ediyor-esra-erolla-var-misin-yok-musun-yeniden-basliyor-7676194",
-     "title": "Heyecan kaldığı yerden devam ediyor! Esra Erol'la 'Var Mısın Yok Musun' yeniden başlıyor!",
-     "snippet": "atv’nin milyonlar dağıtan yarışması Var Mısın Yok Musun geri dönüyor. Sunuculuğunu Esra Erol’un yaptığı program Salı akşamı kaldığı yerden devam ediyor. Devamı için tıklayınız",
-     "published": "2026-10-08T06:55:59.000Z",
-     "titleFa": "هیجان از همان جایی که متوقف شده بود ادامه دارد! «Var Mısın Yok Musun» با اسرا ارول دوباره آغاز می شود!"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/f1e62c/1200/675/0/0/1920/1080?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/heyecan-kaldigi-yerden-devam-ediyor-esra-erolla-var-misin-yok-musun-yeniden-basliyor-1791442498458.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/sabah-dummy.jpg",
-    "https://iasbh.tmgrup.com.tr/3665f8/752/395/0/0/1920/1006?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/heyecan-kaldigi-yerden-devam-ediyor-esra-erolla-var-misin-yok-musun-yeniden-basliyor-1791442498458.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "برنامه «Var Mısın Yok Musun» با اجرای اسرا ارول بازمی‌گردد",
-   "summaryFa": "مسابقه تلویزیونی «Var Mısın Yok Musun» با اجرای اسرا ارول از شبکه ATV پخش خود را از سر می‌گیرد.",
-   "bodyFa": [
-    "مسابقه تلویزیونی «Var Mısın Yok Musun» که جوایز میلیونی به شرکت‌کنندگان اهدا می‌کند، بار دیگر به آنتن تلویزیون بازمی‌گردد. این برنامه محبوب که تلفیقی از شانس و استراتژی است، قرار است هیجان را در روزهای سه‌شنبه به مخاطبان خود منتقل کند.",
-    "اجرای این مسابقه را اسرا ارول بر عهده دارد و پخش آن از روز سه‌شنبه از طریق شبکه ATV از سر گرفته می‌شود."
    ],
    "ai": true,
    "aiTries": 1
