@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T05:42:21.200027+00:00",
+  "generatedAt": "2026-10-11T12:45:10.670115+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "abi:20",
-    "abi:21",
-    "abi:22",
-    "abi:23"
+    "alti-ustu-istanbul:1",
+    "anne-yarisi:1",
+    "ask-ve-taht:1",
+    "ask-ve-taht:2"
   ],
   "episodes": [
     {
@@ -388,6 +388,134 @@
         "\"A.B.İ.\" \"23\" srpski prevod subtitle",
         "\"A.B.İ.\" \"23\" bosanski titlovi subtitle",
         "\"A.B.İ.\" \"23\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "alti-ustu-istanbul:1",
+      "seriesSlug": "alti-ustu-istanbul",
+      "seriesTitle": "بالا و پایین استانبول",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-11T12:45:10.670115+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Altı Üstü İstanbul\" \"1\" Türkçe altyazı subtitle",
+        "\"Altı Üstü İstanbul\" \"1\" زیرنویس فارسی subtitle",
+        "\"Altı Üstü İstanbul\" \"1\" English subtitles subtitle",
+        "\"Altı Üstü İstanbul\" \"1\" ترجمة عربية subtitle",
+        "\"Altı Üstü İstanbul\" \"1\" srpski prevod subtitle",
+        "\"Altı Üstü İstanbul\" \"1\" bosanski titlovi subtitle",
+        "\"Altı Üstü İstanbul\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "anne-yarisi:1",
+      "seriesSlug": "anne-yarisi",
+      "seriesTitle": "نیمهٔ مادر",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-11T12:45:10.670115+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Anne Yarısı\" \"1\" Türkçe altyazı subtitle",
+        "\"Anne Yarısı\" \"1\" زیرنویس فارسی subtitle",
+        "\"Anne Yarısı\" \"1\" English subtitles subtitle",
+        "\"Anne Yarısı\" \"1\" ترجمة عربية subtitle",
+        "\"Anne Yarısı\" \"1\" srpski prevod subtitle",
+        "\"Anne Yarısı\" \"1\" bosanski titlovi subtitle",
+        "\"Anne Yarısı\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "ask-ve-taht:1",
+      "seriesSlug": "ask-ve-taht",
+      "seriesTitle": "عشق و تخت",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-11T12:45:10.670115+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Aşk ve Taht\" \"1\" Türkçe altyazı subtitle",
+        "\"Aşk ve Taht\" \"1\" زیرنویس فارسی subtitle",
+        "\"Aşk ve Taht\" \"1\" English subtitles subtitle",
+        "\"Aşk ve Taht\" \"1\" ترجمة عربية subtitle",
+        "\"Aşk ve Taht\" \"1\" srpski prevod subtitle",
+        "\"Aşk ve Taht\" \"1\" bosanski titlovi subtitle",
+        "\"Aşk ve Taht\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "ask-ve-taht:2",
+      "seriesSlug": "ask-ve-taht",
+      "seriesTitle": "عشق و تخت",
+      "originalEpisode": 2,
+      "checkedAt": "2026-10-11T12:45:10.670115+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Aşk ve Taht\" \"2\" Türkçe altyazı subtitle",
+        "\"Aşk ve Taht\" \"2\" زیرنویس فارسی subtitle",
+        "\"Aşk ve Taht\" \"2\" English subtitles subtitle",
+        "\"Aşk ve Taht\" \"2\" ترجمة عربية subtitle",
+        "\"Aşk ve Taht\" \"2\" srpski prevod subtitle",
+        "\"Aşk ve Taht\" \"2\" bosanski titlovi subtitle",
+        "\"Aşk ve Taht\" \"2\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
