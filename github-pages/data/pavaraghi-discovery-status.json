@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:45:10.670115+00:00",
+  "generatedAt": "2026-10-11T21:55:14.264055+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "alti-ustu-istanbul:1",
-    "anne-yarisi:1",
-    "ask-ve-taht:1",
-    "ask-ve-taht:2"
+    "ask-ve-taht:3",
+    "ask-ve-taht:4",
+    "ask-ve-taht:5",
+    "baskalarinin-hayati:1"
   ],
   "episodes": [
     {
@@ -516,6 +516,134 @@
         "\"Aşk ve Taht\" \"2\" srpski prevod subtitle",
         "\"Aşk ve Taht\" \"2\" bosanski titlovi subtitle",
         "\"Aşk ve Taht\" \"2\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "ask-ve-taht:3",
+      "seriesSlug": "ask-ve-taht",
+      "seriesTitle": "عشق و تخت",
+      "originalEpisode": 3,
+      "checkedAt": "2026-10-11T21:55:14.264055+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Aşk ve Taht\" \"3\" Türkçe altyazı subtitle",
+        "\"Aşk ve Taht\" \"3\" زیرنویس فارسی subtitle",
+        "\"Aşk ve Taht\" \"3\" English subtitles subtitle",
+        "\"Aşk ve Taht\" \"3\" ترجمة عربية subtitle",
+        "\"Aşk ve Taht\" \"3\" srpski prevod subtitle",
+        "\"Aşk ve Taht\" \"3\" bosanski titlovi subtitle",
+        "\"Aşk ve Taht\" \"3\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "ask-ve-taht:4",
+      "seriesSlug": "ask-ve-taht",
+      "seriesTitle": "عشق و تخت",
+      "originalEpisode": 4,
+      "checkedAt": "2026-10-11T21:55:14.264055+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Aşk ve Taht\" \"4\" Türkçe altyazı subtitle",
+        "\"Aşk ve Taht\" \"4\" زیرنویس فارسی subtitle",
+        "\"Aşk ve Taht\" \"4\" English subtitles subtitle",
+        "\"Aşk ve Taht\" \"4\" ترجمة عربية subtitle",
+        "\"Aşk ve Taht\" \"4\" srpski prevod subtitle",
+        "\"Aşk ve Taht\" \"4\" bosanski titlovi subtitle",
+        "\"Aşk ve Taht\" \"4\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "ask-ve-taht:5",
+      "seriesSlug": "ask-ve-taht",
+      "seriesTitle": "عشق و تخت",
+      "originalEpisode": 5,
+      "checkedAt": "2026-10-11T21:55:14.264055+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Aşk ve Taht\" \"5\" Türkçe altyazı subtitle",
+        "\"Aşk ve Taht\" \"5\" زیرنویس فارسی subtitle",
+        "\"Aşk ve Taht\" \"5\" English subtitles subtitle",
+        "\"Aşk ve Taht\" \"5\" ترجمة عربية subtitle",
+        "\"Aşk ve Taht\" \"5\" srpski prevod subtitle",
+        "\"Aşk ve Taht\" \"5\" bosanski titlovi subtitle",
+        "\"Aşk ve Taht\" \"5\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "baskalarinin-hayati:1",
+      "seriesSlug": "baskalarinin-hayati",
+      "seriesTitle": "زندگی دیگران",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-11T21:55:14.264055+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Başkalarının Hayatı\" \"1\" Türkçe altyazı subtitle",
+        "\"Başkalarının Hayatı\" \"1\" زیرنویس فارسی subtitle",
+        "\"Başkalarının Hayatı\" \"1\" English subtitles subtitle",
+        "\"Başkalarının Hayatı\" \"1\" ترجمة عربية subtitle",
+        "\"Başkalarının Hayatı\" \"1\" srpski prevod subtitle",
+        "\"Başkalarının Hayatı\" \"1\" bosanski titlovi subtitle",
+        "\"Başkalarının Hayatı\" \"1\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
