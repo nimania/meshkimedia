@@ -1,6 +1,45 @@
 {
- "updated": "2026-10-12T16:33:42.429Z",
+ "updated": "2026-10-12T17:58:47.432Z",
  "items": [
+  {
+   "id": "1609e998d62e",
+   "url": "https://www.haberturk.com/magazin/foto/ozlem-ozdil-ve-eray-temiz-nisanlandi-3919179",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Özlem Özdil nişanlandı",
+   "snippet": "Türk Halk Müziği sanatçısı Özlem Özdil, bir süredir aşk yaşadığı Eray Temiz ile aile ve yakın dostlarının katıldığı törenle yüzük taktı",
+   "image": "https://im.haberturk.com/l/2026/10/12/ver1791819252/3919179/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-12T15:34:43.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/ozlem-ozdil-ve-eray-temiz-nisanlandi-3919179",
+     "title": "Özlem Özdil nişanlandı",
+     "snippet": "Türk Halk Müziği sanatçısı Özlem Özdil, bir süredir aşk yaşadığı Eray Temiz ile aile ve yakın dostlarının katıldığı törenle yüzük taktı",
+     "published": "2026-10-12T15:34:43.000Z",
+     "titleFa": "اوزلم اوزدیل نامزد کرد"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "نامزدی اوزلم اوزدیل",
+   "summaryFa": "اوزلم اوزدیل، هنرمند موسیقی محلی ترک، با ارای تمیز نامزد کرد. این مراسم با حضور خانواده و دوستان نزدیک برگزار شد.",
+   "bodyFa": [
+    "اوزلم اوزدیل، خواننده و هنرمند موسیقی محلی ترکیه، وارد مرحله جدیدی از زندگی شخصی خود شد. او با ارای تمیز که مدتی بود با یکدیگر رابطه عاطفی داشتند، نامزدی خود را جشن گرفت.",
+    "این مراسم به صورت خانوادگی و با حضور جمعی از دوستان نزدیک این زوج برگزار شد و طی آن این دو هنرمند حلقه نامزدی خود را دست کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "29f0bbab25a1",
    "url": "https://www.milliyet.com.tr/magazin/kanal-dden-cannes-cikarmasi-demiroren-medya-tv-grup-baskani-murat-yanci-dunyaya-turkce-ogretiyoruz-7678017",
@@ -1063,7 +1102,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/geceyarisi-hayaleti-ikinci-sezonuyla-sahnede-43338579",
      "title": "“Geceyarısı Hayaleti” ikinci sezonuyla sahnede",
      "snippet": "Paranormal gerilim türündeki “Geceyarısı Hayaleti”, ikinci sezonuyla tiyatroseverlerle buluşuyor. Yönetmenliğini Savaş Özdural’ın üstlendiği oyunda Savaş Özdural, Özgür Özdural, Ilgın Angın ve Goncagül Sunar rol alıyor.",
-     "published": "2026-10-12T09:22:00.000Z"
+     "published": "2026-10-12T09:22:00.000Z",
+     "titleFa": "«شبح نیمه‌شب» با فصل دوم خود روی صحنه است"
     }
    ],
    "images": [
@@ -1074,7 +1114,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "فصل دوم نمایش «شبح نیمه‌شب» روی صحنه می‌رود",
+   "summaryFa": "نمایش مهیج و ماوراءالطبیعی «شبح نیمه‌شب» با کارگردانی ساواش اوزدورال وارد فصل دوم خود شد. این اثر با حضور بازیگران مختلف برای مخاطبان تئاتر به اجرا درمی‌آید.",
+   "bodyFa": [
+    "نمایش «شبح نیمه‌شب» که در ژانر مهیج و ماوراءالطبیعی ساخته شده است، برای اجرای فصل دوم خود به روی صحنه بازگشته و میزبان علاقه‌مندان به تئاتر است.",
+    "کارگردانی این اثر نمایشی بر عهده ساواش اوزدورال بوده است و هنرمندانی چون ساواش اوزدورال، اوزگور اوزدورال، ایلگین آنگین و گونجاگول سونار در آن به ایفای نقش می‌پردازند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "094bebf4cbba",
@@ -1101,7 +1149,8 @@
      "url": "https://www.sozcu.com.tr/kirgin-cicekler-le-taninan-ipek-karapinar-dan-karni-burnunda-pozlar-birkac-haftamiz-kaldi-p368380",
      "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı”",
      "snippet": "Hatırla Sevgili ve Kırgın Çiçekler dizileriyle tanınan İpek Karapınar, ilk bebeğini kucağına almak için gün sayıyor. Kar...",
-     "published": "2026-10-12T09:19:46.000Z"
+     "published": "2026-10-12T09:19:46.000Z",
+     "titleFa": "عکس‌های بارداری ایپک کاراپینار، بازیگر شناخته شده سریال «گل‌های شکسته»: «چند هفته‌ای باقی مانده است»"
     }
    ],
    "images": [
@@ -1112,7 +1161,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ipek-karapinardan-karni-burnunda-pozlar-birkac-haftamiz-kaldi-2jpg-4PuGOy6ZgUCyG8n6XcsnBQ.jpg",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ipek-karapinardan-karni-burnunda-pozlar-birkac-haftamiz-kaldi-4jpg-YjAkB9RTo0esliTf5g1KHw.jpg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تصاویر بارداری ایپک کاراپینار، بازیگر سریال «گل‌های شکسته»",
+   "summaryFa": "ایپک کاراپینار، بازیگر شناخته‌شده، عکس‌های دوران بارداری خود را منتشر کرد و از نزدیک شدن به زمان به دنیا آمدن فرزند اولش خبر داد. او پیامی احساسی نیز برای پسرش نوشت.",
+   "bodyFa": [
+    "ایپک کاراپینار، بازیگر مشهور که با سریال‌هایی چون «یادآور عشق» و «گل‌های شکسته» شناخته می‌شود، در آستانه در آغوش کشیدن نخستین فرزند خود قرار دارد. این بازیگر ۴۲ ساله تصاویر جدیدی از دوران بارداری خود را با مخاطبان به اشتراک گذاشته است.",
+    "او همچنین پیام احساسی ویژه‌ای را خطاب به پسرش منتشر کرد که اشتیاق فراوان او را برای تجربه مادری نشان می‌دهد. طبق اطلاعات موجود، این بازیگر سال گذشته با علی بالجی، کارگردان، ازدواج کرده بود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a308177ab066",
@@ -1139,7 +1196,8 @@
      "url": "https://www.sozcu.com.tr/7-7-lik-depremin-ardindan-sosyal-medyayi-ayaga-kaldiran-goruntuler-p368374",
      "title": "7.7'lik depremin ardından sosyal medyayı ayağa kaldıran görüntüler",
      "snippet": "Panamalı sosyal medya fenomeni Gracie Bon, ülkede meydana gelen 7,7 büyüklüğündeki depremin ardından yıkımın yaşandığı b...",
-     "published": "2026-10-12T09:05:15.000Z"
+     "published": "2026-10-12T09:05:15.000Z",
+     "titleFa": "تصاویری که پس از زلزله ۷.۷ ریشتری شبکه‌های اجتماعی را به هم ریخت"
     }
    ],
    "images": [
@@ -1150,7 +1208,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/panama9png-lq2tDqTnEk6y74r5o3o6YA.png",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/panama6png-9itEkGNFuEyl8dochFkK8w.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تصاویر جنجال‌برانگیز یک اینفلوئنسر پس از زلزله ۷.۷ ریشتری",
+   "summaryFa": "گریسی بون، اینفلوئنسر اهل پاناما، به دلیل انتشار عکس‌های خود در مناطق زلزله‌زده با انتقادهای شدیدی روبه‌رو شد. او در واکنش به اتهام سوءاستفاده از فاجعه، هدف خود را کمک به زلزله‌زدگان و آگاهی‌رسانی عنوان کرد.",
+   "bodyFa": [
+    "پس از وقوع یک زمین‌لرزه ۷.۷ ریشتری، گلیسی بون، چهره شناخته‌شده شبکه‌های اجتماعی اهل پاناما که حدود ۱۲ میلیون دنبال‌کننده دارد، تصاویری از خود در مناطق آسیب‌دیده منتشر کرد. این اقدام او موجی از انتقادها را در فضای مجازی به همراه داشت و بسیاری از کاربران او را به سوءاستفاده از شرایط بحرانی و فاجعه متهم کردند.",
+    "این اینفلوئنسر در واکنش به انتقادهای مطرح‌شده، از خود دفاع کرد و واکنش‌ها را پاسخ داد. او ادعا کرد که برای زلزله‌زدگان کمک برده است و انتشار این تصاویر با هدف نشان دادن ابعاد ویرانی‌ها به مخاطبان بیشتر در سطح جهان انجام شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3073aa5c1b0d",
@@ -1164,7 +1230,7 @@
    "video": null,
    "published": "2026-10-12T08:56:09.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1177,9 +1243,20 @@
      "url": "https://www.haberturk.com/magazin/erling-haaland-tum-dunyanin-sacimdan-bahsedecegini-dusunmemistim-3919058",
      "title": "\"Günlerce saçımdan bahsettiler\"",
      "snippet": "Sahadaki başarısı kadar saha dışındaki sempatik tavırlarıyla da adından söz ettiren Norveçli futbolcu Erling Haaland, kendisiyle özdeşleşen uzun saçlarına veda etmesinin, sandığından büyük bir etki yarattığını söyledi",
-     "published": "2026-10-12T08:56:09.000Z"
+     "published": "2026-10-12T08:56:09.000Z",
+     "titleFa": "«روزها درباره موهام صحبت کردند»"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "ارling هالاند درباره بازتاب جهانی کوتاه کردن موهایش صحبت کرد",
+   "summaryFa": "ارling هالاند، ستاره فوتبال نروژی، در مصاحبه جدیدی از واکنش‌های گسترده و چندروزه به تغییر مدل موی خود گفت. او همچنین به خاطرات و نظرات پدرش درباره موهای بلند در دوران جوانی اشاره کرد.",
+   "bodyFa": [
+    "ارling هالاند، بازیکن نروژی منچستر سیتی که علاوه بر موفقیت‌هایش در زمین مسابقه به خاطر رفتار دوستانه‌اش نیز شناخته می‌شود، تابستان امسال تصمیم گرفت موهای بلند و معروف خود را کاملاً کوتاه کند و ویدیو آن را در شبکه‌های اجتماعی به اشتراک گذاشت.",
+    "این بازیکن در مصاحبه تازه خود با مجله WSJ توضیح داد که اگرچه انتظار داشت این تغییر مورد توجه قرار گیرد، اما تصور نمی‌کرد که صحبت درباره مدل موی جدیدش در سراسر جهان چهار تا پنج روز ادامه پیدا کند.",
+    "هالاند همچنین خاطره‌ای از پدرش، آلف-اینگه هالاند، بازیکن پیشین فوتبال نقل کرد؛ پدرش از مهاجمان با موی بسته خوشش نمی‌آمد و به ارling گفته بود که ابتدا باید عملکرد خوبی در زمین داشته باشد تا بتواند موهایش را بلند کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "116fd9876381",
@@ -1193,7 +1270,7 @@
    "video": null,
    "published": "2026-10-12T08:53:56.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1206,38 +1283,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/baba-olmaya-hazirlanan-ufuk-beydemirin-gizemli-sevgilisi-ortaya-cikti-7677757",
      "title": "Baba olmaya hazırlanan Ufuk Beydemir'in gizemli sevgilisi ortaya çıktı",
      "snippet": "“Ay Tenli Kadın” şarkısıyla tanınan Ufuk Beydemir, özel hayatıyla gündeme geldi. İlk kez baba olmaya hazırlanan şarkıcı, Hollandalı meslektaşı Sharon Kovacs ile birlikte olduğunu duyurdu. Beydemir'in sosyal medya paylaşımına eklediği bebek emojisi dikkat çekti.",
-     "published": "2026-10-12T08:53:56.000Z"
+     "published": "2026-10-12T08:53:56.000Z",
+     "titleFa": "معشوقه مرموز Ufuk Beydemir که برای پدر شدن آماده می‌شود، پیدا شد"
     }
-   ]
-  },
-  {
-   "id": "c5e0b77a635c",
-   "url": "https://www.haberturk.com/magazin/yesilcam-oyuncusu-nihat-ziyalan-vefat-etti-3919023",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Yeşilçam'dan acı haber",
-   "snippet": "Türk sinemasında pek çok filmde rol alan Nihat Ziyalan, 90 yaşında hayatını kaybetti. Aynı zamanda yazar ve şair olan Ziyalan, yaşamını Avustralya'da sürdürüyordu",
-   "image": "https://im.haberturk.com/l/2026/10/12/ver1791789866/3919023/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-12T08:43:45.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/yesilcam-oyuncusu-nihat-ziyalan-vefat-etti-3919023",
-     "title": "Yeşilçam'dan acı haber",
-     "snippet": "Türk sinemasında pek çok filmde rol alan Nihat Ziyalan, 90 yaşında hayatını kaybetti. Aynı zamanda yazar ve şair olan Ziyalan, yaşamını Avustralya'da sürdürüyordu",
-     "published": "2026-10-12T08:43:45.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6acc9f92ea5ea19fcfcdd4ff.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6acc9f92ea5ea19fcfcdd4ff.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "آشکار شدن معشوقه مرموز ufuk beydemir که در آستانه پدر شدن است",
+   "summaryFa": "اوفوک بی‌دمیر، خواننده معروف، اعلام کرد که با شارون کوواکس، همکار هلندی خود، رابطه دارد. او با انتشار تصویری با ایموجی نوزاد خبر داد که برای اولین بار در آستانه پدر شدن است.",
+   "bodyFa": [
+    "اوفوک بی‌دمیر که با ترانه «Ay Tenli Kadın» شناخته می‌شود، اخیراً با زندگی شخصی خود مورد توجه رسانه‌ها قرار گرفته است. این خواننده اعلام کرده است که با شارون کوواکس، خواننده هلندی، در رابطه است.",
+    "بی‌دمیر همچنین با افزودن یک ایموجی نوزاد به پست خود در شبکه‌های اجتماعی، توجه مخاطبان را جلب کرد و خبر داد که برای نخستین بار در آستانه پدر شدن قرار دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "85babf90fbef",
@@ -1288,35 +1354,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "f8ba6179bebc",
-   "url": "https://www.sozcu.com.tr/arabada-fenalasti-demet-akalin-in-esi-acillik-oldu-p368365",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Arabada fenalaştı: Demet Akalın'ın eşi acillik oldu",
-   "snippet": "Demet Akalın'ın eşi Okan Kurt'tan korkutan haber geldi. Arabada kas spazmı geçiren Kurt için acile giden şarkıcı, yaşadı...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/demetakalinokankurtarabakasspazmijpg-QC3eL5OP_0G2_Cb4y5YdkA.jpg",
-   "video": null,
-   "published": "2026-10-12T08:41:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/arabada-fenalasti-demet-akalin-in-esi-acillik-oldu-p368365",
-     "title": "Arabada fenalaştı: Demet Akalın'ın eşi acillik oldu",
-     "snippet": "Demet Akalın'ın eşi Okan Kurt'tan korkutan haber geldi. Arabada kas spazmı geçiren Kurt için acile giden şarkıcı, yaşadı...",
-     "published": "2026-10-12T08:41:00.000Z"
-    }
-   ]
   },
   {
    "id": "0fba3f4b1854",
@@ -1373,7 +1410,7 @@
    "video": null,
    "published": "2026-10-12T08:37:35.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1386,9 +1423,19 @@
      "url": "https://www.haberturk.com/magazin/foto/ufuk-beydemir-kovacs-ile-askini-ilan-etti-3919051",
      "title": "Aşkını ilan etti",
      "snippet": "Baba olmaya hazırlanan şarkıcı Ufuk Beydemir'in sevgilisi ortaya çıktı. Beydemir, Hollandalı meslektaşı Sharon Kovacs ile birlikte olduğunu duyurdu",
-     "published": "2026-10-12T08:37:35.000Z"
+     "published": "2026-10-12T08:37:35.000Z",
+     "titleFa": "ابراز عشق کرد"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "اعلام رابطه عاشقانه اوفوک بیردمیر با شارون کوواچ",
+   "summaryFa": "خواننده مشهور ترک، اوفوک بیردمیر، در حالی که در آستانه پدر شدن است، رابطه خود با شارون کوواچ، خواننده هلندی را اعلام کرد. او تصاویری از خود و نامزد جدیدش را در فضای مجازی به اشتراک گذاشت.",
+   "bodyFa": [
+    "اوفوک بیردمیر، خواننده ترکیه‌ای که با ترانه «آی تنلی کادین» به شهرت رسید و این روزها خود را برای پدر شدن آماده می‌کند، راز رابطه عاطفی جدید خود را فاش کرد. وی با انتشار تصاویری در حساب کاربری خود در شبکه‌های اجتماعی که با ایموجی «نوزاد» همراه بود، خبر داد که با شارون کوواچ، همکار هلندی خود، در رابطه است.",
+    "پیش‌تر خبر پدر شدن بیردمیر در رسانه‌ها مطرح شده بود و هواداران کنجکاو بودند بدانند مادر فرزند او کیست. با این اعلام رسمی، هویت شریک زندگی جدید این خواننده مشخص شد. وی پیش‌تر با ایپک فیلم یازیجی، بازیگر ترک، ازدواج کرده بود که این ازدواج پس از دو سال در سال ۲۰۲۲ در رم به ثبت رسیده بود، اما این زوج در سال ۲۰۲۵ از یکدیگر جدا شدند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "9fd3c80dab56",
@@ -1415,9 +1462,27 @@
      "url": "https://www.sozcu.com.tr/petek-dincoz-ile-sevim-emre-nin-pazar-bulusmasina-filtre-damga-vurdu-p368362",
      "title": "Petek Dinçöz ile Sevim Emre'nin pazar buluşmasına filtre damga vurdu",
      "snippet": "Petek Dinçöz, Orhan Gencebay'ın hayat arkadaşı Sevim Emre ile pazar keyfinden bir kare paylaştı. “Bir tanem kraliçem” no...",
-     "published": "2026-10-12T08:30:28.000Z"
+     "published": "2026-10-12T08:30:28.000Z",
+     "titleFa": "دیدار پتک دینچوز و سیم امره در روز یکشنبه تحت تاثیر فیلتر قرار گرفت"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/623jpg-zwVOxMPrcEiMCvKnIpwS8w.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/623jpg-zwVOxMPrcEiMCvKnIpwS8w.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/petek-dincoz-ile-sevim-emrenin-pazar-bulusmasina-filtre-damga-vurdujpg-4-fSUiix7kehcGM4KoMgcA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6accda25cc403fabc119b6d8png-r0p9_oQ1Fkiv5QlwY0Mq-w.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acccf92cc403fabc1004af8png-Wubi-6bkyk2qdJfu77fZ9g.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "دیدار پتک دینچوز و سیم امره با حاشیه‌ی فیلتر تصویر",
+   "summaryFa": "پتک دینچوز تصویری از دیدار خود با سیم امره، شریک زندگی اورهان گنچبای، در روز یکشنبه منتشر کرد. استفاده از فیلتر در این عکس و تغییر ظاهر این دو نفر توجه کاربران را به خود جلب کرد.",
+   "bodyFa": [
+    "پتک دینچوز، خواننده مشهور، اخیراً با سیم امره، شریک زندگی اورهان گنچبای دیدار کرد و تصویری از این دورهمی روز یکشنبه را در فضای مجازی به اشتراک گذاشت.",
+    "او این عکس را با عبارت «یک دانه من، ملکه‌ام» منتشر کرد، اما نکته‌ای که بیش از هر چیز در این تصویر جلب توجه کرد، تغییرات ظاهری و استفاده مشهود از فیلترهای تصویری روی چهره هر دو نفر بود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "23e50c29d315",
@@ -1444,9 +1509,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/cilekes-sevenleriyle-bulustu-43338479",
      "title": "Çilekeş sevenleriyle buluştu",
      "snippet": "Alternatif rock grubu Çilekeş, “Y.O.K” albümünün 21. yılı kapsamında 10 Ekim’de KüçükÇiftlik Park’ta konser verdi. Aylar öncesinden biletleri tükenen gecede grup, sevilen şarkılarını müzikseverlerle birlikte seslendirdi.",
-     "published": "2026-10-12T08:29:48.000Z"
+     "published": "2026-10-12T08:29:48.000Z",
+     "titleFa": "چیلک‌کش با طرفدارانش دیدار کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acc9a5f93192880ef06c141.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acc9a5f93192880ef06c141.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "گMروه راک چیلک‌کش در کوچوک‌چیفتلیک پارک روی صحنه رفت",
+   "summaryFa": "گروه موسیقی راک چیلک‌کش به مناسبت بیست و یکمین سالگرد آلبوم «Y.O.K» در کوچوک‌چیفتلیک پارک کنسرت برگزار کرد. بلیت‌های این برنامه که در تاریخ ۱۰ اکتبر اجرا شد، از ماه‌ها قبل به فروش رفته بود.",
+   "bodyFa": [
+    "گروه موسیقی راک جایگزین چیلک‌کش در تاریخ ۱۰ اکتبر به مناسبت بیست و یکمین سالگرد انتشار آلبوم معروف خود به نام «Y.O.K» در کوچوک‌چیفتلیک پارک اجرایی زنده داشتند.",
+    "این کنسرت با استقبال بسیار زیادی روبه‌رو شد به طوری که تمامی بلیت‌های آن از ماه‌ها پیش از برگزاری مراسم کاملاً به فروش رفته بود و گروه در این شب به یادماندنی، آهنگ‌های محبوب خود را همراه با طرفدارانشان همخوانی کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a830cced8b36",
@@ -1524,9 +1607,27 @@
      "url": "https://www.milliyet.com.tr/magazin/gastroantepte-final-gecesi-sefo-ruzgari-binlerce-kisi-sarkilara-eslik-etti-7677718",
      "title": "GastroAntep'te final gecesi Sefo rüzgarı! Binlerce kişi şarkılara eşlik etti",
      "snippet": "GastroAntep Kültür Yolu Festivali'nin son gününde Festival Park'ta sahne alan Sefo, sevilen şarkılarıyla Gaziantepli hayranlarıyla buluştu. Konser alanını dolduran binlerce müziksever, sanatçının sahneye çıkmasıyla birlikte alkışlarıyla karşılık verdi. Sefo, hareketli repertuvarı ve enerjik sahne pe",
-     "published": "2026-10-12T08:19:36.000Z"
+     "published": "2026-10-12T08:19:36.000Z",
+     "titleFa": "طوفان سفو در شب فینال در گاسترآنتب! هزاران نفر با آهنگ‌ها همخوانی کردند"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6acc97d8ea5ea19fcfcdd4a1.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6acc97d8ea5ea19fcfcdd4a1.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای سفُو در شب پایانی فستیوال گاسترآنتب",
+   "summaryFa": "سفو در آخرین روز از فستیوال فرهنگ و هنر گاسترآنتب در پارک فستیوال به روی صحنه رفت. هزاران نفر از طرفداران این خواننده در محل کنسرت حضور داشتند و با ترانه‌های او همراهی کردند.",
+   "bodyFa": [
+    "در روز پایانی جشنواره فرهنگی «گاسترآنتب» که توسط وزارت فرهنگ و گردشگری برگزار شد، «سفو» در پارک فستیوال برای طرفداران خود در غازی‌آنتب به اجرا پرداخت.",
+    "هزاران تن از دوستداران موسیقی با حضور در محل کنسرت، به محض ورود این هنرمند به روی صحنه، او را با تشویق‌های خود همراهی کردند و «سفو» با مجموعه‌ای از ترانه‌های پرانرژی و ریتمیک خود به اجرای برنامه پرداخت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "54a272b3cf13",
@@ -1649,9 +1750,27 @@
      "url": "https://www.sabah.com.tr/magazin/hayatlarinin-yeni-donemi-basladi-ozlem-ada-sahinden-oyle-bir-paylasim-geldi-ki-herkes-masallah-dedi-7678887",
      "title": "Hayatlarının yeni dönemi başladı! Özlem Ada Şahin’den öyle bir paylaşım geldi ki: Herkes 'Maşallah' dedi...",
      "snippet": "Geçtiğimiz günlerde üçüncü kızları Mihre'yi kucaklarına alarak büyük bir mutluluk yaşayan şarkıcı Berkay ve Özlem Ada Şahin çiftinin yeni fotoğrafı sosyal medyada beğeni topladı. Samimi aile karesinin... Devamı için tıklayınız",
-     "published": "2026-10-12T07:31:17.000Z"
+     "published": "2026-10-12T07:31:17.000Z",
+     "titleFa": "آغاز دوره‌ای جدید در زندگی آن‌ها! پستی از اوزلم ادا شاهین که همه به آن «ماشالله» گفتند..."
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/3e3c9e/1200/675/0/36/700/430?u=https://isbh.tmgrup.com.tr/sbh/2026/10/12/1791787927708.jpg",
+    "https://iasbh.tmgrup.com.tr/c1a200/752/395/0/49/700/416?u=https://isbh.tmgrup.com.tr/sbh/2026/10/12/1791787927708.jpg",
+    "https://iasbh.tmgrup.com.tr/bc907e/210/210/0/0/1536/1535?u=https://isbh.tmgrup.com.tr/sbh/2026/08/24/berkayin-esi-ozlem-ada-sahin-dogum-sonrasi-icini-doktu-simdilik-tek-gundemimiz-1787577905759.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "تصویر جدید از خانواده برکای و اوزلم ادا شاهین در دبی",
+   "summaryFa": "برکای و اوزلم ادا شاهین که اخیراً سومین دختر خود به نام مهر را به دنیا آورده‌اند، عکس خانوادگی جدیدی از دبی منتشر کردند که با استقبال کاربران مواجه شد.",
+   "bodyFa": [
+    "خواننده معروف، برکای، و همسرش اوزلم ادا شاهین که چندی پیش با به دنیا آمدن سومین دخترشان به نام «مهر» روزهای شاد و تازه‌ای را آغاز کرده‌اند، توجه مخاطبان را در فضای مجازی به خود جلب کردند.",
+    "اوزلم ادا شاهین تصویر جدیدی از این جمع صمیمی خانوادگی در دبی به اشتراک گذاشت که با واکنش‌های مثبت و تحسین کاربران در فضای مجازی روبه‌رو شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "901e55c511be",
@@ -1680,7 +1799,16 @@
      "snippet": "Fenomen sunucu ve oyuncu Onur Büyüktopçu, annesi Ayşe Hanım'ın sağlık durumuyla ilgili yaptığı açıklamayla üzücü haberi ...",
      "published": "2026-10-12T07:30:12.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/812jpg-VS6oiF8b7EixZuQ3ZSP6xQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/812jpg-VS6oiF8b7EixZuQ3ZSP6xQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/onur-buyuktopcuannesijpg-J2xsW5O1gkaIbV66ri9LLg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6accda25cc403fabc119b6d8png-r0p9_oQ1Fkiv5QlwY0Mq-w.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acccf92cc403fabc1004af8png-Wubi-6bkyk2qdJfu77fZ9g.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "24ebef35d59d",
@@ -1711,7 +1839,16 @@
      "snippet": "Kanal D’de izleyiciyle buluşan ‘Haysiyet’in kadrosuna iddialı bir isim dahil oluyor.",
      "published": "2026-10-12T07:29:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acc8c3993192880ef06c0f3.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acc8c3993192880ef06c0f3.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true
   },
   {
    "id": "dfd2f7631497",
@@ -1740,7 +1877,16 @@
      "snippet": "2017 yapımı “Aile Arasında”nın devam filmi “2 Aile Arasında”nın ilk teaser’ı yayınlandı.",
      "published": "2026-10-12T07:22:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acc8aa093192880ef06c0db.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acc8aa093192880ef06c0db.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true
   },
   {
    "id": "c06f0ebca9a7",
