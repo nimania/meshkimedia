@@ -1,6 +1,57 @@
 {
- "updated": "2026-10-11T20:20:36.926Z",
+ "updated": "2026-10-12T00:35:44.710Z",
  "items": [
+  {
+   "id": "5abfb5bba0ba",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/daha-17nin-20-bolumunde-neler-oldu-43338138",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Daha 17'nin 20. bölümünde neler oldu? Teoman o geceyi hatırladı!",
+   "snippet": "Beş yaşında kaybettiği ailesinden geride kalan tek kişi olan kardeşini aramak için Bodrum’a gelen on yedi yaşındaki Aras'ın Akkayalarla yolunun kesişmesiyle zorlu bir mücadeleye dönüşen hayatını konu alan 'Daha 17' 20. bölümü ile ekranlardaydı...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acbfdbd1265ecd727bd1593.jpg",
+   "video": null,
+   "published": "2026-10-11T21:21:00.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "daha-17"
+    ],
+    "people": [],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/daha-17nin-20-bolumunde-neler-oldu-43338138",
+     "title": "Daha 17'nin 20. bölümünde neler oldu? Teoman o geceyi hatırladı!",
+     "snippet": "Beş yaşında kaybettiği ailesinden geride kalan tek kişi olan kardeşini aramak için Bodrum’a gelen on yedi yaşındaki Aras'ın Akkayalarla yolunun kesişmesiyle zorlu bir mücadeleye dönüşen hayatını konu alan 'Daha 17' 20. bölümü ile ekranlardaydı...",
+     "published": "2026-10-11T21:21:00.000Z",
+     "titleFa": "سرگذشت قسمت بیستم سریال هنوز ۱۷ سالشه؛ یادآوری شب گذشته توسط تئومان!"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acbfdbd1265ecd727bd1593.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acbfdbd1265ecd727bd1593.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "نگاهی به رویدادهای قسمت بیستم سریال هنوز ۱۷ سالشه",
+   "summaryFa": "قسمت بیستم سریال هنوز ۱۷ سالشه روی آنتن رفت و در این قسمت، تئومان جزئیات آن شب را به یاد آورد.",
+   "bodyFa": [
+    "مجموعه تلویزیونی «هنوز ۱۷ سالشه» با پخش قسمت بیستم خود ادامه یافت. این سریال داستان زندگی آراس، جوانی هفده ساله را روایت می‌کند که پس از از دست دادن خانواده‌اش در سن پنج سالگی، برای یافتن تنها بازمانده خانواده یعنی برادرش به بودروم سفر می‌کند اما تقاطع مسیر او با خانواده آککایا چالش‌های سختی را رقم می‌زند.",
+    "در این قسمت اتفاقات تازه‌ای رخ داد و از جمله مشخص شد که تئومان توانسته است حوادث آن شب خاص را به خاطر بیاورد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "b0a345225b52",
    "url": "https://www.sozcu.com.tr/cem-yilmaz-saatinin-fiyati-ne-kadar-p368189",
@@ -10125,44 +10176,6 @@
    "aiTries": 1
   },
   {
-   "id": "455254783b74",
-   "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
-   "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atijpg-kZSErYcK8UaLThbvexys-g.jpg",
-   "video": null,
-   "published": "2026-10-09T04:38:42.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/kizin-kaybeden-atilla-tas-in-durumunu-acikladi-yakin-dostu-sessizligini-bozdu-p367513",
-     "title": "Kızın kaybeden Atilla Taş'ın durumunu açıkladı: Yakın dostu sessizliğini bozdu",
-     "snippet": "Şarkıcı Atilla Taş'ın 34 yaşındaki kızı Sezen Taş'ın hayatını kaybetmesinin ardından yakın arkadaşı Ozan Orhon açıklama ...",
-     "published": "2026-10-09T04:38:42.000Z"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atijpg-kZSErYcK8UaLThbvexys-g.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atijpg-kZSErYcK8UaLThbvexys-g.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/tasjpg-RZ8DYuTWmEi_WpUk8D_-hA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/tumermetindenastonvillafenerbahcemacioncesiolayiddiacanliyayindaacikladi6acb80dbcc403fabc180d306png-y9CU9w2OgkG61jrNyie_9g.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fonda-kaybeden-zeybekcinin-pekmez-dramipng-QuDPqA2s80Gas5_oQVGzKA.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "3044562525d1",
    "url": "https://www.hurriyet.com.tr/kelebek/hayat/esi-var-uyarisi-guldurdu-berguzar-hep-var-43334775",
    "source": "hurriyet-kelebek",
@@ -11181,44 +11194,6 @@
    "aiTries": 1
   },
   {
-   "id": "641af16a59df",
-   "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
-   "snippet": "Ünlü şarkıcı Özcan Deniz’in eşi Samar Dadgar, sosyal medya hesabından yaptığı paylaşımla acı haberi duyurdu. Dadgar, 3 y...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/denizjpg-n9MEikgAJ0KwkqdAff2RlQ.jpg",
-   "video": null,
-   "published": "2026-10-08T16:39:34.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/ozcan-deniz-in-esi-samar-dadgar-i-yikan-olum-p367433",
-     "title": "Özcan Deniz'in eşi Samar Dadgar'ı yıkan ölüm",
-     "snippet": "Ünlü şarkıcı Özcan Deniz’in eşi Samar Dadgar, sosyal medya hesabından yaptığı paylaşımla acı haberi duyurdu. Dadgar, 3 y...",
-     "published": "2026-10-08T16:39:34.000Z"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/denizjpg-n9MEikgAJ0KwkqdAff2RlQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/denizjpg-n9MEikgAJ0KwkqdAff2RlQ.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acb4800cc403fabc1789052png-J82ptD8Wx0iv_LcLYauPiw.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acb4dfccc403fabc1789eefpng-xiIKK3GLfEGqD5eMbEcnfQ.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/okanburukilkaygundoganinbarcelonasozlerineaciklamagetirdi6acb3ba4cc403fabc1788c64png-tjPEp4tC5063dl-OillICw.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "3cf7cb39ee48",
    "url": "https://www.sabah.com.tr/yazarlar/gunaydin/tuba-kalcik/2026/10/09/dijital-cagda-sahici-bir-iz-birakmanin-onemi",
    "source": "sabah-magazin",
@@ -11468,7 +11443,8 @@
      "url": "https://www.sozcu.com.tr/merve-bolugu-murat-dalkilic-sorusuna-yanit-vermedi-p367419",
      "title": "Merve Boluğur, Murat Dalkılıç sorusunu yanıtsız bıraktı",
      "snippet": "Oyuncu Merve Boluğur, eski eşi Murat Dalkılıç'ın burun rahatsızlığıyla ilgili yaşadığı sorun ve sosyal medyada gündeme g...",
-     "published": "2026-10-08T15:35:35.000Z"
+     "published": "2026-10-08T15:35:35.000Z",
+     "titleFa": "مرerve بولوعور به سوال درباره مراد دالقیچ پاسخی نداد"
     }
    ],
    "images": [
@@ -11479,7 +11455,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/tumermetindenastonvillafenerbahcemacioncesiolayiddiacanliyayindaacikladi6acb80dbcc403fabc180d306png-y9CU9w2OgkG61jrNyie_9g.png?w=320&h=248&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fonda-kaybeden-zeybekcinin-pekmez-dramipng-QuDPqA2s80Gas5_oQVGzKA.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "مerve بولوعور به سوالات درباره مراد دالقیچ پاسخی نداد",
+   "summaryFa": "مرerve بولوعور در مواجهه با سوالاتی درباره مشکل بینی همسر سابقش مراد دالقیچ و نظرات مطرح شده در شبکه‌های اجتماعی، از پاسخ دادن خودداری کرد.",
+   "bodyFa": [
+    "مرerve بولوعور، بازیگر ترک، هنگام خروج از مکانی در منطقه ببک توسط دوربین‌ها دیده شد. خبرنگاران در این دیدار تلاش کردند تا نظر او را درباره مشکل بیماری بینی همسر سابقش، مراد دالقیچ، و همچنین اظهارنظرهایی که درباره «گرفت آه» او در شبکه‌های اجتماعی مطرح شده بود، جویا شوند.",
+    "با این حال، این بازیگر از پاسخ دادن به سوالات مربوط به همسر سابق خود خودداری کرد. او همچنین در پاسخ به سوالی درباره احتمال حضورش در پروژه‌ای جدید در فصل آینده گفت که در جریان امور هستند و گاهی کارهایی انجام می‌دهند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8d998c4b975c",
@@ -11506,38 +11490,27 @@
      "url": "https://www.sozcu.com.tr/teoman-sahneye-cikti-soliste-temasi-dikkat-cekti-p367410",
      "title": "Teoman sahneye çıktı: Soliste teması dikkat çekti",
      "snippet": "Ünlü şarkıcı Teoman, İstanbul’da sahne aldığı mekanda hayranlarıyla buluştu. Performansı sırasında sahnede bir soliste t...",
-     "published": "2026-10-08T15:06:19.000Z"
+     "published": "2026-10-08T15:06:19.000Z",
+     "titleFa": "تئومان روی صحنه رفت: تماس او با خواننده توجه‌برانگیز شد"
     }
-   ]
-  },
-  {
-   "id": "855b56688602",
-   "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
-   "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/atilla-tas-kiziijpg-_aE-Tlf030KviTVpuO8EPA.jpg",
-   "video": null,
-   "published": "2026-10-08T14:13:06.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/atilla-tas-in-kizi-hayatini-kaybetti-14-kattan-dustugu-one-suruldu-p367393",
-     "title": "Atilla Taş'ın kızı hayatını kaybetti: 14. kattan düştüğü öne sürüldü",
-     "snippet": "Atilla Taş'ın kızı Sezen Taş'ın Mersin'de hayatını kaybettiği iddia edildi. Gazeteci Burhan Akdağ, genç kadının 14. katt...",
-     "published": "2026-10-08T14:13:06.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/teomanjpg-X7QQrvFH1kmR5m2X22kpLQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/teomanjpg-X7QQrvFH1kmR5m2X22kpLQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/tumermetindenastonvillafenerbahcemacioncesiolayiddiacanliyayindaacikladi6acb80dbcc403fabc180d306png-y9CU9w2OgkG61jrNyie_9g.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fonda-kaybeden-zeybekcinin-pekmez-dramipng-QuDPqA2s80Gas5_oQVGzKA.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acb76f6cc403fabc180c56apng-OKzqeIjk806Z1p2vrvl5Jg.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای خواننده معروف در استانبول و واکنش‌ها به رفتار او روی صحنه",
+   "summaryFa": "خواننده مشهور، تئومان، در جریان اجرایی در استانبول روی صحنه رفت و تماس او با یک خواننده دیگر در شبکه‌های اجتماعی مورد توجه قرار گرفت.",
+   "bodyFa": [
+    "تئومان، خواننده سرشناس، اخیراً در یک مکان در شهر استانبول به روی صحنه رفت و با هواداران خود دیدار کرد.",
+    "در جریان این اجرا، حرکات این خواننده و تماس او با یکی از خواننده‌های حاضر روی صحنه توجه حاضران را به خود جلب کرد و تصاویر مربوط به این لحظات به سرعت در شبکه‌های اجتماعی بازتاب یافت و بحث‌برانگیز شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "9f4e327080ab",
@@ -11564,9 +11537,27 @@
      "url": "https://www.sozcu.com.tr/nazan-oncel-herkesi-tek-tek-sildi-inceldigi-yerden-kopsun-p367390",
      "title": "Nazan Öncel herkesi tek tek sildi: 'İnceldiği yerden kopsun'",
      "snippet": "Türk pop müziğinin usta ismi Nazan Öncel, bu kez telefon rehberinde yaptığı temizlik videosuyla gündeme geldi. Tek tek n...",
-     "published": "2026-10-08T13:50:39.000Z"
+     "published": "2026-10-08T13:50:39.000Z",
+     "titleFa": "نازان اونچل همه را یک به یک پاک کرد: «بگذار از نازکترین جا پاره شود»"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/414jpg-_42vgMIXkUGSxkjReB4Z7g.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/414jpg-_42vgMIXkUGSxkjReB4Z7g.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/tumermetindenastonvillafenerbahcemacioncesiolayiddiacanliyayindaacikladi6acb80dbcc403fabc180d306png-y9CU9w2OgkG61jrNyie_9g.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fonda-kaybeden-zeybekcinin-pekmez-dramipng-QuDPqA2s80Gas5_oQVGzKA.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acb76f6cc403fabc180c56apng-OKzqeIjk806Z1p2vrvl5Jg.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "نازان اونچل تمام مخاطبان را یک به یک حذف کرد: «بگذار از نازکترین جا پاره شود»",
+   "summaryFa": "چهره برجسته موسیقی پاپ ترکیه با انتشار ویدیویی از پاکسازی دفترچه تلفن خود و حذف شماره‌ها توجه دنبال‌کنندگانش را به خود جلب کرد.",
+   "bodyFa": [
+    "نازان اونچل، نام برجسته موسیقی پاپ ترکیه، این بار با ویدیویی که از روند پاکسازی فهرست مخاطبان تلفن همراه خود منتشر کرده، در کانون توجه قرار گرفت.",
+    "این هنرمند در این ویدیو دیده‌می‌شود که شماره تلفن‌ها را یک به یک پاک می‌کند و یادداشتی که روی این اشتراک‌گذاری نوشته است، توجه مخاطبان و دنبال‌کنندگانش را به سوی خود جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "402065c2b2b5",
