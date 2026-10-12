@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T05:52:17.822942+00:00",
+  "generatedAt": "2026-10-12T15:17:25.804873+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "cirkin:1",
-    "daha-17:1",
-    "evlilik-guzeldir:1",
-    "gonul-dagi:1"
+    "guller-ve-gunahlar:1",
+    "guller-ve-gunahlar:35",
+    "guller-ve-gunahlar:36",
+    "gunesin-dogdugu-yer:1"
   ],
   "episodes": [
     {
@@ -772,6 +772,134 @@
         "\"Gönül Dağı\" \"1\" srpski prevod subtitle",
         "\"Gönül Dağı\" \"1\" bosanski titlovi subtitle",
         "\"Gönül Dağı\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "guller-ve-gunahlar:1",
+      "seriesSlug": "guller-ve-gunahlar",
+      "seriesTitle": "گل‌ها و گناهان",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-12T15:17:25.804873+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Güller ve Günahlar\" \"1\" Türkçe altyazı subtitle",
+        "\"Güller ve Günahlar\" \"1\" زیرنویس فارسی subtitle",
+        "\"Güller ve Günahlar\" \"1\" English subtitles subtitle",
+        "\"Güller ve Günahlar\" \"1\" ترجمة عربية subtitle",
+        "\"Güller ve Günahlar\" \"1\" srpski prevod subtitle",
+        "\"Güller ve Günahlar\" \"1\" bosanski titlovi subtitle",
+        "\"Güller ve Günahlar\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "guller-ve-gunahlar:35",
+      "seriesSlug": "guller-ve-gunahlar",
+      "seriesTitle": "گل‌ها و گناهان",
+      "originalEpisode": 35,
+      "checkedAt": "2026-10-12T15:17:25.804873+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Güller ve Günahlar\" \"35\" Türkçe altyazı subtitle",
+        "\"Güller ve Günahlar\" \"35\" زیرنویس فارسی subtitle",
+        "\"Güller ve Günahlar\" \"35\" English subtitles subtitle",
+        "\"Güller ve Günahlar\" \"35\" ترجمة عربية subtitle",
+        "\"Güller ve Günahlar\" \"35\" srpski prevod subtitle",
+        "\"Güller ve Günahlar\" \"35\" bosanski titlovi subtitle",
+        "\"Güller ve Günahlar\" \"35\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "guller-ve-gunahlar:36",
+      "seriesSlug": "guller-ve-gunahlar",
+      "seriesTitle": "گل‌ها و گناهان",
+      "originalEpisode": 36,
+      "checkedAt": "2026-10-12T15:17:25.804873+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Güller ve Günahlar\" \"36\" Türkçe altyazı subtitle",
+        "\"Güller ve Günahlar\" \"36\" زیرنویس فارسی subtitle",
+        "\"Güller ve Günahlar\" \"36\" English subtitles subtitle",
+        "\"Güller ve Günahlar\" \"36\" ترجمة عربية subtitle",
+        "\"Güller ve Günahlar\" \"36\" srpski prevod subtitle",
+        "\"Güller ve Günahlar\" \"36\" bosanski titlovi subtitle",
+        "\"Güller ve Günahlar\" \"36\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "gunesin-dogdugu-yer:1",
+      "seriesSlug": "gunesin-dogdugu-yer",
+      "seriesTitle": "جایی که خورشید طلوع می‌کند",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-12T15:17:25.804873+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Güneşin Doğduğu Yer\" \"1\" Türkçe altyazı subtitle",
+        "\"Güneşin Doğduğu Yer\" \"1\" زیرنویس فارسی subtitle",
+        "\"Güneşin Doğduğu Yer\" \"1\" English subtitles subtitle",
+        "\"Güneşin Doğduğu Yer\" \"1\" ترجمة عربية subtitle",
+        "\"Güneşin Doğduğu Yer\" \"1\" srpski prevod subtitle",
+        "\"Güneşin Doğduğu Yer\" \"1\" bosanski titlovi subtitle",
+        "\"Güneşin Doğduğu Yer\" \"1\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
