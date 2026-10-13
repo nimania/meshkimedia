@@ -1,0 +1,58 @@
+name: One-time two-series Telegram poll check (2026-10-13)
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/telegram-live-polls-2026-10-13.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-live-polls-2026-10-13
+  cancel-in-progress: false
+
+jobs:
+  publish-once:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate test publisher
+        run: node --check automation/telegram-live-polls-2026-10-13.mjs
+      - name: Send one unique Telegram poll per channel
+        id: send
+        run: node automation/telegram-live-polls-2026-10-13.mjs
+        env:
+          SERIES_TELEGRAM_BOT_TOKEN: ${{ secrets.SERIES_TELEGRAM_BOT_TOKEN }}
+      - name: Persist confirmed Telegram message IDs
+        if: ${{ !cancelled() }}
+        run: |
+          file=github-pages/data/telegram-live-polls-2026-10-13.json
+          if [ ! -f "$file" ]; then
+            echo "::warning::No Telegram delivery receipt was generated."
+            exit 0
+          fi
+          git add "$file"
+          if git diff --cached --quiet; then
+            echo "Confirmed post receipts already persisted."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "data: verified one-off poll message IDs [skip ci]"
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Confirmed poll receipts committed."
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+          echo "::error::Unable to persist Telegram delivery receipts."
+          exit 1
