@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
  "updated": "2026-10-13T12:59:59.298Z",
+=======
+ "updated": "2026-10-13T13:03:09.279Z",
+>>>>>>> Stashed changes
  "items": [
   {
    "id": "354991d1c476",
@@ -27,7 +31,11 @@
      "title": "MasterChef şampiyonu dükkanını kapatma kararı aldı: Nedeni belli oldu",
      "snippet": "MasterChef şampiyonu Esra Tokelli, Maslak'ta açtığı restoranıyla ilgili kapatma kararını duyurdu. Bir süre müşterilerine...",
      "published": "2026-10-13T12:36:30.000Z",
+<<<<<<< Updated upstream
      "titleFa": "قهرمان مسترچف تصمیم به تعطیلی دکان خود گرفت: دلیل آن مشخص شد"
+=======
+     "titleFa": "قهرمان مسترChef تصمیم به تعطیلی مغازه خود گرفت: دلیلش مشخص شد"
+>>>>>>> Stashed changes
     }
    ],
    "images": [
@@ -39,11 +47,19 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/masterchef-esra-sampiyon-dukkani-kapattijpg-Fjf9gfV-s0yzpspG-k4jxA.jpg"
    ],
    "mediaDone": true,
+<<<<<<< Updated upstream
    "titleFa": "قهرمان مسترچف تصمیم به تعطیلی رستوران خود گرفت: دلیل آن مشخص شد",
    "summaryFa": "اسرا توکلی، قهرمان مسابقات مسترچف، از تصمیم خود برای بستن موقت رستورانش در ماسلاک خبر داد. او دلیل این تصمیم را مسائل خانوادگی عنوان کرد و از طرف دنبال‌کنندگانش پیام‌های حمایتی دریافت کرد.",
    "bodyFa": [
     "اسرا توکلی که عنوان قهرمانی مسابقات مسترچف را در کارنامه دارد، اعلام کرد که رستوران تاسیس‌شده خود در منطقه ماسلاک را موقتاً تعطیل خواهد کرد.",
     "او در زمان اعلام این تصمیم، دلیل بستن رستوران را به مسائل خانوادگی نسبت داد و پس از انتشار این خبر، پیام‌های حمایتی متعددی از سوی هواداران و دنبال‌کنندگان خود دریافت کرد."
+=======
+   "titleFa": "قهرمان مسترChef تصمیم به تعطیلی رستوران خود گرفت",
+   "summaryFa": "اسرا توکِلی، قهرمان مسترChef، تصمیم خود برای بستن موقت رستورانش در مسلاک را اعلام کرد. او دلیل این تصمیم را مسائل خانوادگی عنوان کرد.",
+   "bodyFa": [
+    "اسرا توکِلی، یکی از قهرمانان مسابقه آشپزی مسترChef، خبر تعطیلی رستوران خود در منطقه مسلاک را به طور رسمی اعلام کرد. بر اساس اطلاعات منتشر شده، این رستوران قرار است برای مدتی به فعالیت خود پایان دهد و درهای آن به روی مشتریان بسته شود.",
+    "توکِلی در خصوص دلیل این تصمیم به مسائل خانوادگی اشاره کرده و توضیحاتی در این زمینه ارائه داده است. پس از اعلام این خبر، او از سوی دنبال‌کنندگان و هواداران خود پیام‌های حمایتی متعددی دریافت کرده است که نشان‌دهنده همراهی آن‌ها با این چهره شناخته‌شده است."
+>>>>>>> Stashed changes
    ],
    "ai": true,
    "aiTries": 1
@@ -1042,6 +1058,44 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "045d617d25a5",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/karaciger-nakli-olmustu-ufuk-ozkan-doktorlar-bile-sasirdi-7678507",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Karaciğer nakli olmuştu! Ufuk Özkan: Doktorlar bile şaşırdı",
+   "snippet": "Karaciğer nakli operasyonunun ardından sağlığına kavuşan Ufuk Özkan, setlere geri döndü. Rol aldığı filmin galasında konuşan oyuncu, son sağlık durumu hakkında bilgi verdi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6acdeb1cf15b2619d4a3d616.jpg",
+   "video": null,
+   "published": "2026-10-13T08:29:05.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/karaciger-nakli-olmustu-ufuk-ozkan-doktorlar-bile-sasirdi-7678507",
+     "title": "Karaciğer nakli olmuştu! Ufuk Özkan: Doktorlar bile şaşırdı",
+     "snippet": "Karaciğer nakli operasyonunun ardından sağlığına kavuşan Ufuk Özkan, setlere geri döndü. Rol aldığı filmin galasında konuşan oyuncu, son sağlık durumu hakkında bilgi verdi.",
+     "published": "2026-10-13T08:29:05.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6acdeb1cf15b2619d4a3d616.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6acdeb1cf15b2619d4a3d616.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "8c2d7f6d7493",
@@ -2600,44 +2654,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "2a7fe0215c7e",
-   "url": "https://www.sabah.com.tr/magazin/henuz-34-yasindaydi-breaking-badin-yildizi-rj-mitte-hayatini-kaybetti-7679325",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Henüz 34 yaşındaydı! Breaking Bad’in yıldızı RJ Mitte hayatını kaybetti",
-   "snippet": "‘Breaking Bad’deki Walter Jr. Karakterini canlandıran RJ Mitte’den üzen haber bugün akşam saatlerinde geldi. RJ Mitte, 34 yaşında hayatını kaybetti. Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/9e93da/1200/675/0/0/576/323?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/1791839316607.jpg",
-   "video": null,
-   "published": "2026-10-12T21:09:47.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/henuz-34-yasindaydi-breaking-badin-yildizi-rj-mitte-hayatini-kaybetti-7679325",
-     "title": "Henüz 34 yaşındaydı! Breaking Bad’in yıldızı RJ Mitte hayatını kaybetti",
-     "snippet": "‘Breaking Bad’deki Walter Jr. Karakterini canlandıran RJ Mitte’den üzen haber bugün akşam saatlerinde geldi. RJ Mitte, 34 yaşında hayatını kaybetti. Devamı için tıklayınız",
-     "published": "2026-10-12T21:09:47.000Z"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/9e93da/1200/675/0/0/576/323?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/1791839316607.jpg",
-    "https://iasbh.tmgrup.com.tr/1beb2a/752/395/0/0/576/302?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/1791839316607.jpg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
-   ],
-   "mediaDone": true
   },
   {
    "id": "9d2c615b302b",
@@ -4719,44 +4735,6 @@
    "aiTries": 1
   },
   {
-   "id": "f8ba6179bebc",
-   "url": "https://www.sozcu.com.tr/arabada-fenalasti-demet-akalin-in-esi-acillik-oldu-p368365",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Arabada fenalaştı: Demet Akalın'ın eşi acillik oldu",
-   "snippet": "Demet Akalın'ın eşi Okan Kurt'tan korkutan haber geldi. Arabada kas spazmı geçiren Kurt için acile giden şarkıcı, yaşadı...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/demetakalinokankurtarabakasspazmijpg-QC3eL5OP_0G2_Cb4y5YdkA.jpg",
-   "video": null,
-   "published": "2026-10-12T08:41:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/arabada-fenalasti-demet-akalin-in-esi-acillik-oldu-p368365",
-     "title": "Arabada fenalaştı: Demet Akalın'ın eşi acillik oldu",
-     "snippet": "Demet Akalın'ın eşi Okan Kurt'tan korkutan haber geldi. Arabada kas spazmı geçiren Kurt için acile giden şarkıcı, yaşadı...",
-     "published": "2026-10-12T08:41:00.000Z"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/demetakalinokankurtarabakasspazmijpg-QC3eL5OP_0G2_Cb4y5YdkA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/demetakalinokankurtarabakasspazmijpg-QC3eL5OP_0G2_Cb4y5YdkA.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/demet-akalinnnjpg-ZSj8zpY1vEygt8XclTyvbA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/okan-kurttujpg-TN_1guFnxkSfEPFOwcmTjQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ace1075cc403fabc1b4763fpng-rkDnnF2nGkCfZp2zgv6H6Q.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "0fba3f4b1854",
    "url": "https://www.haberturk.com/magazin/show-tv-ailesi-nden-sevdan-bir-ates-dizi-setine-anlamli-ziyaret-3919046",
    "source": "haberturk-magazin",
@@ -5375,7 +5353,20 @@
      "snippet": "Pretty Little Liars dizisiyle tanınan Keegan Allen, Los Angeles'ta iki maskeli saldırganın hedefi oldu. Silah ve bıçakla...",
      "published": "2026-10-12T07:12:07.000Z"
     }
+<<<<<<< Updated upstream
    ]
+=======
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/unlu-oyuncu-soyuldu-az-kalsin-canindan-oluyordujpg-NXE_UE3OMUKkETuoae_M7w.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/unlu-oyuncu-soyuldu-az-kalsin-canindan-oluyordujpg-NXE_UE3OMUKkETuoae_M7w.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/unluoyuncusoyguldujpg-2YwPc7zdCUS4DuucF40jow.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ace1075cc403fabc1b4763fpng-rkDnnF2nGkCfZp2zgv6H6Q.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ace06bdcc403fabc1adef90png-gPZMZdN8QkG5wVEYJqjapQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
+>>>>>>> Stashed changes
   },
   {
    "id": "dd1fdc9ec2a9",
@@ -12088,6 +12079,103 @@
    "aiTries": 1
   },
   {
+<<<<<<< Updated upstream
+=======
+   "id": "6ac16165ae31",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/bu-kadar-hizli-hayata-can-mi-dayanir-kendisinden-28-yas-genc-karisi-olmasaydi-coktan-yikilip-gitmisti-43336338",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Bu kadar hızlı hayata can mı dayanır! Kendisinden 28 yaş genç karısı olmasaydı çoktan yıkılıp gitmişti",
+   "snippet": "Yıllar geçtikte yaş almak herkesin kaderi kuşkusuz... Zengin ya da fakir, ünlü ya da ünsüz...Kısacası kim olursa olsun bundan kaçmak mümkün değil.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9ec5793192880ef06b406.jpg",
+   "video": null,
+   "published": "2026-10-10T07:57:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/bu-kadar-hizli-hayata-can-mi-dayanir-kendisinden-28-yas-genc-karisi-olmasaydi-coktan-yikilip-gitmisti-43336338",
+     "title": "Bu kadar hızlı hayata can mı dayanır! Kendisinden 28 yaş genç karısı olmasaydı çoktan yıkılıp gitmişti",
+     "snippet": "Yıllar geçtikte yaş almak herkesin kaderi kuşkusuz... Zengin ya da fakir, ünlü ya da ünsüz...Kısacası kim olursa olsun bundan kaçmak mümkün değil.",
+     "published": "2026-10-10T07:57:00.000Z",
+     "titleFa": "تاب‌آوری در برابر گذر سریع عمر! اگر همسر ۲۸ سال جوان‌ترش نبود تاکنون از هم پاشیده بود"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9ec5793192880ef06b406.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac9ec5793192880ef06b406.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "گزارشی درباره بالا رفتن سن و تاثیر ازدواج با همسر جوان‌تر",
+   "summaryFa": "این مطلب به موضوع اجتناب‌ناپذیر افزایش سن برای همه افراد از جمله ثروتمندان و افراد مشهور می‌پردازد.",
+   "bodyFa": [
+    "بالا رفتن سن روند طبیعی و غیرقابل‌اجتنابی است که همه انسان‌ها، صرف‌نظر از دارایی، جایگاه اجتماعی یا شهرت، در طول زندگی خود با آن مواجه می‌شوند.",
+    "این گزارش به این موضوع اشاره می‌کند که چگونه گذر زمان بر زندگی افراد تاثیر می‌گذارد و این تغییرات برای هر کسی اتفاق می‌افتد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "cdc1933e6daa",
+   "url": "https://www.sabah.com.tr/magazin/milyonlarca-begeni-yagdi-barbara-palvin-minik-bebegiyle-bakin-nasil-buyuledi-masaldan-mi-ciktilar-7677638",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Milyonlarca beğeni yağdı! Barbara Palvin minik bebeğiyle bakın nasıl büyüledi... \"Masaldan mı çıktılar?\"",
+   "snippet": "Dünyaca ünlü model Barbara Palvin ve başarılı oyuncu eşi Dylan Sprouse'un sır gibi sakladıkları kızları Sylvie nihayet ortaya çıktı! Çiçeği burnunda annenin, kızıyla bir örnek giyinerek yaptığı büyüleyici... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/8f8787/1200/675/0/130/1080/738?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791617469216.jpg",
+   "video": null,
+   "published": "2026-10-10T07:36:07.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/milyonlarca-begeni-yagdi-barbara-palvin-minik-bebegiyle-bakin-nasil-buyuledi-masaldan-mi-ciktilar-7677638",
+     "title": "Milyonlarca beğeni yağdı! Barbara Palvin minik bebeğiyle bakın nasıl büyüledi... \"Masaldan mı çıktılar?\"",
+     "snippet": "Dünyaca ünlü model Barbara Palvin ve başarılı oyuncu eşi Dylan Sprouse'un sır gibi sakladıkları kızları Sylvie nihayet ortaya çıktı! Çiçeği burnunda annenin, kızıyla bir örnek giyinerek yaptığı büyüleyici... Devamı için tıklayınız",
+     "published": "2026-10-10T07:36:07.000Z",
+     "titleFa": "باران میلیون‌ها لایک! ببینید باربارا پالوین با نوزاد کوچکش چگونه دلربایی کرد... «آیا از داستان‌ها آمده‌اند؟»"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/8f8787/1200/675/0/130/1080/738?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791617469216.jpg",
+    "https://iasbh.tmgrup.com.tr/4a4f31/752/395/0/149/1080/716?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791617469216.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "تصاویر جدید باربارا پالوین و دخترش سیلوی",
+   "summaryFa": "باربارا پالوین و همسرش دیلن اسپراوس برای نخستین بار تصاویری از دختر خود سیلوی را منتشر کردند. این تصاویر و لباس‌های ست مادر و فرزند مورد توجه فراوان کاربران قرار گرفت.",
+   "bodyFa": [
+    "باربارا پالوین، مدل مشهور، و همسر بازیگرش دیلن اسپراوس که پیش‌تر دختر خود به نام سیلوی را از دید رسانه‌ها پنهان نگه می‌داشتند، اخیراً تصاویری از او را به اشتراک گذاشتند.",
+    "در این تصاویر جدید، این مدل جوان با دخترش لباس‌های هماهنگ و یک‌شکلی پوشیده بودند که این موضوع با استقبال بسیار زیاد کاربران در شبکه‌های اجتماعی روبه‌رو شد و عکس‌ها میلیون‌ها بار پسندیده شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+>>>>>>> Stashed changes
    "id": "34b577ee1e17",
    "url": "https://www.sabah.com.tr/magazin/adeta-ask-sarhosu-derya-pinar-akin-gonlunu-calan-sansli-bakin-kim-7677589",
    "source": "sabah-magazin",
