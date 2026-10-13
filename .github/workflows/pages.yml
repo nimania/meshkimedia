@@ -91,12 +91,39 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
         continue-on-error: true
+      - name: Syntax-check series Telegram publisher
+        run: node --check automation/ghahvehshoor-telegram.mjs
       - name: Publish individual series to their Telegram channels
+        id: series_telegram
         if: ${{ false }} # emergency pause: duplicate-post incident
         run: node automation/ghahvehshoor-telegram.mjs
         env:
           SERIES_TELEGRAM_BOT_TOKEN: ${{ secrets.SERIES_TELEGRAM_BOT_TOKEN }}
         continue-on-error: true
+      - name: Persist series Telegram receipts immediately
+        if: ${{ !cancelled() && steps.series_telegram.outcome != 'skipped' }}
+        run: |
+          # Keep the delivery ledger durable BEFORE proceeding to image/card generation.
+          for state_file in github-pages/data/telegram-series-*-posted.json; do
+            if [ -f "$state_file" ]; then git add "$state_file"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "No new series Telegram delivery receipts."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "data: persist Telegram delivery receipts [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Series Telegram delivery state persisted."
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 10))
+          done
+          echo "::error::Unable to persist series Telegram delivery state — publishing must remain paused."
+          exit 1
       - name: Verify Qahveh Shoor Telegram delivery once
         if: ${{ false }} # emergency pause: duplicate-post incident
         run: node automation/test-qahvehshoor-telegram.mjs
