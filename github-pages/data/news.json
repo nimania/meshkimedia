@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:57:19.135Z",
+ "updated": "2026-10-13T09:01:51.619Z",
  "items": [
   {
    "id": "aa8705f5cd6c",
@@ -93,6 +93,53 @@
    "bodyFa": [
     "شبکه شو تی‌وی ویدیوی پیش‌نمایش جدیدی از قسمت ششم سریال «عشقت یک آتش است» محصول شرکت سی‌ان‌پی فیلم را در اختیار مخاطبان قرار داد. در این سکانس، میرزا و هوما در آشپزخانه مشغول آماده کردن سوپ دیده می‌شوند و گپی دوستانه درباره مواد اولیه دارند که فضایی پر از شادی را میان پدر و دختر به نمایش می‌گذارد.",
     "این صحنه تازه این احتمال را مطرح می‌کند که میرزا، لیلا و هوما اکنون زیر یک سقف زندگی می‌کنند، موضوعی که کنجکاوی طرفداران سریال را برانگیخته است. انتشار این تصاویر نشان می‌دهد که مخاطبان باید منتظر حوادث هیجان‌انگیزی در قسمت آینده این مجموعه باشند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "8892d5c8a624",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/annemin-cenazesine-gitmek-icimden-gelmedi-43339744",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Mehmet Ali Erbil: Annemin cenazesine gitmek içimden gelmedi",
+   "snippet": "Mehmet Ali Erbil, geçtiğimiz nisan ayında 91 yaşında hayatını kaybeden annesi Yurdagül Eken’in cenazesine neden katılmadığını açıkladı. Çocukluğundan bu yana içinde taşıdığı kırgınlığı dile getiren ünlü şovmen, üvey babasıyla ilgili sözleriyle de dikkat çekti.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acdf0e3bb52bb1a58b46cb9.jpg",
+   "video": null,
+   "published": "2026-10-13T08:50:00.000Z",
+   "scope": "general",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/annemin-cenazesine-gitmek-icimden-gelmedi-43339744",
+     "title": "Mehmet Ali Erbil: Annemin cenazesine gitmek içimden gelmedi",
+     "snippet": "Mehmet Ali Erbil, geçtiğimiz nisan ayında 91 yaşında hayatını kaybeden annesi Yurdagül Eken’in cenazesine neden katılmadığını açıkladı. Çocukluğundan bu yana içinde taşıdığı kırgınlığı dile getiren ünlü şovmen, üvey babasıyla ilgili sözleriyle de dikkat çekti.",
+     "published": "2026-10-13T08:50:00.000Z",
+     "titleFa": "مهمت علی اربیل: دلم نخواست به مراسم خاکسپاری مادرم بروم"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acdf0e3bb52bb1a58b46cb9.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acdf0e3bb52bb1a58b46cb9.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "توضیحات مهمت علی اربیل درباره شرکت نکردن در مراسم خاکسپاری مادرش",
+   "summaryFa": "مهمت علی اربیل دلیل عدم حضور خود در مراسم خاکسپاری مادرش را توضیح داد. او به دلخوری‌های دوران کودکی‌اش اشاره کرد.",
+   "bodyFa": [
+    "مهمت علی اربیل درباره دلیل شرکت نکردن در مراسم خاکسپاری مادرش، یورداگول اِکِن، که در ماه آوریل در ۹۱ سالگی درگذشت، توضیحاتی ارائه داد.",
+    "این شومن مشهور به دلخوری و رنجشی که از دوران کودکی در درون خود حمل می‌کرده اشاره کرد و با سخنان خود درباره ناپدری‌اش توجه‌ها را جلب نمود."
    ],
    "ai": true,
    "aiTries": 1
@@ -9625,44 +9672,6 @@
    "aiTries": 1
   },
   {
-   "id": "c7f5d5c1e2f3",
-   "url": "https://www.milliyet.com.tr/magazin/atilla-tas-kizini-topraga-verdi-sezen-tasin-eski-esi-ugur-haliloglu-ilk-kez-konustu-7676979",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Atilla Taş kızını toprağa verdi! Sezen Taş'ın eski eşi Uğur Haliloğlu ilk kez konuştu",
-   "snippet": "HABER MERKEZİ - Bir döneme damgasını vuran isimlerden şarkıcı Atilla Taş'ın kızı Sezen Taş, apartmanın 14’üncü katından düşerek hayatını kaybetti. Sezen Taş'ın cenazesi, otopsinin ardından yakınları tarafından teslim alınarak tören için Mezitli Mezarlığı’na getirilerek cenaze namazı kılındı. Güllü davasında karar belli oldu! Kızı Tuğyan Ülkem Gülter'in hesabından dikkat çeken paylaşım Taş’ın cenazesine babası Atilla Taş, annesi İlkay Sarıköse, yakınları, müzisyenler ve vatandaşlar katıldı. Tören",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aca8d58ea5ea19fcfcdcecb.jpg",
-   "video": null,
-   "published": "2026-10-10T21:00:57.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/atilla-tas-kizini-topraga-verdi-sezen-tasin-eski-esi-ugur-haliloglu-ilk-kez-konustu-7676979",
-     "title": "Atilla Taş kızını toprağa verdi! Sezen Taş'ın eski eşi Uğur Haliloğlu ilk kez konuştu",
-     "snippet": "HABER MERKEZİ - Bir döneme damgasını vuran isimlerden şarkıcı Atilla Taş'ın kızı Sezen Taş, apartmanın 14’üncü katından düşerek hayatını kaybetti. Sezen Taş'ın cenazesi, otopsinin ardından yakınları tarafından teslim alınarak tören için Mezitli Mezarlığı’na getirilerek cenaze namazı kılındı. Güllü d",
-     "published": "2026-10-10T21:00:57.000Z"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aca8d58ea5ea19fcfcdcecb.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aca8d58ea5ea19fcfcdcecb.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "8133dca8d5ea",
    "url": "https://www.haberturk.com/magazin/guldur-guldur-show-un-14-uncu-sezonu-basliyor-3918822",
    "source": "haberturk-magazin",
@@ -9850,44 +9859,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "d72b6def572d",
-   "url": "https://www.milliyet.com.tr/magazin/gullu-davasinda-karar-belli-oldu-kizi-tugyan-ulkem-gulterin-hesabindan-dikkat-ceken-paylasim-7676954",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Güllü davasında karar belli oldu! Kızı Tuğyan Ülkem Gülter'in hesabından dikkat çeken paylaşım",
-   "snippet": "HABER MERKEZİ - Kamuoyunda \"Güllü\" olarak tanınan şarkıcı Gül Tut'un hayatını kaybetmesine ilişkin davada mahkeme heyeti kararını açıkladı. Tutuklu sanık Tuğyan Ülkem Gülter, \"üstsoya karşı kasten öldürme\" suçundan ağırlaştırılmış müebbet hapis cezası aldı. Survivor Serhan Onat ve Merve Küsmenoğlu evlendi! İşte nikahtan ilk kareler ''GÖRSEYDİM TUTARDIM'' Duruşmada savunma yapan Tuğyan Ülkem Gülter, annesinin ölümünün kaza olduğunu öne sürerek suçlamaları reddetmişti. Gülter, annesinin düştüğü sı",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aca7575ea5ea19fcfcdce57.jpg",
-   "video": null,
-   "published": "2026-10-10T17:47:29.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/gullu-davasinda-karar-belli-oldu-kizi-tugyan-ulkem-gulterin-hesabindan-dikkat-ceken-paylasim-7676954",
-     "title": "Güllü davasında karar belli oldu! Kızı Tuğyan Ülkem Gülter'in hesabından dikkat çeken paylaşım",
-     "snippet": "HABER MERKEZİ - Kamuoyunda \"Güllü\" olarak tanınan şarkıcı Gül Tut'un hayatını kaybetmesine ilişkin davada mahkeme heyeti kararını açıkladı. Tutuklu sanık Tuğyan Ülkem Gülter, \"üstsoya karşı kasten öldürme\" suçundan ağırlaştırılmış müebbet hapis cezası aldı. Survivor Serhan Onat ve Merve Küsmenoğlu e",
-     "published": "2026-10-10T17:47:29.000Z"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aca7575ea5ea19fcfcdce57.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aca7575ea5ea19fcfcdce57.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true
   },
   {
    "id": "652025ce53ba",
@@ -10486,36 +10457,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "05d03ef24b1c",
-   "url": "https://www.haberturk.com/magazin/ozgur-ozel-den-atilla-tasa-taziye-ziyareti-3918718",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Özel'den Atilla Taş’a taziye ziyareti",
-   "snippet": "Yeni Parti Genel Başkanı Özgür Özel, kızını kaybeden şarkıcı Atilla Taş'ı ziyaret ederek, başsağlığı dileklerini iletti",
-   "image": "https://im.haberturk.com/l/2026/10/10/ver1791634863/3918718/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-10T12:22:59.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/ozgur-ozel-den-atilla-tasa-taziye-ziyareti-3918718",
-     "title": "Özel'den Atilla Taş’a taziye ziyareti",
-     "snippet": "Yeni Parti Genel Başkanı Özgür Özel, kızını kaybeden şarkıcı Atilla Taş'ı ziyaret ederek, başsağlığı dileklerini iletti",
-     "published": "2026-10-10T12:22:59.000Z"
-    }
-   ],
-   "mediaDone": true
   },
   {
    "id": "a1c790e0a330",
@@ -11491,44 +11432,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "de082ad354d4",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/deniz-akkaya-7-ay-hapis-cezasi-aldi-43336243",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Deniz Akkaya 7 ay hapis cezası aldı",
-   "snippet": "DENİZ Akkaya’nın kızını yaraladığı davada karar çıktı. 27 Mayıs 2024’te yaşanan olayda Akkaya kızının saldırısına uğradığını ifade etmişti.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9d3a58562bad6a4dfdda3.jpg",
-   "video": null,
-   "published": "2026-10-10T05:56:57.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/deniz-akkaya-7-ay-hapis-cezasi-aldi-43336243",
-     "title": "Deniz Akkaya 7 ay hapis cezası aldı",
-     "snippet": "DENİZ Akkaya’nın kızını yaraladığı davada karar çıktı. 27 Mayıs 2024’te yaşanan olayda Akkaya kızının saldırısına uğradığını ifade etmişti.",
-     "published": "2026-10-10T05:56:57.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9d3a58562bad6a4dfdda3.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac9d3a58562bad6a4dfdda3.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
-   ],
-   "mediaDone": true
   },
   {
    "id": "c695b335baac",
