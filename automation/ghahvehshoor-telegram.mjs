@@ -1,6 +1,7 @@
 // Multi-series Telegram publisher for Meshki Media. Each series has separate state.
 // On first run, seed the existing archive without sending a flood of old posts.
-import {readFile,writeFile,readdir} from 'node:fs/promises';
+import {readFile,writeFile,readdir,rename} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
 const root=new URL('../github-pages/',import.meta.url);
 const data=new URL('data/',root);
 const base='https://nimania.github.io/meshkimedia';
@@ -9,6 +10,9 @@ const dry=process.argv.includes('--dry-run');
 const config=JSON.parse(await readFile(new URL('automation/telegram-series.json',new URL('../',import.meta.url)),'utf8'));
 const series=JSON.parse(await readFile(new URL('series.json',data),'utf8'));
 const news=JSON.parse(await readFile(new URL('news.json',data),'utf8'));
+const dubbed=JSON.parse(await readFile(new URL('dubbed.json',data),'utf8'));
+const hash=s=>createHash('sha256').update(strip(s).replace(/[\u064b-\u065f\u200c]/g,'').toLowerCase()).digest('hex').slice(0,24);
+async function saveState(file,state){const tmp=new URL(file.pathname+'.tmp',file);await writeFile(tmp,JSON.stringify(state,null,2)+'\n');await rename(tmp,file);}
 const esc=s=>String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 const strip=s=>String(s||'').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();
 function meta(html,key){let m=html.match(new RegExp('<meta\\s+(?:property|name)="'+key+'"\\s+content="([^"]*)"','i'));return (m?.[1]||'').replace(/&amp;/g,'&').replace(/&quot;/g,'"');}
@@ -41,52 +45,67 @@ for(const cfg of config.channels||[]){
    }catch{}
   }
  }catch{}
- // Five editorial slots per Tehran calendar day, even when no new external news arrives.
- // Source-grounded formats only: story, cast, character, episode recap and audience question.
+ // Only create editorial posts with a stable source-based identity.
+ const editorial=[];
+ const excluded=new Set(cfg.excludeRecapEpisodeNumbers||[]);
+ const pv=(dubbed.series||[]).find(x=>x.slug===slug||x.originalSeriesSlug===slug);
+ for(const entry of pv?.entries||[]){
+  if(entry.status!=='published'||!Array.isArray(entry.paragraphs)||excluded.has(Number(entry.originalEpisode)))continue;
+  const ep=(record.seasons||[]).flatMap(se=>se.episodes||[]).find(x=>x.number===entry.originalEpisode);
+  const photo=entry.coverImage||ep?.image||record.hero;
+  for(const angle of [{index:0,type:'recap',label:'📖 روایت قسمت'},
+    {index:3,type:'detail',label:'🔎 جزئیات داستان'},
+    {index:6,type:'question',label:'💬 دربارهٔ این قسمت'}]){
+   const p=entry.paragraphs[angle.index];
+   if(typeof p!=='string'||p.trim().length<90)continue;
+   const summary=strip(p).slice(0,340)+(angle.type==='question'?' شما دربارهٔ این بخش چه فکر می‌کنید؟':'');
+   editorial.push({id:'editorial:'+entry.slug+':'+angle.index,
+    subject:'episode:'+entry.originalEpisode,type:angle.type,label:angle.label,
+    title:(entry.title||record.titleFa)+' | '+(angle.index===0?'روایت':angle.index===3?'جزئیات':'پرسش') ,
+    summary,image:photo,url:base+'/pavaraghi/'+(pv.slug||slug)+'/'+entry.slug+'/'});
+  }
+ }
+ for(const actor of record.cast||[]){
+  if(!actor.name||!actor.personSlug)continue;
+  const name=actor.nameFa||actor.name,role=actor.roleFa||actor.role||'';
+  editorial.push({id:'editorial:cast:'+actor.personSlug,subject:'actor:'+actor.personSlug,type:'actor',
+   label:'🎭 بازیگران سریال',title:name+' در نقش '+role,
+   summary:'در سریال '+record.titleFa+'، '+name+' نقش '+role+' را بازی می‌کند. '+(actor.description||''),
+   image:actor.image||record.hero,url:base+'/oyuncu/'+actor.personSlug+'/'});
+ }
  const tzParts=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tehran',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',hourCycle:'h23'}).formatToParts(new Date());
  const val=k=>tzParts.find(p=>p.type===k)?.value;
  const today=val('year')+'-'+val('month')+'-'+val('day');
  const hour=Number(val('hour'));
- const dayIndex=Math.floor(Date.parse(today+'T00:00:00Z')/86400000);
- const slots=Array.isArray(cfg.dailyHours)&&cfg.dailyHours.length===5?cfg.dailyHours:[9,12,15,18,21];
- if(cfg.dailyMinimum>=5){
-  const cast=record.cast||[];
-  const actor=cast.length?cast[dayIndex%cast.length]:null;
-  const second=cast.length?cast[(dayIndex+1)%cast.length]:null;
-  const episodes=(record.seasons||[]).flatMap(se=>se.episodes||[]).filter(ep=>ep.summary && ep.number);
-  const episode=episodes.length?episodes[dayIndex%episodes.length]:null;
-  const seriesLink=base+'/dizi/'+slug+'/';
-  const actorLink=actor?.personSlug?base+'/oyuncu/'+actor.personSlug+'/':seriesLink;
-  const question=actor&&second?'شما داستان را بیشتر از زاویهٔ '+(actor.roleFa||actor.nameFa)+' دنبال می‌کنید یا '+(second.roleFa||second.nameFa)+'؟ دلیل انتخابتان چیست؟':'کدام لحظه از داستان بیش از همه در خاطرتان مانده است؟';
-  const facts=[
-   {label:'☕ روایت روز',title:episode?'نگاهی به رویدادهای قسمت '+episode.number:'داستان '+record.titleFa,summary:episode?.summary||record.synopsis,image:episode?.image||record.hero,url:episode?base+'/dizi/'+slug+'/bolum-'+episode.number+'/':seriesLink},
-   {label:'🎭 چهره‌های سریال',title:actor?'آشنایی با '+(actor.nameFa||actor.name):'آشنایی با بازیگران '+record.titleFa,summary:actor?('نقش: '+(actor.roleFa||actor.role||'')+'. '+(actor.description||'')+' اطلاعات بازیگر و نقش را در مشکی‌مدیا دنبال کنید.'):record.synopsis,image:actor?.image||record.hero,url:actorLink},
-   {label:'📖 آنچه گذشت',title:episode?'مرور قسمت '+episode.number+' '+record.titleFa:'مرور داستان '+record.titleFa,summary:episode?.summary||record.synopsis,image:episode?.image||record.hero,url:episode?base+'/dizi/'+slug+'/bolum-'+episode.number+'/':seriesLink},
-   {label:'💬 سؤال روز',title:'شما چه فکر می‌کنید؟',summary:question+' نظر خود را در گفت‌وگوی کانال یا برای دوستانتان مطرح کنید.',image:record.hero,url:seriesLink},
-   {label:'🔎 شخصیت زیر ذره‌بین',title:second?'شخصیت '+(second.roleFa||second.role||second.nameFa):'دربارهٔ شخصیت‌های سریال',summary:second?.description||record.synopsis,image:second?.image||record.hero,url:second?.personSlug?base+'/oyuncu/'+second.personSlug+'/':seriesLink}
-  ];
-  for(let i=0;i<5;i++){
-   if(hour<Number(slots[i]))continue;
-   items.push({...facts[i],id:'daily:'+today+':'+i,date:today+'T'+String(slots[i]).padStart(2,'0')+':00:00'});
-  }
- }
+ const slots=Array.isArray(cfg.dailyHours)&&cfg.dailyHours.length?cfg.dailyHours:[9,12,15,18,21];
  const entries=[...new Map(items.map(x=>[x.id,x])).values()];
  const stateUrl=new URL('telegram-series-'+slug+'-posted.json',data);
  let state=null;try{state=JSON.parse(await readFile(stateUrl,'utf8'));}catch{}
  if(!state||!Array.isArray(state.posted)){
   console.log(slug+': first run, seed '+entries.length+' existing entries; post none.');
-  if(!dry)await writeFile(stateUrl,JSON.stringify({posted:entries.map(x=>x.id),updated:new Date().toISOString()},null,2)+'\n');
+  if(!dry)await saveState(stateUrl,{posted:entries.map(x=>x.id),contentHashes:[],lastSubjects:{},updated:new Date().toISOString()});
   continue;
  }
  if(!token&&!dry){console.log(slug+': missing bot secret, no posts.');continue;}
  const seen=new Set(state.posted);
- // Give today's five editorial slots priority while still carrying genuine breaking news.
- // Avoid publishing a backlog of routine posts in a single run.
- const pending=entries.filter(x=>!seen.has(x.id));
- const editorial=pending.filter(x=>x.id.startsWith('daily:'+today+':')).sort((a,b)=>a.date.localeCompare(b.date));
- const breaking=pending.filter(x=>!x.id.startsWith('daily:')).sort((a,b)=>b.date.localeCompare(a.date));
- const budget=Math.max(1,Math.min(3,Number(cfg.maxPerRun||3)));
- const fresh=[...editorial.slice(0,budget),...breaking.slice(0,Math.max(0,budget-editorial.length))];
+ const seenHashes=new Set(state.contentHashes||[]);
+ const subjects=state.lastSubjects||{};
+ const pending=editorial.filter(x=>!seen.has(x.id)&&!seenHashes.has(hash(x.summary)));
+ const types=['recap','actor','detail','question','recap'];
+ let selected=null;
+ for(let slot=0;slot<slots.length;slot++){
+  if(hour<Number(slots[slot])||seen.has('slot:'+today+':'+slot))continue;
+  const pool=pending.filter(x=>!subjects[x.subject]||subjects[x.subject]!==today);
+  const preferred=types[slot%types.length];
+  const candidate=pool.find(x=>x.type===preferred)||pool[0];
+  if(candidate){selected={...candidate,slotKey:'slot:'+today+':'+slot};break;}
+ }
+ if(!selected){
+  const recent=items.filter(x=>!seen.has(x.id)&&!seenHashes.has(hash(x.summary))&&strip(x.summary).length>45);
+  selected=recent.find(x=>x.id.startsWith('news:'))||recent[0]||null;
+ }
+ const fresh=selected?[selected]:[];
+ console.log(slug+': '+fresh.length+' unique item(s) selected; '+pending.length+' unused editorial subjects.');
  for(const item of fresh){
   const summary=strip(item.summary).slice(0,420);
   const title=strip(item.title).slice(0,180);
@@ -99,7 +118,11 @@ for(const cfg of config.channels||[]){
    if(!result?.ok)result=await telegram('sendMessage',{chat_id:channel,text:caption,parse_mode:'HTML',link_preview_options:{is_disabled:false}});
    if(!result?.ok){console.error(slug,item.id,result?.description||'Telegram failed');break;}
    state.posted.push(item.id);
-   await writeFile(stateUrl,JSON.stringify({posted:state.posted,updated:new Date().toISOString()},null,2)+'\n');
+   if(item.slotKey)state.posted.push(item.slotKey);
+   state.contentHashes=[...(state.contentHashes||[]),hash(item.summary)].slice(-5000);
+   state.lastSubjects={...(state.lastSubjects||{}),...(item.subject?{[item.subject]:today}:{})};
+   state.updated=new Date().toISOString();
+   await saveState(stateUrl,state);
    console.log(slug+' sent '+item.id);
    await new Promise(resolve=>setTimeout(resolve,1800));
   }catch(error){console.error(slug,item.id,error.message);break;}
