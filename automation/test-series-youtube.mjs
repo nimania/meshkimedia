@@ -14,6 +14,13 @@ assert.equal(classifyOfficialVideo('18. Bölüm')?.kind,'episode');
 assert.equal(classifyOfficialVideo('Setten yeni görüntüler')?.kind,'behind-scenes');
 assert.equal(classifyOfficialVideo('Oyuncularla Röportaj')?.kind,'interview');
 assert.equal(classifyOfficialVideo('Rastgele sahne'),null);
+assert.equal(classifyOfficialVideo('فال قهوه شور - پاورقی قسمت ۳','fa')?.kind,'recap');
+assert.equal(classifyOfficialVideo('قهوه شور - تیزر قسمت بعد','fa')?.kind,'trailer');
+assert.equal(classifyOfficialVideo('کلیپ نامرتبط','fa'),null);
+
+const persianXml='<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015"><yt:channelId>'+channelId+'</yt:channelId>'+
+ video('PPPPPPPPPPP','پاورقی قسمت ۳ سریال قهوه شور')+'</feed>';
+assert.equal(parseYouTubeFeed(persianXml,channelId,'fa').length,1);
 const entries=parseYouTubeFeed(xml,channelId);
 assert.equal(entries.length,2);
 assert.equal(entries[0].id,'ABCDEFGHIjk');
