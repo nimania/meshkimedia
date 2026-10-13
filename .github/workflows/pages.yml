@@ -18,6 +18,8 @@ on:
       - "automation/audit-cast.mjs"
       - "automation/news-collect.mjs"
       - "automation/ghahvehshoor-telegram.mjs"
+      - "automation/series-youtube.mjs"
+      - "automation/test-series-youtube.mjs"
       - "automation/telegram-series.json"
       - "automation/test-qahvehshoor-telegram.mjs"
       - "automation/test-muhtemel-ask-telegram.mjs"
@@ -91,6 +93,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
         continue-on-error: true
+      - name: Verify official YouTube parsing with fixtures
+        run: node automation/test-series-youtube.mjs
       - name: Syntax-check series Telegram publisher
         run: node --check automation/ghahvehshoor-telegram.mjs
       - name: Publish individual series to their Telegram channels
