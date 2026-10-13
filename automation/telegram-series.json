@@ -3,7 +3,7 @@
     {
       "seriesSlug": "tuzlu-kahve",
       "channel": "@ghahvehshoor",
-      "enabled": true,
+      "enabled": false,
       "maxPerRun": 3,
       "dailyMinimum": 5,
       "dailyHours": [
@@ -17,7 +17,7 @@
     {
       "seriesSlug": "muhtemel-ask",
       "channel": "@ehtemalaneshgheh",
-      "enabled": true,
+      "enabled": false,
       "maxPerRun": 3,
       "dailyMinimum": 5,
       "dailyHours": [
