@@ -10,7 +10,7 @@ const polls=[
   slug:'tuzlu-kahve',channel:'@ghahvehshoor',
   question:'🧩 معمای قهوه شور | اسپویل قسمت ۱: درین چه چیزی را برای پایان رابطه با هاکان به دریا انداخت؟',
   options:['حلقهٔ نامزدی','عکس یادگاری','نامهٔ هاکان','کلید خانه'],
-  type:'quiz',correct_option_id:0,is_anonymous:true,
+  type:'quiz',correct_option_ids:[0],is_anonymous:true,
   explanation:'پاسخ درست: حلقهٔ نامزدی. مرور کامل قسمت اول در مشکی‌مدیا: https://nimania.github.io/meshkimedia/pavaraghi/tuzlu-kahve/original-1/'
  },
  {
@@ -27,7 +27,7 @@ let failed=false;
 for(const p of polls){
  if(receipts[p.slug]?.message_id){console.log(p.slug+': already confirmed; skip to prevent duplicates.');continue;}
  const {slug,channel,...details}=p;
- const body={chat_id:channel,...details};
+ const body={chat_id:channel,...details,options:details.options.map(text=>({text}))};
  try{
   const resp=await fetch('https://api.telegram.org/bot'+token+'/sendPoll',{
    method:'POST',headers:{'content-type':'application/json'},
