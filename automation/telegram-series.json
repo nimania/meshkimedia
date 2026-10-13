@@ -34,7 +34,10 @@
           "priority": 2
         }
       ],
-      "ratingsEnabled": true
+      "ratingsEnabled": true,
+      "engagementEnabled": true,
+      "engagementStartDate": "2026-10-14",
+      "engagementSlotIndex": 3
     },
     {
       "seriesSlug": "muhtemel-ask",
@@ -61,7 +64,10 @@
           "priority": 2
         }
       ],
-      "ratingsEnabled": true
+      "ratingsEnabled": true,
+      "engagementEnabled": true,
+      "engagementStartDate": "2026-10-14",
+      "engagementSlotIndex": 3
     }
   ]
 }
