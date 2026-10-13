@@ -92,16 +92,19 @@ jobs:
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
         continue-on-error: true
       - name: Publish individual series to their Telegram channels
+        if: ${{ false }} # emergency pause: duplicate-post incident
         run: node automation/ghahvehshoor-telegram.mjs
         env:
           SERIES_TELEGRAM_BOT_TOKEN: ${{ secrets.SERIES_TELEGRAM_BOT_TOKEN }}
         continue-on-error: true
       - name: Verify Qahveh Shoor Telegram delivery once
+        if: ${{ false }} # emergency pause: duplicate-post incident
         run: node automation/test-qahvehshoor-telegram.mjs
         env:
           SERIES_TELEGRAM_BOT_TOKEN: ${{ secrets.SERIES_TELEGRAM_BOT_TOKEN }}
         continue-on-error: true
       - name: Verify Muhtemel Ask Telegram delivery once
+        if: ${{ false }} # emergency pause: duplicate-post incident
         id: muhtemel_welcome
         run: node automation/test-muhtemel-ask-telegram.mjs
         env:
