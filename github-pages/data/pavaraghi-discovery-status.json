@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:17:25.804873+00:00",
+  "generatedAt": "2026-10-13T00:36:28.819662+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "guller-ve-gunahlar:1",
-    "guller-ve-gunahlar:35",
-    "guller-ve-gunahlar:36",
-    "gunesin-dogdugu-yer:1"
+    "gunesin-dogdugu-yer:2",
+    "gunesin-dogdugu-yer:3",
+    "gunesin-dogdugu-yer:4",
+    "halef-koklerin-cagrisi:1"
   ],
   "episodes": [
     {
@@ -900,6 +900,134 @@
         "\"Güneşin Doğduğu Yer\" \"1\" srpski prevod subtitle",
         "\"Güneşin Doğduğu Yer\" \"1\" bosanski titlovi subtitle",
         "\"Güneşin Doğduğu Yer\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "gunesin-dogdugu-yer:2",
+      "seriesSlug": "gunesin-dogdugu-yer",
+      "seriesTitle": "جایی که خورشید طلوع می‌کند",
+      "originalEpisode": 2,
+      "checkedAt": "2026-10-13T00:36:28.819662+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Güneşin Doğduğu Yer\" \"2\" Türkçe altyazı subtitle",
+        "\"Güneşin Doğduğu Yer\" \"2\" زیرنویس فارسی subtitle",
+        "\"Güneşin Doğduğu Yer\" \"2\" English subtitles subtitle",
+        "\"Güneşin Doğduğu Yer\" \"2\" ترجمة عربية subtitle",
+        "\"Güneşin Doğduğu Yer\" \"2\" srpski prevod subtitle",
+        "\"Güneşin Doğduğu Yer\" \"2\" bosanski titlovi subtitle",
+        "\"Güneşin Doğduğu Yer\" \"2\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "gunesin-dogdugu-yer:3",
+      "seriesSlug": "gunesin-dogdugu-yer",
+      "seriesTitle": "جایی که خورشید طلوع می‌کند",
+      "originalEpisode": 3,
+      "checkedAt": "2026-10-13T00:36:28.819662+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Güneşin Doğduğu Yer\" \"3\" Türkçe altyazı subtitle",
+        "\"Güneşin Doğduğu Yer\" \"3\" زیرنویس فارسی subtitle",
+        "\"Güneşin Doğduğu Yer\" \"3\" English subtitles subtitle",
+        "\"Güneşin Doğduğu Yer\" \"3\" ترجمة عربية subtitle",
+        "\"Güneşin Doğduğu Yer\" \"3\" srpski prevod subtitle",
+        "\"Güneşin Doğduğu Yer\" \"3\" bosanski titlovi subtitle",
+        "\"Güneşin Doğduğu Yer\" \"3\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "gunesin-dogdugu-yer:4",
+      "seriesSlug": "gunesin-dogdugu-yer",
+      "seriesTitle": "جایی که خورشید طلوع می‌کند",
+      "originalEpisode": 4,
+      "checkedAt": "2026-10-13T00:36:28.819662+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Güneşin Doğduğu Yer\" \"4\" Türkçe altyazı subtitle",
+        "\"Güneşin Doğduğu Yer\" \"4\" زیرنویس فارسی subtitle",
+        "\"Güneşin Doğduğu Yer\" \"4\" English subtitles subtitle",
+        "\"Güneşin Doğduğu Yer\" \"4\" ترجمة عربية subtitle",
+        "\"Güneşin Doğduğu Yer\" \"4\" srpski prevod subtitle",
+        "\"Güneşin Doğduğu Yer\" \"4\" bosanski titlovi subtitle",
+        "\"Güneşin Doğduğu Yer\" \"4\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "halef-koklerin-cagrisi:1",
+      "seriesSlug": "halef-koklerin-cagrisi",
+      "seriesTitle": "جانشین: ندای ریشه‌ها",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-13T00:36:28.819662+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Halef: Köklerin Çağrısı\" \"1\" Türkçe altyazı subtitle",
+        "\"Halef: Köklerin Çağrısı\" \"1\" زیرنویس فارسی subtitle",
+        "\"Halef: Köklerin Çağrısı\" \"1\" English subtitles subtitle",
+        "\"Halef: Köklerin Çağrısı\" \"1\" ترجمة عربية subtitle",
+        "\"Halef: Köklerin Çağrısı\" \"1\" srpski prevod subtitle",
+        "\"Halef: Köklerin Çağrısı\" \"1\" bosanski titlovi subtitle",
+        "\"Halef: Köklerin Çağrısı\" \"1\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
