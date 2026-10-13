@@ -95,7 +95,7 @@ jobs:
         run: node --check automation/ghahvehshoor-telegram.mjs
       - name: Publish individual series to their Telegram channels
         id: series_telegram
-        if: ${{ false }} # emergency pause: duplicate-post incident
+        # Script itself enforces no duplicate topics and resumeFromTehran date guard.
         run: node automation/ghahvehshoor-telegram.mjs
         env:
           SERIES_TELEGRAM_BOT_TOKEN: ${{ secrets.SERIES_TELEGRAM_BOT_TOKEN }}
