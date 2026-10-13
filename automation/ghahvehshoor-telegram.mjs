@@ -95,7 +95,8 @@ for(const cfg of config.channels||[]){
  let selected=null;
  for(let slot=0;slot<slots.length;slot++){
   if(hour<Number(slots[slot])||seen.has('slot:'+today+':'+slot))continue;
-  const pool=pending.filter(x=>!subjects[x.subject]||subjects[x.subject]!==today);
+  const cooldown=Math.max(1,Math.min(14,Number(cfg.topicCooldownDays||3)));
+  const pool=pending.filter(x=>!subjects[x.subject]||(Date.parse(today)-Date.parse(subjects[x.subject]))/86400000>=cooldown);
   const preferred=types[slot%types.length];
   const candidate=pool.find(x=>x.type===preferred)||pool[0];
   if(candidate){selected={...candidate,slotKey:'slot:'+today+':'+slot};break;}
