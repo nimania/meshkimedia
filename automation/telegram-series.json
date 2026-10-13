@@ -19,7 +19,22 @@
       ],
       "resumeFromTehran": "2026-10-14",
       "youtubeHandle": "tuzlukahvestartv",
-      "youtubeMaxPerDay": 2
+      "youtubeMaxPerDay": 2,
+      "youtubeSources": [
+        {
+          "handle": "ghahvehshoor",
+          "language": "fa",
+          "label": "کانال فارسی قهوه شور",
+          "priority": 1
+        },
+        {
+          "handle": "tuzlukahvestartv",
+          "language": "tr",
+          "label": "کانال رسمی ترکی قهوه شور",
+          "priority": 2
+        }
+      ],
+      "ratingsEnabled": true
     },
     {
       "seriesSlug": "muhtemel-ask",
@@ -37,7 +52,16 @@
       "topicCooldownDays": 3,
       "resumeFromTehran": "2026-10-14",
       "youtubeHandle": "muhtemelaskdizi",
-      "youtubeMaxPerDay": 2
+      "youtubeMaxPerDay": 2,
+      "youtubeSources": [
+        {
+          "handle": "muhtemelaskdizi",
+          "language": "tr",
+          "label": "کانال رسمی احتمالاً عشقه",
+          "priority": 2
+        }
+      ],
+      "ratingsEnabled": true
     }
   ]
 }
