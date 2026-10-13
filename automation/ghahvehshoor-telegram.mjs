@@ -86,6 +86,7 @@ for(const cfg of config.channels||[]){
   if(!dry)await saveState(stateUrl,{posted:entries.map(x=>x.id),contentHashes:[],lastSubjects:{},updated:new Date().toISOString()});
   continue;
  }
+ if(cfg.resumeFromTehran&&today<cfg.resumeFromTehran){console.log(slug+': publishing held until '+cfg.resumeFromTehran+' Tehran date.');continue;}
  if(!token&&!dry){console.log(slug+': missing bot secret, no posts.');continue;}
  const seen=new Set(state.posted);
  const seenHashes=new Set(state.contentHashes||[]);
