@@ -189,14 +189,15 @@ jobs:
         if: ${{ !cancelled() && (steps.news.outcome == 'success' || steps.bios.outcome == 'success') }}
         run: |
           files="github-pages/data/news.json github-pages/data/bios.json github-pages/data/telegram-posted.json github-pages/data/telegram-series-*-posted.json"
-          if git diff --quiet HEAD -- $files; then
-            echo "News and bios unchanged; nothing to persist."
+          # Stage even newly created per-series Telegram delivery states.
+          git add $files
+          if git diff --cached --quiet; then
+            echo "News, bios and Telegram delivery states unchanged."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add $files
-          git commit -m "data: news and actor bios [skip ci]"
+          git commit -m "data: news, bios and Telegram delivery states [skip ci]"
           for attempt in 1 2 3; do
             if git pull --rebase --autostash origin main && git push origin HEAD:main; then
               echo "Persisted news and bios."
