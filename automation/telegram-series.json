@@ -4,7 +4,7 @@
       "seriesSlug": "tuzlu-kahve",
       "channel": "@ghahvehshoor",
       "enabled": false,
-      "maxPerRun": 3,
+      "maxPerRun": 1,
       "dailyMinimum": 5,
       "dailyHours": [
         9,
@@ -12,13 +12,17 @@
         15,
         18,
         21
+      ],
+      "topicCooldownDays": 3,
+      "excludeRecapEpisodeNumbers": [
+        2
       ]
     },
     {
       "seriesSlug": "muhtemel-ask",
       "channel": "@ehtemalaneshgheh",
       "enabled": false,
-      "maxPerRun": 3,
+      "maxPerRun": 1,
       "dailyMinimum": 5,
       "dailyHours": [
         9,
@@ -26,7 +30,8 @@
         15,
         18,
         21
-      ]
+      ],
+      "topicCooldownDays": 3
     }
   ]
 }
