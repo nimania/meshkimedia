@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:07:21.791843+00:00",
+  "generatedAt": "2026-10-13T22:41:42.069231+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "haysiyet:1",
-    "haysiyet:2",
-    "haysiyet:3",
-    "haysiyet:4"
+    "haysiyet:5",
+    "kizilcik-serbeti:1",
+    "kizilcik-serbeti:140",
+    "kizilcik-serbeti:141"
   ],
   "episodes": [
     {
@@ -1156,6 +1156,134 @@
         "\"Haysiyet\" \"4\" srpski prevod subtitle",
         "\"Haysiyet\" \"4\" bosanski titlovi subtitle",
         "\"Haysiyet\" \"4\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "haysiyet:5",
+      "seriesSlug": "haysiyet",
+      "seriesTitle": "حیثیت",
+      "originalEpisode": 5,
+      "checkedAt": "2026-10-13T22:41:42.069231+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Haysiyet\" \"5\" Türkçe altyazı subtitle",
+        "\"Haysiyet\" \"5\" زیرنویس فارسی subtitle",
+        "\"Haysiyet\" \"5\" English subtitles subtitle",
+        "\"Haysiyet\" \"5\" ترجمة عربية subtitle",
+        "\"Haysiyet\" \"5\" srpski prevod subtitle",
+        "\"Haysiyet\" \"5\" bosanski titlovi subtitle",
+        "\"Haysiyet\" \"5\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "kizilcik-serbeti:1",
+      "seriesSlug": "kizilcik-serbeti",
+      "seriesTitle": "شربت زغال‌اخته",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-13T22:41:42.069231+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Kızılcık Şerbeti\" \"1\" Türkçe altyazı subtitle",
+        "\"Kızılcık Şerbeti\" \"1\" زیرنویس فارسی subtitle",
+        "\"Kızılcık Şerbeti\" \"1\" English subtitles subtitle",
+        "\"Kızılcık Şerbeti\" \"1\" ترجمة عربية subtitle",
+        "\"Kızılcık Şerbeti\" \"1\" srpski prevod subtitle",
+        "\"Kızılcık Şerbeti\" \"1\" bosanski titlovi subtitle",
+        "\"Kızılcık Şerbeti\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "kizilcik-serbeti:140",
+      "seriesSlug": "kizilcik-serbeti",
+      "seriesTitle": "شربت زغال‌اخته",
+      "originalEpisode": 140,
+      "checkedAt": "2026-10-13T22:41:42.069231+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Kızılcık Şerbeti\" \"140\" Türkçe altyazı subtitle",
+        "\"Kızılcık Şerbeti\" \"140\" زیرنویس فارسی subtitle",
+        "\"Kızılcık Şerbeti\" \"140\" English subtitles subtitle",
+        "\"Kızılcık Şerbeti\" \"140\" ترجمة عربية subtitle",
+        "\"Kızılcık Şerbeti\" \"140\" srpski prevod subtitle",
+        "\"Kızılcık Şerbeti\" \"140\" bosanski titlovi subtitle",
+        "\"Kızılcık Şerbeti\" \"140\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "kizilcik-serbeti:141",
+      "seriesSlug": "kizilcik-serbeti",
+      "seriesTitle": "شربت زغال‌اخته",
+      "originalEpisode": 141,
+      "checkedAt": "2026-10-13T22:41:42.069231+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Kızılcık Şerbeti\" \"141\" Türkçe altyazı subtitle",
+        "\"Kızılcık Şerbeti\" \"141\" زیرنویس فارسی subtitle",
+        "\"Kızılcık Şerbeti\" \"141\" English subtitles subtitle",
+        "\"Kızılcık Şerbeti\" \"141\" ترجمة عربية subtitle",
+        "\"Kızılcık Şerbeti\" \"141\" srpski prevod subtitle",
+        "\"Kızılcık Şerbeti\" \"141\" bosanski titlovi subtitle",
+        "\"Kızılcık Şerbeti\" \"141\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
