@@ -16,8 +16,8 @@
     },
     {
       "seriesSlug": "muhtemel-ask",
-      "channel": "",
-      "enabled": false,
+      "channel": "@ehtemalaneshgheh",
+      "enabled": true,
       "maxPerRun": 3,
       "dailyMinimum": 5,
       "dailyHours": [
