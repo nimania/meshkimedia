@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-13T08:51:55.193Z",
+ "updated": "2026-10-13T08:57:19.135Z",
  "items": [
+  {
+   "id": "aa8705f5cd6c",
+   "url": "https://www.milliyet.com.tr/magazin/son-dakika-canli-yayinda-feci-kaza-iki-yarismaci-kafa-kafaya-carpisti-doktor-cagirin-7678524",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Son dakika...Canlı yayında feci kaza! İki yarışmacı kafa kafaya çarpıştı: 'Doktor çağırın'",
+   "snippet": "İtalya’da yayınlanan Grande Fratello Vip yarışmasının 12 Ekim Pazartesi günkü canlı yayınında beklenmedik bir olay yaşandı. Yarışmacılar Valeria Marini ve Carmen Di Pietro, evde kırılan bir aynanın uğursuzluk getireceğine ilişkin inanışı geride bırakmak amacıyla ayna parçalarını atılacakları yere götürdü. Ancak bu sırada yaşananlar, kısa süreli paniğe yol açtı. SEVİNÇLE ÜZERİNE ATLADI, İKİSİ DE YERE DÜŞTÜ Evde hafta içinde kırılan aynanın parçalarından kurtulmak isteyen iki yarışmacı, yedi yıl u",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6acdf159f52f8447c91e67db.jpg",
+   "video": null,
+   "published": "2026-10-13T08:54:51.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/son-dakika-canli-yayinda-feci-kaza-iki-yarismaci-kafa-kafaya-carpisti-doktor-cagirin-7678524",
+     "title": "Son dakika...Canlı yayında feci kaza! İki yarışmacı kafa kafaya çarpıştı: 'Doktor çağırın'",
+     "snippet": "İtalya’da yayınlanan Grande Fratello Vip yarışmasının 12 Ekim Pazartesi günkü canlı yayınında beklenmedik bir olay yaşandı. Yarışmacılar Valeria Marini ve Carmen Di Pietro, evde kırılan bir aynanın uğursuzluk getireceğine ilişkin inanışı geride bırakmak amacıyla ayna parçalarını atılacakları yere gö",
+     "published": "2026-10-13T08:54:51.000Z",
+     "titleFa": "آخرین خبر... حادثه وحشتناک در پخش زنده! دو شرکت‌کننده سر به سر برخورد کردند: «دکتر خبر کنید»"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6acdf159f52f8447c91e67db.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6acdf159f52f8447c91e67db.jpg",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg",
+    "https://image.milimaj.com/i/milliyet/75/869x477/6acdf159f52f8447c91e67db.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "حادثه در برنامه زنده «گراند فراتلو ویپ» ایتالیا؛ برخورد سر به سر دو شرکت‌کننده",
+   "summaryFa": "در جریان یک برنامه زنده تلویزیونی در ایتالیا، دو شرکت‌کننده حین انجام یک آیین برای دور کردن بدشانسی با یکدیگر برخورد کردند. این حادثه در پخش زنده ۱۲ اکتبر رخ داد.",
+   "bodyFa": [
+    "در جریان پخش زنده برنامه «گراند فراتلو ویپ» در ایتالیا که در تاریخ دوشنبه ۱۲ اکتبر روی آنتن رفت، یک حادثه غیرمنتظره رخ داد. دو تن از شرکت‌کنندگان به نام‌های والاریا مارینی و کارمن دی پیترو دچار سانحه شدند.",
+    "این اتفاق زمانی رخ داد که این دو شرکت‌کننده قصد داشتند قطعات یک آینه شکسته را برای دفع بدشانسی و نحوست ناشی از آن در محل مخصوص دفن کنند که ناگهان با یکدیگر برخورد سر به سر داشتند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "b7e1292a9415",
+   "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-in-6-nci-bolumunden-yeni-on-izleme-sahnesi-yayinlandi-3919327",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Yeni ön izleme sahnesi yayınlandı",
+   "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş' 6'ncı bölümünden yeni ön izleme sahnesi izleyiciyle buluştu",
+   "image": "https://im.haberturk.com/l/2026/10/13/ver1791881569/3919327/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-13T08:53:24.000Z",
+   "scope": "linked",
+   "kind": "official",
+   "entities": {
+    "series": [
+     "sevdan-bir-ates"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-in-6-nci-bolumunden-yeni-on-izleme-sahnesi-yayinlandi-3919327",
+     "title": "Yeni ön izleme sahnesi yayınlandı",
+     "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş' 6'ncı bölümünden yeni ön izleme sahnesi izleyiciyle buluştu",
+     "published": "2026-10-13T08:53:24.000Z",
+     "titleFa": "انتشار صحنه پیش‌نمایش جدید"
+    }
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "4Stn0wA53Vw"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار سکانس پیش‌نمایش جدید از قسمت ششم سریال عشقت یک آتش است",
+   "summaryFa": "شبکه شو تی‌وی سکانس پیش‌نمایش جدیدی از قسمت ششم سریال «عشقت یک آتش است» را منتشر کرد. این ویدیو نشان می‌دهد که میرزا، لیلا و هوما در یک خانه حضور دارند.",
+   "bodyFa": [
+    "شبکه شو تی‌وی ویدیوی پیش‌نمایش جدیدی از قسمت ششم سریال «عشقت یک آتش است» محصول شرکت سی‌ان‌پی فیلم را در اختیار مخاطبان قرار داد. در این سکانس، میرزا و هوما در آشپزخانه مشغول آماده کردن سوپ دیده می‌شوند و گپی دوستانه درباره مواد اولیه دارند که فضایی پر از شادی را میان پدر و دختر به نمایش می‌گذارد.",
+    "این صحنه تازه این احتمال را مطرح می‌کند که میرزا، لیلا و هوما اکنون زیر یک سقف زندگی می‌کنند، موضوعی که کنجکاوی طرفداران سریال را برانگیخته است. انتشار این تصاویر نشان می‌دهد که مخاطبان باید منتظر حوادث هیجان‌انگیزی در قسمت آینده این مجموعه باشند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "8c2d7f6d7493",
    "url": "https://www.hurriyet.com.tr/kelebek/stil/modadan-sanata-43339653",
@@ -725,6 +821,74 @@
     "آتا دمیرر، کمدین و هنرمند مشهور، در یک مسئله جدی با کلاهبرداران دچار مشکل شده است و موضوع را در حساب شبکه اجتماعی خود مطرح کرد.",
     "او با انتشار اطلاعیه‌ای با عنوان «اطلاعیه برای عموم» هشدار داد که افرادی با سوءاستفاده از نام او و برادرش، چانک دمیرر، دست به اقداماتی زده‌اند و از این طریق برای کلاهبرداری تلاش می‌کنند."
    ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "7352cdbb3d81",
+   "url": "https://www.sozcu.com.tr/annesinin-cenazesine-bile-katilmamisti-mehmet-ali-erbil-gercegi-acikladi-p368601",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Annesinin cenazesine bile katılmamıştı: Mehmet Ali Erbil gerçeği açıkladı",
+   "snippet": "Mehmet Ali Erbil'in annesi Yurdagül Eken, geçtiğimiz nisan ayında 91 yaşında hayatını kaybetmişti. Cenazeye katılmamasıy...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/511jpg-C0ZnFHsCLUmgutz_aoHRaA.jpg",
+   "video": null,
+   "published": "2026-10-13T05:23:19.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/annesinin-cenazesine-bile-katilmamisti-mehmet-ali-erbil-gercegi-acikladi-p368601",
+     "title": "Annesinin cenazesine bile katılmamıştı: Mehmet Ali Erbil gerçeği açıkladı",
+     "snippet": "Mehmet Ali Erbil'in annesi Yurdagül Eken, geçtiğimiz nisan ayında 91 yaşında hayatını kaybetmişti. Cenazeye katılmamasıy...",
+     "published": "2026-10-13T05:23:19.000Z",
+     "titleFa": "Annesinin cenazesine bile katılmamıştı: Mehmet Ali Erbil gerçeği açıkladı"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/annesinin-cenazesine-katilmamisti-mehmet-ali-erbil-nedenini-aylar-sonra-acikladi-7678405",
+     "title": "Annesinin cenazesine katılmamıştı! Mehmet Ali Erbil nedenini aylar sonra açıkladı",
+     "snippet": "Mehmet Ali Erbil, hayatını kaybeden annesi Yurdagül Eken’in cenazesine neden katılmadığını aylar sonra açıkladı.",
+     "published": "2026-10-13T06:42:25.000Z",
+     "titleFa": "Annesinin cenazesine katılmamıştı! Mehmet Ali Erbil nedenini aylar sonra açıkladı"
+    }
+   ],
+   "mergedIds": [
+    "02db69cb2ceb"
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/511jpg-C0ZnFHsCLUmgutz_aoHRaA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/511jpg-C0ZnFHsCLUmgutz_aoHRaA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acdd454cc403fabc1556a0dpng-UTp0xUhi4kW9DHhB_JXekA.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acdd119cc403fabc152c5c9png-Lf1fvA7rpEapN45ZkrVDZw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/tedescosuperligemidonuyor6acdc193cc403fabc147bbb2png-IAR6Vk5ZeUWk9a5RsAhkKw.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "محمد علی اربیل دلیل شرکت نکردن در مراسم خاکسپاری مادرش را توضیح داد",
+   "summaryFa": "محمد علی اربیل ماه‌ها پس از درگذشت مادرش، دلیل غیبت خود در مراسم خاکسپاری او را بیان کرد. او همچنین درباره ناخشنودی‌های دیرینه‌اش و ناپدری‌اش اعترافاتی کرد.",
+   "bodyFa": [
+    "محمد علی اربیل، شومن مشهور، ماه‌ها پس از درگذشت مادرش «یورداگل ایکن» در سن ۹۱ سالگی در ماه آوریل گذشته، سکوت خود را شکست و دلیل عدم حضورش در مراسم خاکسپاری وی را فاش کرد.",
+    "او در جریان این اظهارات، از دلخوری‌ها و رنجش‌هایی که سال‌ها در درون خود نگه داشته بود سخن گفت و اعترافات جالب توجهی نیز درباره ناپدری خود مطرح ساخت."
+   ],
+   "comparison": {
+    "agree": [
+     "مادر محمد علی اربیل به نام یورداگل ایکن در ماه آوریل گذشته در سن ۹۱ سالگی درگذشته است.",
+     "محمد علی اربیل در مراسم خاکسپاری مادرش شرکت نکرده بود.",
+     "اربیل پس از گذشت ماه‌ها، دلیل عدم حضور خود را توضیح داده و درباره ناپدری‌اش و دلخوری‌های قدیمی‌اش اعترافاتی کرده است."
+    ],
+    "differ": [],
+    "unconfirmed": []
+   },
    "ai": true,
    "aiTries": 1
   },
@@ -2766,6 +2930,53 @@
    "bodyFa": [
     "زندگی مشترک Seda Sayan و Çağlar Ökten که در سال ۲۰۲۲ ازدواج کرده بودند، به خوبی جریان دارد. Sayan که همواره با زندگی خصوصی خود مورد توجه رسانه‌ها قرار دارد، اخیراً درباره جراحی‌های زیبایی به صحبت پرداخت.",
     "او که پیش‌تر نیز جراحی‌های مختلفی انجام داده است، اعلام کرد که عمل‌های زیبایی باید به صورت محدود انجام شوند. او در این باره اظهار داشت که نمی‌توان صورت را مانند کش تنبان کشید."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "dd3f98ae2281",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/usta-sanatci-nihat-ziyalan-hayatini-kaybetti-43338675",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Usta sanatçı Nihat Ziyalan hayatını kaybetti",
+   "snippet": "1960 ve 1970’li yıllarda Türk sinemasında canlandırdığı karakterlerle tanınan oyuncu, şair ve yazar Nihat Ziyalan, 90 yaşında hayatını kaybetti.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6accb2b293192880ef06c1a3.jpg",
+   "video": null,
+   "published": "2026-10-12T10:14:06.000Z",
+   "scope": "general",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/usta-sanatci-nihat-ziyalan-hayatini-kaybetti-43338675",
+     "title": "Usta sanatçı Nihat Ziyalan hayatını kaybetti",
+     "snippet": "1960 ve 1970’li yıllarda Türk sinemasında canlandırdığı karakterlerle tanınan oyuncu, şair ve yazar Nihat Ziyalan, 90 yaşında hayatını kaybetti.",
+     "published": "2026-10-12T10:14:06.000Z",
+     "titleFa": "استاد هنرمند نهات زیالان درگذشت"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6accb2b293192880ef06c1a3.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6accb2b293192880ef06c1a3.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "درگذشت نهات زیالان، بازیگر، شاعر و نویسنده",
+   "summaryFa": "نهات زیالان، بازیگر، شاعر و نویسنده که به خاطر نقش‌آفرینی‌هایش در سینمای ترکیه در دهه‌های ۱۹۶۰ و ۱۹۷۰ شناخته می‌شد، در سن ۹۰ سالگی درگذشت.",
+   "bodyFa": [
+    "نهات زیالان، هنرمند شناخته‌شده در عرصه بازیگری، شعر و نویسندگی، در سن ۹۰ سالگی چشم از جهان فروبست.",
+    "او در دهه‌های ۱۹۶۰ و ۱۹۷۰ میلادی با نقش‌آفرینی در فیلم‌های سینمای ترکیه به شهرت رسیده بود و در یادها ماندگار شد."
    ],
    "ai": true,
    "aiTries": 1
@@ -7929,44 +8140,6 @@
    "aiTries": 1
   },
   {
-   "id": "c544d891c681",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/eski-esi-ugur-haliloglu-sessizligini-bozdu-sezeni-kaybetmenin-tarifsiz-acisini-ve-sokunu-yasiyorum-43337284",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Eski eşi Uğur Haliloğlu sessizliğini bozdu: Sezen’i kaybetmenin tarifsiz acısını ve şokunu yaşıyorum",
-   "snippet": "Şarkıcı Atilla Taş'ın 14'üncü kattan düşerek hayatını kaybeden kızı Sezen Taş, Mersin'de düzenlenen cenaze töreninin ardından toprağa verildi. Acılı baba Atilla Taş gözyaşlarını tutamazken, Sezen Taş'ın eski eşi Uğur Haliloğlu, sosyal medyada hakkında çıkan iddialara yanıt verdi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acb2e9f93192880ef06b93b.jpg",
-   "video": null,
-   "published": "2026-10-11T06:37:00.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/eski-esi-ugur-haliloglu-sessizligini-bozdu-sezeni-kaybetmenin-tarifsiz-acisini-ve-sokunu-yasiyorum-43337284",
-     "title": "Eski eşi Uğur Haliloğlu sessizliğini bozdu: Sezen’i kaybetmenin tarifsiz acısını ve şokunu yaşıyorum",
-     "snippet": "Şarkıcı Atilla Taş'ın 14'üncü kattan düşerek hayatını kaybeden kızı Sezen Taş, Mersin'de düzenlenen cenaze töreninin ardından toprağa verildi. Acılı baba Atilla Taş gözyaşlarını tutamazken, Sezen Taş'ın eski eşi Uğur Haliloğlu, sosyal medyada hakkında çıkan iddialara yanıt verdi.",
-     "published": "2026-10-11T06:37:00.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6acb2e9f93192880ef06b93b.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6acb2e9f93192880ef06b93b.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "b081331c6fec",
    "url": "https://www.hurriyet.com.tr/kelebek/magazin/ya-anne-olamazsam-diye-agliyordu-2-yil-icinde-2nci-bebegini-kucagina-aldi-kalbim-yerinden-cikacak-43337283",
    "source": "hurriyet-kelebek",
@@ -9742,7 +9915,7 @@
      "title": "Survivor Serhan Onat ve Merve Küsmenoğlu evlendi! İşte nikahtan ilk kareler",
      "snippet": "HABER MERKEZİ - Survivor yarışmasıyla adını geniş kitlelere duyuran oyuncu Serhan Onat, kariyerinin yanı sıra özel hayatıyla da magazin gündeminde yer almaya devam ediyor.Dizilerin aranılan isimlerinden Onat, Survivor 2026'ya katılmadan önce uzun süredir aşk yaşadığı sevgilisi Merve Küsmenoğlu ile e",
      "published": "2026-10-10T17:17:16.000Z",
-     "titleFa": "سوروایو: سرهان اونات و مروه کوسمه‌اوغلو ازدواج کردند! این هم اولین تصاویر از مراسم عقد"
+     "titleFa": "سرحان اونات و مروه كوسمنوغلو از سورایور ازدواج کردند! این هم اولین تصاویر از مراسم ازدواج"
     },
     {
      "source": "sozcu-magazin",
@@ -9750,7 +9923,8 @@
      "url": "https://www.sozcu.com.tr/serhan-onat-sessiz-sedasiz-evlendi-surpriz-nikahtan-ilk-kareler-p368613",
      "title": "Serhan Onat sessiz sedasız evlendi: Sürpriz nikahtan ilk kareler",
      "snippet": "Survivor 2026 ile gündeme gelen oyuncu Serhan Onat, uzun süredir birlikte olduğu Merve Küsmenoğlu ile evlendi. Çiftin ni...",
-     "published": "2026-10-13T05:43:27.000Z"
+     "published": "2026-10-13T05:43:27.000Z",
+     "titleFa": "سرحان اونات بی‌سروصدا ازدواج کرد: اولین تصاویر از مراسم ازدواج غافلگیرکننده"
     }
    ],
    "images": [
@@ -9762,18 +9936,39 @@
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
    "mediaDone": true,
-   "titleFa": "سرهان اونات، بازیگر و شرکت‌کننده سوروایو، با مروه کوسمه‌اوغلو ازدواج کرد",
-   "summaryFa": "سرهان اونات پیش از حضور در مسابقه سوروایو ۲۰۲۶ با نامزد خود ازدواج کرد. تصاویر این مراسم خانوادگی و ساده توسط بستمسو اوزدمیر در شبکه‌های اجتماعی منتشر شد.",
+   "titleFa": "سرحان اونات و مروه كوسمنوغلو ازدواج کردند",
+   "summaryFa": "بازیگر سریال‌ها و شرکت‌کننده سورایور ۲۰۲۶، سرحان اونات، در مراسمی ساده با مروه كوسمنوغلو ازدواج کرد. تصاویر این مراسم توسط بستمسو اوزدمیر در شبکه‌های اجتماعی منتشر شد.",
    "bodyFa": [
-    "سرهان اونات، بازیگر شناخته‌شده و یکی از شرکت‌کنندگان مسابقه سوروایو ۲۰۲۶، زندگی مشترک خود را آغاز کرد. او با شریک زندگی خود، مروه کوسمه‌اوغلو، که مدت‌ها با او در رابطه بود، پیمان زناشویی بست.",
-    "این مراسم ازدواج به شکلی ساده و در جمع خانواده برگزار شد. نخستین تصاویر و قاب‌های مربوط به این مراسم توسط بستمسو اوزدمیر در فضای مجازی به اشتراک گذاشته شد تا خبر این رویداد به دست مخاطبان برسد."
+    "سرحان اونات، بازیگر شناخته شده که نامش با مسابقه سورایور ۲۰۲۶ و حضور در سریال‌های مختلف مطرح است، زندگی مشترک خود را آغاز کرد. او با نامزد خود، مروه كوسمنوغلو، که مدت‌ها با او در رابطه بود، پیمان زناشویی بست.",
+    "این زوج مراسم ازدواج خود را به صورت ساده و در جمع خانوادگی برگزار کردند. خبر این ازدواج و تصاویر اولیه آن پس از آن رسانه‌ای شد که بستمسو اوزدمیر تصاویری از مراسم را در فضای مجازی به اشتراک گذاشت."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "0b0d461db2e6"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "سرحان اونات و مروه كوسمنوغلو ازدواج کردند.",
+     "بستمسو اوزدمیر تصاویری از مراسم ازدواج را به اشتراک گذاشته است."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات نقش بستمسو اوزدمیر در مراسم",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "اولین تصاویر از مراسم ازدواج را در شبکه‌های اجتماعی به اشتراک گذاشت."
+       },
+       {
+        "source": "sozcu-magazin",
+        "text": "به عنوان شاهد در مراسم ازدواج این زوج حضور داشت و تصاویر را منتشر کرد."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   }
   },
   {
    "id": "a5087a46a64b",
@@ -10319,7 +10514,8 @@
      "snippet": "Yeni Parti Genel Başkanı Özgür Özel, kızını kaybeden şarkıcı Atilla Taş'ı ziyaret ederek, başsağlığı dileklerini iletti",
      "published": "2026-10-10T12:22:59.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "a1c790e0a330",
@@ -11323,7 +11519,16 @@
      "snippet": "DENİZ Akkaya’nın kızını yaraladığı davada karar çıktı. 27 Mayıs 2024’te yaşanan olayda Akkaya kızının saldırısına uğradığını ifade etmişti.",
      "published": "2026-10-10T05:56:57.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9d3a58562bad6a4dfdda3.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac9d3a58562bad6a4dfdda3.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true
   },
   {
    "id": "c695b335baac",
