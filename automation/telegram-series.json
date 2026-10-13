@@ -4,7 +4,15 @@
       "seriesSlug": "tuzlu-kahve",
       "channel": "@ghahvehshoor",
       "enabled": true,
-      "maxPerRun": 8
+      "maxPerRun": 3,
+      "dailyMinimum": 5,
+      "dailyHours": [
+        9,
+        12,
+        15,
+        18,
+        21
+      ]
     }
   ]
 }
