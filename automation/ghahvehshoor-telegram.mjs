@@ -10,7 +10,7 @@ const config=JSON.parse(await readFile(new URL('automation/telegram-series.json'
 const series=JSON.parse(await readFile(new URL('series.json',data),'utf8'));
 const news=JSON.parse(await readFile(new URL('news.json',data),'utf8'));
 const esc=s=>String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-const strip=s=>String(s||'').replace(/<[^>]*>/g,' ').replace(/\\s+/g,' ').trim();
+const strip=s=>String(s||'').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();
 function meta(html,key){let m=html.match(new RegExp('<meta\\s+(?:property|name)="'+key+'"\\s+content="([^"]*)"','i'));return (m?.[1]||'').replace(/&amp;/g,'&').replace(/&quot;/g,'"');}
 async function telegram(method,body){
  const res=await fetch('https://api.telegram.org/bot'+token+'/'+method,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(30000)});
@@ -37,7 +37,7 @@ for(const cfg of config.channels||[]){
    try{
     const html=await readFile(new URL(entry.name+'/index.html',folder),'utf8');
     if(!html.includes('pavaraghi-text'))continue;
-    items.push({id:'pavaraghi:'+entry.name,date:'',label:entry.name.startsWith('original-')?'📖 پاورقی نسخه اصلی':'📺 پاورقی دوبله فارسی',title:meta(html,'og:title').replace(/\\s*\\|\\s*مشکی.مدیا.*$/,'')||record.titleFa,summary:meta(html,'og:description'),image:meta(html,'og:image')||record.hero,url:base+'/pavaraghi/'+slug+'/'+encodeURIComponent(entry.name)+'/'});
+    items.push({id:'pavaraghi:'+entry.name,date:'',label:entry.name.startsWith('original-')?'📖 پاورقی نسخه اصلی':'📺 پاورقی دوبله فارسی',title:meta(html,'og:title').replace(/\s*\|\s*مشکی.مدیا.*$/,'')||record.titleFa,summary:meta(html,'og:description'),image:meta(html,'og:image')||record.hero,url:base+'/pavaraghi/'+slug+'/'+encodeURIComponent(entry.name)+'/'});
    }catch{}
   }
  }catch{}
@@ -46,7 +46,7 @@ for(const cfg of config.channels||[]){
  let state=null;try{state=JSON.parse(await readFile(stateUrl,'utf8'));}catch{}
  if(!state||!Array.isArray(state.posted)){
   console.log(slug+': first run, seed '+entries.length+' existing entries; post none.');
-  if(!dry)await writeFile(stateUrl,JSON.stringify({posted:entries.map(x=>x.id),updated:new Date().toISOString()},null,2)+'\\n');
+  if(!dry)await writeFile(stateUrl,JSON.stringify({posted:entries.map(x=>x.id),updated:new Date().toISOString()},null,2)+'\n');
   continue;
  }
  if(!token&&!dry){console.log(slug+': missing bot secret, no posts.');continue;}
@@ -55,15 +55,15 @@ for(const cfg of config.channels||[]){
  for(const item of fresh){
   const summary=strip(item.summary).slice(0,420);
   const title=strip(item.title).slice(0,180);
-  const caption=item.label+' | '+esc(record.titleFa)+'\\n\\n<b>'+esc(title)+'</b>\\n\\n'+esc(summary)+'\\n\\n🔗 <a href="'+esc(item.url)+'">مطالعه کامل در مشکی‌مدیا</a>\\n\\n#'+record.titleFa.replace(/\\s+/g,'_');
+  const caption=item.label+' | '+esc(record.titleFa)+'\n\n<b>'+esc(title)+'</b>\\n\\n'+esc(summary)+'\n\n🔗 <a href="'+esc(item.url)+'">مطالعه کامل در مشکی‌مدیا</a>\\n\\n#'+record.titleFa.replace(/\s+/g,'_');
   if(dry){console.log(slug,item.id,item.url);continue;}
   try{
    let result=null;
-   if(/^https:\\/\\//.test(item.image||''))result=await telegram('sendPhoto',{chat_id:channel,photo:item.image,caption,parse_mode:'HTML'});
+   if(/^https:\/\//.test(item.image||''))result=await telegram('sendPhoto',{chat_id:channel,photo:item.image,caption,parse_mode:'HTML'});
    if(!result?.ok)result=await telegram('sendMessage',{chat_id:channel,text:caption,parse_mode:'HTML',link_preview_options:{is_disabled:false}});
    if(!result?.ok){console.error(slug,item.id,result?.description||'Telegram failed');break;}
    state.posted.push(item.id);
-   await writeFile(stateUrl,JSON.stringify({posted:state.posted,updated:new Date().toISOString()},null,2)+'\\n');
+   await writeFile(stateUrl,JSON.stringify({posted:state.posted,updated:new Date().toISOString()},null,2)+'\n');
    console.log(slug+' sent '+item.id);
    await new Promise(resolve=>setTimeout(resolve,1800));
   }catch(error){console.error(slug,item.id,error.message);break;}
