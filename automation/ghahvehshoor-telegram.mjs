@@ -55,7 +55,8 @@ for(const cfg of config.channels||[]){
  for(const item of fresh){
   const summary=strip(item.summary).slice(0,420);
   const title=strip(item.title).slice(0,180);
-  const caption=[item.label+' | '+esc(record.titleFa),'<b>'+esc(title)+'</b>',esc(summary),'🔗 <a href="'+esc(item.url)+'">مطالعه کامل در مشکی‌مدیا</a>','#'+record.titleFa.replace(/\s+/g,'_')].join('\n\n');
+  const joinUrl='https://t.me/'+channel.slice(1);
+  const caption=[item.label+' | '+esc(record.titleFa),'<b>'+esc(title)+'</b>',esc(summary),'🔗 <a href="'+esc(item.url)+'">مطالعه کامل در مشکی‌مدیا</a>','☕️ <a href="'+esc(joinUrl)+'">عضویت در کانال اختصاصی '+esc(record.titleFa)+'</a> · این پست را با علاقه‌مندان سریال به اشتراک بگذارید.','#'+record.titleFa.replace(/\s+/g,'_')].join('\n\n');
   if(dry){console.log(slug,item.id,item.url);continue;}
   try{
    let result=null;
