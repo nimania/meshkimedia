@@ -2,6 +2,7 @@
 // On first run, seed the existing archive without sending a flood of old posts.
 import {readFile,writeFile,readdir,rename} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
+import {getOfficialChannelVideos} from './series-youtube.mjs';
 const root=new URL('../github-pages/',import.meta.url);
 const data=new URL('data/',root);
 const base='https://nimania.github.io/meshkimedia';
@@ -88,6 +89,38 @@ for(const cfg of config.channels||[]){
  }
  if(cfg.resumeFromTehran&&today<cfg.resumeFromTehran){console.log(slug+': publishing held until '+cfg.resumeFromTehran+' Tehran date.');continue;}
  if(!token&&!dry){console.log(slug+': missing bot secret, no posts.');continue;}
+ // Monitor verified, official series channel. On first successful check,
+ // register all existing uploads without posting them. Never backfill blindly.
+ const freshVideos=[];
+ if(cfg.youtubeHandle){
+  try{
+   const {channelId,videos}=await getOfficialChannelVideos({
+    handle:cfg.youtubeHandle,channelId:cfg.youtubeChannelId||state.youtubeChannelId
+   });
+   if(state.youtubeChannelId&&state.youtubeChannelId!==channelId)throw new Error('Official channel changed; manual review required');
+   state.youtubeChannelId=channelId;
+   if(!Array.isArray(state.youtubeSeen)){
+    state.youtubeSeen=videos.map(x=>x.id);
+    state.updated=new Date().toISOString();
+    if(!dry)await saveState(stateUrl,state);
+    console.log(slug+': YouTube initialized; registered '+videos.length+' eligible existing videos without posting.');
+   }else{
+    const known=new Set([...state.youtubeSeen,...state.posted.filter(x=>x.startsWith('youtube:')).map(x=>x.slice(8))]);
+    const now=Date.now();
+    for(const v of videos){
+     const age=now-Date.parse(v.published);
+     if(known.has(v.id)||age<0||age>36*60*60*1000)continue;
+     freshVideos.push({
+      id:'youtube:'+v.id,platform:'youtube',type:v.kind,
+      label:v.label,title:v.title,summary:v.description,
+      url:v.videoUrl,image:v.thumbnail,date:v.published,
+      subject:'youtube:'+v.id,videoId:v.id
+     });
+    }
+    console.log(slug+': '+freshVideos.length+' fresh eligible official YouTube video(s).');
+   }
+  }catch(error){console.warn(slug+': YouTube source unavailable; no speculative videos posted: '+error.message);}
+ }
  const seen=new Set(state.posted);
  const seenHashes=new Set(state.contentHashes||[]);
  const subjects=state.lastSubjects||{};
@@ -106,20 +139,36 @@ for(const cfg of config.channels||[]){
   const recent=items.filter(x=>!seen.has(x.id)&&!seenHashes.has(hash(x.summary))&&strip(x.summary).length>45);
   selected=recent.find(x=>x.id.startsWith('news:'))||recent[0]||null;
  }
+ // A new official trailer takes precedence over routine posts, followed by recent
+ // verified news. Videos have a separate two-per-day cap to avoid short-clip floods.
+ const youtubeDaily=(state.youtubePostedDates||[]).filter(d=>d===today).length;
+ if(freshVideos.length&&youtubeDaily<Number(cfg.youtubeMaxPerDay||2)){
+  const pri={trailer:0,'behind-scenes':1,interview:2,episode:3};
+  freshVideos.sort((a,b)=>(pri[a.type]??9)-(pri[b.type]??9)||b.date.localeCompare(a.date));
+  selected=freshVideos[0];
+ }else if(!selected){
+  const newsFresh=items.filter(x=>x.id.startsWith('news:')&&!seen.has(x.id)&&!seenHashes.has(hash(x.summary))&&x.date&&Date.now()-Date.parse(x.date)<24*60*60*1000);
+  if(newsFresh.length)selected=newsFresh.sort((a,b)=>b.date.localeCompare(a.date))[0];
+ }
  const fresh=selected?[selected]:[];
  console.log(slug+': '+fresh.length+' unique item(s) selected; '+pending.length+' unused editorial subjects.');
  for(const item of fresh){
   const summary=strip(item.summary).slice(0,420);
   const title=strip(item.title).slice(0,180);
   const joinUrl='https://t.me/'+channel.slice(1);
-  const caption=[item.label+' | '+esc(record.titleFa),'<b>'+esc(title)+'</b>',esc(summary),'🔗 <a href="'+esc(item.url)+'">مطالعه کامل در مشکی‌مدیا</a>','☕️ <a href="'+esc(joinUrl)+'">عضویت در کانال اختصاصی '+esc(record.titleFa)+'</a> · این پست را با علاقه‌مندان سریال به اشتراک بگذارید.','#'+record.titleFa.replace(/\s+/g,'_')].join('\n\n');
+  const action=item.platform==='youtube'
+   ? '▶️ <a href="'+esc(item.url)+'">تماشای ویدئو در کانال رسمی یوتیوب</a>'
+   : '🔗 <a href="'+esc(item.url)+'">مطالعه کامل در مشکی‌مدیا</a>';
+  const siteLink=item.platform==='youtube'?'📚 <a href="'+base+'/dizi/'+slug+'/">صفحهٔ سریال در مشکی‌مدیا</a>':'';
+  const caption=[item.label+' | '+esc(record.titleFa),'<b>'+esc(title)+'</b>',esc(summary),action,siteLink,'📣 <a href="'+esc(joinUrl)+'">عضویت در کانال اختصاصی '+esc(record.titleFa)+'</a> · این پست را با علاقه‌مندان سریال به اشتراک بگذارید.','#'+record.titleFa.replace(/\s+/g,'_')].filter(Boolean).join('\n\n');
   if(dry){console.log(slug,item.id,item.url);continue;}
   try{
    let result=null;
-   if(/^https:\/\//.test(item.image||''))result=await telegram('sendPhoto',{chat_id:channel,photo:item.image,caption,parse_mode:'HTML'});
+   if(item.platform!=='youtube'&&/^https:\/\//.test(item.image||''))result=await telegram('sendPhoto',{chat_id:channel,photo:item.image,caption,parse_mode:'HTML'});
    if(!result?.ok)result=await telegram('sendMessage',{chat_id:channel,text:caption,parse_mode:'HTML',link_preview_options:{is_disabled:false}});
    if(!result?.ok){console.error(slug,item.id,result?.description||'Telegram failed');break;}
    state.posted.push(item.id);
+   if(item.videoId){state.youtubeSeen=[...(state.youtubeSeen||[]),item.videoId].slice(-5000);state.youtubePostedDates=[...(state.youtubePostedDates||[]),today].slice(-60);}
    if(item.slotKey)state.posted.push(item.slotKey);
    state.contentHashes=[...(state.contentHashes||[]),hash(item.summary)].slice(-5000);
    state.lastSubjects={...(state.lastSubjects||{}),...(item.subject?{[item.subject]:today}:{})};
