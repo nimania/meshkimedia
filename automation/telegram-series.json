@@ -1,0 +1,10 @@
+{
+  "channels": [
+    {
+      "seriesSlug": "tuzlu-kahve",
+      "channel": "@ghahvehshoor",
+      "enabled": true,
+      "maxPerRun": 8
+    }
+  ]
+}
