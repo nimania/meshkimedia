@@ -3,6 +3,7 @@
 import {readFile,writeFile,readdir,rename} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {getOfficialChannelVideos} from './series-youtube.mjs';
+import {chooseEngagement,reservedEngagementSlot} from './series-engagement.mjs';
 const root=new URL('../github-pages/',import.meta.url);
 const data=new URL('data/',root);
 const base='https://nimania.github.io/meshkimedia';
@@ -132,9 +133,10 @@ for(const cfg of config.channels||[]){
  const subjects=state.lastSubjects||{};
  const pending=editorial.filter(x=>!seen.has(x.id)&&!seenHashes.has(hash(x.summary)));
  const types=['recap','actor','detail','question','recap'];
+ const reservedSlot=reservedEngagementSlot(cfg);
  let selected=null;
  for(let slot=0;slot<slots.length;slot++){
-  if(hour<Number(slots[slot])||seen.has('slot:'+today+':'+slot))continue;
+  if(slot===reservedSlot||hour<Number(slots[slot])||seen.has('slot:'+today+':'+slot))continue;
   const cooldown=Math.max(1,Math.min(14,Number(cfg.topicCooldownDays||3)));
   const pool=pending.filter(x=>!subjects[x.subject]||(Date.parse(today)-Date.parse(subjects[x.subject]))/86400000>=cooldown);
   const preferred=types[slot%types.length];
@@ -156,6 +158,10 @@ for(const cfg of config.channels||[]){
   const newsFresh=items.filter(x=>x.id.startsWith('news:')&&!seen.has(x.id)&&!seenHashes.has(hash(x.summary))&&x.date&&Date.now()-Date.parse(x.date)<24*60*60*1000);
   if(newsFresh.length)selected=newsFresh.sort((a,b)=>b.date.localeCompare(a.date))[0];
  }
+ // An interaction replaces the regular 18:00 slot on four days each week.
+ // Fresh official YouTube alerts remain separate and can be sent in another hourly run.
+ const engagement=chooseEngagement(record,cfg,state);
+ if(engagement&&selected?.platform!=='youtube')selected=engagement;
  const fresh=selected?[selected]:[];
  console.log(slug+': '+fresh.length+' unique item(s) selected; '+pending.length+' unused editorial subjects.');
  for(const item of fresh){
@@ -167,16 +173,34 @@ for(const cfg of config.channels||[]){
    : '🔗 <a href="'+esc(item.url)+'">مطالعه کامل در مشکی‌مدیا</a>';
   const siteLink=item.platform==='youtube'?'📚 <a href="'+base+'/dizi/'+slug+'/">صفحهٔ سریال در مشکی‌مدیا</a>':'';
   const caption=[item.label+' | '+esc(record.titleFa),'<b>'+esc(title)+'</b>',esc(summary),action,siteLink,'📣 <a href="'+esc(joinUrl)+'">عضویت در کانال اختصاصی '+esc(record.titleFa)+'</a> · این پست را با علاقه‌مندان سریال به اشتراک بگذارید.','#'+record.titleFa.replace(/\s+/g,'_')].filter(Boolean).join('\n\n');
-  if(dry){console.log(slug,item.id,item.url);continue;}
+  if(dry){console.log(slug,item.id,item.url||item.question);continue;}
   try{
    let result=null;
-   if(item.platform!=='youtube'&&/^https:\/\//.test(item.image||''))result=await telegram('sendPhoto',{chat_id:channel,photo:item.image,caption,parse_mode:'HTML'});
-   if(!result?.ok)result=await telegram('sendMessage',{chat_id:channel,text:caption,parse_mode:'HTML',link_preview_options:{is_disabled:false}});
+   if(item.kind==='engagement'){
+    const body={chat_id:channel,question:item.question,options:item.options,
+     type:item.pollType,is_anonymous:true};
+    if(item.pollType==='quiz'){
+     body.correct_option_ids=item.correct_option_ids;
+     body.explanation=item.explanation;
+    }else{
+     body.allows_multiple_answers=false;
+    }
+    result=await telegram('sendPoll',body);
+   }
+   if(!result&&item.platform!=='youtube'&&/^https:\/\//.test(item.image||''))result=await telegram('sendPhoto',{chat_id:channel,photo:item.image,caption,parse_mode:'HTML'});
+   if(!result?.ok&&item.kind!=='engagement')result=await telegram('sendMessage',{chat_id:channel,text:caption,parse_mode:'HTML',link_preview_options:{is_disabled:false}});
    if(!result?.ok){console.error(slug,item.id,result?.description||'Telegram failed');break;}
    state.posted.push(item.id);
+   if(item.kind==='engagement'){
+    state.posted.push('engagement-day:'+today);
+    state.engagementReceipts={...(state.engagementReceipts||{}),[item.id]:{
+     message_id:result.result?.message_id,poll_id:result.result?.poll?.id||null,
+     date:today,channel,url:'https://t.me/'+channel.slice(1)+'/'+result.result?.message_id
+    }};
+   }
    if(item.videoId){state.youtubeSeen=[...(state.youtubeSeen||[]),item.videoId].slice(-5000);if(item.videoSource&&state.youtubeSources?.[item.videoSource])state.youtubeSources[item.videoSource].seen=[...(state.youtubeSources[item.videoSource].seen||[]),item.videoId].slice(-5000);state.youtubePostedDates=[...(state.youtubePostedDates||[]),today].slice(-60);}
    if(item.slotKey)state.posted.push(item.slotKey);
-   state.contentHashes=[...(state.contentHashes||[]),hash(item.summary)].slice(-5000);
+   if(item.kind!=='engagement')state.contentHashes=[...(state.contentHashes||[]),hash(item.summary)].slice(-5000);
    state.lastSubjects={...(state.lastSubjects||{}),...(item.subject?{[item.subject]:today}:{})};
    state.updated=new Date().toISOString();
    await saveState(stateUrl,state);
