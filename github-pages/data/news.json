@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T12:48:19.025Z",
+ "updated": "2026-10-13T12:59:59.298Z",
  "items": [
   {
    "id": "354991d1c476",
@@ -13,7 +13,7 @@
    "video": null,
    "published": "2026-10-13T12:36:30.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -26,7 +26,8 @@
      "url": "https://www.sozcu.com.tr/masterchef-sampiyonu-dukkanini-kapatma-karari-aldi-nedeni-belli-oldu-p368781",
      "title": "MasterChef şampiyonu dükkanını kapatma kararı aldı: Nedeni belli oldu",
      "snippet": "MasterChef şampiyonu Esra Tokelli, Maslak'ta açtığı restoranıyla ilgili kapatma kararını duyurdu. Bir süre müşterilerine...",
-     "published": "2026-10-13T12:36:30.000Z"
+     "published": "2026-10-13T12:36:30.000Z",
+     "titleFa": "قهرمان مسترچف تصمیم به تعطیلی دکان خود گرفت: دلیل آن مشخص شد"
     }
    ],
    "images": [
@@ -37,7 +38,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/masterchef-sampiyonu-dukkanini-kapatma-karari-aldi-nedeni-belli-olduujpg-vASf8DGKsEmiyI0da-2jaw.jpg",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/masterchef-esra-sampiyon-dukkani-kapattijpg-Fjf9gfV-s0yzpspG-k4jxA.jpg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "قهرمان مسترچف تصمیم به تعطیلی رستوران خود گرفت: دلیل آن مشخص شد",
+   "summaryFa": "اسرا توکلی، قهرمان مسابقات مسترچف، از تصمیم خود برای بستن موقت رستورانش در ماسلاک خبر داد. او دلیل این تصمیم را مسائل خانوادگی عنوان کرد و از طرف دنبال‌کنندگانش پیام‌های حمایتی دریافت کرد.",
+   "bodyFa": [
+    "اسرا توکلی که عنوان قهرمانی مسابقات مسترچف را در کارنامه دارد، اعلام کرد که رستوران تاسیس‌شده خود در منطقه ماسلاک را موقتاً تعطیل خواهد کرد.",
+    "او در زمان اعلام این تصمیم، دلیل بستن رستوران را به مسائل خانوادگی نسبت داد و پس از انتشار این خبر، پیام‌های حمایتی متعددی از سوی هواداران و دنبال‌کنندگان خود دریافت کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "e8c846b7b686",
@@ -1127,6 +1136,44 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "c4a231da0794",
+   "url": "https://www.sabah.com.tr/magazin/sikayeti-yoktu-kontrolde-ortaya-cikti-cenk-erenin-saglik-durumu-doktorlari-saskina-cevirdi-buraya-nasil-geldin-7679574",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Şikayeti yoktu, kontrolde ortaya çıktı! Cenk Eren’in sağlık durumu doktorları şaşkına çevirdi: \"Buraya nasıl geldin?\"",
+   "snippet": "Yıllardır sahnelerdeki performansıyla adından söz ettiren ünlü sanatçı Cenk Eren, bu kez sevenlerinin karşısına bambaşka bir haberle çıktı. Yakın dostu acı kaybının ardından rutin bir sağlık kontrolünden... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/efeaf9/1200/675/0/0/724/407?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/sikayeti-yoktu-kontrolde-ortaya-cikti-cenk-erenin-saglik-durumu-doktorlari-saskina-cevirdi-buraya-nasil-geldin-1791878471322.jpg",
+   "video": null,
+   "published": "2026-10-13T08:06:01.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/sikayeti-yoktu-kontrolde-ortaya-cikti-cenk-erenin-saglik-durumu-doktorlari-saskina-cevirdi-buraya-nasil-geldin-7679574",
+     "title": "Şikayeti yoktu, kontrolde ortaya çıktı! Cenk Eren’in sağlık durumu doktorları şaşkına çevirdi: \"Buraya nasıl geldin?\"",
+     "snippet": "Yıllardır sahnelerdeki performansıyla adından söz ettiren ünlü sanatçı Cenk Eren, bu kez sevenlerinin karşısına bambaşka bir haberle çıktı. Yakın dostu acı kaybının ardından rutin bir sağlık kontrolünden... Devamı için tıklayınız",
+     "published": "2026-10-13T08:06:01.000Z"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/efeaf9/1200/675/0/0/724/407?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/sikayeti-yoktu-kontrolde-ortaya-cikti-cenk-erenin-saglik-durumu-doktorlari-saskina-cevirdi-buraya-nasil-geldin-1791878471322.jpg",
+    "https://iasbh.tmgrup.com.tr/8573f2/752/395/0/0/724/380?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/sikayeti-yoktu-kontrolde-ortaya-cikti-cenk-erenin-saglik-durumu-doktorlari-saskina-cevirdi-buraya-nasil-geldin-1791878471322.jpg",
+    "https://iasbh.tmgrup.com.tr/27e31f/210/210/257/0/693/436?u=https://isbh.tmgrup.com.tr/sbh/2026/09/25/kadir-inanirin-vasiyeti-sonrasi-cenk-erenden-dikkat-ceken-aciklama-metin-arolattan-sonra-yazdim-1790321460216.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "aebbf3c649bc",
@@ -2808,6 +2855,44 @@
    "aiTries": 1
   },
   {
+   "id": "c76eb8cb5903",
+   "url": "https://www.sozcu.com.tr/onur-buyuktopcu-dan-annesiyle-ilgili-yurek-burkan-itiraf-eski-gunlerimizi-ariyoruz-p368531",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Onur Büyüktopçu'dan annesiyle ilgili yürek burkan itiraf: Eski günlerimizi arıyoruz",
+   "snippet": "“Kiralık Aşk” dizisinde canlandırdığı Koriş karakteriyle tanınan oyuncu Onur Büyüktopçu, annesi Ayşe Hanım’ın sağlık dur...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/haberjpg-MqYvqOQgi06F9km3BpLsyQ.jpg",
+   "video": null,
+   "published": "2026-10-12T18:46:41.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/onur-buyuktopcu-dan-annesiyle-ilgili-yurek-burkan-itiraf-eski-gunlerimizi-ariyoruz-p368531",
+     "title": "Onur Büyüktopçu'dan annesiyle ilgili yürek burkan itiraf: Eski günlerimizi arıyoruz",
+     "snippet": "“Kiralık Aşk” dizisinde canlandırdığı Koriş karakteriyle tanınan oyuncu Onur Büyüktopçu, annesi Ayşe Hanım’ın sağlık dur...",
+     "published": "2026-10-12T18:46:41.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/haberjpg-MqYvqOQgi06F9km3BpLsyQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/haberjpg-MqYvqOQgi06F9km3BpLsyQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ace1075cc403fabc1b4763fpng-rkDnnF2nGkCfZp2zgv6H6Q.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ace06bdcc403fabc1adef90png-gPZMZdN8QkG5wVEYJqjapQ.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ace02c3cc403fabc1a626dbpng-9VaCuBPUrUeEO2W-Vnk_MQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "1f70f07fc346",
    "url": "https://www.hurriyet.com.tr/kelebek/magazin/bosanip-dost-kalmanin-boylesi-eski-karisini-evlendirdi-43338667",
    "source": "hurriyet-kelebek",
@@ -3677,6 +3762,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "3e1c35cbdb7a",
+   "url": "https://www.sozcu.com.tr/hic-belirti-vermemisti-cenk-eren-in-kalbine-neden-stent-takildigi-ortaya-cikti-p368446",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Hiç belirti vermemişti: Cenk Eren'in kalbine neden stent takıldığı ortaya çıktı",
+   "snippet": "Şarkıcı Cenk Eren, katıldığı bir programda geçmişte yaşadığı kalp rahatsızlığını anlattı. Metin Arolat'ın hayatını kaybe...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/444jpg-KGnxlwVtn0OiL8oUPwnNBA.jpg",
+   "video": null,
+   "published": "2026-10-12T12:18:02.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/hic-belirti-vermemisti-cenk-eren-in-kalbine-neden-stent-takildigi-ortaya-cikti-p368446",
+     "title": "Hiç belirti vermemişti: Cenk Eren'in kalbine neden stent takıldığı ortaya çıktı",
+     "snippet": "Şarkıcı Cenk Eren, katıldığı bir programda geçmişte yaşadığı kalp rahatsızlığını anlattı. Metin Arolat'ın hayatını kaybe...",
+     "published": "2026-10-12T12:18:02.000Z"
+    }
+   ]
   },
   {
    "id": "ee534ce81f30",
@@ -5060,6 +5174,35 @@
    "aiTries": 1
   },
   {
+   "id": "901e55c511be",
+   "url": "https://www.sozcu.com.tr/onur-buyuktopcu-yu-uzen-haber-annesi-tam-rahata-erdigi-yasta-hastaliga-yakalandi-p368330",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Onur Büyüktopçu'yu üzen haber: Annesi tam rahata erdiği yaşta hastalığa yakalandı",
+   "snippet": "Fenomen sunucu ve oyuncu Onur Büyüktopçu, annesi Ayşe Hanım'ın sağlık durumuyla ilgili yaptığı açıklamayla üzücü haberi ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/812jpg-VS6oiF8b7EixZuQ3ZSP6xQ.jpg",
+   "video": null,
+   "published": "2026-10-12T07:30:12.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/onur-buyuktopcu-yu-uzen-haber-annesi-tam-rahata-erdigi-yasta-hastaliga-yakalandi-p368330",
+     "title": "Onur Büyüktopçu'yu üzen haber: Annesi tam rahata erdiği yaşta hastalığa yakalandı",
+     "snippet": "Fenomen sunucu ve oyuncu Onur Büyüktopçu, annesi Ayşe Hanım'ın sağlık durumuyla ilgili yaptığı açıklamayla üzücü haberi ...",
+     "published": "2026-10-12T07:30:12.000Z"
+    }
+   ]
+  },
+  {
    "id": "24ebef35d59d",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/haysiyetin-enderi-cok-sevilecek-43338358",
    "source": "hurriyet-kelebek",
@@ -5204,6 +5347,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "34ee261564d5",
+   "url": "https://www.sozcu.com.tr/unlu-oyuncu-soyuldu-az-kalsin-canindan-oluyordu-p368317",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Ünlü oyuncu soyuldu: Az kalsın canından oluyordu",
+   "snippet": "Pretty Little Liars dizisiyle tanınan Keegan Allen, Los Angeles'ta iki maskeli saldırganın hedefi oldu. Silah ve bıçakla...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/unlu-oyuncu-soyuldu-az-kalsin-canindan-oluyordujpg-NXE_UE3OMUKkETuoae_M7w.jpg",
+   "video": null,
+   "published": "2026-10-12T07:12:07.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/unlu-oyuncu-soyuldu-az-kalsin-canindan-oluyordu-p368317",
+     "title": "Ünlü oyuncu soyuldu: Az kalsın canından oluyordu",
+     "snippet": "Pretty Little Liars dizisiyle tanınan Keegan Allen, Los Angeles'ta iki maskeli saldırganın hedefi oldu. Silah ve bıçakla...",
+     "published": "2026-10-12T07:12:07.000Z"
+    }
+   ]
   },
   {
    "id": "dd1fdc9ec2a9",
@@ -11820,53 +11992,6 @@
    "aiTries": 1
   },
   {
-   "id": "ae0ef85dfd06",
-   "url": "https://www.sabah.com.tr/magazin/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-7677681",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Onur Tuna ve Yasemin Yazıcı cephesinde flaş gelişme! Evlilik sorularına bakın ne yanıt geldi",
-   "snippet": "Ünlü oyuncu Onur Tuna ve sevgilisi Yasemin Yazıcı'nın ilişkisinde beklenmedik bir gelişme yaşanıyor! Dolu dizgin aşklarıyla bilinen çift, şimdi herkesi şaşırtan yeni bir aşamada mı? İşte Yazıcı'nın \"evlilik\"... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/eda10a/1200/675/0/700/1638/1622?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-1791621915750.jpg",
-   "video": null,
-   "published": "2026-10-10T08:47:45.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-7677681",
-     "title": "Onur Tuna ve Yasemin Yazıcı cephesinde flaş gelişme! Evlilik sorularına bakın ne yanıt geldi",
-     "snippet": "Ünlü oyuncu Onur Tuna ve sevgilisi Yasemin Yazıcı'nın ilişkisinde beklenmedik bir gelişme yaşanıyor! Dolu dizgin aşklarıyla bilinen çift, şimdi herkesi şaşırtan yeni bir aşamada mı? İşte Yazıcı'nın \"evlilik\"... Devamı için tıklayınız",
-     "published": "2026-10-10T08:47:45.000Z",
-     "titleFa": "تحول مهم در جبهه اونور تونا و یاسمین یازیجی! ببینید چه پاسخی به سوالات ازدواج داده شد"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/eda10a/1200/675/0/700/1638/1622?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-1791621915750.jpg",
-    "https://iasbh.tmgrup.com.tr/9782eb/752/395/0/729/1638/1589?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-1791621915750.jpg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
-    "https://isbh.tmgrup.com.tr/sbh/2026/10/10/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-1791622021017.jpg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "تحولات جدید در رابطه اونور تونا و یاسمین یازیجی و پاسخ به سوالات ازدواج",
-   "summaryFa": "بازیگر مشهور اونور تونا و شریک زندگی‌اش یاسمین یازیجی با تحولاتی در رابطه خود روبرو شده‌اند. یاسیجی در آخرین مصاحبه خود به سوالات درباره ازدواج پاسخ داده است.",
-   "bodyFa": [
-    "در رابطه میان بازیگر معروف اونور تونا و دوست‌دخترش یاسمین یازیجی، تحولات غیرمنتظره‌ای رخ داده است. این زوج که به خاطر رابطه پرشورشان شناخته می‌شوند، اکنون وارد مرحله جدیدی شده‌اند که توجه مخاطبان را به خود جلب کرده است.",
-    "یاسمین یازیجی در تازه‌ترین مصاحبه خود به سوالات مطرح شده درباره موضوع ازدواج پاسخ داده است. جزئیات بیشتر درباره این پاسخ و وضعیت جدید رابطه این زوج در ادامه گزارش آمده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
    "id": "0ff92b852d08",
    "url": "https://www.aa.com.tr/tr/kultur/mavi-medresenin-dijital-ikizi-olusturuldu/4084272",
    "source": "aa-kultur",
@@ -11909,53 +12034,6 @@
    "bodyFa": [
     "مدرسۀ کبود که از نمادهای برجستۀ معماری سلجوقیان آناتولی به شمار می‌رود، با انجام یک پروژۀ علمی در دانشگاه سیواس جمهوریت به فضای دیجیتال راه یافت.",
     "این اقدام طی یک مطالعۀ دانشگاهی توسط بخش مهندسی نقشه‌برداری در دانشکدۀ مهندسی دانشگاه سیواس جمهوریت انجام گرفته و همزاد دیجیتال این اثر تاریخی ایجاد شده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "607a7eb6fb1e",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/trafikte-yakalandilar-gizemli-kadin-yuzunu-gizledi-sefo-gulme-krizine-girdi-7676726",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Trafikte yakalandılar! Gizemli kadın yüzünü gizledi, Sefo gülme krizine girdi",
-   "snippet": "Ünlü rapçi Sefo, Arnavutköy’de trafikte ilerlerken yanında bulunan kadın arkadaşıyla görüntülendi. Kameraları fark eden kadının yüzünü ceketiyle kapatması dikkat çekerken, Sefo yaşananlar karşısında gülme krizine girdi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac9f60af15b2619d4a3c77b.jpg",
-   "video": null,
-   "published": "2026-10-10T08:24:42.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/trafikte-yakalandilar-gizemli-kadin-yuzunu-gizledi-sefo-gulme-krizine-girdi-7676726",
-     "title": "Trafikte yakalandılar! Gizemli kadın yüzünü gizledi, Sefo gülme krizine girdi",
-     "snippet": "Ünlü rapçi Sefo, Arnavutköy’de trafikte ilerlerken yanında bulunan kadın arkadaşıyla görüntülendi. Kameraları fark eden kadının yüzünü ceketiyle kapatması dikkat çekerken, Sefo yaşananlar karşısında gülme krizine girdi.",
-     "published": "2026-10-10T08:24:42.000Z",
-     "titleFa": "در ترافیک گیر افتادند! زن مرموز صورتش را پنهان کرد، سefو به خنده افتاد"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac9f60af15b2619d4a3c77b.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac9f60af15b2619d4a3c77b.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "سefو در ترافیک آرناووت‌کوی به همراه یک زن ناشناس دیده شد",
-   "summaryFa": "رپر معروف، سefو، در ترافیک آرناووت‌کوی همراه با یک زن دیده شد که واکنش‌های متفاوتی از سوی آن‌ها به همراه داشت.",
-   "bodyFa": [
-    "رپر مشهور، سefو، اخیراً در حالی که در ترافیک منطقه آرناووت‌کوی در حال حرکت بود، همراه با یک زن به تصویر کشیده شد. این رویداد با واکنش‌های جالب توجهی از سوی سرنشینان خودرو همراه بود.",
-    "هنگامی که این زن متوجه حضور دوربین‌ها شد، تلاش کرد تا با استفاده از جکت خود صورتش را بپوشاند و پنهان کند. در همین حال، سefو از این وضعیت به شدت شگفت‌زده شده و دچار خنده شدید گردید."
    ],
    "ai": true,
    "aiTries": 1
@@ -12005,147 +12083,6 @@
    "bodyFa": [
     "مجموعه تلویزیونی «تابستان بی‌آب» که به عنوان یکی از پروژه‌های پرمخاطب فصل شناخته می‌شود، در شهر آدانا کلید خورد. این سریال که روایتگر فضای دهه ۱۹۷۰ در آدانا است، توسط شبکه «کانال د» و بر اساس اثری به همین نام از نجاتی کوامالی ساخته می‌شود.",
     "در جریان فیلم‌برداری‌های آغازین در آدانا، انرژی و هماهنگی میان بازیگران اصلی این پروژه مورد توجه قرار گرفت. مرت رمضان دمیر در نقش «عثمان»، لیزگه جۆمرت در نقش «بهار» و باتوهان از جمله چهره‌هایی هستند که در این سریال به ایفای نقش پرداخته و در قالب شخصیت‌های خود ظاهر شده‌اند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "6ac16165ae31",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/bu-kadar-hizli-hayata-can-mi-dayanir-kendisinden-28-yas-genc-karisi-olmasaydi-coktan-yikilip-gitmisti-43336338",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Bu kadar hızlı hayata can mı dayanır! Kendisinden 28 yaş genç karısı olmasaydı çoktan yıkılıp gitmişti",
-   "snippet": "Yıllar geçtikte yaş almak herkesin kaderi kuşkusuz... Zengin ya da fakir, ünlü ya da ünsüz...Kısacası kim olursa olsun bundan kaçmak mümkün değil.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9ec5793192880ef06b406.jpg",
-   "video": null,
-   "published": "2026-10-10T07:57:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/bu-kadar-hizli-hayata-can-mi-dayanir-kendisinden-28-yas-genc-karisi-olmasaydi-coktan-yikilip-gitmisti-43336338",
-     "title": "Bu kadar hızlı hayata can mı dayanır! Kendisinden 28 yaş genç karısı olmasaydı çoktan yıkılıp gitmişti",
-     "snippet": "Yıllar geçtikte yaş almak herkesin kaderi kuşkusuz... Zengin ya da fakir, ünlü ya da ünsüz...Kısacası kim olursa olsun bundan kaçmak mümkün değil.",
-     "published": "2026-10-10T07:57:00.000Z",
-     "titleFa": "تاب‌آوری در برابر گذر سریع عمر! اگر همسر ۲۸ سال جوان‌ترش نبود تاکنون از هم پاشیده بود"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ac9ec5793192880ef06b406.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ac9ec5793192880ef06b406.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
-   ],
-   "mediaDone": true,
-   "titleFa": "گزارشی درباره بالا رفتن سن و تاثیر ازدواج با همسر جوان‌تر",
-   "summaryFa": "این مطلب به موضوع اجتناب‌ناپذیر افزایش سن برای همه افراد از جمله ثروتمندان و افراد مشهور می‌پردازد.",
-   "bodyFa": [
-    "بالا رفتن سن روند طبیعی و غیرقابل‌اجتنابی است که همه انسان‌ها، صرف‌نظر از دارایی، جایگاه اجتماعی یا شهرت، در طول زندگی خود با آن مواجه می‌شوند.",
-    "این گزارش به این موضوع اشاره می‌کند که چگونه گذر زمان بر زندگی افراد تاثیر می‌گذارد و این تغییرات برای هر کسی اتفاق می‌افتد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "cdc1933e6daa",
-   "url": "https://www.sabah.com.tr/magazin/milyonlarca-begeni-yagdi-barbara-palvin-minik-bebegiyle-bakin-nasil-buyuledi-masaldan-mi-ciktilar-7677638",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Milyonlarca beğeni yağdı! Barbara Palvin minik bebeğiyle bakın nasıl büyüledi... \"Masaldan mı çıktılar?\"",
-   "snippet": "Dünyaca ünlü model Barbara Palvin ve başarılı oyuncu eşi Dylan Sprouse'un sır gibi sakladıkları kızları Sylvie nihayet ortaya çıktı! Çiçeği burnunda annenin, kızıyla bir örnek giyinerek yaptığı büyüleyici... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/8f8787/1200/675/0/130/1080/738?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791617469216.jpg",
-   "video": null,
-   "published": "2026-10-10T07:36:07.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/milyonlarca-begeni-yagdi-barbara-palvin-minik-bebegiyle-bakin-nasil-buyuledi-masaldan-mi-ciktilar-7677638",
-     "title": "Milyonlarca beğeni yağdı! Barbara Palvin minik bebeğiyle bakın nasıl büyüledi... \"Masaldan mı çıktılar?\"",
-     "snippet": "Dünyaca ünlü model Barbara Palvin ve başarılı oyuncu eşi Dylan Sprouse'un sır gibi sakladıkları kızları Sylvie nihayet ortaya çıktı! Çiçeği burnunda annenin, kızıyla bir örnek giyinerek yaptığı büyüleyici... Devamı için tıklayınız",
-     "published": "2026-10-10T07:36:07.000Z",
-     "titleFa": "باران میلیون‌ها لایک! ببینید باربارا پالوین با نوزاد کوچکش چگونه دلربایی کرد... «آیا از داستان‌ها آمده‌اند؟»"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/8f8787/1200/675/0/130/1080/738?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791617469216.jpg",
-    "https://iasbh.tmgrup.com.tr/4a4f31/752/395/0/149/1080/716?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791617469216.jpg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "تصاویر جدید باربارا پالوین و دخترش سیلوی",
-   "summaryFa": "باربارا پالوین و همسرش دیلن اسپراوس برای نخستین بار تصاویری از دختر خود سیلوی را منتشر کردند. این تصاویر و لباس‌های ست مادر و فرزند مورد توجه فراوان کاربران قرار گرفت.",
-   "bodyFa": [
-    "باربارا پالوین، مدل مشهور، و همسر بازیگرش دیلن اسپراوس که پیش‌تر دختر خود به نام سیلوی را از دید رسانه‌ها پنهان نگه می‌داشتند، اخیراً تصاویری از او را به اشتراک گذاشتند.",
-    "در این تصاویر جدید، این مدل جوان با دخترش لباس‌های هماهنگ و یک‌شکلی پوشیده بودند که این موضوع با استقبال بسیار زیاد کاربران در شبکه‌های اجتماعی روبه‌رو شد و عکس‌ها میلیون‌ها بار پسندیده شد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "44a29a6d32c4",
-   "url": "https://www.milliyet.com.tr/magazin/viyanadan-ankara-ve-istanbul-sahnelerine-7676673",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Viyana'dan Ankara ve İstanbul sahnelerine",
-   "snippet": "Avrupa’nın farklı kentlerinde dinleyicilerle buluşan Strauss Philharmonie, Strauss Concert Show ile Viyana’nın müzik kültürünü Türkiye’ye taşıyor. Vinicius Kattah yönetimindeki 15 usta müzisyen ve virtüöz bir soprano, “Valsler Kralı” Johann Strauss’un eserleri başta olmak üzere klasik müzik repertuvarından seçkin besteleri seslendirecek. Programda “Mavi Tuna” ve “Radetzky Marşı” gibi dünya çapında tanınan eserlerin yanı sıra Mozart, Kálmán, Fučík ve Lehár’ın klasikleşmiş besteleri de yer alacak.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac9e936f15b2619d4a3c702.jpg",
-   "video": null,
-   "published": "2026-10-10T07:28:54.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/viyanadan-ankara-ve-istanbul-sahnelerine-7676673",
-     "title": "Viyana'dan Ankara ve İstanbul sahnelerine",
-     "snippet": "Avrupa’nın farklı kentlerinde dinleyicilerle buluşan Strauss Philharmonie, Strauss Concert Show ile Viyana’nın müzik kültürünü Türkiye’ye taşıyor. Vinicius Kattah yönetimindeki 15 usta müzisyen ve virtüöz bir soprano, “Valsler Kralı” Johann Strauss’un eserleri başta olmak üzere klasik müzik repertuv",
-     "published": "2026-10-10T07:28:54.000Z",
-     "titleFa": "از وین تا صحنه‌های آنکارا و استانبول"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ac9e936f15b2619d4a3c702.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ac9e936f15b2619d4a3c702.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "اجرای ارکستر اشتراوس فیلهارمونیک در صحنه‌های آنکارا و استانبول",
-   "summaryFa": "ارکستر اشتراوس فیلهارمونیک با اجرای برنامه «کنسرت نمایش اشتراوس» فرهنگ موسیقایی وین را به شهرهای آنکارا و استانبول می‌آورد. این رویداد در روزهای ۱۲ و ۱۳ اکتبر در سالن‌های مهم این دو شهر برگزار می‌شود.",
-   "bodyFa": [
-    "ارکستر اشتراوس فیلهارمونیک که پیش‌تر در شهرهای مختلف اروپا به اجرای برنامه پرداخته بود، اکنون قصد دارد با اجرای «کنسرت نمایش اشتراوس» اصالت و سنت موسیقایی وین را به مخاطبان ترکیه‌ای معرفی کند. این برنامه با حضور ۱۵ نوازنده برجسته و یک خواننده سوپرانو به رهبری وینیسیوس کاتاه روی صحنه می‌رود و در آن آثار جاودانه یوهان اشتراوس، معروف به «پادشاه والس»، نواخته می‌شود.",
-    "بر اساس برنامه‌ریزی‌های انجام شده، این اجراها در تاریخ ۱۲ اکتبر در سالن اصلی سی‌اس‌او آدا آنکارا و در تاریخ ۱۳ اکتبر در سالن اپرای ترک تلکام در مرکز فرهنگی آتاتورک استانبول میزبان علاقه‌مندان به موسیقی کلاسیک خواهد بود."
    ],
    "ai": true,
    "aiTries": 1
