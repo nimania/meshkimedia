@@ -55,7 +55,7 @@ for(const cfg of config.channels||[]){
  for(const item of fresh){
   const summary=strip(item.summary).slice(0,420);
   const title=strip(item.title).slice(0,180);
-  const caption=item.label+' | '+esc(record.titleFa)+'\n\n<b>'+esc(title)+'</b>\\n\\n'+esc(summary)+'\n\n🔗 <a href="'+esc(item.url)+'">مطالعه کامل در مشکی‌مدیا</a>\\n\\n#'+record.titleFa.replace(/\s+/g,'_');
+  const caption=[item.label+' | '+esc(record.titleFa),'<b>'+esc(title)+'</b>',esc(summary),'🔗 <a href="'+esc(item.url)+'">مطالعه کامل در مشکی‌مدیا</a>','#'+record.titleFa.replace(/\s+/g,'_')].join('\n\n');
   if(dry){console.log(slug,item.id,item.url);continue;}
   try{
    let result=null;
