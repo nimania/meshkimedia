@@ -20,7 +20,8 @@ const nativeQuiz=(id,question,correct,distractors,source)=>{
  const options=makeOptions(id,correct,distractors);
  if(options.length<3)return null;
  const explanation='✅ پاسخ: '+correct+'. اطلاعات بازیگران و داستان بر اساس منابع ثبت‌شده در مشکی‌مدیا: '+source;
- return {id,kind:'quiz',question,options,correct_option_ids:[options.findIndex(x=>x.text===correct)],
+ const subject=id.includes(':actor:')||id.includes(':role:')?'actor:'+id.split(':').at(-1):'quiz:'+id;
+ return {id,subject,kind:'quiz',question,options,correct_option_ids:[options.findIndex(x=>x.text===correct)],
   explanation:explanation.slice(0,200)};
 };
 export function quizBank(record){
@@ -86,7 +87,7 @@ const polls={
 export function pollBank(record){
  const bank=polls[record.slug]||[];
  return bank.map(([key,question,answers])=>({
-  id:'engagement:poll:'+key,kind:'regular',question,
+  id:'engagement:poll:'+key,subject:'poll:'+key,kind:'regular',question,
   options:answers.map(text=>({text})),is_anonymous:true,allows_multiple_answers:false
  })).filter(x=>x.options.length>=2&&x.options.length<=12&&x.options.every(o=>o.text.length<=100)&&x.question.length<=300);
 }
