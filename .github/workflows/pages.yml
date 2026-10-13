@@ -188,9 +188,12 @@ jobs:
       - name: Persist news and bios to main
         if: ${{ !cancelled() && (steps.news.outcome == 'success' || steps.bios.outcome == 'success') }}
         run: |
-          files="github-pages/data/news.json github-pages/data/bios.json github-pages/data/telegram-posted.json github-pages/data/telegram-series-*-posted.json"
+          files="github-pages/data/news.json github-pages/data/bios.json github-pages/data/telegram-posted.json"
           # Stage even newly created per-series Telegram delivery states.
           git add $files
+          for state_file in github-pages/data/telegram-series-*-posted.json; do
+            if [ -f "$state_file" ]; then git add "$state_file"; fi
+          done
           if git diff --cached --quiet; then
             echo "News, bios and Telegram delivery states unchanged."
             exit 0
