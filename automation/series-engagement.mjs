@@ -26,18 +26,19 @@ const nativeQuiz=(id,question,correct,distractors,source)=>{
 export function quizBank(record){
  const cast=(record.cast||[]).filter(x=>x.personSlug&&actorName(x)&&roleName(x));
  const source='https://nimania.github.io/meshkimedia/dizi/'+record.slug+'/';
- const out=[];
+ const actorsFirst=[],rolesSecond=[];
  for(const actor of cast){
   const others=cast.filter(x=>x.personSlug!==actor.personSlug);
   const q1=nativeQuiz('engagement:quiz:actor:'+actor.personSlug,
    '🎭 در سریال «'+record.titleFa+'» چه کسی نقش «'+roleName(actor)+'» را بازی می‌کند؟',
    actorName(actor),others.map(actorName),source);
-  if(q1)out.push(q1);
+  if(q1)actorsFirst.push(q1);
   const q2=nativeQuiz('engagement:quiz:role:'+actor.personSlug,
    '🧩 '+actorName(actor)+' در سریال «'+record.titleFa+'» نقش کدام شخصیت را دارد؟',
    roleName(actor),others.map(roleName),source);
-  if(q2)out.push(q2);
+  if(q2)rolesSecond.push(q2);
  }
+ const out=[...actorsFirst,...rolesSecond];
  if(record.slug==='tuzlu-kahve'){
   const extra=[
    ['return','طبق معرفی داستان، کدام شخصیت پس از سال‌ها زندگی در خارج به ترکیه برمی‌گردد؟','محمد','درین','هاکان','فریال'],
@@ -69,7 +70,6 @@ const polls={
   ['future','📖 در ادامه قهوه شور بیشتر منتظر چه نوع صحنه‌ای هستید؟',['رویارویی خانوادگی','گفت‌وگوی صادقانه','تصمیم مستقل','غافلگیری داستانی']]
  ],
  'muhtemel-ask':[
-  ['triangle','💞 کدام ضلع داستان احتمالاً عشقه بیشتر کنجکاوتان کرده؟',['تصمیم‌های دفنه','گذشتهٔ قادر','انگیزه‌های تولگا','روابط هر سه']],
   ['independence','💬 در یک داستان عاشقانه، کدام ویژگی شخصیت اصلی مهم‌تر است؟',['استقلال','صداقت','شجاعت','قدرت تغییر']],
   ['future','🔮 بدون ادعای پیش‌بینی قطعی: دوست دارید دفنه در ادامه چه کند؟',['بیشتر به خودش فکر کند','با دیگران صادق باشد','گذشته را روشن کند','برای تصمیم عجله نکند']],
   ['kadir','🎭 کدام جنبهٔ قادر را بیشتر دوست دارید بررسی کنیم؟',['مسئولیت خانوادگی','تصمیم‌های احساسی','رفتار با دفنه','گذشتهٔ شخصیت']],
