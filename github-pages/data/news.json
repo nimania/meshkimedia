@@ -1,6 +1,44 @@
 {
- "updated": "2026-10-13T08:28:20.103Z",
+ "updated": "2026-10-13T08:36:25.252Z",
  "items": [
+  {
+   "id": "045d617d25a5",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/karaciger-nakli-olmustu-ufuk-ozkan-doktorlar-bile-sasirdi-7678507",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Karaciğer nakli olmuştu! Ufuk Özkan: Doktorlar bile şaşırdı",
+   "snippet": "Karaciğer nakli operasyonunun ardından sağlığına kavuşan Ufuk Özkan, setlere geri döndü. Rol aldığı filmin galasında konuşan oyuncu, son sağlık durumu hakkında bilgi verdi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6acdeb1cf15b2619d4a3d616.jpg",
+   "video": null,
+   "published": "2026-10-13T08:29:05.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/karaciger-nakli-olmustu-ufuk-ozkan-doktorlar-bile-sasirdi-7678507",
+     "title": "Karaciğer nakli olmuştu! Ufuk Özkan: Doktorlar bile şaşırdı",
+     "snippet": "Karaciğer nakli operasyonunun ardından sağlığına kavuşan Ufuk Özkan, setlere geri döndü. Rol aldığı filmin galasında konuşan oyuncu, son sağlık durumu hakkında bilgi verdi.",
+     "published": "2026-10-13T08:29:05.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6acdeb1cf15b2619d4a3d616.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6acdeb1cf15b2619d4a3d616.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "8c2d7f6d7493",
    "url": "https://www.hurriyet.com.tr/kelebek/stil/modadan-sanata-43339653",
@@ -26,7 +64,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/modadan-sanata-43339653",
      "title": "Modadan sanata",
      "snippet": "Bir hazır giyim markası Nişantaşı Abdi İpekçi mağazasında moda ve sanatı bir araya getiren bir davete ev sahipliği yaptı.",
-     "published": "2026-10-13T08:09:10.000Z"
+     "published": "2026-10-13T08:09:10.000Z",
+     "titleFa": "از مد تا هنر"
     }
    ],
    "images": [
@@ -37,7 +76,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "میزبانی از رویداد مشترک مد و هنر در فروشگاه نیشانتاشی",
+   "summaryFa": "یک برند پوشاک آماده میزبان رویدادی بود که مد و هنر را در شعبه نیشانتاشی عبدی ایپکچی به هم پیوند داد.",
+   "bodyFa": [
+    "یک برند پوشاک آماده در فروشگاه خود واقع در منطقه نیشانتاشی عبدی ایپکچی میزبان رویدادی ویژه شد که هدف آن تلفیق مد و هنر بود.",
+    "این برنامه با حضور علاقه‌مندان برگزار شد و در آن آثار هنری در کنار محصولات مد به نمایش درآمد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "cc3df7fb3876",
@@ -718,6 +765,55 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "7352cdbb3d81",
+   "url": "https://www.sozcu.com.tr/annesinin-cenazesine-bile-katilmamisti-mehmet-ali-erbil-gercegi-acikladi-p368601",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Annesinin cenazesine bile katılmamıştı: Mehmet Ali Erbil gerçeği açıkladı",
+   "snippet": "Mehmet Ali Erbil'in annesi Yurdagül Eken, geçtiğimiz nisan ayında 91 yaşında hayatını kaybetmişti. Cenazeye katılmamasıy...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/511jpg-C0ZnFHsCLUmgutz_aoHRaA.jpg",
+   "video": null,
+   "published": "2026-10-13T05:23:19.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/annesinin-cenazesine-bile-katilmamisti-mehmet-ali-erbil-gercegi-acikladi-p368601",
+     "title": "Annesinin cenazesine bile katılmamıştı: Mehmet Ali Erbil gerçeği açıkladı",
+     "snippet": "Mehmet Ali Erbil'in annesi Yurdagül Eken, geçtiğimiz nisan ayında 91 yaşında hayatını kaybetmişti. Cenazeye katılmamasıy...",
+     "published": "2026-10-13T05:23:19.000Z"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/annesinin-cenazesine-katilmamisti-mehmet-ali-erbil-nedenini-aylar-sonra-acikladi-7678405",
+     "title": "Annesinin cenazesine katılmamıştı! Mehmet Ali Erbil nedenini aylar sonra açıkladı",
+     "snippet": "Mehmet Ali Erbil, hayatını kaybeden annesi Yurdagül Eken’in cenazesine neden katılmadığını aylar sonra açıkladı.",
+     "published": "2026-10-13T06:42:25.000Z"
+    }
+   ],
+   "mergedIds": [
+    "02db69cb2ceb"
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/511jpg-C0ZnFHsCLUmgutz_aoHRaA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/511jpg-C0ZnFHsCLUmgutz_aoHRaA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acdd454cc403fabc1556a0dpng-UTp0xUhi4kW9DHhB_JXekA.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acdd119cc403fabc152c5c9png-Lf1fvA7rpEapN45ZkrVDZw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/tedescosuperligemidonuyor6acdc193cc403fabc147bbb2png-IAR6Vk5ZeUWk9a5RsAhkKw.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "2fd3f3d1cd14",
@@ -2762,44 +2858,6 @@
    "aiTries": 1
   },
   {
-   "id": "dd3f98ae2281",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/usta-sanatci-nihat-ziyalan-hayatini-kaybetti-43338675",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Usta sanatçı Nihat Ziyalan hayatını kaybetti",
-   "snippet": "1960 ve 1970’li yıllarda Türk sinemasında canlandırdığı karakterlerle tanınan oyuncu, şair ve yazar Nihat Ziyalan, 90 yaşında hayatını kaybetti.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6accb2b293192880ef06c1a3.jpg",
-   "video": null,
-   "published": "2026-10-12T10:14:06.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/usta-sanatci-nihat-ziyalan-hayatini-kaybetti-43338675",
-     "title": "Usta sanatçı Nihat Ziyalan hayatını kaybetti",
-     "snippet": "1960 ve 1970’li yıllarda Türk sinemasında canlandırdığı karakterlerle tanınan oyuncu, şair ve yazar Nihat Ziyalan, 90 yaşında hayatını kaybetti.",
-     "published": "2026-10-12T10:14:06.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6accb2b293192880ef06c1a3.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6accb2b293192880ef06c1a3.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "d9b6b44e59c2",
    "url": "https://www.milliyet.com.tr/magazin/yesilcamin-usta-oyuncusu-nihat-ziyalan-hayatini-kaybetti-7677874",
    "source": "milliyet-magazin",
@@ -3401,44 +3459,6 @@
    "aiTries": 1
   },
   {
-   "id": "f8ba6179bebc",
-   "url": "https://www.sozcu.com.tr/arabada-fenalasti-demet-akalin-in-esi-acillik-oldu-p368365",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Arabada fenalaştı: Demet Akalın'ın eşi acillik oldu",
-   "snippet": "Demet Akalın'ın eşi Okan Kurt'tan korkutan haber geldi. Arabada kas spazmı geçiren Kurt için acile giden şarkıcı, yaşadı...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/demetakalinokankurtarabakasspazmijpg-QC3eL5OP_0G2_Cb4y5YdkA.jpg",
-   "video": null,
-   "published": "2026-10-12T08:41:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/arabada-fenalasti-demet-akalin-in-esi-acillik-oldu-p368365",
-     "title": "Arabada fenalaştı: Demet Akalın'ın eşi acillik oldu",
-     "snippet": "Demet Akalın'ın eşi Okan Kurt'tan korkutan haber geldi. Arabada kas spazmı geçiren Kurt için acile giden şarkıcı, yaşadı...",
-     "published": "2026-10-12T08:41:00.000Z"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/demetakalinokankurtarabakasspazmijpg-QC3eL5OP_0G2_Cb4y5YdkA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/demetakalinokankurtarabakasspazmijpg-QC3eL5OP_0G2_Cb4y5YdkA.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/demet-akalinnnjpg-ZSj8zpY1vEygt8XclTyvbA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/okan-kurttujpg-TN_1guFnxkSfEPFOwcmTjQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acdd119cc403fabc152c5c9png-Lf1fvA7rpEapN45ZkrVDZw.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "0fba3f4b1854",
    "url": "https://www.haberturk.com/magazin/show-tv-ailesi-nden-sevdan-bir-ates-dizi-setine-anlamli-ziyaret-3919046",
    "source": "haberturk-magazin",
@@ -3856,44 +3876,6 @@
    "aiTries": 1
   },
   {
-   "id": "901e55c511be",
-   "url": "https://www.sozcu.com.tr/onur-buyuktopcu-yu-uzen-haber-annesi-tam-rahata-erdigi-yasta-hastaliga-yakalandi-p368330",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Onur Büyüktopçu'yu üzen haber: Annesi tam rahata erdiği yaşta hastalığa yakalandı",
-   "snippet": "Fenomen sunucu ve oyuncu Onur Büyüktopçu, annesi Ayşe Hanım'ın sağlık durumuyla ilgili yaptığı açıklamayla üzücü haberi ...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/812jpg-VS6oiF8b7EixZuQ3ZSP6xQ.jpg",
-   "video": null,
-   "published": "2026-10-12T07:30:12.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/onur-buyuktopcu-yu-uzen-haber-annesi-tam-rahata-erdigi-yasta-hastaliga-yakalandi-p368330",
-     "title": "Onur Büyüktopçu'yu üzen haber: Annesi tam rahata erdiği yaşta hastalığa yakalandı",
-     "snippet": "Fenomen sunucu ve oyuncu Onur Büyüktopçu, annesi Ayşe Hanım'ın sağlık durumuyla ilgili yaptığı açıklamayla üzücü haberi ...",
-     "published": "2026-10-12T07:30:12.000Z"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/812jpg-VS6oiF8b7EixZuQ3ZSP6xQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/812jpg-VS6oiF8b7EixZuQ3ZSP6xQ.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/onur-buyuktopcuannesijpg-J2xsW5O1gkaIbV66ri9LLg.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acdd454cc403fabc1556a0dpng-UTp0xUhi4kW9DHhB_JXekA.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acdd119cc403fabc152c5c9png-Lf1fvA7rpEapN45ZkrVDZw.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "24ebef35d59d",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/haysiyetin-enderi-cok-sevilecek-43338358",
    "source": "hurriyet-kelebek",
@@ -4038,82 +4020,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "2dbbdd8326f4",
-   "url": "https://www.sabah.com.tr/magazin/kuzuma-nazar-degdi-diyerek-duyurdu-demet-akalinin-esi-okan-kurt-acillik-oldu-7678873",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu!",
-   "snippet": "Magazin dünyasının gözde çifti Demet Akalın ve Okan Kurt’tan sevenlerini korkutan bir haber geldi. Geçtiğimiz aylarda kaslı pozlarıyla sosyal medyayı sallayan Okan Kurt, yaşadığı beklenmedik durum sonrası... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/33a890/1200/675/0/44/533/344?u=https://isbh.tmgrup.com.tr/sbh/2026/10/12/1791788549062.jpeg",
-   "video": null,
-   "published": "2026-10-12T07:14:17.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/kuzuma-nazar-degdi-diyerek-duyurdu-demet-akalinin-esi-okan-kurt-acillik-oldu-7678873",
-     "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu!",
-     "snippet": "Magazin dünyasının gözde çifti Demet Akalın ve Okan Kurt’tan sevenlerini korkutan bir haber geldi. Geçtiğimiz aylarda kaslı pozlarıyla sosyal medyayı sallayan Okan Kurt, yaşadığı beklenmedik durum sonrası... Devamı için tıklayınız",
-     "published": "2026-10-12T07:14:17.000Z"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/33a890/1200/675/0/44/533/344?u=https://isbh.tmgrup.com.tr/sbh/2026/10/12/1791788549062.jpeg",
-    "https://iasbh.tmgrup.com.tr/0a366d/752/395/0/54/533/334?u=https://isbh.tmgrup.com.tr/sbh/2026/10/12/1791788549062.jpeg",
-    "https://iasbh.tmgrup.com.tr/97ef0a/210/210/114/0/596/483?u=https://isbh.tmgrup.com.tr/sbh/2026/10/08/duyunca-tek-kelimeyle-yanitladi-demet-akalin-o-soruya-son-noktayi-koydu-asla-1791467070964.jpg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png"
-   ],
-   "mediaDone": true
-  },
-  {
-   "id": "34ee261564d5",
-   "url": "https://www.sozcu.com.tr/unlu-oyuncu-soyuldu-az-kalsin-canindan-oluyordu-p368317",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ünlü oyuncu soyuldu: Az kalsın canından oluyordu",
-   "snippet": "Pretty Little Liars dizisiyle tanınan Keegan Allen, Los Angeles'ta iki maskeli saldırganın hedefi oldu. Silah ve bıçakla...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/unlu-oyuncu-soyuldu-az-kalsin-canindan-oluyordujpg-NXE_UE3OMUKkETuoae_M7w.jpg",
-   "video": null,
-   "published": "2026-10-12T07:12:07.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/unlu-oyuncu-soyuldu-az-kalsin-canindan-oluyordu-p368317",
-     "title": "Ünlü oyuncu soyuldu: Az kalsın canından oluyordu",
-     "snippet": "Pretty Little Liars dizisiyle tanınan Keegan Allen, Los Angeles'ta iki maskeli saldırganın hedefi oldu. Silah ve bıçakla...",
-     "published": "2026-10-12T07:12:07.000Z"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/unlu-oyuncu-soyuldu-az-kalsin-canindan-oluyordujpg-NXE_UE3OMUKkETuoae_M7w.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/unlu-oyuncu-soyuldu-az-kalsin-canindan-oluyordujpg-NXE_UE3OMUKkETuoae_M7w.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/unluoyuncusoyguldujpg-2YwPc7zdCUS4DuucF40jow.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/c81a2b3a014742ae8f1483545f8bbf17png-ucwWPyIMd0epHCIN3oEFWA.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6accf179cc403fabc13bf845png-94UJfgArgEiD5TlHQ_k0Kg.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true
   },
   {
    "id": "dd1fdc9ec2a9",
@@ -4376,7 +4282,7 @@
      "title": "Jackie Chan'den milli yıldız Alperen Şengün'e övgü dolu sözler",
      "snippet": "NBA'de Houston Rockets formasıyla mücadele eden milli basketbolcu Alperen Şengün, Çin'de bu kez parkede değil, karşılaşm...",
      "published": "2026-10-12T06:38:16.000Z",
-     "titleFa": "سخنان پرمهر جکی چان در تمجید از آلپرن شنگون، ستاره ملی‌پوش"
+     "titleFa": "تمجید جッキー چان از ستاره ملی‌پوش آلپرن شنگون"
     },
     {
      "source": "milliyet-magazin",
@@ -4384,7 +4290,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/mac-sonrasi-surpriz-bulusma-jackie-chanden-alperen-sengune-ovgu-7678458",
      "title": "Maç sonrası sürpriz buluşma! Jackie Chan'den Alperen Şengün'e övgü",
      "snippet": "Houston Rockets’ın Dallas Mavericks’i mağlup ettiği karşılaşmayı tribünden izleyen Jackie Chan, maçın ardından Alperen Şengün ile bir araya geldi. Dünyaca ünlü oyuncu milli basketbolcuya övgü dolu sözler söyledi.",
-     "published": "2026-10-13T07:32:49.000Z"
+     "published": "2026-10-13T07:32:49.000Z",
+     "titleFa": "دیدار غافلگیرکننده پس از مسابقه! تمجید جッキー چان از آلپرن شنگون"
     }
    ],
    "images": [
@@ -4396,18 +4303,25 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/kumedusurulmesitartisilanmanchestercityliverpooldanucgolleintikamaldi6acc7ceecc403fabc19ce61fpng-w_HTfr-_I0uGLdRVCHJtyQ.png?w=320&h=248&mode=crop&scale=both"
    ],
    "mediaDone": true,
-   "titleFa": "تمجید جکی چان از آلپرن شنگون، ستاره ملی‌پوش بسکتبال",
-   "summaryFa": "جکی چان، ستاره مشهور جهانی، پس از مسابقه هیوستون راکتس و دالاس ماوریکس در چین با آلپرن شنگون دیدار کرد. او در این ملاقات از بسکتبالیست ملی‌پوش ترکیه تمجید کرد.",
+   "titleFa": "جッキー چان از آلپرن شنگون ستاره ملی‌پوش تمجید کرد",
+   "summaryFa": "جッキー چان مسابقه هیوستون راکتس و دالاس ماوریکس را از نزدیک تماشا کرد و پس از بازی با آلپرن شنگون دیدار نمود. این بازیگر مشهور جهان سخنان پرمحبتی نثار بسکتبالیست ملی‌پوش کرد.",
    "bodyFa": [
-    "آلپرن شنگون، بازیکن ملی‌پوش بسکتبال ترکیه که در تیم هیوستون راکتس در ان‌بی‌ای بازی می‌کند، این بار به خاطر یک دیدار پس از مسابقه در کشور چین مورد توجه قرار گرفت.",
-    "جکی چان، ستاره سرشناس جهان، پیروزی تیم هیوستون راکتس مقابل دالاس ماوریکس را از روی سکوها تماشا کرد و سپس در پایان بازی با آلپرن شنگون دیدار و گفتگو نمود. در این ملاقات، او سخنان پرثمری در تمجید از این ستاره جوان بیان کرد."
+    "آلپرن شنگون، بسکتبالیست ملی‌پوش تیم هیوستون راکتس در لیگ ان‌بی‌ای، این بار نه به خاطر مسابقه در زمین، بلکه به دلیل دیدار پس از مسابقه مورد توجه قرار گرفت.",
+    "جッキー چان، ستاره مشهور جهان، پیروزی تیم هیوستون راکتس برابر دالاس ماوریکس را از روی سکوها تماشا کرد. او پس از پایان بازی با آلپرن شنگون گرد هم آمد و سخنان پر از ستایشی درباره او به زبان آورد."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "534b92be33e0"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "جッキー چان مسابقه هیوستون راکتس و دالاس ماوریکس را از روی سکوها تماشا کرد.",
+     "او پس از مسابقه با آلپرن شنگون دیدار کرد و سخنان پرمحبتی به او گفت."
+    ],
+    "differ": [],
+    "unconfirmed": []
+   }
   },
   {
    "id": "2c284427bf31",
@@ -4907,7 +4821,7 @@
      "title": "Dünyanın en yakışıklı erkeği Türkiye'den",
      "snippet": "Tayland'da düzenlenen Mister Global 2026 yarışmasında Türkiye'yi temsil eden Dilhan Divrikli, Nijerya ve Filipinler temsilcilerini geride bırakarak dünya birincisi oldu ve Mister Global 2026 ünvanını kazandı",
      "published": "2026-10-12T05:01:31.000Z",
-     "titleFa": "جذاب‌ترین مرد جهان از ترکیه انتخاب شد"
+     "titleFa": "زیباترین مرد جهان از ترکیه است"
     },
     {
      "source": "milliyet-magazin",
@@ -4915,23 +4829,22 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/dunyanin-en-yakisikli-erkegi-turkiyeden-cikti-dilhan-divrikli-birinci-oldu-7677954",
      "title": "Dünyanın en yakışıklı erkeği Türkiye’den çıktı: Dilhan Divrikli birinci oldu",
      "snippet": "Tayland'da düzenlenen Mister Global 2026 finalinde Türkiye'yi temsil eden Dilhan Divrikli, jüri değerlendirmelerinin ardından dünya birincisi seçildi.",
-     "published": "2026-10-12T11:33:27.000Z"
+     "published": "2026-10-12T11:33:27.000Z",
+     "titleFa": "زیباترین مرد جهان از ترکیه بیرون آمد: دیلحان دیوریکلی اول شد"
     }
    ],
    "mediaDone": true,
-   "titleFa": "دیلهان دیوریکلی نماینده ترکیه برنده رقابت میستر گلوبال ۲۰۲۶ شد",
-   "summaryFa": "دیلهان دیوریکلی با پشت سر گذاشتن رقبایی از نیجریه و فیلیپین، عنوان نخست مسابقه بین‌المللی «میستر گلوبال ۲۰۲۶» در تایلند را از آن خود کرد. او علاوه بر مدلینگ، هدف ورود به دنیای بازیگری را در سر دارد.",
+   "titleFa": "دیلحان دیوریکلی عنوان مستر گلوبال ۲۰۲۶ را کسب کرد",
+   "summaryFa": "دیلحان دیوریکلی نماینده ترکیه در مسابقه مستر گلوبال ۲۰۲۶ در کشور تایلند توانست به مقام قهرمانی جهان دست پیدا کند. او پس از پشت سر گذاشتن نمایندگان نیجریه و فیلیپین این عنوان را به دست آورد.",
    "bodyFa": [
-    "دیلهان دیوریکلی، نماینده ترکیه در مسابقات بین‌المللی «میستر گلوبال ۲۰۲۶» که در کشور تایلند برگزار شد، به مقام قهرمانی دست یافت. فینال این رقابت‌ها در ۱۰ اکتبر ۲۰۲۶ در سالن ام‌سی‌سی هال واقع در شهر نونتابوری تایلند برگزار شد و شرکت‌کنندگانی از نقاط مختلف جهان برای کسب مقام برتر به رقابت پرداختند.",
-    "شرکت‌کنندگان پس از گذراندن یک دوره اردویی ۱۰ روزه شامل مراحل گوناگون ارزیابی، فعالیت‌ها و ارائه‌ها، در شب نهایی در برابر هیئت داوران حاضر شدند. در پایان این ارزیابی‌ها، دیوریکلی در کنار نمایندگان نیجریه و فیلیپین به جمع سه فینالیست برتر رسید و با شکست دادن آن‌ها موفق به دریافت عنوان میستر گلوبال ۲۰۲۶ شد. این رویداد معتبر زیبایی مردان از سال ۲۰۱۴ به میزبانی تایلند برگزار می‌شود.",
-    "دیوریکلی پیش از این نیز در مسابقات مدلینگ در ترکیه مقام‌هایی به دست آورده بود. او اصالت خانوادگی‌اش به شهر امیرداغ در افیون‌قره‌حصار برمی‌گردد اما هم‌اکنون در شهر بروکسل بلژیک سکونت دارد. او علاوه بر تسلط به چهار زبان و فعالیت در عرصه مدلینگ، به بازیگری علاقه‌مند است و در نظر دارد در آینده وارد مسیر حرفه‌ای بازیگری شود."
+    "دیلحان دیوریکلی که به عنوان نماینده ترکیه در مسابقات بین‌المللی مستر گلوبال ۲۰۲۶ شرکت کرده بود، توانست مقام اول جهان را از آن خود کند. این رویداد در تاریخ ۱۰ اکتبر ۲۰۲۶ در سالن ام‌سی‌سی هال واقع در شهر نونثابوری در تایلند برگزار شد و شرکت‌کنندگان پس از طی کردن یک دوره اردو و ارزیابی‌های مختلف، در شب فینال با هم به رقابت پرداختند.",
+    "در مرحله نهایی، دیوریکلی در کنار نمایندگان نیجریه و فیلیپین به جمع سه نفر برتر راه یافت و با ارائه عملکرد مناسب موفق شد رقیبان خود را پشت سر بگذارد و عنوان مستر گلوبال ۲۰۲۶ را کسب نماید. همچنین ذکر شده است که او علاوه بر فعالیت در زمینه مدلینگ، به بازیگری نیز علاقه دارد و زندگی خود را در بروکسل پایتخت بلژیک سپری می‌کند."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "3e27a0a7e161"
    ],
-   "regen": true,
    "images": [
     "https://image.milimaj.com/i/milliyet/75/0x0/6accc4e6ea5ea19fcfcdd5c1.jpg",
     "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
@@ -4939,7 +4852,14 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg",
     "https://image.milimaj.com/i/milliyet/75/0x0/6accc4e6ea5ea19fcfcdd5c2.jpg"
-   ]
+   ],
+   "comparison": {
+    "agree": [
+     "دیلحان دیوریکلی نماینده ترکیه در مسابقات مستر گلوبال ۲۰۲۶ در تایلند شد و مقام اول جهان را به دست آورد."
+    ],
+    "differ": [],
+    "unconfirmed": []
+   }
   },
   {
    "id": "750dbc994dc6",
@@ -4966,9 +4886,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/5-yildizli-otel-kapatildi-sosyete-mardinde-43338209",
      "title": "5 yıldızlı otel kapatıldı... Sosyete Mardin’de!",
      "snippet": "Sima Tarkan-Mark Başoğlu çiftinin bebekleri için düzenlediği 3 günlük vaftiz programı sosyeteyi Mardin’de buluşturdu. Davetlilerin desenli eşarplar taktığı kutlamalarda zılgıtlar eşliğinde halaylar çekildi, sıra gecesinde türküler söylendi.",
-     "published": "2026-10-12T04:58:00.000Z"
+     "published": "2026-10-12T04:58:00.000Z",
+     "titleFa": "۵ yıldızlı otel kapatıldı... Sosyete Mardin’de!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acc67e193192880ef06c015.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acc67e193192880ef06c015.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "گردشگران و چهره‌های سرشناس برای مراسم فرزند سیما تارکان و مارک باشاوغلو در ماردین جمع شدند",
+   "summaryFa": "زوج سیما تارکان و مارک باشاوغلو مراسم سه روزه‌ای را برای فرزند خود در ماردین برگزار کردند که چهره‌های سرشناس زیادی در آن حضور داشتند.",
+   "bodyFa": [
+    "مراسم سه روزه مربوط به فرزند زوج سیما تارکان و مارک باشاوغلو، چهره‌های سرشناس و جامعه مرفه را در شهر ماردین دور هم جمع کرد.",
+    "در جریان این جشن‌ها و برنامه‌ها، مهمانان با روسری‌های طرح‌دار دیده شدند و مراسمی همراه با رقص محلی، کل کشیدن و شب‌های موسیقی سنتی برگزار شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "90bf0c369b12",
@@ -5596,35 +5534,6 @@
    "aiTries": 1
   },
   {
-   "id": "6f5940b958d4",
-   "url": "https://www.milliyet.com.tr/magazin/sezenin-talebiyle-cocuklar-geldi-7677465",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Sezen’in talebiyle çocuklar geldi’",
-   "snippet": "“Boşanma aşamasındaydılar”, “Kavgalıydılar” ve “Çocuklarını kaçırdı” iddialarına Haliloğlu, “Evliliğimiz 11 ay önce karşılıklı anlaşarak, resmi ve hukuki olarak sona ermiştir. Olayın yaşandığı günün öncesinde, Sezen’in kendi talebiyle, çocuklarım pedagogların da bilgisi ve yönlendirmesiyle benimle birlikte Trabzon’a gelmişlerdir” diyerek, gerçek dışı haberler üzerine hukuki süreçlerin başlatılacağını duyurdu.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6acc0568e95045cf040f0b00.jpg",
-   "video": null,
-   "published": "2026-10-12T04:01:26.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/sezenin-talebiyle-cocuklar-geldi-7677465",
-     "title": "‘Sezen’in talebiyle çocuklar geldi’",
-     "snippet": "“Boşanma aşamasındaydılar”, “Kavgalıydılar” ve “Çocuklarını kaçırdı” iddialarına Haliloğlu, “Evliliğimiz 11 ay önce karşılıklı anlaşarak, resmi ve hukuki olarak sona ermiştir. Olayın yaşandığı günün öncesinde, Sezen’in kendi talebiyle, çocuklarım pedagogların da bilgisi ve yönlendirmesiyle benimle b",
-     "published": "2026-10-12T04:01:26.000Z"
-    }
-   ]
-  },
-  {
    "id": "ac661fcc6abf",
    "url": "https://www.milliyet.com.tr/magazin/gunun-en-cok-izlenen-yapimi-oldu-7677462",
    "source": "milliyet-magazin",
@@ -5927,9 +5836,27 @@
      "url": "https://www.sabah.com.tr/magazin/tebrikler-alperen-7678520",
      "title": "Tebrikler Alperen",
      "snippet": "NBA'de Houston Rockets forması giyen milli basketbolcu Alperen Şengün, dünyaca ünlü Çinli oyuncu Jackie Chan ile bir araya geldi. Çin'in Makao kentinde oynanan Dallas Mavericks ve Houston Rockets maçını... Devamı için tıklayınız",
-     "published": "2026-10-11T16:39:46.000Z"
+     "published": "2026-10-11T16:39:46.000Z",
+     "titleFa": "تبریک‌ها به آلپرن"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/17ade9/1200/675/0/0/786/441?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/tebrikler-alperen-1791736804129.jpeg",
+    "https://iasbh.tmgrup.com.tr/5b8d62/752/395/0/0/786/413?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/tebrikler-alperen-1791736804129.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "دیدار آلپرن شنگون با جکی چان در ماکائو",
+   "summaryFa": "آلپرن شنگون، بسکتبالیست ملی‌پوش تیم هوستون راکتس، با جکی چان، بازیگر مشهور چینی دیدار کرد. این بازیگر افسانه‌ای در ماکائو به تماشای مسابقه دالاس ماوریکس و هوستون راکتس نشست.",
+   "bodyFa": [
+    "آلپرن شنگون، بسکتبالیست ملی‌پوش ترکیه‌ای که در ان‌بی‌ای برای تیم هوستون راکتس بازی می‌کند، با جکی چان، هنرپیشه نامدار چینی ملاقات کرد.",
+    "این دیدار همزمان با برگزاری مسابقه میان تیم‌های دالاس ماوریکس و هوستون راکتس در شهر ماکائوی چین انجام شد. جکی چان که برای تماشای این دیدار ورزشی در سالن حضور یافته بود، درباره آلپرن شنگون نظراتی ابراز کرد و او را یک ورزشکار بسیار موفق دانست."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "e6cccc155437",
@@ -5956,9 +5883,27 @@
      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/idil-cimrin/2026/10/12/kislik-hazirligina-devam",
      "title": "Kışlık hazırlığına devam",
      "snippet": "İdilika'nın Mutfağı'nda sonbahar ayları genellikle kışlık hazırlıklar ile geçer. Buzluğa bamya, barbunya, bezelye, taze fasulye atmak, turşular kurmak, sebzeler kurutmak, konserveler hazırlamak bana müthiş... Devamı için tıklayınız",
-     "published": "2026-10-11T16:34:38.000Z"
+     "published": "2026-10-11T16:34:38.000Z",
+     "titleFa": "ادامه آماده‌سازی برای زمستان"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/396849/0/0/0/0/902/508?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/kislik-hazirligina-devam-1791736237884.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/2026/04/04/1775286965973.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/halkbank-ureten-turkiye.png?v=25883",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-1.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
+    "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/10/13/164x236/13SBH01.jpg?v=25883"
+   ],
+   "mediaDone": true,
+   "titleFa": "آماده‌سازی برای زمستان در آشپزخانه ایدیلیکا",
+   "summaryFa": "فصل پاییز در آشپزخانه ایدیلیکا معمولاً با آماده‌سازی مواد غذایی برای زمستان سپری می‌شود. امسال فصل تابستان و پاییز با یکدیگر ترکیب شده‌اند و هوا همچنان گرم است.",
+   "bodyFa": [
+    "در بخش آشپزخانه ایدیلیکا، ماه‌های پاییز معمولاً به آماده‌سازی مواد غذایی برای فصل زمستان اختصاص دارد. انجماد سبزیجات مختلف مانند بامیه، لوبیا چیتی، نخود فرنگی و لوبیا سبز، درست کردن انواع ترشی، خشک کردن سبزیجات و تهیه کنسروها از کارهایی است که لذت زیادی به همراه دارد.",
+    "امسال شرایط به‌گونه‌ای است که فصل تابستان و پاییز با هم مخلوط شده‌اند و با وجود فرا رسیدن پاییز، هوای گرم همچنان ادامه دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "645756ca1f9c",
@@ -5985,9 +5930,27 @@
      "url": "https://www.sabah.com.tr/magazin/aileyle-koyde-hayat-bir-baska-guzel-7678499",
      "title": "Aileyle köyde hayat bir başka güzel",
      "snippet": "Ünlü oyuncular geçtiğimiz günlerde memleketlerinde özel anlar geçirdi. Çağatay Ulusoy, Bulgaristan'da yaşayan akrabalarının yanına gitti. Bulgaristan göçmeni olan oyuncuya, anne ve babası da eşlik etti.... Devamı için tıklayınız",
-     "published": "2026-10-11T15:43:23.000Z"
+     "published": "2026-10-11T15:43:23.000Z",
+     "titleFa": "زندگی در روستا با خانواده زیبایی دیگری دارد"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/20f41a/1200/675/0/0/1491/839?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/aileyle-koyde-hayat-bir-baska-guzel-1791733328659.jpeg",
+    "https://iasbh.tmgrup.com.tr/317d88/752/395/0/0/1491/783?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/aileyle-koyde-hayat-bir-baska-guzel-1791733328659.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "سفر چاتای اولوسوی به زادگاهش در بلغارستان",
+   "summaryFa": "چاتای اولوسوی به همراه پدر و مادرش به دیدار خویشاوندان خود در بلغارستان رفت. او در روستای زادگاه خانواده‌اش با استقبال گرم اهالی روبه‌رو شد.",
+   "bodyFa": [
+    "بازیگر سرشناس، چاتای اولوسوی، اخیراً لحظات ویژه‌ای را در زادگاه خود سپری کرد. این بازیگر که اصالتاً اهل بلغارستان است، برای دیدار با اقوام خود به این کشور سفر کرد.",
+    "در این سفر، مادر و پدر نیز اولوسوی را همراهی کردند. او به روستایی که خانواده‌اش در آن متولد شده‌اند رفت و با توجه و استقبال فراوان افرادی که او را دیدند مواجه شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "84780c48eb65",
@@ -6014,9 +5977,27 @@
      "url": "https://www.sabah.com.tr/magazin/unluler-okulu-gibiydi-7678497",
      "title": "'Ünlüler okulu gibiydi'",
      "snippet": "Alişan ve Yudum, önceki gün stüdyo çıkışı görüntülendi. Gazetecilerle sohbet eden ikiliden Yudum, \"Okuldan tanışıyoruz. Çok güzel yıllardı, ders biterdi, kantine giderdik. Zara, Gökhan Tepe, Hakan Altun,... Devamı için tıklayınız",
-     "published": "2026-10-11T15:41:38.000Z"
+     "published": "2026-10-11T15:41:38.000Z",
+     "titleFa": "مانند مدرسه افراد مشهور بود"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/14094b/1200/675/0/105/468/368?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/unluler-okulu-gibiydi-1791733284595.jpeg",
+    "https://iasbh.tmgrup.com.tr/cd0561/752/395/0/113/468/360?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/unluler-okulu-gibiydi-1791733284595.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "دیدار علی‌شان و یودوم و خاطرات دوران مدرسه",
+   "summaryFa": "علی‌شان و یودوم روز گذشته پس از خروج از استودیو دیده شدند و یودوم درباره دوران تحصیل خود و دیگر چهره‌های مشهور در یک مدرسه صحبت کرد.",
+   "bodyFa": [
+    "علی‌شان و یودوم، دو چهره شناخته‌شده، روز گذشته پس از خروج از استودیو توسط خبرنگاران دیده شدند و با آن‌ها به گفتگو پرداختند.",
+    "در جریان این گفتگو، یودوم به دوران تحصیل خود اشاره کرد و توضیح داد که آن‌ها از زمان مدرسه یکدیگر را می‌شناسند. او یادآور شد که در آن سال‌ها افرادی چون زارا، گوخان تپه، هاکان آلتون و اعضای گروه ایزل-چللیک-ارجان همگی در یک مدرسه حضور داشته‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "45055e509701",
@@ -6045,7 +6026,16 @@
      "snippet": "Sanatçı Seda Sayan, önceki akşam Gaziantep'te sahne aldı. Şarkıları ve esprileriyle geceye damga vuran sanatçı, son dönemde sık sık gündeme gelen estetik ve güzelleşme uğruna yapılanlar hakkında da konuştu.... Devamı için tıklayınız",
      "published": "2026-10-11T15:36:05.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/a18050/1200/675/0/0/1280/720?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/yuzumuz-lastik-mi-gerdir-gerdir-nereye-kadar-1791732948072.jpeg",
+    "https://iasbh.tmgrup.com.tr/8abb47/752/395/0/2/1280/673?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/yuzumuz-lastik-mi-gerdir-gerdir-nereye-kadar-1791732948072.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "03bfbfe0b157",
@@ -6074,7 +6064,16 @@
      "snippet": "Şebnem Ferah'ın yeniden başlayan konser serisi, İstanbul, İzmir ve Ankara'nın ardından Antalya'da devam etti. Konserde 15 bin kişi, yıllardır hayatlarının bir parçası olan şarkıları bu kez Şebnem Ferah'la... Devamı için tıklayınız",
      "published": "2026-10-11T15:34:08.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/2dda4f/1200/675/0/20/900/528?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/sebnem-sarkilarini-15-bin-hayraniyla-soyledi-1791732820013.jpeg",
+    "https://iasbh.tmgrup.com.tr/fd8a21/752/395/0/38/900/510?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/sebnem-sarkilarini-15-bin-hayraniyla-soyledi-1791732820013.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "56d84c21611d",
@@ -6459,7 +6458,8 @@
      "snippet": "Cindy Crawford ve eşi Rande Gerber, 27 yaşındaki oğulları Presley'nin ölümünden sonra ilk kez birlikte görüldü",
      "published": "2026-10-11T13:45:18.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "eb8a0f75ef1f",
