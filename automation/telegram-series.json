@@ -17,7 +17,9 @@
       "excludeRecapEpisodeNumbers": [
         2
       ],
-      "resumeFromTehran": "2026-10-14"
+      "resumeFromTehran": "2026-10-14",
+      "youtubeHandle": "tuzlukahvestartv",
+      "youtubeMaxPerDay": 2
     },
     {
       "seriesSlug": "muhtemel-ask",
@@ -33,7 +35,9 @@
         21
       ],
       "topicCooldownDays": 3,
-      "resumeFromTehran": "2026-10-14"
+      "resumeFromTehran": "2026-10-14",
+      "youtubeHandle": "muhtemelaskdizi",
+      "youtubeMaxPerDay": 2
     }
   ]
 }
