@@ -59,7 +59,7 @@ for(const cfg of config.channels||[]){
   const actorLink=actor?.personSlug?base+'/oyuncu/'+actor.personSlug+'/':seriesLink;
   const question=actor&&second?'شما داستان را بیشتر از زاویهٔ '+(actor.roleFa||actor.nameFa)+' دنبال می‌کنید یا '+(second.roleFa||second.nameFa)+'؟ دلیل انتخابتان چیست؟':'کدام لحظه از داستان بیش از همه در خاطرتان مانده است؟';
   const facts=[
-   {label:'☕ داستان قهوه شور',title:'داستان از کجا آغاز می‌شود؟',summary:record.synopsis||'با ما داستان و شخصیت‌های این سریال را دنبال کنید.',image:record.hero,url:seriesLink},
+   {label:'☕ روایت روز',title:episode?'نگاهی به رویدادهای قسمت '+episode.number:'داستان '+record.titleFa,summary:episode?.summary||record.synopsis,image:episode?.image||record.hero,url:episode?base+'/dizi/'+slug+'/bolum-'+episode.number+'/':seriesLink},
    {label:'🎭 چهره‌های سریال',title:actor?'آشنایی با '+(actor.nameFa||actor.name):'آشنایی با بازیگران '+record.titleFa,summary:actor?('نقش: '+(actor.roleFa||actor.role||'')+'. '+(actor.description||'')+' اطلاعات بازیگر و نقش را در مشکی‌مدیا دنبال کنید.'):record.synopsis,image:actor?.image||record.hero,url:actorLink},
    {label:'📖 آنچه گذشت',title:episode?'مرور قسمت '+episode.number+' '+record.titleFa:'مرور داستان '+record.titleFa,summary:episode?.summary||record.synopsis,image:episode?.image||record.hero,url:episode?base+'/dizi/'+slug+'/bolum-'+episode.number+'/':seriesLink},
    {label:'💬 سؤال روز',title:'شما چه فکر می‌کنید؟',summary:question+' نظر خود را در گفت‌وگوی کانال یا برای دوستانتان مطرح کنید.',image:record.hero,url:seriesLink},
@@ -80,7 +80,13 @@ for(const cfg of config.channels||[]){
  }
  if(!token&&!dry){console.log(slug+': missing bot secret, no posts.');continue;}
  const seen=new Set(state.posted);
- const fresh=entries.filter(x=>!seen.has(x.id)).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,Math.max(1,Math.min(4,Number(cfg.maxPerRun||3))));
+ // Give today's five editorial slots priority while still carrying genuine breaking news.
+ // Avoid publishing a backlog of routine posts in a single run.
+ const pending=entries.filter(x=>!seen.has(x.id));
+ const editorial=pending.filter(x=>x.id.startsWith('daily:'+today+':')).sort((a,b)=>a.date.localeCompare(b.date));
+ const breaking=pending.filter(x=>!x.id.startsWith('daily:')).sort((a,b)=>b.date.localeCompare(a.date));
+ const budget=Math.max(1,Math.min(3,Number(cfg.maxPerRun||3)));
+ const fresh=[...editorial.slice(0,budget),...breaking.slice(0,Math.max(0,budget-editorial.length))];
  for(const item of fresh){
   const summary=strip(item.summary).slice(0,420);
   const title=strip(item.title).slice(0,180);
