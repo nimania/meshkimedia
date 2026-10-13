@@ -20,6 +20,7 @@ on:
       - "automation/ghahvehshoor-telegram.mjs"
       - "automation/telegram-series.json"
       - "automation/test-qahvehshoor-telegram.mjs"
+      - "automation/test-muhtemel-ask-telegram.mjs"
       - "automation/news-bios.mjs"
       - "automation/news-sources.json"
       - ".github/workflows/pages.yml"
@@ -97,6 +98,12 @@ jobs:
         continue-on-error: true
       - name: Verify Qahveh Shoor Telegram delivery once
         run: node automation/test-qahvehshoor-telegram.mjs
+        env:
+          SERIES_TELEGRAM_BOT_TOKEN: ${{ secrets.SERIES_TELEGRAM_BOT_TOKEN }}
+        continue-on-error: true
+      - name: Verify Muhtemel Ask Telegram delivery once
+        id: muhtemel_welcome
+        run: node automation/test-muhtemel-ask-telegram.mjs
         env:
           SERIES_TELEGRAM_BOT_TOKEN: ${{ secrets.SERIES_TELEGRAM_BOT_TOKEN }}
         continue-on-error: true
@@ -192,12 +199,13 @@ jobs:
       # News and bios accumulate over time (the news archive keeps 45 days, bios are fetched
       # 60 at a time), so they are committed back like ratings and episodes.
       - name: Persist news and bios to main
-        if: ${{ !cancelled() && (steps.news.outcome == 'success' || steps.bios.outcome == 'success') }}
+        if: ${{ !cancelled() && (steps.news.outcome == 'success' || steps.bios.outcome == 'success' || steps.muhtemel_welcome.outcome == 'success') }}
         run: |
           files="github-pages/data/news.json github-pages/data/bios.json github-pages/data/telegram-posted.json"
           # Stage even newly created per-series Telegram delivery states.
           git add $files
           if [ -f github-pages/data/telegram-qahvehshoor-test.json ]; then git add github-pages/data/telegram-qahvehshoor-test.json; fi
+          if [ -f github-pages/data/telegram-muhtemel-ask-welcome.json ]; then git add github-pages/data/telegram-muhtemel-ask-welcome.json; fi
           for state_file in github-pages/data/telegram-series-*-posted.json; do
             if [ -f "$state_file" ]; then git add "$state_file"; fi
           done
