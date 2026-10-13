@@ -9,15 +9,18 @@ const dateParts=now=>{
 };
 const roleName=x=>String(x.roleFa||x.role||'').trim();
 const actorName=x=>String(x.nameFa||x.name||'').trim();
-const makeOptions=(value,others)=>{
+const makeOptions=(id,value,others)=>{
  const unique=[value,...others.filter(x=>x&&x!==value)];
- return [...new Set(unique)].slice(0,4).map(text=>({text}));
+ const options=[...new Set(unique)].slice(0,4);
+ const seed=[...id].reduce((n,ch)=>n+ch.codePointAt(0),0);
+ const shift=seed%options.length;
+ return options.slice(shift).concat(options.slice(0,shift)).map(text=>({text}));
 };
 const nativeQuiz=(id,question,correct,distractors,source)=>{
- const options=makeOptions(correct,distractors);
+ const options=makeOptions(id,correct,distractors);
  if(options.length<3)return null;
  const explanation='✅ پاسخ: '+correct+'. اطلاعات بازیگران و داستان بر اساس منابع ثبت‌شده در مشکی‌مدیا: '+source;
- return {id,kind:'quiz',question,options,correct_option_ids:[0],
+ return {id,kind:'quiz',question,options,correct_option_ids:[options.findIndex(x=>x.text===correct)],
   explanation:explanation.slice(0,200)};
 };
 export function quizBank(record){
