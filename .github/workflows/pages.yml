@@ -20,6 +20,8 @@ on:
       - "automation/ghahvehshoor-telegram.mjs"
       - "automation/series-youtube.mjs"
       - "automation/test-series-youtube.mjs"
+      - "automation/series-engagement.mjs"
+      - "automation/test-series-engagement.mjs"
       - "automation/series-ratings-telegram.mjs"
       - "automation/series-ratings-format.mjs"
       - "automation/test-series-ratings-telegram.mjs"
@@ -129,6 +131,8 @@ jobs:
         continue-on-error: true
       - name: Verify official YouTube parsing with fixtures
         run: node automation/test-series-youtube.mjs
+      - name: Test recurring polls and quizzes
+        run: node automation/test-series-engagement.mjs
       - name: Syntax-check series Telegram publisher
         run: node --check automation/ghahvehshoor-telegram.mjs
       - name: Publish individual series to their Telegram channels
