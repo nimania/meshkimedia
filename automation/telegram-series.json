@@ -3,7 +3,7 @@
     {
       "seriesSlug": "tuzlu-kahve",
       "channel": "@ghahvehshoor",
-      "enabled": false,
+      "enabled": true,
       "maxPerRun": 1,
       "dailyMinimum": 5,
       "dailyHours": [
@@ -16,12 +16,13 @@
       "topicCooldownDays": 3,
       "excludeRecapEpisodeNumbers": [
         2
-      ]
+      ],
+      "resumeFromTehran": "2026-10-14"
     },
     {
       "seriesSlug": "muhtemel-ask",
       "channel": "@ehtemalaneshgheh",
-      "enabled": false,
+      "enabled": true,
       "maxPerRun": 1,
       "dailyMinimum": 5,
       "dailyHours": [
@@ -31,7 +32,8 @@
         18,
         21
       ],
-      "topicCooldownDays": 3
+      "topicCooldownDays": 3,
+      "resumeFromTehran": "2026-10-14"
     }
   ]
 }
