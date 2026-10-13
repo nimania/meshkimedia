@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T00:36:28.819662+00:00",
+  "generatedAt": "2026-10-13T14:07:21.791843+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "gunesin-dogdugu-yer:2",
-    "gunesin-dogdugu-yer:3",
-    "gunesin-dogdugu-yer:4",
-    "halef-koklerin-cagrisi:1"
+    "haysiyet:1",
+    "haysiyet:2",
+    "haysiyet:3",
+    "haysiyet:4"
   ],
   "episodes": [
     {
@@ -1028,6 +1028,134 @@
         "\"Halef: Köklerin Çağrısı\" \"1\" srpski prevod subtitle",
         "\"Halef: Köklerin Çağrısı\" \"1\" bosanski titlovi subtitle",
         "\"Halef: Köklerin Çağrısı\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "haysiyet:1",
+      "seriesSlug": "haysiyet",
+      "seriesTitle": "حیثیت",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-13T14:07:21.791843+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Haysiyet\" \"1\" Türkçe altyazı subtitle",
+        "\"Haysiyet\" \"1\" زیرنویس فارسی subtitle",
+        "\"Haysiyet\" \"1\" English subtitles subtitle",
+        "\"Haysiyet\" \"1\" ترجمة عربية subtitle",
+        "\"Haysiyet\" \"1\" srpski prevod subtitle",
+        "\"Haysiyet\" \"1\" bosanski titlovi subtitle",
+        "\"Haysiyet\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "haysiyet:2",
+      "seriesSlug": "haysiyet",
+      "seriesTitle": "حیثیت",
+      "originalEpisode": 2,
+      "checkedAt": "2026-10-13T14:07:21.791843+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Haysiyet\" \"2\" Türkçe altyazı subtitle",
+        "\"Haysiyet\" \"2\" زیرنویس فارسی subtitle",
+        "\"Haysiyet\" \"2\" English subtitles subtitle",
+        "\"Haysiyet\" \"2\" ترجمة عربية subtitle",
+        "\"Haysiyet\" \"2\" srpski prevod subtitle",
+        "\"Haysiyet\" \"2\" bosanski titlovi subtitle",
+        "\"Haysiyet\" \"2\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "haysiyet:3",
+      "seriesSlug": "haysiyet",
+      "seriesTitle": "حیثیت",
+      "originalEpisode": 3,
+      "checkedAt": "2026-10-13T14:07:21.791843+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Haysiyet\" \"3\" Türkçe altyazı subtitle",
+        "\"Haysiyet\" \"3\" زیرنویس فارسی subtitle",
+        "\"Haysiyet\" \"3\" English subtitles subtitle",
+        "\"Haysiyet\" \"3\" ترجمة عربية subtitle",
+        "\"Haysiyet\" \"3\" srpski prevod subtitle",
+        "\"Haysiyet\" \"3\" bosanski titlovi subtitle",
+        "\"Haysiyet\" \"3\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "haysiyet:4",
+      "seriesSlug": "haysiyet",
+      "seriesTitle": "حیثیت",
+      "originalEpisode": 4,
+      "checkedAt": "2026-10-13T14:07:21.791843+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Haysiyet\" \"4\" Türkçe altyazı subtitle",
+        "\"Haysiyet\" \"4\" زیرنویس فارسی subtitle",
+        "\"Haysiyet\" \"4\" English subtitles subtitle",
+        "\"Haysiyet\" \"4\" ترجمة عربية subtitle",
+        "\"Haysiyet\" \"4\" srpski prevod subtitle",
+        "\"Haysiyet\" \"4\" bosanski titlovi subtitle",
+        "\"Haysiyet\" \"4\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
