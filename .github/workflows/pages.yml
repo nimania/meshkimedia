@@ -17,6 +17,8 @@ on:
       - "automation/reviewed-social-ratings.json"
       - "automation/audit-cast.mjs"
       - "automation/news-collect.mjs"
+      - "automation/ghahvehshoor-telegram.mjs"
+      - "automation/telegram-series.json"
       - "automation/news-bios.mjs"
       - "automation/news-sources.json"
       - ".github/workflows/pages.yml"
@@ -86,6 +88,11 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+        continue-on-error: true
+      - name: Publish individual series to their Telegram channels
+        run: node automation/ghahvehshoor-telegram.mjs
+        env:
+          SERIES_TELEGRAM_BOT_TOKEN: ${{ secrets.SERIES_TELEGRAM_BOT_TOKEN }}
         continue-on-error: true
       - name: Publish reviewed Instagram rating supplement
         run: node automation/build-social-ratings.mjs
@@ -181,7 +188,7 @@ jobs:
       - name: Persist news and bios to main
         if: ${{ !cancelled() && (steps.news.outcome == 'success' || steps.bios.outcome == 'success') }}
         run: |
-          files="github-pages/data/news.json github-pages/data/bios.json github-pages/data/telegram-posted.json"
+          files="github-pages/data/news.json github-pages/data/bios.json github-pages/data/telegram-posted.json github-pages/data/telegram-series-*-posted.json"
           if git diff --quiet HEAD -- $files; then
             echo "News and bios unchanged; nothing to persist."
             exit 0
