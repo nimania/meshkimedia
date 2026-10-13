@@ -19,7 +19,9 @@ export function matches(day,record){
 }
 export function ratingsMessage(record,day,rows,channel){
  const date=isoDate(day.date);
- const faDate=new Intl.DateTimeFormat('fa-IR-u-ca-persian',{timeZone:'Asia/Tehran',year:'numeric',month:'long',day:'numeric',weekday:'long'}).format(new Date(date+'T12:00:00Z'));
+ const dateParts=new Intl.DateTimeFormat('fa-IR-u-ca-persian',{timeZone:'Asia/Tehran',year:'numeric',month:'long',day:'numeric',weekday:'long'}).formatToParts(new Date(date+'T12:00:00Z'));
+ const part=k=>dateParts.find(p=>p.type===k)?.value||'';
+ const faDate=[part('weekday'),part('day'),part('month'),part('year')].join(' ');
  const lines=['📊 <b>ریتینگ رسمی «'+esc(record.titleFa)+'»</b>',
  '📅 '+faDate+' | '+day.date,
  ''];
