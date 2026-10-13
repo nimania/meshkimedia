@@ -41,6 +41,35 @@ for(const cfg of config.channels||[]){
    }catch{}
   }
  }catch{}
+ // Five editorial slots per Tehran calendar day, even when no new external news arrives.
+ // Source-grounded formats only: story, cast, character, episode recap and audience question.
+ const tzParts=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tehran',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',hourCycle:'h23'}).formatToParts(new Date());
+ const val=k=>tzParts.find(p=>p.type===k)?.value;
+ const today=val('year')+'-'+val('month')+'-'+val('day');
+ const hour=Number(val('hour'));
+ const dayIndex=Math.floor(Date.parse(today+'T00:00:00Z')/86400000);
+ const slots=Array.isArray(cfg.dailyHours)&&cfg.dailyHours.length===5?cfg.dailyHours:[9,12,15,18,21];
+ if(cfg.dailyMinimum>=5){
+  const cast=record.cast||[];
+  const actor=cast.length?cast[dayIndex%cast.length]:null;
+  const second=cast.length?cast[(dayIndex+1)%cast.length]:null;
+  const episodes=(record.seasons||[]).flatMap(se=>se.episodes||[]).filter(ep=>ep.summary && ep.number);
+  const episode=episodes.length?episodes[dayIndex%episodes.length]:null;
+  const seriesLink=base+'/dizi/'+slug+'/';
+  const actorLink=actor?.personSlug?base+'/oyuncu/'+actor.personSlug+'/':seriesLink;
+  const question=actor&&second?'شما داستان را بیشتر از زاویهٔ '+(actor.roleFa||actor.nameFa)+' دنبال می‌کنید یا '+(second.roleFa||second.nameFa)+'؟ دلیل انتخابتان چیست؟':'کدام لحظه از داستان بیش از همه در خاطرتان مانده است؟';
+  const facts=[
+   {label:'☕ داستان قهوه شور',title:'داستان از کجا آغاز می‌شود؟',summary:record.synopsis||'با ما داستان و شخصیت‌های این سریال را دنبال کنید.',image:record.hero,url:seriesLink},
+   {label:'🎭 چهره‌های سریال',title:actor?'آشنایی با '+(actor.nameFa||actor.name):'آشنایی با بازیگران '+record.titleFa,summary:actor?('نقش: '+(actor.roleFa||actor.role||'')+'. '+(actor.description||'')+' اطلاعات بازیگر و نقش را در مشکی‌مدیا دنبال کنید.'):record.synopsis,image:actor?.image||record.hero,url:actorLink},
+   {label:'📖 آنچه گذشت',title:episode?'مرور قسمت '+episode.number+' '+record.titleFa:'مرور داستان '+record.titleFa,summary:episode?.summary||record.synopsis,image:episode?.image||record.hero,url:episode?base+'/dizi/'+slug+'/bolum-'+episode.number+'/':seriesLink},
+   {label:'💬 سؤال روز',title:'شما چه فکر می‌کنید؟',summary:question+' نظر خود را در گفت‌وگوی کانال یا برای دوستانتان مطرح کنید.',image:record.hero,url:seriesLink},
+   {label:'🔎 شخصیت زیر ذره‌بین',title:second?'شخصیت '+(second.roleFa||second.role||second.nameFa):'دربارهٔ شخصیت‌های سریال',summary:second?.description||record.synopsis,image:second?.image||record.hero,url:second?.personSlug?base+'/oyuncu/'+second.personSlug+'/':seriesLink}
+  ];
+  for(let i=0;i<5;i++){
+   if(hour<Number(slots[i]))continue;
+   items.push({...facts[i],id:'daily:'+today+':'+i,date:today+'T'+String(slots[i]).padStart(2,'0')+':00:00'});
+  }
+ }
  const entries=[...new Map(items.map(x=>[x.id,x])).values()];
  const stateUrl=new URL('telegram-series-'+slug+'-posted.json',data);
  let state=null;try{state=JSON.parse(await readFile(stateUrl,'utf8'));}catch{}
@@ -51,7 +80,7 @@ for(const cfg of config.channels||[]){
  }
  if(!token&&!dry){console.log(slug+': missing bot secret, no posts.');continue;}
  const seen=new Set(state.posted);
- const fresh=entries.filter(x=>!seen.has(x.id)).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,Math.max(1,Math.min(20,Number(cfg.maxPerRun||8))));
+ const fresh=entries.filter(x=>!seen.has(x.id)).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,Math.max(1,Math.min(4,Number(cfg.maxPerRun||3))));
  for(const item of fresh){
   const summary=strip(item.summary).slice(0,420);
   const title=strip(item.title).slice(0,180);
