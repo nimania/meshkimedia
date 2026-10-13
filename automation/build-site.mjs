@@ -18,6 +18,16 @@ const newsData = existsSync(p("data/news.json")) ? JSON.parse(await readFile(p("
 const bios = existsSync(p("data/bios.json")) ? JSON.parse(await readFile(p("data/bios.json"), "utf8")) : {};
 const publishedDubbedForSeries = existsSync(p("data/dubbed.json")) ? JSON.parse(await readFile(p("data/dubbed.json"),"utf8")).series || [] : [];
 const seriesArr = Object.values(series);
+const telegramChannels = JSON.parse(await readFile(new URL("automation/telegram-series.json", new URL("../", import.meta.url)), "utf8")).channels || [];
+const channelFor = (slug) => telegramChannels.find(c => c.enabled !== false && c.seriesSlug === slug && /^@[a-zA-Z0-9_]{5,}$/.test(c.channel))?.channel;
+function withSeriesTelegram(html, slug) {
+  const channel = channelFor(slug);
+  if (!channel || !html.includes("</main>")) return html;
+  const href = "https://t.me/" + channel.slice(1);
+  const promo = '<aside class="series-telegram-invite" aria-label="کانال تلگرام اختصاصی سریال" style="max-width:960px;margin:28px auto;padding:20px;border:1px solid #2489b9;border-radius:16px;background:linear-gradient(135deg,rgba(36,137,185,.12),rgba(36,137,185,.03));line-height:2"><strong style="font-size:1.12rem">📣 کانال تلگرام اختصاصی '+esc(series[slug]?.titleFa || "سریال")+'</strong><p style="margin:6px 0 14px">خبرهای تازه، پاورقی قسمت‌ها، بازیگران و حواشی معتبر را در کانال دنبال کنید.</p><a href="'+href+'" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:9px 18px;background:#168ac3;color:white;border-radius:999px;text-decoration:none;font-weight:700">عضویت و دنبال‌کردن در تلگرام ←</a></aside>';
+  return html.replace("</main>", promo + "</main>");
+}
+
 
 // ---- slug (MUST match github-pages/dizimeter.js) ---------------------------
 function slugify(s) {
@@ -367,12 +377,12 @@ for (const s of seriesArr) {
       await rm(p(`dizi/${s.slug}/${entry.name}/`), { recursive: true, force: true });
     }
   }
-  await writeFile(p(`dizi/${s.slug}/index.html`), seriesPage(s), "utf8"); count.series++;
+  await writeFile(p(`dizi/${s.slug}/index.html`), withSeriesTelegram(seriesPage(s), s.slug), "utf8"); count.series++;
   urls.push({ loc: `${BASE}/dizi/${s.slug}/`, pri: "0.8" });
   for (const legacy of ["profile.js", "profile.css"]) { const lp = p(`dizi/${s.slug}/${legacy}`); if (existsSync(lp)) await rm(lp); }
   for (const ep of episodes) {
     await mkdir(p(`dizi/${s.slug}/bolum-${ep.number}/`), { recursive: true });
-    await writeFile(p(`dizi/${s.slug}/bolum-${ep.number}/index.html`), episodePage(s, ep), "utf8"); count.episodes++;
+    await writeFile(p(`dizi/${s.slug}/bolum-${ep.number}/index.html`), withSeriesTelegram(episodePage(s, ep), s.slug), "utf8"); count.episodes++;
     urls.push({ loc: `${BASE}/dizi/${s.slug}/bolum-${ep.number}/`, pri: "0.6" });
   }
 }
@@ -527,7 +537,7 @@ const lists = [
 for (const l of lists) { await mkdir(p(l.path), { recursive: true }); await writeFile(p(l.path + "index.html"), listPage(l), "utf8"); count.lists++; urls.push({ loc: `${BASE}/${l.path}`, pri: "0.7" }); }
 for (const item of newsWithPage) {
   await mkdir(p(`haber/${item.id}/`), { recursive: true });
-  await writeFile(p(`haber/${item.id}/index.html`), newsItemPage(item), "utf8");
+  await writeFile(p(`haber/${item.id}/index.html`), (item.entities?.series || []).reduce((html, slug) => withSeriesTelegram(html, slug), newsItemPage(item)), "utf8");
   urls.push({ loc: `${BASE}/haber/${item.id}/`, pri: "0.5" });
 }
 // Light public feed for the browser (no article text): the full news.json stays the source of truth.
@@ -632,7 +642,7 @@ for (const s of catalogSeries) {
   await mkdir(p("pavaraghi/"+s.slug+"/"),{recursive:true});
   const seriesPath="pavaraghi/"+s.slug+"/";
   const seriesBody='<main class="app-shell"><section class="intro"><div class="crumbs"><a href="../../pavaraghi/">پاورقی‌ها</a></div><span class="kicker">آرشیو پاورقی</span><h1>پاورقی‌های '+esc(s.titleFa)+'</h1><p>'+esc(s.description || s.titleTr || "")+'</p>'+(s.originalSeriesSlug?'<p><a href="../../dizi/'+encodeURIComponent(s.originalSeriesSlug)+'/">صفحه اصلی سریال در مشکی‌مدیا ←</a></p>':"")+'<nav class="pavaraghi-jump" aria-label="دسته‌بندی پاورقی‌ها"><a href="#pavaraghi-original">پاورقی ارجینال</a> <span class="pavaraghi-jump-separator" aria-hidden="true">•</span> <a href="#pavaraghi-dubbed">پاورقی فارسی</a></nav></section>'+(s.entries.length?pavaraghiGroups(s,s.entries,"../../"):'<p class="notice">این سریال در صف پژوهش و تدوین پاورقی قرار دارد؛ هنوز متن تأییدشده‌ای منتشر نشده است.</p>')+'</main>';
-  await writeFile(p(seriesPath+"index.html"),dubbedShell("../../",{title:dubbedNames(s).join("، ")+" | پاورقی‌های مشکی‌مدیا",desc:(s.description || "پاورقی‌های دوبله فارسی")+" | "+dubbedBroadcastLabel(s),path:seriesPath},seriesBody),"utf8");
+  await writeFile(p(seriesPath+"index.html"),dubbedShell("../../",{title:dubbedNames(s).join("، ")+" | پاورقی‌های مشکی‌مدیا",desc:(s.description || "پاورقی‌های دوبله فارسی")+" | "+dubbedBroadcastLabel(s),path:seriesPath},withSeriesTelegram(seriesBody, s.originalSeriesSlug || s.slug)),"utf8");
   urls.push({loc:BASE+"/"+seriesPath,pri:"0.6"});
   for(let i=0;i<s.entries.length;i++){
     const e=s.entries[i]; if(!/^[a-z0-9-]+$/.test(e.slug))continue;
@@ -672,7 +682,7 @@ for (const s of catalogSeries) {
     }
     const narrativeHtml = e.paragraphs.map((t,i)=>(sectionMap.has(i)?'<h2 class="pavaraghi-subheading">'+esc(sectionMap.get(i))+'</h2>':"")+'<p>'+esc(t)+'</p>').join("");
     const body='<main class="app-shell"><article><div class="crumbs"><a href="../../../pavaraghi/">پاورقی</a> / <a href="../">'+esc(s.titleFa)+'</a></div><header class="intro"><span class="kicker">پاورقی مشکی‌مدیا</span><h1>'+esc(publicTitle || "قسمت "+e.persianEpisode)+'</h1><p>قسمت اصلی ترکی: '+esc(e.originalEpisode || "ثبت‌نشده")+(e.broadcastRefs?.some(r=>r.verified===true)?' · '+esc(e.broadcastRefs.filter(r=>r.verified===true).map(r=>(r.network==="gem"?"GEM":r.network==="mbc-persia"?"MBC Persia":r.network)+": قسمت "+r.persianEpisode).join(" · ")):' · بخش پاورقی: '+esc(e.part || e.persianEpisode || "ثبت‌نشده"))+'</p></header>'+pavaraghiFigure(pavaraghiCover(s,e))+previouslyHtml+'<div class="pavaraghi-text">'+narrativeHtml+'</div>'+upcomingHtml+foot+yt+audio+'</article><nav class="dubbed-list">'+(prev?dubbedCard("قسمت قبل","ادامه آرشیو","../"+prev.slug+"/"):"")+(next?dubbedCard("قسمت بعد","ادامه آرشیو","../"+next.slug+"/"):"")+'</nav></main>';
-    await writeFile(p(path+"index.html"),dubbedShell("../../../",{title:(e.title || "پاورقی")+" | "+s.titleFa+" | مشکی‌مدیا",desc:(e.paragraphs[0]||"").slice(0,155),path,ogImage:pavaraghiCover(s,e)?.src || ""},body),"utf8");
+    await writeFile(p(path+"index.html"),dubbedShell("../../../",{title:(e.title || "پاورقی")+" | "+s.titleFa+" | مشکی‌مدیا",desc:(e.paragraphs[0]||"").slice(0,155),path,ogImage:pavaraghiCover(s,e)?.src || ""},withSeriesTelegram(body, s.originalSeriesSlug || s.slug)),"utf8");
     urls.push({loc:BASE+"/"+path,pri:"0.5"});
   }
 }
