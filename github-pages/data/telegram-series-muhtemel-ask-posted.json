@@ -35,12 +35,17 @@
     "pavaraghi:dubbed-6",
     "pavaraghi:original-1",
     "pavaraghi:original-2",
-    "news:9e3d0685965a"
+    "news:9e3d0685965a",
+    "editorial:original-1:0",
+    "slot:2026-10-14:0"
   ],
   "contentHashes": [
-    "7452641fdade7a791eef4f0d"
+    "7452641fdade7a791eef4f0d",
+    "58d959fedf7662ceb6ef119a"
   ],
-  "lastSubjects": {},
-  "updated": "2026-10-14T01:17:56.603Z",
+  "lastSubjects": {
+    "episode:1": "2026-10-14"
+  },
+  "updated": "2026-10-14T06:18:29.400Z",
   "youtubeSources": {}
 }
