@@ -41,7 +41,10 @@
     "editorial:cast:ayca-aysin-turan",
     "slot:2026-10-14:1",
     "editorial:original-2:3",
-    "slot:2026-10-14:2"
+    "slot:2026-10-14:2",
+    "engagement:quiz:actor:ayca-aysin-turan",
+    "engagement-day:2026-10-14",
+    "slot:2026-10-14:3"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -54,6 +57,15 @@
     "actor:ayca-aysin-turan": "2026-10-14",
     "episode:2": "2026-10-14"
   },
-  "updated": "2026-10-14T12:59:07.852Z",
-  "youtubeSources": {}
+  "updated": "2026-10-14T17:17:37.129Z",
+  "youtubeSources": {},
+  "engagementReceipts": {
+    "engagement:quiz:actor:ayca-aysin-turan": {
+      "message_id": 11,
+      "poll_id": "5944893864820081832",
+      "date": "2026-10-14",
+      "channel": "@ehtemalaneshgheh",
+      "url": "https://t.me/ehtemalaneshgheh/11"
+    }
+  }
 }
