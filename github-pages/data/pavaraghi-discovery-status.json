@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T22:41:42.069231+00:00",
+  "generatedAt": "2026-10-14T04:49:13.906829+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "haysiyet:5",
-    "kizilcik-serbeti:1",
-    "kizilcik-serbeti:140",
-    "kizilcik-serbeti:141"
+    "mehmed-fetihler-sultani:1",
+    "mercan-kosk:1",
+    "mercan-kosk:2",
+    "mercan-kosk:3"
   ],
   "episodes": [
     {
@@ -1284,6 +1284,134 @@
         "\"Kızılcık Şerbeti\" \"141\" srpski prevod subtitle",
         "\"Kızılcık Şerbeti\" \"141\" bosanski titlovi subtitle",
         "\"Kızılcık Şerbeti\" \"141\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "mehmed-fetihler-sultani:1",
+      "seriesSlug": "mehmed-fetihler-sultani",
+      "seriesTitle": "محمد: سلطان فتوحات",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-14T04:49:13.906829+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Mehmed: Fetihler Sultanı\" \"1\" Türkçe altyazı subtitle",
+        "\"Mehmed: Fetihler Sultanı\" \"1\" زیرنویس فارسی subtitle",
+        "\"Mehmed: Fetihler Sultanı\" \"1\" English subtitles subtitle",
+        "\"Mehmed: Fetihler Sultanı\" \"1\" ترجمة عربية subtitle",
+        "\"Mehmed: Fetihler Sultanı\" \"1\" srpski prevod subtitle",
+        "\"Mehmed: Fetihler Sultanı\" \"1\" bosanski titlovi subtitle",
+        "\"Mehmed: Fetihler Sultanı\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "mercan-kosk:1",
+      "seriesSlug": "mercan-kosk",
+      "seriesTitle": "عمارت مرجان",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-14T04:49:13.906829+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Mercan Köşk\" \"1\" Türkçe altyazı subtitle",
+        "\"Mercan Köşk\" \"1\" زیرنویس فارسی subtitle",
+        "\"Mercan Köşk\" \"1\" English subtitles subtitle",
+        "\"Mercan Köşk\" \"1\" ترجمة عربية subtitle",
+        "\"Mercan Köşk\" \"1\" srpski prevod subtitle",
+        "\"Mercan Köşk\" \"1\" bosanski titlovi subtitle",
+        "\"Mercan Köşk\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "mercan-kosk:2",
+      "seriesSlug": "mercan-kosk",
+      "seriesTitle": "عمارت مرجان",
+      "originalEpisode": 2,
+      "checkedAt": "2026-10-14T04:49:13.906829+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Mercan Köşk\" \"2\" Türkçe altyazı subtitle",
+        "\"Mercan Köşk\" \"2\" زیرنویس فارسی subtitle",
+        "\"Mercan Köşk\" \"2\" English subtitles subtitle",
+        "\"Mercan Köşk\" \"2\" ترجمة عربية subtitle",
+        "\"Mercan Köşk\" \"2\" srpski prevod subtitle",
+        "\"Mercan Köşk\" \"2\" bosanski titlovi subtitle",
+        "\"Mercan Köşk\" \"2\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "mercan-kosk:3",
+      "seriesSlug": "mercan-kosk",
+      "seriesTitle": "عمارت مرجان",
+      "originalEpisode": 3,
+      "checkedAt": "2026-10-14T04:49:13.906829+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Mercan Köşk\" \"3\" Türkçe altyazı subtitle",
+        "\"Mercan Köşk\" \"3\" زیرنویس فارسی subtitle",
+        "\"Mercan Köşk\" \"3\" English subtitles subtitle",
+        "\"Mercan Köşk\" \"3\" ترجمة عربية subtitle",
+        "\"Mercan Köşk\" \"3\" srpski prevod subtitle",
+        "\"Mercan Köşk\" \"3\" bosanski titlovi subtitle",
+        "\"Mercan Köşk\" \"3\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
