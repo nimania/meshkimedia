@@ -39,17 +39,21 @@
     "editorial:original-1:0",
     "slot:2026-10-14:0",
     "editorial:cast:ayca-aysin-turan",
-    "slot:2026-10-14:1"
+    "slot:2026-10-14:1",
+    "editorial:original-2:3",
+    "slot:2026-10-14:2"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
     "58d959fedf7662ceb6ef119a",
-    "25a59e6090e904de48d010a5"
+    "25a59e6090e904de48d010a5",
+    "8c71a4ca4d5dd7a9caedc952"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-14",
-    "actor:ayca-aysin-turan": "2026-10-14"
+    "actor:ayca-aysin-turan": "2026-10-14",
+    "episode:2": "2026-10-14"
   },
-  "updated": "2026-10-14T12:09:07.368Z",
+  "updated": "2026-10-14T12:59:07.852Z",
   "youtubeSources": {}
 }
