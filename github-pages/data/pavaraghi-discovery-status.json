@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T04:49:13.906829+00:00",
+  "generatedAt": "2026-10-14T11:47:32.023551+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "mehmed-fetihler-sultani:1",
-    "mercan-kosk:1",
-    "mercan-kosk:2",
-    "mercan-kosk:3"
+    "mercan-kosk:4",
+    "mercan-kosk:5",
+    "muhtemel-ask:1",
+    "muhtemel-ask:2"
   ],
   "episodes": [
     {
@@ -1412,6 +1412,134 @@
         "\"Mercan Köşk\" \"3\" srpski prevod subtitle",
         "\"Mercan Köşk\" \"3\" bosanski titlovi subtitle",
         "\"Mercan Köşk\" \"3\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "mercan-kosk:4",
+      "seriesSlug": "mercan-kosk",
+      "seriesTitle": "عمارت مرجان",
+      "originalEpisode": 4,
+      "checkedAt": "2026-10-14T11:47:32.023551+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Mercan Köşk\" \"4\" Türkçe altyazı subtitle",
+        "\"Mercan Köşk\" \"4\" زیرنویس فارسی subtitle",
+        "\"Mercan Köşk\" \"4\" English subtitles subtitle",
+        "\"Mercan Köşk\" \"4\" ترجمة عربية subtitle",
+        "\"Mercan Köşk\" \"4\" srpski prevod subtitle",
+        "\"Mercan Köşk\" \"4\" bosanski titlovi subtitle",
+        "\"Mercan Köşk\" \"4\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "mercan-kosk:5",
+      "seriesSlug": "mercan-kosk",
+      "seriesTitle": "عمارت مرجان",
+      "originalEpisode": 5,
+      "checkedAt": "2026-10-14T11:47:32.023551+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Mercan Köşk\" \"5\" Türkçe altyazı subtitle",
+        "\"Mercan Köşk\" \"5\" زیرنویس فارسی subtitle",
+        "\"Mercan Köşk\" \"5\" English subtitles subtitle",
+        "\"Mercan Köşk\" \"5\" ترجمة عربية subtitle",
+        "\"Mercan Köşk\" \"5\" srpski prevod subtitle",
+        "\"Mercan Köşk\" \"5\" bosanski titlovi subtitle",
+        "\"Mercan Köşk\" \"5\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "muhtemel-ask:1",
+      "seriesSlug": "muhtemel-ask",
+      "seriesTitle": "احتمالاً عشقه",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-14T11:47:32.023551+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Muhtemel Aşk\" \"1\" Türkçe altyazı subtitle",
+        "\"Muhtemel Aşk\" \"1\" زیرنویس فارسی subtitle",
+        "\"Muhtemel Aşk\" \"1\" English subtitles subtitle",
+        "\"Muhtemel Aşk\" \"1\" ترجمة عربية subtitle",
+        "\"Muhtemel Aşk\" \"1\" srpski prevod subtitle",
+        "\"Muhtemel Aşk\" \"1\" bosanski titlovi subtitle",
+        "\"Muhtemel Aşk\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "muhtemel-ask:2",
+      "seriesSlug": "muhtemel-ask",
+      "seriesTitle": "احتمالاً عشقه",
+      "originalEpisode": 2,
+      "checkedAt": "2026-10-14T11:47:32.023551+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Muhtemel Aşk\" \"2\" Türkçe altyazı subtitle",
+        "\"Muhtemel Aşk\" \"2\" زیرنویس فارسی subtitle",
+        "\"Muhtemel Aşk\" \"2\" English subtitles subtitle",
+        "\"Muhtemel Aşk\" \"2\" ترجمة عربية subtitle",
+        "\"Muhtemel Aşk\" \"2\" srpski prevod subtitle",
+        "\"Muhtemel Aşk\" \"2\" bosanski titlovi subtitle",
+        "\"Muhtemel Aşk\" \"2\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
