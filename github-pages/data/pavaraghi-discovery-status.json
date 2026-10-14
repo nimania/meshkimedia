@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T17:07:23.706004+00:00",
+  "generatedAt": "2026-10-14T21:38:49.303582+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "omur-usta:1",
-    "sevdan-bir-ates:1",
-    "sevdan-bir-ates:2",
-    "sevdan-bir-ates:3"
+    "sevdan-bir-ates:4",
+    "sevdan-bir-ates:5",
+    "sevdigim-sensin:1",
+    "teskilat:1"
   ],
   "episodes": [
     {
@@ -1668,6 +1668,134 @@
         "\"Sevdan Bir Ateş\" \"3\" srpski prevod subtitle",
         "\"Sevdan Bir Ateş\" \"3\" bosanski titlovi subtitle",
         "\"Sevdan Bir Ateş\" \"3\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "sevdan-bir-ates:4",
+      "seriesSlug": "sevdan-bir-ates",
+      "seriesTitle": "عشقت یک آتش است",
+      "originalEpisode": 4,
+      "checkedAt": "2026-10-14T21:38:49.303582+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Sevdan Bir Ateş\" \"4\" Türkçe altyazı subtitle",
+        "\"Sevdan Bir Ateş\" \"4\" زیرنویس فارسی subtitle",
+        "\"Sevdan Bir Ateş\" \"4\" English subtitles subtitle",
+        "\"Sevdan Bir Ateş\" \"4\" ترجمة عربية subtitle",
+        "\"Sevdan Bir Ateş\" \"4\" srpski prevod subtitle",
+        "\"Sevdan Bir Ateş\" \"4\" bosanski titlovi subtitle",
+        "\"Sevdan Bir Ateş\" \"4\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "sevdan-bir-ates:5",
+      "seriesSlug": "sevdan-bir-ates",
+      "seriesTitle": "عشقت یک آتش است",
+      "originalEpisode": 5,
+      "checkedAt": "2026-10-14T21:38:49.303582+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Sevdan Bir Ateş\" \"5\" Türkçe altyazı subtitle",
+        "\"Sevdan Bir Ateş\" \"5\" زیرنویس فارسی subtitle",
+        "\"Sevdan Bir Ateş\" \"5\" English subtitles subtitle",
+        "\"Sevdan Bir Ateş\" \"5\" ترجمة عربية subtitle",
+        "\"Sevdan Bir Ateş\" \"5\" srpski prevod subtitle",
+        "\"Sevdan Bir Ateş\" \"5\" bosanski titlovi subtitle",
+        "\"Sevdan Bir Ateş\" \"5\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "sevdigim-sensin:1",
+      "seriesSlug": "sevdigim-sensin",
+      "seriesTitle": "تو همانی که دوستش دارم",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-14T21:38:49.303582+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Sevdiğim Sensin\" \"1\" Türkçe altyazı subtitle",
+        "\"Sevdiğim Sensin\" \"1\" زیرنویس فارسی subtitle",
+        "\"Sevdiğim Sensin\" \"1\" English subtitles subtitle",
+        "\"Sevdiğim Sensin\" \"1\" ترجمة عربية subtitle",
+        "\"Sevdiğim Sensin\" \"1\" srpski prevod subtitle",
+        "\"Sevdiğim Sensin\" \"1\" bosanski titlovi subtitle",
+        "\"Sevdiğim Sensin\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "teskilat:1",
+      "seriesSlug": "teskilat",
+      "seriesTitle": "تشکیلات",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-14T21:38:49.303582+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Teşkilat\" \"1\" Türkçe altyazı subtitle",
+        "\"Teşkilat\" \"1\" زیرنویس فارسی subtitle",
+        "\"Teşkilat\" \"1\" English subtitles subtitle",
+        "\"Teşkilat\" \"1\" ترجمة عربية subtitle",
+        "\"Teşkilat\" \"1\" srpski prevod subtitle",
+        "\"Teşkilat\" \"1\" bosanski titlovi subtitle",
+        "\"Teşkilat\" \"1\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
