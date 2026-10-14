@@ -40,14 +40,18 @@
     "daily:2026-10-13:1",
     "daily:2026-10-13:2",
     "editorial:original-1:0",
-    "slot:2026-10-14:0"
+    "slot:2026-10-14:0",
+    "editorial:cast:nebahat-cehre",
+    "slot:2026-10-14:1"
   ],
-  "updated": "2026-10-14T06:18:26.770Z",
+  "updated": "2026-10-14T12:09:03.796Z",
   "youtubeSources": {},
   "contentHashes": [
-    "e16c5e5e3da6c81cf43d9e98"
+    "e16c5e5e3da6c81cf43d9e98",
+    "39f57555ad2cf4d686df1eb6"
   ],
   "lastSubjects": {
-    "episode:1": "2026-10-14"
+    "episode:1": "2026-10-14",
+    "actor:nebahat-cehre": "2026-10-14"
   }
 }
