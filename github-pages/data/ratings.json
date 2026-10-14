@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T13:03:09.094Z",
+  "updatedAt": "2026-10-14T12:03:15.950Z",
   "metric": "Rating %",
   "windowDays": 120,
   "source": {
@@ -27,6 +27,233 @@
     }
   },
   "days": [
+    {
+      "date": "13.10.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "GALATASARAY-BARCELONA UEFA SAMPIYONLAR LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 15.14,
+            "share": 42.98
+          },
+          {
+            "rank": 2,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 4.81,
+            "share": 13.07
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.76,
+            "share": 36.2
+          },
+          {
+            "rank": 4,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 4.14,
+            "share": 20.21
+          },
+          {
+            "rank": 5,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 4.07,
+            "share": 10.82
+          },
+          {
+            "rank": 6,
+            "program": "ANNE YARISI",
+            "network": "NOW",
+            "rating": 3.81,
+            "share": 10.29
+          },
+          {
+            "rank": 7,
+            "program": "MEHMED FETIHLER SULTANI",
+            "network": "TRT 1",
+            "rating": 3.62,
+            "share": 9.95
+          },
+          {
+            "rank": 8,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.3,
+            "share": 11.01
+          },
+          {
+            "rank": 9,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 3.03,
+            "share": 10.12
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.91,
+            "share": 9.8
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "GALATASARAY-BARCELONA UEFA SAMPIYONLAR LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 17.37,
+            "share": 50.73
+          },
+          {
+            "rank": 2,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 5.92,
+            "share": 16.79
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.31,
+            "share": 30
+          },
+          {
+            "rank": 4,
+            "program": "MEHMED FETIHLER SULTANI",
+            "network": "TRT 1",
+            "rating": 3.19,
+            "share": 9.13
+          },
+          {
+            "rank": 5,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.95,
+            "share": 11.21
+          },
+          {
+            "rank": 6,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 2.84,
+            "share": 7.84
+          },
+          {
+            "rank": 7,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.66,
+            "share": 7.88
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.55,
+            "share": 15.96
+          },
+          {
+            "rank": 9,
+            "program": "ANNE YARISI",
+            "network": "NOW",
+            "rating": 2.54,
+            "share": 7.13
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.18,
+            "share": 8.42
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "GALATASARAY-BARCELONA UEFA SAMPIYONLAR LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 18.32,
+            "share": 48.02
+          },
+          {
+            "rank": 2,
+            "program": "TUZLU KAHVE",
+            "network": "STAR TV",
+            "rating": 5.92,
+            "share": 15.56
+          },
+          {
+            "rank": 3,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.75,
+            "share": 35.72
+          },
+          {
+            "rank": 4,
+            "program": "MEHMED FETIHLER SULTANI",
+            "network": "TRT 1",
+            "rating": 3.87,
+            "share": 10.4
+          },
+          {
+            "rank": 5,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.61,
+            "share": 12.71
+          },
+          {
+            "rank": 6,
+            "program": "ANNE YARISI",
+            "network": "NOW",
+            "rating": 3.57,
+            "share": 9.11
+          },
+          {
+            "rank": 7,
+            "program": "HAYSIYET",
+            "network": "KANAL D",
+            "rating": 3.52,
+            "share": 8.83
+          },
+          {
+            "rank": 8,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.44,
+            "share": 18.77
+          },
+          {
+            "rank": 9,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.99,
+            "share": 10.66
+          },
+          {
+            "rank": 10,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.8,
+            "share": 7.46
+          }
+        ]
+      }
+    },
     {
       "date": "12.10.2026",
       "weekday": "",
