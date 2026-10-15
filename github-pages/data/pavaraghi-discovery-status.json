@@ -1,11 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:24:11.909666+00:00",
+  "generatedAt": "2026-10-15T16:57:28.109953+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "yeralti:1"
+    "tuzlu-kahve:1",
+    "tuzlu-kahve:2",
+    "tuzlu-kahve:3",
+    "tuzlu-kahve:4"
   ],
   "episodes": [
     {
@@ -13,7 +16,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-10T17:19:50.249900+00:00",
+      "checkedAt": "2026-10-15T16:57:28.109953+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -45,7 +48,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 2,
-      "checkedAt": "2026-10-10T17:19:50.249900+00:00",
+      "checkedAt": "2026-10-15T16:57:28.109953+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -77,7 +80,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 3,
-      "checkedAt": "2026-10-10T17:19:50.249900+00:00",
+      "checkedAt": "2026-10-15T16:57:28.109953+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -109,7 +112,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 4,
-      "checkedAt": "2026-10-10T17:19:50.249900+00:00",
+      "checkedAt": "2026-10-15T16:57:28.109953+00:00",
       "languagesToTry": [
         "tr",
         "fa",
