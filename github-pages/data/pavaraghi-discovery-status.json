@@ -1,14 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T04:33:42.087080+00:00",
+  "generatedAt": "2026-10-15T11:24:11.909666+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "uzak-sehir:1",
-    "uzak-sehir:65",
-    "uzak-sehir:66",
-    "uzak-sehir:67"
+    "yeralti:1"
   ],
   "episodes": [
     {
@@ -1924,6 +1921,38 @@
         "\"Uzak Şehir\" \"67\" srpski prevod subtitle",
         "\"Uzak Şehir\" \"67\" bosanski titlovi subtitle",
         "\"Uzak Şehir\" \"67\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "yeralti:1",
+      "seriesSlug": "yeralti",
+      "seriesTitle": "زیرزمین",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-15T11:24:11.909666+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Yeraltı\" \"1\" Türkçe altyazı subtitle",
+        "\"Yeraltı\" \"1\" زیرنویس فارسی subtitle",
+        "\"Yeraltı\" \"1\" English subtitles subtitle",
+        "\"Yeraltı\" \"1\" ترجمة عربية subtitle",
+        "\"Yeraltı\" \"1\" srpski prevod subtitle",
+        "\"Yeraltı\" \"1\" bosanski titlovi subtitle",
+        "\"Yeraltı\" \"1\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
