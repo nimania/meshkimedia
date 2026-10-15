@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T16:57:28.109953+00:00",
+  "generatedAt": "2026-10-15T21:20:25.031655+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "tuzlu-kahve:1",
-    "tuzlu-kahve:2",
-    "tuzlu-kahve:3",
-    "tuzlu-kahve:4"
+    "tuzlu-kahve:5",
+    "tuzlu-kahve:6",
+    "abi:1",
+    "abi:19"
   ],
   "episodes": [
     {
@@ -144,7 +144,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 5,
-      "checkedAt": "2026-10-10T21:40:41.967462+00:00",
+      "checkedAt": "2026-10-15T21:20:25.031655+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -176,7 +176,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 6,
-      "checkedAt": "2026-10-10T21:40:41.967462+00:00",
+      "checkedAt": "2026-10-15T21:20:25.031655+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -208,7 +208,7 @@
       "seriesSlug": "abi",
       "seriesTitle": "خانواده یک آزمون است",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-10T21:40:41.967462+00:00",
+      "checkedAt": "2026-10-15T21:20:25.031655+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -240,7 +240,7 @@
       "seriesSlug": "abi",
       "seriesTitle": "خانواده یک آزمون است",
       "originalEpisode": 19,
-      "checkedAt": "2026-10-10T21:40:41.967462+00:00",
+      "checkedAt": "2026-10-15T21:20:25.031655+00:00",
       "languagesToTry": [
         "tr",
         "fa",
