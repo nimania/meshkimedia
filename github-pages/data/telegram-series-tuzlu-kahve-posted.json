@@ -47,19 +47,23 @@
     "slot:2026-10-14:2",
     "engagement:quiz:actor:nebahat-cehre",
     "engagement-day:2026-10-14",
-    "slot:2026-10-14:3"
+    "slot:2026-10-14:3",
+    "editorial:original-4:0",
+    "slot:2026-10-15:0"
   ],
-  "updated": "2026-10-14T17:17:34.447Z",
+  "updated": "2026-10-15T10:08:19.464Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
     "39f57555ad2cf4d686df1eb6",
-    "a133cb10e685e7a8648d5b57"
+    "a133cb10e685e7a8648d5b57",
+    "b1d801d0331d33b5368d1f94"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-14",
     "actor:nebahat-cehre": "2026-10-14",
-    "episode:3": "2026-10-14"
+    "episode:3": "2026-10-14",
+    "episode:4": "2026-10-15"
   },
   "engagementReceipts": {
     "engagement:quiz:actor:nebahat-cehre": {

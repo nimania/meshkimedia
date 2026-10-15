@@ -44,20 +44,24 @@
     "slot:2026-10-14:2",
     "engagement:quiz:actor:ayca-aysin-turan",
     "engagement-day:2026-10-14",
-    "slot:2026-10-14:3"
+    "slot:2026-10-14:3",
+    "editorial:cast:ekin-koc",
+    "slot:2026-10-15:0"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
     "58d959fedf7662ceb6ef119a",
     "25a59e6090e904de48d010a5",
-    "8c71a4ca4d5dd7a9caedc952"
+    "8c71a4ca4d5dd7a9caedc952",
+    "f1f00ebc2720d294b1e08729"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-14",
     "actor:ayca-aysin-turan": "2026-10-14",
-    "episode:2": "2026-10-14"
+    "episode:2": "2026-10-14",
+    "actor:ekin-koc": "2026-10-15"
   },
-  "updated": "2026-10-14T17:17:37.129Z",
+  "updated": "2026-10-15T10:08:23.196Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
