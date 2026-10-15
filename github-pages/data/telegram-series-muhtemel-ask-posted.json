@@ -48,7 +48,10 @@
     "editorial:cast:ekin-koc",
     "slot:2026-10-15:0",
     "editorial:cast:feyyaz-serifoglu",
-    "slot:2026-10-15:1"
+    "slot:2026-10-15:1",
+    "engagement:poll:independence",
+    "engagement-day:2026-10-15",
+    "slot:2026-10-15:3"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -63,9 +66,10 @@
     "actor:ayca-aysin-turan": "2026-10-14",
     "episode:2": "2026-10-14",
     "actor:ekin-koc": "2026-10-15",
-    "actor:feyyaz-serifoglu": "2026-10-15"
+    "actor:feyyaz-serifoglu": "2026-10-15",
+    "poll:independence": "2026-10-15"
   },
-  "updated": "2026-10-15T12:34:58.545Z",
+  "updated": "2026-10-15T15:11:02.690Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
@@ -74,6 +78,13 @@
       "date": "2026-10-14",
       "channel": "@ehtemalaneshgheh",
       "url": "https://t.me/ehtemalaneshgheh/11"
+    },
+    "engagement:poll:independence": {
+      "message_id": 14,
+      "poll_id": "5947050565467899449",
+      "date": "2026-10-15",
+      "channel": "@ehtemalaneshgheh",
+      "url": "https://t.me/ehtemalaneshgheh/14"
     }
   }
 }

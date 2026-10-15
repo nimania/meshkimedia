@@ -51,9 +51,12 @@
     "editorial:original-4:0",
     "slot:2026-10-15:0",
     "editorial:cast:eda-ece",
-    "slot:2026-10-15:1"
+    "slot:2026-10-15:1",
+    "engagement:poll:family",
+    "engagement-day:2026-10-15",
+    "slot:2026-10-15:3"
   ],
-  "updated": "2026-10-15T12:34:54.410Z",
+  "updated": "2026-10-15T15:10:59.982Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
@@ -67,7 +70,8 @@
     "actor:nebahat-cehre": "2026-10-14",
     "episode:3": "2026-10-14",
     "episode:4": "2026-10-15",
-    "actor:eda-ece": "2026-10-15"
+    "actor:eda-ece": "2026-10-15",
+    "poll:family": "2026-10-15"
   },
   "engagementReceipts": {
     "engagement:quiz:actor:nebahat-cehre": {
@@ -76,6 +80,13 @@
       "date": "2026-10-14",
       "channel": "@ghahvehshoor",
       "url": "https://t.me/ghahvehshoor/13"
+    },
+    "engagement:poll:family": {
+      "message_id": 16,
+      "poll_id": "5947458656080495973",
+      "date": "2026-10-15",
+      "channel": "@ghahvehshoor",
+      "url": "https://t.me/ghahvehshoor/16"
     }
   }
 }
