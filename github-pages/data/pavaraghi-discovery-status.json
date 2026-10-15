@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T21:38:49.303582+00:00",
+  "generatedAt": "2026-10-15T04:33:42.087080+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "sevdan-bir-ates:4",
-    "sevdan-bir-ates:5",
-    "sevdigim-sensin:1",
-    "teskilat:1"
+    "uzak-sehir:1",
+    "uzak-sehir:65",
+    "uzak-sehir:66",
+    "uzak-sehir:67"
   ],
   "episodes": [
     {
@@ -1796,6 +1796,134 @@
         "\"Teşkilat\" \"1\" srpski prevod subtitle",
         "\"Teşkilat\" \"1\" bosanski titlovi subtitle",
         "\"Teşkilat\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "uzak-sehir:1",
+      "seriesSlug": "uzak-sehir",
+      "seriesTitle": "شهر دور",
+      "originalEpisode": 1,
+      "checkedAt": "2026-10-15T04:33:42.087080+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Uzak Şehir\" \"1\" Türkçe altyazı subtitle",
+        "\"Uzak Şehir\" \"1\" زیرنویس فارسی subtitle",
+        "\"Uzak Şehir\" \"1\" English subtitles subtitle",
+        "\"Uzak Şehir\" \"1\" ترجمة عربية subtitle",
+        "\"Uzak Şehir\" \"1\" srpski prevod subtitle",
+        "\"Uzak Şehir\" \"1\" bosanski titlovi subtitle",
+        "\"Uzak Şehir\" \"1\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "uzak-sehir:65",
+      "seriesSlug": "uzak-sehir",
+      "seriesTitle": "شهر دور",
+      "originalEpisode": 65,
+      "checkedAt": "2026-10-15T04:33:42.087080+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Uzak Şehir\" \"65\" Türkçe altyazı subtitle",
+        "\"Uzak Şehir\" \"65\" زیرنویس فارسی subtitle",
+        "\"Uzak Şehir\" \"65\" English subtitles subtitle",
+        "\"Uzak Şehir\" \"65\" ترجمة عربية subtitle",
+        "\"Uzak Şehir\" \"65\" srpski prevod subtitle",
+        "\"Uzak Şehir\" \"65\" bosanski titlovi subtitle",
+        "\"Uzak Şehir\" \"65\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "uzak-sehir:66",
+      "seriesSlug": "uzak-sehir",
+      "seriesTitle": "شهر دور",
+      "originalEpisode": 66,
+      "checkedAt": "2026-10-15T04:33:42.087080+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Uzak Şehir\" \"66\" Türkçe altyazı subtitle",
+        "\"Uzak Şehir\" \"66\" زیرنویس فارسی subtitle",
+        "\"Uzak Şehir\" \"66\" English subtitles subtitle",
+        "\"Uzak Şehir\" \"66\" ترجمة عربية subtitle",
+        "\"Uzak Şehir\" \"66\" srpski prevod subtitle",
+        "\"Uzak Şehir\" \"66\" bosanski titlovi subtitle",
+        "\"Uzak Şehir\" \"66\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "uzak-sehir:67",
+      "seriesSlug": "uzak-sehir",
+      "seriesTitle": "شهر دور",
+      "originalEpisode": 67,
+      "checkedAt": "2026-10-15T04:33:42.087080+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Uzak Şehir\" \"67\" Türkçe altyazı subtitle",
+        "\"Uzak Şehir\" \"67\" زیرنویس فارسی subtitle",
+        "\"Uzak Şehir\" \"67\" English subtitles subtitle",
+        "\"Uzak Şehir\" \"67\" ترجمة عربية subtitle",
+        "\"Uzak Şehir\" \"67\" srpski prevod subtitle",
+        "\"Uzak Şehir\" \"67\" bosanski titlovi subtitle",
+        "\"Uzak Şehir\" \"67\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
