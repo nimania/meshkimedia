@@ -54,16 +54,19 @@
     "slot:2026-10-15:1",
     "engagement:poll:family",
     "engagement-day:2026-10-15",
-    "slot:2026-10-15:3"
+    "slot:2026-10-15:3",
+    "editorial:original-5:3",
+    "slot:2026-10-15:2"
   ],
-  "updated": "2026-10-15T15:10:59.982Z",
+  "updated": "2026-10-15T19:13:48.275Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
     "39f57555ad2cf4d686df1eb6",
     "a133cb10e685e7a8648d5b57",
     "b1d801d0331d33b5368d1f94",
-    "963e5bd9882a8327e0876c1e"
+    "963e5bd9882a8327e0876c1e",
+    "3b0eebb73288aa5b79112cec"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-14",
@@ -71,7 +74,8 @@
     "episode:3": "2026-10-14",
     "episode:4": "2026-10-15",
     "actor:eda-ece": "2026-10-15",
-    "poll:family": "2026-10-15"
+    "poll:family": "2026-10-15",
+    "episode:5": "2026-10-15"
   },
   "engagementReceipts": {
     "engagement:quiz:actor:nebahat-cehre": {
