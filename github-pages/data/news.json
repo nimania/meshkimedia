@@ -1,6 +1,378 @@
 {
- "updated": "2026-10-15T12:30:32.383Z",
+ "updated": "2026-10-15T15:04:44.648Z",
  "items": [
+  {
+   "id": "182f9395b47d",
+   "url": "https://www.haberturk.com/magazin/semiramis-pekkan-a-eski-esi-ve-sevgilisinden-surpriz-kutlama-3919998",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Şaşırtan kutlama",
+   "snippet": "78'inci yaşına giren Semiramis Pekkan, eski eşi Gulu Lalvani'nin sevgilisiyle birlikte kendisine doğum günü partisi düzenleyeceğini açıkladı. Pekkan, \"Eski eşim, sevgilisiyle beraber bana doğum günü partisi veriyor\" dedi",
+   "image": "https://im.haberturk.com/l/2026/10/15/ver1792074007/3919998/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-15T14:20:19.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/semiramis-pekkan-a-eski-esi-ve-sevgilisinden-surpriz-kutlama-3919998",
+     "title": "Şaşırtan kutlama",
+     "snippet": "78'inci yaşına giren Semiramis Pekkan, eski eşi Gulu Lalvani'nin sevgilisiyle birlikte kendisine doğum günü partisi düzenleyeceğini açıkladı. Pekkan, \"Eski eşim, sevgilisiyle beraber bana doğum günü partisi veriyor\" dedi",
+     "published": "2026-10-15T14:20:19.000Z"
+    }
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "ada8a88c66e8",
+   "url": "https://www.hurriyet.com.tr/kelebek/magazin/herkesin-gozu-onunde-ilk-talihsizligini-yasadi-bak-surada-kaldir-o-altini-yerden-43343094",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Herkesin gözü önünde ilk talihsizliğini yaşadı: 'Bak, altın şurada... Kaldır onu yerden'",
+   "snippet": "Son yıllarda bütün dünyanın ilgi odağı olan İspanya'nın gelecekteki kraliçesi Asturias Prensesi Leonor, bugüne kadar her attığı adımda kusursuzluk örneği sergiledi.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad0dbcf9266704a560f5198.jpg",
+   "video": null,
+   "published": "2026-10-15T14:03:05.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/herkesin-gozu-onunde-ilk-talihsizligini-yasadi-bak-surada-kaldir-o-altini-yerden-43343094",
+     "title": "Herkesin gözü önünde ilk talihsizliğini yaşadı: 'Bak, altın şurada... Kaldır onu yerden'",
+     "snippet": "Son yıllarda bütün dünyanın ilgi odağı olan İspanya'nın gelecekteki kraliçesi Asturias Prensesi Leonor, bugüne kadar her attığı adımda kusursuzluk örneği sergiledi.",
+     "published": "2026-10-15T14:03:05.000Z",
+     "titleFa": "همه در برابر چشمانشان اولين بدشانسی خود را تجربه کردند: «ببين، طلا آنجاست... آن را از روی زمين بلند کن»"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ad0dbcf9266704a560f5198.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ad0dbcf9266704a560f5198.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3689"
+   ],
+   "mediaDone": true,
+   "titleFa": "اولین اتفاق ناخوشایند برای پرنسس لئونور در انظار عمومی",
+   "summaryFa": "پرنسس لئونور، ولیعهد آینده اسپانیا که در سال‌های اخیر مورد توجه جهانیان بوده است، در انظار عمومی با اولین اتفاق ناخوشایند خود روبرو شد.",
+   "bodyFa": [
+    "پرنسس لئونور، ولیعهد آینده اسپانیا که طی سال‌های اخیر همواره به دلیل گام‌های بی‌عیب‌ونقص خود در کانون توجه جهانیان قرار داشته است، اخیراً در انظار عمومی دچار اولین اتفاق ناخوشایند زندگی خود شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "4a3daa663bb0",
+   "url": "https://www.hurriyet.com.tr/kelebek/cocukla-hayat/hadi-okuyalim-gidelim-43343040",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Hadi okuyalım-gidelim",
+   "snippet": "Çocuklar bu hafta sarılmanın gücünü kitap okuyarak, dostluk ve dayanışmayı tiyatro izleyerek öğrenebilir.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad0d520095f332ee17888f8.jpg",
+   "video": null,
+   "published": "2026-10-15T13:29:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/cocukla-hayat/hadi-okuyalim-gidelim-43343040",
+     "title": "Hadi okuyalım-gidelim",
+     "snippet": "Çocuklar bu hafta sarılmanın gücünü kitap okuyarak, dostluk ve dayanışmayı tiyatro izleyerek öğrenebilir.",
+     "published": "2026-10-15T13:29:00.000Z",
+     "titleFa": "بیایید بخوانیم و برویم"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ad0d520095f332ee17888f8.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ad0d520095f332ee17888f8.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3689"
+   ],
+   "mediaDone": true,
+   "titleFa": "کودکان این هفته با کتابخوانی و تئاتر سرگرم می شوند",
+   "summaryFa": "کودکان می‌توانند در این هفته قدرت در آغوش گرفتن را با کتابخوانی و مفاهیم دوستی و همبستگی را با تئاتر بیاموزند.",
+   "bodyFa": [
+    "بر اساس اطلاعات منتشر شده، کودکان این فرصت را دارند تا در جریان برنامه‌های این هفته، اهمیت و قدرت در آغوش گرفتن را از طریق مطالعه کتاب فرا بگیرند.",
+    "همچنین به بچه‌ها پیشنهاد شده است که با تماشای تئاتر، با مفهوم ارزشمند دوستی و همبستگی بیشتر آشنا شوند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "637cf5508999",
+   "url": "https://www.sozcu.com.tr/mobilya-almak-icin-linke-tiklayan-sarkici-hatice-solugu-emniyette-aldi-p369526",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Mobilya almak için linke tıklayan şarkıcı Hatice soluğu emniyette aldı",
+   "snippet": "Şarkıcı Hatice, internetten mobilya almak isterken dolandırıldığını öne sürdü. Bir dresuar için kendisine gönderilen bağ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/haticedolandiricijpg-1DblxDjdk0KDO6U2uWk38g.jpg",
+   "video": null,
+   "published": "2026-10-15T13:28:20.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/mobilya-almak-icin-linke-tiklayan-sarkici-hatice-solugu-emniyette-aldi-p369526",
+     "title": "Mobilya almak için linke tıklayan şarkıcı Hatice soluğu emniyette aldı",
+     "snippet": "Şarkıcı Hatice, internetten mobilya almak isterken dolandırıldığını öne sürdü. Bir dresuar için kendisine gönderilen bağ...",
+     "published": "2026-10-15T13:28:20.000Z",
+     "titleFa": "خواننده خدیجه برای خرید مبلمان روی لینک کلیک کرد و به پلیس پناه برد"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/haticedolandiricijpg-1DblxDjdk0KDO6U2uWk38g.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/haticedolandiricijpg-1DblxDjdk0KDO6U2uWk38g.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/avrupaningobegindefutbolicinsokaksavasi6ad0b5aef37d802ff304e4f3png-rWuv30GqhEqBhbw1xkQgeg.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ad0aadbf37d802ff304e2bdpng-aM43PPaaYU_ixY0-7UFkrw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ardagulermucizesiyaptiklarisonrasiherkesonahayrankaldi6ad0a10df37d802ff304e0bfpng-W4ASWNqLEEKgoyKBbh9raQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "کلاهبرداری از خواننده زن ترکیه‌ای هنگام خرید مبلمان",
+   "summaryFa": "خواننده معروف، خديجه، پس از اینکه برای خرید اینترنتی یک میز کنسول فریب خورد و دچار خسارت مالی شد، به اداره پلیس رفت.",
+   "bodyFa": [
+    "خديجه، خواننده ترکیه‌ای، مدعی شد که هنگام تلاش برای خرید آنلاین مبلمان هدف کلاهبرداری قرار گرفته است.",
+    "این هنرمند پس از کلیک کردن روی لینکی که برای خرید یک میز کنسول (دروار) برای او ارسال شده بود، متحمل خسارت مالی شد و بلافاصله برای شکایت به اداره پلیس مراجعه کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "8b6c237696c1",
+   "url": "https://www.haberturk.com/magazin/2026-nin-en-cok-satan-albumu-michael-jackson-in-3919990",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Yılın en çok satanı Michael Jackson",
+   "snippet": "Michael Jackson, ölümünün üzerinden 17 yıl geçmesine rağmen, yılın şimdiye kadar en çok albüm satan sanatçısı oldu",
+   "image": "https://im.haberturk.com/l/2026/10/15/ver1792070453/3919990/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-15T13:21:10.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/2026-nin-en-cok-satan-albumu-michael-jackson-in-3919990",
+     "title": "Yılın en çok satanı Michael Jackson",
+     "snippet": "Michael Jackson, ölümünün üzerinden 17 yıl geçmesine rağmen, yılın şimdiye kadar en çok albüm satan sanatçısı oldu",
+     "published": "2026-10-15T13:21:10.000Z",
+     "titleFa": "Yilin en çok satanı Michael Jackson"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "مikaeil Jaksun purforosh-tarin honarmand sal shod",
+   "summaryFa": "Ba vojod gozaresh-ha az ghabl, albom Michael Jackson porforosh-tarin shod va film biyografik on ta'sirgozar bod.",
+   "bodyFa": [
+    "Michael Jackson ba vojod gozaresh-ha darbareye zamane margash, be onvan-e porforosh-tarin honarmand sal ta konon shenakhte shod. Albom \"The Essential Michael Jackson\" tavanest forosh bishtari az digar honarmandan sabt konad.",
+    "In afzayesh forosh be dalil ekrane film biyografik \"Michael\" be nvisandegi ya bazigari Jafaar Jackson bod ke tavanest tasir ziyati roye forosh albom-ha bogozarad."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "a752ac740c1e",
+   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/arabesk-icimizde-43343033",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Arabesk içimizde…",
+   "snippet": "Müzik dinleme platformu Spotify verilerine göre Türkiye’de arabesk dinleyenlerin çoğunluğunu 30 yaş altı gençler oluşturuyor. Bu hafta bu türün rap’le ve rock’la harmanlandığı şarkılara yer verdik.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad0d26b095f332ee17888d9.jpg",
+   "video": null,
+   "published": "2026-10-15T13:17:35.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/arabesk-icimizde-43343033",
+     "title": "Arabesk içimizde…",
+     "snippet": "Müzik dinleme platformu Spotify verilerine göre Türkiye’de arabesk dinleyenlerin çoğunluğunu 30 yaş altı gençler oluşturuyor. Bu hafta bu türün rap’le ve rock’la harmanlandığı şarkılara yer verdik.",
+     "published": "2026-10-15T13:17:35.000Z",
+     "titleFa": "آرابسِک در درون ما است..."
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ad0d26b095f332ee17888d9.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ad0d26b095f332ee17888d9.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3689"
+   ],
+   "mediaDone": true,
+   "titleFa": "آرابسِک در میان جوانان زیر ۳۰ سال ترکیه محبوب است",
+   "summaryFa": "بر اساس داده‌های پلتفرم اسپاتیفای، بیشتر شنوندگان موسیقی آرابسِک در ترکیه را جوانان زیر ۳۰ سال تشکیل می‌دهند.",
+   "bodyFa": [
+    "بر اساس داده‌های پلتفرم پخش موسیقی اسپاتیفای، مشخص شده است که بیشتر افرادی که در ترکیه به موسیقی آرابسِک گوش می‌دهند، جوانان زیر ۳۰ سال هستند.",
+    "این گزارش نشان می‌دهد که این سبک موسیقی همچنان در میان نسل جوان طرفداران زیادی دارد و مورد توجه قرار می‌گیرد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "df701c1999fd",
+   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/her-sahnede-baska-bir-ses-43342996",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Her sahnede başka bir ses",
+   "snippet": "Bu hafta İstanbul’da pop müziğin sevilen isimleri Kenan Doğulu, Simge ve Gülşen’in konserleri var. Ankara’daysa alternatif rock grubu Adamlar izlenebilir. Cazseverlerse piyanist ve besteci Aki Takase’nin konserini kaçırmasın.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad0d152095f332ee17888c6.jpg",
+   "video": null,
+   "published": "2026-10-15T13:12:54.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/her-sahnede-baska-bir-ses-43342996",
+     "title": "Her sahnede başka bir ses",
+     "snippet": "Bu hafta İstanbul’da pop müziğin sevilen isimleri Kenan Doğulu, Simge ve Gülşen’in konserleri var. Ankara’daysa alternatif rock grubu Adamlar izlenebilir. Cazseverlerse piyanist ve besteci Aki Takase’nin konserini kaçırmasın.",
+     "published": "2026-10-15T13:12:54.000Z",
+     "titleFa": "در هر صحنه صدایی دیگر"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ad0d152095f332ee17888c6.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ad0d152095f332ee17888c6.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3689",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3689"
+   ],
+   "mediaDone": true,
+   "titleFa": "برنامه‌ها و کنسرت‌های موسیقی در استانبول و آنکارا",
+   "summaryFa": "این هفته علاقه‌مندان به موسیقی می‌توانند از کنسرت‌های متنوعی در شهرهای استانبول و آنکارا لذت ببرند.",
+   "bodyFa": [
+    "در این هفته شهر استانبول میزبان چهره‌های محبوب موسیقی پاپ از جمله کنان دوغولو، سیمگه و گلشن خواهد بود که روی صحنه می‌روند.",
+    "همچنین علاقه‌مندان به سبک‌های دیگر می‌توانند در آنکارا به تماشای اجرای گروه آلترناتیو راک «آدام‌لار» بنشینند و دوستداران جاز نیز فرصت دارند کنسرت آکی تاکاسه، پیانیست و آهنگساز را تماشا کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "016bbe2e8d68",
+   "url": "https://www.haberturk.com/magazin/teoman-film-izlerken-uyuyakaldim-3919968",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Film izlerken uyuyakaldım\"",
+   "snippet": "Teoman, Nişantaşı'nda görüntülendi. Sinemadan çıkan şarkıcı, \"Film güzeldi, ben erken kalktım bugün o yüzden izlerken uyuya kaldım. O yüzden boşuna zorlamayayım eve gidip, 'Uyuyayım' dedim. 10 dakika uyumuşum\" dedi",
+   "image": "https://im.haberturk.com/l/2026/10/15/ver1792068568/3919968/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-15T12:50:41.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/teoman-film-izlerken-uyuyakaldim-3919968",
+     "title": "\"Film izlerken uyuyakaldım\"",
+     "snippet": "Teoman, Nişantaşı'nda görüntülendi. Sinemadan çıkan şarkıcı, \"Film güzeldi, ben erken kalktım bugün o yüzden izlerken uyuya kaldım. O yüzden boşuna zorlamayayım eve gidip, 'Uyuyayım' dedim. 10 dakika uyumuşum\" dedi",
+     "published": "2026-10-15T12:50:41.000Z"
+    }
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "8f91f694dff3",
+   "url": "https://www.haberturk.com/magazin/alpay-in-cenaze-toreni-belli-oldu-3919974",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Cenaze töreni belli oldu",
+   "snippet": "Türk pop ve romantik folk müziğinin usta isimlerinden Alpay'ın cenazesi yarın Ankara'da toprağa verilecek",
+   "image": "https://im.haberturk.com/l/2026/10/15/ver1792067125/3919974/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-15T12:36:45.000Z",
+   "scope": "general",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/alpay-in-cenaze-toreni-belli-oldu-3919974",
+     "title": "Cenaze töreni belli oldu",
+     "snippet": "Türk pop ve romantik folk müziğinin usta isimlerinden Alpay'ın cenazesi yarın Ankara'da toprağa verilecek",
+     "published": "2026-10-15T12:36:45.000Z",
+     "titleFa": "برنامه مراسم خاکسپاری مشخص شد"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "جزئیات مراسم تشییع پیکر آلپای نازیکی‌اوغلو مشخص شد",
+   "summaryFa": "آلپای نازیکی‌اوغلو، خواننده و آهنگساز برجسته ترکیه‌ای، در سن ۹۱ سالگی درگذشت. مراسم خاکسپاری این هنرمند روز جمعه در آنکارا برگزار می‌شود.",
+   "bodyFa": [
+    "آلپای نازیکی‌اوغلو، از چهره‌های سرشناس موسیقی پاپ و فولک رمانتیک ترکیه و خالق آثار ماندگاری چون «فابریکا قیزی» و «ایلول‌ده گل»، در سن ۹۱ سالگی درگذشت.",
+    "دختر این هنرمند، زینب نازیکی‌اوغلو، ضمن ابراز اندوه عمیق خانواده اعلام کرد که پیکر پدرش روز جمعه ۱۶ اکتبر پس از اقامه نماز ظهر در مسجد احمد حمدی اک‌سکی در آنکارا بیلکنک، در آرامگاه خانوادگی واقع در گورستان عبیچی آسری به خاک سپرده خواهد شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "10dfa6d50d94",
    "url": "https://www.haberturk.com/magazin/teoman-film-izlerken-uyuya-kaldim-3919968",
@@ -161,7 +533,25 @@
      "title": "Milyarder eski eşi ve sevgilisinden şaşırtan kutlama! Semiramis Pekkan'a sürpriz doğum günü partisi düzenlediler!",
      "snippet": "'Süperstar' Ajda Pekkan'ın kendisi gibi sanatçı olan kardeşi Semiramis Pekkan, yeni yaşını ezber bozan bir kutlamayla karşıladı. Yıllar önce yollarını ayırdığı milyarder eski eşi Gulu Lalvani ve yeni sevgilisinin... Devamı için tıklayınız",
      "published": "2026-10-15T12:00:39.000Z",
-     "titleFa": "جشن تکان‌دهنده از سوی همسر سابق میلیاردر و نامزدش! برگزاری مهمانی تولد غافلگیرکننده برای سمیرا پیمان!"
+     "titleFa": "جشن تکان‌دهنده از همسر سابق میلیاردر و نامزدش! مهمانی تولد غافلگیرکننده برای سمیراپیس پکان تدارک دیدند!"
+    },
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/milyarder-eski-esinden-surpriz-kutlama-semiramis-pekkan-in-79-yas-gununde-sasirtan-detay-p369522",
+     "title": "Milyarder eski eşinden sürpriz kutlama: Semiramis Pekkan'ın 79. yaş gününde şaşırtan detay",
+     "snippet": "Ajda Pekkan'ın kardeşi Semiramis Pekkan, 79. yaş gününde aldığı sürprizle takipçilerini şaşırttı. Ünlü sanatçının doğum ...",
+     "published": "2026-10-15T13:08:17.000Z",
+     "titleFa": "جشن غافلگیرکننده از همسر سابق میلیاردر: جزئیات تکان‌دهنده در تولد ۷۹ سالگی سمیراپیس پکان"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/semiramis-pekkana-eski-esi-ve-sevgilisinden-surpriz-dogum-gunu-partisi-7680500",
+     "title": "Semiramis Pekkan'a eski eşi ve sevgilisinden sürpriz doğum günü partisi",
+     "snippet": "Semiramis Pekkan, doğum günü için yapılan sürpriz organizasyonun detaylarını takipçileriyle paylaştı. Ünlü sanatçı, eski eşi Gulu Lalvani'nin yeni sevgilisiyle birlikte kendisine doğum günü partisi düzenlediğini açıkladı.",
+     "published": "2026-10-15T14:52:08.000Z",
+     "titleFa": "مهمانی تولد غافلگیرکننده برای سمیراپیس پکان توسط همسر سابق و نامزدش"
     }
    ],
    "images": [
@@ -173,14 +563,36 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png"
    ],
    "mediaDone": true,
-   "titleFa": "جشن تولد غافلگیرکننده برای سمیرا پیمان توسط همسر سابق میلیاردر و نامزد جدیدش",
-   "summaryFa": "سمیرا پیمان، خواهر خواننده معروف آژدا پیمان، تولد خود را با جشنی غیرمتعارف از سوی همسر سابق میلیاردرش و نامزد جدیدش جشن گرفت.",
+   "titleFa": "جشن تولد غافلگیرکننده برای سمیراپیس پکان توسط همسر سابق میلیاردر و نامزدش",
+   "summaryFa": "سمیراپیس پکان، خواهر آیدا پکان، تولد ۷۹ سالگی خود را با جشنی غافلگیرکننده که همسر سابق میلیاردرش و نامزدش ترتیب داده بودند، جشن گرفت. این رویداد و حضور این افراد در کنار هم توجه دنبال‌کنندگان را جلب کرد.",
    "bodyFa": [
-    "سمیرا پیمان، هنرمند و خواهر «سوپراستار» آژدا پیمان، تولد امسال خود را با یک مراسم غافلگیرکننده و متفاوت جشن گرفت. این جشن توسط گولو لالوانی، همسر سابق میلیاردر او که سال‌ها پیش از او جدا شده بود، به همراه نامزد جدیدش برای او تدارک دیده شده بود.",
-    "این هنرمند مشهور جزئیات این مهمانی سورپرایز را در قالب یک ویدیوی منتشر شده در شبکه‌های اجتماعی با مخاطبان به اشتراک گذاشت و توجه رسانه‌ها را به نوع رابطه دوستانه خود با همسر سابقش جلب کرد."
+    "سمیراپیس پکان، هنرمند و خواهر خواننده مشهور آیدا پکان، تولد ۷۹ سالگی خود را با یک جشن غیرمعمول و غافلگیرکننده پشت سر گذاشت. او ویدیویی از این مراسم را در صفحه اجتماعی خود منتشر کرد که جزئیات آن مورد توجه کاربران قرار گرفت.",
+    "نکته قابل توجه در این مهمانی این بود که جشن توسط همسر سابق میلیاردر او، گولو لالوانی، و نامزد جدیدش برای سمیراپیس پکان تدارک دیده شده بود. انتشار این ویدیو و تجمع این افراد در کنار یکدیگر بازخوردهای فراوانی در میان دنبال‌کنندگان به همراه داشت."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 2,
+   "mergedIds": [
+    "fd3b6436e476",
+    "7f39cff8bfe8"
+   ],
+   "comparison": {
+    "agree": [
+     "سمیراپیس پکان تولد خود را با جشنی غافلگیرکننده جشن گرفت.",
+     "همسر سابق میلیاردر او یعنی گولو لالوانی به همراه نامزدش این مهمانی را برای او تدارک دیدند."
+    ],
+    "differ": [
+     {
+      "topic": "سن سمیراپیس پکان",
+      "views": [
+       {
+        "source": "sozcu-magazin",
+        "text": "سیمراپیس پکان ۷۹ ساله شده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   }
   },
   {
    "id": "b343f8352020",
@@ -1166,7 +1578,7 @@
      "title": "Türk senaristlerin hikayeleri Fransa'da dünya sahnesine çıkacak",
      "snippet": "Türk senaristlerin hikâyeleri Fransa’da dünya dizi sektörünün karşısına çıkacak. Serial Bridges İstanbul programına seçilecek 6 mini dizi projesi, Series Mania Forum’da uluslararası yatırımcı, yayıncı ve yapımcılara sunulacak. Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü ile Series Mania Instit",
      "published": "2026-10-15T07:18:00.000Z",
-     "titleFa": "داستان‌های فیلمنامه‌نویسان ترک در صحنه جهانی فرانسه ظاهر خواهند شد"
+     "titleFa": "داستان‌های فیلم‌نامه‌نویسان ترک در فرانسه به صحنه جهانی می‌رود"
     },
     {
      "source": "haberturk-magazin",
@@ -1174,7 +1586,8 @@
      "url": "https://www.haberturk.com/magazin/turk-senaristlerin-hikayeleri-fransa-da-dunya-sahnesine-cikacak-3919926",
      "title": "Türk senaristlerin hikayeleri dünya sahnesine çıkacak",
      "snippet": "Türk senaristlerin hikâyeleri Fransa'da dünya dizi sektörünün karşısına çıkacak. Serial Bridges İstanbul programına seçilecek 6 mini dizi projesi, Series Mania Forum’da uluslararası yatırımcı, yayıncı ve yapımcılara sunulacak. Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü ile Series Mania Instit",
-     "published": "2026-10-15T10:16:54.000Z"
+     "published": "2026-10-15T10:16:54.000Z",
+     "titleFa": "داستان‌های فیلم‌نامه‌نویسان ترک به صحنه جهانی می‌رود"
     }
    ],
    "images": [
@@ -1186,18 +1599,29 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3689"
    ],
    "mediaDone": true,
-   "titleFa": "داستان‌های فیلمنامه‌نویسان ترک در فرانسه معرفی می‌شوند",
-   "summaryFa": "شش پروژه مینی‌سریال از برنامه‌ی Serial Bridges استانبول در فروم Series Mania در فرانسه به سرمایه‌گذاران و تهیه‌کنندگان بین‌المللی معرفی خواهند شد.",
+   "titleFa": "ارائه پروژه‌های مینی‌سریال فیلم‌نامه‌نویسان ترک در بازار جهانی سریال در فرانسه",
+   "summaryFa": "برنامه «سریال بریجز استانبول» با هدف انتخاب ۶ پروژه مینی‌سریال ترکیه‌ای و معرفی آن‌ها به سرمایه‌گذاران بین‌المللی آغاز شد. این پروژه‌ها پس از کارگاه‌های آموزشی در استانبول، در فروم «سریز مانیا» در فرانسه ارائه می‌شوند.",
    "bodyFa": [
-    "داستان‌ها و پروژه‌های فیلمنامه‌نویسان ترک قرار است در کشور فرانسه به صنعت جهانی سریال معرفی شوند.",
-    "بر اساس اطلاعات موجود، ۶ پروژه مینی‌سریال که برای برنامه‌ی Serial Bridges استانبول انتخاب می‌شوند، در رویداد Series Mania Forum به سرمایه‌گذاران، ناشران و تهیه‌کنندگان بین‌المللی ارائه خواهند شد. این ابتکار با همکاری نهادهایی همچون اداره کل سینمایی وزارت فرهنگ و گردشگری و موسسه Series Mania شکل گرفته است."
+    "برنامه «سریال بریجز استانبول» به منظور آماده‌سازی پروژه‌های مینی‌سریال تولید ترکیه برای حضور در بازارها و سرمایه‌گذاری‌های بین‌المللی آغاز به کار کرده است. این برنامه با همکاری اداره کل سینمای وزارت فرهنگ و گردشگری ترکیه و انستیتو «سریز مانیا» و با اجرای «m2 Film Lab» و «TESİYAP» برگزار می‌شود.",
+    "طبق جزئیات منتشرشده، ۶ پروژه مینی‌سریال پذیرفته خواهند شد. این پروژه‌ها باید تک‌فصلی، دارای ۴ تا ۸ قسمت و زمان هر قسمت بین ۲۵ تا ۶۰ دقیقه باشند. فیلم‌نامه‌نویسان مقیم ترکیه می‌توانند به صورت فردی یا تیم‌های حداکثر دو نفره درخواست دهند. داشتن حداقل یک سابقه حرفه‌ای در سریال، فیلم یا کتاب و تئاتر، و تسلط حداقل یکی از اعضای تیم به زبان انگلیسی از شرایط ثبت‌نام است.",
+    "پروژه‌های منتخب پس از گذراندن دوره کارگاهی در استانبول، در رویداد «سریز مانیا فوروم» در کشور فرانسه به سرمایه‌گذاران، پخش‌کنندگان و تهیه‌کنندگان بین‌المللی صنعت سریال ارائه خواهند شد."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "554df1492f41"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "انتخاب ۶ پروژه مینی‌سریال ترکیه‌ای برای ارائه در فروم «سریز مانیا» در فرانسه",
+     "همکاری اداره کل سینمای وزارت فرهنگ و گردشگری ترکیه و انستیتو سریز مانیا در اجرای برنامه «سریال بریجز استانبول»",
+     "معرفی پروژه‌های منتخب به سرمایه‌گذاران، پخش‌کنندگان و تهیه‌کنندگان بین‌المللی"
+    ],
+    "differ": [],
+    "unconfirmed": [
+     "جزئیات مربوط به شرایط پروژه‌ها (تک‌فصلی بودن، ۴ تا ۸ قسمت، زمان ۲۵ تا ۶۰ دقیقه)، شرایط متقاضیان و نقش گروه‌های m2 Film Lab و TESİYAP فقط در منبع دوم (خبرتورک) آمده است."
+    ]
+   }
   },
   {
    "id": "5f6735a65106",
@@ -7660,44 +8084,6 @@
    "aiTries": 1
   },
   {
-   "id": "a48273301d43",
-   "url": "https://www.dailysabah.com/arts/music/ex-gang-leader-faces-life-in-prison-for-tupac-shakur-killing",
-   "source": "dailysabah-arts",
-   "sourceName": "Daily Sabah",
-   "lang": "en",
-   "title": "Ex-gang leader faces life in prison for Tupac Shakur killing",
-   "snippet": "A former gang ​leader was set to be sentenced on Tuesday for orchestrating the 1996 drive-by shooting death of hip-hop star Tupac Shakur in Las Vegas, capping the lone prosecution...",
-   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/13/465457.jpg",
-   "video": null,
-   "published": "2026-10-13T12:17:00.000Z",
-   "scope": "dizi",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "dailysabah-arts",
-     "name": "Daily Sabah",
-     "url": "https://www.dailysabah.com/arts/music/ex-gang-leader-faces-life-in-prison-for-tupac-shakur-killing",
-     "title": "Ex-gang leader faces life in prison for Tupac Shakur killing",
-     "snippet": "A former gang ​leader was set to be sentenced on Tuesday for orchestrating the 1996 drive-by shooting death of hip-hop star Tupac Shakur in Las Vegas, capping the lone prosecution...",
-     "published": "2026-10-13T12:17:00.000Z"
-    }
-   ],
-   "images": [
-    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/13/465457.jpg",
-    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/13/thumbs/1200x675/465457.jpg",
-    "https://idsb.tmgrup.com.tr/ly/uploads/images/images/menu_items/LkKGaG.jpg",
-    "https://idsb.tmgrup.com.tr/ly/theme_dailysabah/images/ds-tv.png",
-    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/13/thumbs/1200x675/465457.jpg?v=1791899429",
-    "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/03/20/thumbs/398x208/26198.jpg?v=1584695403"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "4c5bb6c97edc",
    "url": "https://www.haberturk.com/magazin/amanda-seyfried-sevisme-sahnelerini-reddetti-3919375",
    "source": "haberturk-magazin",
@@ -8489,7 +8875,7 @@
    "video": null,
    "published": "2026-10-13T09:00:40.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -8502,7 +8888,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-ciftin-konser-sikligi-giyim-tarzini-degistirdi-genc-sevgilisiyle-birlikte-iyice-genclesti-43339695",
      "title": "Ünlü çiftin konser şıklığı… Giyim tarzını değiştirdi, genç sevgilisiyle birlikte iyice gençleşti",
      "snippet": "Hollywood’un yıldız ismi Brad Pitt ve “esmer güzeli” olarak anılan kız arkadaşı Ines de Ramon, Paris'te el ele ortaya çıktılar, Pitt bu gece gezmesindeki iddialı giyim tarzıyla adından çok söz ettirdi.",
-     "published": "2026-10-13T09:00:40.000Z"
+     "published": "2026-10-13T09:00:40.000Z",
+     "titleFa": "شیک‌پوشی این زوج معروف در کنسرت... سبک لباس پوشیدن خود را عوض کرد، با دوست‌دختر جوانش کاملاً جوان‌تر شد"
     }
    ],
    "images": [
@@ -8513,7 +8900,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "حضور برد پیت و اینس دی رامون در پاریس",
+   "summaryFa": "برد پیت و دوست دخترش اینس دی رامون دست در دست هم در پاریس دیده شدند. سبک پوشش برد پیت در این بیرون رفتن شبانه توجه زیادی را به خود جلب کرد.",
+   "bodyFa": [
+    "برد پیت، ستاره سرشناس هالیوود، به همراه دوست دختر خود اینس دی رامون که با لقب «زیبای سبزه» شناخته می‌شود، در شهر پاریس در انظار عمومی ظاهر شدند.",
+    "این زوج به صورت دست در دست در خیابان‌های پاریس دیده شدند و استایل پوشش برد پیت در این گشت‌وگذار شبانه بسیار مورد توجه قرار گرفت و نام وی را دوباره سر زبان‌ها انداخت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8892d5c8a624",
@@ -8527,7 +8922,7 @@
    "video": null,
    "published": "2026-10-13T08:50:00.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -8540,7 +8935,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/annemin-cenazesine-gitmek-icimden-gelmedi-43339744",
      "title": "Mehmet Ali Erbil: Annemin cenazesine gitmek içimden gelmedi",
      "snippet": "Mehmet Ali Erbil, geçtiğimiz nisan ayında 91 yaşında hayatını kaybeden annesi Yurdagül Eken’in cenazesine neden katılmadığını açıkladı. Çocukluğundan bu yana içinde taşıdığı kırgınlığı dile getiren ünlü şovmen, üvey babasıyla ilgili sözleriyle de dikkat çekti.",
-     "published": "2026-10-13T08:50:00.000Z"
+     "published": "2026-10-13T08:50:00.000Z",
+     "titleFa": "مهمت علی اربیل: دلم نمی‌خواست به مراسم تدفین مادرم بروم"
     }
    ],
    "images": [
@@ -8551,7 +8947,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "توضیح مهمت علی اربیل درباره غیبت در مراسم تدفین مادرش",
+   "summaryFa": "مهمت علی اربیل دلیل شرکت نکردن در مراسم خاک‌سپاری مادر ۹۱ ساله‌اش را که آوریل گذشته درگذشت، توضیح داد. او به دلخوری‌های دوران کودکی‌اش اشاره کرد و درباره ناپدری‌تری خود سخن گفت.",
+   "bodyFa": [
+    "مهمت علی اربیل، شومن مشهور، دلیل غیبت خود در مراسم تدفین مادرش، یورداگل اِکن، را که در ماه آوریل در سن ۹۱ سالگی درگذشت، بیان کرد.",
+    "او در اظهارات خود از رنجش و دلخوری عمیقی که از دوران کودکی نسبت به مادرش در دل داشته سخن گفت و توجه‌ها را به صحبت‌هایش درباره ناپدری‌اش جلب کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c56ccf6c48b1",
@@ -8602,44 +9006,6 @@
    "aiTries": 1
   },
   {
-   "id": "045d617d25a5",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/karaciger-nakli-olmustu-ufuk-ozkan-doktorlar-bile-sasirdi-7678507",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Karaciğer nakli olmuştu! Ufuk Özkan: Doktorlar bile şaşırdı",
-   "snippet": "Karaciğer nakli operasyonunun ardından sağlığına kavuşan Ufuk Özkan, setlere geri döndü. Rol aldığı filmin galasında konuşan oyuncu, son sağlık durumu hakkında bilgi verdi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6acdeb1cf15b2619d4a3d616.jpg",
-   "video": null,
-   "published": "2026-10-13T08:29:05.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/karaciger-nakli-olmustu-ufuk-ozkan-doktorlar-bile-sasirdi-7678507",
-     "title": "Karaciğer nakli olmuştu! Ufuk Özkan: Doktorlar bile şaşırdı",
-     "snippet": "Karaciğer nakli operasyonunun ardından sağlığına kavuşan Ufuk Özkan, setlere geri döndü. Rol aldığı filmin galasında konuşan oyuncu, son sağlık durumu hakkında bilgi verdi.",
-     "published": "2026-10-13T08:29:05.000Z"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6acdeb1cf15b2619d4a3d616.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6acdeb1cf15b2619d4a3d616.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "8c2d7f6d7493",
    "url": "https://www.hurriyet.com.tr/kelebek/stil/modadan-sanata-43339653",
    "source": "hurriyet-kelebek",
@@ -8664,9 +9030,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/modadan-sanata-43339653",
      "title": "Modadan sanata",
      "snippet": "Bir hazır giyim markası Nişantaşı Abdi İpekçi mağazasında moda ve sanatı bir araya getiren bir davete ev sahipliği yaptı.",
-     "published": "2026-10-13T08:09:10.000Z"
+     "published": "2026-10-13T08:09:10.000Z",
+     "titleFa": "از مد تا هنر"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acde69a1265ecd727bd1ee0.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acde69a1265ecd727bd1ee0.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "پیوستن مد و هنر در یک رویداد",
+   "summaryFa": "یک برند پوشاک آماده میزبان رویدادی بود که مد و هنر را در فروشگاه خود در منطقه نیشان‌تاشی گرد هم آورد.",
+   "bodyFa": [
+    "یک برند پوشاک آماده میزبان رویدادی در فروشگاه خود واقع در خیابان عبدی ایپکچی در منطقه نیشان‌تاشی بود که در آن مد و هنر در کنار یکدیگر قرار گرفتند.",
+    "این برنامه با هدف ترکیب کردن عناصر مد و هنر برگزار شد و جزئیات بیشتری درباره شرکت‌کنندگان یا بخش‌های مختلف آن در دست نیست."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "cc3df7fb3876",
@@ -8693,38 +9077,27 @@
      "url": "https://www.sozcu.com.tr/rol-arkadasi-oldular-tanitima-damga-vurdular-p368699",
      "title": "Rol arkadaşı oldular tanıtıma damga vurdular",
      "snippet": "Pınar Deniz ve Selahattin Paşalı, başrollerini paylaştıkları Şapkacı Kadınlar için Cannes'da düzenlenen MIPCOM Fuarı'na ...",
-     "published": "2026-10-13T08:07:32.000Z"
+     "published": "2026-10-13T08:07:32.000Z",
+     "titleFa": "همبازی شدند و بر معرفی تأثیر گذاشتند"
     }
-   ]
-  },
-  {
-   "id": "c4a231da0794",
-   "url": "https://www.sabah.com.tr/magazin/sikayeti-yoktu-kontrolde-ortaya-cikti-cenk-erenin-saglik-durumu-doktorlari-saskina-cevirdi-buraya-nasil-geldin-7679574",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Şikayeti yoktu, kontrolde ortaya çıktı! Cenk Eren’in sağlık durumu doktorları şaşkına çevirdi: \"Buraya nasıl geldin?\"",
-   "snippet": "Yıllardır sahnelerdeki performansıyla adından söz ettiren ünlü sanatçı Cenk Eren, bu kez sevenlerinin karşısına bambaşka bir haberle çıktı. Yakın dostu acı kaybının ardından rutin bir sağlık kontrolünden... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/efeaf9/1200/675/0/0/724/407?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/sikayeti-yoktu-kontrolde-ortaya-cikti-cenk-erenin-saglik-durumu-doktorlari-saskina-cevirdi-buraya-nasil-geldin-1791878471322.jpg",
-   "video": null,
-   "published": "2026-10-13T08:06:01.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/sikayeti-yoktu-kontrolde-ortaya-cikti-cenk-erenin-saglik-durumu-doktorlari-saskina-cevirdi-buraya-nasil-geldin-7679574",
-     "title": "Şikayeti yoktu, kontrolde ortaya çıktı! Cenk Eren’in sağlık durumu doktorları şaşkına çevirdi: \"Buraya nasıl geldin?\"",
-     "snippet": "Yıllardır sahnelerdeki performansıyla adından söz ettiren ünlü sanatçı Cenk Eren, bu kez sevenlerinin karşısına bambaşka bir haberle çıktı. Yakın dostu acı kaybının ardından rutin bir sağlık kontrolünden... Devamı için tıklayınız",
-     "published": "2026-10-13T08:06:01.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/445jpg-bG8sPX7GF0m11Q1Q_e0kuA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/445jpg-bG8sPX7GF0m11Q1Q_e0kuA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/saveclipapp843606355183809522832395997406744966798707601njpg-FZGbk-Dr4UWShlDlH_GcIQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/rol-arkadasi-oldular-tanitima-damga-vurdular-1jpg-ttNjMPlEh0281uzEERIw1Q.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/avrupaningobegindefutbolicinsokaksavasi6ad0b5aef37d802ff304e4f3png-rWuv30GqhEqBhbw1xkQgeg.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "حضور پینار دنیز و صلاح‌الدین پاشالی در نمایشگاه MIPCOM کن برای سریال «زنان کلاه‌دوز»",
+   "summaryFa": "پینار دنیز و صلاح‌الدین پاشالی، بازیگران اصلی سریال «زنان کلاه‌دوز»، در نمایشگاه MIPCOM در کن حضور یافتند. گردهمایی دوباره این دو بازیگر برای پروژه جدیدشان، از لحظات برجسته شب معرفی بود.",
+   "bodyFa": [
+    "پینار دنیز و صلاح‌الدین پاشالی برای معرفی سریال «زنان کلاه‌دوز» که در آن نقش‌های اصلی را بر عهده دارند، عازم شهر کن شدند تا در نمایشگاه MIPCOM شرکت کنند.",
+    "این دو هنرمند که سابقه همبازی بودن در گذشته را دارند، این بار به خاطر پروژه جدید خود در کنار یکدیگر قرار گرفتند و حضورشان توجه‌ها را به خود جلب کرد و به یکی از لحظات برجسته شب معرفی تبدیل شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "97fc41123dab",
@@ -8738,7 +9111,7 @@
    "video": null,
    "published": "2026-10-13T08:03:52.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -8751,9 +9124,20 @@
      "url": "https://www.haberturk.com/magazin/foto/pelin-karahan-bosanma-surecini-anlatti-3919203",
      "title": "Boşanma sürecini anlattı",
      "snippet": "Ünlü oyuncu Pelin Karahan, 12 yıllık evliliğini sonlandırdığı Bedri Güntay'la boşanma süreci hakkında konuştu. Karahan, \"Çocuklarımın mutsuz bir evlilikte büyümesini istemedim\" dedi",
-     "published": "2026-10-13T08:03:52.000Z"
+     "published": "2026-10-13T08:03:52.000Z",
+     "titleFa": "فرآیند طلاق را شرح داد"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "پelin Karahan درباره روند طلاق خود صحبت کرد",
+   "summaryFa": "پلین کاراهان، بازیگر سرشناس، درباره جدایی خود از بدری گونتای توضیح داد و تأکید کرد که نمی‌خواسته فرزندانش در یک ازدواج ناخوشحالی بزرگ شوند.",
+   "bodyFa": [
+    "پلین کاراهان بازیگر سرشناس که در ماه آوریل به زندگی مشترک ۱۲ ساله خود با بدری گونتای پایان داد، در برنامه‌ای درباره روند طلاق و تغییرات زندگی خود صحبت کرد.",
+    "او با بیان اینکه گرفتن این تصمیم آسان نبوده است، گفت که ترجیح داده است فرزندانش شاهد یک زندگی ناخوشحالی نباشند و جدایی محترمانه را برای آن‌ها بهتر می‌داند.",
+    "کاراهان همچنین به تغییرات زندگی پس از طلاق، مسئولیت‌های مالی جدید و پیش‌داوری‌هایی که علیه بازیگران زن پس از مادر شدن در صنعت وجود دارد، اشاره کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4ca5cab0fbb8",
@@ -8767,7 +9151,7 @@
    "video": null,
    "published": "2026-10-13T07:58:02.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -8780,9 +9164,27 @@
      "url": "https://www.sozcu.com.tr/lamine-yamal-istanbul-a-yalniz-gelmedi-ucaktan-paylasimi-gundem-oldu-p368650",
      "title": "Barcelonalı yıldızı Lamine Yamal İstanbul'a yalnız gelmedi: Uçaktan paylaşımı gündem oldu",
      "snippet": "Barcelona'nın genç yıldızı Lamine Yamal, Galatasaray maçı için İstanbul'a gelirken sevgilisi Ines Garcia da ona eşlik et...",
-     "published": "2026-10-13T07:58:02.000Z"
+     "published": "2026-10-13T07:58:02.000Z",
+     "titleFa": "ستاره بارسلونایی لامینه یامال تنها به استانبول نیامد: اشتراک‌گذاری‌اش از هواپیما جنجال‌ساز شد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/702jpg-Mru4rmBJtUicJ54kg5qZzg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/702jpg-Mru4rmBJtUicJ54kg5qZzg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/lamine-yamal-istanbula-yalniz-gelmedi-ucaktan-paylasimi-gundem-oldu-1jpg-cxyZJCvvJUqQ5WF8no5n8Q.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/lamine-yamal-istanbula-yalniz-gelmedi-ucaktan-paylasimi-gundem-olduujpg-b4qhyRssp0Cs1SPJ2BiwrA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/lamine-yamal-istanbula-yalniz-gelmedi-ucaktan-paylasimi-gundem-oldu-3jpg-cY1fbSYWrkWGBO5hXQOAQw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "ستاره بارسلونا لامینه یامال برای بازی با گاتاسارای به همراه نامزدش به استانبول آمد",
+   "summaryFa": "لامینه یامال ستاره جوان بارسلونا برای مسابقه با گالاتاسرای به استانبول سفر کرد و نامزدش اینس گارسیا نیز او را همراهی کرد. تصاویر و پست‌های این زوج از سفر هوایی و حضورشان در استانبول مورد توجه هواداران و رسانه‌های مجله‌ای قرار گرفت.",
+   "bodyFa": [
+    "لامینه یامال، ستاره جوان تیم بارسلونا، به منظور شرکت در مسابقه مقابل گالاتاسرای به استانبول سفر کرده است. گزارش‌ها حاکی از آن است که او در این سفر تنها نبوده و نامزدش، اینس گارسیا، نیز او را همراهی کرده است.",
+    "این زوج جوان در طول سفر هوایی و پس از ورود به استانبول تصاویری را به صورت متوالی منتشر کردند. این اشتراک‌گذاری‌ها و تصاویر منتشر شده از پرواز و حضور آن‌ها، علاوه بر فوتبال‌دوستان، توجه رسانه‌ها و اخبار مجله‌ای را نیز به خود جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "aebbf3c649bc",
@@ -8809,9 +9211,27 @@
      "url": "https://www.sozcu.com.tr/300-bin-liralik-soruda-takildi-kaldi-sehriyar-kelimesinin-anlamini-bilemedi-p368686",
      "title": "300 bin liralık soruda takıldı kaldı: Şehriyâr kelimesinin anlamını bilemedi",
      "snippet": "Kim Milyoner Olmak İster'de yarışmacı Emrullah Erol, 300 bin TL değerindeki Osmanlıca sorusunda iki joker hakkını kullan...",
-     "published": "2026-10-13T07:54:24.000Z"
+     "published": "2026-10-13T07:54:24.000Z",
+     "titleFa": "در سؤال ۳۰۰ هزار لیره‌ای متوقف شد: نتوانست معنای واژه شهریار را بداند"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/910jpg-8eMjDqR7g0izlHEYI9XbDw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/910jpg-8eMjDqR7g0izlHEYI9XbDw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/avrupaningobegindefutbolicinsokaksavasi6ad0b5aef37d802ff304e4f3png-rWuv30GqhEqBhbw1xkQgeg.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ad0aadbf37d802ff304e2bdpng-aM43PPaaYU_ixY0-7UFkrw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ardagulermucizesiyaptiklarisonrasiherkesonahayrankaldi6ad0a10df37d802ff304e0bfpng-W4ASWNqLEEKgoyKBbh9raQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "شرکت‌کننده مسابقه «چه کسی می‌خواهد میلیونر شود؟» در سؤال ۳۰۰ هزار لیره‌ای متوقف شد",
+   "summaryFa": "امرللا ارول، شرکت‌کننده مسابقه تلویزیونی، نتوانست به سؤال ۳۰۰ هزار لیره‌ای با موضوع واژه عثمانی «شهریار» پاسخ دهد و با وجود استفاده از دو حق joker و کمک تماشاچیان، پاسخ درست را نیافت.",
+   "bodyFa": [
+    "در مسابقه تلویزیونی «چه کسی می‌خواهد میلیونر شود؟»، یکی از شرکت‌کنندگان به نام امرللا ارول در مرحله سؤال ۳۰۰ هزار لیره‌ای با چالشی جدی روبه‌رو شد.",
+    "این سؤال به معنای واژه عثمانی «شهریار» اختصاص داشت. این شرکت‌کننده با وجود استفاده از دو حق joker و همچنین بهره‌گیری از پاسخ جوکر تماشاچیان، نتوانست پاسخ درست را تشخیص دهد و در نهایت در این مرحله متوقف شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ae0533356a99",
@@ -8825,7 +9245,7 @@
    "video": null,
    "published": "2026-10-13T07:20:03.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "rumor",
    "entities": {
     "series": [],
     "people": [],
@@ -8838,9 +9258,27 @@
      "url": "https://www.sozcu.com.tr/evlilik-beklenirken-ayrilik-geldi-vakko-nun-veliahti-fotograflari-sildi-p368675",
      "title": "Evlilik beklenirken ayrılık geldi: Vakko'nun veliahtı fotoğrafları sildi",
      "snippet": "Allan Hakko ile Pelin Uluksar cephesinden beklenmedik bir gelişme yaşandı. Haziran ayında ilişkilerinin birinci yılını k...",
-     "published": "2026-10-13T07:20:03.000Z"
+     "published": "2026-10-13T07:20:03.000Z",
+     "titleFa": "جدایی در حالی که انتظار ازدواج می‌رفت: ولیعهد واکو عکس‌ها را پاک کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/810jpg-2K4n_nQrvE_dowZdxDgMZw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/810jpg-2K4n_nQrvE_dowZdxDgMZw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/pelin-uluksarrrjpg-WeLq3sHriUKOUlyAnKogdw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/vakko-veliaht-sevgilisijpg-Y3mRS7EpDkyZGOpxA5A95w.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/avrupaningobegindefutbolicinsokaksavasi6ad0b5aef37d802ff304e4f3png-rWuv30GqhEqBhbw1xkQgeg.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار خبر جدایی آلън هاکو و پلین اولوکسار پس از شایعات ازدواج",
+   "summaryFa": "درحالی‌که انتظار می‌رفت آلن هاکو و پلین اولوکسار با یکدیگر ازدواج کنند، اقدام اخیر هاکو در شبکه‌های اجتماعی گمانه‌زنی‌ها درباره جدایی این زوج را برانگیخت.",
+   "bodyFa": [
+    "گزارش‌های جدید حاکی از تحولاتی غیرمنتظره در رابطه آلن هاکو و پلین اولوکسار است. این زوج که در ماه ژوئن نخستین سالگرد رابطه خود را جشن گرفته بودند و صحبت‌هایی درباره احتمال ازدواج آن‌ها مطرح بود، اکنون با حواشی جدیدی در زندگی عاطفی خود روبه‌رو شده‌اند.",
+    "این شایعات پس از آن قوت گرفت که آلن هاکو دست به اقدامی تازه در شبکه‌های اجتماعی زد و تصاویر مرتبط را حذف کرد. با این حال، خبر جدایی آن‌ها در حد ادعا و گمانه‌زنی است و هنوز از سوی منابع رسمی تأیید نشده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b2a437e09bc7",
@@ -8955,9 +9393,27 @@
      "url": "https://www.sabah.com.tr/magazin/koy-tarzi-dikkat-cekmisti-cagatay-ulusoyun-yeleginin-fiyati-soke-etti-7679488",
      "title": "Köy tarzı dikkat çekmişti! Çağatay Ulusoy’un yeleğinin fiyatı şoke etti!",
      "snippet": "Ailesiyle birlikte baba ocağını ziyarete giden Çağatay Ulusoy'un köy tarzı sosyal medyada geniş yankı uyandırmıştı. Ancak fotoğraflarda sıradan bir günlük kıyafet gibi duran o yeleğin ortaya çıkan fiyatı... Devamı için tıklayınız",
-     "published": "2026-10-13T06:36:05.000Z"
+     "published": "2026-10-13T06:36:05.000Z",
+     "titleFa": "سبک روستایی توجه جلب کرده بود! قیمت جلیقه چاعاتای اولوسوی شوکه کرد!"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/c1dbd9/1200/675/0/0/600/338?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/1791872251040.jpeg",
+    "https://iasbh.tmgrup.com.tr/facee5/752/395/0/0/600/315?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/1791872251040.jpeg",
+    "https://iasbh.tmgrup.com.tr/727f97/210/210/185/0/580/394?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/1791720458681.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/2026/10/13/1791872281121.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "سبک روستایی چاعاتای اولوسوی و قیمت جالب توجه جلیقه او",
+   "summaryFa": "تصاویری از سفر چاعاتای اولوسوی به زادگاهش و استایل روستایی او در شبکه‌های اجتماعی مورد توجه قرار گرفت. قیمت جلیقه ساده او در این عکس‌ها تعجب کاربران را به دنبال داشت.",
+   "bodyFa": [
+    "چاعاتای اولوسوی، یکی از بازیگران موفق و محبوب مرد ترکیه، اخیراً برای دیدار با خانواده‌اش به زادگاه خود رفته است. تصاویری که از این دیدار و با استایل موسوم به «سبک روستایی» از او منتشر شده، بازتاب گسترده‌ای در شبکه‌های اجتماعی داشته است.",
+    "اگرچه جلیقه‌ای که این بازیگر پوشیده بود در عکس‌ها به عنوان یک لباس روزمره و معمولی به نظر می‌رسید، اما مشخص شدن قیمت واقعی آن شگفتی مخاطبان و کاربران فضای مجازی را برانگیخته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "74863764e0ef",
@@ -8984,9 +9440,27 @@
      "url": "https://www.sozcu.com.tr/sevgilisi-icin-venedik-te-maskeli-dogum-gunu-partisi-verdi-p368644",
      "title": "Sevgilisi için Venedik'te maskeli doğum günü partisi verdi",
      "snippet": "Özlem Önal, uzun süredir birlikte olduğu Amerikalı yapımcı Stuart Parr'ın 60'ıncı yaşını İtalya'da unutulmaz bir organiz...",
-     "published": "2026-10-13T06:34:06.000Z"
+     "published": "2026-10-13T06:34:06.000Z",
+     "titleFa": "برگزاری مهمانی تولد ماسک‌دار در ونیز برای شریک زندگی‌اش"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/588jpg-RWyxzJXNL0ykhi6GwD3auQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/588jpg-RWyxzJXNL0ykhi6GwD3auQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ozlem-onal-stuartjpg-2nOD3h6jYUia8JVrBACSHQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sevgilisi-icin-venedikte-maskeli-dogum-gunu-partisi-verdi-3jpg-rOZZL87yC0i9j3kN-Oycxg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sevgilisi-icin-venedikte-maskeli-dogum-gunu-partisi-verdi-1jpg--DSJJolHpECQCpCFkDnT5w.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/venedik-masalsi-dugunjpeg-KjqMfeC2PEi9aYumdsUQGw.jpeg"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن تولد باشکوه اوزلم اونال برای استوارت پار در ونیز",
+   "summaryFa": "اوزلم اونال برای شصتمین سالگرد تولد شریک زندگی خود، استوارت پار، یک مهمانی ماسک‌دار در ونیز ایتالیا برگزار کرد. این مراسم با حضور چهره‌های سرشناس و با لباس‌ها و ماسک‌های رنگارنگ برگزار شد.",
+   "bodyFa": [
+    "اوزلم اونال، از چهره‌های شناخته‌شده، برای شصتمین سالگرد تولد استوارت پار، تهیه‌کننده آمریکایی که از سال ۲۰۱۸ با او رابطه دارد، یک مهمانی باشکوه در شهر ونیز ایتالیا برگزار کرد.",
+    "این مراسم در فضایی تاریخی و با حضور مهمانان سرشناس برگزار شد. حاضران در این مهمانی با لباس‌ها و ماسک‌های رنگارنگ خود تصاویری شبیه به دنیای افسانه‌ها خلق کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "76ab8dafd890",
@@ -9062,9 +9536,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/kivancin-okuma-listesi-43339454",
      "title": "Kıvanç’ın okuma listesi",
      "snippet": "Instagram hesabını kapattıktan sonra “Onun yerine iki düzine kitap aldım. Bol bol okuyorum” açıklamasını yapan Kıvanç Tatlıtuğ’un kitap listesi ortaya çıktı.",
-     "published": "2026-10-13T06:24:00.000Z"
+     "published": "2026-10-13T06:24:00.000Z",
+     "titleFa": "فهرست کتاب‌های کیوانچ"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acdce9fbb52bb1a58b46c4a.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acdce9fbb52bb1a58b46c4a.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "فهرست کتاب‌های خوانده شده توسط کیوانچ تاتلیتوغ مشخص شد",
+   "summaryFa": "لیست کتاب‌هایی که کیوانچ تاتلیتوغ پس از بستن حساب اینستاگرام خود مطالعه می‌کند، فاش شد.",
+   "bodyFa": [
+    "پس از اینکه کیوانچ تاتلیتوغ حساب کاربری خود در اینستاگرام را بست، اعلام کرده بود که به جای آن دو جین کتاب خریده و به مقدار فراوان مطالعه می‌کند.",
+    "اکنون فهرست کتاب‌هایی که این بازیگر مطالعه می‌کند آشکار شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8fccf3cf8aa5",
@@ -9078,7 +9570,7 @@
    "video": null,
    "published": "2026-10-13T06:20:19.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -9091,9 +9583,19 @@
      "url": "https://www.haberturk.com/magazin/foto/serhan-onat-ile-merve-kusmenoglu-evlendi-3919259",
      "title": "Ünlü oyuncu evlendi",
      "snippet": "Serhan Onat, uzun süredir birlikte olduğu Merve Küsmenoğlu ile nikâh masasına oturdu. Çiftin mutlu gününden ilk kare, nikâh şahidi Bestemsu Özdemir'in sosyal medya paylaşımıyla ortaya çıktı",
-     "published": "2026-10-13T06:20:19.000Z"
+     "published": "2026-10-13T06:20:19.000Z",
+     "titleFa": "بازیگر مشهور ازدواج کرد"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "بازیگر سرشناس ازدواج کرد",
+   "summaryFa": "سرhan اونات، بازیگر مجموعه‌هایی چون «بودروم ماسالی»، با مروه کوسمه‌اوغلو پیمان زناشویی بست. این خبر و نخستین تصویر از مراسم ازدواج آن‌ها از طریق انتشار عکس در شبکه‌های اجتماعی توسط بستمسو اوزدمیر، شاهد عقد زوج، مشخص شد.",
+   "bodyFa": [
+    "سرhan اونات، بازیگر شناخته‌شده که در آثار مختلفی از جمله «آکینجی»، «بودروم ماسالی»، «مریم» و «کندی دوشان آغلاماز» به ایفای نقش پرداخته است، زندگی مشترک خود را آغاز کرد. او با مروه کوسمه‌اوغلو، استایلیستی که مدت‌ها با او در رابطه بود و سال گذشته نامزد کرده بودند، ازدواج کرد.",
+    "این زوج در مراسمی ساده که با حضور خانواده‌ها و دوستان نزدیکشان برگزار شد، جشن عروسی خود را برپا کردند. نکته جالب توجه این مراسم حضور بستمسو اوزدمیر، بازیگر و دوست نزدیک آن‌ها به عنوان شاهد عقد بود که با انتشار عکس‌هایی از این مراسم در حساب کاربری خود در شبکه‌های اجتماعی، خبر ازدواج این زوج را رسماً نمایان کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8be47f459536",
@@ -9120,38 +9622,27 @@
      "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-sevgilisi-unlu-sarkici-cikti-hamile-sharon-kovacs-kimdir-kac-yasinda-p368622",
      "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında?",
      "snippet": "Baba olacağını duyurduktan sonra bebeğinin annesi merak edilen Ufuk Beydemir, bu kez özel hayatıyla gündeme geldi. Ünlü ...",
-     "published": "2026-10-13T05:54:30.000Z"
+     "published": "2026-10-13T05:54:30.000Z",
+     "titleFa": "معشوقه افوک بیدمیر یک خواننده معروف از آب درآمد: شارون کوواچ باردار کیست، چند ساله است؟"
     }
-   ]
-  },
-  {
-   "id": "24c813789d67",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/insan-cok-istese-de-olen-sevdigiyle-beraber-olemiyor-15-gundur-evlat-acisiyla-yanan-unlu-cift-kardes-hatirina-dugune-gitti-43338906",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "İnsan çok istese de ölen sevdiğiyle beraber ölemiyor... 15 gündür evlat acısıyla yanan ünlü çift, kardeş hatırına düğüne gitti",
-   "snippet": "Hayat, birçok açıdan acımasız ve kimi zaman da inanılmaz görünüyor... En şaşırtıcı olan da insanın çok sevdiği bir yakınını, kendi kanından canından birini kaybettikten sonra bile hayatına devam etmesi. Acıkması, uyuması, hatta bir süre sonra yeniden gülmeye başlaması...",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acce2e322393fcfc7d3990a.jpg",
-   "video": null,
-   "published": "2026-10-13T05:46:26.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/insan-cok-istese-de-olen-sevdigiyle-beraber-olemiyor-15-gundur-evlat-acisiyla-yanan-unlu-cift-kardes-hatirina-dugune-gitti-43338906",
-     "title": "İnsan çok istese de ölen sevdiğiyle beraber ölemiyor... 15 gündür evlat acısıyla yanan ünlü çift, kardeş hatırına düğüne gitti",
-     "snippet": "Hayat, birçok açıdan acımasız ve kimi zaman da inanılmaz görünüyor... En şaşırtıcı olan da insanın çok sevdiği bir yakınını, kendi kanından canından birini kaybettikten sonra bile hayatına devam etmesi. Acıkması, uyuması, hatta bir süre sonra yeniden gülmeye başlaması...",
-     "published": "2026-10-13T05:46:26.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/227jpg-fM8yPfBjGE2_0HZ0rnsbTg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/227jpg-fM8yPfBjGE2_0HZ0rnsbTg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ufuk-beydemirin-sevgilisi-unlu-sarkici-ciktijpg-Q_5ecrZvVkSfX_1LaFYlwA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ufuk-beydemirin-sevgilisi-unlu-sarkici-cikti-hamile-sharon-kovacs-kimdir-kac-yasindajpg-Zaxy7H1EeUOdysf5wy52sQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ufuk-beydemirin-sevgilisi-unlu-sarkici-cikti-hamile-sharon-kovacs-kimdir-kac-yasindasjpg-dK6Tjavwk0KGEQTZ7P4klQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "آشکار شدن هویت شریک زندگی و مادر فرزند آینده افوق بیدمیر",
+   "summaryFa": "پس از اعلام خبر پدر شدن افوک بیدمیر، مشخص شد که مادر فرزند او شارون کوواچ، موسیقی‌دان هلندی است. این زوج تصاویری از خود منتشر کرده‌اند که توجه مخاطبان را جلب کرده است.",
+   "bodyFa": [
+    "افوک بیدمیر پس از آنکه خبر پدر شدن خود را اعلام کرد، با مشخص شدن هویت مادر فرزندش بار دیگر توجه رسانه‌ها را به زندگی خصوصی خود جلب کرد. مشخص شد که او با شارون کوواچ، خواننده و موسیقی‌دان اهل هلند در رابطه است.",
+    "این خواننده معروف تصاویری مشترک از خود و شارون کوواچ را در فضای مجازی به اشتراک گذاشت و همزمان کوواچ نیز پست قابل‌توجهی در این زمینه منتشر کرد که بازتاب زیادی داشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0b0d461db2e6",
@@ -9178,9 +9669,27 @@
      "url": "https://www.sozcu.com.tr/serhan-onat-sessiz-sedasiz-evlendi-surpriz-nikahtan-ilk-kareler-p368613",
      "title": "Serhan Onat sessiz sedasız evlendi: Sürpriz nikahtan ilk kareler",
      "snippet": "Survivor 2026 ile gündeme gelen oyuncu Serhan Onat, uzun süredir birlikte olduğu Merve Küsmenoğlu ile evlendi. Çiftin ni...",
-     "published": "2026-10-13T05:43:27.000Z"
+     "published": "2026-10-13T05:43:27.000Z",
+     "titleFa": "سرهان اونات به دور از هیاهو ازدواج کرد: نخستین تصاویر از نکاح غافلگیرکننده"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/556jpg-nhqaGSxzK0WMGOzhfIa3jg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/556jpg-nhqaGSxzK0WMGOzhfIa3jg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/serhan-onatjpg-ge7ubh61iEKbr_qd-mK1nQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/serhan-onatttjpg-M4VpCjd3ykSANVzrQmtDDA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/avrupaningobegindefutbolicinsokaksavasi6ad0b5aef37d802ff304e4f3png-rWuv30GqhEqBhbw1xkQgeg.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "سرهان اونات به دور از هiah و هوی ازدواج کرد: نخستین تصاویر از مراسم نکاح غافلگیرکننده",
+   "summaryFa": "سرهان اونات، بازیگری که نامش با سورایور ۲۰۲۶ مطرح شده بود، با مروه کوسمه‌اوغلو ازدواج کرد. این خبر شاد با تصاویر به اشتراک گذاشته‌شده از سوی بستمسو اوزدمیر، شاهد عقد این زوج، آشکار شد.",
+   "bodyFa": [
+    "سرهان اونات، بازیگری که اخیراً با حضور در مسابقه سورایور ۲۰۲۶ در کانون توجه قرار گرفته بود، تصمیم گرفت زندگی مشترک خود را آغاز کند. او با مروه کوسمه‌اوغلو که مدت طولانی با یکدیگر در رابطه بودند، طی مراسمی بی‌سروصدا ازدواج کرد.",
+    "این خبر شاد و غافلگیرکننده زمانی رسانه‌ای شد که بستمسو اوزدمیر، بازیگر سرشناس و شاهد عقد این زوج، نخستین تصاویر از مراسم ازدواج آن‌ها را در فضای مجازی به اشتراک گذاشت و جزئیات این پیوند را آشکار کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "589986b616af",
@@ -9194,7 +9703,7 @@
    "video": null,
    "published": "2026-10-13T05:36:45.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -9207,9 +9716,19 @@
      "url": "https://www.haberturk.com/magazin/ata-demirer-den-uyari-3919215",
      "title": "Ata Demirer'den uyarı",
      "snippet": "Ünlü komedyen Ata Demirer, kendisinin ve ailesinin adını kullanarak para talep eden dolandırıcılara karşı takipçilerini uyardı",
-     "published": "2026-10-13T05:36:45.000Z"
+     "published": "2026-10-13T05:36:45.000Z",
+     "titleFa": "هشدار از سوی عطا دمیر"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "هشدار عطا دمیر به دنبال‌کنندگانش درباره کلاهبرداران",
+   "summaryFa": "عطا دمیر، کمدین معروف، با انتشار پیامی در شبکه اجتماعی به دنبال‌کنندگان خود درباره افرادی که با سوءاستفاده از نام او و خانواده‌اش درخواست پول می‌کنند، هشدار داد. او از مردم خواست به این تماس‌ها اعتنا نکنند و موضوع را به نیروهای امنیتی گزارش دهند.",
+   "bodyFa": [
+    "عطا دمیر، کمدین سرشناس، طی پیامی در صفحه اجتماعی خود به طرفداران و دنبال‌کنندگانش هشدار داد که برخی افراد با سوءاستفاده از نام او و اعضای خانواده‌اش اقدام به کلاهبرداری و درخواست پول می‌کنند.",
+    "این کمدین اعلام کرد افرادی با تماس تلفنی ادعا می‌کنند خود او، برادرش چنک دمیر یا یکی از نزدیکان خانواده هستند و به بهانه‌هایی چون قرض، وجه نقد اضطراری یا کمک مالی درخواست پول دارند. او از مردم خواست به این تماس‌ها به هیچ عنوان اعتماد نکنند و شماره تماس‌گیرندگان را به مراجع امنیتی گزارش دهند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "38076c3272f5",
@@ -9223,7 +9742,7 @@
    "video": null,
    "published": "2026-10-13T05:24:43.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -9236,9 +9755,27 @@
      "url": "https://www.sabah.com.tr/magazin/ata-demirerin-basi-dolandiricilarla-dertte-arayan-numarayi-bildirin-7679442",
      "title": "Ata Demirer'in başı dolandırıcılarla dertte! \"Arayan numarayı bildirin\"",
      "snippet": "Ünlü komedyen Ata Demirer, bu kez kimseyi güldürmedi. Sosyal medya hesabından \"Kamuoyuna duyuru\" başlığıyla ciddi bir konuyu ele alan ünlü sanatçı, kendisinin ve kardeşi Cenk Demirer'in adını alet eden... Devamı için tıklayınız",
-     "published": "2026-10-13T05:24:43.000Z"
+     "published": "2026-10-13T05:24:43.000Z",
+     "titleFa": "مشکل سر و کله زدن آتا دمیرر با کلاهبرداران! «شماره تماس گیرنده را گزارش دهید»"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/e964cd/1200/675/0/46/1440/854?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/1791867471778.jpg",
+    "https://iasbh.tmgrup.com.tr/9a9e96/752/395/0/72/1440/828?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/1791867471778.jpg",
+    "https://iasbh.tmgrup.com.tr/7dfba6/210/210/150/0/634/483?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/deniz-tutkunu-ata-demirer-yine-oltayi-eline-aldi-bogazda-balik-avi-keyfi-1787471358592.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "گرفتاری آتا دمیرر با کلاهبرداران",
+   "summaryFa": "آتا دمیرر، کمدین سرشناس، با انتشار اطلاعیه‌ای در صفحه مجازی خود نسبت به سوءاستفاده کلاهبرداران از نام خود و برادرش هشدار داد.",
+   "bodyFa": [
+    "آتا دمیرر، کمدین معروف ترکیه‌ای، با انتشار پستی در حساب کاربری خود در شبکه‌های اجتماعی تحت عنوان «اعلامیه به اطلاع عموم»، درباره یک موضوع جدی هشدار داد.",
+    "او اعلام کرد که افراد کلاهبردار از نام او و برادرش، چنگ دمیرر، سوءاستفاده کرده و آن را به کارهای خود آلوده کرده‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "7352cdbb3d81",
@@ -9265,7 +9802,8 @@
      "url": "https://www.sozcu.com.tr/annesinin-cenazesine-bile-katilmamisti-mehmet-ali-erbil-gercegi-acikladi-p368601",
      "title": "Annesinin cenazesine bile katılmamıştı: Mehmet Ali Erbil gerçeği açıkladı",
      "snippet": "Mehmet Ali Erbil'in annesi Yurdagül Eken, geçtiğimiz nisan ayında 91 yaşında hayatını kaybetmişti. Cenazeye katılmamasıy...",
-     "published": "2026-10-13T05:23:19.000Z"
+     "published": "2026-10-13T05:23:19.000Z",
+     "titleFa": "عدم حضور در مراسم تشییع جنازه مادرش حتی: مهمت علی اربیل حقیقت را فاش کرد"
     },
     {
      "source": "milliyet-magazin",
@@ -9273,12 +9811,39 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/annesinin-cenazesine-katilmamisti-mehmet-ali-erbil-nedenini-aylar-sonra-acikladi-7678405",
      "title": "Annesinin cenazesine katılmamıştı! Mehmet Ali Erbil nedenini aylar sonra açıkladı",
      "snippet": "Mehmet Ali Erbil, hayatını kaybeden annesi Yurdagül Eken’in cenazesine neden katılmadığını aylar sonra açıkladı.",
-     "published": "2026-10-13T06:42:25.000Z"
+     "published": "2026-10-13T06:42:25.000Z",
+     "titleFa": "در مراسم تشییع جنازه مادرش شرکت نکرده بود! مهمت علی اربیل دلیل آن را پس از ماه‌ها توضیح داد"
     }
    ],
    "mergedIds": [
     "02db69cb2ceb"
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/511jpg-C0ZnFHsCLUmgutz_aoHRaA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/511jpg-C0ZnFHsCLUmgutz_aoHRaA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/avrupaningobegindefutbolicinsokaksavasi6ad0b5aef37d802ff304e4f3png-rWuv30GqhEqBhbw1xkQgeg.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ad0aadbf37d802ff304e2bdpng-aM43PPaaYU_ixY0-7UFkrw.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ardagulermucizesiyaptiklarisonrasiherkesonahayrankaldi6ad0a10df37d802ff304e0bfpng-W4ASWNqLEEKgoyKBbh9raQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "دلیل عدم حضور مهمت علی اربیل در مراسم تشییع جنازه مادرش پس از ماه‌ها مشخص شد",
+   "summaryFa": "مهمت علی اربیل دلیل شرکت نکردن در مراسم تدفین مادر ۹۱ ساله‌اش، یرداگول اکن، را که آوریل گذشته درگذشته بود، توضیح داد. او همچنین درباره ناراحتی‌های قدیمی و ناپدری‌اش اعترافاتی کرد.",
+   "bodyFa": [
+    "مهمت علی اربیل، شوومن معروف، ماه‌ها پس از درگذشت مادرش یرداگول اکن در سن ۹۱ سالگی در فروردین ماه گذشته، دلیل عدم حضور خود در مراسم تشییع جنازه وی را فاش کرد. غیبت او در آن زمان بازتاب زیادی در رسانه‌ها داشت.",
+    "این چهره شناخته‌شده ضمن توضیح در مورد دلخوری و رنجشی که سال‌ها در دل داشته، اعترافات جالب توجهی نیز درباره ناپدری خود مطرح کرد و ابعاد تازه‌ای از احساسات درونی‌اش را بروز داد."
+   ],
+   "comparison": {
+    "agree": [
+     "مادر مهمت علی اربیل به نام یرداگول اکن در ماه آوریل در سن ۹۱ سالگی درگذشته است.",
+     "مهمت علی اربیل در مراسم تشییع جنازه مادرش شرکت نکرده بود.",
+     "اربیل پس از گذشت ماه‌ها درباره دلیل این موضوع و دلخوری‌های قدیمی خود و همچنین ناپدری‌اش صحبت کرده است."
+    ],
+    "differ": [],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6057f01b3232",
@@ -9341,7 +9906,7 @@
    "video": null,
    "published": "2026-10-13T05:16:33.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -9354,9 +9919,20 @@
      "url": "https://www.haberturk.com/magazin/foto/beril-pozam-dan-hamilelik-pozu-3919254",
      "title": "Bebek göründü",
      "snippet": "Ağustos ayında bebek beklediğini açıklayan Beril Pozam'dan hamilelik pozu geldi",
-     "published": "2026-10-13T05:16:33.000Z"
+     "published": "2026-10-13T05:16:33.000Z",
+     "titleFa": "بچه پیدا شد"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "تصویر جدید از بریل پوزام در دوران بارداری",
+   "summaryFa": "بریل پوزام که در ماه اوت خبر بارداری خود را اعلام کرده بود، عکس جدیدی با شکم برآمده منتشر کرد. او و همسرش ارسین آریجی در انتظار به دنیا آمدن نخستین فرزندشان هستند.",
+   "bodyFa": [
+    "بریل پوزام و ارسین آریجی که عشقشان در پشت صحنه سریال «یالی چاپکینی» شکل گرفت و در سال ۲۰۲۴ ازدواج کردند، اکنون خود را برای در آغوش گرفتن نخستین فرزندشان آماده می‌کنند.",
+    "این بازیگر که در ماه اوت بارداری خود را رسماً اعلام کرده بود، این دوران را دور از توجه عموم سپری می‌کند. او اخیراً عکس جدیدی در طبیعت و در کنار همسر و سگش به اشتراک گذاشته است که در آن برجستگی شکمش کاملاً مشهود است.",
+    "پوزام پیش‌تر درباره نحوه دریافت پیشنهاد ازدواج از سوی همسرش گفته بود که این پیشنهاد در فضایی ساده و رومانتیک زیر آسمان پر ستاره و همزمان با سقوط یک شهاب‌سنگ مطرح شده است. وی همچنین اشاره کرده بود که برگزاری مراسم عروسی کار بسیار پراسترسی است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f37bd5069462",
@@ -9383,9 +9959,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/koftecide-surpriz-dogum-gunu-43339402",
      "title": "Köftecide sürpriz doğum günü",
      "snippet": "Ünlü oyuncu ve komedyen Şafak Sezer, 57’nci yaşını arkadaşlarının hazırladığı sürpriz doğum günüyle kutladı.",
-     "published": "2026-10-13T05:10:00.000Z"
+     "published": "2026-10-13T05:10:00.000Z",
+     "titleFa": "تولد غافلگیرکننده در کوفته‌فروشی"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acdbd0cbb52bb1a58b46c2a.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acdbd0cbb52bb1a58b46c2a.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن تولد غافلگیرکننده شفق سزر در رستوران کوفته‌فروشی",
+   "summaryFa": "شفق سزر، بازیگر و کمدین معروف، تولد ۵۷ سالگی خود را با یک جشن غافلگیرکننده از سوی دوستانش جشن گرفت.",
+   "bodyFa": [
+    "شفق سزر، بازیگر و کمدین شناخته‌شده، توانست ۵۷مین سالگرد تولد خود را در کنار دوستانش سپری کند.",
+    "این جشن تولد به صورت کاملاً غافلگیرکننده توسط دوستان این هنرمند در یک کوفته‌فروشی تدارک دیده شده بود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "bbf85e2e099a",
@@ -9399,7 +9993,7 @@
    "video": null,
    "published": "2026-10-13T04:56:05.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -9412,9 +10006,19 @@
      "url": "https://www.haberturk.com/magazin/ajda-pekkan-yegeninin-dugunune-neden-katilamadigini-acikladi-3919191",
      "title": "Düğüne neden katılamadığını açıkladı",
      "snippet": "Ajda Pekkan, yeğeni Zoran Lalvani'nin düğününe konser programı nedeniyle katılamadığını açıkladı. Törene gidemediği için üzgün olduğunu belirten Pekkan, \"Ben çok severim kendisini ama katılamadım. Konserim vardı, iptal edemedim. Arkasından da grip oldum\" dedi",
-     "published": "2026-10-13T04:56:05.000Z"
+     "published": "2026-10-13T04:56:05.000Z",
+     "titleFa": "او دلیل شرکت نکردن در عروسی را توضیح داد"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "اجда پکان دلیل غیبت خود در عروسی برادرپسرش را توضیح داد",
+   "summaryFa": "اجда پکان گفت به دلیل داشتن کنسرت و ابتلای همزمان به بیماری آنفولانزا نتوانسته در مراسم عروسی خواهرزاده‌اش شرکت کند. او همچنین از فشردگی کارهای خود و نداشتن فرصت برای استراحت در تابستان سخن گفت.",
+   "bodyFa": [
+    "آجدا پکان، خواننده معروف، در حاشیه خروج از یک آرایشگاه در منطقه اتیلر، درباره مسائل مختلفی از جمله فعالیت‌های موسیقایی، تور اروپایی پیش‌رو و زندگی شخصی خود با خبرنگاران گفتگو کرد. او در این صحبت‌ها به غیبت خود در مراسم عروسی خواهرزاده‌اش، زوران لالوانی، اشاره کرد.",
+    "پکان توضیح داد که با وجود علاقه‌اش به زوران، به خاطر داشتن کنسرت غیرقابل لغو و سپس ابتلای به آنفولانزا نتوانسته در این جشن حضور یابد و از این بابت ابراز ناراحتی کرد. او همچنین درباره سختی‌های شöhرت، نداشتن آزادی کامل برای قدم زدن و فشرده بودن برنامه‌های کاری‌اش صحبت کرد و افزود که به دلیل این حجم از کار، حتی نتوانسته در تابستان امسال به تعطیلات برود و شنا کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "eb10728b8b6e",
@@ -9441,9 +10045,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/13-yillik-askiyla-evlenmeye-yanasmiyor-simdi-kim-kalip-soyadi-degistirecek-43337830",
      "title": "13 yıllık aşkıyla evlenmeye yanaşmıyor… ‘Şimdi kim kalkıp soyadını değiştirecek!’",
      "snippet": "Son haftalarda her yerde onların adları, fotoğrafları var… Sinemanın ve ekranın ünlü çifti bu yıl oynadıkları dizilerle ödül sezonunun en gözde oyuncuları oldular…",
-     "published": "2026-10-13T04:55:42.000Z"
+     "published": "2026-10-13T04:55:42.000Z",
+     "titleFa": "با عشق ۱۳ ساله اش تن به ازدواج نمی دهد... «حالا چه کسی بلند شود نام خانوادگی اش را عوض کند!»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acb988622393fcfc7d39473.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acb988622393fcfc7d39473.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "از 13 سال عشق تا اکراه از ازدواج و تغییر نام خانوادگی",
+   "summaryFa": "یک زوج مشهور سینما و تلویزیون که امسال با نقش‌آفرینی‌های خود در فصل جوایز درخشیده‌اند، پس از ۱۳ سال رابطه همچنان تمایلی به ازدواج ندارند.",
+   "bodyFa": [
+    "در هفته‌های اخیر، نام و تصاویر یک زوج مشهور از دنیای سینما و تلویزیون به طور گسترده‌ای در رسانه‌ها مطرح شده است. این زوج که هر دو از بازیگران برجسته و محبوب در فصل جوایز امسال بوده‌اند، توجه زیادی را به خود جلب کرده‌اند.",
+    "بر اساس اطلاعات منتشر شده، این زوج با وجود داشتن یک رابطه طولانی ۱۳ ساله، تمایلی به ازدواج از خود نشان نمی‌دهند و مسئله تغییر نام خانوادگی به عنوان یکی از دلایل این موضوع مطرح شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5839a97ca199",
@@ -10795,75 +11417,6 @@
    ]
   },
   {
-   "id": "dd3f98ae2281",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/usta-sanatci-nihat-ziyalan-hayatini-kaybetti-43338675",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Usta sanatçı Nihat Ziyalan hayatını kaybetti",
-   "snippet": "1960 ve 1970’li yıllarda Türk sinemasında canlandırdığı karakterlerle tanınan oyuncu, şair ve yazar Nihat Ziyalan, 90 yaşında hayatını kaybetti.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6accb2b293192880ef06c1a3.jpg",
-   "video": null,
-   "published": "2026-10-12T10:14:06.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/usta-sanatci-nihat-ziyalan-hayatini-kaybetti-43338675",
-     "title": "Usta sanatçı Nihat Ziyalan hayatını kaybetti",
-     "snippet": "1960 ve 1970’li yıllarda Türk sinemasında canlandırdığı karakterlerle tanınan oyuncu, şair ve yazar Nihat Ziyalan, 90 yaşında hayatını kaybetti.",
-     "published": "2026-10-12T10:14:06.000Z"
-    },
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/son-dakika-usta-sanatci-alpay-hayatini-kaybetti-7679417",
-     "title": "SON DAKİKA HABERLERİ: Usta sanatçı Alpay hayatını kaybetti! Alpay kaç yaşındaydı?",
-     "snippet": "\"Eylülde Gel\", \"Fabrika Kızı\", \"Kara Tren\" ve \"Ayrılık Rüzgarı\" şarkılarıyla tanınan Türk pop ve romantik folk müziğinin usta isimlerinden, şarkıcı ve besteci Alpay, 91 yaşında vefat etti. Şarkıcı Bora Gencer, sosyal medya hesabından yaptığı \"Alpay abime Allah'tan rahmet, sevenlerine ve ailesine sab",
-     "published": "2026-10-14T11:41:59.000Z"
-    }
-   ],
-   "mergedIds": [
-    "902d0731a04b"
-   ]
-  },
-  {
-   "id": "d9b6b44e59c2",
-   "url": "https://www.milliyet.com.tr/magazin/yesilcamin-usta-oyuncusu-nihat-ziyalan-hayatini-kaybetti-7677874",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Son dakika haberleri: Yeşilçam'ın usta oyuncusu Nihat Ziyalan öldü mü? Nihat Ziyalan kaç yaşındaydı?",
-   "snippet": "Yeşilçam'da üstlendiği \"kötü adam\" rolleri ve karakteristik oyunculuğuyla hafızalara kazınan usta sanatçı Nihat Ziyalan'dan acı haber geldi. 1980 yılından bu yana yaşamını Avustralya'da sürdüren 90 yaşındaki oyuncu ve yazarın, 11 Ekim Pazar günü Sidney'de hayatını kaybettiği öğrenildi. İlginizi Çekebilir Sinemadaki sert bakışları ve canlandırdığı özgün karakterlerle dönemin aranan isimleri arasına giren Ziyalan, Sezercik Aslan Parçası filmindeki \"Nedim\" rolüyle geniş kitlelerce tanındı. Türkan Ş",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6accaf1eea5ea19fcfcdd52f.jpg",
-   "video": null,
-   "published": "2026-10-12T10:12:29.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/yesilcamin-usta-oyuncusu-nihat-ziyalan-hayatini-kaybetti-7677874",
-     "title": "Son dakika haberleri: Yeşilçam'ın usta oyuncusu Nihat Ziyalan öldü mü? Nihat Ziyalan kaç yaşındaydı?",
-     "snippet": "Yeşilçam'da üstlendiği \"kötü adam\" rolleri ve karakteristik oyunculuğuyla hafızalara kazınan usta sanatçı Nihat Ziyalan'dan acı haber geldi. 1980 yılından bu yana yaşamını Avustralya'da sürdüren 90 yaşındaki oyuncu ve yazarın, 11 Ekim Pazar günü Sidney'de hayatını kaybettiği öğrenildi. İlginizi Çeke",
-     "published": "2026-10-12T10:12:29.000Z"
-    }
-   ]
-  },
-  {
    "id": "d0da0647aecd",
    "url": "https://www.aa.com.tr/tr/kultur/dunyada-bu-hafta-bir-dizi-etkinlik-sanatseverlerle-bulusacak/4085944",
    "source": "aa-kultur",
@@ -10908,122 +11461,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "dd1fdc9ec2a9",
-   "url": "https://www.sozcu.com.tr/orumcek-adam-gecen-ay-bosandigi-esinin-nikahini-kiydi-p368257",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Örümcek Adam geçen ay boşandığı eşinin nikahını kıydı",
-   "snippet": "Örümcek Adam rolüyle hafızalara kazınan Tobey Maguire, yıllar süren ayrılık ve boşanma sürecinin ardından eski eşi Jenni...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/orumcekadameskiesijpg-I2Fsy90mxkyONLN-bumwBw.jpg",
-   "video": null,
-   "published": "2026-10-12T09:47:23.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/orumcek-adam-gecen-ay-bosandigi-esinin-nikahini-kiydi-p368257",
-     "title": "Örümcek Adam geçen ay boşandığı eşinin nikahını kıydı",
-     "snippet": "Örümcek Adam rolüyle hafızalara kazınan Tobey Maguire, yıllar süren ayrılık ve boşanma sürecinin ardından eski eşi Jenni...",
-     "published": "2026-10-12T09:47:23.000Z"
-    }
-   ]
-  },
-  {
-   "id": "5cd837a971bc",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/sevgilimi-evlilige-ikna-etmek-icin-evde-her-gun-gelinlik-giydim-bir-dugun-yaptirdi-o-da-gecersiz-cikti-43336836",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Sevgilimi evliliğe ikna etmek için evde her gün gelinlik giydim: Bir düğün yaptırdı o da geçersiz çıktı",
-   "snippet": "Bir insanın sevdiğiyle ömrünün geri kalanını geçirmek istemesinden daha doğal ne olabilir? Onunla evlenmek, birlikte yaşlanmak, hayat ne getiriyorsa el ele karşılamak..",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acc9589ad0afbfd26bbc41f.jpg",
-   "video": null,
-   "published": "2026-10-12T09:43:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/sevgilimi-evlilige-ikna-etmek-icin-evde-her-gun-gelinlik-giydim-bir-dugun-yaptirdi-o-da-gecersiz-cikti-43336836",
-     "title": "Sevgilimi evliliğe ikna etmek için evde her gün gelinlik giydim: Bir düğün yaptırdı o da geçersiz çıktı",
-     "snippet": "Bir insanın sevdiğiyle ömrünün geri kalanını geçirmek istemesinden daha doğal ne olabilir? Onunla evlenmek, birlikte yaşlanmak, hayat ne getiriyorsa el ele karşılamak..",
-     "published": "2026-10-12T09:43:00.000Z"
-    }
-   ]
-  },
-  {
-   "id": "abac93e86168",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/sarkici-ufuk-beydemirden-surpriz-paylasim-gizemli-anne-ortaya-cikti-43338568",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Şarkıcı Ufuk Beydemir'den sürpriz paylaşım... Gizemli anne ortaya çıktı!",
-   "snippet": "Şarkıcı Ufuk Beydemir, baba olmaya hazırlandığını duyurmuştu. Ünlü şarkıcının, Hollandalı müzisyen Sharon Kovacs ile birlikte olduğu ortaya çıktı.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acca80293192880ef06c160.jpg",
-   "video": null,
-   "published": "2026-10-12T09:29:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/sarkici-ufuk-beydemirden-surpriz-paylasim-gizemli-anne-ortaya-cikti-43338568",
-     "title": "Şarkıcı Ufuk Beydemir'den sürpriz paylaşım... Gizemli anne ortaya çıktı!",
-     "snippet": "Şarkıcı Ufuk Beydemir, baba olmaya hazırlandığını duyurmuştu. Ünlü şarkıcının, Hollandalı müzisyen Sharon Kovacs ile birlikte olduğu ortaya çıktı.",
-     "published": "2026-10-12T09:29:00.000Z"
-    }
-   ]
-  },
-  {
-   "id": "b8cc155622a7",
-   "url": "https://www.sabah.com.tr/magazin/hulya-avsara-benzetiyorlardi-genc-oyuncu-eylul-ersoz-itiraf-etti-meger-annem-7678965",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Hülya Avşar’a benzetiyorlardı! Genç oyuncu Eylül Ersöz itiraf etti: \"Meğer annem...\"",
-   "snippet": "Son dönemin parlayan genç yeteneklerinden Eylül Ersöz, sadece başarılı oyunculuk performansıyla değil Türk sinemasının efsane ismi Hülya Avşar’a olan inanılmaz benzerliğiyle de adından söz ettiriyor. Güzel... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/3571f1/1200/675/0/0/2048/1150?u=https://isbh.tmgrup.com.tr/sbh/2026/10/12/1791796062315.jpg",
-   "video": null,
-   "published": "2026-10-12T09:28:41.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/hulya-avsara-benzetiyorlardi-genc-oyuncu-eylul-ersoz-itiraf-etti-meger-annem-7678965",
-     "title": "Hülya Avşar’a benzetiyorlardı! Genç oyuncu Eylül Ersöz itiraf etti: \"Meğer annem...\"",
-     "snippet": "Son dönemin parlayan genç yeteneklerinden Eylül Ersöz, sadece başarılı oyunculuk performansıyla değil Türk sinemasının efsane ismi Hülya Avşar’a olan inanılmaz benzerliğiyle de adından söz ettiriyor. Güzel... Devamı için tıklayınız",
-     "published": "2026-10-12T09:28:41.000Z"
-    }
-   ]
   },
   {
    "id": "a830cced8b36",
