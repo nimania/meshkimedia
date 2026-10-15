@@ -49,21 +49,25 @@
     "engagement-day:2026-10-14",
     "slot:2026-10-14:3",
     "editorial:original-4:0",
-    "slot:2026-10-15:0"
+    "slot:2026-10-15:0",
+    "editorial:cast:eda-ece",
+    "slot:2026-10-15:1"
   ],
-  "updated": "2026-10-15T10:08:19.464Z",
+  "updated": "2026-10-15T12:34:54.410Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
     "39f57555ad2cf4d686df1eb6",
     "a133cb10e685e7a8648d5b57",
-    "b1d801d0331d33b5368d1f94"
+    "b1d801d0331d33b5368d1f94",
+    "963e5bd9882a8327e0876c1e"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-14",
     "actor:nebahat-cehre": "2026-10-14",
     "episode:3": "2026-10-14",
-    "episode:4": "2026-10-15"
+    "episode:4": "2026-10-15",
+    "actor:eda-ece": "2026-10-15"
   },
   "engagementReceipts": {
     "engagement:quiz:actor:nebahat-cehre": {
