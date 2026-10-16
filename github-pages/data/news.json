@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T22:22:56.140Z",
+ "updated": "2026-10-16T01:24:45.840Z",
  "items": [
   {
    "id": "1155c4262fe9",
@@ -10903,7 +10903,8 @@
      "url": "https://www.milliyet.com.tr/magazin/promiyere-geri-sayim-basladi-7678288",
      "title": "Prömiyere geri sayım başladı",
      "snippet": "Michael Önder’in yazıp, yönettiği projenin prömiyeri, 28 Ekim’de İstanbul Trump Sahne’de gerçekleşecek. Oyun, gündelik hayattaki ilişki ağları üzerinden prensipleri, sınırları ve seçimlerin sorgulamasını anlatıyor.",
-     "published": "2026-10-13T04:01:39.000Z"
+     "published": "2026-10-13T04:01:39.000Z",
+     "titleFa": "شمارش معکوس برای پرمیر آغاز شد"
     }
    ],
    "images": [
@@ -10914,7 +10915,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "آغاز شمارش معکوس برای اکران نمایش «هر چیز کمی دروغ است»",
+   "summaryFa": "نمایش «هر چیز کمی دروغ است» به نویسندگی و کارگردانی مایکل اوندِر در تاریخ ۲۸ اکتبر در ترامپ صحنه استانبول روی صحنه می‌رود. در این اثر برک هاکمان، داملا سونمز و یاسین چام به ایفای نقش می‌پردازند.",
+   "bodyFa": [
+    "شمارش معکوس برای اجرای نمایش جدید «هر چیز کمی دروغ است» آغاز شده و این اثر قرار است در تاریخ ۲۸ اکتبر در ترامپ صحنه استانبول میزبان مخاطبان باشد. نویسندگی و کارگردانی این پروژه بر عهده مایکل اوندِر بوده است.",
+    "در این نمایش بازیگرانی چون برک هاکمان، داملا سونمز و یاسین چام حضور دارند و به روی صحنه خواهند رفت. داستان این اثر به بررسی و پرسشگری درباره اصول، مرزها و انتخاب‌ها در بستر شبکه‌های روابط روزمره می‌پردازد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "2432702c9872",
@@ -10941,7 +10950,8 @@
      "url": "https://www.milliyet.com.tr/magazin/festivalin-acilisini-yapti-7678286",
      "title": "Festivalin açılışını yaptı",
      "snippet": "Festivalin ilk gününde Nevruz Park’ta hayranlarıyla buluşan sanatçı, Diyarbakır’a özel jest de yaparak ‘Diyarbakır Yoluna’ türküsünü seslendirdi.",
-     "published": "2026-10-13T04:01:38.000Z"
+     "published": "2026-10-13T04:01:38.000Z",
+     "titleFa": "افتتاحیه جشنواره را انجام داد"
     }
    ],
    "images": [
@@ -10952,7 +10962,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اجرای هاکان آلتون در جشنواره مسیر فرهنگ ترکیه در دیاربکر",
+   "summaryFa": "هاکان آلتون در چارچوب جشنواره مسیر فرهنگ ترکیه در دیاربکر روی صحنه رفت و با طرفداران خود دیدار کرد. او در این کنسرت قطعه محلی «دیاربکر یولوتا» را اجرا نمود.",
+   "bodyFa": [
+    "هاکان آلتون در روز نخست جشنواره مسیر فرهنگ ترکیه که توسط وزارت فرهنگ و گردشگری برگزار می‌شود، در پارک نوروز دیاربکر اجرا داشت و با طرفدارانش دیدار کرد.",
+    "این هنرمند در جریان این برنامه با اجرای ترانه محلی «دیاربکر یولوتا» اقدام ویژه‌ای برای شهر دیاربکر انجام داد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b214b890d1d7",
@@ -10979,7 +10997,8 @@
      "url": "https://www.milliyet.com.tr/magazin/nostalji-ruzgari-estirdi-7678285",
      "title": "Nostalji rüzgârı estirdi",
      "snippet": "Merit Park Hotel’de izleyici karşısına Nilüfer, kırmızı, tek omuzlu uzun elbisesiyle göz kamaştırdı.",
-     "published": "2026-10-13T04:01:37.000Z"
+     "published": "2026-10-13T04:01:37.000Z",
+     "titleFa": "وزش باد نوستالژی"
     }
    ],
    "images": [
@@ -10990,7 +11009,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اجرای خاطره‌انگیز نیلوفر در هتل مریت پارک",
+   "summaryFa": "نیلوفر در هتلی با پوششی جذاب روی صحنه رفت و ترانه‌های محبوب قدیمی خود را اجرا کرد.",
+   "bodyFa": [
+    "نیلوفر در هتل مریت پارک اجرایی پر از حس و حال نوستالژیک برای مخاطبان خود رقم زد. این هنرمند با لباس بلند و قرمز رنگ یک‌طرفه خود درخشید و توجه حاضران را جلب کرد.",
+    "او در این برنامه مجموعه‌ای از آثار محبوب و پرطرفدار خود از جمله «Göreceksin Kendini»، «Bir Garip Yolcu»، «Mavilim»، «İnkâr Etme»، «Ta Uzak Yollardan»، «Kim Arar Seni»، «Çok Uzaklarda» و «Başıma Gelenler» را برای مخاطبان اجرا کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b1a4ac87cad6",
@@ -11017,9 +11044,27 @@
      "url": "https://www.milliyet.com.tr/magazin/mukemmel-olmak-icin-cok-savastim-7678281",
      "title": "‘Mükemmel olmak için çok savaştım’",
      "snippet": "“Çalışmak benim yakıtım” diyen oyuncu, “İstediğim için uğraşırım, olmadığını hissettiğimde giderim” sözleriyle karar aşamasında net olduğunu vurguladı. Marie Claire Türkiye için objektif karşısına geçen Aydoğan, “Hayatım boyunca kendimi olduğum yerden çok, olabileceğim yer üzerinden tanımladım. Bira",
-     "published": "2026-10-13T04:01:36.000Z"
+     "published": "2026-10-13T04:01:36.000Z",
+     "titleFa": "«برای اینکه کامل باشم خیلی جنگیدم»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6acd53afe95045cf040f1206.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6acd53afe95045cf040f1206.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "مصاحبه سمیه آیدوغان درباره مسیر حرفه‌ای و زندگی‌اش",
+   "summaryFa": "سمیه آیدوغان در مصاحبه جدید خود درباره تلاش‌هایش برای رسیدن به موفقیت و یادگیری رها کردن جریان زندگی صحبت کرد. او تأکید کرد که کار کردن سوخت اوست و همواره خود را بر اساس جایگاهی که می‌تواند داشته باشد، تعریف کرده است.",
+   "bodyFa": [
+    "سمیه آیدوغان، بازیگر شناخته‌شده، اخیراً در گفتگو با مجله ماری کلر ترکیه مقابل دوربین رفته و دیدگاه‌های خود را درباره مسیر حرفه‌ای و تلاش‌هایش برای کمال‌گرایی به اشتراک گذاشته است. او با بیان اینکه برای رسیدن به کمال جنگیده است، اشاره کرد که اکنون یاد گرفته است امور را به جریان طبیعی خود بسپارد.",
+    "این بازیگر در صحبت‌های خود کار کردن را به عنوان سوخت و انرژی خود توصیف کرد و افزود که همواره تلاش می‌کند تا به خواسته‌هایش برسد، اما به محض اینکه حس کند شرایط مطلوب نیست، از آن موقعیت فاصله می‌گیرد. آیدوغان همچنین خاطرنشان کرد که در طول زندگی‌اش، هویت خود را نه بر اساس موقعیت فعلی، بلکه بر اساس جایگاهی که پتانسیل رسیدن به آن را داشته، تعریف کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "7a041523caf0",
@@ -11130,9 +11175,27 @@
      "url": "https://www.milliyet.com.tr/magazin/delirmeye-cesaretim-yok-7678278",
      "title": "‘Delirmeye cesaretim yok’",
      "snippet": "Cansu Kurtçu’ya bilinmeyen yönlerini anlatan oyuncu, “İçim deli ama çıldırmamak için kendimi zor tuttuğum bir yanım var. Ya da cesaretim yok delirmeye” sözleriyle dikkat çekti.",
-     "published": "2026-10-13T04:01:35.000Z"
+     "published": "2026-10-13T04:01:35.000Z",
+     "titleFa": "«جرئت دیوانه شدن ندارم»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6acd531be95045cf040f11f6.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6acd531be95045cf040f11f6.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "گفته‌های کاان چاکیر در برنامه جانسو کورتچو",
+   "summaryFa": "کان چاکیر در تازه‌ترین گفتگوی خود درباره ابعاد شخصیتی‌اش و همچنین مسیر حرفه‌ای خود در دنیای بازیگری صحبت کرد.",
+   "bodyFa": [
+    "کان چاکیر، بازیگر شناخته‌شده، در گفتگو با جانسو کورتچو درباره ابعاد ناشناخته شخصیتی خود به گفتگو نشست و توجه مخاطبان را به خود جلب کرد. او در بخشی از صحبت‌هایش به صراحت گفت که با وجود داشتن درونی پرشور، تمام تلاش خود را می‌کند تا کنترل خود را حفظ کند و اعتراف کرد که شهامت دیوانه شدن را ندارد.",
+    "این بازیگر همچنین در بخش دیگری از این برنامه، با تمثیلی ورزشی درباره جایگاه حرفه‌ای خود صحبت کرد. او وضعیت گذشته‌اش در عرصه بازیگری را به بازیکنی تشبیه کرد که بیشتر پاس می‌دهد و کمتر موقعیت گل دارد، اما اشاره کرد که اکنون به تازگی به پست مهاجم و نقش‌های اصلی نزدیک‌تر شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4d1926aa744b",
@@ -11202,7 +11265,7 @@
    "video": null,
    "published": "2026-10-13T04:01:31.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -11215,9 +11278,27 @@
      "url": "https://www.milliyet.com.tr/magazin/londra-sokaklarinda-dans-7678270",
      "title": "Londra sokaklarında dans",
      "snippet": "İkilinin, Manifest’in ilk İngilizce single’ı ‘Tralala’ eşliğinde yaptığı dans, sosyal medyada gündem oldu. Ayrıca Edis ve Oktay’ın tarzı da çok konuşuldu. Manifest, cuma günü OVO Arena Wembley’de vereceği konser öncesinde Londra’daki çalışmalarını sürdürüyor.",
-     "published": "2026-10-13T04:01:31.000Z"
+     "published": "2026-10-13T04:01:31.000Z",
+     "titleFa": "رقص در خیابان‌های لندن"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6acd51c9e95045cf040f11d0.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6acd51c9e95045cf040f11d0.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "رقص ادیس و زینپ اکتای در خیابان‌های لندن",
+   "summaryFa": "ادیس و زینپ اکتای، یکی از اعضای گروه مانیفست، ویدئویی از رقص خود در لندن را در شبکه‌های اجتماعی منتشر کردند که توجه کاربران را به خود جلب کرد. این گروه در حال آماده‌سازی برای کنسرت خود در ومبلی آرنا هستند.",
+   "bodyFa": [
+    "ادیس و زینپ اکتای، عضو گروه مانیفست، ویدئویی از رقص خود در خیابان‌های لندن را در حساب‌های کاربری خود در شبکه‌های اجتماعی به اشتراک گذاشتند. این رقص با آهنگ «ترالالا»، نخستین تک‌آهنگ انگلیسی گروه مانیفست، اجرا شده و سبک پوشش و استایل ادیس و اکتای نیز مورد توجه کاربران در شبکه‌های اجتماعی قرار گرفته است.",
+    "گروه مانیفست در حال حاضر در شهر لندن مشغول فعالیت‌ها و تمرین‌های پیش از اجرای خود است و قرار است روز جمعه در سالن «اوا آرنا ومبلی» به روی صحنه برود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1bdfe6241d1e",
@@ -11244,9 +11325,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/sevgilisini-yarista-yalniz-birakmadi-43339328",
      "title": "Sevgilisini yarışta yalnız bırakmadı",
      "snippet": "ABD’li reality şov yıldızı Kim Kardashian, Formula 1 pilotu sevgilisi Lewis Hamilton’a destek vermek için Singapur Grand Prix’sinde boy gösterdi.",
-     "published": "2026-10-13T04:00:00.000Z"
+     "published": "2026-10-13T04:00:00.000Z",
+     "titleFa": "معشوقه‌اش را در مسابقه تنها نگذاشت"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acd476a93192880ef06c53f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acd476a93192880ef06c53f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "کیم کارداشیان در گرندپری سنگاپور برای حمایت از لویس همیلتون حاضر شد",
+   "summaryFa": "کیم کارداشیان، ستاره ریالیتی شو آمریکایی، برای حمایت از لویس همیلتون، راننده فرمول یک، در گرندپری سنگاپور شرکت کرد.",
+   "bodyFa": [
+    "کیم کارداشیان، ستاره شناخته‌شده ریالیتی شو اهل ایالات متحده، برای نشان دادن حمایت خود از لویس همیلتون، راننده فرمول یک و شریک زندگی‌اش، در مسابقات گرندپری سنگاپور حضور یافت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "631e713b09a7",
@@ -11273,9 +11371,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/tarantino-ilk-kez-tiyatro-yapacak-43339330",
      "title": "Tarantino ilk kez tiyatro yapacak",
      "snippet": "ABD’li ünlü yönetmen Quentin Tarantino, ilk tiyatro oyunu ‘The Popinjay Cavalier’i İngiltere’nin başkenti Londra’da Mart 2027’de sahneye taşımaya hazırlanıyor.",
-     "published": "2026-10-13T04:00:00.000Z"
+     "published": "2026-10-13T04:00:00.000Z",
+     "titleFa": "تارانتینو برای اولین بار تئاتر خواهد ساخت"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6acd47ec93192880ef06c54c.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6acd47ec93192880ef06c54c.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3654",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3654"
+   ],
+   "mediaDone": true,
+   "titleFa": "کوئنتین تارانتینو اولین نمایش تئاتر خود را روی صحنه می برد",
+   "summaryFa": "کوئنتین تارانتینو، کارگردان مشهور آمریکایی، قصد دارد نخستین نمایشنامه خود را در مارس ۲۰۲۷ در لندن به روی صحنه ببرد.",
+   "bodyFa": [
+    "کوئنتین تارانتینو، کارگردان نام‌آشنای اهل ایالات متحده، در نظر دارد برای نخستین بار در حوزه تئاتر فعالیت کند و اثر نمایشی خود را آماده اجرا سازد.",
+    "بر اساس اطلاعات منتشر شده، این اثر تئاتر با عنوان «The Popinjay Cavalier» شناخته می شود و قرار است در ماه مارس سال ۲۰۲۷ میلادی در شهر لندن، پایتخت انگلستان، به اجرا درآید."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "99e0ba956162",
@@ -11340,35 +11456,6 @@
    "aiTries": 1
   },
   {
-   "id": "2a7fe0215c7e",
-   "url": "https://www.sabah.com.tr/magazin/henuz-34-yasindaydi-breaking-badin-yildizi-rj-mitte-hayatini-kaybetti-7679325",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Henüz 34 yaşındaydı! Breaking Bad’in yıldızı RJ Mitte hayatını kaybetti",
-   "snippet": "‘Breaking Bad’deki Walter Jr. Karakterini canlandıran RJ Mitte’den üzen haber bugün akşam saatlerinde geldi. RJ Mitte, 34 yaşında hayatını kaybetti. Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/9e93da/1200/675/0/0/576/323?u=https://isbh.tmgrup.com.tr/sbh/2026/10/13/1791839316607.jpg",
-   "video": null,
-   "published": "2026-10-12T21:09:47.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/henuz-34-yasindaydi-breaking-badin-yildizi-rj-mitte-hayatini-kaybetti-7679325",
-     "title": "Henüz 34 yaşındaydı! Breaking Bad’in yıldızı RJ Mitte hayatını kaybetti",
-     "snippet": "‘Breaking Bad’deki Walter Jr. Karakterini canlandıran RJ Mitte’den üzen haber bugün akşam saatlerinde geldi. RJ Mitte, 34 yaşında hayatını kaybetti. Devamı için tıklayınız",
-     "published": "2026-10-12T21:09:47.000Z"
-    }
-   ]
-  },
-  {
    "id": "9d2c615b302b",
    "url": "https://www.haberturk.com/magazin/lamine-yamal-in-sevgilisi-ines-garcia-da-istanbul-a-geldi-3919205",
    "source": "haberturk-magazin",
@@ -11393,9 +11480,19 @@
      "url": "https://www.haberturk.com/magazin/lamine-yamal-in-sevgilisi-ines-garcia-da-istanbul-a-geldi-3919205",
      "title": "Sevgilisi de İstanbul'a geldi",
      "snippet": "Şampiyonlar Ligi'nde Galatasaray ile karşılacak olan Barcelona'nın yıldızı Lamine Yamal'a sevgilisi Ines Garcia da eşlik etti. Çift, uçaktan fotoğraf paylaştı",
-     "published": "2026-10-12T21:08:09.000Z"
+     "published": "2026-10-12T21:08:09.000Z",
+     "titleFa": "نامزد او نیز به استانبول آمد"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "ورود لامین یامال و نامزدش به استانبول برای دیدار با گاتسارای",
+   "summaryFa": "لامین یامال، ستاره جوان بارسلونا، برای بازی در لیگ قهرمانان اروپا مقابل گاتسارای وارد استانبول شد. نامزد او، اینس گارسیا، نیز او را در این سفر همراهی کرد.",
+   "bodyFa": [
+    "تیم فوتبال بارسلونا برای برگزاری مسابقه در هفته دوم لیگ قهرمانان اروپا مقابل گاتسارای وارد استانبول شد. در آستانه این دیدار که قرار است امروز برگزار شود، لامین یامال، ستاره جوان و مشهور بارسلونا، تصویری از منظره استانبول همراه با جزئیات پرچم ترکیه در صفحه اجتماعی خود منتشر کرد.",
+    "بر اساس اطلاعات موجود، این بازیکن ۱۹ ساله در این سفر تنها نبوده و نامزدش، اینس گارسیا، نیز او را همراهی کرده است. گارسیا تصویری از استانبول را در حساب اینستاگرام خود به اشتراک گذاشته و با درج عبارت «استانبول‌دایز» حضور خود در این شهر را اعلام کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b4ab0f825c1a",
@@ -11424,7 +11521,16 @@
      "snippet": "Komedyen Ata Demirer; kendisi ve kardeşinin adını kullanarak borç veya acil nakit para talebinde bulunan dolandırıcılara...",
      "published": "2026-10-12T21:00:08.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ata-demirer-153355webp-Yr3B7YsIXE69UYkaJRCQqQ.webp",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ata-demirer-153355webp-Yr3B7YsIXE69UYkaJRCQqQ.webp?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ad-2026-10-12webp-DwBLK2kM7Uy-FvrY9zNXFw.webp",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ad0ebe2f4678357b8b3cbcapng-fYtxonjrME2Wkn2mcz4GXA.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/su-basan-spor-okulunda-duygulandiran-goruntulerpng-uc2zdFLUNkC19dmEcZGt5Q.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "0e63ae5c3194",
