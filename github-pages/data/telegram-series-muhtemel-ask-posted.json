@@ -56,7 +56,9 @@
     "slot:2026-10-15:2",
     "news:f6f5b97b5a32",
     "editorial:cast:evrim-dogan",
-    "slot:2026-10-16:0"
+    "slot:2026-10-16:0",
+    "editorial:cast:hayal-koseoglu",
+    "slot:2026-10-16:1"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -67,7 +69,8 @@
     "0bc5fc89e18d2a82802cc0e8",
     "c6053c228a55fb1dd04b16ca",
     "b6b7f0be8b29d4e94b7c8790",
-    "71e2807f8c27d0c2fd717b13"
+    "71e2807f8c27d0c2fd717b13",
+    "a04ec5fd09d50f1e02ed73cd"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-14",
@@ -77,9 +80,10 @@
     "actor:feyyaz-serifoglu": "2026-10-15",
     "poll:independence": "2026-10-15",
     "actor:cansel-elcin": "2026-10-15",
-    "actor:evrim-dogan": "2026-10-16"
+    "actor:evrim-dogan": "2026-10-16",
+    "actor:hayal-koseoglu": "2026-10-16"
   },
-  "updated": "2026-10-16T07:25:00.572Z",
+  "updated": "2026-10-16T12:10:51.327Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {

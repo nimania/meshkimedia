@@ -58,9 +58,11 @@
     "editorial:original-5:3",
     "slot:2026-10-15:2",
     "editorial:original-6:0",
-    "slot:2026-10-16:0"
+    "slot:2026-10-16:0",
+    "editorial:cast:bugra-gulsoy",
+    "slot:2026-10-16:1"
   ],
-  "updated": "2026-10-16T07:24:57.433Z",
+  "updated": "2026-10-16T12:10:48.056Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
@@ -69,7 +71,8 @@
     "b1d801d0331d33b5368d1f94",
     "963e5bd9882a8327e0876c1e",
     "3b0eebb73288aa5b79112cec",
-    "2057ed3ff70dbed07e636ae9"
+    "2057ed3ff70dbed07e636ae9",
+    "a42608b2a768834148bd4bc3"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-14",
@@ -79,7 +82,8 @@
     "actor:eda-ece": "2026-10-15",
     "poll:family": "2026-10-15",
     "episode:5": "2026-10-15",
-    "episode:6": "2026-10-16"
+    "episode:6": "2026-10-16",
+    "actor:bugra-gulsoy": "2026-10-16"
   },
   "engagementReceipts": {
     "engagement:quiz:actor:nebahat-cehre": {
