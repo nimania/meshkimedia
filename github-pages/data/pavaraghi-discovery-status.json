@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:18:43.014388+00:00",
+  "generatedAt": "2026-10-16T16:35:48.463176+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "alti-ustu-istanbul:1",
-    "anne-yarisi:1",
-    "ask-ve-taht:1",
-    "ask-ve-taht:2"
+    "ask-ve-taht:3",
+    "ask-ve-taht:4",
+    "ask-ve-taht:5",
+    "baskalarinin-hayati:1"
   ],
   "episodes": [
     {
@@ -528,7 +528,7 @@
       "seriesSlug": "ask-ve-taht",
       "seriesTitle": "عشق و تخت",
       "originalEpisode": 3,
-      "checkedAt": "2026-10-11T21:55:14.264055+00:00",
+      "checkedAt": "2026-10-16T16:35:48.463176+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -560,7 +560,7 @@
       "seriesSlug": "ask-ve-taht",
       "seriesTitle": "عشق و تخت",
       "originalEpisode": 4,
-      "checkedAt": "2026-10-11T21:55:14.264055+00:00",
+      "checkedAt": "2026-10-16T16:35:48.463176+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -592,7 +592,7 @@
       "seriesSlug": "ask-ve-taht",
       "seriesTitle": "عشق و تخت",
       "originalEpisode": 5,
-      "checkedAt": "2026-10-11T21:55:14.264055+00:00",
+      "checkedAt": "2026-10-16T16:35:48.463176+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -624,7 +624,7 @@
       "seriesSlug": "baskalarinin-hayati",
       "seriesTitle": "زندگی دیگران",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-11T21:55:14.264055+00:00",
+      "checkedAt": "2026-10-16T16:35:48.463176+00:00",
       "languagesToTry": [
         "tr",
         "fa",
