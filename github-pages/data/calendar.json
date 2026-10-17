@@ -2,7 +2,7 @@
   "source": {
     "name": "Dizilah",
     "url": "https://dizilah.com/calendar",
-    "checkedAt": "2026-10-01"
+    "checkedAt": "2026-10-17"
   },
   "shows": {
     "mehmed-fetihler-sultani": {
@@ -28,159 +28,14 @@
     "cirkin": {
       "titleTr": "Çirkin",
       "network": "star-tv"
+    },
+    "tasacak-bu-deniz": {
+      "titleTr": "Taşacak Bu Deniz",
+      "network": "trt-1"
     }
   },
   "days": {
-    "2026-09-26": [
-      {
-        "slug": "baskalarinin-hayati",
-        "season": 1,
-        "episode": 1,
-        "premiere": "series"
-      },
-      {
-        "slug": "gonul-dagi",
-        "season": 7,
-        "episode": 4
-      },
-      {
-        "slug": "guller-ve-gunahlar",
-        "season": 2,
-        "episode": 3
-      },
-      {
-        "slug": "mercan-kosk",
-        "season": 1,
-        "episode": 4
-      }
-    ],
-    "2026-09-27": [
-      {
-        "slug": "daha-17",
-        "season": 1,
-        "episode": 18
-      },
-      {
-        "slug": "cirkin",
-        "season": 2,
-        "episode": 2
-      }
-    ],
-    "2026-09-28": [
-      {
-        "slug": "evlilik-guzeldir",
-        "season": 1,
-        "episode": 4
-      },
-      {
-        "slug": "uzak-sehir",
-        "season": 3,
-        "episode": 3
-      }
-    ],
-    "2026-09-29": [
-      {
-        "slug": "abi",
-        "season": 2,
-        "episode": 4
-      },
-      {
-        "slug": "anne-yarisi",
-        "season": 1,
-        "episode": 2
-      },
-      {
-        "slug": "haysiyet",
-        "season": 1,
-        "episode": 4
-      },
-      {
-        "slug": "mehmed-fetihler-sultani",
-        "season": 4,
-        "episode": 3
-      },
-      {
-        "slug": "tuzlu-kahve",
-        "season": 1,
-        "episode": 5
-      }
-    ],
-    "2026-09-30": [
-      {
-        "slug": "ask-ve-taht",
-        "season": 1,
-        "episode": 4
-      },
-      {
-        "slug": "sevdan-bir-ates",
-        "season": 1,
-        "episode": 4
-      }
-    ],
-    "2026-10-01": [
-      {
-        "slug": "gunesin-dogdugu-yer",
-        "season": 1,
-        "episode": 3
-      },
-      {
-        "slug": "halef-koklerin-cagrisi",
-        "season": 2,
-        "episode": 2
-      },
-      {
-        "slug": "muhtemel-ask",
-        "season": 1,
-        "episode": 16
-      },
-      {
-        "slug": "sevdigim-sensin",
-        "season": 2,
-        "episode": 4
-      }
-    ],
-    "2026-10-02": [
-      {
-        "slug": "kizilcik-serbeti",
-        "season": 5,
-        "episode": 3
-      }
-    ],
-    "2026-10-03": [
-      {
-        "slug": "baskalarinin-hayati",
-        "season": 1,
-        "episode": 2
-      },
-      {
-        "slug": "gonul-dagi",
-        "season": 7,
-        "episode": 5
-      },
-      {
-        "slug": "guller-ve-gunahlar",
-        "season": 2,
-        "episode": 4
-      },
-      {
-        "slug": "mercan-kosk",
-        "season": 1,
-        "episode": 5
-      }
-    ],
-    "2026-10-04": [
-      {
-        "slug": "daha-17",
-        "season": 1,
-        "episode": 19
-      },
-      {
-        "slug": "cirkin",
-        "season": 2,
-        "episode": 3
-      }
-    ],
-    "2026-10-05": [
+    "2026-10-12": [
       {
         "slug": "alti-ustu-istanbul",
         "season": 1,
@@ -189,51 +44,215 @@
       {
         "slug": "evlilik-guzeldir",
         "season": 1,
-        "episode": 5
+        "episode": 6
+      },
+      {
+        "slug": "sevdam-karadeniz",
+        "season": 1,
+        "episode": 1,
+        "premiere": "series"
       },
       {
         "slug": "uzak-sehir",
         "season": 3,
-        "episode": 4
+        "episode": 5
       }
     ],
-    "2026-10-06": [
-      {
-        "slug": "abi",
-        "season": 2,
-        "episode": 5
-      },
+    "2026-10-13": [
       {
         "slug": "anne-yarisi",
         "season": 1,
-        "episode": 3
+        "episode": 4
       },
       {
         "slug": "haysiyet",
         "season": 1,
-        "episode": 5
+        "episode": 6
       },
       {
         "slug": "mehmed-fetihler-sultani",
         "season": 4,
-        "episode": 4
+        "episode": 5
       },
       {
         "slug": "tuzlu-kahve",
         "season": 1,
-        "episode": 6
+        "episode": 7
       }
     ],
-    "2026-10-07": [
+    "2026-10-14": [
       {
-        "slug": "ask-ve-taht",
+        "slug": "sevdan-bir-ates",
+        "season": 1,
+        "episode": 6
+      },
+      {
+        "slug": "yeralti",
+        "season": 2,
+        "episode": 2
+      }
+    ],
+    "2026-10-15": [
+      {
+        "slug": "gunesin-dogdugu-yer",
         "season": 1,
         "episode": 5
       },
       {
-        "slug": "sevdan-bir-ates",
+        "slug": "halef-koklerin-cagrisi",
+        "season": 2,
+        "episode": 4
+      },
+      {
+        "slug": "muhtemel-ask",
+        "season": 1,
+        "episode": 18
+      },
+      {
+        "slug": "sevdigim-sensin",
+        "season": 2,
+        "episode": 6
+      }
+    ],
+    "2026-10-16": [
+      {
+        "slug": "kizilcik-serbeti",
+        "season": 5,
+        "episode": 5
+      },
+      {
+        "slug": "tasacak-bu-deniz",
+        "season": 2,
+        "episode": 3
+      }
+    ],
+    "2026-10-17": [
+      {
+        "slug": "baskalarinin-hayati",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "slug": "gonul-dagi",
+        "season": 7,
+        "episode": 7
+      },
+      {
+        "slug": "guller-ve-gunahlar",
+        "season": 2,
+        "episode": 6
+      },
+      {
+        "slug": "mercan-kosk",
+        "season": 1,
+        "episode": 7
+      }
+    ],
+    "2026-10-18": [
+      {
+        "slug": "daha-17",
+        "season": 1,
+        "episode": 21
+      },
+      {
+        "slug": "teskilat",
+        "season": 7,
+        "episode": 5
+      },
+      {
+        "slug": "omur-usta",
+        "season": 1,
+        "episode": 4
+      }
+    ],
+    "2026-10-19": [
+      {
+        "slug": "alti-ustu-istanbul",
+        "season": 1,
+        "episode": 17
+      },
+      {
+        "slug": "evlilik-guzeldir",
+        "season": 1,
+        "episode": 7
+      },
+      {
+        "slug": "sevdam-karadeniz",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "slug": "uzak-sehir",
+        "season": 3,
+        "episode": 6
+      }
+    ],
+    "2026-10-20": [
+      {
+        "slug": "anne-yarisi",
         "season": 1,
         "episode": 5
+      },
+      {
+        "slug": "haysiyet",
+        "season": 1,
+        "episode": 7
+      },
+      {
+        "slug": "mehmed-fetihler-sultani",
+        "season": 4,
+        "episode": 6
+      },
+      {
+        "slug": "tuzlu-kahve",
+        "season": 1,
+        "episode": 8
+      }
+    ],
+    "2026-10-21": [
+      {
+        "slug": "sevdan-bir-ates",
+        "season": 1,
+        "episode": 7
+      },
+      {
+        "slug": "yeralti",
+        "season": 2,
+        "episode": 3
+      }
+    ],
+    "2026-10-22": [
+      {
+        "slug": "gunesin-dogdugu-yer",
+        "season": 1,
+        "episode": 6
+      },
+      {
+        "slug": "halef-koklerin-cagrisi",
+        "season": 2,
+        "episode": 5
+      },
+      {
+        "slug": "muhtemel-ask",
+        "season": 1,
+        "episode": 19
+      },
+      {
+        "slug": "sevdigim-sensin",
+        "season": 2,
+        "episode": 7
+      }
+    ],
+    "2026-10-23": [
+      {
+        "slug": "kizilcik-serbeti",
+        "season": 5,
+        "episode": 6
+      },
+      {
+        "slug": "tasacak-bu-deniz",
+        "season": 2,
+        "episode": 4
       }
     ]
   }
