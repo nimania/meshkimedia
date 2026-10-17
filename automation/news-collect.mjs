@@ -254,6 +254,10 @@ export function sameStory(a, b) {
 const RANK = { linked: 0, dizi: 1, general: 2 };
 const pool = [];
 for (const item of [...known.values(), ...fresh].sort((a, b) => a.published.localeCompare(b.published))) {
+  // Reassess archived stories too: old broad "entertainment" intake admitted general Turkey news.
+  const allowedScope = newsScope(item);
+  if (!allowedScope) { stats.unrelated++; continue; }
+  item.scope = allowedScope;
   if (!item.sources) item.sources = [{ source: item.source, name: item.sourceName, url: item.url, title: item.title, snippet: (item.snippet || "").slice(0, 300), published: item.published }];
   // A story that already has its own page absorbs newcomers; two old pages are never merged (permalinks stay valid).
   const target = pool.find((p) => p.sources.length < 6 && (fresh.includes(item) || (!p.bodyFa && !item.bodyFa)) && sameStory(p, item));
