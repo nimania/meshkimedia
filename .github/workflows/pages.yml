@@ -104,6 +104,8 @@ jobs:
       # network and may fail (a dead feed, a rate limit); that never blocks publishing the site.
       # AI_API_KEY (optional repository secret) adds Persian titles/summaries; without it the
       # news still appears, in Turkish.
+      - name: Test editorial news routing policy
+        run: node automation/test-news-policy.mjs
       - name: Collect news
         id: news
         run: node automation/news-collect.mjs
