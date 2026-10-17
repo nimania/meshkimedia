@@ -1,0 +1,113 @@
+name: Monitor Meshki Media
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/health-monitor.yml"
+      - "automation/health-check.mjs"
+      - "automation/test-health-check.mjs"
+  schedule:
+    - cron: "27 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: meshki-health-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - name: Test health rules
+        run: node --test automation/test-health-check.mjs
+      - name: Audit live GitHub Pages data
+        id: audit
+        continue-on-error: true
+        run: node automation/health-check.mjs
+        env:
+          HEALTH_${{ runner.temp }}/meshki-health-report.json: ${{ runner.temp }}/meshki-health-report.json
+      - name: Open one incident and resolve it after recovery
+        if: always()
+        uses: actions/github-script@v7
+        env:
+          HEALTH_${{ runner.temp }}/meshki-health-report.json: ${{ runner.temp }}/meshki-health-report.json
+        with:
+          script: |
+            const fs = require("node:fs");
+            let report;
+            try {
+              report = JSON.parse(fs.readFileSync(process.env.HEALTH_${{ runner.temp }}/meshki-health-report.json, "utf8"));
+            } catch (err) {
+              report = {
+                checkedAt: new Date().toISOString(),
+                status: "critical",
+                checks: [{ key: "monitor", title: "خود پایشگر", level: "critical",
+                  detail: "اجرای ابزار پایش یا خواندن گزارش شکست خورد: " + err.message }]
+              };
+            }
+            const { owner, repo } = context.repo;
+            const title = "[Monitor] Meshki Media data freshness";
+            const all = await github.paginate(github.rest.issues.listForRepo, {
+              owner, repo, state: "all", per_page: 100
+            });
+            const incident = all.find(issue => !issue.pull_request && issue.title === title);
+            const problems = report.checks.filter(item => item.level !== "healthy");
+            if (report.status !== "healthy" || problems.length) {
+              const signature = problems.map(item => item.key + ":" + item.level).sort().join(",");
+              const marker = "<!-- meshki-health:" + signature + " -->";
+              const body = [
+                marker,
+                "## مشکل در داده‌های مشکی‌مدیا",
+                "",
+                "این گزارش خودکار از **سایت منتشرشده** تهیه شده است، نه از فایل‌های محلی GitHub.",
+                "",
+                "**وضعیت:** " + report.status,
+                "",
+                ...problems.map(item => "- **" + item.title + "** (" + item.level + "): " + item.detail),
+                "",
+                "آخرین تشخیص تغییر وضعیت: " + report.checkedAt,
+                "",
+                "[تقویم](https://nimania.github.io/meshkimedia/takvim/) · [اخبار](https://nimania.github.io/meshkimedia/haber/) · [ریتینگ](https://nimania.github.io/meshkimedia/reyting/) · [اجراهای پایشگر](https://github.com/nimania/meshkimedia/actions/workflows/health-monitor.yml)",
+                "",
+                "@nimania",
+              ].join("\n");
+              if (!incident) {
+                await github.rest.issues.create({
+                  owner, repo, title, body, assignees: [owner]
+                });
+                core.notice("Created Meshki Media health incident");
+              } else if (incident.state !== "open") {
+                await github.rest.issues.update({
+                  owner, repo, issue_number: incident.number, state: "open", body
+                });
+                core.notice("Reopened Meshki Media health incident");
+              } else if (!String(incident.body || "").includes(marker)) {
+                await github.rest.issues.update({
+                  owner, repo, issue_number: incident.number, body
+                });
+                core.notice("Updated Meshki Media health incident after status change");
+              } else {
+                core.info("Incident unchanged; suppressed duplicate alert");
+              }
+            } else if (incident && incident.state === "open") {
+              await github.rest.issues.createComment({
+                owner, repo, issue_number: incident.number,
+                body: "✅ داده‌های سایت دوباره سالم‌اند. پایش خودکار ادامه دارد."
+              });
+              await github.rest.issues.update({
+                owner, repo, issue_number: incident.number, state: "closed",
+                state_reason: "completed"
+              });
+              core.notice("Recovered; closed Meshki Media health incident");
+            } else {
+              core.info("All published Meshki Media feeds healthy");
+            }
