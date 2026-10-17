@@ -12,7 +12,7 @@ const elapsedDays = (then, now) => {
 const asUtcDay = (value) => {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(String(value || ""))) return NaN;
   const d = new Date(value + "T12:00:00Z");
-  return d.toISOString().slice(0, 10) === value ? d.getTime() : NaN;
+  return Number.isFinite(d.getTime()) && d.toISOString().slice(0, 10) === value ? d.getTime() : NaN;
 };
 const turkeyDay = (now) => new Intl.DateTimeFormat("en-CA", {
   timeZone: "Europe/Istanbul", year: "numeric", month: "2-digit", day: "2-digit",
