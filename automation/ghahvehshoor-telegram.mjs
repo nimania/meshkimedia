@@ -33,7 +33,7 @@ for(const cfg of config.channels||[]){
   items.push({id:'episode:'+ep.number,date:ep.date||'',label:'🎬 قسمت تازه',title:'قسمت '+ep.number+' '+record.titleFa,summary:ep.summaryFa||ep.synopsisFa||ep.summary||'',image:ep.image||ep.images?.[0]||record.hero,url:base+'/dizi/'+slug+'/bolum-'+ep.number+'/'});
  }
  for(const n of news.items||[]){
-  if(!(n.entities?.series||[]).includes(slug)||!n.titleFa||!n.bodyFa?.length)continue;
+  if(!isTelegramNews(n)||!(n.entities?.series||[]).includes(slug)||!n.titleFa||!n.bodyFa?.length)continue;
   items.push({id:'news:'+n.id,date:n.published||'',label:'📰 خبر سریال',title:n.titleFa,summary:n.summaryFa||n.bodyFa[0],image:n.image||n.images?.[0]||record.hero,url:base+'/haber/'+n.id+'/'});
  }
  const folder=new URL('pavaraghi/'+slug+'/',root);

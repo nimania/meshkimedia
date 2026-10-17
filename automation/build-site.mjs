@@ -537,6 +537,13 @@ const lists = [
   { path: "ara/", title: "جستجو | مشکی مدیا", desc: "جستجو در سریال‌ها، بازیگران، کاراکترها و قسمت‌های مشکی مدیا.", kicker: "جستجو", h1: "جستجو", sub: "در سریال‌ها، بازیگران، کاراکترها و قسمت‌ها", containerId: "search-results", script: "search.js", active: "ara/" },
 ];
 for (const l of lists) { await mkdir(p(l.path), { recursive: true }); await writeFile(p(l.path + "index.html"), listPage(l), "utf8"); count.lists++; urls.push({ loc: `${BASE}/${l.path}`, pri: "0.7" }); }
+// Remove old excluded article pages from the deploy artifact, not merely from the index.
+await mkdir(p("haber/"), { recursive: true });
+for (const entry of await readdir(p("haber/"), { withFileTypes: true })) {
+  if (entry.isDirectory() && /^[a-f0-9]{12}$/.test(entry.name) && !pageIds.has(entry.name)) {
+    await rm(p(`haber/${entry.name}/`), { recursive: true, force: true });
+  }
+}
 for (const item of newsWithPage) {
   await mkdir(p(`haber/${item.id}/`), { recursive: true });
   await writeFile(p(`haber/${item.id}/index.html`), (item.entities?.series || []).reduce((html, slug) => withSeriesTelegram(html, slug), newsItemPage(item)), "utf8");
