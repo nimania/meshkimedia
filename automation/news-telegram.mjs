@@ -37,7 +37,7 @@ try { state = JSON.parse(await readFile(STATE, "utf8")); } catch { /* first run 
 
 // A story is eligible once it has its own Persian page (title + body) and a real source link.
 const eligible = (news.items || []).filter(
-  (i) => i.titleFa && Array.isArray(i.bodyFa) && i.bodyFa.length && /^https:\/\//.test(i.url || ""),
+  (i) => isTelegramNews(i) && i.titleFa && Array.isArray(i.bodyFa) && i.bodyFa.length && /^https:\/\//.test(i.url || ""),
 );
 
 // FIRST RUN (no state file): seed silently so the existing archive is NOT blasted to the channel.
