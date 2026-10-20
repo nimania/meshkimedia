@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T17:00:04.568390+00:00",
+  "generatedAt": "2026-10-20T21:34:59.264026+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "ask-ve-taht:2",
-    "ask-ve-taht:3",
-    "ask-ve-taht:4",
-    "ask-ve-taht:5"
+    "baskalarinin-hayati:1",
+    "cirkin:1",
+    "daha-17:1",
+    "evlilik-guzeldir:1"
   ],
   "episodes": [
     {
@@ -624,7 +624,7 @@
       "seriesSlug": "baskalarinin-hayati",
       "seriesTitle": "زندگی دیگران",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-16T16:35:48.463176+00:00",
+      "checkedAt": "2026-10-20T21:34:59.264026+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -656,7 +656,7 @@
       "seriesSlug": "cirkin",
       "seriesTitle": "زشت",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-16T21:04:18.690843+00:00",
+      "checkedAt": "2026-10-20T21:34:59.264026+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -688,7 +688,7 @@
       "seriesSlug": "daha-17",
       "seriesTitle": "هنوز ۱۷ سالشه",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-16T21:04:18.690843+00:00",
+      "checkedAt": "2026-10-20T21:34:59.264026+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -720,7 +720,7 @@
       "seriesSlug": "evlilik-guzeldir",
       "seriesTitle": "ازدواج زیباست",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-16T21:04:18.690843+00:00",
+      "checkedAt": "2026-10-20T21:34:59.264026+00:00",
       "languagesToTry": [
         "tr",
         "fa",
