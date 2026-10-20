@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:31:32.599767+00:00",
+  "generatedAt": "2026-10-20T17:00:04.568390+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "abi:23",
-    "alti-ustu-istanbul:1",
-    "anne-yarisi:1",
-    "ask-ve-taht:1"
+    "ask-ve-taht:2",
+    "ask-ve-taht:3",
+    "ask-ve-taht:4",
+    "ask-ve-taht:5"
   ],
   "episodes": [
     {
@@ -496,7 +496,7 @@
       "seriesSlug": "ask-ve-taht",
       "seriesTitle": "عشق و تخت",
       "originalEpisode": 2,
-      "checkedAt": "2026-10-16T11:18:43.014388+00:00",
+      "checkedAt": "2026-10-20T17:00:04.568390+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -528,7 +528,7 @@
       "seriesSlug": "ask-ve-taht",
       "seriesTitle": "عشق و تخت",
       "originalEpisode": 3,
-      "checkedAt": "2026-10-16T16:35:48.463176+00:00",
+      "checkedAt": "2026-10-20T17:00:04.568390+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -560,7 +560,7 @@
       "seriesSlug": "ask-ve-taht",
       "seriesTitle": "عشق و تخت",
       "originalEpisode": 4,
-      "checkedAt": "2026-10-16T16:35:48.463176+00:00",
+      "checkedAt": "2026-10-20T17:00:04.568390+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -592,7 +592,7 @@
       "seriesSlug": "ask-ve-taht",
       "seriesTitle": "عشق و تخت",
       "originalEpisode": 5,
-      "checkedAt": "2026-10-16T16:35:48.463176+00:00",
+      "checkedAt": "2026-10-20T17:00:04.568390+00:00",
       "languagesToTry": [
         "tr",
         "fa",
