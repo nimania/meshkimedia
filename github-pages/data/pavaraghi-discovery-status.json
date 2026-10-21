@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T04:41:38.169648+00:00",
+  "generatedAt": "2026-10-21T11:44:14.018385+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "gonul-dagi:1",
-    "guller-ve-gunahlar:1",
-    "guller-ve-gunahlar:35",
-    "guller-ve-gunahlar:36"
+    "gunesin-dogdugu-yer:1",
+    "gunesin-dogdugu-yer:2",
+    "gunesin-dogdugu-yer:3",
+    "gunesin-dogdugu-yer:4"
   ],
   "episodes": [
     {
@@ -880,7 +880,7 @@
       "seriesSlug": "gunesin-dogdugu-yer",
       "seriesTitle": "جایی که خورشید طلوع می‌کند",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-17T04:21:20.787623+00:00",
+      "checkedAt": "2026-10-21T11:44:14.018385+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -912,7 +912,7 @@
       "seriesSlug": "gunesin-dogdugu-yer",
       "seriesTitle": "جایی که خورشید طلوع می‌کند",
       "originalEpisode": 2,
-      "checkedAt": "2026-10-17T10:38:56.085048+00:00",
+      "checkedAt": "2026-10-21T11:44:14.018385+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -944,7 +944,7 @@
       "seriesSlug": "gunesin-dogdugu-yer",
       "seriesTitle": "جایی که خورشید طلوع می‌کند",
       "originalEpisode": 3,
-      "checkedAt": "2026-10-17T10:38:56.085048+00:00",
+      "checkedAt": "2026-10-21T11:44:14.018385+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -976,7 +976,7 @@
       "seriesSlug": "gunesin-dogdugu-yer",
       "seriesTitle": "جایی که خورشید طلوع می‌کند",
       "originalEpisode": 4,
-      "checkedAt": "2026-10-17T10:38:56.085048+00:00",
+      "checkedAt": "2026-10-21T11:44:14.018385+00:00",
       "languagesToTry": [
         "tr",
         "fa",
