@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:44:14.018385+00:00",
+  "generatedAt": "2026-10-21T17:09:03.055610+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "gunesin-dogdugu-yer:1",
-    "gunesin-dogdugu-yer:2",
-    "gunesin-dogdugu-yer:3",
-    "gunesin-dogdugu-yer:4"
+    "halef-koklerin-cagrisi:1",
+    "haysiyet:1",
+    "haysiyet:2",
+    "haysiyet:3"
   ],
   "episodes": [
     {
@@ -1008,7 +1008,7 @@
       "seriesSlug": "halef-koklerin-cagrisi",
       "seriesTitle": "جانشین: ندای ریشه‌ها",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-17T10:38:56.085048+00:00",
+      "checkedAt": "2026-10-21T17:09:03.055610+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1040,7 +1040,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-17T15:30:21.296936+00:00",
+      "checkedAt": "2026-10-21T17:09:03.055610+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1072,7 +1072,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 2,
-      "checkedAt": "2026-10-17T15:30:21.296936+00:00",
+      "checkedAt": "2026-10-21T17:09:03.055610+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1104,7 +1104,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 3,
-      "checkedAt": "2026-10-17T15:30:21.296936+00:00",
+      "checkedAt": "2026-10-21T17:09:03.055610+00:00",
       "languagesToTry": [
         "tr",
         "fa",
