@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T21:34:59.264026+00:00",
+  "generatedAt": "2026-10-21T04:41:38.169648+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "baskalarinin-hayati:1",
-    "cirkin:1",
-    "daha-17:1",
-    "evlilik-guzeldir:1"
+    "gonul-dagi:1",
+    "guller-ve-gunahlar:1",
+    "guller-ve-gunahlar:35",
+    "guller-ve-gunahlar:36"
   ],
   "episodes": [
     {
@@ -752,7 +752,7 @@
       "seriesSlug": "gonul-dagi",
       "seriesTitle": "کوه دل",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-16T21:04:18.690843+00:00",
+      "checkedAt": "2026-10-21T04:41:38.169648+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -784,7 +784,7 @@
       "seriesSlug": "guller-ve-gunahlar",
       "seriesTitle": "گل‌ها و گناهان",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-17T04:21:20.787623+00:00",
+      "checkedAt": "2026-10-21T04:41:38.169648+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -816,7 +816,7 @@
       "seriesSlug": "guller-ve-gunahlar",
       "seriesTitle": "گل‌ها و گناهان",
       "originalEpisode": 35,
-      "checkedAt": "2026-10-17T04:21:20.787623+00:00",
+      "checkedAt": "2026-10-21T04:41:38.169648+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -848,7 +848,7 @@
       "seriesSlug": "guller-ve-gunahlar",
       "seriesTitle": "گل‌ها و گناهان",
       "originalEpisode": 36,
-      "checkedAt": "2026-10-17T04:21:20.787623+00:00",
+      "checkedAt": "2026-10-21T04:41:38.169648+00:00",
       "languagesToTry": [
         "tr",
         "fa",
