@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T10:14:02.019Z",
+  "updatedAt": "2026-10-22T10:15:14.152Z",
   "metric": "Rating %",
   "windowDays": 120,
   "source": {
@@ -27,6 +27,233 @@
     }
   },
   "days": [
+    {
+      "date": "21.10.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "LILLE-GALATASARAY UEFA SAMPIYONLAR LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 12.5,
+            "share": 32.92
+          },
+          {
+            "rank": 2,
+            "program": "YERALTI",
+            "network": "NOW",
+            "rating": 7.68,
+            "share": 21.83
+          },
+          {
+            "rank": 3,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": 6.74,
+            "share": 19.19
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.58,
+            "share": 36.3
+          },
+          {
+            "rank": 5,
+            "program": "YERALTI (OZET)",
+            "network": "NOW",
+            "rating": 4.44,
+            "share": 11.51
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 4.3,
+            "share": 21.39
+          },
+          {
+            "rank": 7,
+            "program": "SEVDAN BIR ATES (OZET)",
+            "network": "SHOW TV",
+            "rating": 3.51,
+            "share": 9.14
+          },
+          {
+            "rank": 8,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.19,
+            "share": 10.3
+          },
+          {
+            "rank": 9,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 3.19,
+            "share": 10.54
+          },
+          {
+            "rank": 10,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.64,
+            "share": 8.24
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "LILLE-GALATASARAY UEFA SAMPIYONLAR LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 13.8,
+            "share": 39.64
+          },
+          {
+            "rank": 2,
+            "program": "YERALTI",
+            "network": "NOW",
+            "rating": 5.8,
+            "share": 18.14
+          },
+          {
+            "rank": 3,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": 5.64,
+            "share": 17.65
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.9,
+            "share": 36.91
+          },
+          {
+            "rank": 5,
+            "program": "YERALTI (OZET)",
+            "network": "NOW",
+            "rating": 2.83,
+            "share": 7.92
+          },
+          {
+            "rank": 6,
+            "program": "SEVDAN BIR ATES (OZET)",
+            "network": "SHOW TV",
+            "rating": 2.66,
+            "share": 7.49
+          },
+          {
+            "rank": 7,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.48,
+            "share": 9.47
+          },
+          {
+            "rank": 8,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.47,
+            "share": 8.57
+          },
+          {
+            "rank": 9,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.37,
+            "share": 14.74
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 1.92,
+            "share": 7.6
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "LILLE-GALATASARAY UEFA SAMPIYONLAR LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 14.56,
+            "share": 39.55
+          },
+          {
+            "rank": 2,
+            "program": "YERALTI",
+            "network": "NOW",
+            "rating": 7.88,
+            "share": 21.97
+          },
+          {
+            "rank": 3,
+            "program": "SEVDAN BIR ATES",
+            "network": "SHOW TV",
+            "rating": 6.52,
+            "share": 18.23
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 5.02,
+            "share": 38.94
+          },
+          {
+            "rank": 5,
+            "program": "YERALTI (OZET)",
+            "network": "NOW",
+            "rating": 4.06,
+            "share": 10.84
+          },
+          {
+            "rank": 6,
+            "program": "SEVDAN BIR ATES (OZET)",
+            "network": "SHOW TV",
+            "rating": 3.19,
+            "share": 8.58
+          },
+          {
+            "rank": 7,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.18,
+            "share": 17.92
+          },
+          {
+            "rank": 8,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.06,
+            "share": 10.94
+          },
+          {
+            "rank": 9,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.88,
+            "share": 8.85
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.48,
+            "share": 9.09
+          }
+        ]
+      }
+    },
     {
       "date": "20.10.2026",
       "weekday": "",
