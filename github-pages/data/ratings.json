@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:15:14.152Z",
+  "updatedAt": "2026-10-23T10:08:22.688Z",
   "metric": "Rating %",
   "windowDays": 120,
   "source": {
@@ -27,6 +27,233 @@
     }
   },
   "days": [
+    {
+      "date": "22.10.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "BESIKTAS-CRYSTAL PALACE UEFA AVRUPA LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 8.42,
+            "share": 25.62
+          },
+          {
+            "rank": 2,
+            "program": "TRABZONSPOR-HEART OF MIDLOTHIAN UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 7.24,
+            "share": 20.39
+          },
+          {
+            "rank": 3,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 4.49,
+            "share": 12.82
+          },
+          {
+            "rank": 4,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 4.44,
+            "share": 12.82
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.36,
+            "share": 34.81
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.93,
+            "share": 19.81
+          },
+          {
+            "rank": 7,
+            "program": "HALEF KOKLERIN CAGRISI",
+            "network": "NOW",
+            "rating": 3.55,
+            "share": 10.08
+          },
+          {
+            "rank": 8,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.08,
+            "share": 10.25
+          },
+          {
+            "rank": 9,
+            "program": "GUNESIN DOGDUGU YER (OZET)",
+            "network": "ATV",
+            "rating": 3.02,
+            "share": 8.68
+          },
+          {
+            "rank": 10,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 2.92,
+            "share": 8.17
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "BESIKTAS-CRYSTAL PALACE UEFA AVRUPA LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 9.39,
+            "share": 31.09
+          },
+          {
+            "rank": 2,
+            "program": "TRABZONSPOR-HEART OF MIDLOTHIAN UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 7.39,
+            "share": 23.65
+          },
+          {
+            "rank": 3,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 3.73,
+            "share": 11.7
+          },
+          {
+            "rank": 4,
+            "program": "GUNESIN DOGDUGU YER (OZET)",
+            "network": "ATV",
+            "rating": 3.02,
+            "share": 9.79
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 2.96,
+            "share": 29.96
+          },
+          {
+            "rank": 6,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.77,
+            "share": 11.75
+          },
+          {
+            "rank": 7,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.7,
+            "share": 8.97
+          },
+          {
+            "rank": 8,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 2.56,
+            "share": 8.1
+          },
+          {
+            "rank": 9,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.45,
+            "share": 10.14
+          },
+          {
+            "rank": 10,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.3,
+            "share": 15.3
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "BESIKTAS-CRYSTAL PALACE UEFA AVRUPA LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 10.22,
+            "share": 29.65
+          },
+          {
+            "rank": 2,
+            "program": "TRABZONSPOR-HEART OF MIDLOTHIAN UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 7.81,
+            "share": 23.06
+          },
+          {
+            "rank": 3,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 4.31,
+            "share": 12.05
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.26,
+            "share": 34.38
+          },
+          {
+            "rank": 5,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 3.83,
+            "share": 10.78
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.16,
+            "share": 18.13
+          },
+          {
+            "rank": 7,
+            "program": "GUNESIN DOGDUGU YER (OZET)",
+            "network": "ATV",
+            "rating": 3.01,
+            "share": 9.14
+          },
+          {
+            "rank": 8,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 2.96,
+            "share": 8.73
+          },
+          {
+            "rank": 9,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 2.88,
+            "share": 10.72
+          },
+          {
+            "rank": 10,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.87,
+            "share": 10.91
+          }
+        ]
+      }
+    },
     {
       "date": "21.10.2026",
       "weekday": "",
