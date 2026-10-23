@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T04:44:52.885213+00:00",
+  "generatedAt": "2026-10-23T11:34:07.409583+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "teskilat:1",
-    "uzak-sehir:1",
-    "uzak-sehir:65",
-    "uzak-sehir:66"
+    "uzak-sehir:67",
+    "tuzlu-kahve:1",
+    "tuzlu-kahve:2",
+    "tuzlu-kahve:3"
   ],
   "episodes": [
     {
@@ -16,7 +16,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-19T13:07:01.713268+00:00",
+      "checkedAt": "2026-10-23T11:34:07.409583+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -48,7 +48,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 2,
-      "checkedAt": "2026-10-19T13:07:01.713268+00:00",
+      "checkedAt": "2026-10-23T11:34:07.409583+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -80,7 +80,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 3,
-      "checkedAt": "2026-10-19T13:07:01.713268+00:00",
+      "checkedAt": "2026-10-23T11:34:07.409583+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1904,7 +1904,7 @@
       "seriesSlug": "uzak-sehir",
       "seriesTitle": "شهر دور",
       "originalEpisode": 67,
-      "checkedAt": "2026-10-19T04:36:12.417095+00:00",
+      "checkedAt": "2026-10-23T11:34:07.409583+00:00",
       "languagesToTry": [
         "tr",
         "fa",
