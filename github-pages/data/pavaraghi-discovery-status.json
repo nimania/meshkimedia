@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:34:07.409583+00:00",
+  "generatedAt": "2026-10-23T17:03:35.068984+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "uzak-sehir:67",
-    "tuzlu-kahve:1",
-    "tuzlu-kahve:2",
-    "tuzlu-kahve:3"
+    "yeralti:1",
+    "tuzlu-kahve:4",
+    "tuzlu-kahve:5",
+    "tuzlu-kahve:6"
   ],
   "episodes": [
     {
@@ -112,7 +112,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 4,
-      "checkedAt": "2026-10-19T22:19:23.733997+00:00",
+      "checkedAt": "2026-10-23T17:03:35.068984+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -144,7 +144,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 5,
-      "checkedAt": "2026-10-19T22:19:23.733997+00:00",
+      "checkedAt": "2026-10-23T17:03:35.068984+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -176,7 +176,7 @@
       "seriesSlug": "tuzlu-kahve",
       "seriesTitle": "قهوهٔ شور",
       "originalEpisode": 6,
-      "checkedAt": "2026-10-19T22:19:23.733997+00:00",
+      "checkedAt": "2026-10-23T17:03:35.068984+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1936,7 +1936,7 @@
       "seriesSlug": "yeralti",
       "seriesTitle": "زیرزمین",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-19T13:07:01.713268+00:00",
+      "checkedAt": "2026-10-23T17:03:35.068984+00:00",
       "languagesToTry": [
         "tr",
         "fa",
