@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T21:32:54.071481+00:00",
+  "generatedAt": "2026-10-23T04:44:52.885213+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "sevdan-bir-ates:3",
-    "sevdan-bir-ates:4",
-    "sevdan-bir-ates:5",
-    "sevdigim-sensin:1"
+    "teskilat:1",
+    "uzak-sehir:1",
+    "uzak-sehir:65",
+    "uzak-sehir:66"
   ],
   "episodes": [
     {
@@ -1776,7 +1776,7 @@
       "seriesSlug": "teskilat",
       "seriesTitle": "تشکیلات",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-18T20:38:25.912605+00:00",
+      "checkedAt": "2026-10-23T04:44:52.885213+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1808,7 +1808,7 @@
       "seriesSlug": "uzak-sehir",
       "seriesTitle": "شهر دور",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-19T04:36:12.417095+00:00",
+      "checkedAt": "2026-10-23T04:44:52.885213+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1840,7 +1840,7 @@
       "seriesSlug": "uzak-sehir",
       "seriesTitle": "شهر دور",
       "originalEpisode": 65,
-      "checkedAt": "2026-10-19T04:36:12.417095+00:00",
+      "checkedAt": "2026-10-23T04:44:52.885213+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1872,7 +1872,7 @@
       "seriesSlug": "uzak-sehir",
       "seriesTitle": "شهر دور",
       "originalEpisode": 66,
-      "checkedAt": "2026-10-19T04:36:12.417095+00:00",
+      "checkedAt": "2026-10-23T04:44:52.885213+00:00",
       "languagesToTry": [
         "tr",
         "fa",
