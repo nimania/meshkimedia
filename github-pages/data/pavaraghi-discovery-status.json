@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T21:21:55.447446+00:00",
+  "generatedAt": "2026-10-24T04:32:05.258960+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "abi:1",
-    "abi:19",
-    "abi:20",
-    "abi:21"
+    "abi:22",
+    "abi:23",
+    "alti-ustu-istanbul:1",
+    "anne-yarisi:1"
   ],
   "episodes": [
     {
@@ -336,7 +336,7 @@
       "seriesSlug": "abi",
       "seriesTitle": "خانواده یک آزمون است",
       "originalEpisode": 22,
-      "checkedAt": "2026-10-20T04:45:21.241292+00:00",
+      "checkedAt": "2026-10-24T04:32:05.258960+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -368,7 +368,7 @@
       "seriesSlug": "abi",
       "seriesTitle": "خانواده یک آزمون است",
       "originalEpisode": 23,
-      "checkedAt": "2026-10-20T11:31:32.599767+00:00",
+      "checkedAt": "2026-10-24T04:32:05.258960+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -400,7 +400,7 @@
       "seriesSlug": "alti-ustu-istanbul",
       "seriesTitle": "بالا و پایین استانبول",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-20T11:31:32.599767+00:00",
+      "checkedAt": "2026-10-24T04:32:05.258960+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -432,7 +432,7 @@
       "seriesSlug": "anne-yarisi",
       "seriesTitle": "نیمهٔ مادر",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-20T11:31:32.599767+00:00",
+      "checkedAt": "2026-10-24T04:32:05.258960+00:00",
       "languagesToTry": [
         "tr",
         "fa",
