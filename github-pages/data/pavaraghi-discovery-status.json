@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T04:36:42.491033+00:00",
+  "generatedAt": "2026-10-25T11:21:17.720025+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "guller-ve-gunahlar:36",
-    "gunesin-dogdugu-yer:1",
-    "gunesin-dogdugu-yer:2",
-    "gunesin-dogdugu-yer:3"
+    "gunesin-dogdugu-yer:4",
+    "halef-koklerin-cagrisi:1",
+    "haysiyet:1",
+    "haysiyet:2"
   ],
   "episodes": [
     {
@@ -976,7 +976,7 @@
       "seriesSlug": "gunesin-dogdugu-yer",
       "seriesTitle": "جایی که خورشید طلوع می‌کند",
       "originalEpisode": 4,
-      "checkedAt": "2026-10-21T11:44:14.018385+00:00",
+      "checkedAt": "2026-10-25T11:21:17.720025+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1008,7 +1008,7 @@
       "seriesSlug": "halef-koklerin-cagrisi",
       "seriesTitle": "جانشین: ندای ریشه‌ها",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-21T17:09:03.055610+00:00",
+      "checkedAt": "2026-10-25T11:21:17.720025+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1040,7 +1040,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-21T17:09:03.055610+00:00",
+      "checkedAt": "2026-10-25T11:21:17.720025+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1072,7 +1072,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 2,
-      "checkedAt": "2026-10-21T17:09:03.055610+00:00",
+      "checkedAt": "2026-10-25T11:21:17.720025+00:00",
       "languagesToTry": [
         "tr",
         "fa",
