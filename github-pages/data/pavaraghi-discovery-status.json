@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:21:17.720025+00:00",
+  "generatedAt": "2026-10-25T16:12:33.589751+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "gunesin-dogdugu-yer:4",
-    "halef-koklerin-cagrisi:1",
-    "haysiyet:1",
-    "haysiyet:2"
+    "haysiyet:3",
+    "haysiyet:4",
+    "haysiyet:5",
+    "kizilcik-serbeti:1"
   ],
   "episodes": [
     {
@@ -1104,7 +1104,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 3,
-      "checkedAt": "2026-10-21T17:09:03.055610+00:00",
+      "checkedAt": "2026-10-25T16:12:33.589751+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1136,7 +1136,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 4,
-      "checkedAt": "2026-10-21T21:39:50.756607+00:00",
+      "checkedAt": "2026-10-25T16:12:33.589751+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1168,7 +1168,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 5,
-      "checkedAt": "2026-10-21T21:39:50.756607+00:00",
+      "checkedAt": "2026-10-25T16:12:33.589751+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1200,7 +1200,7 @@
       "seriesSlug": "kizilcik-serbeti",
       "seriesTitle": "شربت زغال‌اخته",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-21T21:39:50.756607+00:00",
+      "checkedAt": "2026-10-25T16:12:33.589751+00:00",
       "languagesToTry": [
         "tr",
         "fa",
