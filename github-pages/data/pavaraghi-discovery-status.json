@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T20:47:55.279050+00:00",
+  "generatedAt": "2026-10-26T04:42:05.397590+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "kizilcik-serbeti:140",
-    "kizilcik-serbeti:141",
-    "mehmed-fetihler-sultani:1",
-    "mercan-kosk:1"
+    "mercan-kosk:2",
+    "mercan-kosk:3",
+    "mercan-kosk:4",
+    "mercan-kosk:5"
   ],
   "episodes": [
     {
@@ -1360,7 +1360,7 @@
       "seriesSlug": "mercan-kosk",
       "seriesTitle": "عمارت مرجان",
       "originalEpisode": 2,
-      "checkedAt": "2026-10-22T04:39:23.408166+00:00",
+      "checkedAt": "2026-10-26T04:42:05.397590+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1392,7 +1392,7 @@
       "seriesSlug": "mercan-kosk",
       "seriesTitle": "عمارت مرجان",
       "originalEpisode": 3,
-      "checkedAt": "2026-10-22T11:47:16.259730+00:00",
+      "checkedAt": "2026-10-26T04:42:05.397590+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1424,7 +1424,7 @@
       "seriesSlug": "mercan-kosk",
       "seriesTitle": "عمارت مرجان",
       "originalEpisode": 4,
-      "checkedAt": "2026-10-22T11:47:16.259730+00:00",
+      "checkedAt": "2026-10-26T04:42:05.397590+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1456,7 +1456,7 @@
       "seriesSlug": "mercan-kosk",
       "seriesTitle": "عمارت مرجان",
       "originalEpisode": 5,
-      "checkedAt": "2026-10-22T11:47:16.259730+00:00",
+      "checkedAt": "2026-10-26T04:42:05.397590+00:00",
       "languagesToTry": [
         "tr",
         "fa",
