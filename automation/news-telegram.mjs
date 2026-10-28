@@ -12,6 +12,7 @@
 //   node automation/news-telegram.mjs            → live run
 //   node automation/news-telegram.mjs --dry-run  → print what would be posted, send nothing
 import { readFile, writeFile } from "node:fs/promises";
+import { isTelegramNews } from "./news-policy.mjs";
 
 const DATA = new URL("../github-pages/data/", import.meta.url);
 const STATE = new URL("telegram-posted.json", DATA);
