@@ -63,9 +63,11 @@
     "slot:2026-10-16:1",
     "engagement:quiz:actor:eda-ece",
     "engagement-day:2026-10-28",
-    "slot:2026-10-28:3"
+    "slot:2026-10-28:3",
+    "editorial:dubbed-1:0",
+    "slot:2026-10-28:0"
   ],
-  "updated": "2026-10-28T15:17:36.996Z",
+  "updated": "2026-10-28T16:55:49.254Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
@@ -75,10 +77,11 @@
     "963e5bd9882a8327e0876c1e",
     "3b0eebb73288aa5b79112cec",
     "2057ed3ff70dbed07e636ae9",
-    "a42608b2a768834148bd4bc3"
+    "a42608b2a768834148bd4bc3",
+    "3f26622d45ed961aa3d0ff22"
   ],
   "lastSubjects": {
-    "episode:1": "2026-10-14",
+    "episode:1": "2026-10-28",
     "actor:nebahat-cehre": "2026-10-14",
     "episode:3": "2026-10-14",
     "episode:4": "2026-10-15",
