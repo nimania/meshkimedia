@@ -111,3 +111,9 @@ jobs:
             } else {
               core.info("All published Meshki Media feeds healthy");
             }
+
+      - name: Surface critical health-check failures
+        if: ${{ !cancelled() && steps.audit.outcome == 'failure' }}
+        run: |
+          echo "::error::Published Meshki Media data is critically stale; see audit and incident report."
+          exit 1
