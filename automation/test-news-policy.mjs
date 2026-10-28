@@ -19,3 +19,20 @@ for (const [label, item, expectedScope, expectedTelegram] of testCases) {
   assert.equal(isTelegramNews(item), expectedTelegram, label + " Telegram");
 }
 console.log("News scope and Telegram routing: " + testCases.length + " cases passed.");
+
+
+// Regression guard: every caller of the shared policy must explicitly import it.
+// Missing imports used to break news updates without failing the Pages deployment.
+const { readFileSync } = await import("node:fs");
+for (const [path, exportedName] of [
+  ["./news-collect.mjs", "newsScope"],
+  ["./news-telegram.mjs", "isTelegramNews"],
+  ["./ghahvehshoor-telegram.mjs", "isTelegramNews"],
+]) {
+  const source = readFileSync(new URL(path, import.meta.url), "utf8");
+  const imported = source.split("\n").some((line) =>
+    /^import\s+\{/.test(line) && line.includes(exportedName) && line.includes("news-policy.mjs")
+  );
+  assert.ok(imported, path + " must import " + exportedName + " from news-policy.mjs");
+}
+console.log("News policy integration imports: 3 callers verified.");
