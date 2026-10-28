@@ -60,9 +60,12 @@
     "editorial:original-6:0",
     "slot:2026-10-16:0",
     "editorial:cast:bugra-gulsoy",
-    "slot:2026-10-16:1"
+    "slot:2026-10-16:1",
+    "engagement:quiz:actor:eda-ece",
+    "engagement-day:2026-10-28",
+    "slot:2026-10-28:3"
   ],
-  "updated": "2026-10-16T12:10:48.056Z",
+  "updated": "2026-10-28T15:17:36.996Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
@@ -79,7 +82,7 @@
     "actor:nebahat-cehre": "2026-10-14",
     "episode:3": "2026-10-14",
     "episode:4": "2026-10-15",
-    "actor:eda-ece": "2026-10-15",
+    "actor:eda-ece": "2026-10-28",
     "poll:family": "2026-10-15",
     "episode:5": "2026-10-15",
     "episode:6": "2026-10-16",
@@ -99,6 +102,13 @@
       "date": "2026-10-15",
       "channel": "@ghahvehshoor",
       "url": "https://t.me/ghahvehshoor/16"
+    },
+    "engagement:quiz:actor:eda-ece": {
+      "message_id": 22,
+      "poll_id": "5985489264341681425",
+      "date": "2026-10-28",
+      "channel": "@ghahvehshoor",
+      "url": "https://t.me/ghahvehshoor/22"
     }
   }
 }
