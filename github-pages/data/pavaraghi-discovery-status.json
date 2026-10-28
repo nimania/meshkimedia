@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:48:05.620204+00:00",
+  "generatedAt": "2026-10-28T22:31:43.440280+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "anne-yarisi:1",
-    "ask-ve-taht:1",
-    "ask-ve-taht:2",
-    "ask-ve-taht:3"
+    "ask-ve-taht:4",
+    "ask-ve-taht:5",
+    "baskalarinin-hayati:1",
+    "cirkin:1"
   ],
   "episodes": [
     {
@@ -560,7 +560,7 @@
       "seriesSlug": "ask-ve-taht",
       "seriesTitle": "عشق و تخت",
       "originalEpisode": 4,
-      "checkedAt": "2026-10-24T10:54:36.644498+00:00",
+      "checkedAt": "2026-10-28T22:31:43.440280+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -592,7 +592,7 @@
       "seriesSlug": "ask-ve-taht",
       "seriesTitle": "عشق و تخت",
       "originalEpisode": 5,
-      "checkedAt": "2026-10-24T15:54:25.787755+00:00",
+      "checkedAt": "2026-10-28T22:31:43.440280+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -624,7 +624,7 @@
       "seriesSlug": "baskalarinin-hayati",
       "seriesTitle": "زندگی دیگران",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-24T15:54:25.787755+00:00",
+      "checkedAt": "2026-10-28T22:31:43.440280+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -656,7 +656,7 @@
       "seriesSlug": "cirkin",
       "seriesTitle": "زشت",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-24T15:54:25.787755+00:00",
+      "checkedAt": "2026-10-28T22:31:43.440280+00:00",
       "languagesToTry": [
         "tr",
         "fa",
