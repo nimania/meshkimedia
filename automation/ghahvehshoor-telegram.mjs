@@ -4,6 +4,7 @@ import {readFile,writeFile,readdir,rename} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {getOfficialChannelVideos} from './series-youtube.mjs';
 import {chooseEngagement,reservedEngagementSlot} from './series-engagement.mjs';
+import {isTelegramNews} from './news-policy.mjs';
 const root=new URL('../github-pages/',import.meta.url);
 const data=new URL('data/',root);
 const base='https://nimania.github.io/meshkimedia';
