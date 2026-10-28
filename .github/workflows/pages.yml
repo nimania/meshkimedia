@@ -335,3 +335,8 @@ jobs:
           done
           echo "::error::Could not push news.json and bios.json to main"
           exit 1
+      - name: Report news collection failure even when the site deployed
+        if: ${{ !cancelled() && steps.news.outcome == 'failure' }}
+        run: |
+          echo "::error::News collection failed. The site was deployed with stale news; inspect the Collect news step."
+          exit 1
