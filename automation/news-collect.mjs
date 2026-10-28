@@ -5,6 +5,7 @@
 //   node automation/news-collect.mjs --fixture=path.json   → read feed XML from a fixture map instead of the network
 import { readFile, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
+import { newsScope } from "./news-policy.mjs";
 
 const DATA = new URL("../github-pages/data/", import.meta.url);
 const CONFIG = JSON.parse(await readFile(new URL("./news-sources.json", import.meta.url), "utf8"));
