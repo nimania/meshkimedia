@@ -1,6 +1,93 @@
 {
- "updated": "2026-10-29T13:58:33.817Z",
+ "updated": "2026-10-29T16:11:16.384Z",
  "items": [
+  {
+   "id": "d519546388d2",
+   "url": "https://www.hurriyet.com.tr/kelebek/stil/pembe-panterin-yildizi-elke-sommer-oldu-43359734",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Pembe Panter'in yıldızı Elke Sommer öldü",
+   "snippet": "Sinemada bir dönem kapandı. Peter Sellers ile birlikte kamera karşısına geçtiği Pembe Panter (Pink Panther) serisiyle hafızalara kazınan Elke Sommer hayata veda etti.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae35e0ec44e39ea41369944.jpg",
+   "video": null,
+   "published": "2026-10-29T14:55:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/pembe-panterin-yildizi-elke-sommer-oldu-43359734",
+     "title": "Pembe Panter'in yıldızı Elke Sommer öldü",
+     "snippet": "Sinemada bir dönem kapandı. Peter Sellers ile birlikte kamera karşısına geçtiği Pembe Panter (Pink Panther) serisiyle hafızalara kazınan Elke Sommer hayata veda etti.",
+     "published": "2026-10-29T14:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "45d1313853ec",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/kizlarini-sahnede-gorunce-duygulandi-ozlem-ada-sahin-ne-ara-buyudunuz-siz-7690324",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Kızlarını sahnede görünce duygulandı! Özlem Ada Şahin: Ne ara büyüdünüz siz?",
+   "snippet": "Özlem Ada Şahin, kızlarını 29 Ekim Cumhuriyet Bayramı kutlamasında sahnede izlerken duygusal anlar yaşadı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae3562cf15b2619d4a415c6.jpg",
+   "video": null,
+   "published": "2026-10-29T14:50:33.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/kizlarini-sahnede-gorunce-duygulandi-ozlem-ada-sahin-ne-ara-buyudunuz-siz-7690324",
+     "title": "Kızlarını sahnede görünce duygulandı! Özlem Ada Şahin: Ne ara büyüdünüz siz?",
+     "snippet": "Özlem Ada Şahin, kızlarını 29 Ekim Cumhuriyet Bayramı kutlamasında sahnede izlerken duygusal anlar yaşadı.",
+     "published": "2026-10-29T14:50:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": "ffadd11f3486",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/bilecikte-sefo-ruzgari-cumhuriyet-bayrami-konserinde-binlerce-kisi-bulustu-7690347",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Bilecik'te Sefo rüzgarı! Cumhuriyet Bayramı konserinde binlerce kişi buluştu",
+   "snippet": "Bilecik’te 29 Ekim Cumhuriyet Bayramı kutlamaları fener alayı ve Sefo konseriyle renklendi. Cumhuriyet Meydanı’nı dolduran binlerce kişi, sevilen şarkılar ve marşlar eşliğinde bayram coşkusunu doyasıya yaşadı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae35b70f15b2619d4a41609.jpg",
+   "video": null,
+   "published": "2026-10-29T14:43:48.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/bilecikte-sefo-ruzgari-cumhuriyet-bayrami-konserinde-binlerce-kisi-bulustu-7690347",
+     "title": "Bilecik'te Sefo rüzgarı! Cumhuriyet Bayramı konserinde binlerce kişi buluştu",
+     "snippet": "Bilecik’te 29 Ekim Cumhuriyet Bayramı kutlamaları fener alayı ve Sefo konseriyle renklendi. Cumhuriyet Meydanı’nı dolduran binlerce kişi, sevilen şarkılar ve marşlar eşliğinde bayram coşkusunu doyasıya yaşadı.",
+     "published": "2026-10-29T14:43:48.000Z"
+    }
+   ]
+  },
   {
    "id": "41e15fa75d0a",
    "url": "https://www.hurriyet.com.tr/kelebek/magazin/bu-aski-kalplerinde-birlikte-buyuttuler-seninle-gecen-her-gunumu-kutluyorum-ama-28-ekim-bir-baska-43359342",
@@ -175,7 +262,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/uzak-sehirdem-dunyaya-acilan-360-derece-kapi-43359394",
      "title": "Uzak Şehir'dem dünyaya açılan 360 derece kapı!",
      "snippet": "Kanal D’nin Emmy adayı yapımı Uzak Şehir ile sembolleşen Albora Konağı (De Basso Konağı), şimdi dijital dünyada ziyaretçilerini ağırlıyor. 360 derece ve 3D teknolojisiyle hazırlanan sanal tur sayesinde izleyiciler, dizinin unutulmaz sahnelerinin çekildiği ikonik mekânı dünyanın her yerinden keşfedeb",
-     "published": "2026-10-29T11:20:00.000Z"
+     "published": "2026-10-29T11:20:00.000Z",
+     "titleFa": "دریچه‌ای ۳۶۰ درجه از «شهر دور» به روی جهان!"
     }
    ],
    "images": [
@@ -186,7 +274,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "امکان بازدید مجازی ۳۶۰ درجه از عمارت سریال «شهر دور» فراهم شد",
+   "summaryFa": "عمارت آلبورا که نماد سریال «شهر دور» به شمار می‌رود، اکنون در قالب تور مجازی سه‌بعدی و ۳۶۰ درجه در دسترس مخاطبان قرار گرفته است. علاقه‌مندان در سراسر جهان می‌توانند محل فیلم‌برداری صحنه‌های این مجموعه را به‌صورت دیجیتال مشاهده کنند.",
+   "bodyFa": [
+    "عمارت آلبورا (عمارت دی باسو) که به نمادی شاخص برای سریال «شهر دور»—از آثار نامزد جایزه امی در شبکه کانال دی (Kanal D)—تبدیل شده است، اکنون در بستر فضای مجازی میزبان بازدیدکنندگان است.",
+    "این امکان به‌واسطه یک تور مجازی با فناوری سه‌بعدی و ۳۶۰ درجه مهیا شده است تا بینندگان سریال بتوانند این لوکیشن ویژه و محل ضبط صحنه‌های به‌یادماندنی مجموعه را از هر نقطه دنیا بررسی و کشف کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d0b50e273793",
