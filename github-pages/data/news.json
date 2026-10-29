@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T21:41:20.378Z",
+ "updated": "2026-10-29T01:49:48.233Z",
  "items": [
   {
    "id": "c0d236e0f7bd",
@@ -269,6 +269,44 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "efd81a9961d7",
+   "url": "https://www.milliyet.com.tr/magazin/kadir-inanirin-vasiyeti-sonrasi-sular-durulmuyor-julide-kural-mal-varligini-acikladi-7689616",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Son Dakika: Jülide Kural sessizliğini bozdu! Kadir İnanır’ın mal varlığını açıkladı",
+   "snippet": "HABER MERKEZİ - Türk sinemasının usta oyuncusu Kadir İnanır’ın 26 Haziran’da 77 yaşında hayatını kaybetmesinin ardından başlayan miras tartışmaları magazin gündemindeki yerini koruyor. İnanır'ın avukatı Bişar Abdi Alınak, sanatçının vasiyetnamesinin detaylarını paylaşarak İnanır’ın tüm maddi ve manevi hakları ile teliflerini hayat arkadaşı Jülide Kural’a bıraktığını açıklamıştı. Volkan Demirel 45 yaşında! Eşinden romantik kutlama: Seni çok seviyoruz Kadir İnanır’ın 2015 yılında hazırladığı vasiy",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae2288bea5ea19fcfce272e.jpg",
+   "video": null,
+   "published": "2026-10-28T17:28:43.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/kadir-inanirin-vasiyeti-sonrasi-sular-durulmuyor-julide-kural-mal-varligini-acikladi-7689616",
+     "title": "Son Dakika: Jülide Kural sessizliğini bozdu! Kadir İnanır’ın mal varlığını açıkladı",
+     "snippet": "HABER MERKEZİ - Türk sinemasının usta oyuncusu Kadir İnanır’ın 26 Haziran’da 77 yaşında hayatını kaybetmesinin ardından başlayan miras tartışmaları magazin gündemindeki yerini koruyor. İnanır'ın avukatı Bişar Abdi Alınak, sanatçının vasiyetnamesinin detaylarını paylaşarak İnanır’ın tüm maddi ve mane",
+     "published": "2026-10-28T17:28:43.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae2288bea5ea19fcfce272e.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae2288bea5ea19fcfce272e.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "dc9a731d7981",
