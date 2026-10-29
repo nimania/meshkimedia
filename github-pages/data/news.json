@@ -1,6 +1,213 @@
 {
- "updated": "2026-10-29T16:11:16.384Z",
+ "updated": "2026-10-29T21:10:47.313Z",
  "items": [
+  {
+   "id": "5409955d6734",
+   "url": "https://www.haberturk.com/magazin/usta-oyuncu-patrick-stewart-tan-aci-haber-3923592",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Usta oyuncu vefat etti",
+   "snippet": "'Star Trek' ve 'X-Men'in yıldızı Patrick Stewart, 86 yaşında yaşamını yitirdi. Ünlü oyuncunun Alzheimer hastalığı ve Lewy cisimcikli demans nedeniyle yaşamını yitirdiği açıklandı",
+   "image": "https://im.haberturk.com/l/2026/10/29/ver1793305772/3923592/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-29T20:34:55.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/usta-oyuncu-patrick-stewart-tan-aci-haber-3923592",
+     "title": "Usta oyuncu vefat etti",
+     "snippet": "'Star Trek' ve 'X-Men'in yıldızı Patrick Stewart, 86 yaşında yaşamını yitirdi. Ünlü oyuncunun Alzheimer hastalığı ve Lewy cisimcikli demans nedeniyle yaşamını yitirdiği açıklandı",
+     "published": "2026-10-29T20:34:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": "e93c34c7f356",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/sifanur-gul-ve-berk-bakioglu-ciftinden-romantik-paylasim-guzelligin-benimle-olsun-7690428",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Şifanur Gül ve Berk Bakioğlu çiftinden romantik paylaşım! 'Güzelliğin benimle olsun'",
+   "snippet": "Oyuncu Şifanur Gül ve meslektaşı sevgilisi Berk Bakioğlu'nun aşkı tam gaz devam ediyor. Ünlü çift, yeni romantik karelerini 'Güzelliğin benimle olsun' notuyla Instagram'dan paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae3ab41f15b2619d4a4180b.jpg",
+   "video": null,
+   "published": "2026-10-29T20:30:52.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "berk-bakioglu"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/sifanur-gul-ve-berk-bakioglu-ciftinden-romantik-paylasim-guzelligin-benimle-olsun-7690428",
+     "title": "Şifanur Gül ve Berk Bakioğlu çiftinden romantik paylaşım! 'Güzelliğin benimle olsun'",
+     "snippet": "Oyuncu Şifanur Gül ve meslektaşı sevgilisi Berk Bakioğlu'nun aşkı tam gaz devam ediyor. Ünlü çift, yeni romantik karelerini 'Güzelliğin benimle olsun' notuyla Instagram'dan paylaştı.",
+     "published": "2026-10-29T20:30:52.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae3ab41f15b2619d4a4180b.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae3ab41f15b2619d4a4180b.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "296b21e568ab",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/bursada-cumhuriyet-bayrami-coskusu-berkay-konserine-akin-ettiler-7690421",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Bursa’da Cumhuriyet Bayramı coşkusu! Berkay konserine akın ettiler",
+   "snippet": "Bursa’da 29 Ekim Cumhuriyet Bayramı kutlamaları kapsamında düzenlenen etkinliklerde vatandaşlar, ellerinde Türk bayraklarıyla yürüyüşe katıldı. Bursa Millet Bahçesi’nde devam eden program, Berkay konseriyle sona erdi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae3a487f15b2619d4a417e3.jpg",
+   "video": null,
+   "published": "2026-10-29T20:04:39.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/bursada-cumhuriyet-bayrami-coskusu-berkay-konserine-akin-ettiler-7690421",
+     "title": "Bursa’da Cumhuriyet Bayramı coşkusu! Berkay konserine akın ettiler",
+     "snippet": "Bursa’da 29 Ekim Cumhuriyet Bayramı kutlamaları kapsamında düzenlenen etkinliklerde vatandaşlar, ellerinde Türk bayraklarıyla yürüyüşe katıldı. Bursa Millet Bahçesi’nde devam eden program, Berkay konseriyle sona erdi.",
+     "published": "2026-10-29T20:04:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": "2c5341fc5d1b",
+   "url": "https://www.haberturk.com/magazin/muhtemel-ask-tan-yeni-tanitim-3923572",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Hiç düşünmeden sevdim seni\"",
+   "snippet": "SHOW TV'nin sevilen dizisi 'Muhtemel Aşk'ın yeni bölümünden bir tanıtım daha izleyiciyle buluştu",
+   "image": "https://im.haberturk.com/l/2026/10/29/ver1793297888/3923572/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-29T18:34:38.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "muhtemel-ask"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/muhtemel-ask-tan-yeni-tanitim-3923572",
+     "title": "\"Hiç düşünmeden sevdim seni\"",
+     "snippet": "SHOW TV'nin sevilen dizisi 'Muhtemel Aşk'ın yeni bölümünden bir tanıtım daha izleyiciyle buluştu",
+     "published": "2026-10-29T18:34:38.000Z"
+    }
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "JzHm5hDhCyY"
+    }
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "dc1ee110ec5a",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/yillara-meydan-okuyor-63-yasindaki-yonca-evcimik-pozlariyla-olay-oldu-7690375",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Yıllara meydan okuyor! 63 yaşındaki Yonca Evcimik pozlarıyla olay oldu",
+   "snippet": "Türk pop müziğinin sevilen isimlerinden Yonca Evcimik, fit ve formda haliyle mankenlere taş çıkartan pozlar vermeye devam ediyor. 63 yaşındaki şarkıcının yeni karelerine çok sayıda yorum geldi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae378cef15b2619d4a416d3.jpg",
+   "video": null,
+   "published": "2026-10-29T16:50:01.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/yillara-meydan-okuyor-63-yasindaki-yonca-evcimik-pozlariyla-olay-oldu-7690375",
+     "title": "Yıllara meydan okuyor! 63 yaşındaki Yonca Evcimik pozlarıyla olay oldu",
+     "snippet": "Türk pop müziğinin sevilen isimlerinden Yonca Evcimik, fit ve formda haliyle mankenlere taş çıkartan pozlar vermeye devam ediyor. 63 yaşındaki şarkıcının yeni karelerine çok sayıda yorum geldi.",
+     "published": "2026-10-29T16:50:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": "acc345a58d18",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/saclarini-kisa-kestirdi-hafsanur-sancaktutan-son-haliyle-trinitye-benzetildi-7690370",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Saçlarını kısa kestirdi! Hafsanur Sancaktutan son haliyle Trinity'e benzetildi",
+   "snippet": "Oyuncu Hafsanur Sancaktutan imaj değişikliğine giderek takipçilerine sürpriz yaptı. Saçlarını kısa kestiren ünlü isim, son haliyle Matrix filmindeki Trinity karakterine benzetildi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae372e2f15b2619d4a416ab.jpg",
+   "video": null,
+   "published": "2026-10-29T16:26:39.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "hafsanur-sancaktutan"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/saclarini-kisa-kestirdi-hafsanur-sancaktutan-son-haliyle-trinitye-benzetildi-7690370",
+     "title": "Saçlarını kısa kestirdi! Hafsanur Sancaktutan son haliyle Trinity'e benzetildi",
+     "snippet": "Oyuncu Hafsanur Sancaktutan imaj değişikliğine giderek takipçilerine sürpriz yaptı. Saçlarını kısa kestiren ünlü isim, son haliyle Matrix filmindeki Trinity karakterine benzetildi.",
+     "published": "2026-10-29T16:26:39.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae372e2f15b2619d4a416ab.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae372e2f15b2619d4a416ab.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "d519546388d2",
    "url": "https://www.hurriyet.com.tr/kelebek/stil/pembe-panterin-yildizi-elke-sommer-oldu-43359734",
@@ -3978,7 +4185,18 @@
      "title": "Hande Yener'in Harbiye tarzı",
      "snippet": "Türk pop müziğinin ünlü isimlerinden Hande Yener, Harbiye'de sevenleri ile buluştu. Hakan Akkaya imzalı 100 metrelik kumaştan hazırlanan elbisesiyle dikkat çeken Yener, Simge Sağın ve Yaşar ile düet yaptı.",
      "published": "2026-10-27T15:05:39.000Z"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/harbiye-tarzi-olay-oldu-hande-yener-kombiniyle-dikkat-cekti-7690420",
+     "title": "Harbiye tarzı olay oldu! Hande Yener kombiniyle dikkat çekti",
+     "snippet": "Sahne tarzı ve iddialı kombinleriyle sık sık gündem olan Hande Yener, son olarak Harbiye konseriyle adından söz ettirdi. Ünlü şarkıcı, beğeni toplayan yeni kareleri Instagram hesabından paylaştı.",
+     "published": "2026-10-29T19:34:28.000Z"
     }
+   ],
+   "mergedIds": [
+    "a52487f1c843"
    ]
   },
   {
