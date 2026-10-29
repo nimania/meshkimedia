@@ -69,9 +69,11 @@
     "news:3de19a7060dd",
     "news:5390ac64e7d1",
     "editorial:original-3:0",
-    "slot:2026-10-29:0"
+    "slot:2026-10-29:0",
+    "editorial:original-4:3",
+    "slot:2026-10-29:1"
   ],
-  "updated": "2026-10-29T08:39:45.158Z",
+  "updated": "2026-10-29T14:01:45.906Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
@@ -85,13 +87,14 @@
     "3f26622d45ed961aa3d0ff22",
     "0fe0ce25e041bba2a10a659e",
     "eaa89ce4546b3207786ba378",
-    "f911fca13ebf8e756235328b"
+    "f911fca13ebf8e756235328b",
+    "6aacbf87b75c4bb4d0c1ceff"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-28",
     "actor:nebahat-cehre": "2026-10-14",
     "episode:3": "2026-10-29",
-    "episode:4": "2026-10-15",
+    "episode:4": "2026-10-29",
     "actor:eda-ece": "2026-10-28",
     "poll:family": "2026-10-15",
     "episode:5": "2026-10-15",
