@@ -77,7 +77,8 @@
     "slot:2026-10-29:1",
     "engagement:poll:future",
     "engagement-day:2026-10-29",
-    "slot:2026-10-29:3"
+    "slot:2026-10-29:3",
+    "news:dc9a9f542e12"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -97,7 +98,8 @@
     "7923e18b17b77720e8a04f16",
     "ac3e3c66c843098ba4e4b991",
     "b97bded15f3de339bf1ab935",
-    "045b982e3c7546ad33380b47"
+    "045b982e3c7546ad33380b47",
+    "ab1da9657d479d668a281a45"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-28",
@@ -114,7 +116,7 @@
     "actor:bahtiyar-memili": "2026-10-29",
     "poll:future": "2026-10-29"
   },
-  "updated": "2026-10-29T16:14:44.178Z",
+  "updated": "2026-10-29T21:13:58.763Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
