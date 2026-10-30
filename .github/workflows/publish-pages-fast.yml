@@ -32,6 +32,8 @@ jobs:
           node-version: '22'
       - name: Build static site from committed data, without Gemini or news collection
         run: node automation/build-site.mjs
+      - name: Verify indexed pages are real, self-canonical and crawlable
+        run: node automation/audit-seo.mjs
       - name: Confirm recording page exists
         run: test -s github-pages/pavaraghi/amade-zabt/index.html
       - uses: actions/configure-pages@v5
