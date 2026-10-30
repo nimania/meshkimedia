@@ -1,6 +1,205 @@
 {
- "updated": "2026-10-30T07:11:48.832Z",
+ "updated": "2026-10-30T10:35:09.850Z",
  "items": [
+  {
+   "id": "886594d5da2c",
+   "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-buyuk-kavusma-3923700",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "'Kızılcık Şerbeti'nde büyük kavuşma",
+   "snippet": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nin bu akşam yayınlanacak yeni bölümünde; Nursema ailesine kavuşacak",
+   "image": "https://im.haberturk.com/l/2026/10/30/ver1793349848/3923700/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-30T08:57:21.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "kizilcik-serbeti"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-buyuk-kavusma-3923700",
+     "title": "'Kızılcık Şerbeti'nde büyük kavuşma",
+     "snippet": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nin bu akşam yayınlanacak yeni bölümünde; Nursema ailesine kavuşacak",
+     "published": "2026-10-30T08:57:21.000Z"
+    }
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "e2f1ec51a540",
+   "url": "https://www.sozcu.com.tr/kubat-in-zayifligini-goren-beyaz-saskinligini-gizleyemedi-sifirdan-baslayacaktim-p374289",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Kubat'ın zayıflığını gören Beyaz şaşkınlığını gizleyemedi: “Sıfırdan başlayacaktım”",
+   "snippet": "Verdiği kilolarla bambaşka bir görünüme kavuşan Kubat, Beyazıt Öztürk'ün sunduğu Joker programına konuk oldu. Ünlü şarkı...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/845jpg-xh6bWY_0k0WXI-nvfcBBSw.jpg",
+   "video": null,
+   "published": "2026-10-30T08:56:05.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/kubat-in-zayifligini-goren-beyaz-saskinligini-gizleyemedi-sifirdan-baslayacaktim-p374289",
+     "title": "Kubat'ın zayıflığını gören Beyaz şaşkınlığını gizleyemedi: “Sıfırdan başlayacaktım”",
+     "snippet": "Verdiği kilolarla bambaşka bir görünüme kavuşan Kubat, Beyazıt Öztürk'ün sunduğu Joker programına konuk oldu. Ünlü şarkı...",
+     "published": "2026-10-30T08:56:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": "f6a22ff8c0cb",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/artik-gizlemiyorlar-devrim-ozkan-ve-deniz-can-aktastan-romantik-poz-7690685",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Artık gizlemiyorlar! Devrim Özkan ve Deniz Can Aktaş'tan romantik poz",
+   "snippet": "Uzun süredir aşk yaşadıkları konuşulan Devrim Özkan ile Deniz Can Aktaş, ilişkilerini artık gizlemiyor. Özkan, sevgilisiyle tatilde çekilen romantik karesini ilk kez paylaşırken, Aktaş da yorum yaparak karşılık verdi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae458b2f15b2619d4a41bc9.jpg",
+   "video": null,
+   "published": "2026-10-30T08:44:40.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "deniz-can-aktas",
+     "devrim-ozkan"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/artik-gizlemiyorlar-devrim-ozkan-ve-deniz-can-aktastan-romantik-poz-7690685",
+     "title": "Artık gizlemiyorlar! Devrim Özkan ve Deniz Can Aktaş'tan romantik poz",
+     "snippet": "Uzun süredir aşk yaşadıkları konuşulan Devrim Özkan ile Deniz Can Aktaş, ilişkilerini artık gizlemiyor. Özkan, sevgilisiyle tatilde çekilen romantik karesini ilk kez paylaşırken, Aktaş da yorum yaparak karşılık verdi.",
+     "published": "2026-10-30T08:44:40.000Z"
+    },
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/devrim-ozkan-ve-deniz-can-aktas-tan-ilan-i-ask-artik-saklamiyorlar-p374306",
+     "title": "Devrim Özkan ve Deniz Can Aktaş'tan ilan-ı aşk: Artık saklamıyorlar",
+     "snippet": "Oyuncu Devrim Özkan ve Deniz Can Aktaş, özel hayatlarını gözlerden uzak yaşamayı tercih ederken bu kez sosyal medya payl...",
+     "published": "2026-10-30T10:24:07.000Z"
+    }
+   ],
+   "mergedIds": [
+    "f89daa77ad51"
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae458b2f15b2619d4a41bc9.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae458b2f15b2619d4a41bc9.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "739254d9034d",
+   "url": "https://www.milliyet.com.tr/magazin/kadir-inanirin-miras-kavgasi-bitmiyor-levent-inanir-o-luks-saatler-nerede-7690625",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Kadir İnanır'ın miras kavgası bitmiyor! Levent İnanır: Lüks saatler nerede?",
+   "snippet": "HABER MERKEZİ - Türk sinemasının usta oyuncusu Kadir İnanır’ın vefatının ardından başlayan miras tartışmaları sürüyor. Levent İnanır, Jülide Kural’ın son açıklamalarına yanıt verirken kayıp olduğu öne sürülen saatler, ziynet eşyaları ve geçmişte yaşanan bazı olaylarla ilgili dikkat çeken iddialarda bulundu. Kadir İnanır'ın avukatı, sanatçının vasiyetnamesinin detaylarını paylaşarak tüm maddi ve manevi hakları ile teliflerini hayat arkadaşı Jülide Kural'a bıraktığını açıklamıştı. Cumhurbaşkanı Er",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae44449f15b2619d4a41aaf.jpg",
+   "video": null,
+   "published": "2026-10-30T08:17:28.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/kadir-inanirin-miras-kavgasi-bitmiyor-levent-inanir-o-luks-saatler-nerede-7690625",
+     "title": "Kadir İnanır'ın miras kavgası bitmiyor! Levent İnanır: Lüks saatler nerede?",
+     "snippet": "HABER MERKEZİ - Türk sinemasının usta oyuncusu Kadir İnanır’ın vefatının ardından başlayan miras tartışmaları sürüyor. Levent İnanır, Jülide Kural’ın son açıklamalarına yanıt verirken kayıp olduğu öne sürülen saatler, ziynet eşyaları ve geçmişte yaşanan bazı olaylarla ilgili dikkat çeken iddialarda ",
+     "published": "2026-10-30T08:17:28.000Z"
+    }
+   ]
+  },
+  {
+   "id": "07d8d5325474",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/murat-yildirimin-performansina-ovguler-yagdi-43360258",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Murat Yıldırım'ın performansına övgüler yağdı",
+   "snippet": "Kanal D’nin sevilen dizisi Güller ve Günahlar, duygusal sahneleriyle gündemde kalmaya devam ediyor. Serhat’ın Kader’in kendi kızı olduğunu öğrenmesiyle yaşadığı büyük üzüntü, izleyicileri derinden etkiledi. Murat Yıldırım’ın oyunculuk performansı ise büyük beğeni topladı.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae44c92aa7d7bef1976464f.jpg",
+   "video": null,
+   "published": "2026-10-30T07:53:00.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "guller-ve-gunahlar"
+    ],
+    "people": [
+     "murat-yildirim"
+    ],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/murat-yildirimin-performansina-ovguler-yagdi-43360258",
+     "title": "Murat Yıldırım'ın performansına övgüler yağdı",
+     "snippet": "Kanal D’nin sevilen dizisi Güller ve Günahlar, duygusal sahneleriyle gündemde kalmaya devam ediyor. Serhat’ın Kader’in kendi kızı olduğunu öğrenmesiyle yaşadığı büyük üzüntü, izleyicileri derinden etkiledi. Murat Yıldırım’ın oyunculuk performansı ise büyük beğeni topladı.",
+     "published": "2026-10-30T07:53:00.000Z"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/murat-yildirimdan-dev-performans-7690646",
+     "title": "Murat Yıldırım'dan dev performans!",
+     "snippet": "HABER MERKEZİ - Güller ve Günahlar’ın son bölümünde Serhat’ın hayatını değiştiren gerçekle yüzleşmesi, hikâyede yeni bir dönemin kapısını araladı. Kader’in babası olduğunu öğrenen Serhat’ın yaşadığı acı ve iç hesaplaşma, izleyicileri derinden etkiledi. OYUNCULUĞU BÜYÜK BEĞENİ TOPLADI Murat Yıldırım,",
+     "published": "2026-10-30T08:24:45.000Z"
+    }
+   ],
+   "mergedIds": [
+    "20d4bbfa3833"
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae44c92aa7d7bef1976464f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae44c92aa7d7bef1976464f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "f9bab19b6628",
    "url": "https://www.milliyet.com.tr/magazin/galeri/yagmur-yagdi-cosku-dinmedi-can-bonomodan-29-ekim-konseri-7690597",
@@ -507,6 +706,35 @@
      "url": "https://www.hurriyet.com.tr/kelebek/favori-bond-lowden-43359981",
      "title": "Favori Bond Lowden",
      "snippet": "Merakla beklenen James Bond rolü için yürütülen ve yaklaşık on yıldır devam eden oyuncu seçimi süreci son aşamaya yaklaştı.",
+     "published": "2026-10-30T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "8b000bb600d3",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/mujde-ardan-eski-dostuna-destek-julide-psikolojik-saldiri-altinda-43359861",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Müjde Ar'dan eski dostuna destek: Jülide psikolojik saldırı altında",
+   "snippet": "Müjde Ar, Kadir İnanır’ın vefatının ardından Jülide Kural’ın miras tartışması üzerinden psikolojik saldırıya maruz kaldığını savundu. Oyuncu, “Jülide Kural bütün kadınlara emanettir” diyerek kamuoyuna çağrıda bulundu.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae39de4aa7d7bef197642b9.jpg",
+   "video": null,
+   "published": "2026-10-30T04:00:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/mujde-ardan-eski-dostuna-destek-julide-psikolojik-saldiri-altinda-43359861",
+     "title": "Müjde Ar'dan eski dostuna destek: Jülide psikolojik saldırı altında",
+     "snippet": "Müjde Ar, Kadir İnanır’ın vefatının ardından Jülide Kural’ın miras tartışması üzerinden psikolojik saldırıya maruz kaldığını savundu. Oyuncu, “Jülide Kural bütün kadınlara emanettir” diyerek kamuoyuna çağrıda bulundu.",
      "published": "2026-10-30T04:00:00.000Z"
     }
    ]
