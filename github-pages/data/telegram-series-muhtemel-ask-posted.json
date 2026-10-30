@@ -83,7 +83,9 @@
     "editorial:cast:melis-minkari",
     "slot:2026-10-30:0",
     "editorial:cast:selen-domac",
-    "slot:2026-10-30:1"
+    "slot:2026-10-30:1",
+    "editorial:cast:melisa-berberoglu",
+    "slot:2026-10-30:2"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -107,7 +109,8 @@
     "ab1da9657d479d668a281a45",
     "0b2c0afc40a4e23d341d16a1",
     "fb207480f28d4b3cdf0879a3",
-    "aeab5a29947c90ed70b1014f"
+    "aeab5a29947c90ed70b1014f",
+    "118be1444740e59068c83728"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-28",
@@ -124,9 +127,10 @@
     "actor:bahtiyar-memili": "2026-10-29",
     "poll:future": "2026-10-29",
     "actor:melis-minkari": "2026-10-30",
-    "actor:selen-domac": "2026-10-30"
+    "actor:selen-domac": "2026-10-30",
+    "actor:melisa-berberoglu": "2026-10-30"
   },
-  "updated": "2026-10-30T10:38:25.871Z",
+  "updated": "2026-10-30T14:01:21.762Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
