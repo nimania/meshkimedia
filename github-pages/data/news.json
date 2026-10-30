@@ -1,35 +1,6 @@
 {
- "updated": "2026-10-29T21:10:47.313Z",
+ "updated": "2026-10-30T01:04:32.156Z",
  "items": [
-  {
-   "id": "5409955d6734",
-   "url": "https://www.haberturk.com/magazin/usta-oyuncu-patrick-stewart-tan-aci-haber-3923592",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Usta oyuncu vefat etti",
-   "snippet": "'Star Trek' ve 'X-Men'in yıldızı Patrick Stewart, 86 yaşında yaşamını yitirdi. Ünlü oyuncunun Alzheimer hastalığı ve Lewy cisimcikli demans nedeniyle yaşamını yitirdiği açıklandı",
-   "image": "https://im.haberturk.com/l/2026/10/29/ver1793305772/3923592/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-29T20:34:55.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/usta-oyuncu-patrick-stewart-tan-aci-haber-3923592",
-     "title": "Usta oyuncu vefat etti",
-     "snippet": "'Star Trek' ve 'X-Men'in yıldızı Patrick Stewart, 86 yaşında yaşamını yitirdi. Ünlü oyuncunun Alzheimer hastalığı ve Lewy cisimcikli demans nedeniyle yaşamını yitirdiği açıklandı",
-     "published": "2026-10-29T20:34:55.000Z"
-    }
-   ]
-  },
   {
    "id": "e93c34c7f356",
    "url": "https://www.milliyet.com.tr/magazin/galeri/sifanur-gul-ve-berk-bakioglu-ciftinden-romantik-paylasim-guzelligin-benimle-olsun-7690428",
@@ -95,9 +66,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/bursada-cumhuriyet-bayrami-coskusu-berkay-konserine-akin-ettiler-7690421",
      "title": "Bursa’da Cumhuriyet Bayramı coşkusu! Berkay konserine akın ettiler",
      "snippet": "Bursa’da 29 Ekim Cumhuriyet Bayramı kutlamaları kapsamında düzenlenen etkinliklerde vatandaşlar, ellerinde Türk bayraklarıyla yürüyüşe katıldı. Bursa Millet Bahçesi’nde devam eden program, Berkay konseriyle sona erdi.",
-     "published": "2026-10-29T20:04:39.000Z"
+     "published": "2026-10-29T20:04:39.000Z",
+     "titleFa": "شور و شوق روز جمهوری در بورسا! هجوم به کنسرت برکای"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae3a487f15b2619d4a417e3.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae3a487f15b2619d4a417e3.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "برگزاری جشن روز جمهوری و کنسرت برکای در بورسا",
+   "summaryFa": "شهروندان در بورسا به مناسبت ۲۹ اکتبر، روز جمهوری، با پرچم‌های ترکیه راهپیمایی کردند. این برنامه با برگزاری کنسرت برکای به پایان رسید.",
+   "bodyFa": [
+    "به مناسبت ۲۹ اکتبر، روز جمهوری ترکیه، برنامه‌ها و جشن‌های ویژه‌ای در شهر بورسا برگزار شد. در جریان این رویدادها، شهروندان با در دست داشتن پرچم‌های ترکیه در راهپیمایی این روز شرکت کردند.",
+    "ادامه برنامه‌های گرامی‌داشت روز جمهوری در پارک ملت بورسا برگزار شد و این مراسم در نهایت با اجرای کنسرت برکای پایان یافت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "2c5341fc5d1b",
@@ -128,7 +117,8 @@
      "url": "https://www.haberturk.com/magazin/muhtemel-ask-tan-yeni-tanitim-3923572",
      "title": "\"Hiç düşünmeden sevdim seni\"",
      "snippet": "SHOW TV'nin sevilen dizisi 'Muhtemel Aşk'ın yeni bölümünden bir tanıtım daha izleyiciyle buluştu",
-     "published": "2026-10-29T18:34:38.000Z"
+     "published": "2026-10-29T18:34:38.000Z",
+     "titleFa": "«بدون هیچ تفکری دوستت داشتم»"
     }
    ],
    "videos": [
@@ -137,7 +127,15 @@
      "id": "JzHm5hDhCyY"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتشار دومین تیزر از قسمت بیستم سریال «عشق احتمالی»",
+   "summaryFa": "دومین تیزر از قسمت بیستم سریال «عشق احتمالی» منتشر شد. این قسمت در روز پنجشنبه ۵ نوامبر از شبکه شو تی‌وی پخش خواهد شد.",
+   "bodyFa": [
+    "دومین پیش‌نمایش از قسمت بیستم سریال «عشق احتمالی» که توسط شرکت «ام‌اف یابیم» ساخته می‌شود، در دسترس مخاطبان قرار گرفت. در این مجموعه تلویزیونی بازیگرانی همچون آیچا آیشین توران، اکین کوچ و فیاض شریف‌اوغلو نقش‌های اصلی را ایفا می‌کنند.",
+    "بر اساس اطلاعات منتشر شده، قسمت جدید این سریال قرار است در روز پنجشنبه ۵ نوامبر ساعت ۲۰:۰۰ از شبکه شو تی‌وی به روی آنتن برود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "dc1ee110ec5a",
@@ -164,9 +162,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/yillara-meydan-okuyor-63-yasindaki-yonca-evcimik-pozlariyla-olay-oldu-7690375",
      "title": "Yıllara meydan okuyor! 63 yaşındaki Yonca Evcimik pozlarıyla olay oldu",
      "snippet": "Türk pop müziğinin sevilen isimlerinden Yonca Evcimik, fit ve formda haliyle mankenlere taş çıkartan pozlar vermeye devam ediyor. 63 yaşındaki şarkıcının yeni karelerine çok sayıda yorum geldi.",
-     "published": "2026-10-29T16:50:01.000Z"
+     "published": "2026-10-29T16:50:01.000Z",
+     "titleFa": "مقاومت در برابر سال‌ها! یونکا اوجیمیک ۶۳ ساله با ژست‌هایش جنجال‌ساز شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae378cef15b2619d4a416d3.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae378cef15b2619d4a416d3.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تصاویر جدید یونکا اوجیمیک، خواننده ۶۳ ساله ترک، توجه کاربران را جلب کرد",
+   "summaryFa": "یونکا اوجیمیک، خواننده سرشناس موسیقی پاپ ترکیه، با انتشار عکس‌های جدید خود باز هم مورد توجه مخاطبان قرار گرفت. اندام آماده و متناسب این هنرمند ۶۳ ساله نظرات زیادی را در فضای مجازی به دنبال داشت.",
+   "bodyFa": [
+    "یونکا اوجیمیک، یکی از چهره‌های محبوب موسیقی پاپ ترکیه، همچنان به خاطر وضعیت جسمانی آماده و فرم بدنی مناسب خود شناخته می‌شود. او اخیراً تصاویری از خود منتشر کرده که با واکنش‌های زیادی از سوی کاربران و طرفدارانش در شبکه‌های اجتماعی مواجه شده است.",
+    "این خواننده ۶۳ ساله در عکس‌های جدیدش بار دیگر توانایی خود را در حفظ تناسب اندام به نمایش گذاشته و تصاویری مشابه مدل‌ها ثبت کرده است که بازتاب گسترده‌ای در رسانه‌ها داشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "acc345a58d18",
@@ -195,7 +211,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/saclarini-kisa-kestirdi-hafsanur-sancaktutan-son-haliyle-trinitye-benzetildi-7690370",
      "title": "Saçlarını kısa kestirdi! Hafsanur Sancaktutan son haliyle Trinity'e benzetildi",
      "snippet": "Oyuncu Hafsanur Sancaktutan imaj değişikliğine giderek takipçilerine sürpriz yaptı. Saçlarını kısa kestiren ünlü isim, son haliyle Matrix filmindeki Trinity karakterine benzetildi.",
-     "published": "2026-10-29T16:26:39.000Z"
+     "published": "2026-10-29T16:26:39.000Z",
+     "titleFa": "موهایش را کوتاه کرد! هفسانور سانجاک‌توتان با ظاهر جدیدش به ترینیتی تشبیه شد"
     }
    ],
    "images": [
@@ -206,36 +223,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
-  },
-  {
-   "id": "d519546388d2",
-   "url": "https://www.hurriyet.com.tr/kelebek/stil/pembe-panterin-yildizi-elke-sommer-oldu-43359734",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Pembe Panter'in yıldızı Elke Sommer öldü",
-   "snippet": "Sinemada bir dönem kapandı. Peter Sellers ile birlikte kamera karşısına geçtiği Pembe Panter (Pink Panther) serisiyle hafızalara kazınan Elke Sommer hayata veda etti.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae35e0ec44e39ea41369944.jpg",
-   "video": null,
-   "published": "2026-10-29T14:55:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/stil/pembe-panterin-yildizi-elke-sommer-oldu-43359734",
-     "title": "Pembe Panter'in yıldızı Elke Sommer öldü",
-     "snippet": "Sinemada bir dönem kapandı. Peter Sellers ile birlikte kamera karşısına geçtiği Pembe Panter (Pink Panther) serisiyle hafızalara kazınan Elke Sommer hayata veda etti.",
-     "published": "2026-10-29T14:55:00.000Z"
-    }
-   ]
+   "mediaDone": true,
+   "titleFa": "تغییر ظاهر هفسانور سانجاک‌توتان و شباهت چهره جدید او به شخصیت ترینیتی",
+   "summaryFa": "هفسانور سانجاک‌توتان با کوتاه کردن موهای خود طرفدارانش را غافلگیر کرد. چهره جدید این بازیگر به شخصیت ترینیتی در فیلم ماتریکس تشبیه شده است.",
+   "bodyFa": [
+    "هفسانور سانجاک‌توتان، بازیگر شناخته‌شده، با دست زدن به یک تغییر ظاهر و کوتاه کردن موهایش، هواداران و دنبال‌کنندگان خود را غافلگیر کرده است.",
+    "پس از انتشار تصاویر ظاهر جدید این بازیگر، استایل تازه او مورد توجه قرار گرفت و چهره جدیدش به شخصیت «ترینیتی» در فیلم سینمایی ماتریکس تشبیه شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "45d1313853ec",
@@ -262,9 +258,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/kizlarini-sahnede-gorunce-duygulandi-ozlem-ada-sahin-ne-ara-buyudunuz-siz-7690324",
      "title": "Kızlarını sahnede görünce duygulandı! Özlem Ada Şahin: Ne ara büyüdünüz siz?",
      "snippet": "Özlem Ada Şahin, kızlarını 29 Ekim Cumhuriyet Bayramı kutlamasında sahnede izlerken duygusal anlar yaşadı.",
-     "published": "2026-10-29T14:50:33.000Z"
+     "published": "2026-10-29T14:50:33.000Z",
+     "titleFa": "دیدن دخترانشان روی صحنه او را احساسی کرد! اوزلم ادا شاهین: شما کی بزرگ شدید؟"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae3562cf15b2619d4a415c6.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae3562cf15b2619d4a415c6.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "واکنش احساسی اوزلم ادا شاهین با دیدن فرزندانش روی صحنه",
+   "summaryFa": "اوزلم ادا شاهین هنگام تماشای فرزندانش روی صحنه در مراسم جشن روز جمهوری ۲۹ اکتبر، لحظات احساسی را تجربه کرد.",
+   "bodyFa": [
+    "اوزلم ادا شاهین در جریان مراسم بزرگداشت ۲۹ اکتبر، روز جمهوری، به تماشای اجرای فرزندان خود روی صحنه نشست.",
+    "او با دیدن فرزندانش در حال اجرا، دچار احساسات شد و با ابراز تعجب از بزرگ شدن آن‌ها، این لحظه را با این جمله توصیف کرد که «شما کی بزرگ شدید؟»."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ffadd11f3486",
@@ -291,9 +305,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/bilecikte-sefo-ruzgari-cumhuriyet-bayrami-konserinde-binlerce-kisi-bulustu-7690347",
      "title": "Bilecik'te Sefo rüzgarı! Cumhuriyet Bayramı konserinde binlerce kişi buluştu",
      "snippet": "Bilecik’te 29 Ekim Cumhuriyet Bayramı kutlamaları fener alayı ve Sefo konseriyle renklendi. Cumhuriyet Meydanı’nı dolduran binlerce kişi, sevilen şarkılar ve marşlar eşliğinde bayram coşkusunu doyasıya yaşadı.",
-     "published": "2026-10-29T14:43:48.000Z"
+     "published": "2026-10-29T14:43:48.000Z",
+     "titleFa": "طوفان سفُو در Bilecik! هزاران نفر در کنسرت روز جمهوری گردهم آمدند"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae35b70f15b2619d4a41609.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae35b70f15b2619d4a41609.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "برguزیاری کنسرت سفُو در Bilecik به مناسبت روز جمهوری",
+   "summaryFa": "شهر Bilecik شاهد برگزاری مراسم روز ۲۹ اکتبر با حضور پرشور مردم و اجرای کنسرت سفُو بود.",
+   "bodyFa": [
+    "مراسم گرامیداشت ۲۹ اکتبر، روز جمهوری، در شهر Bilecik با برگزاری راهپیمایی با مشعل و اجرای کنسرت توسط سفُو رنگ و بوی دیگری به خود گرفت.",
+    "هزاران نفر از شهروندان با حضور در میدان Cumhuriyet، ضمن همراهی با ترانه‌ها و سرودهای محبوب، شور و اشتیاق خود را برای بزرگداشت این روز به نمایش گذاشتند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "41e15fa75d0a",
@@ -320,9 +352,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/bu-aski-kalplerinde-birlikte-buyuttuler-seninle-gecen-her-gunumu-kutluyorum-ama-28-ekim-bir-baska-43359342",
      "title": "Bu aşkı kalplerinde birlikte büyüttüler... Seninle geçen her günümü kutluyorum... Ama 28 Ekim bir başka",
      "snippet": "Sinemanın ünlü yıldızlarından Julia Roberts, bir sevgi seli içinde yeni yaşına girdi...",
-     "published": "2026-10-29T12:22:00.000Z"
+     "published": "2026-10-29T12:22:00.000Z",
+     "titleFa": "این عشق را با هم در قلب‌هایشان بزرگ کردند... هر روزم را که با تو می‌گذرد جشن می‌گیرم... اما ۲۸ اکتبر چیز دیگری است"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae33ac4c44e39ea4136985f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae33ac4c44e39ea4136985f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true,
+   "titleFa": "جولیا رابرتز تولد خود را جشن گرفت",
+   "summaryFa": "جولیا رابرتز، یکی از ستارگان مشهور سینما، در میان انبوهی از ابراز علاقه و محبت وارد سن جدیدی شد.",
+   "bodyFa": [
+    "جولیا رابرتز، ستاره نام‌آشنای سینما، جشن تولد خود را در فضایی سرشار از ابراز محبت و عشق برگزار کرد و وارد سالگرد جدیدی از زندگی‌اش شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ecf1ce1f739c",
@@ -349,9 +398,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/cocukla-hayat/hadi-okuyalim-hadi-gidelim-43359452",
      "title": "Hadi okuyalım-Hadi gidelim",
      "snippet": "Bu hafta ‘Winnie The Pooh Müzikali’nden ‘Pinokyo’ tiyatro oyununa, ‘Hikâye Anlatıcılığı ve Kukla Atölyesi’nden sihirbazlık gösterilerine çocuklara eğlence dolu anlar yaşatacak birçok etkinlik var. Vladimir Tumanov’un kitabıysa minikleri gezegenimizin yarınını düşünmeye davet ediyor.",
-     "published": "2026-10-29T12:18:05.000Z"
+     "published": "2026-10-29T12:18:05.000Z",
+     "titleFa": "بیایید بخوانیم-بیایید برویم"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae33977c44e39ea41369847.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-google-play.png?v=azure-3721"
+   ],
+   "mediaDone": true,
+   "titleFa": "برنامه ها و رویدادهای این هفته برای کودکان",
+   "summaryFa": "این هفته رویدادهای مختلفی از جمله موزیکال، تئاتر و کارگاه های آموزشی برای سرگرمی کودکان در نظر گرفته شده است.",
+   "bodyFa": [
+    "در این هفته برنامه های متنوعی برای کودکان تدارک دیده شده است که شامل مواردی چون موزیکال «وینی پو»، نمایش تئاتر «پینوکیو»، کارگاه داستان گویی و عروسکی و همچنین نمایش های شعبده بازی می شود تا لحظات شادی را برای خردسالان رقم بزنند.",
+    "علاوه بر این برنامه های سرگرم کننده، کتابی از ولادیمیر تومانوف نیز معرفی شده است که کودکان را به فکر کردن درباره فردای سیاره زمین دعوت می کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4ef3ecfda12f",
@@ -378,9 +445,28 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/zamana-direnen-sarkilar-43359450",
      "title": "Zamana direnen şarkılar",
      "snippet": "Biri 90’ların, diğeri 2000’lerin hit şarkılarından. Demet Sağıroğlu ve Derya Bedavacı söz ve bestesi Kayahan’a ait ‘Şikâyetim Var’ı, Gökhan Türkmen’se Soner Sarıkabadayı imzalı ‘Buz’u yorumlamış. Bu haftanın yenileri arasında Model’in ‘Zaten Ağzım Bozuk’ şarkısı da var.",
-     "published": "2026-10-29T12:13:50.000Z"
+     "published": "2026-10-29T12:13:50.000Z",
+     "titleFa": "آهنگ‌های مقاوم در برابر زمان"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae3387cc44e39ea4136982a.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae3387cc44e39ea4136982a.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true,
+   "titleFa": "آهنگ‌های ماندگار در میان تازه‌های موسیقی",
+   "summaryFa": "دّمت ساغیروغلو، دریا بدافجی و گوکان تورکمن آثار جدیدی از آهنگ‌های هیت دهه‌های گذشته را بازخوانی کرده‌اند. همچنین آهنگ جدیدی از گروه مدل منتشر شده است.",
+   "bodyFa": [
+    "در میان تازه‌های دنیای موسیقی، آثار جدیدی از هنرمندان مختلف منتشر شده است که شامل بازخوانی ترانه‌های محبوب و خاطره‌انگیز می‌شود.",
+    "بر اساس اطلاعات منتشر شده، دمت ساغیروغلو و دریا بدافجی قطعه «شیکایتیو وار» متعلق به کایاهان را بازخوانی کرده‌اند و گوکان تورکمن نیز آهنگ «بوز» با ساخته سونر ساریکابادایی را اجرا کرده است.",
+    "علاوه بر این آثار، قطعه «زاتن آغزیم بوزوک» از گروه مدل نیز در میان تازه‌های این هفته قرار دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4a8111c508bd",
@@ -407,9 +493,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/notalar-hatiralar-43359403",
      "title": "Notalar, hatıralar",
      "snippet": "Bu hafta İstanbul’da Simge ve Edis’in konserleri var. Caz sevenler Mansur Brown’ı kaçırmasın. ‘Cumhuriyetin Kamera Arkası’ sergisindeyse objektifler İstanbul’un geçmişine çevrilmiş.",
-     "published": "2026-10-29T12:09:31.000Z"
+     "published": "2026-10-29T12:09:31.000Z",
+     "titleFa": "نت‌ها، خاطرات"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae331fcc44e39ea41369779.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae331fcc44e39ea41369779.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true,
+   "titleFa": "روedدادها و کنسرت‌های این هفته در استانبول",
+   "summaryFa": "این هفته استانبول میزبان کنسرت‌های سیمگه و ادیس است و علاقه‌مندان به جاز می‌توانند در اجرای منصور براون شرکت کنند.",
+   "bodyFa": [
+    "بر اساس اطلاعات منتشر شده، این هفته شهر استانبول میزبان برنامه‌ها و رویدادهای هنری مختلفی از جمله کنسرت‌های سیمگه و ادیس خواهد بود.",
+    "همچنین علاقه‌مندان به موسیقی جاز می‌توانند اجرای منصور براون را تماشا کنند. در کنار این رویدادهای موسیقی، نمایشگاه «پشت صحنه جمهوری» نیز برگزار می‌شود که نگاهی به گذشته استانبول دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "da0dc14f8fcd",
@@ -436,9 +540,27 @@
      "url": "https://www.sabah.com.tr/magazin/doga-rutkay-kamaldan-esi-kerimcan-kamal-itirafi-kiskancligini-acik-acik-anlatti-o-detayi-da-saklamadi-7690873",
      "title": "Doğa Rutkay Kamal’dan eşi Kerimcan Kamal itirafı! Kıskançlığını açık açık anlattı: O detayı da saklamadı...",
      "snippet": "Magazin gündeminden uzak bir yaşam süren Doğa Rutkay Kamal, yaptığı son açıklamalarla dikkat çekti. 2014 yılında nikah masasına oturan ve Piraye ile Rutkay Kerim adında ikiz çocukları bulunan ünlü oyuncu,... Devamı için tıklayınız",
-     "published": "2026-10-29T11:36:39.000Z"
+     "published": "2026-10-29T11:36:39.000Z",
+     "titleFa": "اعتراف دوغا روټکای کمال درباره همسرش کریمجان کمال! او درباره حسادتش آشکارا صحبت کرد: آن جزئیات را هم پنهان نکرد..."
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/1a172e/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2026/10/29/doga-rutkay-kamaldan-esi-kerimcan-kamal-itirafi-kiskancligini-acik-acik-anlatti-o-detayi-da-saklamadi-1793273800719.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "اعترافات دوغا روټکای کمال درباره همسرش کریمجان کمال",
+   "summaryFa": "دوغا روټکای کمال بازیگر مشهور، در اظهارات جدید خود درباره حسادتش نسبت به همسرش کریمجان کمال صحبت کرد. این زوج که در سال ۲۰۱۴ ازدواج کرده‌اند، دارای دو فرزند دوقلو به نام‌های پیرایه و روټکای کریم هستند.",
+   "bodyFa": [
+    "دوغا روټکای کمال، بازیگری که زندگی به دور از حاشیه‌های دنیای مجلات دارد، با آخرین سخنان خود توجه مخاطبان را به خود جلب کرد. او در این اظهارات برای نخستین بار به طور واضح درباره حساسیتی که نسبت به همسرش، کریمجان کمال، دارد صحبت کرد و جزئیات جالب توجهی را به اشتراک گذاشت.",
+    "این بازیگر سرشناس در سال ۲۰۱۴ با کریمجان کمال ازدواج کرده است و این زوج دارای فرزندان دوقلویی به نام‌های پیرایه و روټکای کریم هستند. این خبر بر اساس اطلاعات منتشر شده در رسانه‌ها بازتاب داشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8f649b6d2dfd",
@@ -516,9 +638,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/erken-gelen-sohretten-bunaldi-dogup-buyudugu-yerden-kacti-burada-pesimde-gazeteciler-gezmiyor-43359345",
      "title": "Erken gelen şöhretten bunaldı, doğup büyüdüğü yerden kaçtı: Burada peşimde gazeteciler gezmiyor",
      "snippet": "Daha çocuk yaşta oynamaya başladığı dizi dünya çapında çok sevilip milyonlarca kişiyi ekran başına toplayınca o da bir anda hiç beklemediği bir şöhrete kavuşmuştu. Bu şöhretin bedelini ise ilerleyen yıllarda ödeyecekti…",
-     "published": "2026-10-29T11:18:44.000Z"
+     "published": "2026-10-29T11:18:44.000Z",
+     "titleFa": "خستگی از شهرت زودهنگام و فرار از زادگاه: اینجا روزنامه‌نگاران دنبال من نیستند"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae32648a7103ef2abe46c11.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae32648a7103ef2abe46c11.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true,
+   "titleFa": "خستگی بازیگر از شهرت زودهنگام و ترک زادگاهش به دلیل تعقیب روزنامه‌نگاران",
+   "summaryFa": "بازیگری که از کودکی با نقش‌آفرینی در یک سریال جهانی به شهرت رسیده بود، به دلیل خستگی از فشار شهرت و حضور خبرنگاران، زادگاهش را ترک کرده است.",
+   "bodyFa": [
+    "بر اساس گزارش منتشرشده، بازیگری که از دوران کودکی با بازی در یک سریال پرطرفدار جهانی به شهرتی ناگهانی و گسترده دست یافته بود، با گذشت زمان دچار خستگی از پیامدهای این شهرت زودهنگام شده است.",
+    "این فرد برای رهایی از فشارهای موجود، محل تولد و رشد خود را ترک کرده و عنوان کرده است که در محل جدید زندگی‌اش، روزنامه‌نگاران و خبرنگاران دیگر او را تعقیب نمی‌کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "25346128784a",
@@ -545,9 +685,27 @@
      "url": "https://www.sozcu.com.tr/organize-isler-de-baska-simdilerde-baska-ezgi-mola-nin-degisimi-dikkat-cekti-p373961",
      "title": "Organize İşler'de başka, şimdilerde başka: Ezgi Mola'nın değişimi dikkat çekti",
      "snippet": "Organize İşler: Karun Hazinesi projesindeki görüntüleriyle konuşulan Ezgi Mola'nın son hali merak uyandırdı. Ünlü oyuncu...",
-     "published": "2026-10-29T10:56:47.000Z"
+     "published": "2026-10-29T10:56:47.000Z",
+     "titleFa": "در «سازماندهی کارها» یک شکل، این روزها به شکلی دیگر: تغییرات ازگی مولا توجه را به خود جلب کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ezgimolaaajpg-x8djkWLs5ESKxj-PijQmxQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ezgimolaaajpg-x8djkWLs5ESKxj-PijQmxQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/organize-islerde-baska-simdilerde-baska-ezgi-molanin-degisimi-dikkat-cekti-2jpg-1bgsYG0qJEe5bc_kl6pA3Q.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/organize-islerde-baska-simdilerde-baska-ezgi-molanin-degisimi-dikkat-cekti-4jpg-Yps-64bVk0ief0KkyJo8gw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/organize-islerde-baska-simdilerde-baska-ezgi-molanin-degisimi-dikkat-cekti-3jpg-_6OM9V_4ZU2S8yXtqJAr-g.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تغییرات ظاهر ازگی مولا در پروژه «سازماندهی کارها: گنج قارون» توجه مخاطبان را جلب کرد",
+   "summaryFa": "تصاویر جدید ازگی مولا در پروژه «سازماندهی کارها: گنج قارون» باعث شد تا تغییرات این بازیگر معروف در طول زمان مورد توجه قرار گیرد و اظهارات پیشین او درباره تغذیه و ورزش یادآوری شود.",
+   "bodyFa": [
+    "تصاویر جدید ازگی مولا، بازیگر شناخته‌شده، در پروژه «سازماندهی کارها: گنج قارون» توجهات زیادی را به خود جلب کرده و ظاهر کنونی او کنجکاوی مخاطبان را برانگیخته است.",
+    "به دنبال انتشار این تصاویر، تغییرات ظاهر این بازیگر در طول زمان به موضوعی داغ تبدیل شده و همچنین سخنان گذشته وی در یک برنامه تلویزیونی درباره سبک زندگی، ورزش و تغذیه مجدداً یادآوری و مرور شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "68bb5c496c22",
@@ -574,9 +732,27 @@
      "url": "https://www.sabah.com.tr/magazin/17-yildir-bu-evde-yasiyor-hali-bile-kullanmiyor-cenk-erenin-bogaz-manzarali-evinden-dikkat-ceken-kurallar-7690843",
      "title": "17 yıldır bu evde yaşıyor, halı bile kullanmıyor! Cenk Eren’in Boğaz manzaralı evinden dikkat çeken kurallar...",
      "snippet": "17 yıldır oturduğu Boğaz manzaralı evinin kapılarını açan ünlü şarkıcı Cenk Eren, hem dekorasyon tercihleriyle hem de ev hayatına dair koyduğu sınırlarla şaşırttı. Yaşam alanındaki dikkat çekici detayları... Devamı için tıklayınız",
-     "published": "2026-10-29T10:22:42.000Z"
+     "published": "2026-10-29T10:22:42.000Z",
+     "titleFa": "۱۷ سال است در این خانه زندگی می‌کند، حتی از فرش هم استفاده نمی‌کند! قوانین جالب توجه از خانه جنگ ارن با منظره بسفر..."
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/2313ef/1200/675/49/0/752/395?u=https://isbh.tmgrup.com.tr/sbh/2026/10/29/1793268181196.jpeg",
+    "https://iasbh.tmgrup.com.tr/98a0ac/752/395/0/0/752/395?u=https://isbh.tmgrup.com.tr/sbh/2026/10/29/1793268181196.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/2026/10/29/1793268720462.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/2026/10/29/1793268706334.jpeg"
+   ],
+   "mediaDone": true,
+   "titleFa": "جزئیات جالب درباره خانه با منظره بسفر جنگ ارن پس از ۱۷ سال",
+   "summaryFa": "جنگ ارن خواننده معروف، پس از هفده سال زندگی در خانه خود با منظره بسفر، جزئیات دکوراسیون و قوانین شخصی خود در زندگی خانگی را به اشتراک گذاشت.",
+   "bodyFa": [
+    "جنگ ارن، خواننده سرشناس، درهای خانه خود را که ۱۷ سال است در آن زندگی می‌کند و دارای منظره‌ای از بسفر است، به روی علاقه‌مندان گشود. او در این باره جزئیاتی از انتخاب‌های دکوراسیون و همچنین محدودیت‌ها و قوانین خاص خود در محیط خانه را بیان کرد.",
+    "این خواننده درباره جزئیات جالب فضای زندگی خود و گوشه‌های ویژه‌ای که بیشتر وقت خود را در آن‌ها می‌گذراند، صحبت کرده و توجه مخاطبان را به سبک زندگی و نحوه میزبانی خود در این خانه جلب نمود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "317368416a2d",
@@ -603,9 +779,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/ani-gelen-sohrete-pabuc-birakmadi-bir-diziyle-yildiz-oldu-ama-yine-de-metroyla-geziyor-43359020",
      "title": "Ani gelen şöhrete pabuç bırakmadı... Genç oyuncu metroda",
      "snippet": "Her gün bindiğiniz toplu taşıma araçlarında adım başı bir ünlüye rastlamak o kadar alışıldık bir durum değil elbette. Bu yüzden de sıradan insanların her dakika kullandığı toplu taşıma araçlarına binen ünlüler hemen dikkat çekiyor.",
-     "published": "2026-10-29T10:11:15.000Z"
+     "published": "2026-10-29T10:11:15.000Z",
+     "titleFa": "آنی گلن شوهرته پابوچ ب؂راکمادی... گنچ اویونجو مترودا"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae304c5a7103ef2abe46aeb.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae304c5a7103ef2abe46aeb.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true,
+   "titleFa": "بازیگر جوان در مترو دیده شد",
+   "summaryFa": "دیدن چهره‌های مشهور در وسایل حمل‌ونقل عمومی هر روزه اتفاق نمی‌افتد و حضور آن‌ها به‌سرعت جلب توجه می‌کند.",
+   "bodyFa": [
+    "دیدن افراد مشهور در وسایل حمل‌ونقل عمومی که مردم عادی هر روز از آن‌ها استفاده می‌کنند، موضوع چندان رایجی نیست. به همین دلیل است که حضور ستارگان در این اماکن سریعاً توجه دیگران را به خود جلب می‌کند.",
+    "این گزارش به حضور یک بازیگر جوان در مترو اشاره دارد و نشان می‌دهد که این چهره با وجود دستیابی به شهرت ناگهانی، همچنان از وسایل نقلیه عمومی استفاده می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "e16c2e3d8315",
@@ -636,7 +830,8 @@
      "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-ab-grubunda-zirvede-3923426",
      "title": "'Sevdan Bir Ateş' AB grubunda zirvede!",
      "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'in 8'inci bölümü büyük ilgi gördü. Dizi, reytginlerde AB grubunda zirveye yerleşti",
-     "published": "2026-10-29T09:25:31.000Z"
+     "published": "2026-10-29T09:25:31.000Z",
+     "titleFa": "«عشقت یک آتش است» در گروه AB در صدر قرار گرفت!"
     }
    ],
    "videos": [
@@ -657,7 +852,16 @@
      "id": "IoUW79U9GLI"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "«عشقت یک آتش است» در گروه AB در صدر جدول رتبه‌بندی قرار گرفت",
+   "summaryFa": "قسمت هشتم سریال «عشقت یک آتش است» با افشای حقیقت پدری میرزا پخش شد و در گروه سنی AB رتبه اول را به دست آورد. این قسمت در شبکه‌های اجتماعی نیز بازخورد گسترده‌ای داشت.",
+   "bodyFa": [
+    "قسمت هشتم سریال «عشقت یک آتش است» محصول شبکه شو تی‌وی و سی‌ان‌پی فیلم، با ثبت نرخ بیننده ۷.۵۰ و سهم ۲۱.۸۰ درصد در گروه AB موفق شد در صدر جدول رتبه‌بندی قرار گیرد. این سریال در رده Total نرخ بیننده ۷.۸۹ و در رده 20+ABC1 نرخ بیننده ۷.۸۲ را به دست آورد. همچنین هشتگ سریال و نام شخصیت‌های میرزا و هما برای چند ساعت در فهرست ترندهای شبکه‌های اجتماعی باقی ماندند.",
+    "در داستان این قسمت، میرزا با انجام آزمایش مجدد DNA متوجه شد که هما دختر واقعی اوست. مشخص شد که یامان با پرداخت هشت میلیون لیر به آزمایشگاه، نتیجه آزمایش قبلی را به منظور انتقام تغییر داده بود. از سوی دیگر، لیلا که با مشکلات مالی روبرو شده بود، اعلام کرد از میرزا طلاق می‌گیرد و در هتل یامان مشغول به کار شد که این موضوع به درگیری شدید میان میرزا و لیلا انجامید.",
+    "در بخش دیگری از این قسمت، هما پنهانی وارد عمارت شد تا تصویر سونوگرافی قدیمی مادرش را به میرزا برساند اما توسط وسلات غافلگیر شد. همچنین دستان پس از آنکه نتوانست لیلا را با پول و طلا به رفتن قانع کند، خانه او را به هم ریخت؛ حرکتی که لیلا گمان کرد کار میرزا برای بازگرداندن او به عمارت بوده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d72c743db6c7",
@@ -688,7 +892,8 @@
      "url": "https://www.haberturk.com/magazin/lacin-ceylan-kizilcik-serbeti-nin-kadrosunda-3923429",
      "title": "Usta oyuncu, 'Kızılcık Şerbeti'nde",
      "snippet": "Usta oyuncu Laçin Ceylan, 'Kızılcık Şerbeti'nin kadrosuna katıldı. Ceylan, dizide Belgin karakterini canlandıracak",
-     "published": "2026-10-29T09:05:49.000Z"
+     "published": "2026-10-29T09:05:49.000Z",
+     "titleFa": "بازیگر پیشکسوت در «شربت زغال‌اخته»"
     },
     {
      "source": "sozcu-magazin",
@@ -696,7 +901,8 @@
      "url": "https://www.sozcu.com.tr/kizilcik-serbeti-ne-usta-oyuncu-geliyor-kivilcim-in-halasi-ortaligi-karistiracak-p374020",
      "title": "Kızılcık Şerbeti’ne usta oyuncu geliyor: Kıvılcım’ın halası ortalığı karıştıracak",
      "snippet": "Kızılcık Şerbeti’nin kadrosuna katılan Laçin Ceylan, yarın akşam yayınlanacak bölümde izleyici karşısına çıkacak. Emekli...",
-     "published": "2026-10-29T13:19:51.000Z"
+     "published": "2026-10-29T13:19:51.000Z",
+     "titleFa": "ورود بازیگر پیشکسوت به «شربت زغال‌اخته»: عمه کیویلجیم اوضاع را به هم خواهد ریخت"
     }
    ],
    "mergedIds": [
@@ -710,7 +916,42 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ae33a63f4678357b8b67574png-fydzLIBVLEePcDfGBYoFyg.png?w=320&h=248&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ae31e1af4678357b8b66ee4png-_Y_8quOF-k_rwOY_ki8f_A.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "پیوستن لاچین جیلان به سریال «شربت زغال‌اخته» در نقش عمه کیویلجیم",
+   "summaryFa": "لاچین جیلان، بازیگر مطرح ترک، به جمع بازیگران سریال «شربت زغال‌اخته» پیوست. او در نقش بلگین، عمه بازنشسته رئیس پلیس کیویلجیم، وارد داستان می‌شود.",
+   "bodyFa": [
+    "بازیگر سرشناس، لاچین جیلان، به کادر بازیگران سریال محبوب «شربت زغال‌اخته» پیوست. او قرار است در نقش شخصیتی به نام بلگین وارد این مجموعه شود و نخستین حضور او در قسمتی خواهد بود که فردا شب به روی آنتن شبکه شو تی‌وی می‌رود.",
+    "طبق اطلاعات منتشرشده، بلگین عمه شخصیت کیویلجیم و یک رئیس پلیس بازنشسته است. او به‌طور ناگهانی و سرزده از خارج از شهر وارد می‌شود و درست در میان اتفاقات پرفراز و نشیب و جنجال‌های جاری در خانه کیویلجیم قرار می‌گیرد.",
+    "این شخصیت جدید با ویژگی‌های اخلاقی همچون رک‌گویی، شوخ‌طبعی و روحیه‌ای قوی و پرنشاط تصویر شده است. بر اساس گزارش‌های رسانه‌ای، حضور بلگین هم به عنوان حامی کیویلجیم مطرح است و هم موجب تغییر تعادل‌ها و دستخوش تغییر شدن اوضاع در خانه او خواهد شد."
+   ],
+   "comparison": {
+    "agree": [
+     "لاچین جیلان به کادر بازیگران سریال شربت زغال‌اخته پیوسته است.",
+     "نقش او بلگین، عمه کیویلجیم و رئیس پلیس بازنشسته است.",
+     "نخستین حضور این بازیگر در قسمتی است که فردا شب پخش می‌شود.",
+     "ورود بلگین به‌طور سرزده از خارج از شهر و در میان حوادث خانه کیویلجیم رخ می‌دهد."
+    ],
+    "differ": [
+     {
+      "topic": "تأثیر و نقش شخصیت بلگین در داستان",
+      "views": [
+       {
+        "source": "haberturk-magazin",
+        "text": "او را فردی پرنشاط، صریح، شوخ‌طبع و پشتیبان و حامی کیویلجیم توصیف می‌کند."
+       },
+       {
+        "source": "sozcu-magazin",
+        "text": "بر تغییر تعادل‌ها و به هم خوردن اوضاع در خانه کیویلجیم با ورود او تأکید دارد."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": [
+     "جزئیات مربوط به ساخت سریال توسط شرکت گلد فیلم و تهیه‌کنندگی فاروق تورگوت تنها در منبع اول ذکر شده است."
+    ]
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0071bd6d02ed",
@@ -739,7 +980,16 @@
      "snippet": "İlişki yaşadıklarının ortaya çıkması kendi hayranlarını bile şaşırtan ünlü çift bir buçuk yıl içinde evlilik yolunda iki önemli adım birden attılar.",
      "published": "2026-10-29T08:46:48.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae30729a7103ef2abe46b24.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae30729a7103ef2abe46b24.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true
   },
   {
    "id": "4afdddd773b0",
@@ -766,7 +1016,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/kendall-jennerin-eski-sevgilisinden-hande-ercel-hamlesi-7689993",
      "title": "Kendall Jenner'ın eski sevgilisinden Hande Erçel hamlesi",
      "snippet": "NBA yıldızı Devin Booker’ın Hande Erçel’in sosyal medya paylaşımını beğenmesi magazin dünyasını hareketlendirdi. Kendall Jenner’la yaşadığı ilişkiyle gündeme gelen Booker’ın bu hamlesi, “Yeni bir aşk mı doğuyor?” yorumlarını beraberinde getirdi.",
-     "published": "2026-10-29T08:31:31.000Z"
+     "published": "2026-10-29T08:31:31.000Z",
+     "titleFa": "اقدامِ دوست پسرِ سابقِ کندال جنر برای هانده ارچل"
     }
    ],
    "images": [
@@ -777,7 +1028,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "فindlike شدن پست هande eрçel توسط devin booker",
+   "summaryFa": "لایک شدن پست هande eрçel توسط devin booker، ستاره NBA، در رسانه‌های اجتماعی جنجال‌برانگیز شده و گمانه‌زنی‌هایی درباره شروع یک رابطه جدید ایجاد کرده است.",
+   "bodyFa": [
+    "ستاره ان‌بی‌ای، devin booker، اخیراً با لایک کردن یکی از پست‌های شبکه‌های اجتماعی hande eрçel توجه رسانه‌های جمعی را به خود جلب کرد. این اقدام بازیکن سابقاً مرتبط با kendall jenner، بلافاصله در محافل زرد و رسانه‌ای بازتاب یافت.",
+    "این رویداد باعث طرح پرسش‌ها و شایعاتی مبنی بر احتمال شکل‌گیری یک رابطه عاطفی جدید میان این دو نفر شده است، هرچند که این موضوع در حد گمانه‌زنی و ادعای رسانه‌ای باقی مانده و تایید رسمی نشده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d8d332c435df",
@@ -806,7 +1065,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/beyazin-jokeri-kubat-43359086",
      "title": "Beyaz'ın 'Joker'i Kubat",
      "snippet": "Kanal D’nin sevilen yarışması Beyaz’la Joker’de Kubat rüzgarı esecek. Ünlü şovmenin yakın dostu olan sanatçı, programa yapacağı sürpriz ziyaret ve Beyaz’la seslendireceği şarkılarla bölüme renk katacak.",
-     "published": "2026-10-29T08:26:00.000Z"
+     "published": "2026-10-29T08:26:00.000Z",
+     "titleFa": "جوکر سفید، کوبات است"
     },
     {
      "source": "milliyet-magazin",
@@ -814,12 +1074,49 @@
      "url": "https://www.milliyet.com.tr/magazin/beyazin-jokeri-kubat-7690024",
      "title": "Beyaz'ın 'Joker'i Kubat",
      "snippet": "HABER MERKEZİ - Beyazıt Öztürk’ün sunumuyla cuma akşamları ekrana gelen Beyaz’la Joker’de yarışma heyecanı ve eğlence, şarkılarla taçlanacak. BU DÜET KAÇMAZ Türk halk müziğinin sevilen isimlerinden Kubat, yakın dostu Beyaz’a sürpriz yaparak programa konuk olacak. Esprilerin havada uçuşacağı anlar, K",
-     "published": "2026-10-29T09:10:25.000Z"
+     "published": "2026-10-29T09:10:25.000Z",
+     "titleFa": "جوکر سفید، کوبات است"
     }
    ],
    "mergedIds": [
     "7d212c26a721"
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae3034e33682fc5418a5904.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae3034e33682fc5418a5904.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true,
+   "titleFa": "حضور کوبات در برنامه \"بیاتلا جوکر\"",
+   "summaryFa": "کوبات، خواننده موسیقی محلی و دوست نزدیک بیازیت اوزتورک، به عنوان مهمان غافلگیرکننده در مسابقه \"بیاتلا جوکر\" حضور خواهد یافت. این برنامه جمعه شب‌ها از کانال D پخش می‌شود.",
+   "bodyFa": [
+    "برنامه تلویزیونی \"بیاتلا جوکر\" با اجرای بیازیت اوزتورک که جمعه‌ شب‌ها از شبکه کانال D پخش می‌شود، میزبان یک مهمان ویژه خواهد بود. کوبات، خواننده محبوب موسیقی محلی ترکیه و دوست نزدیک مجری برنامه، قرار است با حضور غافلگیرکننده خود در این مسابقه شرکت کند.",
+    "در این قسمت، علاوه بر هیجان مسابقه، لحظات مفرح و سرگرم‌کننده‌ای همراه با شوخی‌ها و ترانه‌هایی که کوبات و بیازیت به صورت دوتایی اجرا خواهند کرد، برای مخاطبان رقم خواهد خورد."
+   ],
+   "comparison": {
+    "agree": [
+     "برنامه \"بیاتلا جوکر\" از شبکه کانال D پخش می‌شود.",
+     "کوبات دوست نزدیک مجری برنامه است و به صورت غافلگیرکننده به برنامه می‌آید.",
+     "کوبات و بیازیت در برنامه ترانه‌هایی را با هم اجرا خواهند کرد."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات پیرامون فضای برنامه و روز پخش",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "ذکر کرده است که برنامه جمعه شب‌ها روی آنتن می‌رود و از esprilerin havada uçuşacağı anlar (لحظات پر از شوخی و طنز) نام برده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ee068b2abc96",
@@ -893,7 +1190,8 @@
      "url": "https://www.haberturk.com/magazin/foto/unlulerde-29-ekim-cumhuriyet-bayrami-paylasimlari-3923311",
      "title": "Ünlülerden 29 Ekim mesajları",
      "snippet": "Cumhuriyetimizin 103'üncü yıl dönümü yurdun dört bir yanında coşkuyla kutlanırken, ünlü isimler de sosyal medyada paylaştıkları mesajlarla bu coşkuya ortak oldu",
-     "published": "2026-10-29T07:59:30.000Z"
+     "published": "2026-10-29T07:59:30.000Z",
+     "titleFa": "پیام‌های ۲۹ اکتبر از سوی افراد مشهور"
     },
     {
      "source": "milliyet-magazin",
@@ -901,13 +1199,51 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/unlulerden-29-ekim-mesajlari-cumhuriyet-bir-ruhtur-onurdur-gururdur-7690143",
      "title": "Ünlülerden 29 Ekim mesajları! 'Cumhuriyet bir ruhtur, onurdur, gururdur'",
      "snippet": "Cumhuriyet’in 103’üncü yıl dönümü Türkiye’nin dört bir yanında büyük bir coşkuyla kutlanırken, sanat ve magazin dünyasının ünlü isimleri de 29 Ekim Cumhuriyet Bayramımıza özel mesajlarını paylaştı.",
-     "published": "2026-10-29T11:22:39.000Z"
+     "published": "2026-10-29T11:22:39.000Z",
+     "titleFa": "پیام‌های ۲۹ اکتبر از سوی افراد مشهور! «جمهوری یک روح است، افتخار است، غرور است»"
     }
    ],
    "mediaDone": true,
    "mergedIds": [
     "d08512f404d9"
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae329b3f15b2619d4a413b0.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae329c8f15b2619d4a413ce.jpg"
+   ],
+   "titleFa": "پیam‌های ۲۹ اکتبر چهره‌های سرشناس",
+   "summaryFa": "چهره‌های سرشناس با انتشار پیام‌هایی در شبکه‌های اجتماعی، سالگرد جمهوری را جشن گرفتند.",
+   "bodyFa": [
+    "در حالی که سالگرد جمهوری در سراسر کشور با شور و شوق در حال جشن گرفتن است، افراد مشهور نیز با پیام‌هایی که در شبکه‌های اجتماعی به اشتراک گذاشته‌اند، در این شور و شوق شریک شدند.",
+    "رسانه‌ها گزارش داده‌اند که چهره‌های دنیای هنر و مجله‌ای پیام‌های ویژه‌ای به مناسبت روز جمهوری ۲۹ اکتبر منتشر کرده‌اند و برخی از آن‌ها عبارت «جمهوری یک روح است، افتخار است، غرور است» را به کار برده‌اند."
+   ],
+   "comparison": {
+    "agree": [
+     "هر دو منبع به انتشار پیام‌های ۲۹ اکتبر از سوی چهره‌های سرشناس در شبکه‌های اجتماعی به مناسبت سالگرد جمهوری اشاره کرده‌اند."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات متن پیام‌های چهره‌ها",
+      "views": [
+       {
+        "source": "haberturk-magazin",
+        "text": "به جز اشاره کلی به پیام‌های چهره‌های سرشناس در شبکه‌های اجتماعی، جزئیات بیشتری از متن پیام‌ها ارائه نداده است."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "عبارت خاص «جمهوری یک روح است، افتخار است، غرور است» را به عنوان بخشی از پیام‌های ویژه این مناسبت ذکر کرده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "57bff630b3e2",
@@ -936,7 +1272,16 @@
      "snippet": "Rap’çi Murda ile ilişkisi sona eren Melisa Döngel’in Galatasaray’ın yıldız futbolcusu Lucas Torreira ile yeni bir aşka yelken açtığı iddia edildi.",
      "published": "2026-10-29T07:37:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae2f7d1a7103ef2abe46aa2.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae2f7d1a7103ef2abe46aa2.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true
   },
   {
    "id": "e89f409c79d8",
@@ -965,7 +1310,8 @@
      "snippet": "Sahnelerden yıllardır uzak olan ve yeni bir albüm hazırlığında olduğu bilinen Rihanna, tam zamanlı annelik yapıyor. Ünlü şarkıcı çocuklarıyla alışverişte görüldü",
      "published": "2026-10-29T07:32:17.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "48fb74f12648",
@@ -994,7 +1340,16 @@
      "snippet": "HABER MERKEZİ - Türk Devletleri Teşkilatı (TDT) Cumhuriyet Bayramı Konserleri kapsamında gerçekleştirilen Türk Dünyası Özel Konseri, Cumhuriyet Bayramı coşkusunu Türk dünyasının sesleri ve sahne kültürüyle buluşturdu. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy da Ankara Arena Spor Salonu’nda düzenlen",
      "published": "2026-10-29T07:31:40.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae2efeff15b2619d4a410f2.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae2efeff15b2619d4a410f2.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "fe8855557d61",
@@ -1304,46 +1659,6 @@
    ]
   },
   {
-   "id": "b0d71abc2226",
-   "url": "https://www.sozcu.com.tr/ehliyetine-el-konulmustu-unlu-oyuncu-emrah-aytemur-un-cezasi-belli-oldu-p373791",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ehliyetine el konulmuştu! Ünlü oyuncu Emrah Aytemur'un cezası belli oldu",
-   "snippet": "Ünlü oyuncu Emrah Aytemur, 30 Eylül'de İstanbul'un Kadıköy ilçesinde yapılan trafik denetiminde 2,69 promil alkollü araç...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/emrahaytemurkimdiraslennerelisevdigimsensinfermaninoynadigidiziler1jpg-i5F2WdI5D0iM3g7Vq2N8Sg.jpg",
-   "video": null,
-   "published": "2026-10-29T04:38:10.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [
-     "emrah-aytemur"
-    ],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/ehliyetine-el-konulmustu-unlu-oyuncu-emrah-aytemur-un-cezasi-belli-oldu-p373791",
-     "title": "Ehliyetine el konulmuştu! Ünlü oyuncu Emrah Aytemur'un cezası belli oldu",
-     "snippet": "Ünlü oyuncu Emrah Aytemur, 30 Eylül'de İstanbul'un Kadıköy ilçesinde yapılan trafik denetiminde 2,69 promil alkollü araç...",
-     "published": "2026-10-29T04:38:10.000Z"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/emrahaytemurkimdiraslennerelisevdigimsensinfermaninoynadigidiziler1jpg-i5F2WdI5D0iM3g7Vq2N8Sg.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/emrahaytemurkimdiraslennerelisevdigimsensinfermaninoynadigidiziler1jpg-i5F2WdI5D0iM3g7Vq2N8Sg.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/047webp-hTHVwIdgfEelj3gCHzS9Ow.webp",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/derin-deniz-eel-suruleri-ve-rov-kesfipng-ygIiNkAsEEWXsKWpvMQpMA.png?w=288&h=162&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/297jpg-elEsUZJHuE_IOILtOPEzmw.jpg?w=288&h=162&mode=crop&scale=both"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "e7159c1bfc9f",
    "url": "https://www.milliyet.com.tr/magazin/kendi-kendime-egleniyorum-7689737",
    "source": "milliyet-magazin",
@@ -1578,7 +1893,7 @@
      "title": "Sürpriz imaj değişikliği! Saçlarını kestiren Hafsanur Sancaktutan'ın son haline bakın",
      "snippet": "Dizilerin aranılan yüzlerinden oyuncu Hafsanur Sancaktutan imaj değişikliğine giderek saçlarını kestirdi. Güzel oyuncu yeni görüntüsüyle dikkat çekti.",
      "published": "2026-10-28T19:45:53.000Z",
-     "titleFa": "تغییر چهره غافلگیرکننده! به آخرین ظاهر هفسانور سانجاک‌توتان که موهایش را کوتاه کرده نگاه کنید"
+     "titleFa": "تغییر چهره غافلگیرکننده! نگاهی به آخرین وضعیت هفسانور سانجاک‌توتان که موهایش را کوتاه کرد"
     },
     {
      "source": "sozcu-magazin",
@@ -1586,7 +1901,8 @@
      "url": "https://www.sozcu.com.tr/hafsanur-sancaktutan-dan-radikal-degisim-saclarini-kisacik-kestirdi-p373942",
      "title": "Hafsanur Sancaktutan'dan radikal değişim: Saçlarını kısacık kestirdi",
      "snippet": "Mercan Köşk dizisinde Cemre karakterine hayat veren Hafsanur Sancaktutan, yeni imajıyla hayranlarının karşısına çıktı. K...",
-     "published": "2026-10-29T09:30:10.000Z"
+     "published": "2026-10-29T09:30:10.000Z",
+     "titleFa": "تغییر رادیکال از هفسانور سانجاک‌توتان: موهایش را بسیار کوتاه کرد"
     }
    ],
    "images": [
@@ -1598,18 +1914,29 @@
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
    "mediaDone": true,
-   "titleFa": "تغییر چهره غافلگیرکننده هفسانور سانجاک‌توتان با کوتاه کردن موهایش",
-   "summaryFa": "هفسانور سانجاک‌توتان، بازیگر سریال‌های تلویزیونی، ظاهر خود را تغییر داده و موهایش را کوتاه کرده است. این استایل جدید توجه زیادی را به خود جلب کرده است.",
+   "titleFa": "تغییر چهره جدید هفسانور سانجاک‌توتان با کوتاه کردن موهایش",
+   "summaryFa": "هفسانور سانجاک‌توتان با کوتاه کردن موهای خود از ظاهر جدیدش رونمایی کرد. این تغییر چهره توجه رسانه‌ها و طرفداران را به خود جلب کرده است.",
    "bodyFa": [
-    "هفسانور سانجاک‌توتان، از چهره‌های پرطرفدار سریال‌های تلویزیونی، با کوتاه کردن موهای خود دست به تغییر چهره زده است.",
-    "ظاهر و تصویر جدید این بازیگر سرشناس جلب توجه کرده و با استقبال مخاطبان روبه‌رو شده است."
+    "هفسانور سانجاک‌توتان، از بازیگران شناخته‌شده سریال‌های ترکیه‌ای، با دست زدن به یک تغییر ظاهر و کوتاه کردن موهایش توجه رسانه‌ها را جلب کرده است. این بازیگر با استایل جدید خود در برابر دوربین‌ها و مخاطبان ظاهر شده است.",
+    "طبق گزارش‌های منتشرشده، این بازیگر که در سریال «عمارت مرجان» نقش «جمره» را بر عهده دارد، دست به تغییری چشمگیر در موهای تیره‌رنگ خود زده و آن‌ها را بسیار کوتاه کرده است.",
+    "سانجاک‌توتان که پیش از این در مجموعه‌های مختلفی نظیر «گل‌پری»، «Son Yaz»، «Dünyayla Benim Aramda»، «Ya Çok Seversen» و «Siyah Kalp» بازی کرده است، این بار نه به خاطر نقش‌آفرینی‌هایش، بلکه به دلیل تغییر استایل و چهره‌اش در خبرها مطرح شده است."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "d9877f9e23a9"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "هفسانور سانجاک‌توتان موهای خود را کوتاه کرده و استایل جدیدی پیدا کرده است.",
+     "ظاهر جدید این بازیگر جلب توجه کرده است."
+    ],
+    "differ": [],
+    "unconfirmed": [
+     "ایفای نقش شخصیتی به نام جمره در سریال «عمارت مرجان» تنها در گزارش روزنامه سۆزجو ذکر شده است.",
+     "فهرست سریال‌های قبلی این بازیگر تنها توسط روزنامه سۆزجو گزارش شده است."
+    ]
+   }
   },
   {
    "id": "e5b810d7eb9a",
@@ -1876,7 +2203,8 @@
      "url": "https://www.sabah.com.tr/magazin/risk-almadi-bankanin-teklifini-kabul-etti-7690329",
      "title": "Risk almadı bankanın teklifini kabul etti",
      "snippet": "Esra Erol’un sunumuyla atv ekranında yayınlanan Var Mısın Yok Musun yarışmasının 42. bölümünde Gülşah Çınar yarıştı. Gülşah Hanım, risk almadı bankanın 775 bin liralık teklifine “Varım” dedi Devamı için tıklayınız",
-     "published": "2026-10-28T16:33:29.000Z"
+     "published": "2026-10-28T16:33:29.000Z",
+     "titleFa": "او ریسک نکرد و پیشنهاد بانک را پذیرفت"
     }
    ],
    "images": [
@@ -1887,7 +2215,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "گولشاح چینار در مسابقه «وار مسین یوک مسین» پیشنهاد بانک را پذیرفت",
+   "summaryFa": "گولشاح چینار در قسمت ۴۲ مسابقه «وار مسین یوک مسین» از پذیرش ریسک خودداری کرد و پیشنهاد ۷۷۵ هزار لیره‌ای بانک را قبول نمود.",
+   "bodyFa": [
+    "در قسمت ۴۲ مسابقه تلویزیونی «وار مسین یوک مسین» که با اجرای اسرا ارول از شبکه atv پخش می‌شود، گولشاح چینار به عنوان شرکت‌کننده حضور یافت.",
+    "او در این برنامه ترجیح داد ریسک نکند و پیشنهاد ۷۷۵ هزار لیره‌ای بانک را پذیرفت و به رقابت خود پایان داد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0358085462b9",
@@ -4823,7 +5159,7 @@
      "title": "Zirvenin sahibi: Uzak Şehir",
      "snippet": "Kanal D’nin fenomen dizisi Uzak Şehir, izleyicileri yine ekran başına kilitledi. Hamile olduğunu öğrenen Alya, güzel haberi veremeden Cihan’ın “Evleniyorum!” sözleriyle büyük yıkım yaşadı. Cihan’ın evleneceğini açıkladığı sahneye Sema Moritz’in “Hasret” isimli eseri eşlik etti. Uzak Şehir, heyecan d",
      "published": "2026-10-27T09:28:00.000Z",
-     "titleFa": "صاحب صدر جدول: شهر دور"
+     "titleFa": "صدرنشین قله: شهر دور"
     },
     {
      "source": "milliyet-magazin",
@@ -4831,7 +5167,8 @@
      "url": "https://www.milliyet.com.tr/magazin/uzak-sehirin-kalbine-sanal-yolculuk-7690177",
      "title": "Uzak Şehir'in kalbine sanal yolculuk",
      "snippet": "HABER MERKEZİ - Kanal D ekranlarının fenomen yapımı Uzak Şehir’le milyonların tanıdığı, Mardin’in Midyat ilçesinde bulunan tarihi Albora Konağı (De Basso Konağı), teknolojiyle buluşarak sınırları ortadan kaldırıyor. SINIRLAR ORTADAN KALKIYOR Kanal D ekibi tarafından geliştirilen etkileşimli sanal tu",
-     "published": "2026-10-29T12:28:41.000Z"
+     "published": "2026-10-29T12:28:41.000Z",
+     "titleFa": "سفر مجازی به قلب شهر دور"
     }
    ],
    "images": [
@@ -4843,19 +5180,41 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3712"
    ],
    "mediaDone": true,
-   "titleFa": "صاحب صدر جدول: شهر دور",
-   "summaryFa": "جدیدترین قسمت از سریال محبوب «شهر دور» با تحولات غیرمنتظره در داستان، مخاطبان را مجذوب خود کرد. در این قسمت علیا پیش از اعلام خبر بارداری‌اش، با خبر ناگهانی ازدواج جیهان شوکه می‌شود.",
+   "titleFa": "آخرین اخبار سریال «شهر دور»: تحولات داستانی جدید و راه‌اندازی تور مجازی عمارت آلبورا",
+   "summaryFa": "سریال «شهر دور» با اتفاقات دراماتیک جدید همچنان توجه مخاطبان را جلب می‌کند. همچنین تور مجازی ۳۶۰ درجه برای بازدید از لوکیشن تاریخی این سریال راه‌اندازی شده است.",
    "bodyFa": [
-    "جدیدترین قسمت از سریال پربیننده «شهر دور» که از شبکه کانال دی پخش می‌شود، بار دیگر توانست توجه گسترده مخاطبان را به خود جلب کند و در صدر توجه‌ها قرار گیرد. ماجراهای این قسمت با تحولات دراماتیک و غافلگیرکننده‌ای همراه بود که بینندگان را درگیر داستان کرد.",
-    "در جریان این قسمت، شخصیت علیا متوجه می‌شود که باردار است و تصمیم می‌گیرد این خبر خوش را اعلام کند. اما پیش از آنکه او فرصت صحبت پیدا کند، جیهان با بیان جمله «من دارم ازدواج می‌کنم!» علیا را دچار شوک و فروپاشی روحی بزرگی می‌کند.",
-    "این صحنه حساس که با اعلام تصمیم ازدواج جیهان همراه بود، با ترانه‌ای به نام «حسرت» با صدای سما موریتس صداگذاری شد و فضای دراماتیک این لحظه را برای مخاطبان دوچندان کرد."
+    "سریال پربیننده «شهر دور» از شبکه کانال د ترکیه، همچنان در صدر توجه مخاطبان تلویزیونی قرار دارد. در آخرین رخدادهای داستانی این سریال، شخصیت عالیا در حالی که متوجه بارداری خود شده، با خبر غیرمنتظره تصمیم جهان برای ازدواج روبه‌رو می‌شود. این رویداد دراماتیک که با ترانه «حسرت» اثر سما موریتس همراه بود، بازتاب زیادی میان بینندگان داشته و این مجموعه را در صدر آمار بینندگان قرار داده است.",
+    "هم‌زمان با این تحولات، تیم شبکه کانال د امکان جدیدی را برای علاقه‌مندان فراهم کرده و تور مجازی ۳۶۰ درجه و سه‌بعدی عمارت تاریخی آلبورا (عمارت د باسو) در شهرستان میدیات استان ماردین را راه‌اندازی کرده است. این عمارت که لوکیشن اصلی فیلم‌برداری سریال محسوب می‌شود، اکنون از طریق اینترنت برای طرفداران در سراسر جهان قابل بازدید تعاملی است."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "c2e69080a3bc"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "هر دو رسانه به سریال تلویزیونی «شهر دور» از شبکه کانال د اشاره دارند."
+    ],
+    "differ": [
+     {
+      "topic": "محوریت خبر",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "تمرکز بر اتفاقات داستانی جدید (بارداری عالیا و تصمیم جهان برای ازدواج) و صدرنشینی سریال در میزان بینندگان."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "تمرکز بر راه‌اندازی تور مجازی ۳۶۰ درجه و سه‌بعدی عمارت آلبورا در میدیات ماردین توسط شبکه کانال د."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": [
+     "ادعای نامزدی سریال «شهر دور» برای جایزه امی که تنها در گزارش منبع دوم (s2) مطرح شده است.",
+     "جزئیات مربوط به اتفاقات جدید داستانی و ترانه استفاده‌شده که تنها در منبع اول (s1) آمده است."
+    ]
+   }
   },
   {
    "id": "b3d896181ec7",
