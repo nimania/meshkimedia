@@ -81,7 +81,9 @@
     "news:dc9a9f542e12",
     "news:2c5341fc5d1b",
     "editorial:cast:melis-minkari",
-    "slot:2026-10-30:0"
+    "slot:2026-10-30:0",
+    "editorial:cast:selen-domac",
+    "slot:2026-10-30:1"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -104,7 +106,8 @@
     "045b982e3c7546ad33380b47",
     "ab1da9657d479d668a281a45",
     "0b2c0afc40a4e23d341d16a1",
-    "fb207480f28d4b3cdf0879a3"
+    "fb207480f28d4b3cdf0879a3",
+    "aeab5a29947c90ed70b1014f"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-28",
@@ -120,9 +123,10 @@
     "actor:ege-erkal": "2026-10-16",
     "actor:bahtiyar-memili": "2026-10-29",
     "poll:future": "2026-10-29",
-    "actor:melis-minkari": "2026-10-30"
+    "actor:melis-minkari": "2026-10-30",
+    "actor:selen-domac": "2026-10-30"
   },
-  "updated": "2026-10-30T07:16:10.158Z",
+  "updated": "2026-10-30T10:38:25.871Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
