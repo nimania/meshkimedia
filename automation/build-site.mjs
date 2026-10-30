@@ -253,6 +253,7 @@ function actorPage(pr) {
   const disp = pr.nameFa || pr.name;
   const roles = pr.credits.map((c) => c.characterFa || c.character).filter(Boolean).slice(0, 3).join("، ");
   const bioText = pr.bio || bios[pr.slug]?.fa?.text || "";
+  const creditLinks = pr.credits.slice(0, 24).map(c => c.seriesSlug ? `<a href="${root}dizi/${esc(c.seriesSlug)}/">${esc(c.titleFa || c.titleTr || "")}${c.characterFa ? "، نقش " + esc(c.characterFa) : ""}</a>` : c.workSlug ? `<a href="${root}asar/${esc(c.workSlug)}/">${esc(c.titleFa || c.titleTr || "")}</a>` : "").filter(Boolean).join(" · ");
   if (bioText) jsonld.description = bioText;
   if (pr.socials) jsonld.sameAs = Object.values(pr.socials).filter((u) => /^https:\/\//.test(u));
   const h = head(root, { title: `${disp} — بازیگر | مشکی مدیا`, desc: (bioText || `${disp} (${pr.name})، بازیگر؛ ${roles}. فیلم‌ها و سریال‌ها در مشکی مدیا.`).slice(0, 180), path: `oyuncu/${pr.slug}/`, ogImage: pr.photo, ogType: "profile", jsonld });
@@ -260,8 +261,8 @@ function actorPage(pr) {
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}oyuncular/">بازیگران</a><span>/</span><span>${esc(disp)}</span></div>
 <section class="person-hero actor-hero"><div class="person-photo ${pr.photo ? "" : "no-image"}">${pr.photo ? `<img src="${esc(pr.photo)}" alt="" onerror="this.remove();this.parentElement.classList.add('no-image')">` : ""}<span class="avatar-initial">${esc(disp.slice(0, 1))}</span></div><div><span class="kicker">بازیگر</span><h1>${esc(disp)}</h1><p class="muted-line" dir="ltr">${esc(pr.name)}</p><p class="muted-line">${esc(roles || "")}</p></div></section>
-<section class="profile-section"><div class="section-headline"><div><span>دربارهٔ بازیگر</span><h2>معرفی</h2></div></div><p id="actor-bio" class="synopsis"></p><p id="actor-bio-credit" class="bio-credit" hidden></p><div id="actor-socials" class="official-links" aria-label="شبکه‌های اجتماعی بازیگر" hidden></div><div class="profile-sources"><a id="actor-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع معرفی ↗</a>${pr.photoSource ? `<a class="gallery-source" href="${esc(pr.photoSource)}" target="_blank" rel="noopener noreferrer">منبع عکس ↗</a>` : ""}</div></section>
-<section class="profile-section"><div class="section-headline"><div><span>کارنامهٔ پیوسته</span><h2>فیلم‌ها و سریال‌ها</h2></div><small id="credit-count"></small></div><div id="credits" class="credits-grid"></div></section>
+<section class="profile-section"><div class="section-headline"><div><span>دربارهٔ بازیگر</span><h2>معرفی</h2></div></div><p id="actor-bio" class="synopsis">${esc(bioText)}</p><p id="actor-bio-credit" class="bio-credit" hidden></p><div id="actor-socials" class="official-links" aria-label="شبکه‌های اجتماعی بازیگر" hidden></div><div class="profile-sources"><a id="actor-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع معرفی ↗</a>${pr.photoSource ? `<a class="gallery-source" href="${esc(pr.photoSource)}" target="_blank" rel="noopener noreferrer">منبع عکس ↗</a>` : ""}</div></section>
+<section class="profile-section"><div class="section-headline"><div><span>کارنامهٔ پیوسته</span><h2>فیلم‌ها و سریال‌ها</h2></div><small id="credit-count"></small></div><div id="credits" class="credits-grid">${creditLinks}</div></section>
 <section id="news" class="profile-section"><div class="section-headline"><div><span>اخبار</span><h2>آخرین خبرهای ${esc(disp)}</h2></div><a class="gallery-source" href="${root}haber/">همهٔ اخبار ↗</a></div><div id="actor-news" class="news-feed"><div class="notice">در حال بارگذاری اخبار…</div></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["oyuncular/", "◉", "بازیگران", true], ["diziler/", "☰", "سریال‌ها"], ["ara/", "⌕", "جستجو"]])}`;
@@ -280,7 +281,7 @@ function characterPage(ch) {
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a href="${root}karakterler/">کاراکترها</a><span>/</span><span>${esc(disp)}</span></div>
 <section class="person-hero"><div class="person-photo ${ch.image ? "" : "no-image"}">${ch.image ? `<img src="${esc(ch.image)}" alt="" onerror="this.remove();this.parentElement.classList.add('no-image')">` : ""}<span class="avatar-initial">${esc(disp.slice(0, 1))}</span></div><div><span class="kicker">کاراکتر</span><h1>${esc(disp)}</h1><p class="muted-line" dir="ltr">${esc(ch.name)}</p><p class="muted-line" id="char-sub"></p></div></section>
-<section class="profile-section"><div class="section-headline"><div><span>داستان نقش</span><h2>دربارهٔ ${esc(disp)}</h2></div></div><p id="char-description" class="synopsis"></p><a id="char-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع نقش ↗</a><div id="char-info" class="char-info"></div></section>
+<section class="profile-section"><div class="section-headline"><div><span>داستان نقش</span><h2>دربارهٔ ${esc(disp)}</h2></div></div><p id="char-description" class="synopsis">${esc(ch.description || "")}</p><a id="char-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع نقش ↗</a><div id="char-info" class="char-info"></div></section>
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["karakterler/", "◈", "کاراکترها", true], ["diziler/", "☰", "سریال‌ها"], ["ara/", "⌕", "جستجو"]])}`;
   return h + body + boot(root, { slug: ch.slug }, ["character-page.js"]);
@@ -313,11 +314,14 @@ function listPage({ path, title, desc, kicker, h1, sub, containerId, script, act
 <div class="calendar-meta"><p id="calendar-status" role="status">در حال دریافت برنامه…</p></div>
 <p id="calendar-note" class="calendar-stale" hidden></p><nav id="calendar-strip" class="calendar-strip" aria-label="روزهای پخش"></nav><div id="calendar-feed" class="calendar-feed"></div>
 <p class="calendar-credit"><a id="calendar-source" href="https://dizilah.com/calendar" target="_blank" rel="noopener noreferrer">قدرت‌گرفته از دیزیلا ↗</a></p>`;
+  const staticLinks = path === "diziler/" ? seriesArr.map(s => `<a href="${root}dizi/${esc(s.slug)}/">${esc(s.titleFa)} (${esc(s.titleTr)})</a>`).join(" · ")
+    : path === "oyuncular/" ? Object.values(people).map(p => `<a href="${root}oyuncu/${esc(p.slug)}/">${esc(p.nameFa || p.name)}</a>`).join(" · ")
+    : path === "karakterler/" ? Object.values(characters).map(c => `<a href="${root}karakter/${esc(c.slug)}/">${esc(c.nameFa || c.name)}</a>`).join(" · ") : "";
   const body = `
 <main class="app-shell${isCalendar ? " calendar-shell" : ""}">
 <section class="intro"><span class="kicker">${kicker}</span><h1>${h1}</h1><p>${sub}</p></section>
 ${isCalendar ? calendar : containerId === "no-search" ? "" : search}
-${isCalendar ? "" : `<section class="feed-section"><div id="list" class="${containerId}"></div></section>`}
+${isCalendar ? "" : `<section class="feed-section"><div id="list" class="${containerId}">${staticLinks}</div></section>`}
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], ["diziler/", "☰", "سریال‌ها", active === "diziler/"], ["takvim/", "▤", "تقویم", active === "takvim/"], ["ara/", "⌕", "جستجو", active === "ara/"]])}`;
   return h + body + boot(root, {}, [script], version);
