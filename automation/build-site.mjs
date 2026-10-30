@@ -171,6 +171,8 @@ function seriesPage(s) {
   const dubbedTab = dubbedRecord ? `<a href="#dubbed-section">پاورقی‌ها</a>` : "";
   const dubbedSection = dubbedRecord ? `<section id="dubbed-section" class="profile-section"><div class="section-headline"><div><span>پاورقی‌های مشکی‌مدیا</span><h2>روایت قسمت‌ها و دوبله فارسی ${esc(s.titleFa)}</h2></div><a class="gallery-source" href="${root}pavaraghi/${dubbedRecord.slug}/">دیدن همه پاورقی‌ها ←</a></div>${pavaraghiGroups(dubbedRecord,dubbedRecord.entries,root,{preview:true})}</section>` : "";
   const img = s.hero || firstEpImage(s);
+  const staticEpisodes = (s.seasons || []).flatMap(season => season.episodes || []).filter(ep => Number.isFinite(Number(ep.number)));
+  const episodeLinks = staticEpisodes.length ? staticEpisodes.slice(-120).reverse().map(ep => `<a class="seo-episode-link" href="${root}dizi/${s.slug}/bolum-${ep.number}/">قسمت ${ep.number}${ep.title ? "؛ " + esc(ep.title) : ""}</a>`).join(" · ") : "";
   const jsonld = { "@context": "https://schema.org", "@type": s.kind === "entertainment" ? "TVSeries" : "TVSeries", name: s.titleTr, alternateName: s.titleFa, url: `${BASE}/dizi/${s.slug}/`, inLanguage: "tr", genre: s.genre || [], countryOfOrigin: { "@type": "Country", name: "Turkey" } };
   if (img) jsonld.image = img;
   if (net) jsonld.productionCompany = net.name;
@@ -184,12 +186,12 @@ function seriesPage(s) {
 <div class="profile-facts"><span id="network"></span><span id="airing"></span><span id="studio"></span></div>
 <div id="genre" class="genre-chips"></div></div></section>
 <nav class="profile-tabs" aria-label="بخش‌های صفحه"><a href="#about">داستان</a><a href="#cast-section">بازیگران</a><a href="#news">اخبار</a><a href="#trend">ریتینگ</a><a href="#eps">قسمت‌ها</a>${dubbedTab}</nav>
-<section id="about" class="profile-section"><div class="section-kicker">داستان</div><p id="synopsis" class="synopsis"></p><a id="synopsis-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع داستان ↗</a><div id="official-links" class="official-links"></div></section>
+<section id="about" class="profile-section"><div class="section-kicker">داستان</div><p id="synopsis" class="synopsis">${esc(s.synopsis || "")}</p><a id="synopsis-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع داستان ↗</a><div id="official-links" class="official-links"></div></section>
 <section id="series-gallery-section" class="profile-section" hidden><div class="section-headline"><div><span>تصاویر رسمی</span><h2>عکس‌های سریال</h2></div><a id="series-gallery-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع عکس‌ها ↗</a></div><div id="series-gallery" class="gallery"></div></section>
 <section id="cast-section" class="profile-section"><div class="section-headline"><div><span>بازیگران و نقش‌ها</span><h2>چه کسی چه نقشی دارد؟</h2></div><small>روی نام بازیگر یا نقش بزنید</small></div><div id="cast" class="cast-grid"></div><p id="cast-empty" class="notice" hidden>فهرست تأییدشدهٔ بازیگران این سریال هنوز تکمیل نشده است.</p></section>
 <section id="news" class="profile-section"><div class="section-headline"><div><span>اخبار</span><h2>آخرین خبرهای ${esc(s.titleFa)}</h2></div><a class="gallery-source" href="${root}haber/">همهٔ اخبار ↗</a></div><div id="series-news" class="news-feed"><div class="notice">در حال بارگذاری اخبار…</div></div></section>
 <section id="trend" class="profile-section"><div class="section-headline"><div><span>ریتینگ</span><h2>روند ریتینگ پخش به پخش</h2></div><small>Total · AB · ABC1</small></div><div id="series-trend"></div></section>
-<section id="eps" class="profile-section"><div class="section-headline"><div><span>قسمت‌ها</span><h2>ری‌کپ و ریتینگ قسمت‌ها</h2></div><small>Total · AB · ABC1</small></div><div id="episodes" class="episodes"></div></section>
+<section id="eps" class="profile-section"><div class="section-headline"><div><span>قسمت‌ها</span><h2>ری‌کپ و ریتینگ قسمت‌ها</h2></div><small>Total · AB · ABC1</small></div><div id="episodes" class="episodes">${episodeLinks}</div></section>
 ${dubbedSection}
 </main>
 ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/#episodes`, "☰", "قسمت‌ها", true], [`dizi/${s.slug}/#cast`, "◉", "بازیگران"], [net ? `kanal/${net.slug}/` : "", "▦", "شبکه"]])}`;
@@ -199,6 +201,7 @@ ${BOTTOM(root, [["", "⌂", "خانه"], [`dizi/${s.slug}/#episodes`, "☰", "ق
 // ---- Episode page ----------------------------------------------------------
 function episodePage(s, ep) {
   const root = "../../../";
+  const episodeIndexable = Boolean((ep.summary || "").trim().length >= 120) && !ep.metadataOnly && !ep.scheduled;
   const net = networks[s.network];
   const dubbedEpisode = publishedDubbedForSeries.find(d=>d.originalSeriesSlug===s.slug);
   const matchingPavaraghi = (dubbedEpisode?.entries || []).filter(e=>e.status==="published" && e.originalEpisode===ep.number && Array.isArray(e.paragraphs) && e.paragraphs.length);
@@ -209,15 +212,15 @@ function episodePage(s, ep) {
   if (img) jsonld.image = img;
   if (ep.summary) jsonld.description = ep.summary.slice(0, 300);
   const hRaw = head(root, { title: `${s.titleFa} — قسمت ${ep.number}${ep.title ? "؛ " + ep.title : ""} | مشکی مدیا`, desc: (ep.summary || `ریتینگ و وضعیت قسمت ${ep.number} سریال ${s.titleFa}`).slice(0, 180), path: `dizi/${s.slug}/bolum-${ep.number}/`, ogImage: img, ogType: "video.episode", jsonld, version: "20261009episodeorder" });
-  const h = ep.metadataOnly && !(ep.summary||"").trim() ? hRaw.replace("</head>", '<meta name="robots" content="noindex,follow"></head>') : hRaw;
+  const h = episodeIndexable ? hRaw : hRaw.replace("</head>", '<meta name="robots" content="noindex,follow"></head>');
   const body = `
 <main class="profile-shell">
 <div class="crumbs"><a href="${root}">خانه</a><span>/</span><a id="crumb-series" href="#">سریال</a><span>/</span><span>قسمت ${ep.number}</span></div>
-<section id="ep-hero" class="ep-hero"><img class="ep-hero-image" alt="" referrerpolicy="no-referrer"><span id="ep-badge" class="net-chip"></span><div class="ep-hero-copy"><p class="ep-kicker" id="ep-kicker"></p><h1 id="ep-title">قسمت ${ep.number}</h1><div class="ep-facts" id="ep-facts"></div></div></section>
+<section id="ep-hero" class="ep-hero"><img class="ep-hero-image" alt="" referrerpolicy="no-referrer"><span id="ep-badge" class="net-chip"></span><div class="ep-hero-copy"><p class="ep-kicker" id="ep-kicker"></p><h1 id="ep-title">${esc(ep.title || `قسمت ${ep.number} سریال ${s.titleFa}`)}</h1><div class="ep-facts" id="ep-facts"></div></div></section>
 <section class="ep-block ratings-big"><span class="kicker">ریتینگ این قسمت</span><h2>Total · AB · ABC1</h2><div id="ep-ratings"></div><p class="ratings-note" id="ratings-note"></p></section>
 <section class="ep-block" id="ep-trend-section"><span class="kicker">مسیر سریال</span><h2>جایگاه این قسمت در روند ریتینگ</h2><p class="trend-help">در نمای رتبه، عدد کمتر بهتر است و بالا رفتن خط یعنی بهبود جایگاه. نقطهٔ پررنگ قسمت فعلی است.</p><div id="ep-trend"></div><a class="trend-more" href="${root}reyting/#trends">مقایسه با سریال‌های دیگر ←</a></section>
 <section id="gallery-section" class="ep-block"><span class="kicker">تصاویر قسمت</span><h2>گالری</h2><div id="ep-gallery" class="gallery"></div><a id="ep-gallery-source" class="gallery-source" target="_blank" rel="noopener noreferrer" hidden>منبع عکس‌ها در شبکهٔ پخش ↗</a></section>
-<section class="ep-block"><span class="kicker">خلاصهٔ قسمت (ری‌کپ)</span><h2>چه گذشت؟</h2><p id="ep-summary" class="ep-summary"></p><div id="ep-links" class="ep-links"></div></section>
+<section class="ep-block"><span class="kicker">خلاصهٔ قسمت (ری‌کپ)</span><h2>چه گذشت؟</h2><p id="ep-summary" class="ep-summary">${esc(ep.summary || "")}</p><div id="ep-links" class="ep-links"></div></section>
 ${pavaraghiBlock}
 <div id="ep-nav" class="ep-nav"></div>
 </main>
@@ -385,7 +388,10 @@ for (const s of seriesArr) {
   for (const ep of episodes) {
     await mkdir(p(`dizi/${s.slug}/bolum-${ep.number}/`), { recursive: true });
     await writeFile(p(`dizi/${s.slug}/bolum-${ep.number}/index.html`), withSeriesTelegram(episodePage(s, ep), s.slug), "utf8"); count.episodes++;
-    urls.push({ loc: `${BASE}/dizi/${s.slug}/bolum-${ep.number}/`, pri: "0.6" });
+    // A real report summary is required. Keep metadata-only routes readable
+    // for users, but do not advertise their thin pages to Google.
+    if ((ep.summary || "").trim().length >= 120 && !ep.metadataOnly && !ep.scheduled)
+      urls.push({ loc: `${BASE}/dizi/${s.slug}/bolum-${ep.number}/`, pri: "0.6" });
   }
 }
 for (const pr of Object.values(people)) {
