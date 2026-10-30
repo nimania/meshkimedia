@@ -134,6 +134,8 @@ jobs:
         run: node automation/audit-pavaraghi.mjs
       - name: Regenerate static pages from data
         run: node automation/build-site.mjs
+      - name: Verify indexed pages are real, self-canonical and crawlable
+        run: node automation/audit-seo.mjs
       # Posts each new story (photo + title + summary + link) to the Telegram channel.
       # Needs the TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT secrets; without them it does nothing.
       - name: Post new stories to Telegram
