@@ -87,7 +87,9 @@
     "editorial:cast:melisa-berberoglu",
     "slot:2026-10-30:2",
     "editorial:cast:tugay-erdogan",
-    "slot:2026-10-30:3"
+    "slot:2026-10-30:3",
+    "editorial:dubbed-3:0",
+    "slot:2026-10-31:0"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -113,10 +115,11 @@
     "fb207480f28d4b3cdf0879a3",
     "aeab5a29947c90ed70b1014f",
     "118be1444740e59068c83728",
-    "59abc072694c41e5fb30fc2c"
+    "59abc072694c41e5fb30fc2c",
+    "0ddb034f795b42a91bd0752f"
   ],
   "lastSubjects": {
-    "episode:1": "2026-10-28",
+    "episode:1": "2026-10-31",
     "actor:ayca-aysin-turan": "2026-10-14",
     "episode:2": "2026-10-29",
     "actor:ekin-koc": "2026-10-28",
@@ -134,7 +137,7 @@
     "actor:melisa-berberoglu": "2026-10-30",
     "actor:tugay-erdogan": "2026-10-30"
   },
-  "updated": "2026-10-30T19:32:25.770Z",
+  "updated": "2026-10-31T05:55:10.488Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
