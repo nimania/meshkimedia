@@ -1,6 +1,45 @@
 {
- "updated": "2026-10-31T12:38:50.503Z",
+ "updated": "2026-10-31T13:24:15.671Z",
  "items": [
+  {
+   "id": "246dcb2faf1d",
+   "url": "https://www.haberturk.com/magazin/mahsun-kirmizigul-den-muzisyenlere-yesil-pasaport-cagrisi-3923811",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Kalabalığa şaşırdım\"",
+   "snippet": "Harbiye'de sahne alan şarkıcı Mahsun Kırmızıgül, \"Yağmur var diye kimse gelmez zannediyordum. İnsanların geldiğini görünce şaşırdım\" dedi",
+   "image": "https://im.haberturk.com/l/2026/10/30/ver1793381922/3923811/jpg/1920x1080",
+   "video": null,
+   "published": "2026-10-31T12:45:04.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/mahsun-kirmizigul-den-muzisyenlere-yesil-pasaport-cagrisi-3923811",
+     "title": "\"Kalabalığa şaşırdım\"",
+     "snippet": "Harbiye'de sahne alan şarkıcı Mahsun Kırmızıgül, \"Yağmur var diye kimse gelmez zannediyordum. İnsanların geldiğini görünce şaşırdım\" dedi",
+     "published": "2026-10-31T12:45:04.000Z",
+     "titleFa": "از جمعیت غافلگیر شدم"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "ماهسون قرمزی‌گل: از حضور جمعیت زیر باران غافلگیر شدم",
+   "summaryFa": "ماهسون قرمزی‌گل در کنسرت خود در حربیه از حضور پرشور طرفداران با وجود بارش باران ابراز شگفتی کرد. او همچنین خواستار اعطای حق بازنشستگی و پاسپورت سبز به موسیقیدانان شد.",
+   "bodyFa": [
+    "ماهسون قرمزی‌گل، خواننده سرشناس، پیش از اجرای کنسرت خود در تئاتر روباز حربیه جمیل توپوزلو، با رئیس انجمن خبرنگاران مجلات دیدار کرد و به پرسش‌های خبرنگاران پاسخ داد. او با اشاره به بارندگی گفت گمان می‌کرد به دلیل بارش باران کسی در سالن حاضر نشود، اما مشاهده حضور مردم او را شگفت‌زده و خرسند کرده است.",
+    "این هنرمند همچنین از مسئولان خواست تا برای تمامی موسیقیدانانی که مالیات خود را به صورت منظم پرداخت می‌کنند، حق بازنشستگی و دریافت پاسپورت سبز در نظر گرفته شود. وی در ادامه با تمجید از تلاش‌های هنرمندان نسل جدید، بر اهمیت خلق و برجا گذاشتن آثار ماندگار در عرصه موسیقی و سینما تأکید کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "8384d4b4fd36",
    "url": "https://www.milliyet.com.tr/magazin/nevin-kus-oldugu-agabeyi-miras-icin-harekete-gecti-iddiasi-avukatindan-aciklama-geldi-7691529",
@@ -13,7 +52,7 @@
    "video": null,
    "published": "2026-10-31T12:33:52.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -26,9 +65,33 @@
      "url": "https://www.milliyet.com.tr/magazin/nevin-kus-oldugu-agabeyi-miras-icin-harekete-gecti-iddiasi-avukatindan-aciklama-geldi-7691529",
      "title": "‘Nev’in küs olduğu ağabeyi miras için harekete geçti’ iddiası! Avukatından açıklama geldi",
      "snippet": "HABER MERKEZİ - Sanatçı Nev’in 24 Ekim’de hayatını kaybetmesinin ardından ağabeyi Mehmed Zeyyad Doğansoy hakkında ortaya atılan miras iddiaları gündem oldu. Doğansoy’un, kardeşinin ölümünün ardından mal varlığı ve özel eşyalarla ilgili işlemler başlattığı öne sürülürken, avukatından iddialara yanıt ",
-     "published": "2026-10-31T12:33:52.000Z"
+     "published": "2026-10-31T12:33:52.000Z",
+     "titleFa": "ادعای اقدام برادر قهر کرده «نو» برای ارث و میراث؛ توضیحات وکیل وی منتشر شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae5def5f52f8447c91ec971.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae5def5f52f8447c91ec971.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "embeds": [
+    {
+     "provider": "x",
+     "url": "https://x.com/milliyet/status/2115488891285143719"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "پاسخ وکیل برادر «نو» به ادعاهای مطرح‌شده درباره ارث و میراث این هنرمند",
+   "summaryFa": "در پی درگذشت «نو»، هنرمند ترکیه‌ای در ۲۴ اکتبر، ادعاهایی درباره اقدام برادرش برای تصاحب اموال او مطرح شد. اکنون وکیل برادر وی به این ادعاها پاسخ داده است.",
+   "bodyFa": [
+    "پس از درگذشت «نو»، هنرمند ترکیه‌ای در تاریخ ۲۴ اکتبر، شایعات و ادعاهایی درباره برادرش، محمد زیاد دوغان‌سوی، مطرح شد. بر اساس این ادعاها، گفته شده بود که این دو برادر با یکدیگر قهر بوده و برادرش پس از مرگ وی، برای رسیدگی به اموال و وسایل شخصی او دست‌به‌کار شده است.",
+    "در پی جنجالی شدن این ادعاها درباره ارث و میراث این هنرمند فقید، وکیل محمد زیاد دوغان‌سوی با صدور بیانیه‌ای به این اخبار پاسخ داد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4057dae1827a",
@@ -97,9 +160,27 @@
      "url": "https://www.sabah.com.tr/magazin/unlu-oyuncudan-takipcilerine-acil-cagri-sakin-inanmayin-diyerek-acikladi-7692202",
      "title": "Ünlü oyuncudan takipçilerine acil çağrı! \"Sakın İnanmayın!\" diyerek açıkladı",
      "snippet": "Ekranların sevilen yüzü, güzeller güzeli oyuncu İpek Karapınar cephesinden gelen son dakika haberi sevenlerini adeta şoke etti! Kısa bir süre önce anne olmanın mutluluğunu yaşayan ünlü yıldızın başına... Devamı için tıklayınız",
-     "published": "2026-10-31T10:53:18.000Z"
+     "published": "2026-10-31T10:53:18.000Z",
+     "titleFa": "هشدار فوری بازیگر معروف به دنبال‌کنندگانش! با گفتن «اصلاً باور نکنید!» افشا کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/21d9aa/1200/675/0/0/2048/1151?u=https://isbh.tmgrup.com.tr/sbh/2026/10/31/unlu-oyuncudan-takipcilerine-acil-cagri-sakin-inanmayin-diyerek-acikladi-1793443973295.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "هشدار فوری ایپک کاراپınar به دنبالاردارانش: اصلاً باور نکنید!",
+   "summaryFa": "بازیگر محبوب، ایپک کاراپınar که به تازگی مادر شده است، هدف فعالیت‌های سایبری قرار گرفت.",
+   "bodyFa": [
+    "خبری فوری و عجیب از ایپک کاراپınar، بازیگر محبوب و شناخته‌شده، باعث شوکه شدن طرفداران او شد. این ستاره که زمان کوتاهی از تجربه شیرین مادر شدنش می‌گذرد، با یک اتفاق ناگوار مواجه شده است.",
+    "بر اساس اطلاعات منتشر شده، این بازیگر معروف هدف حملات و فعالیت‌های مجرمان سایبری قرار گرفته است. او با انتشار پیامی فوری از دنبال‌کنندگان خود خواست که به هیچ وجه به موارد مطرح شده باور نداشته باشند و هوشیار باشند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1bcfd0db465f",
@@ -126,9 +207,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/uc-yillik-evlilige-son-nokta-pembe-gozlukleri-cikardi-bosanma-davasini-acti-43361308",
      "title": "Üç yıllık evliliğe son nokta: Pembe gözlükleri çıkardı, boşanma davasını açtı",
      "snippet": "Gayet kendine özgü bir törenle hayatlarını birleştiren ünlü çiftin evliliği sadece üç yılda bitti... Bir süredir aralarının bozuk olduğu konuşulan çift sonunda boşanma davasını açtı.",
-     "published": "2026-10-31T10:31:51.000Z"
+     "published": "2026-10-31T10:31:51.000Z",
+     "titleFa": "پایان ازدواج سه ساله: عینک خوش‌بینی را برداشت، دادخواست طلاق را ثبت کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae59615c44e39ea41369ed9.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae59615c44e39ea41369ed9.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true,
+   "titleFa": "پایان زندگی مشترک سه ساله یک زوج مشهور با ثبت دادخواست طلاق",
+   "summaryFa": "زوج مشهوری که با مراسمی خاص با یکدیگر ازدواج کرده بودند، پس از گذشت سه سال و به دنبال مشکلاتی که مدتی بود میانشان وجود داشت، درخواست طلاق دادند.",
+   "bodyFa": [
+    "بر اساس گزارش‌های منتشر شده، ازدواج یک زوج معروف که پیش‌تر با مراسمی منحصربه‌فرد آغاز شده بود، پس از سه سال به نقطه پایان رسید.",
+    "این زوج که مدتی بود شایعاتی درباره تیرگی روابطشان به گوش می‌رسید، در نهایت تصمیم گرفتند دادخواست طلاق خود را به طور رسمی ثبت کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f1a6ee6b6d6b",
@@ -155,9 +254,26 @@
      "url": "https://www.haberturk.com/magazin/levent-inanir-evler-saatler-paralar-nerede-3923911",
      "title": "\"Evler, saatler, paralar nerede?\"",
      "snippet": "Türk sinemasının efsane ismi Kadir İnanır’ın vasiyeti ve mirası gündemden düşmüyor. 26 Haziran'da vefat eden oyuncunun hayat arkadaşı Jülide Kural ile yeğeni Levent İnanır arasındaki polemik sürüyor",
-     "published": "2026-10-31T10:22:04.000Z"
+     "published": "2026-10-31T10:22:04.000Z",
+     "titleFa": "خانه‌ها، ساعت‌ها و پول‌ها کجا هستند؟"
     }
-   ]
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "WbuZ6qN6in4"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "ادامه مناقشه بر سر میراث قادر اینانیر میان شریک زندگی و برادرزاده‌اش",
+   "summaryFa": "پس از درگذشت قادر اینانیر، اختلافات میان شریک زندگی او و برادرزاده‌اش بر سر میزان و سرنوشت اموال وی بالا گرفته است. لونت اینانیر مدعی حیف‌ومیل اموال شده و جولیده کورال داشتن ثروت کلان را تکذیب کرده است.",
+   "bodyFa": [
+    "پس از درگذشت قادر اینانیر، بازیگر برجسته سینمای ترکیه در ۲۶ ژوئن، بحث و مناقشه بر سر میراث و اموال او همچنان ادامه دارد. لونت اینانیر، برادرزاده این هنرمند، در گفت‌وگو با شبکه شو خبر به تندی از جولیده کورال، شریک زندگی قادر اینانیر انتقاد کرده و مدعی شده که دارایی‌های واقعی عمویش نابود و حیف‌ومیل شده است. او همچنین پرسیده که پول خانه‌های فروخته‌شده در سال ۲۰۲۵ کجاست.",
+    "لونت اینانیر تاکید کرده است که خودش نیازی به پول عمویش ندارد، اما دیگر برادرزادگان او نیازمند هستند. در طرف مقابل، جولیده کورال ادعاهای مطرح‌شده درباره وجود ثروت بزرگ را تکذیب کرده و سخنان مطرح‌شده را غیرواقعی و حمله‌ای به حقوق شخصی خود دانسته است.",
+    "به گفته جولیده کورال، کل دارایی‌های قادر اینانیر تنها شامل خانه‌ای که با هم در آن زندگی می‌کردند، سه خودروی قدیمی و مقداری پس‌انداز بانکی است. او ادعای وجود ۲۵ ساعت لوکس را رد کرد و توضیح داد که مجموعه قورباغه‌های این بازیگر نیز ارزش معنوی دارد و دارای ارزش مالی خاصی نیست."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c48c43b20b4f",
@@ -188,7 +304,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/guller-ve-gunahlar-setinde-eglence-dolu-anlar-43361552",
      "title": "Güller ve Günahlar setinde eğlence dolu anlar",
      "snippet": "Kanal D’nin sevilen dizisi Güller ve Günahlar izleyicileri heyecan dolu hikâyesiyle buluştururken, set arkasında ise kahkaha ve eğlence hiç eksik olmuyor. Başarılı oyuncu kadrosuyla dikkat çeken dizinin çekimlerinde samimi ve sıcacık bir ekip ruhu yaşanıyor.",
-     "published": "2026-10-31T10:15:16.000Z"
+     "published": "2026-10-31T10:15:16.000Z",
+     "titleFa": "لحظات پر از سرگرمی در پشت صحنه گل‌ها و گناهان"
     },
     {
      "source": "milliyet-magazin",
@@ -196,7 +313,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/guller-ve-gunahlar-setinde-eglence-dolu-anlar-7691386",
      "title": "Güller ve Günahlar setinde eğlence dolu anlar",
      "snippet": "Kanal D’nin sevilen dizisi Güller ve Günahlar izleyicileri heyecan dolu hikâyesiyle buluştururken, set arkasında ise kahkaha ve eğlence hiç eksik olmuyor.",
-     "published": "2026-10-31T10:21:21.000Z"
+     "published": "2026-10-31T10:21:21.000Z",
+     "titleFa": "لحظات پر از سرگرمی در پشت صحنه گل‌ها و گناهان"
     }
    ],
    "mergedIds": [
@@ -210,7 +328,25 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "لحظات پر از سرگرمی در پشت صحنه سریال «گل‌ها و گناهان»",
+   "summaryFa": "پشت صحنه سریال «گل‌ها و گناهان» شبکه Kanal D شاهد فضایی پر از خنده و سرگرمی است. اعضای این پروژه روحیه‌ای صمیمی در زمان فیلم‌برداری دارند.",
+   "bodyFa": [
+    "سریال «گل‌ها و گناهان» که از شبکه Kanal D پخش می‌شود، علاوه بر ارائه داستانی هیجان‌انگیز برای مخاطبان، در پشت صحنه نیز فضایی شاد و پر از خنده دارد. بر اساس گزارش‌های منتشرشده، جریان فیلم‌برداری این اثر با سرگرمی و نشاط همراه است.",
+    "همچنین به حضور کادر بازیگران موفق در این پروژه اشاره شده است که روحیه‌ای گرم و صمیمی میان اعضای تیم تولید ایجاد کرده‌اند."
+   ],
+   "comparison": {
+    "agree": [
+     "سریال «گل‌ها و گناهان» از شبکه Kanal D پخش می‌شود.",
+     "پشت صحنه و مراحل فیلم‌برداری این سریال پر از خنده و سرگرمی است."
+    ],
+    "differ": [],
+    "unconfirmed": [
+     "حضور کادر بازیگران موفق و وجود روحیه تیمی صمیمی در پشت صحنه (تنها در منبع اول s1 ذکر شده است)."
+    ]
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a0866b4fc61b",
@@ -239,47 +375,16 @@
      "snippet": "Antalya'da hava koşulları nedeniyle ertelenen Cumhuriyet Bayramı konseri, maNga'nın sahne performansıyla gerçekleşti. Hasan Doğan Stadyumu'nu dolduran binlerce kişi, Türk bayrakları ve cep telefonu ışıklarıyla unutulmaz bir gece yaşadı.",
      "published": "2026-10-31T10:07:09.000Z"
     }
-   ]
-  },
-  {
-   "id": "c423762bd42a",
-   "url": "https://www.sozcu.com.tr/mert-demir-neye-ugradigini-sasirdi-erkek-hayranindan-beklenmedik-hareket-p374580",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Mert Demir neye uğradığını şaşırdı: Erkek hayranından beklenmedik hareket",
-   "snippet": "Cumhuriyet’in 103. yıl kutlamalarında Yenikapı’da sahne alan Mert Demir, yağmur altında verdiği konserde beklenmedik bir...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/meret-demirpng-EIWyQok15EWTvMexi6urZw.png",
-   "video": null,
-   "published": "2026-10-31T10:06:40.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/mert-demir-neye-ugradigini-sasirdi-erkek-hayranindan-beklenmedik-hareket-p374580",
-     "title": "Mert Demir neye uğradığını şaşırdı: Erkek hayranından beklenmedik hareket",
-     "snippet": "Cumhuriyet’in 103. yıl kutlamalarında Yenikapı’da sahne alan Mert Demir, yağmur altında verdiği konserde beklenmedik bir...",
-     "published": "2026-10-31T10:06:40.000Z"
-    },
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/mert-demir-neye-ugradigini-sasirdi-sahneye-cikan-erkek-hayrani-boynundan-optu-7691355",
-     "title": "Mert Demir neye uğradığını şaşırdı! Sahneye çıkan erkek hayranı boynundan öptü",
-     "snippet": "Mert Demir’in Yenikapı’daki 29 Ekim konserinde beklenmedik anlar yaşandı. Sahneye çıkan erkek bir hayranın ünlü şarkıcıyı boynundan öptü. Neye uğradığını şaşıran şarkıcı bir süre şarkıya devam edemedi.",
-     "published": "2026-10-31T11:47:20.000Z"
-    }
    ],
-   "mergedIds": [
-    "823495f38c92"
-   ]
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae5bd77f52f8447c91ec8b2.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae5bd77f52f8447c91ec8b2.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "1907cedc6d48",
@@ -306,9 +411,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/izmir-kultur-yolu-festivalinde-mozart-aksami-7691371",
      "title": "İzmir Kültür Yolu Festivali'nde 'Mozart Akşamı'",
      "snippet": "İzmir Kültür Yolu Festivali'nin yedinci gününde Murat Boz, Gündoğdu Meydanı'nda binlerce müzikseverle buluştu. Mozart konserinden Neşet Ertaş türkülerine, sergilerden çocuk atölyelerine kadar birçok etkinlik İzmir'de sanat dolu anlar yaşattı.",
-     "published": "2026-10-31T09:25:12.000Z"
+     "published": "2026-10-31T09:25:12.000Z",
+     "titleFa": "«شب موتزارت» در جشنواره مسیر فرهنگ ازمیر"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae5b363f52f8447c91ec898.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae5b363f52f8447c91ec898.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "برگزاری رویدادهای هنری در جشنواره مسیر فرهنگ ازمیر",
+   "summaryFa": "هفتمین روز از جشنواره مسیر فرهنگ ازمیر با برنامه‌های متنوعی از جمله اجرای مراد بوز و کنسرت‌های مختلف همراه بود.",
+   "bodyFa": [
+    "در هفتمین روز از جشنواره مسیر فرهنگ ازمیر، برنامه‌های هنری متعددی برگزار شد که با استقبال علاقه‌مندان به هنر و موسیقی مواجه گردید. از جمله این رویدادها، حضور مراد بوز در میدان گوندوغدو و دیدار او با هزاران تن از دوستداران موسیقی بود که لحظات پرشوری را رقم زد.",
+    "علاوه بر این اجرا، مجموعه‌ای از فعالیت‌های فرهنگی شامل کنسرت‌های موسیقی، ترانه‌های محلی، نمایشگاه‌های گوناگون و کارگاه‌های آموزشی ویژه کودکان در جریان این جشنواره به اجرا درآمد که فضای هنری ویژه‌ای را در ازمیر ایجاد کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "e1a1f9c460e8",
@@ -335,9 +458,20 @@
      "url": "https://www.haberturk.com/magazin/firat-tanis-52-yasindayim-biraz-gec-kaldik-3923905",
      "title": "\"52 yaşındayım, biraz geç kaldık\"",
      "snippet": "Ünlü oyuncu Fırat Tanış ile yönetmen sevgilisi Zeynep Günay, Bebek'te görüntülendi",
-     "published": "2026-10-31T09:18:21.000Z"
+     "published": "2026-10-31T09:18:21.000Z",
+     "titleFa": "۵۲ ساله هستم، کمی دیر کرده‌ایم"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "دیدار فرات تانیش و زینب گونای در ببک",
+   "summaryFa": "فرات تانیش، بازیگر سرشناس، به همراه زینب گونای، کارگردان و شریک زندگی‌اش، در منطقه ببک دیده شدند. او در گفتگو با خبرنگاران درباره اهمیت روز جمهوری و فعالیت‌های هنری‌اش صحبت کرد.",
+   "bodyFa": [
+    "فرات تانیش، بازیگر نام‌آشنا، به همراه زینب گونای، کارگردان و شریک زندگی خود، در ۲۹ اکتبر مصادف با روز جمهوری در منطقه ببک دیده شدند و توجه عکاسان را به خود جلب کردند.",
+    "این بازیگر در گفتگو با خبرنگاران، ضمن گرامیداشت روز جمهوری و تأکید بر اینکه همه ما مدیون جمهوری هستیم، تئاتر را دنیایی بسیار متفاوت و لذت‌بخش نسبت به سینما و تلویزیون توصیف کرد.",
+    "تانیش همچنین در خصوص آرزوهای آینده خود با اشاره به سن ۵۲ سالگی‌اش بیان کرد که انسان آرزوهای تمام‌نشدنی دارد، اما شاید برای برخی چیزها کمی دیر شده باشد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a9005084c650",
@@ -364,9 +498,27 @@
      "url": "https://www.sabah.com.tr/magazin/kirgin-ciceklerin-songulu-34-yasinda-gokce-akyildiz-yeni-yasina-boyle-girdi-7692159",
      "title": "Kırgın Çiçekler'in Songül'ü 34 yaşında! Gökçe Akyıldız yeni yaşına böyle girdi",
      "snippet": "'Kırgın Çiçekler' dizisinin asi ve sevilen karakteri Songül ile hafızalara kazınan güzel oyuncu Gökçe Akyıldız'ın yeni yaş kutlaması sosyal medyayı salladı! Ünlü ismin doğum gününde ortaya çıkan o özel... Devamı için tıklayınız",
-     "published": "2026-10-31T08:54:39.000Z"
+     "published": "2026-10-31T08:54:39.000Z",
+     "titleFa": "سونگولِ سریال غنچه‌های زخمی ۳۴ ساله شد! گوکچه آکییلدیز این‌گونه وارد سن جدید خود شد"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/4774ea/1200/675/0/213/2048/1365?u=https://isbh.tmgrup.com.tr/sbh/2026/10/31/kirgin-ciceklerin-songulu-34-yasinda-gokce-akyildiz-yeni-yasina-boyle-girdi-1793436345384.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن تولد ۳۴ سالگی گوکچه آکییلدیز، بازیگر سریال غنچه‌های زخمی",
+   "summaryFa": "گوکچه آکییلدیز، بازیگر نقش سونگول در سریال «غنچه‌های زخمی»، ۳۴ سالگی خود را جشن گرفت. انتشار تصاویر جشن تولد او در شبکه‌های اجتماعی توجه مخاطبان را جلب کرده است.",
+   "bodyFa": [
+    "گوکچه آکییلدیز، بازیگر ترکیه‌ای که با بازی در نقش شخصیت سونگول در سریال محبوب «غنچه‌های زخمی» (Kırgın Çiçekler) شناخته می‌شود، ورود به ۳۴ سالگی خود را جشن گرفته است.",
+    "تصاویر و عکس‌های منتشرشده از جشن تولد این بازیگر در شبکه‌های اجتماعی بازتاب داشته و مورد توجه کاربران قرار گرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ddd5ddb7a69f",
@@ -393,9 +545,20 @@
      "url": "https://www.haberturk.com/magazin/hande-ercel-devin-booker-sorularini-yanitsiz-birakti-3923829",
      "title": "Hande'nin, Booker sessizliği",
      "snippet": "Hande Erçel, ablası Gamze Erçel ile Etiler'de objektiflere yansıdı. Ünlü oyuncu, Devin Booker'ın sosyal medya beğenisiyle ilgili soruları yanıtsız bıraktı",
-     "published": "2026-10-31T08:22:50.000Z"
+     "published": "2026-10-31T08:22:50.000Z",
+     "titleFa": "سکوت هانده در برابر بوکر"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "سکوت هانده ارچل در برابر سوالات درباره ارن بوکر",
+   "summaryFa": "هانده ارچل در پاسخ به سوالات خبرنگاران درباره لایک شدن عکس‌هایش توسط دوین بوکر سکوت کرد. او به همراه خواهرش در منطقه اتیلر دیده شد.",
+   "bodyFa": [
+    "هانده ارچل، بازیگر معروف، به همراه خواهرش گامزه ارچل که در انتظار فرزند دوم خود است، در منطقه اتیلر از یک آرایشگاه خارج می‌شدند که توسط خبرنگاران دیده شدند.",
+    "مدتی پیش، تصاویر منتشر شده از سوی هانده ارچل در شبکه اجتماعی‌اش توسط ستاره ان‌بی‌ای، دوین بوکر لایک شده بود. خبرنگاران در این خصوص از این بازیگر سوالاتی پرسیدند.",
+    "با این حال، هانده ارچل ترجیح داد پاسخی به این سوالات ندهد و در سکوت، سوار اتومبیل خود شده و به سرعت محل را ترک کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "926195d0eaf4",
@@ -422,9 +585,27 @@
      "url": "https://www.sabah.com.tr/magazin/milli-yildiz-gizem-orgeden-milyonlari-gozyaslarina-bogan-anne-baba-itirafi-beni-tek-eliyle-buyuttu-7692142",
      "title": "Milli yıldız Gizem Örge'den milyonları gözyaşlarına boğan \"anne-baba\" itirafı! \"Beni tek eliyle büyüttü\"",
      "snippet": "Filenin Sultanları'nın yıldız ismi Gizem Örge, ailesi pek de konuşulmayan önemli bir acı gerçeği anlattı. Ünlü voleybolcunun anne ve babasının engel durumlarının arkasındaki akılalmaz nedenleri duyanlar... Devamı için tıklayınız",
-     "published": "2026-10-31T08:19:46.000Z"
+     "published": "2026-10-31T08:19:46.000Z",
+     "titleFa": "اعتراف «مادر-پدر» که میلیون‌ها نفر را به گریه انداخت از ستاره ملی‌پوش گیزم اورگه! «او مرا با یک دست بزرگ کرد»"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/d64b9f/1200/675/0/48/1200/723?u=https://isbh.tmgrup.com.tr/sbh/2026/10/31/milli-yildiz-gizem-orgeden-milyonlari-gozyaslarina-bogan-anne-baba-itirafi-beni-tek-eliyle-buyuttu-1793433957071.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "اعترافات تلق «گیزم اورگه» درباره خانواده اش",
+   "summaryFa": "گیزم اورگه، ستاره تیم ملی والیبال زنان، درباره وضعیت معلولیت پدر و مادر خود صحبت کرد و جزئیات تلقی از زندگی اش را شرح داد.",
+   "bodyFa": [
+    "گیزم اورگه، یکی از چهره‌های سرشناس تیم ملی والیبال زنان ترکیه ملقب به «سلطان‌های تور»، اخیراً درباره مسائل مربوط به خانواده خود اظهاراتی بیان کرده است. او در این باره به حقیقت تلخ و کمتر گفته‌شده‌ای اشاره کرده که توجه مخاطبان را به خود جلب کرده است.",
+    "طبق گزارش‌های منتشر شده، این ورزشکار ملی پوش درباره وضعیت معلولیت پدر و مادرش و دلایل آن صحبت کرده است. داستان زندگی و سختی‌هایی که او از سر گذرانده، واکنش‌های عاطفی شدیدی را در میان دنبال‌کنندگان و مخاطبان به همراه داشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f9073c7f2f5d",
@@ -453,7 +634,16 @@
      "snippet": "Ne kendisi ne de çocuklarının annesi öyle zengin ailelerde geliyordu. Ortalama bir hayat içinde büyüyüp; çalışıp çabalayarak hatırı sayılır bir servet elde ettiler.",
      "published": "2026-10-31T08:19:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae5a4b2c44e39ea41369f1f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae5a4b2c44e39ea41369f1f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true
   },
   {
    "id": "577e7ef747b8",
@@ -480,9 +670,20 @@
      "url": "https://www.haberturk.com/magazin/macklemore-ozgur-filistin-turnesi-nin-son-konserini-londra-da-verdi-3923887",
      "title": "\"Gazze'deki çocuklar, hepimizin çocuğu\"",
      "snippet": "Filistin'e destek açıklamaları nedeniyle İngiliz şarkıcı Ed Sheeran'ın turnesinden çıkarılan ABD'li rapçi Macklemore, gelirini Filistin halkını savunan kuruluşlara bağışlayacağı \"Özgür Filistin Turnesi\"nin son konserini Londra'da verdi",
-     "published": "2026-10-31T08:06:09.000Z"
+     "published": "2026-10-31T08:06:09.000Z",
+     "titleFa": "«Gazze'deki çocuklar, hepimizin çocuğu»"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "برگزاری کنسرت «آزادی فلسطین» با حضور مکلمور و چهره‌های سرشناس در لندن",
+   "summaryFa": "مکلمور، رپر آمریکایی، آخرین کنسرت تور حمایتی خود از فلسطین را در لندن برگزار کرد. عواید این کنسرت به سازمان‌های مدافع مردم فلسطین اختصاص می‌یابد.",
+   "bodyFa": [
+    "مکلمور، رپر آمریکایی که پیش‌تر به دلیل حمایت از فلسطین از تور هنری دیگری کنار گذاشته شده بود، آخرین اجرای تور «آزادی فلسطین» را در سالن OVO آرنا در منطقه ومبلی لندن روی صحنه برد. درآمد حاصل از این کنسرت قرار است به سازمان‌هایی که از مردم فلسطین دفاع می‌کنند، اهدا شود.",
+    "پیش از اجرای اصلی مکلمور، چهره‌های مختلفی از جمله گرتا تونبرگ فعال محیط زیست، استفان کاپوس بازمانده هولوکاست، آنتوان رافول از شاهدان نکبه، و پالوما فایث خواننده بریتانیایی به سخنرانی و اجرای برنامه پرداختند. همچنین در این مراسم پیام‌هایی از سوی خاویر باردم و همچنین اجرای گروه کر کودکان غزه به نمایش درآمد.",
+    "مکلمور در جریان این کنسرت با اشاره به اینکه خودش سه فرزند دارد، بیان کرد که پس از آغاز درگیری‌ها و مشاهده فجایع از طریق صفحات تلفن همراه، سکوت کردن برایش غیرقابل تحمل شده بود و سخن گفتن را وظیفه‌ای انسانی دانست."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8d523b767680",
@@ -509,9 +710,27 @@
      "url": "https://www.sozcu.com.tr/bahar-sahin-kendisine-gelen-senaryoyu-ifsa-etti-edep-yahu-ahlak-yok-mu-p374530",
      "title": "Bahar Şahin kendisine gelen senaryoyu ifşa etti: 'Edep yahu, ahlak yok mu?'",
      "snippet": "Oyuncu Bahar Şahin, kendisine gelen senaryolarda karşılaştığı dikkat çekici hikâyeyi anlattı. Özellikle kötü karakterler...",
-     "published": "2026-10-31T07:41:24.000Z"
+     "published": "2026-10-31T07:41:24.000Z",
+     "titleFa": "بهار شاهین سناریوی دریافتی خود را افشا کرد: «ادب شو، اخلاق نداری؟»"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/baharpng-31zTNXpJFk2qrwzzXPcehw.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/baharpng-31zTNXpJFk2qrwzzXPcehw.png?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/bahar-sahinpng-DoTfRpoutUmoZInio9YQLA.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/bahar-1png-_QdaK-1JGk2JWVfAjnaVwg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/yeni-proje-20261031t094828393png-PCtTvs_Fu0mVQq_sMccmtA.png?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "افشاگری بهار شاهین درباره سناریوهای دریافتی و انتقاد از نحوه نگارش شخصیت‌های منفی",
+   "summaryFa": "بهار شاهین، بازیگر سینما و تلویزیون، از داستان‌ها و نحوه نگارش شخصیت‌های منفی در سناریوهایی که به دستش می‌رسد انتقاد کرد. او با ابراز تعجب از محتوای این فیلم‌نامه‌ها واکنش نشان داد.",
+   "bodyFa": [
+    "بهار شاهین، بازیگر شناخته‌شده‌ای که در سریال‌هایی همچون «او hayat Benim»، «ظالم استانبول»، «Gülümse Kaderine» و «Aynı Yağmur Altında» به ایفای نقش پرداخته است، اخیراً درباره سناریوهایی که به دستش می‌رسد دست به افشاگری زد. این بازیگر به دلیل نحوه نگارش داستان‌ها و به ویژه شیوه پرداختن به شخصیت‌های منفی در فیلم‌نامه‌های دریافتی، انتقاد کرد.",
+    "واکنش این بازیگر به محتوای برخی از این سناریوها و استفاده از عباراتی در انتقاد از آن بازتاب داشته است. او با ابراز تعجب از روند نگارش این آثار، نکاتی را درباره وضعیت متن‌های ارسالی مطرح کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8686cc9869ef",
@@ -538,9 +757,20 @@
      "url": "https://www.haberturk.com/magazin/foto/unluler-antalya-da-3923867",
      "title": "\"Özcan Deniz'e büyük saygı duydum\"",
      "snippet": "\"Cinlerin Düğünü\" ve \"Son Yemek\" filmlerinin Türkiye prömiyeri, 63. Uluslararası Antalya Altın Portakal Film Festivali kapsamında yapıldı. Öykü Karayel, \"Son Yemek\" filminde birlikte rol aldığı Özcan Deniz'e övgü dolu ifadeler kullandı",
-     "published": "2026-10-31T07:37:28.000Z"
+     "published": "2026-10-31T07:37:28.000Z",
+     "titleFa": "«Özcan Deniz'e büyük saygı duydum»"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "پرMier فیلم‌های «جینلرین دوغونو» و «سون یه‌مک» در جشنواره فیلم آنتالیا",
+   "summaryFa": "پرMier فیلم‌های «جینلرین دوغونو» و «سون یه‌مک» در جریان شصت و سومین جشنواره بین‌المللی فیلم پرتقال طلایی آنتالیا برگزار شد. اویکو کارایل از هم‌بازی خود، اوزجان دنیز، تمجید کرد.",
+   "bodyFa": [
+    "پرMier فیلم‌های «جینلرین دوغونو» و «سون یه‌مک» در قالب شصت و سومین جشنواره بین‌المللی فیلم پرتقال طلایی آنتالیا برگزار شد. فیلم «جینلرین دوغونو» به نویسندگی و کارگردانی فریت کاراهان و با بازی بازیگرانی همچون دمت اوزدمیر، کاان ایلدیریم، ایلهان شن، هلین کاندمیر، سارپ بوزکورت، اولیا آیکان و طوبا اونسال در بخش مسابقه ملی بلند به نمایش درآمد و با استقبال مخاطبان روبه‌رو شد.",
+    "دمت اوزدمیر طی نشست پرسش و پاسخ پس از انمایش، درباره نقش خود به نام جرن توضیحاتی ارائه داد و اشاره کرد که مشکلات زنان و مبارزه آن‌ها برای بقا مربوط به یک جغرافیای خاص نیست. این فیلم که داستان چهار خواهر را روایت می‌کند، قرار است در تاریخ ۶ نوامبر اکران شود.",
+    "همچنین فیلم «سون یه‌مک» به نویسندگی، کارگردانی و بازیگری اوزجان دنیز در بخش گالای ملی در مرکز فرهنگی آتاتورک به نمایش درآمد. اویکو کارایل که در این اثر با اوزجان دنیز هم‌بازی است، سخنان بسیار مثبتی درباره او ابراز کرد و گفت که احترام زیادی برای او قائل است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "59e81b7b1095",
@@ -567,9 +797,20 @@
      "url": "https://www.haberturk.com/magazin/somer-sef-in-restoranina-kayyum-atandi-3923879",
      "title": "Somer Şef'in restoranına kayyum atandı",
      "snippet": "Ünlü şef Somer Sivrioğlu'nun Avustralya'nın Sidney kentinde bulunan restoranı, vergi borçları nedeniyle kayyum yönetimine devredildi. Restoranın 72,4 milyon TL borcu olduğu öğrenildi",
-     "published": "2026-10-31T07:24:57.000Z"
+     "published": "2026-10-31T07:24:57.000Z",
+     "titleFa": "رستوران سرآشپز سومر تحت مدیریت تصفیه قرار گرفت"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "تعیين مدیر تصفیه برای رستوران سومر شیورئوگلو در استرالیا",
+   "summaryFa": "رستوران سومر شیورئوگلو در سیدنی به دلیل ناتوانی در پرداخت بدهی‌های مالیاتی به مدیریت دولتی واگذار شد. این سرآشپز معروف اعلام کرد که با وجود تلاش برای توافق مالی، درخواست‌هایشان رد شده است.",
+   "bodyFa": [
+    "رستوران «اناسون» متعلق به سرآشپز سرشناس، سومر شیورئوگلو، که در سال ۲۰۱۵ در شهر سیدنی استرالیا افتتاح شده بود، به دلیل عدم توانایی در اجرای تعهدات مالیاتی تحت مدیریت و نظارت دولتی قرار گرفت.",
+    "بر اساس اطلاعات منتشر شده، این رستوران مبلغی معادل ۲ میلیون و ۶۰ هزار دلار استرالیا، که رقمی در حدود ۷۲.۴ میلیون لیر ترکیه می‌شود، به اداره امور مالیاتی استرالیا بدهکار است.",
+    "سومر شیورئوگلو در این خصوص اظهار داشت که این مجموعه کسب‌وکاری موفق بوده، اما در دوره‌ای دشوار انباشت سریع بدهی‌های مالیاتی مانع از پرداخت آن‌ها شده است. وی همچنین اشاره کرد که با وجود درخواست برای ساختاردهی مجدد کسب‌وکارهای کوچک و طرح بازپرداخت ۳۰ ماهه، پس از ماه‌ها انتظار پاسخی دریافت نکرده‌اند و این مجموعه حدود پنج سال است که با مشکلات مالی جدی دست‌وپنجه نرم می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "750a343c3b48",
@@ -596,9 +837,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/turneden-cikarilmisti-geri-adim-atmadi-macklemore-filistin-icin-sahneye-cikti-7691291",
      "title": "Turneden çıkarılmıştı, geri adım atmadı! Macklemore, Filistin için sahnede",
      "snippet": "Filistin’e destek açıklamalarının ardından Ed Sheeran’ın ABD turnesinden çıkarılan Macklemore, 'Özgür Filistin Turnesi'nin finalini Londra’da yaptı. Yaklaşık 10 bin kişinin katıldığı konserde Gazze’ye destek mesajları verilirken, rapçi “Gazze’deki çocuklar hepimizin çocuğu” dedi.",
-     "published": "2026-10-31T07:15:12.000Z"
+     "published": "2026-10-31T07:15:12.000Z",
+     "titleFa": "turneden çıkarılmıştı, geri adım atmadı! Macklemore, Filistin için sahnede"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae587d0f15b2619d4a42155.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae587d0f15b2619d4a42155.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "مکلمور پس از حذف از تور، کنسرت حامی فلسطین را در لندن برگزار کرد",
+   "summaryFa": "مکلمور پس از اظهاراتش در حمایت از فلسطین که منجر به حذف او از تور آمریکای اد شیرن شد، آخرین اجرای خود از «تور فلسطین آزاد» را در لندن روی صحنه برد. او در این کنسرت با حضور حدود ۱۰ هزار نفر بر حمایت از غزه تأکید کرد.",
+   "bodyFa": [
+    "مکلمور، خواننده رپ، پس از آنکه به دلیل مواضع و اظهاراتش در حمایت از فلسطین از تور آمریکای اد شیرن کنار گذاشته شد، عقب‌نشینی نکرد و آخرین مرحله از «تور فلسطین آزاد» را در شهر لندن اجرا کرد.",
+    "این کنسرت با استقبال حدود ۱۰ هزار نفری برگزار شد و در جریان آن پیام‌هایی در حمایت از غزه به حضار منتقل گشت. این خواننده در بخشی از سخنان خود در این مراسم تأکید کرد که کودکان غزه در حکم فرزندان همه ما هستند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "e1ddd6907117",
@@ -625,9 +884,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/kirgin-ciceklerin-asi-kiziydi-gokce-akyildiz-yeni-yasini-ogluyla-kutladi-7691310",
      "title": "Kırgın Çiçekler'in asi kızıydı! Gökçe Akyıldız yeni yaşını oğluyla kutladı",
      "snippet": "'Kırgın Çiçekler'deki Songül karakteriyle tanınan Gökçe Akyıldız 34 yaşına girdi. Yeni yaşını ailesi ve sevdikleriyle kutlayan oyuncu, oğlu Ömer Aslan ile çekilen doğum günü karelerini takipçileriyle paylaştı.",
-     "published": "2026-10-31T07:08:48.000Z"
+     "published": "2026-10-31T07:08:48.000Z",
+     "titleFa": "او دختر یاغی «گل‌های شکسته» بود! گوگچه آکیلدیز سن جدیدش را با پسرش جشن گرفت"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae593c9f52f8447c91ec7e0.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae593c9f52f8447c91ec7e0.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن تولد ۳۴ سالگی گوگچه آکیلدیز بازیگر سریال گل‌های شکسته با پسرش",
+   "summaryFa": "گوگچه آکیلدیز بازیگر نقش سونگول در سریال «گل‌های شکسته»، تولد ۳۴ سالگی خود را در کنار خانواده و عزیزانش جشن گرفت. او تصاویری از این جشن در کنار پسرش را با دنبال‌کنندگانش به اشتراک گذاشت.",
+   "bodyFa": [
+    "گوگچه آکیلدیز، بازیگری که با ایفای نقش سونگول در مجموعه تلویزیونی «گل‌های شکسته» شناخته می‌شود، وارد ۳۴ سالگی شد.",
+    "این بازیگر جشن تولد خود را در کنار خانواده و عزیزانش برگزار کرد و تصاویر ثبت‌شده از خود و پسرش به نام عمر اصلان را در صفحه شخصی‌اش با مخاطبان به اشتراک گذاشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "68cf80fef823",
@@ -658,7 +935,8 @@
      "url": "https://www.sozcu.com.tr/unlu-dizi-yayin-akisindan-cikarildi-p374519",
      "title": "Ünlü dizi yayın akışından çıkarıldı",
      "snippet": "Star TV'nin yeni dizisi Başkalarının Hayatı da bu akşam ekrana gelmeyecek. Dizinin yeni bölümünün yayın tarihi belli old...",
-     "published": "2026-10-31T07:07:22.000Z"
+     "published": "2026-10-31T07:07:22.000Z",
+     "titleFa": "سریال معروف از جدول پخش حذف شد"
     }
    ],
    "images": [
@@ -669,7 +947,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/6ae44b482b5d1e83439c3d16webp-Bh5bHC44TEiELcCoiFA1Mw.webp?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ae5a61bf4678357b8b6c1c5png-QB3Te27hrky4NaUtfLwseA.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "سریال معروف از جدول پخش حذف شد",
+   "summaryFa": "قسمت جدید سریال «زندگی دیگران» امشب از شبکه استار تی‌وی پخش نخواهد شد. علت این تصمیم، بحران کاهش درآمدهای تبلیغاتی در تلویزیون اعلام شده است.",
+   "bodyFa": [
+    "قسمت جدید سریال «زندگی دیگران» محصول شبکه استار تی‌وی امشب به روی آنتن نخواهد رفت و از جدول پخش این شبکه کنار گذاشته شده است. بر اساس گزارش‌های منتشر شده، تاریخ پخش قسمت جدید این مجموعه مشخص شده و علت این تغییر در جدول پخش نیز فاش گردیده است.",
+    "بحران کاهش درآمدهای تبلیغاتی در شبکه های تلویزیونی همچنان بر جدول زمان‌بندی پخش سریال‌ها تاثیر می‌گذارد. پیش از این نیز پخش قسمت‌های جدید سریال‌هایی همچون «حلف»، «تو عشق من هستی»، «عشق احتمالی» و «شربت زغال‌اخته» به همین دلیل پیاپی لغو شده بود و اکنون این تصمیم در خصوص سریال «زندگی دیگران» نیز اتخاذ شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ca45bae71db1",
@@ -696,9 +982,27 @@
      "url": "https://www.sabah.com.tr/magazin/oyuncu-bahar-sahinden-platonik-asigim-aciklamasi-beni-story-atsana-gorsun-7692090",
      "title": "Oyuncu Bahar Şahin'den \"platonik aşığım\" açıklaması! \"Beni story atsana görsün...\"",
      "snippet": "Ünlü oyuncu Bahar Şahin'in canlı yayındaki \"platonik aşk\" itirafı sosyal medyayı adeta salladı! Sarp Bozkurt'la diyalogu gündem olan oyuncu, kalbini kime kaptırdığını öyle bir yöntemle belli etmeye çalıştı... Devamı için tıklayınız",
-     "published": "2026-10-31T07:07:19.000Z"
+     "published": "2026-10-31T07:07:19.000Z",
+     "titleFa": "اظهارات «عشق پلاتونیک» از سوی بازیگر بهار شاهین! «برای من استوری بگذار تا ببیند...»"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/9d68c6/1200/675/0/372/1934/1462?u=https://isbh.tmgrup.com.tr/sbh/2026/10/31/oyuncu-bahar-sahinden-platonik-asigim-aciklamasi-beni-story-atsana-gorsun-1793430415299.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "اعتراف به عشق پلاتونیک از سوی بهار شاهین",
+   "summaryFa": "بهار شاهین، بازیگر معروف، در یک پخش زنده اعتراف کرد که به عشق پلاتونیک مبتلا است. گفتگوی او با سلبریتی دیگر مورد توجه کاربران شبکه های اجتماعی قرار گرفت.",
+   "bodyFa": [
+    "بهار شاهین، بازیگر سرشناس، در جریان یک برنامه زنده تلویزیونی یا اینترنتی اعتراف جالب توجهی درباره داشتن یک «عشق پلاتونیک» مطرح کرد که بازتاب گسترده‌ای در شبکه‌های اجتماعی داشته است.",
+    "مکالمه او با سarp بوزکورت در این برنامه به موضوعی داغ تبدیل شد و این بازیگر تلاش کرد به روش خود نشان دهد که قلبش را به چه کسی باخته است، موضوعی که تعجب مخاطبان را به همراه داشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "63960ce60cc2",
@@ -712,7 +1016,7 @@
    "video": null,
    "published": "2026-10-31T06:21:10.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -725,9 +1029,26 @@
      "url": "https://www.sabah.com.tr/magazin/istanbullu-gelinin-yakisikli-muratiydi-berkay-hardalin-degisimi-gundem-oldu-taniyamadik-7692073",
      "title": "İstanbullu Gelin'in yakışıklı Murat'ıydı! Berkay Hardal'ın değişimi gündem oldu: \"Tanıyamadık\"",
      "snippet": "İstanbullu Gelin'in yakışıklı yıldızı olarak tanınan Berkay Hardal'ın son hali sosyal medyayı adeta salladı! Şöhretinin zirvesindeyken her şeyi geride bırakarak sırra kadem basan ünlü oyuncunun inanılmaz... Devamı için tıklayınız",
-     "published": "2026-10-31T06:21:10.000Z"
+     "published": "2026-10-31T06:21:10.000Z",
+     "titleFa": "او مورت خوش‌تیپ «عروس استانبول» بود! تغییر چهره برکای هارطال جنجال‌ساز شد: «نمی‌توانیم بشناسیمش»"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/d4ba2d/1200/675/0/72/1200/747?u=https://isbh.tmgrup.com.tr/sbh/2026/10/31/istanbullu-gelinin-yakisikli-muratiydi-berkay-hardalin-degisimi-gundem-oldu-taniyamadik-1793427270315.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "تغییر چهره و وضعیت جدید برکای هارطال، بازیگر سریال عروس استانبول، توجه کاربران را جلب کرد",
+   "summaryFa": "تصاویر جدید از برکای هارطال، بازیگر سریال عروس استانبول که پس از اوج شهرت از نظرها پنهان شده بود، در شبکه‌های اجتماعی مورد توجه قرار گرفت.",
+   "bodyFa": [
+    "برکای هارطال که با ایفای نقش در سریال محبوب «عروس استانبول» به شهرت رسیده بود، این بار با انتشار تصاویری از وضعیت و ظاهر جدید خود در فضای مجازی خبرساز شد. کاربران شبکه‌های اجتماعی با دیدن تغییرات این بازیگر که در دوران اوج شهرت خود از حرفه بازیگری کناره‌گیری کرده و به نوعی ناپدید شده بود، شگفت‌زده شدند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f94b6a057fcc",
@@ -754,9 +1075,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/yesilcam-artik-bitti-43361270",
      "title": "'Yeşilçam artık bitti'",
      "snippet": "YEŞİLÇAM’ın usta aktörlerinden Ediz Hun’un sinemadan akademiye uzanan yaşamı ‘Ediz Hun: Son Sahne’ adıyla belgesel oldu.",
-     "published": "2026-10-31T06:03:48.000Z"
+     "published": "2026-10-31T06:03:48.000Z",
+     "titleFa": "«Yeşilçam artık bitti»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae584a0aa7d7bef19764e53.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae584a0aa7d7bef19764e53.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true,
+   "titleFa": "ساخت مستندی درباره زندگی ادیز هون",
+   "summaryFa": "زندگی و فعالیت‌های ادیز هون، بازیگر برجسته سینمای Yeşilçam، در قالب یک مستند به تصویر کشیده شده است. این اثر مسیر زندگی او از سینما تا حضور در دانشگاه را روایت می‌کند.",
+   "bodyFa": [
+    "مستندی جدید با نام «ادیز هون: آخرین صحنه» (Ediz Hun: Son Sahne) ساخته شده است که به زندگی و مسیر حرفه‌ای ادیز هون، یکی از بازیگران برجسته و نام‌آشنای سینمای Yeşilçam اختصاص دارد.",
+    "این اثر نگاهی به ابعاد مختلف زندگی او، از دوران فعالیت در عرصه سینما گرفته تا حضورش در محیط‌های آکادمیک و دانشگاهی دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "39463d92a121",
@@ -783,9 +1122,27 @@
      "url": "https://www.sabah.com.tr/magazin/kayinvalideme-ev-aldim-demisti-ebru-salli-davasinda-ugur-akkusa-yargi-soku-7692065",
      "title": "\"Kayınvalideme ev aldım\" demişti! Ebru Şallı davasında Uğur Akkuş'a yargı şoku!",
      "snippet": "Ünlü manken Ebru Şallı ile iş insanı Uğur Akkuş'un yılan hikayesine dönen olaylı boşanma davasında sular bir türlü durulmuyor! Akkuş'un, boşanma arifesinde olduğu eski kayınvalidesine yönelik akılalmaz... Devamı için tıklayınız",
-     "published": "2026-10-31T06:00:00.000Z"
+     "published": "2026-10-31T06:00:00.000Z",
+     "titleFa": "گفته بود «برای مادرشوهرم خانه خریدم»! شوک قضایی به اوغور آکوش در پرونده ابرو شالی!"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/73744e/1200/675/0/64/1200/740?u=https://isbh.tmgrup.com.tr/sbh/2026/10/31/kayinvalideme-ev-aldim-demisti-ebru-salli-davasinda-ugur-akkusa-yargi-soku-1793426002199.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "حواشی پرونده طلاق ابرو شالی و اوغور آکوش",
+   "summaryFa": "دادگاه در پرونده جنجالی و دعوای حقوقی مربوط به طلاق ابرو شالی و اوغور آکوش تصمیم‌گیری کرد. این پرونده شامل ادعاهای مطرح شده توسط اوغور آکوش است.",
+   "bodyFa": [
+    "روند پرحاشیه و طولانی دعوای طلاق میان ابرو شالی، مدل مشهور، و اوغور آکوش، چهره تجاری، همچنان با تحولات جدیدی دنبال می‌شود. در این پرونده جنجالی که توجه رسانه‌ها را به خود جلب کرده است، ادعاهایی از سوی آکوش مطرح شده بود.",
+    "بر اساس گزارش‌های منتشر شده، دادگاه تصمیم تازه‌ای در خصوص این پرونده و ادعاهای مطرح‌شده اتخاذ کرده است که واکنش‌های زیادی را در بخش اخبار هنرمندان و چهره‌ها به همراه داشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3b17f015d96b",
@@ -1720,7 +2077,8 @@
      "url": "https://www.sabah.com.tr/magazin/gunesin-dogdugu-yer-tum-kategorilerde-birinci-oldu-7691825",
      "title": "‘Güneşin Doğduğu Yer’ tüm kategorilerde birinci oldu",
      "snippet": "Perşembe günü yeni bölümüyle ekrana gelen 'Güneşin Doğduğu Yer', Fifty5 Blue tarafından alınan verilere göre gün içerisinde yayınlanan 100 programın yer aldığı reyting ölçümünde 'Tüm Kişiler' yüzde 6,46... Devamı için tıklayınız",
-     "published": "2026-10-30T20:23:12.000Z"
+     "published": "2026-10-30T20:23:12.000Z",
+     "titleFa": "«جایی که خورشید طلوع می‌کند» در همه رده‌ها رتبه اول را کسب کرد"
     }
    ],
    "images": [
@@ -1731,7 +2089,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "«جایی که خورشید طلوع می‌کند» در تمامی رده‌های آمار بینندگان رتبه اول را کسب کرد",
+   "summaryFa": "قسمت جدید سریال «جایی که خورشید طلوع می‌کند» که روز پنجشنبه پخش شد، بر اساس آمارهای منتشرشده در صدر جدول رتبه‌بندی برنامه‌های تلویزیونی قرار گرفت.",
+   "bodyFa": [
+    "قسمت جدید سریال تلویزیونی «جایی که خورشید طلوع می‌کند» در روز پنجشنبه به روی آنتن رفت و توانست رتبه نخست آمار بینندگان را به خود اختصاص دهد. بر اساس اطلاعات ارائه‌شده از سوی موسسه سنجش Fifty5 Blue، این سریال در رقابت میان ۱۰۰ برنامه پخش‌شده در طول روز، مقام اول را به دست آورده است.",
+    "طبق آمارهای اعلام‌شده، این مجموعه در رده آمار کلی بینندگان توانست به نرخ بیننده ۶.۴۶ درصد و سهم پخش ۱۹.۷۹ درصد دست یابد. همچنین این سریال در رده مخاطبان AB نیز نرخ بیننده ۳.۹۵ درصد و سهم پخش ۱۳.۴۶ درصد را به ثبت رساند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "72e6f7f2f6e6",
@@ -2831,7 +3197,7 @@
      "title": "Artık gizlemiyorlar! Devrim Özkan ve Deniz Can Aktaş'tan romantik poz",
      "snippet": "Uzun süredir aşk yaşadıkları konuşulan Devrim Özkan ile Deniz Can Aktaş, ilişkilerini artık gizlemiyor. Özkan, sevgilisiyle tatilde çekilen romantik karesini ilk kez paylaşırken, Aktaş da yorum yaparak karşılık verdi.",
      "published": "2026-10-30T08:44:40.000Z",
-     "titleFa": "دیگر پنهان نمی‌کنند! ژست عاشقانه دوریم اوزکان و دنیز جان آکتاش"
+     "titleFa": "دیگر پنهان نمی‌کنند! ژست رمانتیک دوریم اوزکان و دنیز جان آکتاش"
     },
     {
      "source": "sozcu-magazin",
@@ -2840,7 +3206,7 @@
      "title": "Devrim Özkan ve Deniz Can Aktaş'tan ilan-ı aşk: Artık saklamıyorlar",
      "snippet": "Oyuncu Devrim Özkan ve Deniz Can Aktaş, özel hayatlarını gözlerden uzak yaşamayı tercih ederken bu kez sosyal medya payl...",
      "published": "2026-10-30T10:24:07.000Z",
-     "titleFa": "اعلام عشق از سوی دوریم اوزکان و دنیز جان آکتاش: دیگر پنهان نمی‌کنند"
+     "titleFa": "ابراز عشق دوریم اوزکان و دنیز جان آکتاش: دیگر پنهان نمی‌کنند"
     },
     {
      "source": "hurriyet-kelebek",
@@ -2848,7 +3214,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/devrim-ozkan-en-sevdigimiz-insanlar-deniz-43361317",
      "title": "Devrim Özkan: En sevdiğimiz insanlar Deniz",
      "snippet": "20 Kasım’da vizyona girecek ‘Aşk Tesadüfleri Sever 3’ün başrol oyuncusu Devrim Özkan, filmde hayat verdiği Mavi karakteriyle kendi yaşamı arasındaki şaşırtıcı benzerlikleri anlattı.",
-     "published": "2026-10-31T06:59:00.000Z"
+     "published": "2026-10-31T06:59:00.000Z",
+     "titleFa": "دوریم اوزکان: محبوب‌ترین آدم‌های ما دنیز هستند"
     }
    ],
    "mergedIds": [
@@ -2864,26 +3231,57 @@
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
    "mediaDone": true,
-   "titleFa": "دوریم اوزکان و دنیز جان آکتاش با انتشار عکسی عاشقانه رابطه خود را علنی کردند",
-   "summaryFa": "دوریم اوزکان برای نخستین بار تصویری دونفره از تعطیلات با دنیز جان آکتاش را در شبکه‌های اجتماعی منتشر کرد. دنیز جان آکتاش نیز با ارسال دیدگاهی به این تصویر واکنش نشان داد.",
+   "titleFa": "علنی شدن رابطه عاشقانه دوریم اوزکان و دنیز جان آکتاش در شبکه‌های اجتماعی",
+   "summaryFa": "دوریم اوزکان با انتشار عکس‌های تعطیلات تابستانی خود همراه دنیز جان آکتاش، رابطه عاشقانه میانشان را علنی کرد. دنیز جان آکتاش نیز با ارسال دیدگاه به این انتشار واکنش نشان داد.",
    "bodyFa": [
-    "دوریم اوزکان و دنیز جان آکتاش که مدت‌ها شایعاتی درباره رابطه عاطفی آن‌ها مطرح بود و زندگی خصوصی خود را دور از رسانه‌ها نگه می‌داشتند، دیگر رابطه‌شان را پنهان نمی‌کنند. دوریم اوزکان برای نخستین بار عکسی رمانتیک از تعطیلات مشترکشان را با دنبال‌کنندگان خود به اشتراک گذاشت.",
-    "در واکنش به این انتشار عمومی، دنیز جان آکتاش نیز با درج دیدگاهی زیر این تصویر به اقدام دوریم اوزکان پاسخ داد تا به این ترتیب، ارتباط عاشقانه این دو بازیگر در فضای مجازی علنی شود."
+    "بازیگران مطرح ترکیه‌ای، دوریم اوزکان و دنیز جان آکتاش که پیش از این شایعاتی درباره رابطه عاشقانه آن‌ها مطرح بود، با انتشار تصاویری در شبکه‌های اجتماعی این موضوع را تایید کردند. دوریم اوزکان برای نخستین بار عکس‌هایی از تعطیلات خود را همراه دنیز جان آکتاش با دنبال‌کنندگانش به اشتراک گذاشت تا به پنهان‌کاری‌ها پایان دهد.",
+    "در واکنش به این پست، دنیز جان آکتاش نیز با ثبت دیدگاهی زیر عکس‌ها به این اقدام پاسخ داد. این دو بازیگر که همواره تلاش می‌کردند زندگی خصوصی خود را دور از حواشی و چشمان رسانه‌ها نگه دارند، این بار با انتشار این تصاویر رمانتیک توجه رسانه‌ها و کاربران را به خود جلب کردند.",
+    "از سوی دیگر، گزارش شده است که دوریم اوزکان به عنوان بازیگر نقش اصلی فیلم «عشق تصادف‌ها را دوست دارد ۳» در نقش «ماوی» به فعالیت پرداخته و به شباهت‌های میان زندگی واقعی خود و این شخصیت اشاره کرده است؛ فیلمی که اکران آن برای تاریخ ۲۰ نوامبر برنامه‌ریزی شده است."
    ],
    "comparison": {
     "agree": [
-     "دوریم اوزکان و دنیز جان آکتاش دیگر رابطه احساسی خود را پنهان نمی‌کنند.",
-     "دوریم اوزکان برای نخستین بار عکسی از تعطیلات مشترکشان در شبکه‌های اجتماعی منتشر کرد.",
-     "دنیز جان آکتاش با ارسال نظر زیر این پست به عکس واکنش نشان داد."
+     "دوریم اوزکان و دنیز جان آکتاش رابطه عاشقانه خود را دیگر پنهان نمی‌کنند.",
+     "دوریم اوزکان برای نخستین بار عکس‌های تعطیلات مشترک با دنیز جان آکتاش را در شبکه‌های اجتماعی منتشر کرده است.",
+     "دنیز جان آکتاش زیر پست دوریم اوزکان کامنت گذاشته است."
     ],
-    "differ": [],
+    "differ": [
+     {
+      "topic": "محتوای کامنت دنیز جان آکتاش",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "تنها ذکر کرده که دنیز جان آکتاش با گذاشتن کامنت پاسخ داده است."
+       },
+       {
+        "source": "sozcu-magazin",
+        "text": "تصریح کرده که دنیز جان آکتاش کامنتی حاوی ایموجی قلب قرمز گذاشته است."
+       }
+      ]
+     },
+     {
+      "topic": "موضوع و محور اصلی گزارش",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "عکس رمانتیک تعطیلات و علنی کردن رابطه دوریم اوزکان و دنیز جان آکتاش."
+       },
+       {
+        "source": "sozcu-magazin",
+        "text": "انتشار عکس‌های تعطیلات تابستانی و کامنت ایموجی قلب قرمز دنیز جان آکتاش."
+       },
+       {
+        "source": "hurriyet-kelebek",
+        "text": "مصاحبه دوریم اوزکان درباره فیلم «عشق تصادف‌ها را دوست دارد ۳» و شباهت نقش ماوی با زندگی خودش."
+       }
+      ]
+     }
+    ],
     "unconfirmed": [
-     "منبع دوم به استفاده دنیز جان آکتاش از ایموجی قلب قرمز و مربوط بودن تصویر به تعطیلات تابستانی اشاره کرده است."
+     "ادعای سابقه رابطه عاشقانه طولانی‌مدت میان دوریم اوزکان و دنیز جان آکتاش قبل از انتشار عکس‌ها."
     ]
    },
    "ai": true,
-   "aiTries": 1,
-   "regen": true
+   "aiTries": 2
   },
   {
    "id": "739254d9034d",
@@ -3099,35 +3497,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "5409955d6734",
-   "url": "https://www.haberturk.com/magazin/usta-oyuncu-patrick-stewart-tan-aci-haber-3923592",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Usta oyuncu hayatını kaybetti",
-   "snippet": "Sinema, televizyon ve tiyatro sahnesinde unutulmaz rollere imza atan, en çok da 'Star trek' serisiyle hafızalara kazınan efsane oyuncu Patrick Stewart, 86 yaşında hayata veda etti",
-   "image": "https://im.haberturk.com/l/2026/10/29/ver1793337930/3923592/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-30T06:34:51.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/usta-oyuncu-patrick-stewart-tan-aci-haber-3923592",
-     "title": "Usta oyuncu hayatını kaybetti",
-     "snippet": "Sinema, televizyon ve tiyatro sahnesinde unutulmaz rollere imza atan, en çok da 'Star trek' serisiyle hafızalara kazınan efsane oyuncu Patrick Stewart, 86 yaşında hayata veda etti",
-     "published": "2026-10-30T06:34:51.000Z"
-    }
-   ]
   },
   {
    "id": "1737d1176616",
@@ -8464,7 +8833,8 @@
      "url": "https://www.sozcu.com.tr/ahmet-kaya-nin-ailesi-yillar-sonra-istedigini-aldi-mahkemeden-yeni-karar-p373466",
      "title": "Ahmet Kaya’nın ailesi yıllar sonra istediğini aldı: Mahkemeden yeni karar",
      "snippet": "Ahmet Kaya’nın hayatını anlatan “İki Gözüm Ahmet” filmiyle ilgili davada Yargıtay’dan dikkat çeken bir karar çıktı. Sana...",
-     "published": "2026-10-28T06:21:25.000Z"
+     "published": "2026-10-28T06:21:25.000Z",
+     "titleFa": "خانواده Ahmet Kaya پس از سال‌ها به خواسته خود رسیدند: تصمیم جدید از دادگاه"
     }
    ],
    "images": [
@@ -8475,7 +8845,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/izinle-ekildi-jandarma-hasat-etti-boyu-4-metreye-ulasti-copu-bile-para-ediyorjpg-bgiDWYIv5U_IuF-g08wCXw.jpg?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ae52b70f4678357b8b6b5ebpng-gNnKTDlYfEmbROCHh7Kg1w.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تصمیم جدید دادگاه درباره پرونده فیلم زندگی Ahmet Kaya",
+   "summaryFa": "دیوان عالی کشور در خصوص فیلم «İki Gözüm Ahmet» که به زندگی Ahmet Kaya می‌پردازد، رأی مهمی صادر کرد. پس از اعتراض خانواده این هنرمند، پرونده برای بررسی مجدد ارجاع داده شد.",
+   "bodyFa": [
+    "دیوان عالی کشور رأی جالب توجهی را در ارتباط با پرونده حقوقی مربوط به فیلم «İki Gözüm Ahmet» که روایتگر زندگی Ahmet Kaya است، صادر کرد.",
+    "این تصمیم پس از اعتراضات خانواده این هنرمند اتخاذ شده و پرونده قضایی مذکور بار دیگر مورد رسیدگی قرار خواهد گرفت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c63ab4751863",
@@ -9187,9 +9565,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/ayakta-alkis-43357295",
      "title": "Ayakta alkış",
      "snippet": "BKM yapımı “Bir Aile Provası: Yaşayın Gitsin” seyirciden gördüğü yoğun ilgiyle kapalı gişe sahnelenmeye devam ediyor. Oyun, her temsilinde ayakta alkışlanıyor.",
-     "published": "2026-10-28T04:00:00.000Z"
+     "published": "2026-10-28T04:00:00.000Z",
+     "titleFa": "تشویق ایستاده"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae0f8b1616537b631a4d578.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae0f8b1616537b631a4d578.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true,
+   "titleFa": "نمایش «Bir Aile Provası: Yaşayın Gitsin» با استقبال تماشاگران روبرو شد",
+   "summaryFa": "نمایش تولید شرکت BKM با استقبال شدید مخاطبان مواجه شده و بلیت‌های آن به طور کامل به فروش می‌رسد. این اثر در تمامی اجراهای خود با تشویق ایستاده تماشاگران همراه است.",
+   "bodyFa": [
+    "نمایش «Bir Aile Provası: Yaşayın Gitsin» که توسط BKM تولید شده است، همچنان به اجرای خود ادامه می‌دهد و با توجه فراوان از سوی مخاطبان روبه‌رو است.",
+    "این اثر نمایشی به صورت بلیت‌فروشی کامل (کاپالی گیشه) روی صحنه می‌رود و در تمامی نوبت‌های اجرا، توسط تماشاگران مورد تشویق ایستاده قرار می‌گیرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "60b0d6f57c58",
@@ -9311,9 +9707,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/kivanc-tatlitug-43-yasina-girdi-esi-basak-dizerden-romantik-dogum-gunu-paylasimi-7688967",
      "title": "Kıvanç Tatlıtuğ 43 yaşına girdi! Eşi Başak Dizer'den romantik doğum günü paylaşımı",
      "snippet": "Oyuncu Kıvanç Tatlıtuğ ve eşi Başak Dizer'in mutlu evliliği devam ediyor. Ünlü stil danışmanı, 43 yaşına giren eşinin doğum gününü sosyal medyadan paylaştığı romantik mesajla kutladı.",
-     "published": "2026-10-27T20:21:42.000Z"
+     "published": "2026-10-27T20:21:42.000Z",
+     "titleFa": "کیوانچ تاتلیتوغ وارد ۴۳ سالگی شد! پست تولد رمانتیک از همسزش باشاك دایزر"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae10779ea5ea19fcfce2156.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae10779ea5ea19fcfce2156.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تبریک تولد رمانتیک باشак دایزر برای ۴۳ سالگی کیوانچ تاتلیتوغ",
+   "summaryFa": "باشak دایزر تولد ۴۳ سالگی همسرش کیوانچ تاتلیتوغ را در شب‌های اجتماعی تبریک گفت. زندگی مشترک این زوج همچنان ادامه دارد.",
+   "bodyFa": [
+    "کیوانچ تاتلیتوغ، بازیگر شناخته‌شده، وارد سن ۴۳ سالگی شد. زندگی مشترک او و همسرش باشاك دایزر همچنان به خوبی پابرجا است.",
+    "در همین مناسبت، باشاك دایزر که به عنوان استایلیست فعالیت می‌کند، با انتشار پیامی رمانتیک در فضای مجازی تولد همسر خود را تبریک گفت و این روز را گرامی داشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "cc916377e7b1",
@@ -9340,9 +9754,27 @@
      "url": "https://www.sozcu.com.tr/yillarin-unlu-oyuncusuna-kazanci-soruldu-yaniti-sasirtti-p373371",
      "title": "Yılların ünlü oyuncusuna kazancı soruldu! Yanıtı şaşırttı",
      "snippet": "Türk tiyatrosunun usta oyuncularından Cihat Tamer, 65 yıllık sanat yaşamına ilişkin açıklamalarıyla gündeme geldi. Şöhre...",
-     "published": "2026-10-27T20:16:25.000Z"
+     "published": "2026-10-27T20:16:25.000Z",
+     "titleFa": "پرسش درباره درآمد بازیگر مشهور قدیمی! پاسخ او تعجب‌برانگیز بود"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/magazjpg-1KwHc_6IFUKRnomHgR66BQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/magazjpg-1KwHc_6IFUKRnomHgR66BQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/artikjpg-jxOZu2ERekCW_N6wfNw9MQ.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ismailkartalnesterivuruyorpragmaciicinflaskararkapak0906234145247d0bjpg-Uaeazi0dD0mr3ET6y_9egQ.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ae5a61bf4678357b8b6c1c5png-QB3Te27hrky4NaUtfLwseA.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "پاسخ جالب جیهات تامر به سوالی درباره درآمدش پس از سال‌ها فعالیت",
+   "summaryFa": "جیها تامر، بازیگر پیشکسوت تئاتر، درباره ۶۵ سال فعالیت هنری خود صحبت کرد. او اعلام کرد با وجود شهرت، برای تأمین مخارج زندگی همچنان کار می‌کند و به تئاتر ادامه می‌دهد.",
+   "bodyFa": [
+    "جیها تامر، یکی از بازیگران برجسته تئاتر ترکیه، اخیراً با اظهارات خود درباره ۶۵ سال فعالیت هنری‌اش در مرکز توجه قرار گرفته است.",
+    "این هنرمند در پاسخ به سوالی پیرامون اینکه آیا شهرت او به درآمد مالی تبدیل شده است یا خیر، توضیح داد که با وجود شناخته شده بودنش، همچنان برای گذران زندگی ناچار است به کار کردن ادامه دهد و فعالیت‌های تاتری خود را متوقف نکرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8d224fec1641",
@@ -9419,9 +9851,27 @@
      "url": "https://www.sozcu.com.tr/yesilcam-in-emine-si-meral-zeren-yillar-sonra-yeniden-gundemde-p373340",
      "title": "Yeşilçam’ın Emine’si Meral Zeren yıllar sonra yeniden gündemde",
      "snippet": "Kemal Sunal ile başrolü paylaştığı “Salako” filminde canlandırdığı Emine karakteriyle hafızalara kazınan Meral Zeren, yı...",
-     "published": "2026-10-27T18:00:04.000Z"
+     "published": "2026-10-27T18:00:04.000Z",
+     "titleFa": "امینه یشیلچام، مرال زرن، پس از سال‌ها دوباره در کانون توجه قرار گرفت"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/gsjpg-qobkbLwaXEaPruV28IM2Nw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/gsjpg-qobkbLwaXEaPruV28IM2Nw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ayktujpg-fhl5qDLOxkSbzBKdhcuYSg.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/eerdjpg-4B7R5W5CGE6S9GDHYYC5kA.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ae5a61bf4678357b8b6c1c5png-QB3Te27hrky4NaUtfLwseA.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "امرینِ سینمای یشیلچام، مرال زرن، پس از سال‌ها دوباره مورد توجه قرار گرفت",
+   "summaryFa": "مرال زرن، بازیگر ۷۰ ساله و ستاره سابق سینمای یشیلچام که با فیلم «سالاکو» شناخته می‌شود، با تصاویر جدید خود در صدر اخبار قرار گرفت. تغییر چهره این بازیگر در طول سال‌ها توجه مخاطبان را به خود جلب کرده است.",
+   "bodyFa": [
+    "مرال زرن، بازیگر نام‌آشنای سینمای یشیلچام که با ایفای نقش امینه در فیلم «سالاکو» در کنار کمال سونال به شهرت رسید، بار دیگر در فضای رسانه‌ای مطرح شد.",
+    "این بازیگر ۷۰ ساله که زمانی از چهره‌های سرشناس پرده نقره‌ای بود، اکنون با انتشار تصاویر جدیدش و مقایسه ظاهر کنونی‌اش با دوران جوانی، توجه بسیاری از کاربران و رسانه‌ها را به سوی تغییرات ظاهری خود جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "9c209bd32dcf",
@@ -9448,9 +9898,20 @@
      "url": "https://www.haberturk.com/magazin/foto/basak-dizer-den-kivanc-tatlitug-a-iyi-ki-dogdun-ask-3923044",
      "title": "\"İyi ki doğdun aşk\"",
      "snippet": "Ünlü oyuncu Kıvanç Tatlıtuğ'un 43'üncü yaş gününü kutlayan Başak Dizer, birlikte çekildikleri fotoğrafları \"İyi ki doğdun aşk\" notuyla sosyal medya hesabından paylaştı",
-     "published": "2026-10-27T17:40:40.000Z"
+     "published": "2026-10-27T17:40:40.000Z",
+     "titleFa": "تولدت مبارک عشق"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "تبریک تولد عاشقانه باشak دایزر برای Kıvanç Tatlıtuğ",
+   "summaryFa": "باشak دایزر تولد ۴۳ سالگی همسرش Kıvanç Tatlıtuğ را با انتشار عکس‌های دو نفره در اینستاگرام تبریک گفت.",
+   "bodyFa": [
+    "başak دایزر، استایلیست و همسر Kıvanç Tatlıtuğ، بازیگر مشهور، به مناسبت ۴۳ سالگی او تصاویر مشترکی را در حساب اینستاگرام خود منتشر کرد. او این پست را با عبارت «تولدت مبارک عشقم» همراه کرد که با استقبال دنبال‌کنندگان این زوج مواجه شد.",
+    "این زوج که در سال ۲۰۱۶ در پاریس ازدواج کرده بودند، در سال ۲۰۲۲ صاحب فرزندی به نام کورت افه شدند. آن‌ها معمولاً ترجیح می‌دهند زندگی خصوصی خود را دور از رسانه‌ها نگه دارند، اما این بار به بهانه جشن تولد در کانون توجه قرار گرفتند.",
+    "در بخش دیگری از این گزارش، به تصمیم چند ماه پیش Kıvanç Tatlıtuğ برای بستن حساب‌های کاربری خود در شبکه‌های اجتماعی اشاره شده است. این بازیگر پیش‌تر توضیح داده بود که این کار را صرفاً از سر بی‌حوصلگی انجام داده و کتاب خواندن را جایگزین آن کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0088f79a70f8",
@@ -9528,7 +9989,16 @@
      "snippet": "Ünlü oyuncu Damla Sönmez katıldığı bir TV programında çarpıcı açıklamalara bulundu. Sönmez, \"Kibirli olduğumu itiraf ede...",
      "published": "2026-10-27T16:25:50.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/damla-sonmez-itirafjpg-vSjQzQu_6ESGj9CQ7dWMzQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/damla-sonmez-itirafjpg-vSjQzQu_6ESGj9CQ7dWMzQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fonjpg-acdM_CRdkkm7PE0TbYIy-g.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/son-dakikajpg-UtiL0DMtYEiaAvMZ6ZH25g.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6ae5a61bf4678357b8b6c1c5png-QB3Te27hrky4NaUtfLwseA.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "2e90cde0aeff",
@@ -9609,7 +10079,16 @@
      "snippet": "D-Smart ve Dream Türk TV’nin ortak yapımı olan “Smart Sahne” programına konuk olan Merve Özbey, Zeynep Bozkaya ve Berke Kosova’nın sorularını yanıtladı. KOYU FENERBAHÇELİ Sevilen sanatçı, Fenerbahçe’ye tutkuyla bağlı olduğunu ifade ederek, “Fenerbahçe’den başka bir şey bilmeyen, bütün spor branşları",
      "published": "2026-10-27T15:40:44.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae0c5ceea5ea19fcfce208e.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae0c5ceea5ea19fcfce208e.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "79422637bbb4",
@@ -9649,7 +10128,16 @@
    ],
    "mergedIds": [
     "a52487f1c843"
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae0bd67616537b631a4d558.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae0bd67616537b631a4d558.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true
   },
   {
    "id": "5f661205afdc",
