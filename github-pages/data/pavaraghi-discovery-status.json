@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T05:35:34.123652+00:00",
+  "generatedAt": "2026-10-31T12:21:14.927198+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "mercan-kosk:5",
-    "muhtemel-ask:1",
-    "muhtemel-ask:2",
-    "omur-usta:1"
+    "sevdan-bir-ates:1",
+    "sevdan-bir-ates:2",
+    "sevdan-bir-ates:3",
+    "sevdan-bir-ates:4"
   ],
   "episodes": [
     {
@@ -1584,7 +1584,7 @@
       "seriesSlug": "sevdan-bir-ates",
       "seriesTitle": "عشقت یک آتش است",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-26T12:55:32.392779+00:00",
+      "checkedAt": "2026-10-31T12:21:14.927198+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1616,7 +1616,7 @@
       "seriesSlug": "sevdan-bir-ates",
       "seriesTitle": "عشقت یک آتش است",
       "originalEpisode": 2,
-      "checkedAt": "2026-10-26T22:37:54.531707+00:00",
+      "checkedAt": "2026-10-31T12:21:14.927198+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1648,7 +1648,7 @@
       "seriesSlug": "sevdan-bir-ates",
       "seriesTitle": "عشقت یک آتش است",
       "originalEpisode": 3,
-      "checkedAt": "2026-10-26T22:37:54.531707+00:00",
+      "checkedAt": "2026-10-31T12:21:14.927198+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1680,7 +1680,7 @@
       "seriesSlug": "sevdan-bir-ates",
       "seriesTitle": "عشقت یک آتش است",
       "originalEpisode": 4,
-      "checkedAt": "2026-10-26T22:37:54.531707+00:00",
+      "checkedAt": "2026-10-31T12:21:14.927198+00:00",
       "languagesToTry": [
         "tr",
         "fa",
