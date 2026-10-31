@@ -91,7 +91,10 @@
     "editorial:dubbed-3:0",
     "slot:2026-10-31:0",
     "editorial:cast:ozgur-berber",
-    "slot:2026-10-31:1"
+    "slot:2026-10-31:1",
+    "engagement:quiz:actor:feyyaz-serifoglu",
+    "engagement-day:2026-10-31",
+    "slot:2026-10-31:3"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -126,7 +129,7 @@
     "actor:ayca-aysin-turan": "2026-10-14",
     "episode:2": "2026-10-29",
     "actor:ekin-koc": "2026-10-28",
-    "actor:feyyaz-serifoglu": "2026-10-15",
+    "actor:feyyaz-serifoglu": "2026-10-31",
     "poll:independence": "2026-10-15",
     "actor:cansel-elcin": "2026-10-15",
     "actor:evrim-dogan": "2026-10-16",
@@ -141,7 +144,7 @@
     "actor:tugay-erdogan": "2026-10-30",
     "actor:ozgur-berber": "2026-10-31"
   },
-  "updated": "2026-10-31T12:42:04.814Z",
+  "updated": "2026-10-31T17:48:47.459Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
@@ -171,6 +174,13 @@
       "date": "2026-10-29",
       "channel": "@ehtemalaneshgheh",
       "url": "https://t.me/ehtemalaneshgheh/28"
+    },
+    "engagement:quiz:actor:feyyaz-serifoglu": {
+      "message_id": 37,
+      "poll_id": "5994839219166512479",
+      "date": "2026-10-31",
+      "channel": "@ehtemalaneshgheh",
+      "url": "https://t.me/ehtemalaneshgheh/37"
     }
   }
 }
