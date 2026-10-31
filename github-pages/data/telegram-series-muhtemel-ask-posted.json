@@ -89,7 +89,9 @@
     "editorial:cast:tugay-erdogan",
     "slot:2026-10-30:3",
     "editorial:dubbed-3:0",
-    "slot:2026-10-31:0"
+    "slot:2026-10-31:0",
+    "editorial:cast:ozgur-berber",
+    "slot:2026-10-31:1"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -116,7 +118,8 @@
     "aeab5a29947c90ed70b1014f",
     "118be1444740e59068c83728",
     "59abc072694c41e5fb30fc2c",
-    "0ddb034f795b42a91bd0752f"
+    "0ddb034f795b42a91bd0752f",
+    "8c27df765f99fa6072d6f0fa"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-31",
@@ -135,9 +138,10 @@
     "actor:melis-minkari": "2026-10-30",
     "actor:selen-domac": "2026-10-30",
     "actor:melisa-berberoglu": "2026-10-30",
-    "actor:tugay-erdogan": "2026-10-30"
+    "actor:tugay-erdogan": "2026-10-30",
+    "actor:ozgur-berber": "2026-10-31"
   },
-  "updated": "2026-10-31T05:55:10.488Z",
+  "updated": "2026-10-31T12:42:04.814Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
