@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:21:14.927198+00:00",
+  "generatedAt": "2026-10-31T21:30:03.944717+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 61,
   "processedThisRun": [
-    "sevdan-bir-ates:1",
-    "sevdan-bir-ates:2",
-    "sevdan-bir-ates:3",
-    "sevdan-bir-ates:4"
+    "sevdan-bir-ates:5",
+    "sevdigim-sensin:1",
+    "teskilat:1",
+    "uzak-sehir:1"
   ],
   "episodes": [
     {
@@ -1712,7 +1712,7 @@
       "seriesSlug": "sevdan-bir-ates",
       "seriesTitle": "عشقت یک آتش است",
       "originalEpisode": 5,
-      "checkedAt": "2026-10-26T22:37:54.531707+00:00",
+      "checkedAt": "2026-10-31T21:30:03.944717+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1744,7 +1744,7 @@
       "seriesSlug": "sevdigim-sensin",
       "seriesTitle": "تو همانی که دوستش دارم",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-27T04:59:17.994309+00:00",
+      "checkedAt": "2026-10-31T21:30:03.944717+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1776,7 +1776,7 @@
       "seriesSlug": "teskilat",
       "seriesTitle": "تشکیلات",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-27T04:59:17.994309+00:00",
+      "checkedAt": "2026-10-31T21:30:03.944717+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1808,7 +1808,7 @@
       "seriesSlug": "uzak-sehir",
       "seriesTitle": "شهر دور",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-27T04:59:17.994309+00:00",
+      "checkedAt": "2026-10-31T21:30:03.944717+00:00",
       "languagesToTry": [
         "tr",
         "fa",
