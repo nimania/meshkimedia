@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T14:06:34.617Z",
+ "updated": "2026-11-01T15:14:09.110Z",
  "items": [
   {
    "id": "e56235b6c00d",
@@ -1228,6 +1228,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "a52487f1c843",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/harbiye-tarzi-olay-oldu-hande-yener-kombiniyle-dikkat-cekti-7690420",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Harbiye tarzı olay oldu! Hande Yener kombiniyle dikkat çekti",
+   "snippet": "Sahne tarzı ve iddialı kombinleriyle sık sık gündem olan Hande Yener, son olarak Harbiye konseriyle adından söz ettirdi. Ünlü şarkıcı, beğeni toplayan yeni kareleri Instagram hesabından paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae39e85f15b2619d4a417d0.jpg",
+   "video": null,
+   "published": "2026-10-31T22:58:04.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/harbiye-tarzi-olay-oldu-hande-yener-kombiniyle-dikkat-cekti-7690420",
+     "title": "Harbiye tarzı olay oldu! Hande Yener kombiniyle dikkat çekti",
+     "snippet": "Sahne tarzı ve iddialı kombinleriyle sık sık gündem olan Hande Yener, son olarak Harbiye konseriyle adından söz ettirdi. Ünlü şarkıcı, beğeni toplayan yeni kareleri Instagram hesabından paylaştı.",
+     "published": "2026-10-31T22:58:04.000Z"
+    }
+   ]
   },
   {
    "id": "3a8d50099480",
@@ -11914,53 +11943,6 @@
     "در تازه‌ترین قسمت از سریال «حیثیت»، تنش و درگیری میان خانواده‌های کارلیووا و تارمن به اوج خود می‌رسد و رازهای پنهان گذشته یکی پس از دیگری آشکار می‌شوند.",
     "در جریان این رویدادها، توفان به رابطه خود با گلثوم اعتراف می‌کند و از سوی دیگر، نتایج معاینه پزشکی یلدیز همه را در شوک فرو می‌برد.",
     "این بخش با حوادث مهمی همراه است و در سکانس پایانی، محمد، سیمای و اندر را در حال در آغوش گرفتن یکدیگر می‌بیند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "f5823096af34",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/kivanc-tatlitug-43-yasina-girdi-esi-basak-dizerden-romantik-dogum-gunu-paylasimi-7688967",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Kıvanç Tatlıtuğ 43 yaşına girdi! Eşi Başak Dizer'den romantik doğum günü paylaşımı",
-   "snippet": "Oyuncu Kıvanç Tatlıtuğ ve eşi Başak Dizer'in mutlu evliliği devam ediyor. Ünlü stil danışmanı, 43 yaşına giren eşinin doğum gününü sosyal medyadan paylaştığı romantik mesajla kutladı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae10779ea5ea19fcfce2156.jpg",
-   "video": null,
-   "published": "2026-10-27T20:21:42.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/kivanc-tatlitug-43-yasina-girdi-esi-basak-dizerden-romantik-dogum-gunu-paylasimi-7688967",
-     "title": "Kıvanç Tatlıtuğ 43 yaşına girdi! Eşi Başak Dizer'den romantik doğum günü paylaşımı",
-     "snippet": "Oyuncu Kıvanç Tatlıtuğ ve eşi Başak Dizer'in mutlu evliliği devam ediyor. Ünlü stil danışmanı, 43 yaşına giren eşinin doğum gününü sosyal medyadan paylaştığı romantik mesajla kutladı.",
-     "published": "2026-10-27T20:21:42.000Z",
-     "titleFa": "کیوانچ تاتلیتوغ وارد ۴۳ سالگی شد! پست تولد رمانتیک از همسزش باشاك دایزر"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ae10779ea5ea19fcfce2156.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ae10779ea5ea19fcfce2156.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "تبریک تولد رمانتیک باشак دایزر برای ۴۳ سالگی کیوانچ تاتلیتوغ",
-   "summaryFa": "باشak دایزر تولد ۴۳ سالگی همسرش کیوانچ تاتلیتوغ را در شب‌های اجتماعی تبریک گفت. زندگی مشترک این زوج همچنان ادامه دارد.",
-   "bodyFa": [
-    "کیوانچ تاتلیتوغ، بازیگر شناخته‌شده، وارد سن ۴۳ سالگی شد. زندگی مشترک او و همسرش باشاك دایزر همچنان به خوبی پابرجا است.",
-    "در همین مناسبت، باشاك دایزر که به عنوان استایلیست فعالیت می‌کند، با انتشار پیامی رمانتیک در فضای مجازی تولد همسر خود را تبریک گفت و این روز را گرامی داشت."
    ],
    "ai": true,
    "aiTries": 1
