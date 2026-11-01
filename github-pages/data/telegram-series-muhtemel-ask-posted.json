@@ -94,7 +94,9 @@
     "slot:2026-10-31:1",
     "engagement:quiz:actor:feyyaz-serifoglu",
     "engagement-day:2026-10-31",
-    "slot:2026-10-31:3"
+    "slot:2026-10-31:3",
+    "editorial:dubbed-6:0",
+    "slot:2026-11-01:0"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -122,12 +124,13 @@
     "118be1444740e59068c83728",
     "59abc072694c41e5fb30fc2c",
     "0ddb034f795b42a91bd0752f",
-    "8c27df765f99fa6072d6f0fa"
+    "8c27df765f99fa6072d6f0fa",
+    "a748cc4f74c67009f7ddf523"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-31",
     "actor:ayca-aysin-turan": "2026-10-14",
-    "episode:2": "2026-10-29",
+    "episode:2": "2026-11-01",
     "actor:ekin-koc": "2026-10-28",
     "actor:feyyaz-serifoglu": "2026-10-31",
     "poll:independence": "2026-10-15",
@@ -144,7 +147,7 @@
     "actor:tugay-erdogan": "2026-10-30",
     "actor:ozgur-berber": "2026-10-31"
   },
-  "updated": "2026-10-31T17:48:47.459Z",
+  "updated": "2026-11-01T07:43:28.364Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {

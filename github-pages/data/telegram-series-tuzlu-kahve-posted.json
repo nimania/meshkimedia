@@ -83,9 +83,11 @@
     "slot:2026-10-31:0",
     "engagement:quiz:actor:bugra-gulsoy",
     "engagement-day:2026-10-31",
-    "slot:2026-10-31:3"
+    "slot:2026-10-31:3",
+    "editorial:dubbed-7:0",
+    "slot:2026-11-01:0"
   ],
-  "updated": "2026-10-31T17:48:44.521Z",
+  "updated": "2026-11-01T07:43:25.616Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
@@ -103,12 +105,13 @@
     "6aacbf87b75c4bb4d0c1ceff",
     "b908272ddb1cbb9f138a7842",
     "52b280c5ffaebbc13d84d743",
-    "e8fc15c1581859e67fe26a0c"
+    "e8fc15c1581859e67fe26a0c",
+    "1f81ed35a14dc45bb3f1e78d"
   ],
   "lastSubjects": {
     "episode:1": "2026-10-31",
     "actor:nebahat-cehre": "2026-10-14",
-    "episode:3": "2026-10-29",
+    "episode:3": "2026-11-01",
     "episode:4": "2026-10-29",
     "actor:eda-ece": "2026-10-28",
     "poll:family": "2026-10-15",
