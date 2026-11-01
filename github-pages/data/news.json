@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-01T19:45:15.360Z",
+ "updated": "2026-11-01T23:38:46.032Z",
  "items": [
+  {
+   "id": "3078f6c50527",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/daha-17nin-23-bolumunde-neler-oldu-43362815",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Daha 17'nin 23. bölümünde neler oldu? Teoman'a kavuştular",
+   "snippet": "Beş yaşında kaybettiği ailesinden geride kalan tek kişi olan kardeşini aramak için Bodrum’a gelen on yedi yaşındaki Aras'ın Akkayalarla yolunun kesişmesiyle zorlu bir mücadeleye dönüşen hayatını konu alan 'Daha 17' 23. bölümü ile ekranlardaydı...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae7b5afe801c6dc9244e71e.jpg",
+   "video": null,
+   "published": "2026-11-01T21:57:14.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "daha-17"
+    ],
+    "people": [],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/daha-17nin-23-bolumunde-neler-oldu-43362815",
+     "title": "Daha 17'nin 23. bölümünde neler oldu? Teoman'a kavuştular",
+     "snippet": "Beş yaşında kaybettiği ailesinden geride kalan tek kişi olan kardeşini aramak için Bodrum’a gelen on yedi yaşındaki Aras'ın Akkayalarla yolunun kesişmesiyle zorlu bir mücadeleye dönüşen hayatını konu alan 'Daha 17' 23. bölümü ile ekranlardaydı...",
+     "published": "2026-11-01T21:57:14.000Z"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae7b5afe801c6dc9244e71e.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae7b5afe801c6dc9244e71e.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "17e10222ad75",
    "url": "https://www.sozcu.com.tr/30-kilo-veren-ata-demirer-isin-sirrini-acikladi-p374948",
@@ -312,7 +354,8 @@
      "url": "https://www.milliyet.com.tr/magazin/daha-17de-nefes-kesen-bolum-kardesler-bulusacak-mi-7692142",
      "title": "Daha 17'de nefes kesen bölüm! Kardeşler buluşacak mı?",
      "snippet": "Duygu yüklü bir bölümle ekrana gelecek Daha 17’de arama kurtarma ekipleri Teoman’ı bulmak için seferber olurken Kos açıklarında bulunan erkek cesedi endişeleri artırıyor. Ceset Teoman’a mı ait? Akkaya ailesi en acı gününü mü yaşıyor? Kıyıda Aras, Şebnem, Leyla, Deniz ve Teoman’ın arkadaşları umutla ",
-     "published": "2026-11-01T13:48:37.000Z"
+     "published": "2026-11-01T13:48:37.000Z",
+     "titleFa": "قسمت نفس‌گیر در «هنوز ۱۷ سالشه»! آیا برادران به هم خواهند رسید؟"
     }
    ],
    "images": [
@@ -323,7 +366,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "قسمت هیجان‌انگیز سریال «هنوز ۱۷ سالشه»؛ آیا برادران به یکدیگر می‌رسند؟",
+   "summaryFa": "در قسمت جدید سریال «هنوز ۱۷ سالشه»، تلاش‌ها برای یافتن تومان ادامه دارد. کشف یک جسد در نزدیکی جزیره کوس نگرانی‌ها را درباره سرنوشت او افزایش داده است.",
+   "bodyFa": [
+    "در قسمت جدید سریال «هنوز ۱۷ سالشه» که از شبکه کانال دی پخش می‌شود، داستان دو برادر به نام‌های آراس و تومان به نقطه‌ای بحرانی می‌رسد. در حالی که این دو در آستانه تجدید دیدار بودند، با فاجعه‌ای بزرگ مواجه می‌شوند و سرنوشت آن‌ها در هاله‌ای از ابهام قرار می‌گیرد.",
+    "در این قسمت، تیم‌های امداد و نجات برای یافتن تومان بسیج شده‌اند. با این حال، پیدا شدن جسد یک مرد در سواحل جزیره کوس نگرانی شدید خانواده آکایا را به همراه داشته است. آراس، شبنم، لیلا، دنیز و دیگر دوستان تومان در ساحل با امیدواری منتظر مشخص شدن تکلیف تومان و هویت جسد پیدا شده هستند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "043f4191c9ef",
@@ -752,7 +803,7 @@
    "video": null,
    "published": "2026-11-01T09:37:09.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -765,7 +816,8 @@
      "url": "https://www.milliyet.com.tr/magazin/herkes-merakla-onu-bekliyordu-heidi-klumdan-kan-donduran-sov-kendi-elinin-icine-girdi-7691892",
      "title": "Herkes merakla onu bekliyordu: Heidi Klum'dan kan donduran şov! Kendi elinin içine girdi",
      "snippet": "Cadılar Bayramı denince akla gelen en sıra dışı isimlerden Heidi Klum, bu yıl da geleneksel kostüm partisiyle gündem oldu. New York'ta düzenlediği etkinliğe kan donduran bir görünümle katılan ünlü model, görenleri bir kez daha şaşkına çevirdi. Her yıl kostümleriyle adından söz ettiren Klum, bu kez v",
-     "published": "2026-11-01T09:37:09.000Z"
+     "published": "2026-11-01T09:37:09.000Z",
+     "titleFa": "همه با کنجکاوی منتظر او بودند: نمایش حیرت‌انگیز هایدی کلوم! رفتن به داخل دست خود"
     }
    ],
    "images": [
@@ -782,7 +834,15 @@
      "url": "https://x.com/milliyet/status/2116802547763511590"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "حضور هایدی کلوم با گریم و لباس شگفت‌انگیز در مهمانی هالووین نیویورک",
+   "summaryFa": "هایدی کلوم در مهمانی سنتی هالووین خود در نیویورک با ظاهری تکان‌دهنده و عجیب حاضر شد. آماده‌سازی این لباس و گریم ساعات زیادی زمان برده است.",
+   "bodyFa": [
+    "هایدی کلوم، مدل سرشناسی که هر ساله به خاطر پوشیدن لباس‌های غیرعادی در هالووین شناخته می‌شود، امسال نیز با برگزاری مهمانی سنتی خود در نیویورک توجه‌ها را به خود جلب کرد. او با ظاهری متفاوت و ترسناک در این مراسم حاضر شد و توجه حاضران را جلب کرد.",
+    "بر اساس گزارش‌های منتشرشده، آماده‌سازی این چهره‌پردازی و لباس ساعات زیادی به طول انجامیده و ایده پشت این تغییر چهره نیز توجه زیادی را به خود جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3af878cd4ca8",
@@ -1496,7 +1556,8 @@
      "url": "https://www.milliyet.com.tr/magazin/18-yil-sonra-askkolik-oldu-7691781",
      "title": "18 yıl sonra ‘Aşkkolik’ oldu",
      "snippet": "18 yıl sonra yeni neslin radarına giren parça, sosyal medyada akıma dönüştü. Şarkılarının yıllar sonra yükselişe geçmesiyle zamansızlığını ortaya koyan sanatçı, ‘Aşkkolik’ ile bir video çekerek hem akıma ortak oldu hem de dinleyicilerine teşekkür etti.",
-     "published": "2026-11-01T04:01:36.000Z"
+     "published": "2026-11-01T04:01:36.000Z",
+     "titleFa": "۱۸ سال بعد «آشکولیک» شد"
     }
    ],
    "images": [
@@ -1507,7 +1568,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "آهنگ «آشکولیک» از هادیسه پس از ۱۸ سال در تیک‌تاک وایرال شد",
+   "summaryFa": "آهنگ قدیمی هادیسه که در سال ۲۰۰۸ منتشر شده بود، پس از ۱۸ سال در شبکه اجتماعی تیک‌تاک مورد توجه نسل جدید قرار گرفت. این هنرمند با انتشار ویدیویی از این ترند استقبال کرد و از مخاطبان خود تشکر نمود.",
+   "bodyFa": [
+    "آهنگ «آشکولیک» متعلق به هادیسه که در سال ۲۰۰۸ میلادی منتشر شده بود، پس از گذشت ۱۸ سال در پلتفرم تیک‌تاک محبوبیت زیادی پیدا کرده و به یک ترند در شبکه‌های اجتماعی تبدیل شده است.",
+    "این موضوع نشان‌دهنده ماندگاری آثار این هنرمند است که ترانه‌هایش پس از سال‌ها دوباره مورد توجه قرار گرفته‌اند. هادیسه نیز با ساخت و انتشار یک ویدیو به این چالش پیوست و از هواداران و شنوندگان خود قدردانی کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "eb738cfa9d7e",
@@ -1534,7 +1603,8 @@
      "url": "https://www.milliyet.com.tr/magazin/param-bitince-donmemi-istedi-7691780",
      "title": "‘Param bitince dönmemi istedi’",
      "snippet": "Evlilik teklifi aldığı için Barselona’ya taşınmaya hazırlanırken ayrıldıklarını söyleyen oyuncu, “Bana, ‘Biz Türk erkekleri gibi eşlerimizin bakımını karşılamayız, paran bittiği zaman ülkene dönersin’ dedi. Terk edilme korkusuyla ayrıldım” diye konuştu. Sarp Bozkurt’un programında bir de platonik aş",
-     "published": "2026-11-01T04:01:35.000Z"
+     "published": "2026-11-01T04:01:35.000Z",
+     "titleFa": "«وقتی پولم تمام شود خواست به کشورم برگردم»"
     }
    ],
    "images": [
@@ -1545,7 +1615,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "دلیل جدایی بهار شاهین از نامزد اسپانیایی‌اش اعلام شد",
+   "summaryFa": "بهار شاهین در برنامه سارپ بوزکورت دلیل جدایی خود از خواننده اسپانیایی، خوان گاریدو، را شرح داد. او گفت به دلیل ترس از رها شدن و اظهارات نامزدش درباره هزینه‌ها، رابطه آن‌ها به پایان رسید.",
+   "bodyFa": [
+    "بهار شاهین، بازیگر ترکیه‌ای، در برنامه سارp بوزکورت برای نخستین بار درباره دلیل جدایی از نامزد اسپانیایی خود، خوان گاریدو، صحبت کرد. او رابطه با این خواننده را «سالم‌ترین رابطه» خود توصیف کرده بود.",
+    "به گفته این بازیگر، آن‌ها قصد داشتند پس از دریافت پیشنهاد ازدواج به بارسلونا نقل‌مکان کنند، اما به دلیل سخنان نامزدش درباره مخارج زندگی از او جدا شد. او نقل کرد که گاریدو به او گفته است مردان ترک از همسران خود حمایت مالی می‌کنند اما آن‌ها این‌گونه نیستند و او باید پس از اتمام پولش به کشورش بازگردد. شاهین افزود که به دلیل ترس از ترک شدن تصمیم به جدایی گرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "92b5a2e18b57",
@@ -1559,7 +1637,7 @@
    "video": null,
    "published": "2026-11-01T04:01:35.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1572,7 +1650,8 @@
      "url": "https://www.milliyet.com.tr/magazin/12-yasima-verdigim-sozu-tuttum-7691778",
      "title": "‘12 yaşıma verdiğim sözü tuttum’",
      "snippet": "Yeni parçası ‘Akila’da duygulanan rapçi, “Doğup büyüdüğüm yerlere gittiğim, ailemden insanların klipte yer aldığı, manevi değeri yüksek bir şarkı oldu. İstediğim geri dönüşü aldım. Ben alaylıyım. 12 yaşında bu işe gönül verdim. O çocuğa verdiğim sözleri tutmaya devam ediyorum” dedi.",
-     "published": "2026-11-01T04:01:35.000Z"
+     "published": "2026-11-01T04:01:35.000Z",
+     "titleFa": "«به قولی که در ۱۲ سالگی داده بودم عمل کردم»"
     }
    ],
    "images": [
@@ -1583,7 +1662,16 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "پرهیز از کلیک‌بیت در عنوان‌های فارسی؛ وفاداری به متن خبر",
+   "summaryFa": "خواننده رپ «موتیو» در کنسرت خود از قطعه جدیدش «آکیلا» گفت و به آرزوهای دوران کودکی‌اش اشاره کرد.",
+   "bodyFa": [
+    "خواننده رپ «موتیو» اخیراً در شهرک آتاکوی مارینا روی صحنه رفت و در حضور حدود ۱۰ هزار مخاطب به اجرای ترانه‌های خود پرداخت. او در این برنامه درباره قطعه جدید خود به نام «آکیلا» صحبت کرد.",
+    "وی با ابراز احساسات نسبت به این اثر تازه توضیح داد که این قطعه ارزش معنوی بالایی دارد، زیرا در زادگاه و محل رشد او ساخته شده و برخی از اعضای خانواده‌اش نیز در موزیک‌ویدئوی آن حضور یافته‌اند.",
+    "این خواننده همچنین اشاره کرد که بدون تحصیلات آکادمیک و به صورت تجربی وارد این حرفه شده است و از سن ۱۲ سالگی به این حوزه علاقه داشته و اکنون به قول‌هایی که در کودکی به خودش داده بود، پایبند مانده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1b9a415e75c9",
@@ -1610,9 +1698,27 @@
      "url": "https://www.milliyet.com.tr/magazin/izmirliler-bozla-dans-etti-7691775",
      "title": "İzmirliler Boz’la dans etti",
      "snippet": "Gündoğdu Meydanı’nında konser veren sanatçı, repertuvarı ve enerjisiyle festival coşkusuna ortak oldu. Boz, hareketli parçalarıyla dans pistine çevirdiği alandaki küçük bir hayranını sahneye çağırarak düet yaptı.",
-     "published": "2026-11-01T04:01:34.000Z"
+     "published": "2026-11-01T04:01:34.000Z",
+     "titleFa": "مردمی ازمیر با بوز رقصیدند"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae66455f52f8447c91ece64.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae66455f52f8447c91ece64.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای مراد بوز در جشنواره جاده فرهنگ ازمیر",
+   "summaryFa": "مراد بوز در هفتمین شب جشنواره فرهنگی ازمیر به روی صحنه رفت و با هواداران خود دیدار کرد. او در جریان این کنسرت، یکی از طرفداران کوچک خود را به روی صحنه آورد.",
+   "bodyFa": [
+    "در جریان جشنواره فرهنگی ازمیر که توسط وزارت فرهنگ و گردشگری برگزار می‌شود، مراد بوز در میدان گوندوغدو به اجرای کنسرت پرداخت. این هنرمند با انرژی و فهرست قطعات اجرایی خود به شور و هیجان این رویداد افزود.",
+    "او در بخشی از این برنامه با اجرای ترانه‌های پرانرژی، فضای میدان را به پیست رقص تبدیل کرد و همچنین یک هوادار کوچک را برای خواندن دوئت به روی صحنه دعوت نمود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "15c282e39ab2",
@@ -1639,9 +1745,28 @@
      "url": "https://www.milliyet.com.tr/magazin/o-imzayi-atmazsan-beni-unut-7691773",
      "title": "‘O imzayı atmazsan beni unut’",
      "snippet": "MESUT YILMAZ - Konser öncesi nişanlısı Melih Kunukçu’ya seslenen sanatçı, “Bu yıl bitmeden artık o imzayı atmazsan beni unut bir tanem” sözleriyle 2026’da nikâh sinyali verdi. Ardından sahneye çıkan Derici, Bulut’la yeni şarkıları ‘Garson’u ilk kez canlı seslendirdi. İkilinin performansı, Bostancı s",
-     "published": "2026-11-01T04:01:33.000Z"
+     "published": "2026-11-01T04:01:33.000Z",
+     "titleFa": "«اگر آن امضا را نزنی مرا فراموش کن»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae66369f52f8447c91ece5c.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae66369f52f8447c91ece5c.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "نشانه ازدواج ایرم دریسی و نامزدش در سال ۲۰۲۶",
+   "summaryFa": "ایرم دریسی در جریان کنسرت خود خطاب به نامزدش، ملیح کونوقجو، از احتمال برگزاری مراسم ازدواج در سال ۲۰۲۶ خبر داد. او از نامزدش خواست که پیش از پایان سال جاری میلادی سند ازدواج را امضا کنند.",
+   "bodyFa": [
+    "ایرم دریسی در کنسرت بوراک بولوت در بوستانجی به عنوان مهمان حضور یافت و روی صحنه رفت.",
+    "این خواننده پیش از اجرا، خطاب به نامزد خود، ملیح کونوقجو، صحبت کرد و با اعلام اینکه اگر تا پیش از پایان امسال ازدواج نکنند باید او را فراموش کند، سیگنال‌هایی درباره برگزاری مراسم ازدواج در سال ۲۰۲۶ داد.",
+    "پس از این صحبت‌ها، دریسی به روی صحنه رفت و آهنگ جدیدشان به نام «گارسون» را برای نخستین بار به صورت زنده اجرا کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b3e3b5c7becb",
@@ -1668,9 +1793,27 @@
      "url": "https://www.milliyet.com.tr/magazin/sahneyi-cocuklara-birakti-7691771",
      "title": "Sahneyi çocuklara bıraktı",
      "snippet": "Cumhuriyet Meydanı’nı dolduran binlerce hayranının gece boyu şarkılarına eşlik ettiği sanatçı, çocuk korosuyla birlikte seslendirdiği ‘İzmir Marşı’yla konserine damga vurdu. Coşkuyu zirveye taşıyan Avcı, Gazi Mustafa Kemal Atatürk’ü ve Cumhuriyet’in değerlerini andı.",
-     "published": "2026-11-01T04:01:33.000Z"
+     "published": "2026-11-01T04:01:33.000Z",
+     "titleFa": "صحنه را به کودکان واگذار کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae662d0f52f8447c91ece47.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae662d0f52f8447c91ece47.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای کورای آوجی در کمر و همخوانی با گروه کر کودکان",
+   "summaryFa": "کورای آوجی در شهر کمر با استقبال هوادارانش روبرو شد و در کنسرت خود به همراه یک گروه کر کودکان، «مارش ازمیر» را اجرا کرد.",
+   "bodyFa": [
+    "کورای آوجی در جریان اجرای خود در شهر کمر، با استقبال پرشور و محبت‌آمیز هزاران هوادار خود در میدان جمهوریت روبه‌رو شد. این هنرمند در طول این کنسرت، ترانه‌های خود را با همراهی جمعیت حاضر اجرا کرد.",
+    "نقطه اوج این کنسرت زمانی بود که آوجی صحنه را به کودکان سپرد و به همراه یک گروه کر، «مارش ازمیر» را خواند. او در این اجرا ضمن بالا بردن شور و هیجان مخاطبان، یاد قاضی مصطفی کمال آتاتورک و ارزش‌های جمهوری را نیز گرامی داشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5aaa5cf528fd",
@@ -1699,9 +1842,27 @@
      "url": "https://www.milliyet.com.tr/magazin/zeynep-bastik-mutfakta-terleyecek-7691769",
      "title": "Zeynep Bastık mutfakta terleyecek",
      "snippet": "Arda Türkmen’le mutfağa giren sanatçı, ayvalı pembe pirinç yastığı tarifi için kolları sıvayacak. Arda Şef’e verdiği cezayla rekabete eğlence katan Bastık’ın, kahkaha dolu mutfak macerası bugün saat 13.45’te Kanal D’de.",
-     "published": "2026-11-01T04:01:32.000Z"
+     "published": "2026-11-01T04:01:32.000Z",
+     "titleFa": "زeynep bastık در آشپزخانه عرق خواهد ریخت"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae66263f52f8447c91ece35.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae66263f52f8447c91ece35.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "زeynep bastık مهمان برنامه arda ile omuz omuza در شبکه kanal d",
+   "summaryFa": "زeynep bastık در برنامه آردا تورکمن در شبکه Kanal D حضور می‌یابد. این برنامه امروز ساعت ۱۳:۴۵ پخش می‌شود.",
+   "bodyFa": [
+    "برنامه «Arda ile Omuz Omuza» که روزهای یکشنبه از شبکه Kanal D پخش می‌شود، این هفته میزبان Zeynep Bastık است.",
+    "این هنرمند در این قسمت همراه با Arda Türkmen وارد آشپزخانه می‌شود و برای پخت دستور غذای پلو با به و برنج صورتی تلاش خواهد کرد. این برنامه که شامل لحظات سرگرم‌کننده و رقابتی است، امروز ساعت ۱۳:۴۵ از شبکه Kanal D روی آنتن می‌رود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "bfddfbfadfaf",
@@ -1768,7 +1929,7 @@
    "video": null,
    "published": "2026-10-31T22:58:04.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -1781,9 +1942,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/harbiye-tarzi-olay-oldu-hande-yener-kombiniyle-dikkat-cekti-7690420",
      "title": "Harbiye tarzı olay oldu! Hande Yener kombiniyle dikkat çekti",
      "snippet": "Sahne tarzı ve iddialı kombinleriyle sık sık gündem olan Hande Yener, son olarak Harbiye konseriyle adından söz ettirdi. Ünlü şarkıcı, beğeni toplayan yeni kareleri Instagram hesabından paylaştı.",
-     "published": "2026-10-31T22:58:04.000Z"
+     "published": "2026-10-31T22:58:04.000Z",
+     "titleFa": "سبک هاربیه رویداد شد! هانده یندر با ترکیب لباس خود جلب توجه کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6ae39e85f15b2619d4a417d0.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6ae39e85f15b2619d4a417d0.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "سبک لباس پوشیدن هانده یندر در کنسرت هاربیه مورد توجه قرار گرفت",
+   "summaryFa": "هانده یندر با استایل صحنه‌ای و ترکیب لباس‌های جسورانه خود دوباره توجه‌ها را به خود جلب کرد. او تصاویر جدید خود از کنسرت هاربیه را در صفحه اینستاگرامش به اشتراک گذاشت.",
+   "bodyFa": [
+    "هانده یندر، خواننده سرشناس، که اغلب با سبک اجرایی و ترکیب لباس‌های خاص خود خبرساز می‌شود، این بار با کنسرت خود در هاربیه نام خود را سر زبان‌ها انداخت.",
+    "او تصاویر جدید و پرطرفدار مربوط به این کنسرت را در حساب کاربری اینستاگرام خود منتشر کرده است که مورد توجه مخاطبان قرار گرفت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3a8d50099480",
@@ -2128,7 +2307,7 @@
    "video": null,
    "published": "2026-10-31T16:30:06.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -2141,9 +2320,27 @@
      "url": "https://www.sabah.com.tr/magazin/kultur-sanat-bulusmasi-7692349",
      "title": "Kültür sanat buluşması",
      "snippet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, ünlü şarkıcı Sinan Akçıl ile AKM'de bir araya geldi. Ziyaretin ardından açıklama yapan Ersoy, \"Kıymetli sanatçımız Sinan Akçıl ile kültür ve sanat alanındaki... Devamı için tıklayınız",
-     "published": "2026-10-31T16:30:06.000Z"
+     "published": "2026-10-31T16:30:06.000Z",
+     "titleFa": "دیدار فرهنگی و هنری"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/d15148/1200/675/0/0/808/454?u=https://isbh.tmgrup.com.tr/sbh/2026/10/31/kultur-sanat-bulusmasi-1793464178742.jpeg",
+    "https://iasbh.tmgrup.com.tr/f5ea50/752/395/0/0/808/424?u=https://isbh.tmgrup.com.tr/sbh/2026/10/31/kultur-sanat-bulusmasi-1793464178742.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "دیدار وزیر فرهنگ و گردشگری ترکیه با سینان آکچیل در مرکز فرهنگی آتاتورک",
+   "summaryFa": "وزیر فرهنگ و گردشگری ترکیه در مرکز فرهنگی آتاتورک با خواننده مشهور سینان آکچیل دیدار و گفت‌وگو کرد. این دیدار برای تبادل نظر درباره فعالیت‌های حوزه فرهنگ و هنر انجام شد.",
+   "bodyFa": [
+    "محمد نوری ارسوی، وزیر فرهنگ و گردشگری ترکیه، در مرکز فرهنگی آتاتورک (AKM) میزبان سینان آکچیل، خواننده نام‌آشنا بود.",
+    "پس از این دیدار، وزیر ارسوی اعلام کرد که آن‌ها درباره فعالیت‌ها و پروژه‌های حوزه فرهنگ و هنر به تبادل نظر پرداخته‌اند و از حضور این هنرمند تقدیر کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "55b96f3d5ce4",
@@ -2171,7 +2368,7 @@
      "title": "Arzum Onan 53 yaşına girdi! Doğum günü mesajına düştüğü not dikkat çekti",
      "snippet": "Uzun süredir herhangi bir projede yer almayan oyuncu Arzum Onan, 53. yaşını kutladı. Ünlü isim, sosyal medyadan paylaştığı doğum günü mesajına yazdığı notla dikkat çekti.",
      "published": "2026-10-31T16:29:51.000Z",
-     "titleFa": "آرزو اونان ۵۳ ساله شد! یادداشت او در پیام تولد جلب توجه کرد"
+     "titleFa": "آرزوم اونان ۵۳ ساله شد! یادداشت زیر پیام تولد او جلب توجه کرد"
     },
     {
      "source": "sozcu-magazin",
@@ -2179,7 +2376,8 @@
      "url": "https://www.sozcu.com.tr/arzum-onan-53-yasina-basti-dogum-gunu-mesajindaki-sozleri-dikkat-cekti-p374868",
      "title": "Arzum Onan 53 yaşına bastı: Doğum günü mesajındaki sözleri dikkat çekti",
      "snippet": "53. yaşını kutlayan Arzum Onan, yeni yaşına dair duygularını sosyal medya hesabından paylaştı. Ünlü oyuncunun geçmişine,...",
-     "published": "2026-11-01T10:19:29.000Z"
+     "published": "2026-11-01T10:19:29.000Z",
+     "titleFa": "آرزوم اونان ۵۳ ساله شد: سخنان موجود در پیام تولد او جلب توجه کرد"
     }
    ],
    "images": [
@@ -2191,18 +2389,40 @@
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
    "mediaDone": true,
-   "titleFa": "آرزو اونان ۵۳ ساله شد",
-   "summaryFa": "آرزو اونan، بازیگر، ۵۳مین سالگرد تولد خود را جشن گرفت و یادداشت او در پیام تولدش توجه‌ها را به خود جلب کرد.",
+   "titleFa": "آرزوم اونان ۵۳ ساله شد",
+   "summaryFa": "آرزوم اونان بازیگر زن، تولد ۵۳ سالگی خود را جشن گرفت و پیام او در شبکه‌های اجتماعی توجه مخاطبان را جلب کرد.",
    "bodyFa": [
-    "آرزو اونان، بازیگر مشهوری که مدتی است در هیچ پروژه هنری حضور ندارد، وارد ۵۳ سالگی خود شد.",
-    "او به مناسبت سالگرد تولدش پیامی در شبکه‌های اجتماعی منتشر کرد که متن و یادداشت نوشته شده در آن توجه مخاطبان را به خود جلب نمود."
+    "آرزوم اونان، بازیگری که مدتی است در هیچ پروژه و سریالی حضور ندارد و از تلویزیون دور است، وارد ۵۳ سالگی شد. او به مناسبت تولد خود پیامی را در حساب کاربری‌اش در شبکه‌های اجتماعی منتشر کرد.",
+    "نوشته‌های این بازیگر معروف در پیام تولدش مورد توجه قرار گرفت و بازتاب یافت. رسانه‌ها گزارش داده‌اند که او احساسات خود درباره سن جدیدش را به اشتراک گذاشته است."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "1349245004ce"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "آرزوم اونان ۵۳ ساله شد.",
+     "او مدتی است در پروژه‌ای حضور ندارد.",
+     "او پیامی در شبکه‌های اجتماعی به مناسبت تولد خود منتشر کرده که توجه‌ها را به خود جلب کرده است."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات پیام تولد",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "فقط به این نکته اشاره کرده که یادداشت او در پیام تولدش جلب توجه کرده است."
+       },
+       {
+        "source": "sozcu-magazin",
+        "text": "اشاره کرده است که پیام او شامل اظهاراتی درباره گذشته، از دست‌رفتگان و عزیزانش بوده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   }
   },
   {
    "id": "12c5f79f7012",
@@ -2229,9 +2449,27 @@
      "url": "https://www.sabah.com.tr/magazin/ozgur-filistin-turnesi-avrupayi-salladi-7692348",
      "title": "Özgür Filistin turnesi Avrupa'yı salladı",
      "snippet": "Filistin'e destek açıklamaları nedeniyle İngiliz şarkıcı Ed Sheeran'ın turnesinden çıkarılan ABD'li rapçi Macklemore, gelirini Filistinlileri savunan kuruluşlara bağışlayacağı 'Özgür Filistin Turnesi'... Devamı için tıklayınız",
-     "published": "2026-10-31T16:28:54.000Z"
+     "published": "2026-10-31T16:28:54.000Z",
+     "titleFa": "تور آزاد فلسطین اروپا را تکان داد"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/3effbf/1200/675/0/88/761/516?u=https://isbh.tmgrup.com.tr/sbh/2026/10/31/ozgur-filistin-turnesi-avrupayi-salladi-1793464069463.jpeg",
+    "https://iasbh.tmgrup.com.tr/3efec1/752/395/0/103/761/503?u=https://isbh.tmgrup.com.tr/sbh/2026/10/31/ozgur-filistin-turnesi-avrupayi-salladi-1793464069463.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "تور «فلسطین آزاد» با هنرمندی مکلمور در اروپا برگزار شد",
+   "summaryFa": "مکلمور، رپر آمریکایی، پس از کنار گذاشته شدن از تور اد شیرن به دلیل حمایت از فلسطین، تور خود را در اروپا برگزار کرد. او اعلام کرد که درآمد حاصل از این تور را به سازمان‌های حامی فلسطین اهدا خواهد کرد.",
+   "bodyFa": [
+    "مکلمور، رپر آمریکایی، پس از آنکه به دلیل اظهاراتش در حمایت از فلسطین از تور خواننده بریتانیایی، اد شیرن، کنار گذاشته شد، تور مستقلی به نام «فلسطین آزاد» را در اروپا به راه انداخت که با استقبال زیادی روبرو شد.",
+    "این هنرمند اعلام کرده است که تمام درآمد حاصل از این تور را به سازمان‌هایی که از حقوق فلسطینیان دفاع می‌کنند، اهداء خواهد کرد. او همچنین آخرین اجرای خود را در شهر لندن روی صحنه برد و در جریان آن به وضعیت کودکان در غزه اشاره کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c4c318d7d603",
@@ -6305,35 +6543,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "5409955d6734",
-   "url": "https://www.haberturk.com/magazin/usta-oyuncu-patrick-stewart-tan-aci-haber-3923592",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Usta oyuncu hayatını kaybetti",
-   "snippet": "Sinema, televizyon ve tiyatro sahnesinde unutulmaz rollere imza atan, en çok da 'Star trek' serisiyle hafızalara kazınan efsane oyuncu Patrick Stewart, 86 yaşında hayata veda etti",
-   "image": "https://im.haberturk.com/l/2026/10/29/ver1793337930/3923592/jpg/1920x1080",
-   "video": null,
-   "published": "2026-10-30T06:34:51.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/usta-oyuncu-patrick-stewart-tan-aci-haber-3923592",
-     "title": "Usta oyuncu hayatını kaybetti",
-     "snippet": "Sinema, televizyon ve tiyatro sahnesinde unutulmaz rollere imza atan, en çok da 'Star trek' serisiyle hafızalara kazınan efsane oyuncu Patrick Stewart, 86 yaşında hayata veda etti",
-     "published": "2026-10-30T06:34:51.000Z"
-    }
-   ]
   },
   {
    "id": "1737d1176616",
@@ -12673,6 +12882,53 @@
    "bodyFa": [
     "بر اساس اطلاعات منتشر شده، زمان پخش قسمت بیستم سریال عشق احتمالی تغییر کرده است. این تغییر به دلیل تعطیلات روز ۲۹ اکتبر، مصادف با روز جمهوری، صورت گرفته است و پخش این سریال محبوب شبکه SHOW TV به مدت یک هفته متوقف شده است.",
     "با اعلام این تغییر، تاریخ جدید انتشار قسمت تازه این اثر مشخص شد. طرفداران این مجموعه می‌توانند قسمت جدید را در پنجمین روز از ماه آبان و در روز پنج‌شنبه تماشا کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "8b482bcf535b",
+   "url": "https://www.dailysabah.com/arts/music/inside-rap-world-jay-zs-super-bowl-show-eminems-stolen-tracks",
+   "source": "dailysabah-arts",
+   "sourceName": "Daily Sabah",
+   "lang": "en",
+   "title": "Inside rap world: Jay-Z’s Super Bowl show, Eminem’s stolen tracks",
+   "snippet": "Sometimes, a lyric has a way of coming back to its writer years later. Jay-Z once rapped about turning down a Super Bowl offer in a song. Now, he is set to headline the halftime sh...",
+   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/27/467714.jpg",
+   "video": null,
+   "published": "2026-10-27T10:30:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "dailysabah-arts",
+     "name": "Daily Sabah",
+     "url": "https://www.dailysabah.com/arts/music/inside-rap-world-jay-zs-super-bowl-show-eminems-stolen-tracks",
+     "title": "Inside rap world: Jay-Z’s Super Bowl show, Eminem’s stolen tracks",
+     "snippet": "Sometimes, a lyric has a way of coming back to its writer years later. Jay-Z once rapped about turning down a Super Bowl offer in a song. Now, he is set to headline the halftime sh...",
+     "published": "2026-10-27T10:30:00.000Z",
+     "titleFa": "درون دنیای رپ: اجرای جی‌زی در سوپر بول و آثار سرقت‌شده امینم"
+    }
+   ],
+   "images": [
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/27/467714.jpg",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/27/thumbs/1200x675/467714.jpg",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/images/menu_items/LkKGaG.jpg",
+    "https://idsb.tmgrup.com.tr/ly/theme_dailysabah/images/ds-tv.png",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/27/467714.jpg?v=1793099049",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/27/467715.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای جی‌زی در سوپر بول و پرونده حقوقی مربوط به آثار سرقت‌شده امینم",
+   "summaryFa": "جی‌زی برای اجرای برنامه در سوپر بول آماده می‌شود و در خبری دیگر، ضبط‌کننده‌های سرقت‌شده امینم محور یک پرونده حقوقی قرار گرفته‌اند.",
+   "bodyFa": [
+    "در روйدادی مرتبط با دنیای موسیقی رپ، جی‌زی که پیش‌تر در یکی از ترانه‌های خود از رد کردن پیشنهاد حضور در سوپر بول گفته بود، اکنون قرار است به عنوان خواننده اصلی در بخش نیمه وقت این رویداد به روی صحنه برود.",
+    "همزمان با این خبر، گزارش شده است که فایل‌ها و ضبط‌کننده‌های سرقت‌شده متعلق به امینم در مرکز یک پرونده حقوقی قرار گرفته و موضوع پیگیری قانونی است."
    ],
    "ai": true,
    "aiTries": 1
