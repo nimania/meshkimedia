@@ -96,7 +96,10 @@
     "engagement-day:2026-10-31",
     "slot:2026-10-31:3",
     "editorial:dubbed-6:0",
-    "slot:2026-11-01:0"
+    "slot:2026-11-01:0",
+    "engagement:poll:kadir",
+    "engagement-day:2026-11-02",
+    "slot:2026-11-02:3"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -145,9 +148,10 @@
     "actor:selen-domac": "2026-10-30",
     "actor:melisa-berberoglu": "2026-10-30",
     "actor:tugay-erdogan": "2026-10-30",
-    "actor:ozgur-berber": "2026-10-31"
+    "actor:ozgur-berber": "2026-10-31",
+    "poll:kadir": "2026-11-02"
   },
-  "updated": "2026-11-01T07:43:28.364Z",
+  "updated": "2026-11-02T16:12:28.270Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
@@ -184,6 +188,13 @@
       "date": "2026-10-31",
       "channel": "@ehtemalaneshgheh",
       "url": "https://t.me/ehtemalaneshgheh/37"
+    },
+    "engagement:poll:kadir": {
+      "message_id": 39,
+      "poll_id": "5999332807225116775",
+      "date": "2026-11-02",
+      "channel": "@ehtemalaneshgheh",
+      "url": "https://t.me/ehtemalaneshgheh/39"
     }
   }
 }

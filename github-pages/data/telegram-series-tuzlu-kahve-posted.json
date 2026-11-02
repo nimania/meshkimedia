@@ -89,9 +89,12 @@
     "editorial:original-4:6",
     "slot:2026-11-01:1",
     "editorial:dubbed-14:0",
-    "slot:2026-11-02:0"
+    "slot:2026-11-02:0",
+    "engagement:poll:choice",
+    "engagement-day:2026-11-02",
+    "slot:2026-11-02:3"
   ],
-  "updated": "2026-11-02T06:17:03.744Z",
+  "updated": "2026-11-02T16:12:25.390Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
@@ -124,7 +127,8 @@
     "episode:5": "2026-11-02",
     "episode:6": "2026-10-30",
     "actor:bugra-gulsoy": "2026-10-31",
-    "poll:trust": "2026-10-29"
+    "poll:trust": "2026-10-29",
+    "poll:choice": "2026-11-02"
   },
   "engagementReceipts": {
     "engagement:quiz:actor:nebahat-cehre": {
@@ -161,6 +165,13 @@
       "date": "2026-10-31",
       "channel": "@ghahvehshoor",
       "url": "https://t.me/ghahvehshoor/32"
+    },
+    "engagement:poll:choice": {
+      "message_id": 36,
+      "poll_id": "5999154497362855332",
+      "date": "2026-11-02",
+      "channel": "@ghahvehshoor",
+      "url": "https://t.me/ghahvehshoor/36"
     }
   }
 }
