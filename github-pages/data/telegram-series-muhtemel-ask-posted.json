@@ -101,7 +101,8 @@
     "engagement-day:2026-11-02",
     "slot:2026-11-02:3",
     "editorial:original-1:6",
-    "slot:2026-11-03:0"
+    "slot:2026-11-03:0",
+    "news:f9c5fc0a1bea"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -131,7 +132,8 @@
     "0ddb034f795b42a91bd0752f",
     "8c27df765f99fa6072d6f0fa",
     "a748cc4f74c67009f7ddf523",
-    "9056cb9e4b519f4556bb9fb2"
+    "9056cb9e4b519f4556bb9fb2",
+    "0cfd3a32029fc078279568ae"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-03",
@@ -154,7 +156,7 @@
     "actor:ozgur-berber": "2026-10-31",
     "poll:kadir": "2026-11-02"
   },
-  "updated": "2026-11-03T06:56:13.147Z",
+  "updated": "2026-11-03T21:06:23.415Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
