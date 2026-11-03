@@ -94,9 +94,11 @@
     "engagement-day:2026-11-02",
     "slot:2026-11-02:3",
     "editorial:dubbed-16:0",
-    "slot:2026-11-02:1"
+    "slot:2026-11-02:1",
+    "editorial:dubbed-3:0",
+    "slot:2026-11-03:0"
   ],
-  "updated": "2026-11-02T17:00:34.971Z",
+  "updated": "2026-11-03T06:56:10.540Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
@@ -118,10 +120,11 @@
     "1f81ed35a14dc45bb3f1e78d",
     "f7e839c1b0939c2150f67920",
     "9bc664fe093919c26a1a06db",
-    "28b97ea8bbfe832944448f21"
+    "28b97ea8bbfe832944448f21",
+    "c47a6d8f78b6e91dc3c24747"
   ],
   "lastSubjects": {
-    "episode:1": "2026-10-31",
+    "episode:1": "2026-11-03",
     "actor:nebahat-cehre": "2026-10-14",
     "episode:3": "2026-11-01",
     "episode:4": "2026-11-01",
