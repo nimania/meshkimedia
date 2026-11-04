@@ -102,7 +102,9 @@
     "slot:2026-11-02:3",
     "editorial:original-1:6",
     "slot:2026-11-03:0",
-    "news:f9c5fc0a1bea"
+    "news:f9c5fc0a1bea",
+    "editorial:original-2:6",
+    "slot:2026-11-04:0"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -133,12 +135,13 @@
     "8c27df765f99fa6072d6f0fa",
     "a748cc4f74c67009f7ddf523",
     "9056cb9e4b519f4556bb9fb2",
-    "0cfd3a32029fc078279568ae"
+    "0cfd3a32029fc078279568ae",
+    "6e314d99798d62a8d5f82b49"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-03",
     "actor:ayca-aysin-turan": "2026-10-14",
-    "episode:2": "2026-11-01",
+    "episode:2": "2026-11-04",
     "actor:ekin-koc": "2026-10-28",
     "actor:feyyaz-serifoglu": "2026-10-31",
     "poll:independence": "2026-10-15",
@@ -156,7 +159,7 @@
     "actor:ozgur-berber": "2026-10-31",
     "poll:kadir": "2026-11-02"
   },
-  "updated": "2026-11-03T21:06:23.415Z",
+  "updated": "2026-11-04T09:28:11.333Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {

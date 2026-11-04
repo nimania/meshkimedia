@@ -98,9 +98,11 @@
     "editorial:dubbed-3:0",
     "slot:2026-11-03:0",
     "news:7f67da0d46d9",
-    "news:9e930d285af9"
+    "news:9e930d285af9",
+    "editorial:dubbed-8:0",
+    "slot:2026-11-04:0"
   ],
-  "updated": "2026-11-03T21:06:20.543Z",
+  "updated": "2026-11-04T09:28:08.630Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
@@ -125,12 +127,13 @@
     "28b97ea8bbfe832944448f21",
     "c47a6d8f78b6e91dc3c24747",
     "e1b20ee62337136ebecae725",
-    "76faeedbfbc0dbe77de40a4c"
+    "76faeedbfbc0dbe77de40a4c",
+    "de13466d9541540a4ea687d4"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-03",
     "actor:nebahat-cehre": "2026-10-14",
-    "episode:3": "2026-11-01",
+    "episode:3": "2026-11-04",
     "episode:4": "2026-11-01",
     "actor:eda-ece": "2026-10-28",
     "poll:family": "2026-10-15",
