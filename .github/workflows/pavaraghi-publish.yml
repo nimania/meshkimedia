@@ -54,15 +54,8 @@ jobs:
                   count += 1
           print(f'Verified {count} published articles against their current source text')
           PYVERIFY
-      - name: Commit generated Pavaraghi pages
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add github-pages/pavaraghi/ github-pages/data/search-index.json github-pages/data/pavaraghi-audit.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Build updated Pavaraghi article pages from catalog [skip ci]'
-            git push
-          fi
+      # The catalog is versioned before this run. Publish its verified build directly;
+      # generated HTML does not need a second source commit to be deployable.
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
       - name: Upload complete site
