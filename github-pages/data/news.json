@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-04T18:00:22.363Z",
+ "updated": "2026-11-04T23:43:17.411Z",
  "items": [
+  {
+   "id": "0b92b48d1fd5",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/masterchef-turkiyede-sadi-ve-ayse-kavgasi-sadi-yarismadan-diskalifiye-mi-oldu-7694428",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "MasterChef Türkiye’de Şadi ve Ayşe kavgası! Şadi yarışmadan diskalifiye mi oldu?",
+   "snippet": "MasterChef Türkiye yarışmasında tansiyonun yükseldiği anlarda Şadi ve Ayşe birbirine girdi. Mehmet Şef, iki yarışmacıyı stüdyodan göndererek kavgaya müdahale etti. Yaşanan olay sonrası Şadi'nin MasterChef'ten diskalifiye edildiği iddia edildi. Peki, Şadi yarışmadan diskalifiye mi oldu? İşte detaylar...",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aeb80626672e03049527944.jpg",
+   "video": null,
+   "published": "2026-11-04T21:21:04.000Z",
+   "scope": "linked",
+   "kind": "rumor",
+   "entities": {
+    "series": [
+     "masterchef-turkiye"
+    ],
+    "people": [],
+    "networks": [
+     "tv8"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/masterchef-turkiyede-sadi-ve-ayse-kavgasi-sadi-yarismadan-diskalifiye-mi-oldu-7694428",
+     "title": "MasterChef Türkiye’de Şadi ve Ayşe kavgası! Şadi yarışmadan diskalifiye mi oldu?",
+     "snippet": "MasterChef Türkiye yarışmasında tansiyonun yükseldiği anlarda Şadi ve Ayşe birbirine girdi. Mehmet Şef, iki yarışmacıyı stüdyodan göndererek kavgaya müdahale etti. Yaşanan olay sonrası Şadi'nin MasterChef'ten diskalifiye edildiği iddia edildi. Peki, Şadi yarışmadan diskalifiye mi oldu? İşte detaylar",
+     "published": "2026-11-04T21:21:04.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aeb80626672e03049527944.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aeb80626672e03049527944.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "3d8e36184090",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/pinar-denizden-33-yas-kutlamasi-nasil-girersen-oyle-gidermis-7694497",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Pınar Deniz'den 33. yaş kutlaması! 'Nasıl girersen öyle gidermiş'",
+   "snippet": "Dizilerin aranılan isimlerinden oyuncu Pınar Deniz, 33. yaşına merhaba dedi. Ünlü isim, sosyal medyadan paylaştığı doğum günü mesajına ''Sevgili 33! Nasıl girersen öyle gidermiş. Yap şovunu'' notunu düştü.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aeb919d6672e0304952796c.jpg",
+   "video": null,
+   "published": "2026-11-04T20:14:40.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/pinar-denizden-33-yas-kutlamasi-nasil-girersen-oyle-gidermis-7694497",
+     "title": "Pınar Deniz'den 33. yaş kutlaması! 'Nasıl girersen öyle gidermiş'",
+     "snippet": "Dizilerin aranılan isimlerinden oyuncu Pınar Deniz, 33. yaşına merhaba dedi. Ünlü isim, sosyal medyadan paylaştığı doğum günü mesajına ''Sevgili 33! Nasıl girersen öyle gidermiş. Yap şovunu'' notunu düştü.",
+     "published": "2026-11-04T20:14:40.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aeb919d6672e0304952796c.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aeb919d6672e0304952796c.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "37b79dd124f0",
    "url": "https://www.sozcu.com.tr/lara-aslan-yoruk-kizi-dizisinden-cikarildi-mi-p376060",
@@ -230,6 +310,35 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/altin-kaplama-kitap-jpg-PjCf16LLf0yKf-xoEvKWLw.jpg?w=288&h=162&mode=crop&scale=both"
    ],
    "mediaDone": true
+  },
+  {
+   "id": "98683e249540",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/deniz-cakirdan-duygulandiran-paylasim-yakin-dostu-kanbolat-gorkem-arslani-dogum-gununde-unutmadi-7694365",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Deniz Çakır'dan duygulandıran paylaşım! Yakın dostu Kanbolat Görkem Arslan'ı doğum gününde unutmadı",
+   "snippet": "Ani ölümüyle sanat dünyasını yasa boğan Poyraz Karayel'in Sefer'i oyuncu Kanbolat Görkem Arslan, doğum gününde unutulmadı. Arslan'ın yakın dostları Deniz Çakır ve Celil Nalçakan, sosyal medyadan duygu yüklü paylaşımlar yaptı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aeb502f6672e030495278c0.jpg",
+   "video": null,
+   "published": "2026-11-04T15:34:49.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/deniz-cakirdan-duygulandiran-paylasim-yakin-dostu-kanbolat-gorkem-arslani-dogum-gununde-unutmadi-7694365",
+     "title": "Deniz Çakır'dan duygulandıran paylaşım! Yakın dostu Kanbolat Görkem Arslan'ı doğum gününde unutmadı",
+     "snippet": "Ani ölümüyle sanat dünyasını yasa boğan Poyraz Karayel'in Sefer'i oyuncu Kanbolat Görkem Arslan, doğum gününde unutulmadı. Arslan'ın yakın dostları Deniz Çakır ve Celil Nalçakan, sosyal medyadan duygu yüklü paylaşımlar yaptı.",
+     "published": "2026-11-04T15:34:49.000Z"
+    }
+   ]
   },
   {
    "id": "b19901df3c7a",
@@ -805,6 +914,50 @@
    "aiTries": 1
   },
   {
+   "id": "6b5ef52c80d0",
+   "url": "https://www.sozcu.com.tr/burak-ozcivit-in-oynadigi-dizide-sosyal-medyayi-ayaga-kaldiran-sahne-p375835",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Tepkiler çığ gibi büyüdü! Burak Özçivit'in dizisinde o sahne fragmandan silindi",
+   "snippet": "Burak Özçivit'in başrolünde yer aldığı Güneşin Doğduğu Yer dizisinin yeni tanıtımı yayınlandı. 8. bölümden gelen görüntü...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/tepkiler-cig-gibi-buyudu-burak-ozcivitin-dizisinde-o-sahne-fragmandan-silindijpeg-pAyCSsnRvE60DHTAlUfC4A.jpeg",
+   "video": null,
+   "published": "2026-11-04T08:08:16.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "gunesin-dogdugu-yer"
+    ],
+    "people": [
+     "burak-ozcivit"
+    ],
+    "networks": [
+     "atv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/burak-ozcivit-in-oynadigi-dizide-sosyal-medyayi-ayaga-kaldiran-sahne-p375835",
+     "title": "Tepkiler çığ gibi büyüdü! Burak Özçivit'in dizisinde o sahne fragmandan silindi",
+     "snippet": "Burak Özçivit'in başrolünde yer aldığı Güneşin Doğduğu Yer dizisinin yeni tanıtımı yayınlandı. 8. bölümden gelen görüntü...",
+     "published": "2026-11-04T08:08:16.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/tepkiler-cig-gibi-buyudu-burak-ozcivitin-dizisinde-o-sahne-fragmandan-silindijpeg-pAyCSsnRvE60DHTAlUfC4A.jpeg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/tepkiler-cig-gibi-buyudu-burak-ozcivitin-dizisinde-o-sahne-fragmandan-silindijpeg-pAyCSsnRvE60DHTAlUfC4A.jpeg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/burak-ozcivitin-oynadigi-dizide-sosyal-medyayi-ayaga-kaldiran-sahne-2jpeg-zy1hRoFkKkyllS0Fb6otmw.jpeg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/175jpg-T0WEZBYHaUy5KAk95tH73A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-goruntusu-20261104-105924jpeg-Uphht1hvbEOzkEOtYUOo8Q.jpeg"
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "f89cdedc014c",
    "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-yeni-bolumuyle-bu-aksam-show-tv-de-3924818",
    "source": "haberturk-magazin",
@@ -908,6 +1061,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "195248f68a47",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/unlu-oyuncunun-milyon-dolarlik-evi-var-ama-cadirda-yasiyor-7693879",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Ünlü oyuncunun milyon dolarlık evi var ama çadırda yaşıyor",
+   "snippet": "Jenny McCarthy, küf ve mikotoksin zehirlenmesi sonrası milyonlarca dolar değerindeki evine giremez hale geldiğini açıkladı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aead7436672e0304952701f.jpg",
+   "video": null,
+   "published": "2026-11-04T07:00:26.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/unlu-oyuncunun-milyon-dolarlik-evi-var-ama-cadirda-yasiyor-7693879",
+     "title": "Ünlü oyuncunun milyon dolarlık evi var ama çadırda yaşıyor",
+     "snippet": "Jenny McCarthy, küf ve mikotoksin zehirlenmesi sonrası milyonlarca dolar değerindeki evine giremez hale geldiğini açıkladı.",
+     "published": "2026-11-04T07:00:26.000Z"
+    }
+   ]
   },
   {
    "id": "0ff481978f27",
@@ -12789,100 +12971,6 @@
    "bodyFa": [
     "هفسانور سانجاک‌توتان، بازیگر ترکیه‌ای، دست به تغییر چهره‌ای اساسی زد و با موهای بلند خود خداحافظی کرد. او در تصمیمی ناگهانی موهایش را تا اندازه گوش‌ها کوتاه کرد و چهره تازه‌ای به خود گرفت.",
     "این بازیگر با عینک و استایل جدیدش مقابل دوربین رفت و تصاویر آن را به اشتراک گذاشت که به سرعت در شبکه‌های اجتماعی مورد توجه کاربران قرار گرفت و بحث‌برانگیز شد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "913d5ac5043a",
-   "url": "https://www.sabah.com.tr/magazin/vefatindan-20-yil-sonra-mukemmellik-odulu-7691833",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Vefatından 20 yıl sonra mükemmellik ödülü",
-   "snippet": "Aretha Franklin'den Bee Gees'e, Norah Jones'tan Barbara Streisand'a uzanan çalışmalarıyla dünya müziğine yön veren Türk müzik yapımcısı Arif Mardin, Rock amp; Roll Hall of Fame'in 2026 Müzikal Mükemmellik... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/5b2baf/1200/675/0/34/456/291?u=https://isbh.tmgrup.com.tr/sbh/2026/10/30/1793392115133.jpeg",
-   "video": null,
-   "published": "2026-10-30T20:29:06.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/vefatindan-20-yil-sonra-mukemmellik-odulu-7691833",
-     "title": "Vefatından 20 yıl sonra mükemmellik ödülü",
-     "snippet": "Aretha Franklin'den Bee Gees'e, Norah Jones'tan Barbara Streisand'a uzanan çalışmalarıyla dünya müziğine yön veren Türk müzik yapımcısı Arif Mardin, Rock amp; Roll Hall of Fame'in 2026 Müzikal Mükemmellik... Devamı için tıklayınız",
-     "published": "2026-10-30T20:29:06.000Z",
-     "titleFa": "بیست سال پس از درگذشت، جایزه تعالی"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/5b2baf/1200/675/0/34/456/291?u=https://isbh.tmgrup.com.tr/sbh/2026/10/30/1793392115133.jpeg",
-    "https://iasbh.tmgrup.com.tr/54eae6/752/395/0/44/456/283?u=https://isbh.tmgrup.com.tr/sbh/2026/10/30/1793392115133.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "اعطای جایزه تعالی موسیقی تالار مشاهیر راک اند رول به عارف مرتین",
-   "summaryFa": "عارف مرتین، تهیه‌کننده موسیقی ترک، ۲۰ سال پس از درگذشتش شایسته دریافت جایزه تعالی موسیقی تالار مشاهیر راک اند رول در سال ۲۰۲۶ شناخته شد. او در طول فعالیت حرفه‌ای خود با هنرمندان برجسته‌ای همکاری کرده و برنده ۱۱ جایزه گرمی شده است.",
-   "bodyFa": [
-    "عارف مرتین، تهیه‌کننده نامدار موسیقی اهل ترکیه که با فعالیت‌های خود در عرصه جهانی از آرتا فرانکلین و بی جیز گرفته تا نورا جونز و باربارا استرایسند بر موسیقی جهان تاثیرگذار بوده است، به عنوان برنده جایزه تعالی موسیقی تالار مشاهیر راک اند رول برای سال ۲۰۲۶ معرفی شد.",
-    "این تهیه‌کننده برجسته که پیش‌تر موفق به کسب ۱۱ جایزه گرمی شده بود، این افتخار را ۲۰ سال پس از درگذشت خود به دست می‌آورد تا جایگاهش در صنعت موسیقی بین‌المللی بیش از پیش گرامی داشته شود."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "0a95efc27834",
-   "url": "https://www.sabah.com.tr/magazin/golfte-oduller-sahiplerini-buldu-7691832",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "Golfte ödüller sahiplerini buldu",
-   "snippet": "Bodrum'da gerçekleşen Sway Golf Turnuvası'nda 99 oyuncu bir araya geldi. İki gün süren turnuvada şampiyonluk kupaları sahiplerini bulurken golf, rekabet ve keyifli bir hafta sonu aynı sahada buluştu. 79... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/b9d7c0/1200/675/0/0/603/340?u=https://isbh.tmgrup.com.tr/sbh/2026/10/30/1793392096425.jpeg",
-   "video": null,
-   "published": "2026-10-30T20:28:29.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/golfte-oduller-sahiplerini-buldu-7691832",
-     "title": "Golfte ödüller sahiplerini buldu",
-     "snippet": "Bodrum'da gerçekleşen Sway Golf Turnuvası'nda 99 oyuncu bir araya geldi. İki gün süren turnuvada şampiyonluk kupaları sahiplerini bulurken golf, rekabet ve keyifli bir hafta sonu aynı sahada buluştu. 79... Devamı için tıklayınız",
-     "published": "2026-10-30T20:28:29.000Z",
-     "titleFa": "جوایز در گلف اهدا شدند"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/b9d7c0/1200/675/0/0/603/340?u=https://isbh.tmgrup.com.tr/sbh/2026/10/30/1793392096425.jpeg",
-    "https://iasbh.tmgrup.com.tr/163bc5/752/395/0/10/603/326?u=https://isbh.tmgrup.com.tr/sbh/2026/10/30/1793392096425.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "برگزاری مسابقات گلف سُوِی در بودروم با اهدای جوایز",
-   "summaryFa": "مسابقات گلف سُوِی در بودروم با حضور ۹۹ بازیکن طی دو روز برگزار شد و جوایز به برندگان اهدا گردید.",
-   "bodyFa": [
-    "تورنمنت گلف سُوِی در شهر بودروم برگزار شد و طی آن ۹۹ بازیکن برای رقابتی جذاب در کنار یکدیگر گرد هم آمدند.",
-    "این مسابقات که دو روز به طول انجامید، شامل ۷۹ بازیکن بزرگسال به همراه ۲۰ بازیکن جوان و خردسال بود که در پایان، کاپ‌های قهرمانی به برندگان اهدا شد."
    ],
    "ai": true,
    "aiTries": 1
