@@ -1,0 +1,1059 @@
+{
+  "schemaVersion": 1,
+  "seriesSlug": "muhtemel-ask",
+  "checkedAt": "2026-11-04",
+  "scope": "All 19 confirmed released episodes as of 2026-11-04; no episode 20 recap.",
+  "method": "Independent Persian synthesis of official postbroadcast reports. Turkish caption checkpoints resolve selected endings and conflicting claims; not a full-video or full-transcript review. Raw copyrighted source text is not republished.",
+  "nameMap": {
+    "Defne": "دفنه",
+    "Kadir": "قادر",
+    "Kader": "کادر",
+    "Tolga": "تولگا",
+    "Ali": "علی",
+    "Süleyman": "سلیمان"
+  },
+  "episodes": [
+    {
+      "episode": 1,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3892794-muhtemel-ask-romantik-hikayesiyle-ilk-bolumden-begeni-topladi",
+        "publishedAt": "2026-06-19T00:00:00+03:00",
+        "sha256": "2ccb3016fcd45e76f570b8f63d89e41ee884cc57a9b57b363290065e4c356f40"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-1-izle/133682",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/06/19/599C0867CDE33B36D591C7B9BDDF9162_1782225193_tr.vtt?v=1782225193",
+        "language": "tr",
+        "sha256": "9cc5976b60a97ee16e219edd17d33996c54c522201aec48f0ea19b34416474b2",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:16:34",
+            "end": "02:17:14",
+            "findingFa": "حضور هم‌زمان قادر و تولگا و اختلاف مقابل خانه دفنه"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Defne ve Tolga yakınlaşıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-ve-tolga-yakinlasiyor/133672",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Defne'yi şoke eden manzara!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defneyi-soke-eden-manzara/133680",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [
+        "متن پیش‌نمایش قسمت دوم در انتهای خبر قسمت اول، وارد روایت قسمت اول نشده است."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-1",
+          "partInOriginal": 1,
+          "title": "بخش ۱ | دفتر در آستانه بحران؛ دفنه سراغ یک آشنای قدیمی می‌رود"
+        },
+        {
+          "slug": "dubbed-2",
+          "partInOriginal": 2,
+          "title": "بخش ۲ | یک پیام، دو برخورد و موکلی که غریبه نیست"
+        },
+        {
+          "slug": "dubbed-3",
+          "partInOriginal": 3,
+          "title": "بخش ۳ | پیشنهاد لونت و مهمان‌هایی که با هم کنار نمی‌آیند"
+        }
+      ]
+    },
+    {
+      "episode": 2,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3894367-muhtemel-ask-tum-kategorilerde-zirvede",
+        "publishedAt": "2026-06-26T00:00:00+03:00",
+        "sha256": "0d261c9342bced995bace6be180c8c4de460359eb3a9a82eb74b26a177ad1380"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-2-izle/133829",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/06/25/E9EE9CD8C670705EBC538BA77917800C_1782645869_tr.vtt?v=1782645869",
+        "language": "tr",
+        "sha256": "7c6e99323229d50eb7e5e8de8d987100fd01cec98743fa25071aa50b37409202",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:09:19",
+            "end": "02:11:18",
+            "findingFa": "دیدار دفنه و اعلام منتفی شدن طلاق"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "\"Eşkıya değiliz, Adanalıyız...\"",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-eskiya-degiliz-adanaliyiz/133817",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "\"Boşanma işi iptal...\"",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-bosanma-isi-iptal/133827",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-4",
+          "partInOriginal": 1,
+          "title": "بخش ۴ | اعتراف به تولگا؛ پاسخ منفی قادر"
+        },
+        {
+          "slug": "dubbed-5",
+          "partInOriginal": 2,
+          "title": "بخش ۵ | قادر کوتاه می‌آید؛ دفنه قرارداد را امضا می‌کند"
+        },
+        {
+          "slug": "dubbed-6",
+          "partInOriginal": 3,
+          "title": "بخش ۶ | حرفی که گفته نمی‌شود؛ ازدواجی که تمام نشده است"
+        }
+      ]
+    },
+    {
+      "episode": 3,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3895975-muhtemel-ask-ucuncu-bolumuyle-de-liderligini-korudu",
+        "publishedAt": "2026-07-03T00:00:00+03:00",
+        "sha256": "d0f3e330278060f66e05fc78dddb9b788a1ac1c728b521e6de4c4c28991dd2a6"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-3-izle/133939",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/07/03/B252CF3EFB848EA4F2914DE51099362E_1783347597_tr.vtt?v=1783607203",
+        "language": "tr",
+        "sha256": "2c1463d8189caea5bdc72cd5cbd860a8ae59769949f83f7d0f2fe8429c777ef7",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:24:12",
+            "end": "02:25:27",
+            "findingFa": "تولگا با وجود اطلاع از دریافت پول، پیشنهاد رابطه می‌دهد"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Kadir ve Leyla yüzleşiyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-kadir-ve-leyla-yuzlesiyor/133930",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "\"İkisi aynı kıza aşıkmış!\"",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-ikisi-ayni-kiza-asikmis/133935",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "\"Benim evliliğim gerçek değil!\"",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-benim-evliligim-gercek-degil/133937",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Tolga, Defne'ye açılıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-tolga-defneye-aciliyor/133938",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [
+        "فرض ملیس درباره زن داخل عکس به عنوان برداشت شخصیت روایت شده، نه واقعیت اثبات‌شده."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-7",
+          "partInOriginal": 1,
+          "title": "بخش ۷ | لیلا چه نسبتی با قادر دارد؟ سرنخ یک عکس قدیمی"
+        },
+        {
+          "slug": "dubbed-8",
+          "partInOriginal": 2,
+          "title": "بخش ۸ | دفنه توضیح می‌شنود؛ تولگا پیشنهاد رابطه می‌دهد"
+        }
+      ]
+    },
+    {
+      "episode": 4,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3897543-muhtemel-ask-yeni-bolumuyle-ekranlara-heyecan-katti",
+        "publishedAt": "2026-07-10T00:00:00+03:00",
+        "sha256": "c33db01b74f279c474c4d9d79809a91cceaa9c843c47fdaff90976995e6800de"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-4-izle/134033",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/07/10/A640C7BB0AF27333572A8694F235DA4E_1783944169_tr.vtt?v=1783944169",
+        "language": "tr",
+        "sha256": "1988c4fceef01a3df1daa10bd09d3b6f80be6c879d05cb924c082f4b0c8654a7",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:17:52",
+            "end": "02:19:12",
+            "findingFa": "قادر از طلاق خبر می‌دهد و دفنه دعوت به همراهی را می‌پذیرد"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Kadir, Defne'nin kapısına dayanıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-kadir-defnenin-kapisina-dayaniyor/134023",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Kadir, Defne'yi ortamdan çekip alıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-kadir-defneyi-ortamdan-cekip-aliyor/134025",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Tolga ve Kadir karşı karşıya!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-tolga-ve-kadir-karsi-karsiya/134027",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Kadir ve Defne'nin duygusal yüzleşmesi...",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-kadir-ve-defnenin-duygusal-yuzlesmesi/134031",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Defne kararını veriyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-kararini-veriyor/134032",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-9",
+          "partInOriginal": 1,
+          "title": "بخش ۹ | قرار تولگا؛ مهلتی که قادر را به حرکت می‌اندازد"
+        },
+        {
+          "slug": "dubbed-10",
+          "partInOriginal": 2,
+          "title": "بخش ۱۰ | طلاق انجام می‌شود؛ راز به دست خبرنگار می‌رسد"
+        }
+      ]
+    },
+    {
+      "episode": 5,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3899150-muhtemel-ask-besinci-bolumuyle-seyirciyle-bulustu",
+        "publishedAt": "2026-07-17T00:00:00+03:00",
+        "sha256": "a8ef316f4c51e950a9427993ff6f11239562abaf21b3b5b3f14f9b73e47c3974"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-5-izle/134119",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/07/16/4A621B546BFB49996DCC35F796115DF3_1784539720_tr.vtt?v=1784539720",
+        "language": "tr",
+        "sha256": "af552bce8c9881ae8c6d45ddf373d861c8e29f3623278b177b06d8cf8d5f124a",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:16:47",
+            "end": "02:17:20",
+            "findingFa": "سلیم از پیدا شدن عامل انتشار عکس‌ها خبر می‌دهد"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Tolga'dan basın açıklaması!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-tolgadan-basin-aciklamasi/134115",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Tolga ve Kadir yüzleşiyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-tolga-ve-kadir-yuzlesiyor/134116",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Defne'yi zorda bırakan durum!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defneyi-zorda-birakan-durum/134118",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-11",
+          "partInOriginal": 1,
+          "title": "بخش ۱۱ | خواستگاری در سایه خبری درباره کادر"
+        },
+        {
+          "slug": "dubbed-12",
+          "partInOriginal": 2,
+          "title": "بخش ۱۲ | دو رقیب پشت در بسته؛ خبری که شام را عوض می‌کند"
+        }
+      ]
+    },
+    {
+      "episode": 6,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3900790-muhtemel-ask-yeni-bolumuyle-zirvenin-sahibi-oldu",
+        "publishedAt": "2026-07-24T00:00:00+03:00",
+        "sha256": "907d5c86dd371657905c283d65c392413629407e1aa035c70ba9be8b12b381a8"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-6-izle/134220",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/07/23/DF80130150436DC2812607AECF63E728_1785162914_tr.vtt?v=1785162914",
+        "language": "tr",
+        "sha256": "426ebf2560d7b9aebab827cbda3a3ef25137c6b4241557dcfc6ee125ab8216eb",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:16:17",
+            "end": "02:18:23",
+            "findingFa": "درخواست جدایی و رفتن قادر؛ درخواست نرفتن در کلام پایانی دفنه"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Defne'nin kıskançlık krizi!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defnenin-kiskanclik-krizi/134212",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Tesadüfler ortalığı karıştırdı!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-tesadufler-ortaligi-karistirdi/134213",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Defne'nin sırrı ortaya çıkıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defnenin-sirri-ortaya-cikiyor/134214",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Defne, Kadir'den ayrılıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-kadirden-ayriliyor/134219",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-13",
+          "partInOriginal": 1,
+          "title": "بخش ۱۳ | رد عکس به اوفوک می‌رسد؛ شبی پرآشوب در رستوران"
+        },
+        {
+          "slug": "dubbed-14",
+          "partInOriginal": 2,
+          "title": "بخش ۱۴ | راز پول برملا می‌شود؛ جدایی با وجود پیشنهاد قادر"
+        }
+      ]
+    },
+    {
+      "episode": 7,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3902401-muhtemel-ask-7-bolumuyle-seyirciyle-bulustu",
+        "publishedAt": "2026-07-31T00:00:00+03:00",
+        "sha256": "26088c04d872966b12d373fbb9f2bd72c18aac1ee244f1264154549ce2c0666b"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-7-izle/134297",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/07/30/50620ED0D2F4662B81940ECF16D1DB2C_1785781107_tr.vtt?v=1786044390",
+        "language": "tr",
+        "sha256": "327a47e81d9929c7163df6502a1cae40160b7fe551c779070cd21640686ea63e",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:12:39",
+            "end": "02:15:53",
+            "findingFa": "دفنه قادر و نازلی را زیر نظر می‌گیرد؛ قادر از دفنه می‌خواهد در زندگی‌اش دخالت نکند"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Defne, Kadir'le vedalaşıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-kadirle-vedalasiyor/134291",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Kadir, Defne'nin gitmesine izin vermiyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-kadir-defnenin-gitmesine-izin-vermiyor/134293",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Defne, Kadir'i gözetlerken yakalanıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-kadiri-gozetlerken-yakalaniyor/134296",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [
+        "گزارش نوشتاری، گوینده اعتراض نهایی را مبهم/نادرست نسبت می‌دهد؛ زیرنویس و توالی گفت‌وگو نشان می‌دهد قادر دفنه را از دخالت منع می‌کند."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-15",
+          "partInOriginal": 1,
+          "title": "بخش ۱۵ | تصمیم به رفتن؛ بدهی‌ای که قادر پرداخت می‌کند"
+        },
+        {
+          "slug": "dubbed-16",
+          "partInOriginal": 2,
+          "title": "بخش ۱۶ | بازگشت به پروژه؛ دفنه هنوز از رابطه عقب می‌کشد"
+        }
+      ]
+    },
+    {
+      "episode": 8,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3904004-muhtemel-ask-zirveyi-birakmiyor",
+        "publishedAt": "2026-08-07T00:00:00+03:00",
+        "sha256": "60fc32441546846fa97622f8df327ad454aa360e472ca06f92cdd97f2a1b533d"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-8-izle/134366",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/08/06/4D356DFF652FA0237BADCBA3A46EA4EB_1786351132_tr.vtt?v=1786351132",
+        "language": "tr",
+        "sha256": "70b51310771fddce0083d4d55a0cf329157ad5c8cedc535ea3e0c716fea497fd",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:19:50",
+            "end": "02:20:58",
+            "findingFa": "گفت‌وگوی پرتنش حین رانندگی و پایان با سانحه"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Tolga sinirlerine hakim olamıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-tolga-sinirlerine-hakim-olamiyor/134355",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Kadir ve Tolga arasında sinirler gerildi!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-kadir-ve-tolga-arasinda-sinirler-gerildi/134357",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Defne ve Kadir arasında yakınlaşma!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-ve-kadir-arasinda-yakinlasma/134359",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Defne kaza yapıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-kaza-yapiyor/134365",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-17",
+          "partInOriginal": 1,
+          "title": "بخش ۱۷ | یک شب در خانه تولگا؛ قضاوتی پیش از شنیدن توضیح"
+        },
+        {
+          "slug": "dubbed-18",
+          "partInOriginal": 2,
+          "title": "بخش ۱۸ | اعتراف دفنه در مراسم پخش می‌شود؛ پایان با تصادف"
+        }
+      ]
+    },
+    {
+      "episode": 9,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3905608-muhtemel-ask-son-bolumuyle-seyirciyle-bulustu",
+        "publishedAt": "2026-08-14T00:00:00+03:00",
+        "sha256": "c527a4625b8cd07fe0a5844b461cccac1d03b27e92b3925e7095d8697246a052"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-9-izle/134432",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/08/13/8B3AE4C37F85216693C6F5CFC775EA17_1787120614_tr.vtt?v=1787120614",
+        "language": "tr",
+        "sha256": "6551d529719c73391f89d5e8b526761467bce24be80111ecd60b69cb4ae3c856",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:22:40",
+            "end": "02:24:32",
+            "findingFa": "پیشنهاد فرصتی دوباره و بازگشت خاطره‌های تصادف، تهدید و پول"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Selma, Defne'ye gerçekleri söylüyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-selma-defneye-gercekleri-soyluyor/134426",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Defne yaşadıklarını hatırladı mı?",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-yasadiklarini-hatirladi-mi/134431",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-19",
+          "partInOriginal": 1,
+          "title": "بخش ۱۹ | خانه قادر از نگاه زنی که گذشته را به یاد ندارد"
+        },
+        {
+          "slug": "dubbed-20",
+          "partInOriginal": 2,
+          "title": "بخش ۲۰ | خروج از خانه و بازگشت ناگهانی خاطرات"
+        }
+      ]
+    },
+    {
+      "episode": 10,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3907158-muhtemel-ask-10-bolumuyle-ekranlara-geldi",
+        "publishedAt": "2026-08-21T00:00:00+03:00",
+        "sha256": "e9a836015e64a8ee678c94ecaed51642eeb82fbcf19be50479e122945c39e7e2"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-10-izle/134505",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/08/20/1FEDB27C49A7DC1EAF09435E96418BC0_1787660238_tr.vtt?v=1787660243",
+        "language": "tr",
+        "sha256": "522be8061f44c8e571706512354761c20b070a91b6b305a7651da06f1396eb63",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:16:35",
+            "end": "02:18:02",
+            "findingFa": "توضیح کامل در ویدئوی دفنه و پشیمانی قادر"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Defne, Kadir'den intikam almak istiyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-kadirden-intikam-almak-istiyor/134495",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Videoyu izleyen Kadir gözyaşlarına boğuldu!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-videoyu-izleyen-kadir-gozyaslarina-boguldu/134504",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-21",
+          "partInOriginal": 1,
+          "title": "بخش ۲۱ | دفنه حافظه‌اش را پنهان می‌کند؛ مراسمی با هدفی دیگر"
+        },
+        {
+          "slug": "dubbed-22",
+          "partInOriginal": 2,
+          "title": "بخش ۲۲ | میز عقد دوباره خالی می‌ماند؛ تماشای دیرهنگام حقیقت"
+        }
+      ]
+    },
+    {
+      "episode": 11,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3908703-muhtemel-ask-11-bolumuyle-ekranlara-geldi",
+        "publishedAt": "2026-08-28T00:00:00+03:00",
+        "sha256": "4c653f210f32ea5e676e7806a04a7dee4ddf82aa553d7a9b70f5a5077f4a79dc"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-11-izle/134572",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/08/27/2FDF04BFEA6A0452769FE50B1A88A801_1788173978_tr.vtt?v=1788173978",
+        "language": "tr",
+        "sha256": "60dae436e95248b3c8393e1b1fc336ab874c932648dce278c14d979d7abe7017",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:15:41",
+            "end": "02:16:40",
+            "findingFa": "مواجهه دفنه با افراد در پارکینگ و درخواست کمک؛ بی‌حالی قادر"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Defne kaçırılıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-kaciriliyor/134571",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-23",
+          "partInOriginal": 1,
+          "title": "بخش ۲۳ | فرصت دوباره با شرط؛ قادر باید کمک بگیرد"
+        },
+        {
+          "slug": "dubbed-24",
+          "partInOriginal": 2,
+          "title": "بخش ۲۴ | شب گفت‌وگو در کلبه؛ روز ربوده شدن دفنه"
+        }
+      ]
+    },
+    {
+      "episode": 12,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3910220-muhtemel-ask-12-bolumuyle-seyirciyle-bulustu",
+        "publishedAt": "2026-09-04T00:00:00+03:00",
+        "sha256": "19117dbe0dfdc6d35f2c98aaf5c847b1d349dd9cb49969c8830e1ab1263c49ed"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-12-izle/134666",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/09/03/070D7829C1D067C98884D3C9986155BE_1788930999_tr.vtt?v=1788965299",
+        "language": "tr",
+        "sha256": "0abe3ddfbca9e27b671fee8fcdd4708539c073b98a2bd70a613ba07a40528438",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:15:36",
+            "end": "02:17:54",
+            "findingFa": "خواسته سوم دفنه، نزدیکی با قادر و شلیک لیلا"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "\"Defne benim nişanlım!\"",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-benim-nisanlim/134658",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Defne ve Kadir'i öpüşürken gören Leyla tetiğe bastı!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-ve-kadiri-opusurken-goren-leyla-tetige-basti/134665",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [
+        "تیراندازی در پایان قسمت ۱۲ است؛ نتیجه جراحت و گذشت دو سال از قسمت ۱۳ شروع می‌شود."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-25",
+          "partInOriginal": 1,
+          "title": "بخش ۲۵ | دفنه پیدا می‌شود؛ لیلا دوباره در خانه قادر است"
+        },
+        {
+          "slug": "dubbed-26",
+          "partInOriginal": 2,
+          "title": "بخش ۲۶ | حمزه از نقشه باخبر می‌شود؛ بوسه و صدای تیر"
+        }
+      ]
+    },
+    {
+      "episode": 13,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3911795-muhtemel-ask-13-bolumuyle-seyirciyle-bulustu",
+        "publishedAt": "2026-09-11T00:00:00+03:00",
+        "sha256": "1a85f8a202321bab84bcb269e14d738f623ee4895aad9c48e9526cbc9dfe64ea"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-13-izle/134781",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/09/10/9273FF91555139DA399B34125A59C5E6_1789375189_tr.vtt?v=1789375189",
+        "language": "tr",
+        "sha256": "bee141c43c8d9b4b9efad550bd457dc90699f8706cfec9721f85b71c691d868a",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:25:18",
+            "end": "02:25:56",
+            "findingFa": "پیشنهاد ازدواج دفنه برای بازگرداندن علی"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Kadir ve Defne yıllar sonra yüz yüze!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-kadir-ve-defne-yillar-sonra-yuz-yuze/134773",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Kavganın bedelini Ali ödüyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-kavganin-bedelini-ali-oduyor/134779",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "\"Evlen benimle!\"",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-evlen-benimle/134780",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-27",
+          "partInOriginal": 1,
+          "title": "بخش ۲۷ | بازگشت پس از دو سال؛ علی به خانه دفنه می‌آید"
+        },
+        {
+          "slug": "dubbed-28",
+          "partInOriginal": 2,
+          "title": "بخش ۲۸ | سرپرستی به رقابت تبدیل می‌شود؛ پیشنهاد ازدواج دفنه"
+        }
+      ]
+    },
+    {
+      "episode": 14,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3913376-muhtemel-ask-14-bolumuyle-ekranlara-geldi",
+        "publishedAt": "2026-09-18T00:00:00+03:00",
+        "sha256": "c498215c52857b38fad46c33633202115aed16ec7729c523514f0e9190640301"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-14-izle/134887",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/09/17/7A73CF815507B1252AD750F42F5A7255_1789981803_tr.vtt?v=1789981803",
+        "language": "tr",
+        "sha256": "719ae8728279db437f1063fd35fa154a59be6efca26e35bc2a94b16b5fe484ac",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:25:39",
+            "end": "02:28:12",
+            "findingFa": "اوغوز در مرکز، تولگا را پدر علی معرفی می‌کند؛ رسیدن قادر به خانه دفنه"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Defne ve Kadir, Ali'yi ziyaret ediyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-ve-kadir-aliyi-ziyaret-ediyor/134877",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "\"Benimle çıkar mısın Defne?\"",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-benimle-cikar-misin-defne/134882",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "İtiraf sonrası dengeler değişecek mi?",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-itiraf-sonrasi-dengeler-degisecek-mi/134886",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [
+        "زیرنویس نشان می‌دهد اوغوز صرفاً قصد مراجعه ندارد و در مرکز تولگا را پدر علی اعلام می‌کند."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-29",
+          "partInOriginal": 1,
+          "title": "بخش ۲۹ | عقدی برای برگرداندن علی؛ زخمی که قادر نمی‌شناخت"
+        },
+        {
+          "slug": "dubbed-30",
+          "partInOriginal": 2,
+          "title": "بخش ۳۰ | اوغوز رد پول را می‌گیرد؛ گزارش پدر واقعی علی"
+        }
+      ]
+    },
+    {
+      "episode": 15,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3915049-muhtemel-ask-15-bolumuyle-ekranlara-geldi",
+        "publishedAt": "2026-09-25T00:00:00+03:00",
+        "sha256": "5a6cc213cc14785100fd446a6460f33a6238f40423b2557d077cce902d834f49"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-15-izle/135015",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/09/24/9A72CA80D2A54D266D584FB8460E5A69_1790539550_tr.vtt?v=1790539550",
+        "language": "tr",
+        "sha256": "146e5337cb5c700bb9f89beecffd4efbc0fc310dfddfd05156a7d1b8cd526c60",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:20:26",
+            "end": "02:21:12",
+            "findingFa": "بدحالی علی و تلاش برای بیدار کردن او؛ علت در روایت این قسمت اعلام نمی‌شود"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Levent'in suçlaması huzuru kaçırıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-leventin-suclamasi-huzuru-kaciriyor/135008",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "\"Defne'den uzak dur!\"",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defneden-uzak-dur/135011",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-31",
+          "partInOriginal": 1,
+          "title": "بخش ۳۱ | اتهام از مینه برداشته می‌شود؛ راز پیگیری سلامت دفنه"
+        },
+        {
+          "slug": "dubbed-32",
+          "partInOriginal": 2,
+          "title": "بخش ۳۲ | جشن دفتر به مشاجره می‌رسد؛ علی بی‌هوش پیدا می‌شود"
+        }
+      ]
+    },
+    {
+      "episode": 16,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3916723-muhtemel-ask-16-bolumuyle-ekranlara-geldi",
+        "publishedAt": "2026-10-02T00:00:00+03:00",
+        "sha256": "96b710113c5007789a7da2cc134376c048085e17c8c8d434a865e57411b418a6"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-16-izle/135140",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/10/01/09CC0B067B42D9F8A87A90181F2484A8_1791124705_tr.vtt?v=1791124705",
+        "language": "tr",
+        "sha256": "fb7779e1d08c0e7982392ab546b61d8ec62d53755075a3f9d6968b9c3ca34a5e",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:23:42",
+            "end": "02:26:15",
+            "findingFa": "دفنه گمان می‌کند دوباره رها شده؛ خبر سفر پاریس به قادر می‌رسد"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "\"Benim en büyük zaafım sensin!\"",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-benim-en-buyuk-zaafim-sensin/135137",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "\"Defne, Tamer ile Paris'e gitti!\"",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-tamer-ile-parise-gitti/135139",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-33",
+          "partInOriginal": 1,
+          "title": "بخش ۳۳ | علی به خانه برمی‌گردد؛ نامه پنهان قادر پیدا می‌شود"
+        },
+        {
+          "slug": "dubbed-34",
+          "partInOriginal": 2,
+          "title": "بخش ۳۴ | خرید خانه هم مانع رفتن دفنه نمی‌شود"
+        }
+      ]
+    },
+    {
+      "episode": 17,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3918446-muhtemel-ask-17-bolumuyle-ekranlara-geldi",
+        "publishedAt": "2026-10-09T00:00:00+03:00",
+        "sha256": "becfc592f43cdd8018b67496b1f0bf53eb166dbe5a736e1e12d529aef4165ea5"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-17-izle/135277",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/10/08/DB89187154C45ED2312DCE90012730EE_1791751455_tr.vtt?v=1791751460",
+        "language": "tr",
+        "sha256": "6f44f9f5a49bfb0cc3917dca75faba650d3a537f0907e74a41ddd0a2cb3372fd",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:30:40",
+            "end": "02:33:06",
+            "findingFa": "هر دو پاسخ مثبت عقد را می‌دهند و سپس علی تولگا را پدر خطاب می‌کند"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Kadir ve Mine yüzleşiyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-kadir-ve-mine-yuzlesiyor/135272",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "\"Sen benim babamsın!\"",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-sen-benim-babamsin/135276",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [
+        "زیرنویس پاسخ مثبت هر دو طرف عقد را پیش از اعلام علی ثبت می‌کند؛ تعبیر لغو ازدواج از گزارش خبری کنار گذاشته شد."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-35",
+          "partInOriginal": 1,
+          "title": "بخش ۳۵ | درگیری در هواپیما؛ علی می‌تواند بماند"
+        },
+        {
+          "slug": "dubbed-36",
+          "partInOriginal": 2,
+          "title": "بخش ۳۶ | هدیه مادر علی و نامه‌ای که دفنه بالاخره می‌خواند"
+        },
+        {
+          "slug": "dubbed-37",
+          "partInOriginal": 3,
+          "title": "بخش ۳۷ | علی معما را حل می‌کند؛ پدرش همان داماد است"
+        }
+      ]
+    },
+    {
+      "episode": 18,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3920198-muhtemel-ask-18-bolumuyle-seyircilerle-bulustu",
+        "publishedAt": "2026-10-16T00:00:00+03:00",
+        "sha256": "a20bc7b9d145f86c438491a3df3490b403f0f44827e140481a8b1cbe9fb9d6fd"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-18-izle/135412",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/10/15/F110C089817BFA3711F7761F200235F2_1792416900_tr.vtt?v=1792416900",
+        "language": "tr",
+        "sha256": "a35a79b7a03d41186994d953909ffd4e078ae91944b43da58aaf03e43138a05e",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "00:18:18",
+            "end": "00:18:24",
+            "findingFa": "اشاره به تازه ازدواج کردن تولگا و اوزلم؛ توقف جشن به معنی لغو عقد نیست"
+          },
+          {
+            "start": "00:35:05",
+            "end": "00:35:28",
+            "findingFa": "نام مسئول کلینیک سلیمان است"
+          },
+          {
+            "start": "02:28:20",
+            "end": "02:29:13",
+            "findingFa": "بازداشت قادر با دستور دادستان"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Defne ve Kadir’in aşkı yeniden alevleniyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-ve-kadirin-aski-yeniden-alevleniyor/135401",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Kadir gözaltına alınıyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-kadir-gozaltina-aliniyor/135411",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [
+        "سلیمان در گزارش پس از پخش و زیرنویس تأیید شد؛ نام متفاوت در پیش‌نمایش مبنا قرار نگرفت."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-38",
+          "partInOriginal": 1,
+          "title": "بخش ۳۸ | اوزلم از پدرش کمک می‌خواهد؛ اعتماد دفنه دوباره آسیب می‌بیند"
+        },
+        {
+          "slug": "dubbed-39",
+          "partInOriginal": 2,
+          "title": "بخش ۳۹ | دوربین‌ها پاک می‌شوند؛ خشم قادر علیه خودش به کار می‌رود"
+        }
+      ]
+    },
+    {
+      "episode": 19,
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3921984-muhtemel-ask-19-bolumuyle-ekranlara-geldi",
+        "publishedAt": "2026-10-23T00:00:00+03:00",
+        "sha256": "6c0b5ab7b900b0e5a57b16bd7b816dfbd69d8c216a0306e18dc27e4b75dcf33f"
+      },
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/muhtemel-ask-sezon-1-bolum-19-izle/135580",
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/10/22/E3D94217D61051225BD8BDFAB969FE40_1792929711_tr.vtt?v=1792929711",
+        "language": "tr",
+        "sha256": "8ffe36a6b35d9668937554cdda2e077edf9354ee06edf2f5aa480765a4770270",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "00:59:27",
+            "end": "00:59:49",
+            "findingFa": "تطبیق تاریخ ادعا با روز عقد به عنوان شاهد بی‌گناهی"
+          },
+          {
+            "start": "02:22:30",
+            "end": "02:25:00",
+            "findingFa": "اشاره به یافتن علی توسط اوزلم و رسیدن مادر در پایان"
+          }
+        ]
+      },
+      "officialSceneLinks": [
+        {
+          "title": "Defne olanları çözmekte kararlı!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-defne-olanlari-cozmekte-kararli/135565",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Ali, Tolga’yla gitmeyi reddediyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-ali-tolgayla-gitmeyi-reddediyor/135568",
+          "review": "page-metadata-only"
+        },
+        {
+          "title": "Kader yıllar sonra geri dönüyor!",
+          "url": "https://www.showtv.com.tr/dizi/sahne/muhtemel-ask-kader-yillar-sonra-geri-donuyor/135579",
+          "review": "page-metadata-only"
+        }
+      ],
+      "correctionsFa": [
+        "آغوش مادر و پسر پایان قسمت ۱۹ است؛ ملاقات کادر با قادر در پیش‌نمایش قسمت ۲۰ به این روایت افزوده نشد."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false,
+      "cuts": [
+        {
+          "slug": "dubbed-40",
+          "partInOriginal": 1,
+          "title": "بخش ۴۰ | رد اتهام با روز عقد؛ دوربینی که حذف نشده بود"
+        },
+        {
+          "slug": "dubbed-41",
+          "partInOriginal": 2,
+          "title": "بخش ۴۱ | آگهی‌های علی جواب می‌دهند؛ کادر بازمی‌گردد"
+        }
+      ]
+    }
+  ]
+}
