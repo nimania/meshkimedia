@@ -1,0 +1,28 @@
+name: Verify private series Telegram connection
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/private-series-setup.yml'
+permissions:
+  contents: write
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check private destination behavior offline
+        run: node automation/test-telegram-destination.mjs
+      - name: Verify the Kizilcik Serbeti destination and bot access
+        run: node automation/connect-private-series.mjs --series=kizilcik-serbeti
+        env:
+          SERIES_TELEGRAM_BOT_TOKEN: ${{ secrets.SERIES_TELEGRAM_BOT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
