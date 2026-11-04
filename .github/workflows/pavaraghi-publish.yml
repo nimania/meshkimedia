@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - 'github-pages/data/dubbed.json'
+      - 'github-pages/data/series.json'
+      - 'automation/telegram-series.json'
       - 'automation/build-site.mjs'
       - '.github/workflows/pavaraghi-publish.yml'
 permissions:
