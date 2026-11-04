@@ -15,6 +15,9 @@ assert.match(message,/۲٫۹۷٪|۲\.۹۷٪/);
 assert.match(message,/در فهرست ۱۰ برنامهٔ برتر ثبت نشده/);
 assert.ok(!message.includes('NaN')&&!message.includes('undefined'));
 assert.match(message,/https:\/\/t\.me\/ehtemalaneshgheh/);
+const privateMessage=ratingsMessage(record,day,hit,{chatId:'-1001234567890',isPrivate:true,joinUrl:''});
+assert.ok(!privateMessage.includes('t.me/')&&!privateMessage.includes('-1001234567890'));
+assert.ok(privateMessage.includes('ریتینگ رسمی')&&privateMessage.includes('صفحهٔ سریال'));
 assert.equal(dayKey(day),'2026-10-08');
 const full={...day,categories:{
  total:[{rank:1,program:'TUZLU KAHVE',rating:5.44,share:15.91}],
@@ -25,3 +28,4 @@ const q=matches(full,{ratingKey:'TUZLU KAHVE'});
 assert.deepEqual(Object.keys(q),['total','ab','abc1']);
 assert.equal(matches(day,{ratingKey:'NOT THERE'}).total,undefined);
 console.log('Series ratings Telegram tests passed: exact TIAK matches, partial category and Persian formatting.');
+

@@ -1,4 +1,5 @@
 // Pure, testable TIAK report formatter and exact-name lookup.
+import {publicTelegramUrl} from './telegram-destination.mjs';
 const source='https://tiak.com.tr/tablolar';
 const modes=[['total','Total'],['ab','AB'],['abc1','ABC1']];
 const fmtNumber=n=>new Intl.NumberFormat('fa-IR',{maximumFractionDigits:2,minimumFractionDigits:2}).format(n);
@@ -18,6 +19,7 @@ export function matches(day,record){
  return out;
 }
 export function ratingsMessage(record,day,rows,channel){
+ const joinUrl=typeof channel==='string'?publicTelegramUrl({channel}):channel?.joinUrl||'';
  const date=isoDate(day.date);
  const dateParts=new Intl.DateTimeFormat('fa-IR-u-ca-persian',{timeZone:'Asia/Tehran',year:'numeric',month:'long',day:'numeric',weekday:'long'}).formatToParts(new Date(date+'T12:00:00Z'));
  const part=k=>dateParts.find(p=>p.type===k)?.value||'';
@@ -30,7 +32,8 @@ export function ratingsMessage(record,day,rows,channel){
   lines.push(x?'<b>'+label+'</b>: رتبهٔ '+new Intl.NumberFormat('fa-IR').format(x.rank)+' | ریتینگ '+fmtNumber(x.rating)+'٪ | سهم تماشا '+(Number.isFinite(x.share)?fmtNumber(x.share)+'٪':'نامشخص'):'<b>'+label+'</b>: در فهرست ۱۰ برنامهٔ برتر ثبت نشده');
  }
  lines.push('','منبع: <a href="'+source+'">گزارش TİAK</a>',
- '📚 <a href="https://nimania.github.io/meshkimedia/dizi/'+encodeURIComponent(record.slug)+'/">صفحهٔ سریال در مشکی‌مدیا</a>',
- '📣 <a href="https://t.me/'+channel.slice(1)+'">عضویت در کانال اختصاصی '+esc(record.titleFa)+'</a>');
+ '📚 <a href="https://nimania.github.io/meshkimedia/dizi/'+encodeURIComponent(record.slug)+'/">صفحهٔ سریال در مشکی‌مدیا</a>');
+ if(joinUrl)lines.push('📣 <a href="'+esc(joinUrl)+'">عضویت در کانال اختصاصی '+esc(record.titleFa)+'</a>');
  return lines.join('\n');
 }
+

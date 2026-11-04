@@ -89,6 +89,29 @@
       "engagementEnabled": true,
       "engagementStartDate": "2026-11-04",
       "engagementSlotIndex": 3
+    },
+    {
+      "seriesSlug": "kizilcik-serbeti",
+      "enabled": true,
+      "privateChannel": true,
+      "expectedChannelTitle": "سریال شربت زغال‌اخته",
+      "inviteFingerprint": "8af8aeaa18905bfed2ebf916242d43de9d019a3bd6c300d492d87f8916b95940",
+      "connectionMode": "verified-private-binding-required",
+      "maxPerRun": 1,
+      "dailyMinimum": 5,
+      "dailyHours": [
+        9,
+        12,
+        15,
+        18,
+        21
+      ],
+      "topicCooldownDays": 3,
+      "ratingsEnabled": true,
+      "engagementEnabled": true,
+      "engagementStartDate": "2026-11-04",
+      "engagementSlotIndex": 3,
+      "ownerReferenceChannel": "@ehtemalaneshgheh"
     }
   ]
 }

@@ -1,0 +1,31 @@
+import assert from 'node:assert/strict';
+import {sealDestination,openDestination,resolveTelegramDestination,publicTelegramUrl,publicMessageReceipt,inviteFingerprint,matchingChannelPosts} from './telegram-destination.mjs';
+const token='fixture-token-only',slug='fixture-series',id='-1001234567890';
+const fingerprint=inviteFingerprint('https://t.me/+fixture_private_invite');
+const cfg={seriesSlug:slug,enabled:true,privateChannel:true,expectedChannelTitle:'Fixture channel',inviteFingerprint:fingerprint};
+const sealed=sealDestination({chatId:id,inviteFingerprint:fingerprint},token,slug);
+assert.ok(!JSON.stringify(sealed).includes(id));
+assert.equal(openDestination(sealed,token,slug).chatId,id);
+assert.throws(()=>openDestination(sealed,'other-token',slug),/reconnection/);
+assert.throws(()=>openDestination(sealed,token,'other-series'),/reconnection/);
+const bindings={[slug]:sealed},env={SERIES_TELEGRAM_BOT_TOKEN:token};
+const destination=resolveTelegramDestination(cfg,{bindings,env});
+assert.equal(destination.chatId,id);assert.equal(destination.joinUrl,'');
+assert.equal(publicTelegramUrl({...cfg,channel:'@do_not_publish'}),'');
+assert.deepEqual(publicMessageReceipt(destination,42),{privateChannel:true,message_id:42});
+assert.equal(resolveTelegramDestination(cfg,{env,bindings:{}}),null);
+assert.throws(()=>resolveTelegramDestination({...cfg,inviteFingerprint:'changed'},{env,bindings}),/identity changed/);
+for(const channel of ['@ghahvehshoor','@ehtemalaneshgheh']){
+ const d=resolveTelegramDestination({channel});assert.equal(d.chatId,channel);assert.equal(d.joinUrl,'https://t.me/'+channel.slice(1));
+ assert.equal(publicMessageReceipt(d,42).url,d.joinUrl+'/42');
+}
+assert.equal(resolveTelegramDestination({channel:'https://t.me/+fixture_private_invite'}),null);
+assert.equal(resolveTelegramDestination({channel:'@short',enabled:false}),null);
+assert.equal(resolveTelegramDestination({channelEnv:'PRIVATE_ID'},{env:{PRIVATE_ID:id}}).joinUrl,'');
+const post={chat:{id,type:'channel',title:cfg.expectedChannelTitle},text:'https://t.me/+fixture_private_invite'};
+assert.equal(matchingChannelPosts([{channel_post:post}],cfg).length,1);
+assert.equal(matchingChannelPosts([{channel_post:{...post,text:'hello'}}],cfg).length,0);
+assert.equal(matchingChannelPosts([{message:post}],cfg).length,0);
+assert.equal(matchingChannelPosts([{channel_post:{...post,chat:{...post.chat,title:'Another channel'}}}],cfg).length,0);
+assert.equal(inviteFingerprint('https://t.me/joinchat/fixture_private_invite'),fingerprint);
+console.log('Telegram destinations PASS: public routing, private isolation, authenticated encryption, exact invite evidence, sanitized receipts.');

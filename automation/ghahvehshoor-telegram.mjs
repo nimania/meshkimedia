@@ -5,11 +5,14 @@ import {createHash} from 'node:crypto';
 import {getOfficialChannelVideos} from './series-youtube.mjs';
 import {chooseEngagement,reservedEngagementSlot} from './series-engagement.mjs';
 import {isTelegramNews} from './news-policy.mjs';
+import {readPrivateDestinations,resolveTelegramDestination,publicMessageReceipt} from './telegram-destination.mjs';
 const root=new URL('../github-pages/',import.meta.url);
 const data=new URL('data/',root);
 const base='https://nimania.github.io/meshkimedia';
 const token=(process.env.SERIES_TELEGRAM_BOT_TOKEN||'').trim();
 const dry=process.argv.includes('--dry-run');
+const onlySeries=process.argv.find(x=>x.startsWith('--series='))?.slice(9);
+const privateDestinations=await readPrivateDestinations();
 const config=JSON.parse(await readFile(new URL('automation/telegram-series.json',new URL('../',import.meta.url)),'utf8'));
 const series=JSON.parse(await readFile(new URL('series.json',data),'utf8'));
 const news=JSON.parse(await readFile(new URL('news.json',data),'utf8'));
@@ -26,8 +29,13 @@ async function telegram(method,body){
 for(const cfg of config.channels||[]){
  if(cfg.enabled===false)continue;
  const slug=cfg.seriesSlug;
- const channel=cfg.channel;
- if(!/^[a-z0-9-]+$/.test(slug)||!/^@[a-zA-Z0-9_]{5,}$/.test(channel)||!series[slug]){console.warn('Invalid Telegram series configuration',slug);continue;}
+ if(onlySeries&&slug!==onlySeries)continue;
+ let destination;
+ try{destination=resolveTelegramDestination(cfg,{bindings:privateDestinations});}
+ catch{console.warn(slug+': private destination needs reconnection; no posts.');continue;}
+ if(!/^[a-z0-9-]+$/.test(slug)||!series[slug]){console.warn('Invalid Telegram series configuration',slug);continue;}
+ if(!destination){console.log(slug+': waiting for a verified Telegram destination; no posts.');continue;}
+ const channel=destination.chatId;
  const record=series[slug], items=[];
  for(const season of record.seasons||[])for(const ep of season.episodes||[]){
   if(ep.scheduled||!ep.number)continue;
@@ -168,12 +176,13 @@ for(const cfg of config.channels||[]){
  for(const item of fresh){
   const summary=strip(item.summary).slice(0,420);
   const title=strip(item.title).slice(0,180);
-  const joinUrl='https://t.me/'+channel.slice(1);
+  const joinUrl=destination.joinUrl;
   const action=item.platform==='youtube'
    ? '▶️ <a href="'+esc(item.url)+'">تماشای ویدئو در '+esc(item.youtubeSourceLabel||'یوتیوب')+'</a>'
    : '🔗 <a href="'+esc(item.url)+'">مطالعه کامل در مشکی‌مدیا</a>';
   const siteLink=item.platform==='youtube'?'📚 <a href="'+base+'/dizi/'+slug+'/">صفحهٔ سریال در مشکی‌مدیا</a>':'';
-  const caption=[item.label+' | '+esc(record.titleFa),'<b>'+esc(title)+'</b>',esc(summary),action,siteLink,'📣 <a href="'+esc(joinUrl)+'">عضویت در کانال اختصاصی '+esc(record.titleFa)+'</a> · این پست را با علاقه‌مندان سریال به اشتراک بگذارید.','#'+record.titleFa.replace(/\s+/g,'_')].filter(Boolean).join('\n\n');
+  const invite=joinUrl?'📣 <a href="'+esc(joinUrl)+'">عضویت در کانال اختصاصی '+esc(record.titleFa)+'</a> · این پست را با علاقه‌مندان سریال به اشتراک بگذارید.':'';
+  const caption=[item.label+' | '+esc(record.titleFa),'<b>'+esc(title)+'</b>',esc(summary),action,siteLink,invite,'#'+record.titleFa.replace(/\s+/g,'_')].filter(Boolean).join('\n\n');
   if(dry){console.log(slug,item.id,item.url||item.question);continue;}
   try{
    let result=null;
@@ -190,13 +199,13 @@ for(const cfg of config.channels||[]){
    }
    if(!result&&item.platform!=='youtube'&&/^https:\/\//.test(item.image||''))result=await telegram('sendPhoto',{chat_id:channel,photo:item.image,caption,parse_mode:'HTML'});
    if(!result?.ok&&item.kind!=='engagement')result=await telegram('sendMessage',{chat_id:channel,text:caption,parse_mode:'HTML',link_preview_options:{is_disabled:false}});
-   if(!result?.ok){console.error(slug,item.id,result?.description||'Telegram failed');break;}
+   if(!result?.ok){console.error(slug,item.id,destination.isPrivate?'Telegram delivery failed (code '+(result?.error_code||'unknown')+')':result?.description||'Telegram failed');break;}
    state.posted.push(item.id);
    if(item.kind==='engagement'){
     state.posted.push('engagement-day:'+today);
     state.engagementReceipts={...(state.engagementReceipts||{}),[item.id]:{
-     message_id:result.result?.message_id,poll_id:result.result?.poll?.id||null,
-     date:today,channel,url:'https://t.me/'+channel.slice(1)+'/'+result.result?.message_id
+     ...publicMessageReceipt(destination,result.result?.message_id),poll_id:result.result?.poll?.id||null,
+     date:today
     }};
    }
    if(item.videoId){state.youtubeSeen=[...(state.youtubeSeen||[]),item.videoId].slice(-5000);if(item.videoSource&&state.youtubeSources?.[item.videoSource])state.youtubeSources[item.videoSource].seen=[...(state.youtubeSources[item.videoSource].seen||[]),item.videoId].slice(-5000);state.youtubePostedDates=[...(state.youtubePostedDates||[]),today].slice(-60);}
@@ -210,3 +219,4 @@ for(const cfg of config.channels||[]){
   }catch(error){console.error(slug,item.id,error.message);break;}
  }
 }
+

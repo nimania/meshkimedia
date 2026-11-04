@@ -9,7 +9,7 @@ const wednesday=new Date('2026-10-14T15:00:00Z');
 const thursday=new Date('2026-10-15T15:00:00Z');
 const saturday=new Date('2026-10-17T15:00:00Z');
 const monday=new Date('2026-10-19T15:00:00Z');
-for(const slug of ['tuzlu-kahve','muhtemel-ask']){
+for(const slug of ['tuzlu-kahve','muhtemel-ask','kizilcik-serbeti']){
  const record=series[slug];
  assert.ok(record);
  const quizzes=quizBank(record),polls=pollBank(record);
@@ -46,3 +46,4 @@ for(const slug of ['tuzlu-kahve','muhtemel-ask']){
  assert.equal(exhausted,null,'Do not recycle exhausted quiz inventory');
 }
 console.log('Recurring quiz/poll tests PASS (verified sources, slot reservations, weekly cadence, dedupe, exhaustion).');
+

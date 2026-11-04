@@ -3,12 +3,15 @@
 // Separate durable state per series; seed existing reports rather than backposting.
 import {readFile,writeFile,rename} from 'node:fs/promises';
 import {dayKey,matches,ratingsMessage} from './series-ratings-format.mjs';
+import {readPrivateDestinations,resolveTelegramDestination} from './telegram-destination.mjs';
 const root=new URL('../github-pages/data/',import.meta.url);
 const token=(process.env.SERIES_TELEGRAM_BOT_TOKEN||'').trim();
 const dry=process.argv.includes('--dry-run');
 const data=JSON.parse(await readFile(new URL('ratings.json',root),'utf8'));
 const series=JSON.parse(await readFile(new URL('series.json',root),'utf8'));
 const config=JSON.parse(await readFile(new URL('telegram-series.json',import.meta.url),'utf8'));
+const privateDestinations=await readPrivateDestinations();
+const onlySeries=process.argv.find(x=>x.startsWith('--series='))?.slice(9);
 const safeWrite=async(url,obj)=>{
  const tmp=new URL(url.pathname+'.tmp',url);
  await writeFile(tmp,JSON.stringify(obj,null,2)+'\n','utf8');
@@ -29,8 +32,13 @@ const latest=sorted[0]?.date;
 if(!latest){console.log('Ratings: no complete verified TIAK day; skip.');process.exit(0);}
 for(const cfg of config.channels||[]){
  if(cfg.enabled===false||cfg.ratingsEnabled===false)continue;
- const slug=cfg.seriesSlug,record=series[slug],chat=cfg.channel;
- if(!record||!/^@[a-zA-Z0-9_]{5,}$/.test(chat||'')){console.warn('Invalid rating-channel mapping:',slug);continue;}
+ const slug=cfg.seriesSlug,record=series[slug];
+ if(onlySeries&&slug!==onlySeries)continue;
+ let destination;
+ try{destination=resolveTelegramDestination(cfg,{bindings:privateDestinations});}
+ catch{console.warn('Ratings '+slug+': private destination needs reconnection');continue;}
+ if(!record||!destination){console.log('Ratings '+slug+': waiting for a verified destination; skip.');continue;}
+ const chat=destination.chatId;
  const stateUrl=new URL('telegram-series-ratings-'+slug+'.json',root);
  let state=null;try{state=JSON.parse(await readFile(stateUrl,'utf8'));}catch{}
  if(!state||!state.initializedThrough){
@@ -50,7 +58,7 @@ for(const cfg of config.channels||[]){
   if(!dry)await safeWrite(stateUrl,{...state,postedDates:[...(state.postedDates||[]),target.date],updated:new Date().toISOString()});
   continue;
  }
- const message=ratingsMessage(record,target,matches(target,record),chat);
+ const message=ratingsMessage(record,target,matches(target,record),destination);
  if(dry){console.log('WOULD POST '+slug+' '+target.date+'\n'+message);continue;}
  if(!token){console.warn('Ratings '+slug+': bot secret absent; will retry.');continue;}
  try{
@@ -60,3 +68,4 @@ for(const cfg of config.channels||[]){
   console.log('Ratings '+slug+': SENT '+target.date+' messageId='+messageId);
  }catch(e){console.error('Ratings '+slug+': failed (will retry): '+e.message);process.exitCode=1;}
 }
+

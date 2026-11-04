@@ -2,6 +2,7 @@
 // Data-driven: edit github-pages/data/*.json and re-run.
 import { mkdir, readFile, writeFile, rm, readdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
+import { publicTelegramUrl } from './telegram-destination.mjs';
 
 const PAGES = new URL("../github-pages/", import.meta.url);
 const p = (rel) => new URL(rel, PAGES);
@@ -19,11 +20,11 @@ const bios = existsSync(p("data/bios.json")) ? JSON.parse(await readFile(p("data
 const publishedDubbedForSeries = existsSync(p("data/dubbed.json")) ? JSON.parse(await readFile(p("data/dubbed.json"),"utf8")).series || [] : [];
 const seriesArr = Object.values(series);
 const telegramChannels = JSON.parse(await readFile(new URL("automation/telegram-series.json", new URL("../", import.meta.url)), "utf8")).channels || [];
-const channelFor = (slug) => telegramChannels.find(c => c.enabled !== false && c.seriesSlug === slug && /^@[a-zA-Z0-9_]{5,}$/.test(c.channel))?.channel;
+const channelFor = (slug) => publicTelegramUrl(telegramChannels.find(c => c.seriesSlug === slug));
 function withSeriesTelegram(html, slug) {
   const channel = channelFor(slug);
   if (!channel || !html.includes("</main>")) return html;
-  const href = "https://t.me/" + channel.slice(1);
+  const href = channel;
   const promo = '<aside class="series-telegram-invite" aria-label="کانال تلگرام اختصاصی سریال" style="max-width:960px;margin:28px auto;padding:20px;border:1px solid #2489b9;border-radius:16px;background:linear-gradient(135deg,rgba(36,137,185,.12),rgba(36,137,185,.03));line-height:2"><strong style="font-size:1.12rem">📣 کانال تلگرام اختصاصی '+esc(series[slug]?.titleFa || "سریال")+'</strong><p style="margin:6px 0 14px">خبرهای تازه، پاورقی قسمت‌ها، بازیگران و حواشی معتبر را در کانال دنبال کنید.</p><a href="'+href+'" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:9px 18px;background:#168ac3;color:white;border-radius:999px;text-decoration:none;font-weight:700">عضویت و دنبال‌کردن در تلگرام ←</a></aside>';
   const faYoutube = telegramChannels.find(c => c.seriesSlug === slug)?.youtubeSources?.find(src => src.language === "fa" && /^[a-zA-Z0-9._-]{3,60}$/.test(src.handle));
   const ytLink = faYoutube ? '<a href="https://www.youtube.com/@'+esc(faYoutube.handle)+'" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin:8px 8px 0 0;text-decoration:underline;font-weight:600">▶ دیدن ویدئوهای فارسی در یوتیوب</a>' : '';

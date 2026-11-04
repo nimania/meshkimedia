@@ -30,6 +30,8 @@ on:
       - "automation/series-ratings-format.mjs"
       - "automation/test-series-ratings-telegram.mjs"
       - "automation/telegram-series.json"
+      - "automation/telegram-destination.mjs"
+      - "automation/test-telegram-destination.mjs"
       - "automation/test-qahvehshoor-telegram.mjs"
       - "automation/test-muhtemel-ask-telegram.mjs"
       - "automation/news-bios.mjs"
@@ -71,6 +73,8 @@ jobs:
         continue-on-error: true
       - name: Test verified series ratings formatter
         run: node automation/test-series-ratings-telegram.mjs
+      - name: Test public and private series destinations
+        run: node automation/test-telegram-destination.mjs
       - name: Deliver freshly verified ratings to series channels
         id: series_ratings
         run: node automation/series-ratings-telegram.mjs
@@ -342,3 +346,4 @@ jobs:
         run: |
           echo "::error::News collection failed. The site was deployed with stale news; inspect the Collect news step."
           exit 1
+
