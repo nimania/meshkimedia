@@ -68,6 +68,27 @@
       "engagementEnabled": true,
       "engagementStartDate": "2026-10-14",
       "engagementSlotIndex": 3
+    },
+    {
+      "seriesSlug": "sevdan-bir-ates",
+      "channel": "",
+      "enabled": false,
+      "setupStatus": "awaiting-user-telegram-login-and-channel-creation",
+      "displayName": "عشقت یک آتش است | مشکی‌مدیا",
+      "maxPerRun": 1,
+      "dailyMinimum": 5,
+      "dailyHours": [
+        9,
+        12,
+        15,
+        18,
+        21
+      ],
+      "topicCooldownDays": 3,
+      "ratingsEnabled": true,
+      "engagementEnabled": true,
+      "engagementStartDate": "2026-11-04",
+      "engagementSlotIndex": 3
     }
   ]
 }

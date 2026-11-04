@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "seriesSlug": "sevdan-bir-ates",
+  "checkedAt": "2026-11-04",
+  "scope": "Eight verified released episodes; episode 9 preview excluded.",
+  "method": "Independent Persian narratives using official postbroadcast reports and episode descriptions, with targeted Turkish caption checks. No full video review and no final recording approval.",
+  "nameMap": {
+    "Hüma": "هوما",
+    "Vuslat": "وصلت",
+    "Mihre": "میهره",
+    "Faysal": "فیصل",
+    "Cafer": "جعفر"
+  },
+  "episodes": [
+    {
+      "episode": 1,
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-1-izle/134755",
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3911517-sevdan-bir-ates-ilk-bolumuyla-en-cok-izlenen-dizi-oldu",
+        "publishedAt": "2026-09-10T00:00:00+03:00",
+        "sha256": "87c27efae48974dddb3b8efbbf9a4d0d2870beaadbe6e4c68cef63792165f9c0"
+      },
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/09/10/0871ED094D1733AB93679DA472CBB1C1_1789146135_tr.vtt?v=1789146181",
+        "language": "tr",
+        "sha256": "3881c0600011a7b9b2f957341a232af50c05b688a203a4752dab901eb0c207a6",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:07:40",
+            "end": "02:08:04",
+            "findingFa": "میرزا هنوز لیلا را با نام سارا صدا می‌زند؛ درخواست نرفتن در فرار از ایستگاه"
+          }
+        ]
+      },
+      "correctionsFa": [
+        "کرم پسر میهره و خواهرزادهٔ میرزا است؛ نسبت مبهم قبلی اصلاح شد.",
+        "سارا نام مورد استفادهٔ لیلاست؛ شخصیت جداگانه‌ای نیست.",
+        "پایان دیدار در ایستگاه از گزارش پس از پخش افزوده شد."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false
+    },
+    {
+      "episode": 2,
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-2-izle/134865",
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3913114-sevdan-bir-ates-ikinci-bolumuyle-tum-kategorilerde-zirvede",
+        "publishedAt": "2026-09-17T00:00:00+03:00",
+        "sha256": "7110cfcfe4f67f45f3a6939bca608426e425b3438655401644874842d53e2d85"
+      },
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/09/16/EB8BA9C9EFD4B12995DA6ECE506F98E0_1789739278_tr.vtt?v=1789739296",
+        "language": "tr",
+        "sha256": "17e043b4682aa5a7b9cb4eeaab6a641240a9985b40888dfa8e17fa363ec88b1e",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:13:25",
+            "end": "02:13:38",
+            "findingFa": "لیلا در مراسم اعلام می‌کند میرزا شوهر اوست"
+          }
+        ]
+      },
+      "correctionsFa": [
+        "عقد کنسولگری و ورود لیلا با سند ازدواج، رخدادهای همین قسمت‌اند؛ متن مبهم مبتنی بر پیش‌نمایش بازنویسی شد."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false
+    },
+    {
+      "episode": 3,
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-3-izle/134992",
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3914739-zirvenin-adi-sevdan-bir-ates",
+        "publishedAt": "2026-09-24T00:00:00+03:00",
+        "sha256": "886671c4cca15f733bfbdb24aa1bf4fe403a7b5a3e9323df89ed51519f66939e"
+      },
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/09/24/87D5B1BC099CF4FA663D5CB45E680A44_1790499658_tr.vtt?v=1790499658",
+        "language": "tr",
+        "sha256": "97d677c6e35bab00476b02e723754adcdb865705faf674d6853b62c38d04af1e",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:11:59",
+            "end": "02:13:18",
+            "findingFa": "خطر برای مادر و دختر و صدازدن لیلا در پایان؛ نجات در قسمت بعد رخ می‌دهد"
+          }
+        ]
+      },
+      "correctionsFa": [
+        "ازدواج رسمی در قسمت دوم انجام شده است؛ بازگشت لیلا به معنای وجود عقد ثبت‌شده از هفت سال قبل نیست."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false
+    },
+    {
+      "episode": 4,
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-4-izle/135117",
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3916432-sevdan-bir-ates-yine-zirvede",
+        "publishedAt": "2026-10-01T00:00:00+03:00",
+        "sha256": "441399fb37b306f77d40d2a058c4d195b477cde56a33a91be8fd1f23d51a1bda"
+      },
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/10/01/0C07E8898606B3631688A32895FEC564_1790953090_tr.vtt?v=1790953090",
+        "language": "tr",
+        "sha256": "82755e67a51597c4aed91f5f44116e7d0dd984e3a8519f8b51ee3ce69bd1810a",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:15:04",
+            "end": "02:17:22",
+            "findingFa": "میرزا آزمایش دی‌ان‌ای می‌خواهد و لیلا خواهان بازگرداندن دخترش است"
+          }
+        ]
+      },
+      "correctionsFa": [
+        "نجات هوما و تصمیم میرزا به آزمایش، از گزارش پس از پخش و زیرنویس تکمیل شد."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false
+    },
+    {
+      "episode": 5,
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-5-izle/135252",
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3918105-sevdan-bir-ates-zirvede",
+        "publishedAt": "2026-10-08T00:00:00+03:00",
+        "sha256": "6828a6e561ef3db10542009b46cf71f51d81097d43d63aea882099fb770b3a55"
+      },
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/10/07/B30086B5BB715D3EA5F22DEFFFB41C65_1791582413_tr.vtt?v=1791582413",
+        "language": "tr",
+        "sha256": "6b45aa404c9e2b4a3b1842f89d134b9f1121f84b7744333cdfe21984276d5c14",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:28:12",
+            "end": "02:31:04",
+            "findingFa": "شلیک به میرزا و اصرار لیلا برای توقف ماشین و رها نکردن او"
+          }
+        ]
+      },
+      "correctionsFa": [
+        "تیرخوردن میرزا و بازگشت لیلا پایان قسمت پنجم است؛ نتیجهٔ آزمایش به قسمت‌های بعد مربوط است."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false
+    },
+    {
+      "episode": 6,
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-6-izle/135390",
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3919916-sevdan-bir-ates-en-cok-izlenen-dizi-oldu",
+        "publishedAt": "2026-10-15T00:00:00+03:00",
+        "sha256": "55cc899bf98584515bc46cb08bdf86df567aaec3f450ad5a31d627725b462c47"
+      },
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/10/14/A8C2AC9A25DDC871ADE0BB9BB0595A20_1792225961_tr.vtt?v=1792225961",
+        "language": "tr",
+        "sha256": "ee20d33315104066607a2fb3dda45e29726b61031f873f55fe4e90bd0e9abfa3",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "01:20:06",
+            "end": "01:24:18",
+            "findingFa": "هدیهٔ زمین، آشنایی لیلا با کشاورزی و گفت‌وگو با هوما"
+          },
+          {
+            "start": "02:31:55",
+            "end": "02:32:52",
+            "findingFa": "نبودن اسلحه و سؤال میرزا دربارهٔ هیولای نقاشی"
+          }
+        ]
+      },
+      "correctionsFa": [],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false
+    },
+    {
+      "episode": 7,
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-7-izle/135545",
+      "report": {
+        "url": "https://www.showtv.com.tr/dizi/haber/3921658-sevdan-bir-ates-te-leyla-huma-yi-alip-konagi-terk-etti",
+        "publishedAt": "2026-10-22T00:00:00+03:00",
+        "sha256": "85f4c60209de466506196f71611e65253fc4c761e0fa4416b66ab69b589c41f4"
+      },
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/10/21/62CB6084551DCB4F15733060BC30B502_1792842878_tr.vtt?v=1792842878",
+        "language": "tr",
+        "sha256": "342b532175ce8b4021337fa7b6ce1ef6e34b54cb2d0e7a61e1e8b7b7a704c6aa",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "02:23:36",
+            "end": "02:23:59",
+            "findingFa": "لیلا میان جدایی گذشته و ترک‌کردن امروز تفاوت می‌گذارد"
+          }
+        ]
+      },
+      "correctionsFa": [
+        "نتیجهٔ گزارش نخست به عنوان ادعای برگه و باور میرزا روایت شده، نه حقیقت پدر کودک."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false
+    },
+    {
+      "episode": 8,
+      "officialEpisode": "https://www.showtv.com.tr/dizi/tum_bolumler/sevdan-bir-ates-sezon-1-bolum-8-izle/135714",
+      "report": {
+        "url": "https://www.showtv.com.tr/guncel/haber/3923441-sevdan-bir-ates-te-mirza-huma-nin-kendi-kizi-oldugunu-ogrendi",
+        "publishedAt": "2026-10-29T00:00:00+03:00",
+        "sha256": "9fa2251c39280698f326079addde96a8a1498171395e8ffb7815a066528f20f1"
+      },
+      "caption": {
+        "url": "https://vmcdn.ciner.com.tr/ht/2026/10/28/01418A5689B618D9BA980AE927ECD0EC_1793375543_tr.vtt?v=1793375543",
+        "language": "tr",
+        "sha256": "aa1ecf11b19464eab1b1eeeaa1313d3e64062e0e848c990fa3138ceb78dad9e8",
+        "review": "targeted-checkpoints-only",
+        "checkpoints": [
+          {
+            "start": "00:11:27",
+            "end": "00:11:50",
+            "findingFa": "زیرنویس پرداخت پنج میلیون را ذکر می‌کند؛ خبر رسمی هشت میلیون نوشته است. مبلغ از روایت حذف شد."
+          },
+          {
+            "start": "02:19:05",
+            "end": "02:21:20",
+            "findingFa": "اعلام تصمیم به جدایی و تماس آزمایشگاه برای تأیید نسبت پدر و دختر"
+          }
+        ]
+      },
+      "correctionsFa": [
+        "اختلاف مبلغ پرداختی در گزارش و زیرنویس ثبت شد؛ هیچ عددی در روایت نیامد.",
+        "عامل دستکاری آزمایش در همین قسمت یامان معرفی می‌شود.",
+        "گم‌شدن هوما در پیش‌نمایش قسمت نهم وارد متن قسمت هشتم نشده است."
+      ],
+      "fullVideoWatched": false,
+      "finalYoutubeApproval": false
+    }
+  ]
+}
