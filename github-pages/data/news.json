@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:03:45.283Z",
+ "updated": "2026-11-04T01:25:48.538Z",
  "items": [
   {
    "id": "f97e1825220c",
@@ -108,7 +108,7 @@
    "video": null,
    "published": "2026-11-03T18:55:18.000Z",
    "scope": "linked",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [
      "sevdan-bir-ates"
@@ -125,7 +125,8 @@
      "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-te-mirza-ailesinden-hesap-soruyor-3924682",
      "title": "\"Bedelini çok ağır ödetirim\"",
      "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'in 9'uncu bölümünden ön izleme sahnesi izleyiciyle buluştu",
-     "published": "2026-11-03T18:55:18.000Z"
+     "published": "2026-11-03T18:55:18.000Z",
+     "titleFa": "«بهای آن را بسیار سنگین خواهم پرداخت»"
     }
    ],
    "videos": [
@@ -134,7 +135,16 @@
      "id": "wCzz3ZA6IpA"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتشار سکانس پیش‌نمایش قسمت نهم سریال عشقت یک آتش است",
+   "summaryFa": "سکانس پیش‌نمایش قسمت نهم سریال «عشقت یک آتش است» منتشر شد که در آن میرزا با خانواده‌اش روبرو می‌شود. او پس از باخبر شدن از نتیجه آزمایش، به دنبال حقیقت و مسببان کumpas است.",
+   "bodyFa": [
+    "شبکه شو تی‌وی پیش‌نمایش قسمت نهم از سریال محبوب «عشقت یک آتش است» محصول شرکت سی‌ان‌پی فیلم را منتشر کرد. در این سکانس، میرزا که مدرک و نتیجه آزمایش اثبات‌کننده اینکه هوما دختر بیولوژیک اوست را به دست آورده، در عمارت کوزاکلی با وسلات، ماجیده و دستان مواجه می‌شود.",
+    "میرزا با لحنی پرسشگرانه به خانواده‌اش اعتراض کرده و می‌پرسد که آیا از این نتیجه شگفت‌زده شده‌اند یا خیر، زیرا از پیش می‌دانستند هوما دختر اوست. او که پیگیر افترا به لیلا و توطئه جدایی‌اش از فرزندش است، قصد دارد برای فهمیدن اینکه چه کسی نتیجه آزمایش را دستکاری کرده، با صاحب آزمایشگاه ملاقات کند.",
+    "در ادامه این تنش‌ها، تهدید میرزا خطاب به مادرش وسلات مبنی بر اینکه اگر بفهمد نزدیک‌ترین فرد به او چنین بدی در حقش کرده بهای سنگینی خواهد پرداخت، هیجان و تنش در عمارت را به اوج می‌رساند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f9c5fc0a1bea",
@@ -2028,20 +2038,30 @@
      "title": "Derya Uluğ ve Asil Gök’ün düğün tarihi belli oldu!",
      "snippet": "10 yıldır aşk yaşadığı Asil Gök ile evlilik yolunda ilk adımı atan şarkıcı Derya Uluğ’un düğün tarihi ve nikâhın yapılacağı mekân belli oldu. Çiftin, düğün hazırlıklarını yakın çevrelerine sürpriz yapmak amacıyla gizlilik içinde yürüttüğü öğrenildi.",
      "published": "2026-11-03T09:42:00.000Z",
-     "titleFa": "تاریخ عروسی دریا اولوغ و اصیل گوک مشخص شد!"
+     "titleFa": "تاریخ عروسی دریا اولوگ و اصل گوک مشخص شد!"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/dugun-tarihi-belli-oldu-derya-ulug-ile-asil-gok-evleniyor-7693690",
+     "title": "Düğün tarihi belli oldu! Derya Uluğ ile Asil Gök evleniyor",
+     "snippet": "Şarkıcı Derya Uluğ ve meslektaşı sevgilisi Asil Gök'ün mutlu beraberliği devam ediyor. Aile arasında düzenlenen sade bir törenle nişanlanan çiftin düğün tarihi belli oldu.",
+     "published": "2026-11-03T21:20:52.000Z",
+     "titleFa": "تاریخ عروسی مشخص شد! دریا اولوگ و اصل گوک ازدواج می‌کنند"
     }
    ],
    "mediaDone": true,
-   "titleFa": "تاریخ عروسی دریا اولوغ و اصیل گوک مشخص شد",
-   "summaryFa": "تاریخ ازدواج دریا اولوغ و اصیل گوک که در ماه ژوئن نامزد کرده بودند، مشخص شد.",
+   "titleFa": "تاریخ عروسی دریا اولوگ و اصل گوک مشخص شد",
+   "summaryFa": "تاریخ ازدواج دریا اولوگ و اصل گوک که مدت‌هاست با یکدیگر رابطه دارند، مشخص شد. این زوج که در ماه ژوئن نامزد کرده بودند، در آستانه ورود به زندگی مشترک هستند.",
    "bodyFa": [
-    "خواننده دریا اولوغ و موسیقیدان اصیل گوک که سال‌هاست با یکدیگر رابطه دارند و در ماه ژوئن انگشتر نامزدی دست کرده بودند، خود را برای ازدواج آماده می‌کنند. اصیل گوک سال گذشته در ماه فوریه به دریا اولوغ پیشنهاد ازدواج داده بود.",
-    "بر اساس اخبار منتشر شده، تاریخ عروسی این زوج مشخص شده و قرار است در تاریخ ۲۵ نوامبر ازدواج کنند. همچنین ادعا شده است که این زوج برای غافلگیر کردن اطرافیان خود، روند آماده‌سازی عروسی را به صورت مخفیانه پیش می‌برند."
+    "خواننده دریا اولوگ و موسیقی‌دان اصل گوک که سال‌هاست رابطه عاشقانه‌ای با یکدیگر دارند و در ماه ژوئن گذشته با برگزاری مراسمی نامزد کرده بودند، اکنون برای ازدواج آماده می‌شوند.",
+    "بر اساس گزارش‌ها، تاریخ عروسی این زوج مشخص شده و قرار است در تاریخ ۲۵ نوامبر جشن ازدواج خود را برگزار کنند. همچنین گفته می‌شود آن‌ها روند آماده‌سازی عروسی را به صورت مخفیانه پیش می‌برند تا برای نزدیکان خود سورپرایز ایجاد کنند."
    ],
    "ai": true,
-   "aiTries": 2,
+   "aiTries": 3,
    "mergedIds": [
-    "8a6a867b0968"
+    "8a6a867b0968",
+    "65e6654c1b5d"
    ],
    "images": [
     "https://image.hurimg.com/i/hurriyet/90/0x0/6ae9ac5133682fc5418a739d.jpg",
@@ -2053,25 +2073,31 @@
    ],
    "comparison": {
     "agree": [
-     "دریا اولوغ و اصیل گوک که مدت‌هاست رابطه دارند و در ماه ژوئن نامزد کرده بودند، اکنون تاریخ عروسی‌شان مشخص شده است."
+     "دریا اولوگ و اصل گوک در ماه ژوئن نامزد کرده‌اند.",
+     "تاریخ عروسی این زوج مشخص شده است."
     ],
     "differ": [
      {
-      "topic": "مکان و جزئیات برگزاری",
+      "topic": "مدت زمان رابطه زوج",
       "views": [
        {
-        "source": "haberturk-magazin",
-        "text": "تنها به تاریخ عروسی اشاره کرده است."
-       },
+        "source": "hurriyet-kelebek",
+        "text": "۱۰ سال رابطه عاشقانه داشته‌اند."
+       }
+      ]
+     },
+     {
+      "topic": "جزئیات آمادگی برای عروسی",
+      "views": [
        {
         "source": "hurriyet-kelebek",
-        "text": "علاوه بر تاریخ، اعلام کرده که مکان برگزاری مشخص شده و زوج hazırlıklar (آماده‌سازی‌ها) را به صورت مخفیانه برای غافلگیری اطرافیان انجام می‌دهند."
+        "text": "آماده‌سازی‌ها به صورت مخفیانه و برای سورپرایز کردن نزدیکان انجام می‌شود."
        }
       ]
      }
     ],
     "unconfirmed": [
-     "ادعای مخفیانه بودن آماده‌سازی عروسی برای غافلگیر کردن نزدیکان که تنها در یک منبع آمده است."
+     "تاریخ دقیق ۲۵ نوامبر برای برگزاری عروسی (اعلام شده بر اساس گزارش حریت در منبع اول)."
     ]
    }
   },
@@ -4490,44 +4516,6 @@
    "aiTries": 1
   },
   {
-   "id": "6359a62ccf07",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/ahmet-mekin-saglik-durumu-nasil-torunundan-aciklama-geldi-43362908",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Ahmet Mekin'in sağlık durumu nasıl? Torunundan açıklama geldi!",
-   "snippet": "Türk sinemasına damga vuran 'Selvi Boylum Al Yazmalım' filmiyle hafızalara kazınan 94 yaşındaki usta oyuncu Ahmet Mekin hakkında sosyal medyada ortaya atılan ölüm iddiaları sevenlerini endişelendirdi. Bir süredir sağlık sorunları yaşayan sanatçının son durumuna ilişkin açıklama torunu Mekin Sezer'den geldi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae82edbc44e39ea4136a695.jpg",
-   "video": null,
-   "published": "2026-11-02T06:34:00.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/ahmet-mekin-saglik-durumu-nasil-torunundan-aciklama-geldi-43362908",
-     "title": "Ahmet Mekin'in sağlık durumu nasıl? Torunundan açıklama geldi!",
-     "snippet": "Türk sinemasına damga vuran 'Selvi Boylum Al Yazmalım' filmiyle hafızalara kazınan 94 yaşındaki usta oyuncu Ahmet Mekin hakkında sosyal medyada ortaya atılan ölüm iddiaları sevenlerini endişelendirdi. Bir süredir sağlık sorunları yaşayan sanatçının son durumuna ilişkin açıklama torunu Mekin Sezer'de",
-     "published": "2026-11-02T06:34:00.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae82edbc44e39ea4136a695.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae82edbc44e39ea4136a695.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "e0d2b51932c6",
    "url": "https://www.haberturk.com/magazin/foto/adriana-limanin-eski-sevgilisi-metin-hara-bu-sozler-bana-ait-degil-3924141",
    "source": "haberturk-magazin",
@@ -6567,44 +6555,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "e3fa401b4f19",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/hastaligina-meydan-okuyup-sahneye-dondu-konserlerden-125-milyon-dolar-kazandi-43362200",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Hastalığına meydan okuyup sahneye döndü, konserlerden 125 milyon dolar kazandı",
-   "snippet": "Sosyal medya hesabından paylaştığı gözü yaşlı bir videoyla yakalandığı milyonda bir görülen hastalığı açıklayan ve hayranlarını üzen ünlü şarkıcı bugünlerde deyim yerindeyse azminin zaferini tadıyor…",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae6ecefe801c6dc9244e4ec.jpg",
-   "video": null,
-   "published": "2026-11-01T08:18:09.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/hastaligina-meydan-okuyup-sahneye-dondu-konserlerden-125-milyon-dolar-kazandi-43362200",
-     "title": "Hastalığına meydan okuyup sahneye döndü, konserlerden 125 milyon dolar kazandı",
-     "snippet": "Sosyal medya hesabından paylaştığı gözü yaşlı bir videoyla yakalandığı milyonda bir görülen hastalığı açıklayan ve hayranlarını üzen ünlü şarkıcı bugünlerde deyim yerindeyse azminin zaferini tadıyor…",
-     "published": "2026-11-01T08:18:09.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae6ecefe801c6dc9244e4ec.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae6ecefe801c6dc9244e4ec.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
-   ],
-   "mediaDone": true
   },
   {
    "id": "4c47c317bd76",
@@ -14409,6 +14359,44 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "8b482bcf535b",
+   "url": "https://www.dailysabah.com/arts/music/inside-rap-world-jay-zs-super-bowl-show-eminems-stolen-tracks",
+   "source": "dailysabah-arts",
+   "sourceName": "Daily Sabah",
+   "lang": "en",
+   "title": "Inside rap world: Jay-Z’s Super Bowl show, Eminem’s stolen tracks",
+   "snippet": "Sometimes, a lyric has a way of coming back to its writer years later. Jay-Z once rapped about turning down a Super Bowl offer in a song. Now, he is set to headline the halftime sh...",
+   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/27/467714.jpg",
+   "video": null,
+   "published": "2026-10-27T10:30:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "dailysabah-arts",
+     "name": "Daily Sabah",
+     "url": "https://www.dailysabah.com/arts/music/inside-rap-world-jay-zs-super-bowl-show-eminems-stolen-tracks",
+     "title": "Inside rap world: Jay-Z’s Super Bowl show, Eminem’s stolen tracks",
+     "snippet": "Sometimes, a lyric has a way of coming back to its writer years later. Jay-Z once rapped about turning down a Super Bowl offer in a song. Now, he is set to headline the halftime sh...",
+     "published": "2026-10-27T10:30:00.000Z"
+    }
+   ],
+   "images": [
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/27/467714.jpg",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/27/thumbs/1200x675/467714.jpg",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/images/menu_items/LkKGaG.jpg",
+    "https://idsb.tmgrup.com.tr/ly/theme_dailysabah/images/ds-tv.png",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/27/467714.jpg?v=1793099049",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/27/467715.jpg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "2bd62716738c",
