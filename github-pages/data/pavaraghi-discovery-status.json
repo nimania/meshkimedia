@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T06:40:23.000144+00:00",
+  "generatedAt": "2026-11-05T19:54:54.176251+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "muhtemel-ask:11",
-    "muhtemel-ask:12",
-    "muhtemel-ask:13",
-    "muhtemel-ask:14"
+    "muhtemel-ask:15",
+    "muhtemel-ask:16",
+    "muhtemel-ask:17",
+    "muhtemel-ask:18"
   ],
   "episodes": [
     {
@@ -1924,6 +1924,134 @@
         "\"Muhtemel Aşk\" \"14\" srpski prevod subtitle",
         "\"Muhtemel Aşk\" \"14\" bosanski titlovi subtitle",
         "\"Muhtemel Aşk\" \"14\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "muhtemel-ask:15",
+      "seriesSlug": "muhtemel-ask",
+      "seriesTitle": "احتمالاً عشقه",
+      "originalEpisode": 15,
+      "checkedAt": "2026-11-05T19:54:54.176251+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Muhtemel Aşk\" \"15\" Türkçe altyazı subtitle",
+        "\"Muhtemel Aşk\" \"15\" زیرنویس فارسی subtitle",
+        "\"Muhtemel Aşk\" \"15\" English subtitles subtitle",
+        "\"Muhtemel Aşk\" \"15\" ترجمة عربية subtitle",
+        "\"Muhtemel Aşk\" \"15\" srpski prevod subtitle",
+        "\"Muhtemel Aşk\" \"15\" bosanski titlovi subtitle",
+        "\"Muhtemel Aşk\" \"15\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "muhtemel-ask:16",
+      "seriesSlug": "muhtemel-ask",
+      "seriesTitle": "احتمالاً عشقه",
+      "originalEpisode": 16,
+      "checkedAt": "2026-11-05T19:54:54.176251+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Muhtemel Aşk\" \"16\" Türkçe altyazı subtitle",
+        "\"Muhtemel Aşk\" \"16\" زیرنویس فارسی subtitle",
+        "\"Muhtemel Aşk\" \"16\" English subtitles subtitle",
+        "\"Muhtemel Aşk\" \"16\" ترجمة عربية subtitle",
+        "\"Muhtemel Aşk\" \"16\" srpski prevod subtitle",
+        "\"Muhtemel Aşk\" \"16\" bosanski titlovi subtitle",
+        "\"Muhtemel Aşk\" \"16\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "muhtemel-ask:17",
+      "seriesSlug": "muhtemel-ask",
+      "seriesTitle": "احتمالاً عشقه",
+      "originalEpisode": 17,
+      "checkedAt": "2026-11-05T19:54:54.176251+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Muhtemel Aşk\" \"17\" Türkçe altyazı subtitle",
+        "\"Muhtemel Aşk\" \"17\" زیرنویس فارسی subtitle",
+        "\"Muhtemel Aşk\" \"17\" English subtitles subtitle",
+        "\"Muhtemel Aşk\" \"17\" ترجمة عربية subtitle",
+        "\"Muhtemel Aşk\" \"17\" srpski prevod subtitle",
+        "\"Muhtemel Aşk\" \"17\" bosanski titlovi subtitle",
+        "\"Muhtemel Aşk\" \"17\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "muhtemel-ask:18",
+      "seriesSlug": "muhtemel-ask",
+      "seriesTitle": "احتمالاً عشقه",
+      "originalEpisode": 18,
+      "checkedAt": "2026-11-05T19:54:54.176251+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Muhtemel Aşk\" \"18\" Türkçe altyazı subtitle",
+        "\"Muhtemel Aşk\" \"18\" زیرنویس فارسی subtitle",
+        "\"Muhtemel Aşk\" \"18\" English subtitles subtitle",
+        "\"Muhtemel Aşk\" \"18\" ترجمة عربية subtitle",
+        "\"Muhtemel Aşk\" \"18\" srpski prevod subtitle",
+        "\"Muhtemel Aşk\" \"18\" bosanski titlovi subtitle",
+        "\"Muhtemel Aşk\" \"18\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
