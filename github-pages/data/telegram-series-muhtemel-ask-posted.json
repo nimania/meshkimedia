@@ -112,7 +112,10 @@
     "slot:2026-11-04:1",
     "episode:18",
     "editorial:original-4:0",
-    "slot:2026-11-05:0"
+    "slot:2026-11-05:0",
+    "engagement:poll:tolga",
+    "engagement-day:2026-11-05",
+    "slot:2026-11-05:3"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -170,9 +173,10 @@
     "actor:ozgur-berber": "2026-10-31",
     "poll:kadir": "2026-11-02",
     "episode:3": "2026-11-04",
-    "episode:4": "2026-11-05"
+    "episode:4": "2026-11-05",
+    "poll:tolga": "2026-11-05"
   },
-  "updated": "2026-11-05T06:57:26.417Z",
+  "updated": "2026-11-05T15:19:32.822Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
@@ -223,6 +227,13 @@
       "date": "2026-11-04",
       "channel": "@ehtemalaneshgheh",
       "url": "https://t.me/ehtemalaneshgheh/43"
+    },
+    "engagement:poll:tolga": {
+      "channel": "@ehtemalaneshgheh",
+      "message_id": 47,
+      "url": "https://t.me/ehtemalaneshgheh/47",
+      "poll_id": "6010460865625589846",
+      "date": "2026-11-05"
     }
   }
 }
