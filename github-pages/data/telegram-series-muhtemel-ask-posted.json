@@ -110,7 +110,9 @@
     "slot:2026-11-04:3",
     "editorial:original-3:0",
     "slot:2026-11-04:1",
-    "episode:18"
+    "episode:18",
+    "editorial:original-4:0",
+    "slot:2026-11-05:0"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -144,7 +146,8 @@
     "0cfd3a32029fc078279568ae",
     "6e314d99798d62a8d5f82b49",
     "c8a8f44be2f20567b82c9e4a",
-    "25e1d38af91a907b331cd787"
+    "25e1d38af91a907b331cd787",
+    "ab133652e51b3641273306f0"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-03",
@@ -166,9 +169,10 @@
     "actor:tugay-erdogan": "2026-10-30",
     "actor:ozgur-berber": "2026-10-31",
     "poll:kadir": "2026-11-02",
-    "episode:3": "2026-11-04"
+    "episode:3": "2026-11-04",
+    "episode:4": "2026-11-05"
   },
-  "updated": "2026-11-04T23:46:34.645Z",
+  "updated": "2026-11-05T06:57:26.417Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
