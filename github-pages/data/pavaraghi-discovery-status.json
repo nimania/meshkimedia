@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T06:36:43.700476+00:00",
+  "generatedAt": "2026-11-06T19:21:18.452607+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "muhtemel-ask:19",
-    "sevdan-bir-ates:6",
-    "sevdan-bir-ates:7",
-    "sevdan-bir-ates:8"
+    "haysiyet:1",
+    "haysiyet:2",
+    "haysiyet:3",
+    "haysiyet:4"
   ],
   "episodes": [
     {
@@ -1040,7 +1040,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 1,
-      "checkedAt": "2026-10-29T22:42:55.793173+00:00",
+      "checkedAt": "2026-11-06T19:21:18.452607+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1072,7 +1072,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 2,
-      "checkedAt": "2026-10-30T05:42:19.486112+00:00",
+      "checkedAt": "2026-11-06T19:21:18.452607+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1104,7 +1104,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 3,
-      "checkedAt": "2026-10-30T05:42:19.486112+00:00",
+      "checkedAt": "2026-11-06T19:21:18.452607+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1136,7 +1136,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 4,
-      "checkedAt": "2026-10-30T05:42:19.486112+00:00",
+      "checkedAt": "2026-11-06T19:21:18.452607+00:00",
       "languagesToTry": [
         "tr",
         "fa",
