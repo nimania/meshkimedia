@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T19:54:54.176251+00:00",
+  "generatedAt": "2026-11-06T06:36:43.700476+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "muhtemel-ask:15",
-    "muhtemel-ask:16",
-    "muhtemel-ask:17",
-    "muhtemel-ask:18"
+    "muhtemel-ask:19",
+    "sevdan-bir-ates:6",
+    "sevdan-bir-ates:7",
+    "sevdan-bir-ates:8"
   ],
   "episodes": [
     {
@@ -2060,6 +2060,38 @@
       "publicationApproved": false
     },
     {
+      "key": "muhtemel-ask:19",
+      "seriesSlug": "muhtemel-ask",
+      "seriesTitle": "احتمالاً عشقه",
+      "originalEpisode": 19,
+      "checkedAt": "2026-11-06T06:36:43.700476+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Muhtemel Aşk\" \"19\" Türkçe altyazı subtitle",
+        "\"Muhtemel Aşk\" \"19\" زیرنویس فارسی subtitle",
+        "\"Muhtemel Aşk\" \"19\" English subtitles subtitle",
+        "\"Muhtemel Aşk\" \"19\" ترجمة عربية subtitle",
+        "\"Muhtemel Aşk\" \"19\" srpski prevod subtitle",
+        "\"Muhtemel Aşk\" \"19\" bosanski titlovi subtitle",
+        "\"Muhtemel Aşk\" \"19\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
       "key": "omur-usta:1",
       "seriesSlug": "omur-usta",
       "seriesTitle": "اومور اوستا",
@@ -2244,6 +2276,102 @@
         "\"Sevdan Bir Ateş\" \"5\" srpski prevod subtitle",
         "\"Sevdan Bir Ateş\" \"5\" bosanski titlovi subtitle",
         "\"Sevdan Bir Ateş\" \"5\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "sevdan-bir-ates:6",
+      "seriesSlug": "sevdan-bir-ates",
+      "seriesTitle": "عشقت یک آتش است",
+      "originalEpisode": 6,
+      "checkedAt": "2026-11-06T06:36:43.700476+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Sevdan Bir Ateş\" \"6\" Türkçe altyazı subtitle",
+        "\"Sevdan Bir Ateş\" \"6\" زیرنویس فارسی subtitle",
+        "\"Sevdan Bir Ateş\" \"6\" English subtitles subtitle",
+        "\"Sevdan Bir Ateş\" \"6\" ترجمة عربية subtitle",
+        "\"Sevdan Bir Ateş\" \"6\" srpski prevod subtitle",
+        "\"Sevdan Bir Ateş\" \"6\" bosanski titlovi subtitle",
+        "\"Sevdan Bir Ateş\" \"6\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "sevdan-bir-ates:7",
+      "seriesSlug": "sevdan-bir-ates",
+      "seriesTitle": "عشقت یک آتش است",
+      "originalEpisode": 7,
+      "checkedAt": "2026-11-06T06:36:43.700476+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Sevdan Bir Ateş\" \"7\" Türkçe altyazı subtitle",
+        "\"Sevdan Bir Ateş\" \"7\" زیرنویس فارسی subtitle",
+        "\"Sevdan Bir Ateş\" \"7\" English subtitles subtitle",
+        "\"Sevdan Bir Ateş\" \"7\" ترجمة عربية subtitle",
+        "\"Sevdan Bir Ateş\" \"7\" srpski prevod subtitle",
+        "\"Sevdan Bir Ateş\" \"7\" bosanski titlovi subtitle",
+        "\"Sevdan Bir Ateş\" \"7\" hrvatski titlovi subtitle"
+      ],
+      "queryCount": 7,
+      "state": "no-results",
+      "transcriptVerified": false,
+      "dubbedBoundariesVerified": false,
+      "publicationApproved": false
+    },
+    {
+      "key": "sevdan-bir-ates:8",
+      "seriesSlug": "sevdan-bir-ates",
+      "seriesTitle": "عشقت یک آتش است",
+      "originalEpisode": 8,
+      "checkedAt": "2026-11-06T06:36:43.700476+00:00",
+      "languagesToTry": [
+        "tr",
+        "fa",
+        "en",
+        "ar",
+        "sr",
+        "bs",
+        "hr"
+      ],
+      "candidateUrls": [],
+      "lastSearchError": null,
+      "queriesRun": [
+        "\"Sevdan Bir Ateş\" \"8\" Türkçe altyazı subtitle",
+        "\"Sevdan Bir Ateş\" \"8\" زیرنویس فارسی subtitle",
+        "\"Sevdan Bir Ateş\" \"8\" English subtitles subtitle",
+        "\"Sevdan Bir Ateş\" \"8\" ترجمة عربية subtitle",
+        "\"Sevdan Bir Ateş\" \"8\" srpski prevod subtitle",
+        "\"Sevdan Bir Ateş\" \"8\" bosanski titlovi subtitle",
+        "\"Sevdan Bir Ateş\" \"8\" hrvatski titlovi subtitle"
       ],
       "queryCount": 7,
       "state": "no-results",
