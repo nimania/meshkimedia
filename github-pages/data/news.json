@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:01:59.524Z",
+ "updated": "2026-11-06T02:30:08.563Z",
  "items": [
   {
    "id": "b9d6752405dd",
@@ -151,7 +151,7 @@
    "video": null,
    "published": "2026-11-05T18:00:44.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -164,7 +164,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/gokhan-keser-askini-ilan-etti-iste-yeni-sevgilisiyle-ilk-karesi-7695191",
      "title": "Gökhan Keser aşkını ilan etti! İşte yeni sevgilisiyle ilk karesi",
      "snippet": "Şarkıcı ve oyuncu Gökhan Keser, sosyal medyadan yaptığı sürpriz paylaşımla yeni aşkını resmen duyurdu. Ünlü isim, Bade isimli sevgilisiyle romantik karesini 'Bazı hikâyeler hiç beklemediğin anda başlar' notuyla Instagram'dan paylaştı.",
-     "published": "2026-11-05T18:00:44.000Z"
+     "published": "2026-11-05T18:00:44.000Z",
+     "titleFa": "گوخان کسر عشق خود را اعلام کرد! این هم اولین عکس با پارتنر جدیدش"
     }
    ],
    "images": [
@@ -175,7 +176,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "گوخان کسر از رابطه عاشقانه جدید خود رونمایی کرد",
+   "summaryFa": "گوخان کسر، خواننده و بازیگر، با انتشار عکسی در شبکه‌های اجتماعی رابطه جدید خود را به طور رسمی اعلام کرد. او تصویر رمانتیک خود در کنار فردی به نام باده را به اشتراک گذاشت.",
+   "bodyFa": [
+    "گوخان کسر، خواننده و بازیگر شناخته‌شده، با انتشار یک پست غافلگیرکننده در صفحه اجتماعی خود، خبر از شروع رابطه عاشقانه تازه‌ای داد و این موضوع را به طور رسمی اعلام کرد.",
+    "این چهره مشهور تصویری رمانتیک و دو نفره در کنار دختری به نام «باده» را در اینستاگرام منتشر کرد و برای آن از جمله «بعضی از داستان‌ها در همان لحظه‌ای که انتظارش را نداری آغاز می‌شوند» استفاده کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a631b6e084d6",
@@ -202,7 +211,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/estetik-sonrasi-kucuk-ceylan-mazide-kaldi-iste-unlu-sarkicinin-son-hali-7695181",
      "title": "Estetik sonrası 'Küçük Ceylan' mazide kaldı! İşte ünlü şarkıcının son hali",
      "snippet": "Bir zamanların 'Küçük Ceylan'ı olarak bilinen şarkıcı Ceylan, geçirdiği estetik operasyonlar sonrası adeta bambaşka biri oldu. Ünlü isim, estetik işlemlerinin ardından yüzündeki değişimiyle dikkat çekti. İşte, Ceylan'ın son hali..",
-     "published": "2026-11-05T17:11:16.000Z"
+     "published": "2026-11-05T17:11:16.000Z",
+     "titleFa": "پس از زیبایی، «Küçük Ceylan» در خاطره‌ها ماند! این هم وضعیت جدید خواننده معروف"
     }
    ],
    "images": [
@@ -213,7 +223,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "چهره جدید Ceylan پس از عمل‌های زیبایی توجه‌ها را به خود جلب کرد",
+   "summaryFa": "خواننده مشهور که زمانی با عنوان «Küçük Ceylan» شناخته می‌شد، پس از جراحی‌های زیبایی تغییرات زیادی در چهره‌اش ایجاد کرده است.",
+   "bodyFa": [
+    "خواننده معروف Ceylan که در گذشته به عنوان «Küçük Ceylan» شناخته می‌شد، پس از انجام عمل‌های زیبایی تغییرات چشمگیری در چهره خود ایجاد کرده و ظاهر جدیدش مورد توجه قرار گرفته است.",
+    "این تغییرات پس از انجام عمل‌های زیبایی صورت گرفته و تصاویر مربوط به آخرین وضعیت ظاهری این خواننده بازتاب یافته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5fbf7048afc3",
@@ -322,9 +340,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/yildiz-tilbeden-yeni-imaj-denemesi-tupturuncu-saclari-dikkat-cekti-7695131",
      "title": "Yıldız Tilbe'den yeni imaj denemesi! Tupturuncu saçları dikkat çekti",
      "snippet": "Yıldız Tilbe, turuncu renkli peruk deneyerek farklı görünümüyle objektif karşısına geçti. Ünlü sanatçının yeni tarzı takipçilerinin dikkatini çekti.",
-     "published": "2026-11-05T14:53:50.000Z"
+     "published": "2026-11-05T14:53:50.000Z",
+     "titleFa": "تلاش جدید یلدیز تیلبه برای تغییر ظاهر؛ موهای کاملاً نارنجی او جلب توجه کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aec984ee672900e673f8916.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aec984ee672900e673f8916.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تجربه استایل جدید توسط یلدیز تیلبه با موهای نارنجی",
+   "summaryFa": "یلدیز تیلبه با استفاده از یک کلاه گیس نارنجی روشن، ظاهری متفاوت را تجربه کرد. این تغییر استایل جلب توجه دنبال‌کنندگان او را به همراه داشته است.",
+   "bodyFa": [
+    "یلدیز تیلبه، هنرمند سرشناس، با قرار گرفتن در برابر دوربین با یک کلاه گیس به رنگ نارنجی روشن، ظاهر جدیدی را امتحان کرده است.",
+    "استایل و چهره متفاوت این هنرمند در این تصویر تازه، توجه مخاطبان و دنبال‌کنندگانش را به خود جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ec94c5161b53",
@@ -351,9 +387,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ikilemden-yeni-single-vursan-olmem-43367434",
      "title": "İkilem'den Yeni Single “Vursan Ölmem”",
      "snippet": "Türk pop müziğinin sevilen gruplarından İkilem, yeni single çalışması “Vursan Ölmem” ile müzikseverlerle buluşmaya hazırlanıyor. Sözleri Özlem Akgüneş’e, müziği Uğur Ateş’e ait olan şarkının aranjesi İkilem imzası taşıyor. Grubun müzikal çizgisini yansıtan “Vursan Ölmem”, güçlü duygusu ve etkileyici",
-     "published": "2026-11-05T14:41:38.000Z"
+     "published": "2026-11-05T14:41:38.000Z",
+     "titleFa": "تک‌آنگاه جدید از گروه ایکلم به نام «Vursan Ölmem»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aec958faa7d7bef19765ed2.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aec958faa7d7bef19765ed2.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار تک‌آنگاه جدید گروه ایکلم به نام «Vursan Ölmem»",
+   "summaryFa": "گروه پپ محبوب ایکلم خود را برای انتشار تک‌آنگاه جدیدی به نام «Vursan Ölmem» آماده می‌کند. ترانه این اثر متعلق به اوزلم آکگونش و آهنگ آن کار اوغور آتش است.",
+   "bodyFa": [
+    "گروه موسیقی محبوب «ایکلم» در عرصه پپ ترکی، با اثر جدید خود تحت عنوان «Vursan Ölmem» به زودی به استقبال هواداران و دوستداران موسیقی خواهد رفت. این اثر جدید با حفظ سبک و خط‌مشی موسیقایی همیشگی این گروه شکل گرفته است و تلاش دارد احساسات قوی و تاثیرگذاری را به مخاطب منتقل کند.",
+    "در ساخت این تک‌آنگاه، «اوزلم آکگونش» به عنوان ترانه‌سرا و «اوغور آتش» به عنوان آهنگساز همکاری داشته‌اند. همچنین تنظیم این قطعه موسیقی توسط خود اعضای گروه ایکلم انجام گرفته و به سرانجام رسیده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "32add3849b65",
@@ -380,9 +434,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/fenerbahce-kazandi-sevket-coruh-ve-bulent-sakrak-costu-7695030",
      "title": "Fenerbahçe kazandı, Şevket Çoruh ve Bülent Şakrak coştu",
      "snippet": "Fenerbahçe’nin Şampiyonlar Ligi’nde Liverpool karşısında aldığı galibiyet ünlü isimleri de sevince boğdu. Şevket Çoruh ve Bülent Şakrak, maçın bitiş düdüğünün ardından televizyon karşısında marş söyleyerek zaferi kutladı.",
-     "published": "2026-11-05T13:22:39.000Z"
+     "published": "2026-11-05T13:22:39.000Z",
+     "titleFa": "فنرباهچه برد، شوکت چوروح و بولنت شاکراک به وجد آمدند"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aec7b24e672900e673f88c3.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aec7b24e672900e673f88c3.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "خوشحالی شوکت چوروح و بولنت شاکراک پس از پیروزی فنرباهچه",
+   "summaryFa": "پیروزی تیم فوتبال فنرباهچه مقابل لیورپول در لیگ قهرمانان اروپا موجی از شادی را در میان چهره‌های سرشناس ایجاد کرد. شوکت چوروح و بولنت شاکراک این پیروزی را در خانه و با خواندن سرود جشن گرفتند.",
+   "bodyFa": [
+    "پیروزی تیم فنرباهچه برابر لیورپول در رقابت‌های لیگ قهرمانان اروپا واکنش‌های پرشوری را به همراه داشت و چهره‌های سرشناس هنری نیز به شادی پرداختند.",
+    "بر اساس اطلاعات منتشر شده، شوکت چوروح و بولنت شاکراک پس از به صدا درآمدن سوت پایان مسابقه، در مقابل تلویزیون حضور یافته و با خواندن سرود، پیروزی تیم محبوب خود را جشن گرفتند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "dc22b0ed2763",
@@ -409,9 +481,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/cocukla-hayat/hadi-gidelim-43367295",
      "title": "Hadi gidelim",
      "snippet": "Çocukların çok sevdiği kahramanlar bu hafta tiyatro sahnesinde… Minikler ayrıca katıldıkları atölyelerde ritmin peşine düşüp seramik yapacaklar.",
-     "published": "2026-11-05T13:15:35.000Z"
+     "published": "2026-11-05T13:15:35.000Z",
+     "titleFa": "بیایم برویم"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aec816133682fc5418a7b94.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aec816133682fc5418a7b94.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "برنامه‌های تئاتر و کارگاه‌های کودکان در این هفته",
+   "summaryFa": "قهرمانان محبوب کودکان این هفته روی صحنه تئاتر می‌روند و کودکان می‌توانند در کارگاه‌های موسیقی و سفالگری شرکت کنند.",
+   "bodyFa": [
+    "در این هفته، شخصیت‌ها و قهرمانانی که کودکان علاقه زیادی به آن‌ها دارند، اجراهای خود را روی صحنه تئاتر آغاز می‌کنند تا لحظات شادی را برای خردسالان فراهم کنند.",
+    "علاوه بر تئاتر، برنامه‌های دیگری نیز برای کودکان در نظر گرفته شده است؛ از جمله کارگاه‌هایی که در آن‌ها شرکت‌کنندگان کوچک می‌توانند به یادگیری ریتم پرداخته و همچنین به ساخت آثار سرامیکی مشغول شوند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "973a8b391647",
@@ -438,9 +528,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/90-kilo-veren-unlu-oyuncu-bambaska-biri-oldu-o-da-kendini-taniyamiyormus-yeni-yuzume-alismaya-calisiyorum-43367057",
      "title": "90 kilo veren ünlü oyuncu bambaşka biri oldu… O da kendini tanıyamıyormuş: Yeni yüzüme alışmaya çalışıyorum",
      "snippet": "Kullanımı giderek yaygınlaşan zayıflama iğneleri ünlüler dünyasını da sardı ve birçok yıldız isim aslında pek de ihtiyacı olmasa bile bu iğnelerle daha fazla kilo verme yarışına girdi…",
-     "published": "2026-11-05T13:06:42.000Z"
+     "published": "2026-11-05T13:06:42.000Z",
+     "titleFa": "بازیگر مشهوری که ۹۰ کیلوگرم وزن کم کرده به فردی کاملاً متفاوت تبدیل شد... او هم نمی‌تواند خودش را بشناسد: در حال تلاش برای عادت کردن به چهره جدیدم هستم"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aec6248e801c6dc9244fcd6.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aec6248e801c6dc9244fcd6.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "بازیگر مشهوری که ۹۰ کیلوگرم وزن کم کرده است، به چهره‌ای کاملاً متفاوت تبدیل شد",
+   "summaryFa": "استفاده از آمپول‌های لاغری در میان چهره‌های مشهور رواج یافته است. بازیگر شناخته‌شده‌ای که ۹۰ کیلوگرم وزن کم کرده، اظهار داشت که در حال عادت کردن به چهره جدید خود است.",
+   "bodyFa": [
+    "آمپول‌های لاغری که استفاده از آن‌ها روزبه‌روز در حال گسترش است، در دنیای افراد مشهور نیز فراگیر شده و بسیاری از ستارگان، حتی بدون داشتن نیاز واقعی، وارد رقابت برای کاهش وزن بیشتر با استفاده از این آمپول‌ها شده‌اند.",
+    "در این میان، یک بازیگر معروف که توانسته ۹۰ کیلوگرم وزن خود را کاهش دهد، تغییرات چشمگیری کرده و به فردی کاملاً متفاوت تبدیل شده است. این بازیگر مطرح درباره تغییر ظاهر خود گفته است که حتی خودش نیز به سختی می‌تواند خودش را بشناسد و در تلاش است تا با چهره جدیدش سازگار شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d78024efe20f",
@@ -469,7 +577,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/ayrilik-uzerine-43367274",
      "title": "Ayrılık üzerine…",
      "snippet": "Sertab Erener ‘Kendine Aşık’ta bir ilişkinin içinde kaybolmaktansa kendine dönebilme cesaretini, Mert Carim ve Gökhan Türkmen’se ‘Nevresimler’de ayrılık sonrası verilen sessiz mücadeleyi anlatıyor. Haftanın yeni çalışmaları arasında Deniz Tekin’in mini albümü de var.",
-     "published": "2026-11-05T13:02:09.000Z"
+     "published": "2026-11-05T13:02:09.000Z",
+     "titleFa": "درباره جدایی…"
     }
    ],
    "images": [
@@ -480,7 +589,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "مروری بر تازه‌های موسیقی؛ ترانه مشترک مرت جاریم و گوکان تورکمن",
+   "summaryFa": "در تازه‌ترین انتشار‌های موسیقی، آثاری با موضوع جدایی و بازگشت به خویشتن از هنرمندانی چون مرت جاریم، گوکان تورکمن و سرتاب ارنر منتشر شده است.",
+   "bodyFa": [
+    "در میان تازه‌ترین آثار منتشرشده در دنیای موسیقی، قطعات جدیدی با مفاهیم عاطفی و جدایی به چشم می‌خورند. سرتاب ارنر در ترانه «Kendine Aşık» به موضوع شجاعت بازگشت به خویشتن و حفظ هویت فردی به جای غرق شدن در یک رابطه پرداخته است.",
+    "همچنین مرت جاریم و گوکان تورکمن در همکاری مشترک خود در قطعه «Nevresimler»، تلاش و جدال خاموش افراد پس از پایان یک رابطه عاطفی و تجربه جدایی را روایت می‌کنند. علاوه بر این آثار، مینی‌آلبوم جدید دنیز تکین نیز در فهرست تازه‌های موسیقی این هفته قرار دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b178aacb7fea",
@@ -507,9 +624,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/ayakta-alkislandi-43367197",
      "title": "Ayakta alkışlandı",
      "snippet": "Timuçin Esen ve Funda Eryiğit’i aynı sahnede buluşturan “Değişim/Dönüşüm” önceki akşam Zorlu PSM’de prömiyerini gerçekleştirdi. Oyun, seyirciler tarafından uzun süre ayakta alkışlandı.",
-     "published": "2026-11-05T12:10:00.000Z"
+     "published": "2026-11-05T12:10:00.000Z",
+     "titleFa": "ایستاده تشویق شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aec7192242372ca50175376.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aec7192242372ca50175376.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "پرچمداری تیمuçin اسن و فوندا اریییت در نمایش «تغییر/تحول»",
+   "summaryFa": "نمایش «تغییر/تحول» با بازی تیمuçin اسن و فوندا اریییت در زورلو PSM روی صحنه رفت. این اثر با استقبال تماشاگران روبه‌رو شد.",
+   "bodyFa": [
+    "نمایش جدید «تغییر/تحول» که تیمuçin اسن و فوندا اریییت را در کنار یکدیگر روی یک صحنه قرار داده است، شب گذشته در مرکز زورلو PSM اجرای افتتاحیه خود را برگزار کرد.",
+    "این اثر نمایشی پس از اجرا توانست توجه مخاطبان را به خود جلب کند و توسط تماشاگران حاضر در سالن برای مدت طولانی به صورت ایستاده تشویق شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3c79b4503b53",
@@ -536,9 +671,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/zengin-ailenin-ogluyla-buyuk-ask-yasamisti-nafaka-gitti-haciz-geldi-43367093",
      "title": "Zengin ailenin oğluyla büyük aşk yaşamıştı... Nafaka bitti, haciz geldi!",
      "snippet": "Ünlülerin aşklarının başlangıcı da bitişi de kelimenin tam anlamıyla olaylı oluyor... Üstelik bazen aşıklar ayrıldığında aralarında yaşanan gerilimlerin çözülmesi yıllara yayılabiliyor.",
-     "published": "2026-11-05T11:53:00.000Z"
+     "published": "2026-11-05T11:53:00.000Z",
+     "titleFa": "رابطه بزرگ با پسر یک خانواده ثروتمند... نفقه تمام شد، توقیف آمد!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aec6b6c242372ca50175305.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aec6b6c242372ca50175305.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "پایان نفقه و آغاز توقیف اموال پس از یک رابطه پر سر و صدا",
+   "summaryFa": "رابطه عاشقانه و جدایی چهره‌های مشهور اغلب حاشیه‌ساز است و تنش‌های میان آن‌ها ممکن است سال‌ها طول بکشد.",
+   "bodyFa": [
+    "روابط عاشقانه چهره‌های سرشناس همواره با حواشی فراوانی همراه است و آغاز و پایان آن‌ها معمولاً سر و صدای زیادی به پا می‌کند. بر اساس گزارش‌های منتشر شده، تنش‌ها و اختلافات میان این افراد پس از جدایی ممکن است سال‌ها به درازا بکشد و مسائل مربوط به آن حل‌نشده باقی بماند.",
+    "در تازه‌ترین حواشی پیرامون زندگی افراد مشهور، پس از اتمام پرداخت نفقه، اقدامات قانونی مربوط به توقیف اموال مطرح شده است که این موضوع نیز توجه رسانه‌ها را به خود جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "df01a379ba8f",
@@ -565,9 +718,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/90lardan-flamenkoya-43367048",
      "title": "90’lardan flamenkoya...",
      "snippet": "Bu hafta İstanbul’da Hande Yener ve Aşkın Nur Yengi konserleri var. Dünyaca ünlü flamenko topluluğu Fundación Antonio Gades ‘Carmen’ gösterisiyle İstanbul’a geliyor. Ayrıca 90’ların yıldızlarını bir araya getiren Throwback Festival müzikseverleri o yıllara ışınlayacak.",
-     "published": "2026-11-05T11:44:11.000Z"
+     "published": "2026-11-05T11:44:11.000Z",
+     "titleFa": "از دهه ۹۰ تا فلامنکو..."
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aec6bfc33682fc5418a7aea.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aec6bfc33682fc5418a7aea.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "رویدادهای هنری و موسیقایی این هفته در استانبول",
+   "summaryFa": "این هفته استانبول میزبان کنسرت‌های هانده ینر و آشکین نور ینگی، نمایش فلامنکو و یک جشنواره موسیقی از ستاره‌های دهه نود خواهد بود.",
+   "bodyFa": [
+    "در این هفته شهر استانبول میزبان چندین برنامه و رویداد متنوع موسیقایی و هنری است که علاقه‌مندان به موسیقی را به خود جذب می‌کند. از جمله مهم‌ترین برنامه‌ها می‌توان به کنسرت‌های هانده ینر و آشکین نور ینگی اشاره کرد.",
+    "علاوه بر این کنسرت‌ها، گروه معروف فلامنکو «فونداسیون آنتونیو گادس» نیز با نمایش «کارمن» به استانبول می‌آید. همچنین جشنواره‌ای به نام «تروبک» که ستاره‌های دهه ۹۰ میلادی را دور هم جمع کرده است، اجرا خواهد داشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ccaba3419eb6",
@@ -581,7 +752,7 @@
    "video": null,
    "published": "2026-11-05T11:29:32.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -594,9 +765,21 @@
      "url": "https://www.haberturk.com/magazin/bob-dylan-papa-14-leo-yu-vatikan-da-ziyaret-etti-3925154",
      "title": "Papa, hayran olduğu sanatçıyı ağırladı",
      "snippet": "Dünyaca ünlü folk ve rock müzik yıldızı Bob Dylan ile büyük bir Dylan hayranı olduğu bilinen Papa 14. Leo, Vatikan'da bir araya geldi",
-     "published": "2026-11-05T11:29:32.000Z"
+     "published": "2026-11-05T11:29:32.000Z",
+     "titleFa": "پاپ، هنرمند مورد علاقه خود را به حضور پذیرفت"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "دیدار باب دیلن با پاپ چهاردهم لئو در واتیکان",
+   "summaryFa": "باب دیلن، موسیقیدان برجسته، در کاخ آپوستولیک با پاپ چهاردهم لئو که از هواداران اوست ملاقات کرد. دفتر مطبوعاتی واتیکان درباره موضوعات مطرح شده در این دیدار توضیحی نداد.",
+   "bodyFa": [
+    "باب دیلن، ستاره جهانی موسیقی و برنده جوایز اسکار و نوبل ادبیات، طی سفری به واتیکان با پاپ چهاردهم لئو، رهبر ۷۱ ساله کلیسای کاتولیک، دیدار و گفتگو کرد. این ملاقات اختصاصی در دفتر واقع در کاخ آپوستولیک انجام شد.",
+    "در این دیدار، پاپ با لباس سفید همیشگی و باب دیلن ۸۵ ساله با پالتو و دستکش سیاه و در حالی که کلاه بر سر داشت، حضور یافتند. آنتونیو اسپادارو، کشیش یسوعی و مقام واتیکان، در صفحه اینستاگرام خود نقش خود را در شکل‌گیری این ملاقات تایید کرد و آن را تاریخی خواند.",
+    "پاپ چهاردهم لئو که متولد شیکاگو است، پیش‌تر نیز علاقه خود به آثار این هنرمند را نشان داده بود؛ از جمله در تیرماه گذشته در مقدمه یک کتاب، به ترانه ضد هسته‌ای سال ۱۹۶۳ دیلن اشاره کرده بود. این دومین بار است که باب دیلن با یک پاپ دیدار می‌کند، چرا که او در سال ۱۹۹۷ نیز با ژان پل دوم ملاقات کرده بود.",
+    "لازم به ذکر است که دفتر مطبوعاتی واتیکان جزئیات یا بیانیه‌ای درباره محورهای گفتگوی میان پاپ و باب دیلن منتشر نکرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d6359fc9cf74",
@@ -625,36 +808,16 @@
      "snippet": "Hayatta yaşanan kötü tecrübelerin, bir kulaktan girip diğerinden çıkan öğütlerden çok daha öğretici olduğu asla inkar edilmez.",
      "published": "2026-11-05T11:22:36.000Z"
     }
-   ]
-  },
-  {
-   "id": "0913362ef568",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/usta-oyuncu-33-yasindaki-oglunu-kendi-elleriyle-topraga-vermisti-umudumuzu-kaybetmedik-ama-basaramadik-43366577",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Usta oyuncu 33 yaşındaki oğlunu kendi elleriyle toprağa vermişti… ‘Umudumuzu kaybetmedik ama başaramadık’",
-   "snippet": "Upuzun kariyeri boyunca hem sinema tarihine geçen filmlerde oynadı hem de çok izlenen televizyon dizilerinde başrol oldu. Ömrünün en kötü günlerini yaşarken zor bir karar verip tüm kariyerini hiç gözünü kırpmadan çöpe atmaktan geri durmadı…",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6aec2f8833682fc5418a7911.jpg",
-   "video": null,
-   "published": "2026-11-05T10:29:51.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/usta-oyuncu-33-yasindaki-oglunu-kendi-elleriyle-topraga-vermisti-umudumuzu-kaybetmedik-ama-basaramadik-43366577",
-     "title": "Usta oyuncu 33 yaşındaki oğlunu kendi elleriyle toprağa vermişti… ‘Umudumuzu kaybetmedik ama başaramadık’",
-     "snippet": "Upuzun kariyeri boyunca hem sinema tarihine geçen filmlerde oynadı hem de çok izlenen televizyon dizilerinde başrol oldu. Ömrünün en kötü günlerini yaşarken zor bir karar verip tüm kariyerini hiç gözünü kırpmadan çöpe atmaktan geri durmadı…",
-     "published": "2026-11-05T10:29:51.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aeb3509242372ca50174a90.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aeb3509242372ca50174a90.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true
   },
   {
    "id": "f7c4a0cb6d06",
@@ -681,9 +844,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/duyurmak-icin-zaman-geldi-biz-evlendik-43366942",
      "title": "Duyurmak için zaman geldi: Biz evlendik!",
      "snippet": "Oyuncu Yılmaz Bayraktar, bir süredir birlikte olduğu meslektaşı Sıla Özlem Önemli ile evlendi.",
-     "published": "2026-11-05T09:58:47.000Z"
+     "published": "2026-11-05T09:58:47.000Z",
+     "titleFa": "زمان اعلام فرا رسیده است: ما ازدواج کردیم!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aec52fc33682fc5418a7a0d.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aec52fc33682fc5418a7a0d.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "yilmaz bayraktar و sıla özlem önemli ازدواج کردند",
+   "summaryFa": "yilmaz bayraktar، بازیگر، با همکار خود sıla özlem önemli ازدواج کرد.",
+   "bodyFa": [
+    "yilmaz bayraktar، بازیگر شناخته‌شده، پس از مدتی رابطه با همکار خود sıla özlem önemli پیوند زناشویی بست."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "14b1b2cb1bc9",
@@ -860,35 +1040,6 @@
    "aiTries": 1
   },
   {
-   "id": "e3940ad4f9f7",
-   "url": "https://www.milliyet.com.tr/magazin/unlu-sarkici-sinan-ozen-kaza-yapti-iste-saglik-durumu-7694664",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "SON DAKİKA: Kaza yapan Sinan Özen'in sağlık durumu nasıl?",
-   "snippet": "Tokat'ta 3 Kasım'da sahne alan ünlü şarkıcıSinan Özen, konserin ardından İstanbul'a dönmek üzere yola çıktı. KONSER DÖNÜŞÜ KAZA Özen'in içinde bulunduğu araç, otoyolda Sakarya gişelerinde kazaya karıştı. Sanatçının menajerliğini de yapan kardeşi Hızır Özen, kazayı sosyal medya hesabından yaptığı paylaşımla duyurdu. Altı film şirketine telif davası 'ÇOK ŞÜKÜR İYİYİZ' Kaza sonrası araçların fotoğraflarını paylaşan Hızır Özen, \"Tokat dönüşü Sakarya gişelerinde yaşadığımız kaza. Çok şükür iyiyiz\" if",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aec2725e672900e673f8759.jpg",
-   "video": null,
-   "published": "2026-11-05T08:56:26.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/unlu-sarkici-sinan-ozen-kaza-yapti-iste-saglik-durumu-7694664",
-     "title": "SON DAKİKA: Kaza yapan Sinan Özen'in sağlık durumu nasıl?",
-     "snippet": "Tokat'ta 3 Kasım'da sahne alan ünlü şarkıcıSinan Özen, konserin ardından İstanbul'a dönmek üzere yola çıktı. KONSER DÖNÜŞÜ KAZA Özen'in içinde bulunduğu araç, otoyolda Sakarya gişelerinde kazaya karıştı. Sanatçının menajerliğini de yapan kardeşi Hızır Özen, kazayı sosyal medya hesabından yaptığı pay",
-     "published": "2026-11-05T08:56:26.000Z"
-    }
-   ]
-  },
-  {
    "id": "e0397373ef56",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/cok-parasi-sohreti-ve-guzelligi-derdine-derman-olamadi-bebegini-dogurdu-ama-bir-huzurla-sevemedi-43366564",
    "source": "hurriyet-kelebek",
@@ -913,9 +1064,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/cok-parasi-sohreti-ve-guzelligi-derdine-derman-olamadi-bebegini-dogurdu-ama-bir-huzurla-sevemedi-43366564",
      "title": "Çok parası, şöhreti ve güzelliği derdine derman olamadı... Bebeğini doğurdu ama bir huzurla sevemedi",
      "snippet": "Aslında ilk bakışta dünyanın en şanslı insanlarından biri olarak görünüyor. Her ne kadar artık görüşmese de ünlü bir babanın kızı olarak dünyaya geldi. Sonrasında da genç kuşağın en gözde isimlerinden biriyle evlendi. Hatta ondan bir de bebek sahibi oldu.",
-     "published": "2026-11-05T08:23:00.000Z"
+     "published": "2026-11-05T08:23:00.000Z",
+     "titleFa": "پول، شهرت و زیبایی هم درد او را دوا نکرد... فرزندش را به دنیا آورد اما نتوانست با آرامش او را دوست داشته باشد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aec2bee242372ca50174fbb.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aec2bee242372ca50174fbb.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "پول، شهرت و زیبایی هم درد او را دوا نکرد",
+   "summaryFa": "این گزارش به زندگی زنی می‌پردازد که با وجود ثروت، شهرت، زیبایی و داشتن فرزند، به نظر می‌رسد از آرامش واقعی بهره‌مند نیست.",
+   "bodyFa": [
+    "در نگاه اول، این فرد یکی از خوش‌شانس‌ترین انسان‌های جهان به نظر می‌رسد. او به عنوان دختر یک پدر مشهور به دنیا آمده، هرچند که دیگر با او ارتباطی ندارد. او همچنین با یکی از چهره‌های محبوب نسل جوان ازدواج کرده و از او صاحب یک فرزند نیز شده است.",
+    "با این حال، بر اساس گزارش‌های منتشر شده، ثروت، شهرت و زیبایی نتوانسته‌اند دردهای او را درمان کنند و او نتوانسته است با آرامش کامل فرزندش را در آغوش بگیرد و دوست داشته باشد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "e72ed29917d0",
@@ -944,9 +1113,27 @@
      "url": "https://www.sozcu.com.tr/yoruk-kizi-dizisine-katilan-ecem-calhan-in-rolu-belli-oldu-p376252",
      "title": "Yörük Kızı dizisine katılan Ecem Çalhan'ın rolü belli oldu",
      "snippet": "TRT 1 ekranları için hazırlanan Yörük Kızı dizisinin oyuncu kadrosu şekilleniyor. Son olarak Zeytin Çiçekleri dizisinde ...",
-     "published": "2026-11-05T08:01:03.000Z"
+     "published": "2026-11-05T08:01:03.000Z",
+     "titleFa": "نقش Ecem Çalhan که به سریال Yörük Kızı پیوست، مشخص شد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/576jpg-70CN2OaJ3kGc35ra9tBcwQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/576jpg-70CN2OaJ3kGc35ra9tBcwQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yoruk-kizi-dizisine-katilan-ecem-calhanin-rolu-belli-oldu-3jpg--rLDiobRjkWyVsP5NW7T0w.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yoruk-kizi-dizisine-katilan-ecem-calhanin-rolu-belli-oldu-2jpg-jDXyNi37yk6U7P1Z8fayvA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yoruk-kizi-dizisine-katilan-ecem-calhanin-rolu-belli-oldu-1jpg-n1ROGfck-kWysHYuqGjrzQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yoruk-kizi-dizisine-katilan-ecem-calhanin-rolu-belli-oldu-5jpg-96WHwtvhi0SS46c3fqYKSQ.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "نقش Ecem Çalhan در سریال «Yörük Kızı» مشخص شد",
+   "summaryFa": "بازیگر جوان، Ecem Çalhan، به کادر بازیگران سریال «Yörük Kızı» از شبکه TRT 1 پیوست. او در این پروژه با امضای شرکت Bozdağ Film نقش آووکات نرگس را بر عهده خواهد داشت.",
+   "bodyFa": [
+    "آماده‌سازی‌ها برای سریال جدید «Yörük Kızı» که برای پخش از شبکه TRT 1 در نظر گرفته شده، ادامه دارد و ترکیب بازیگران آن در حال شکل‌گیری است. کارگردانی این اثر بر عهده یونس اوزان کورکوت قرار دارد و تهیه آن را شرکت Bozdağ Film انجام می‌دهد.",
+    "در همین راستا، Ecem Çalhan که پیش‌تر در سریال «Zeytin Çiçekleri» به ایفای نقش پرداخته بود، با این پروژه جدید به توافق رسید و حضورش قطعی شد. مشخص شده است که این بازیگر جوان در سریال «Yörük Kızı» با نقش واراث یا همان وکیل نرگس (Avukat Nergis) در برابر مخاطبان ظاهر خواهد شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "aa753d4cbfc9",
@@ -1035,7 +1222,8 @@
      "url": "https://www.sabah.com.tr/magazin/cocuklarinin-gelecegi-icin-riske-girmedi-dogru-karari-verdi-var-misin-yok-musunda-kutudan-cikan-rakam-mutlu-etti-7695460",
      "title": "Çocuklarının geleceği için riske girmedi, doğru kararı verdi! Var Mısın Yok Musun'da kutudan çıkan rakam şaşırttı...",
      "snippet": "atv ekranlarının fenomen yarışma programı Esra Erol ile Var Mısın Yok Musun, dün akşam yayınlanan 45. bölümüyle izleyenleri ekran başına kilitledi. İki oğluyla yaşam mücadelesi veren 33 yaşındaki Yozgatlı... Devamı için tıklayınız",
-     "published": "2026-11-05T07:39:40.000Z"
+     "published": "2026-11-05T07:39:40.000Z",
+     "titleFa": "او در خطر نیافتاد و تصمیم درستی برای آینده فرزندانش گرفت! رقم بیرون آمده از جعبه در برنامه «وار مسین یوک مسون» شگفت‌زده کرد..."
     }
    ],
    "images": [
@@ -1046,7 +1234,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "رقابت نuriه یازار در برنامه «آیا هستی یا نیستی؟» با اجرای اسرا ارول",
+   "summaryFa": "قسمت چهل و پنجم برنامه «اسرا ارول ایله وار مسین یوک مسون» با رقابت نوریه یازار ۳۳ ساله از یوزگات روی آنتن رفت. این شرکت‌کننده که با دو پسرش زندگی می‌کند، برای آینده فرزندانش در این مسابقه شرکت کرد.",
+   "bodyFa": [
+    "برنامه محبوب «اسرا ارول ایله وار مسین یوک مسون» از شبکه ATV با پخش قسمت چهل و پنجم خود مخاطبان را پای تلویزیون میخکوب کرد. در این قسمت، نوریه یازار، مادری ۳۳ ساله از شهر یوزگات که با دو پسرش روزگار می‌گذراند، به رقابت پرداخت.",
+    "در این شب پرهیجان که توجه بینندگان را به خود جلب کرد، این شرکت‌کننده تلاش کرد تا با تصمیم‌گیری درست و برای آینده فرزندانش، کمترین ریسک را بکند و مبلغی از جعبه مسابقه به دست آورد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "eeddecaced65",
@@ -1073,38 +1269,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/gulsim-aliden-roma-pozlari-yeni-imajiyla-dikkat-cekti-7694693",
      "title": "Gülsim Ali’den Roma pozları! Yeni imajıyla dikkat çekti",
      "snippet": "Roma tatiline çıkan Gülsim Ali, tarihi sokaklarda verdiği yeni pozları takipçileriyle paylaştı. Saçlarını kısaltarak imaj değişikliğine giden oyuncunun yeni tarzı dikkat çekti.",
-     "published": "2026-11-05T07:26:49.000Z"
+     "published": "2026-11-05T07:26:49.000Z",
+     "titleFa": "عکس‌های گل‌سیم علی از رم! او با استایل جدیدش جلب توجه کرد"
     }
-   ]
-  },
-  {
-   "id": "403f1fb84d73",
-   "url": "https://www.sozcu.com.tr/unlu-sarkici-sinan-ozen-kaza-yapti-yaninda-kardesi-de-vardi-p376225",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ünlü şarkıcı Sinan Özen kaza yaptı: Yanında kardeşi de vardı",
-   "snippet": "Sinan Özen'in Tokat konseri dönüşünde yaşadığı kaza sevenlerini korkuttu. Sakarya gişelerinde kazaya karışan sanatçı ve ...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sinanozenkazajpg-uq1bnVxokECjCH98ohBC-w.jpg",
-   "video": null,
-   "published": "2026-11-05T07:17:09.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/unlu-sarkici-sinan-ozen-kaza-yapti-yaninda-kardesi-de-vardi-p376225",
-     "title": "Ünlü şarkıcı Sinan Özen kaza yaptı: Yanında kardeşi de vardı",
-     "snippet": "Sinan Özen'in Tokat konseri dönüşünde yaşadığı kaza sevenlerini korkuttu. Sakarya gişelerinde kazaya karışan sanatçı ve ...",
-     "published": "2026-11-05T07:17:09.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aec2f80e672900e673f8779.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aec2f80e672900e673f8779.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تصاویر جدید گل‌سیم علی در رم با استایل متفاوت",
+   "summaryFa": "گل‌سیم علی برای تعطیلات به رم رفته و تصاویری از خود با استایل و مدل موی کوتاه جدید در خیابان‌های تاریخی این شهر منتشر کرده است.",
+   "bodyFa": [
+    "گل‌سیم علی، بازیگر شناخته‌شده، اخیراً برای سفر و تعطیلات راهی شهر رم شده است. او در جریان این سفر، تصاویری از گشت‌وگذار خود در خیابان‌های تاریخی رم را در صفحه شخصی‌اش با طرفداران و دنبال‌کنندگان خود به اشتراک گذاشته است.",
+    "نکته قابل‌توجه در این تصاویر، تغییر استایل و چهره این بازیگر است که موهای خود را کوتاه کرده و با ظاهری جدید ظاهر شده است؛ موضوعی که به سرعت توجه مخاطبان را به خود جلب کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "28180df70e11",
@@ -1133,7 +1318,8 @@
      "snippet": "Tokat'ta verdiği konserin ardından İstanbul'a dönmek üzere yola çıkan Sinan Özen, Sakarya gişelerinde trafik kazası geçirdi. Özen'in sağlık durumunun iyi olduğu öğrenildi",
      "published": "2026-11-05T06:58:24.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "2bc7a6a4cca1",
@@ -1162,7 +1348,16 @@
      "snippet": "Miss Turkey birincisi tescilli güzel Sıla Saraydemir, oyuncuların estetik tercihleri ve modellik sektörünün günümüzdeki değişimi hakkında samimi açıklamalarda bulundu. Saraydemir’in dikkat çeken açıklamaları... Devamı için tıklayınız",
      "published": "2026-11-05T06:53:44.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/f8df18/1200/675/0/0/724/407?u=https://isbh.tmgrup.com.tr/sbh/2026/11/05/1793860476057.jpeg",
+    "https://iasbh.tmgrup.com.tr/620fe1/752/395/0/0/724/380?u=https://isbh.tmgrup.com.tr/sbh/2026/11/05/1793860476057.jpeg",
+    "https://iasbh.tmgrup.com.tr/cf3a52/210/210/213/0/908/696?u=https://isbh.tmgrup.com.tr/sbh/2026/11/05/1793857640572.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "f6e49cf7cc41",
@@ -1270,7 +1465,7 @@
    "video": null,
    "published": "2026-11-05T05:49:30.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1283,10 +1478,19 @@
      "url": "https://www.haberturk.com/magazin/foto/yilmaz-bayraktar-ile-sila-ozlem-onemli-evlendi-3925023",
      "title": "Sürpriz nikah",
      "snippet": "Oyuncu çift Yılmaz Bayraktar ile Sıla Özlem Önemli, evlendiklerini açıkladı. İkili, \"Artık bunu sizlere duyurmanın zamanı geldi\" ifadeleriyle mutluluklarını paylaştı",
-     "published": "2026-11-05T05:49:30.000Z"
+     "published": "2026-11-05T05:49:30.000Z",
+     "titleFa": "عروسی غافلگیرکننده"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "ازwواج غافلگیرکننده Yılmaz Bayraktar و Sıla Özlem Önemli",
+   "summaryFa": "بازیگران Yılmaz Bayraktar و Sıla Özlem Önemli در ماه سپتامبر با یکدیگر ازدواج کردند و این خبر را در شبکه‌های اجتماعی به اشتراک گذاشتند.",
+   "bodyFa": [
+    "ییلماز بایرکتار و سیلا اوزلم اونه‌ملی، دو بازیگر شناخته‌شده، خبر ازدواج خود را به طور غافلگیرکننده‌ای با طرفدارانشان در میان گذاشتند. این زوج که در آثار مختلفی به ایفای نقش پرداخته‌اند، اعلام کردند که در تاریخ ۲۴ سپتامبر طی مراسمی ساده با یکدیگر پیمان زناشویی بسته‌اند.",
+    "این دو هنرمند با انتشار تصاویری در صفحات مجازی خود، احساس خوشبختی‌شان را ابراز کرده و خطاب به مخاطبان نوشتند که مدت‌هاست تشکیل خانواده داده‌اند و اکنون زمان اعلام آن فرا رسیده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "78f390d83951",
@@ -1407,7 +1611,8 @@
      "url": "https://www.sozcu.com.tr/evini-arabasini-satip-koyune-fabrika-kuran-sanatci-sessiz-sedasiz-esinden-bosandi-p376175",
      "title": "Evini arabasını satıp köyüne fabrika kuran sanatçı sessiz sedasız eşinden boşandı",
      "snippet": "Arabesk ve fantazi müziğin başarılı isimlerinden olan Berdan Mardini yeni yatırımlarıyla birkaç ay önce gündem olmuştu. ...",
-     "published": "2026-11-05T05:34:34.000Z"
+     "published": "2026-11-05T05:34:34.000Z",
+     "titleFa": "هنرمندی که خانه‌اش را فروخت و در روستایش کارخانه ساخت، بی‌سر و صدا از همسرش جدا شد"
     }
    ],
    "images": [
@@ -1418,7 +1623,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/berdan5jpg-3EV6Ld-zWkiNGsRAtrh2KA.jpg",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/berdan1jpg-LUFEY-SE30qp5Zm5KrQmQQ.jpg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "برdan ماردینی، هنرمندی که خانه‌اش را فروخت و کارخانه ساخت، بی‌سر و صدا از همسرش جدا شد",
+   "summaryFa": "برdan ماردینی، خواننده موسیقی عربسک و فانتزی که چندی پیش با راه‌اندازی کارخانه در زادگاهش خبرساز شده بود، از همسرش جدا شد. این جدایی به صورت بی‌سر و صدا و به دور از هیاهوی رسانه‌ای انجام گرفت.",
+   "bodyFa": [
+    "برdan ماردینی، از خوانندگان شناخته‌شده سبک‌های عربسک و فانتزی که مدتی قبل با فروش خانه و خودروی خود و تأسیس یک کارخانه در زادگاهش یعنی ماردین توجه رسانه‌ها را به خود جلب کرده بود، این بار با خبر زندگی شخصی‌اش مطرح شد.",
+    "بر اساس اطلاعات منتشر شده، در زندگی شخصی این هنرمند تغییر مهمی رخ داده و او از همسری که حدود ۱۵ سال از خودش کوچک‌تر بود، به صورت بی‌سر و صدا جدا شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d697b3692340",
@@ -1493,9 +1706,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/hem-isinden-hem-de-evliliginden-oldu-iflas-ve-ayrilik-haberi-ayni-anda-geldi-43366426",
      "title": "Hem işinden hem de evliliğinden oldu… İflas ve ayrılık haberi aynı anda geldi!",
      "snippet": "Sinema ve televizyon dünyasının usta oyuncusu hem iş hem de özel hayatında zor günler yaşıyor…",
-     "published": "2026-11-05T05:20:00.000Z"
+     "published": "2026-11-05T05:20:00.000Z",
+     "titleFa": "او هم شغلش را از دست داد و هم ازدواجش را… خبر ورشکستگی و جدایی همزمان آمد!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aec11f933682fc5418a786f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aec11f933682fc5418a786f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "بازیگر پیشکسوت سینما و تلویزیون با مشکلات شغلی و خانوادگی روبراست",
+   "summaryFa": "یکی از بازیگران باسابقه دنیای سینما و تلویزیون روزهای سختی را در زندگی شخصی و کاری خود سپری می‌کند.",
+   "bodyFa": [
+    "بر اساس اطلاعات منتشر شده، یکی از چهره‌های باسابقه در دنیای سینما و تلویزیون هم‌اکنون در زندگی حرفه‌ای و شخصی خود با دوران دشواری مواجه شده است.",
+    "جزئیات بیشتری درباره این مشکلات شغلی و خصوصی گزارش نشده و وضعیت این هنرمند به صورت کلی توصیف شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a380e8e9b1d7",
@@ -1523,7 +1754,7 @@
      "title": "Evlendiklerini aylarca gizlediler: Ünlü çift Yılmaz Bayraktar ve Sıla Özlem Önemli mutluluğunu fotoğraflarla duyurdu",
      "snippet": "Oyuncu çift Yılmaz Bayraktar ile Sıla Özlem Önemli, evliliklerini bir süre gözlerden uzak tuttu. Eylül ayında nikâh masa...",
      "published": "2026-11-05T05:12:06.000Z",
-     "titleFa": "Evlendiklerini aylarca gizlediler: Ünlü çift Yılmaz Bayraktar ve Sıla Özlem Önemli mutluluğunu fotoğraflarla duyurdu"
+     "titleFa": "آنها ازدواج خود را ماه‌ها پنهان کردند: زوج معروف یلماز بایرکتار و سیلا اوزلم اونه‌ملی خوشبختی خود را با عکس‌ها اعلام کردند"
     },
     {
      "source": "milliyet-magazin",
@@ -1531,7 +1762,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/aylarca-gizlediler-oyuncu-yilmaz-bayraktar-ile-sila-ozlem-onemli-sessiz-sedasiz-evlendi-7694943",
      "title": "Aylarca gizlediler! Oyuncu Yılmaz Bayraktar ile Sıla Özlem Önemli sessiz sedasız evlendi",
      "snippet": "Yılmaz Bayraktar ile Sıla Özlem Önemli’nin eylül ayında sessiz sedasız evlendiği ortaya çıktı. Nikah haberini haftalar sonra duyuran oyuncu çift, İstanbul sokaklarında çekilen romantik karelerini paylaştı.",
-     "published": "2026-11-05T10:47:43.000Z"
+     "published": "2026-11-05T10:47:43.000Z",
+     "titleFa": "آنها ماه‌ها پنهان کردند! بازیگر یلماز بایرکتار و سیلا اوزلم اونه‌ملی بی‌سروصدا ازدواج کردند"
     }
    ],
    "images": [
@@ -1543,18 +1775,35 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/evliliklerini-aylarca-sakladilar-unlu-cift-mutlulugunu-fotograflarla-duyurdu-4jpg-uz8Fhx2_vUCiSKC24om3OQ.jpg"
    ],
    "mediaDone": true,
-   "titleFa": "ازwواج یلماز بایراکتار و سیلا اوزلم اونسلی",
-   "summaryFa": "بازیگر Yılmaz Bayraktar و Sıla Özlem Önemli که ازدواج خود را مدتی پنهان کرده بودند، خبر ازدواج خود در ماه سپتامبر را با عکس‌های رومانتیک در شبکه‌های اجتماعی اعلام کردند.",
+   "titleFa": "ازwواج پنهانی بازیگران مشهور، یلماز بایرکتار و سیلا اوزلم اونه‌ملی",
+   "summaryFa": "زوج بازیگر یلماز بایرکتار و سیلا اوزلم اونه‌ملی ازدواج خود در ماه سپتامبر را پس از ماه‌ها پنهان‌کاری با انتشار تصاویر رومانتیک در شبکه‌های اجتماعی اعلام کردند.",
    "bodyFa": [
-    "بازیگران Yılmaz Bayraktar و Sıla Özlem Önemli ازدواج خود را برای مدتی از چشم‌ها دور نگه داشتند. این زوج که در ماه سپتامبر پای سفره عقد نشسته بودند، خبر خوش ازدواج خود را با انتشار عکس‌های رومانتیک در شبکه‌های اجتماعی به اشتراک گذاشتند.",
-    "این زوج معروف با این اقدام غافلگیرکننده، خبر ازدواج پنهانی چند ماهه خود را به طور رسمی اعلام کردند و تصاویر مربوط به این رویداد را به مخاطبان خود نشان دادند."
+    "یلماز بایرکتار و سیلا اوزلم اونه‌ملی، دو بازیگر سینما و تلویزیون، خبر ازدواج خود را که در ماه سپتامبر صورت گرفته بود، برای مدتی از دید عموم دور نگه داشتند. این زوج پس از گذشت ماه‌ها، با انتشار تصاویر و عکس‌های رومانتیک در حساب‌های کاربری خود در شبکه‌های اجتماعی، این خبر خوش را به طور غافلگیرکننده‌ای با طرفداران خود به اشتراک گذاشتند."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "91ca9d4d8e0b"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "ازدواج یلماز بایرکتار و سیلا اوزلم اونه‌ملی در ماه سپتامبر",
+     "پنهان نگه داشتن خبر ازدواج برای چند ماه",
+     "اعلام خبر ازدواج از طریق انتشار تصاویر رومانتیک در شبکه‌های اجتماعی"
+    ],
+    "differ": [
+     {
+      "topic": "مکان عکاسی تصاویر منتشر شده",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "عکس‌های به اشتراک گذاشته شده در خیابان‌های استانبول گرفته شده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   }
   },
   {
    "id": "ccae463f5574",
@@ -1759,7 +2008,8 @@
      "url": "https://www.milliyet.com.tr/magazin/onur-odulu-turkan-sorayin-7694560",
      "title": "‘Onur Ödülü’ Türkan Şoray’ın",
      "snippet": "Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü ve Trabzon Valiliği’nin katkılarıyla, Trabzon Büyükşehir Belediyesi’nin ev sahipliğindeki organizasyon 15-20 Aralık tarihlerinde gerçekleşecek.",
-     "published": "2026-11-05T04:01:49.000Z"
+     "published": "2026-11-05T04:01:49.000Z",
+     "titleFa": "«جایزه افتخاری» به تورکان شورای تعلق گرفت"
     }
    ],
    "images": [
@@ -1770,7 +2020,16 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اعطای جایزه افتخاری دومین جشنواره فیلم «التین تاکا» ترابزون به تورکان شورای",
+   "summaryFa": "جایزه افتخاری دومین جشنواره فیلم «التین تاکا» ترابزون به تورکان شورای، سلطان سینمای ترک اهدا می‌شود. این رویداد با حمایت وزارت فرهنگ و گردشگری و فرمانداری ترابزون برگزار خواهد شد.",
+   "bodyFa": [
+    "دومین جشنواره فیلم «التین تاکا» ترابزون اعلام کرد که جایزه افتخاری خود در سال جاری را به تورکان شورای، ملقب به «سلطان سینمای ترک»، اهدا خواهد کرد.",
+    "این رویداد سینمایی به میزبانی شهرداری کلان‌شهر ترابزون و با مشارکت و حمایت اداره کل سینمای وزارت فرهنگ و گردشگری و همچنین فرمانداری ترابزون برنامه‌ریزی شده است.",
+    "بر اساس اطلاعات منتشرشده، این جشنواره قرار است از تاریخ ۱۵ تا ۲۰ دسامبر برگزار شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3941ec526ed2",
@@ -1797,7 +2056,8 @@
      "url": "https://www.milliyet.com.tr/magazin/atadan-yadigar-sarkilar-soylenecek-7694557",
      "title": "‘Ata’dan Yadigâr Şarkılar’ söylenecek",
      "snippet": "Fatih Erkoç, kanun virtüözü, aranjör ve orkestra şefi Ahmet Baran eşliğinde, İyilik Korosu ile sahne alacak. Atatürk’ün hatırasına ithaf edilen gecede, Ata’dan yadigâr şarkılar özel düzenlemelerle seslendirilecek.",
-     "published": "2026-11-05T04:01:49.000Z"
+     "published": "2026-11-05T04:01:49.000Z",
+     "titleFa": "آهنگ‌های به یادگار مانده از آتا خوانده خواهد شد"
     }
    ],
    "images": [
@@ -1808,7 +2068,16 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "برگزاری کنسرت «آتا‌دان یادگار شارکلار» به یاد آاتاترک",
+   "summaryFa": "کنسرت «آتا‌دان یادگار شارکلار» در تاریخ ۱۰ نوامبر در مرکز فرهنگی آتاترک استانبول برگزار خواهد شد. در این برنامه، فاتح ارکوچ با همراهی گروه کر نیکی و احمد باران به روی صحنه می‌رود.",
+   "bodyFa": [
+    "کنسرتی تحت عنوان «آتا‌دان یادگار شارکلار» که به خاطره غازی مصطفی کمال آتاترک تقدیم شده است، در تاریخ ۱۰ نوامبر در مرکز فرهنگی آتاترک در استانبول میزبان علاقه‌مندان به موسیقی خواهد بود.",
+    "در این رویداد، فاتح ارکوچ با همراهی گروه کر نیکی و همچنین احمد باران که به عنوان نوازنده قانون، تنظیم‌کننده و رهبر ارکستر حضور دارد، به اجرای برنامه می‌پردازد.",
+    "آثار به یادگار مانده از آتاترک در این شب با تنظیم‌های ویژه برای مخاطبان اجرا خواهند شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "20f4e951af0d",
@@ -1875,7 +2144,16 @@
      "snippet": "Suna Yıldızoğlu, Erdem Kaynarca, Emre Altuğ, Erdem Ergüney ve Fatih Serdar Yılmaz da yer aldığı projenin yönetmenliğini Biket İlhan üstleniyor. Senaryosunu Nihan Belgin ve Nazlı Pınar Ünlü’nün kaleme aldığı film, göç, aidiyet, toplumsal önyargılar ve kadın dayanışması temalarını odağına alıyor.",
      "published": "2026-11-05T04:01:48.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aebb2f66672e030495279b9.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aebb2f66672e030495279b9.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "e74fb11800e5",
@@ -1909,7 +2187,8 @@
      "url": "https://www.milliyet.com.tr/magazin/degisim-donusumde-bulustular-7694553",
      "title": "‘Değişim/Dönüşüm’de buluştular",
      "snippet": "Kanal D’nin fenomen dizisi ‘Uzak Şehir’ dizisinin oyuncuları Atakan Özkaya ve Dilin Döğer, geceye birlikte katıldı. İki oyuncunun toplam 22 farklı karaktere hayat verdiği yapımın sonunda Esen ve Eryiğit, seyirciler tarafından uzun süre ayakta alkışlandı.",
-     "published": "2026-11-05T04:01:47.000Z"
+     "published": "2026-11-05T04:01:47.000Z",
+     "titleFa": "«تغییر/تحول» به هم رسیدند"
     }
    ],
    "images": [
@@ -1920,7 +2199,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "حضور بازیگران سریال شهر دور در پروسه نمایشی جدید",
+   "summaryFa": "آتاکان اوزکایا و دیلین دوئر، بازیگران سریال «شهر دور»، در مراسم افتتاحیه نمایش «تغییر/تحول» شرکت کردند. این نمایش با بازی تیموچین اسن و فوندا اریییت در استانبول روی صحنه رفت.",
+   "bodyFa": [
+    "پرایم‌یر نمایش «تغییر/تحول» با نقش‌آفرینی تیموچین اسن و فوندا اریییت در مرکز زورلو PSM استانبول برگزار شد. این رویداد هنری توجه چهره‌های مختلفی را به خود جلب کرد.",
+    "آتاکان اوزکایا و دیلین دوئر، از بازیگران سریال محبوب «شهر دور» (Uzak Şehir)، به طور مشترک در این مراسم حضور یافتند و این اثر را تماشا کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "600ef5b7be67",
@@ -1949,7 +2236,16 @@
      "snippet": "Özbey, şarkının kısa sürede herkesin diline pelesenk olacağını vurguladı. Bulut ise şarkıyı empati kurarak kaleme aldığını ifade ederek, “Dinleyen herkesin kendinden bir parça bulabileceği, çok hisli bir çalışma oldu” açıklamasını yaptı.",
      "published": "2026-11-05T04:01:47.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aebb2756672e030495279ad.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aebb2756672e030495279ad.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "0b92b48d1fd5",
@@ -3130,50 +3426,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "6b5ef52c80d0",
-   "url": "https://www.sozcu.com.tr/burak-ozcivit-in-oynadigi-dizide-sosyal-medyayi-ayaga-kaldiran-sahne-p375835",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Tepkiler çığ gibi büyüdü! Burak Özçivit'in dizisinde o sahne fragmandan silindi",
-   "snippet": "Burak Özçivit'in başrolünde yer aldığı Güneşin Doğduğu Yer dizisinin yeni tanıtımı yayınlandı. 8. bölümden gelen görüntü...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/tepkiler-cig-gibi-buyudu-burak-ozcivitin-dizisinde-o-sahne-fragmandan-silindijpeg-pAyCSsnRvE60DHTAlUfC4A.jpeg",
-   "video": null,
-   "published": "2026-11-04T08:08:16.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [
-     "gunesin-dogdugu-yer"
-    ],
-    "people": [
-     "burak-ozcivit"
-    ],
-    "networks": [
-     "atv"
-    ]
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/burak-ozcivit-in-oynadigi-dizide-sosyal-medyayi-ayaga-kaldiran-sahne-p375835",
-     "title": "Tepkiler çığ gibi büyüdü! Burak Özçivit'in dizisinde o sahne fragmandan silindi",
-     "snippet": "Burak Özçivit'in başrolünde yer aldığı Güneşin Doğduğu Yer dizisinin yeni tanıtımı yayınlandı. 8. bölümden gelen görüntü...",
-     "published": "2026-11-04T08:08:16.000Z"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/tepkiler-cig-gibi-buyudu-burak-ozcivitin-dizisinde-o-sahne-fragmandan-silindijpeg-pAyCSsnRvE60DHTAlUfC4A.jpeg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/tepkiler-cig-gibi-buyudu-burak-ozcivitin-dizisinde-o-sahne-fragmandan-silindijpeg-pAyCSsnRvE60DHTAlUfC4A.jpeg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/burak-ozcivitin-oynadigi-dizide-sosyal-medyayi-ayaga-kaldiran-sahne-2jpeg-zy1hRoFkKkyllS0Fb6otmw.jpeg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/175jpg-T0WEZBYHaUy5KAk95tH73A.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-goruntusu-20261104-105924jpeg-Uphht1hvbEOzkEOtYUOo8Q.jpeg"
-   ],
-   "mediaDone": true
   },
   {
    "id": "f89cdedc014c",
@@ -15341,6 +15593,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "8b482bcf535b",
+   "url": "https://www.dailysabah.com/arts/music/inside-rap-world-jay-zs-super-bowl-show-eminems-stolen-tracks",
+   "source": "dailysabah-arts",
+   "sourceName": "Daily Sabah",
+   "lang": "en",
+   "title": "Inside rap world: Jay-Z’s Super Bowl show, Eminem’s stolen tracks",
+   "snippet": "Sometimes, a lyric has a way of coming back to its writer years later. Jay-Z once rapped about turning down a Super Bowl offer in a song. Now, he is set to headline the halftime sh...",
+   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/27/467714.jpg",
+   "video": null,
+   "published": "2026-10-27T10:30:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "dailysabah-arts",
+     "name": "Daily Sabah",
+     "url": "https://www.dailysabah.com/arts/music/inside-rap-world-jay-zs-super-bowl-show-eminems-stolen-tracks",
+     "title": "Inside rap world: Jay-Z’s Super Bowl show, Eminem’s stolen tracks",
+     "snippet": "Sometimes, a lyric has a way of coming back to its writer years later. Jay-Z once rapped about turning down a Super Bowl offer in a song. Now, he is set to headline the halftime sh...",
+     "published": "2026-10-27T10:30:00.000Z"
+    }
+   ]
   },
   {
    "id": "2bd62716738c",
