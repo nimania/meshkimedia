@@ -1,6 +1,104 @@
 {
- "updated": "2026-11-07T16:51:21.940Z",
+ "updated": "2026-11-07T20:55:38.189Z",
  "items": [
+  {
+   "id": "117734ce1abc",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/basak-gumulcinelioglu-ve-esi-cagri-citanaktan-mutlu-aile-pozu-iste-ogullari-devinin-son-hali-7696420",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Başak Gümülcinelioğlu ve eşi Çağrı Çıtanak'tan mutlu aile pozu! İşte oğulları Devin'in son hali",
+   "snippet": "Oyuncu Başak Gümülcinelioğlu ve meslektaşı eşi Çağrı Çıtanak'ın mutlu evliliği devam ediyor. Oğulları Devin'in 1. yaş gününü kutlayan çift, doğum günü partisinden yeni kareleri Instagram'dan paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aef7e200e691fff90b215a3.jpg",
+   "video": null,
+   "published": "2026-11-07T19:41:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/basak-gumulcinelioglu-ve-esi-cagri-citanaktan-mutlu-aile-pozu-iste-ogullari-devinin-son-hali-7696420",
+     "title": "Başak Gümülcinelioğlu ve eşi Çağrı Çıtanak'tan mutlu aile pozu! İşte oğulları Devin'in son hali",
+     "snippet": "Oyuncu Başak Gümülcinelioğlu ve meslektaşı eşi Çağrı Çıtanak'ın mutlu evliliği devam ediyor. Oğulları Devin'in 1. yaş gününü kutlayan çift, doğum günü partisinden yeni kareleri Instagram'dan paylaştı.",
+     "published": "2026-11-07T19:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "1819a4bb20bb",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/adini-sir-gibi-sakliyordu-derya-pinar-ak-sevgilisini-kalp-emojisi-ile-paylasti-7696403",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Adını sır gibi saklıyordu! Derya Pınar Ak sevgilisini kalp emojisi ile paylaştı",
+   "snippet": "'Sultana' filminin yıldızı oyuncu Derya Pınar Ak ve Muammer Akmeşe'nin romantik beraberliği devam ediyor. Ünlü isim, sevgilisiyle aşk dolu pozunu kalp emojisi ile paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aef6e7c0e691fff90b2152f.jpg",
+   "video": null,
+   "published": "2026-11-07T18:32:32.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "derya-pinar-ak"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/adini-sir-gibi-sakliyordu-derya-pinar-ak-sevgilisini-kalp-emojisi-ile-paylasti-7696403",
+     "title": "Adını sır gibi saklıyordu! Derya Pınar Ak sevgilisini kalp emojisi ile paylaştı",
+     "snippet": "'Sultana' filminin yıldızı oyuncu Derya Pınar Ak ve Muammer Akmeşe'nin romantik beraberliği devam ediyor. Ünlü isim, sevgilisiyle aşk dolu pozunu kalp emojisi ile paylaştı.",
+     "published": "2026-11-07T18:32:32.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aef6e7c0e691fff90b2152f.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aef6e7c0e691fff90b2152f.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "17deddea8d3e",
+   "url": "https://www.haberturk.com/magazin/hakan-ve-zafer-peker-kardesler-yillara-meydan-okuyor-3925681",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Peker kardeşler yıllara meydan okuyor",
+   "snippet": "Hakan Peker, ağabeyi Zafer Peker ile birlikte anneleri Sabahat Tekin’i ziyaret etti. O anları sosyal medya hesaplarından paylaşan ünlü kardeşlerin yıllara meydan okuyan görünümleri dikkat çekti",
+   "image": "https://im.haberturk.com/l/2026/11/07/ver1794072708/3925681/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-07T17:32:04.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/hakan-ve-zafer-peker-kardesler-yillara-meydan-okuyor-3925681",
+     "title": "Peker kardeşler yıllara meydan okuyor",
+     "snippet": "Hakan Peker, ağabeyi Zafer Peker ile birlikte anneleri Sabahat Tekin’i ziyaret etti. O anları sosyal medya hesaplarından paylaşan ünlü kardeşlerin yıllara meydan okuyan görünümleri dikkat çekti",
+     "published": "2026-11-07T17:32:04.000Z"
+    }
+   ]
+  },
   {
    "id": "4beb067b97b5",
    "url": "https://www.milliyet.com.tr/magazin/galeri/duetleri-olay-olmustu-serenay-sarikayadan-ajda-pekkan-paylasimi-tek-bir-aciklamam-yok-oyle-guzel-bir-geceydi-7696371",
@@ -12320,93 +12418,6 @@
    "bodyFa": [
     "فورکان آندیچ و آیبوکه پوسات، زوج بازیگر سرشناس که مدتی طولانی است با یکدیگر رابطه دارند، بار دیگر لحظاتی از ارتباط خود را با دنبال‌کنندگانشان به اشتراک گذاشتند. این زوج که معمولاً تصاویر تعطیلات و اوقات مشترک خود را در شبکه‌های اجتماعی منتشر می‌کنند، خوشحالی خود را به نمایش می‌گذارند.",
     "در جدیدترین اقدام، فورکان آندیچ تصاویری از لحظات رومانتیک همراه با آیبوکه پوسات در ساحل را در حساب شخصی خود با ۳.۲ میلیون دنبال‌کننده منتشر کرد. آیبوکه پوسات نیز در واکنش به این پست، یک ایموجی قلب سفید زیر آن قرار داد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "d2bfaeb57046",
-   "url": "https://www.haberturk.com/magazin/foto/ebru-gundes-le-havalimaninda-ikinci-bulusma-3924425",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Havalimanında ikinci buluşma",
-   "snippet": "Ebru Gündeş, havalimanında apron görevlisi olarak çalışan hayranıyla yeniden karşılaştı. Sanatçıyla ikinci kez fotoğraf çektiren hayranı, o anları sosyal medya hesabından paylaştı",
-   "image": "https://im.haberturk.com/l/2026/11/02/ver1793646742/3924425/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-02T19:22:18.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/ebru-gundes-le-havalimaninda-ikinci-bulusma-3924425",
-     "title": "Havalimanında ikinci buluşma",
-     "snippet": "Ebru Gündeş, havalimanında apron görevlisi olarak çalışan hayranıyla yeniden karşılaştı. Sanatçıyla ikinci kez fotoğraf çektiren hayranı, o anları sosyal medya hesabından paylaştı",
-     "published": "2026-11-02T19:22:18.000Z",
-     "titleFa": "دومین دیدار در فرودگاه"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "دیدار دوباره ابرو گوندش با طرفدارش در فرودگاه",
-   "summaryFa": "ابرو گوندش برای دومین بار با یکی از طرفدارانش که کارمند فرودگاه است دیدار کرد و عکس یادگاری گرفت. این طرفدار تصاویر مربوط به این دیدار را در شبکه‌های اجتماعی منتشر کرده است.",
-   "bodyFa": [
-    "ابرو گوندش، خواننده سرشناس، پس از برگزاری کنسرت شب سال نو در قبرس، در فرودگاه با یکی از طرفداران خود به نام مرت که به عنوان کارمند بخش خدمات روی باند (آپرون) فعالیت می‌کند، روبرو شد. این کارمند فرودگاه که پیش از این نیز با این هنرمند عکس یادگاری گرفته بود، برای دومین بار فرامان عکاسی با او را پیدا کرد و تصویر جدید خود را در شبکه‌های اجتماعی به اشتراک گذاشت.",
-    "از سوی دیگر، تغییرات چهره ابرو گوندش نیز مدتی بود که توجه رسانه‌ها و افکار عمومی را به خود جلب کرده بود. این خواننده در کنسرت ماه آوریل خود در استانبول به شایعات و پرسش‌ها درباره چهره‌اش پاسخ داده و تایید کرده بود که عمل جراحی لیفت نیم‌رخ صورت انجام داده است. او در آن کنسرت خطابی به حاضران داشته و پرسیده بود که آیا با این عمل ۱۰ سال جوان‌تر شده است یا خیر."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "9c1808ecbd41",
-   "url": "https://www.sabah.com.tr/yazarlar/gunaydin/hakan-uc/2026/11/03/uyan-sarkisinin-klip-cekiminde-ne-yasandi",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "‘Uyan’ şarkısının klip çekiminde ne yaşandı?",
-   "snippet": "Tarkan, 2008 yılında yazdığı 'Uyan' şarkısını bu kez 'Wake Up' adıyla dünyaya duyuruyor. Türkiye'nin ev sahipliğinde 9amp;ndash;20 Kasım tarihlerinde Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/5f3e0f/0/0/0/0/598/417?u=https://isbh.tmgrup.com.tr/sbh/2026/11/02/uyan-sarkisinin-klip-cekiminde-ne-yasandi-1793637511354.jpeg",
-   "video": null,
-   "published": "2026-11-02T16:39:53.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/yazarlar/gunaydin/hakan-uc/2026/11/03/uyan-sarkisinin-klip-cekiminde-ne-yasandi",
-     "title": "‘Uyan’ şarkısının klip çekiminde ne yaşandı?",
-     "snippet": "Tarkan, 2008 yılında yazdığı 'Uyan' şarkısını bu kez 'Wake Up' adıyla dünyaya duyuruyor. Türkiye'nin ev sahipliğinde 9amp;ndash;20 Kasım tarihlerinde Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği... Devamı için tıklayınız",
-     "published": "2026-11-02T16:39:53.000Z",
-     "titleFa": "در جریان فیلمبرداری کلیپ آهنگ «ویان» چه گذشت؟"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/5f3e0f/0/0/0/0/598/417?u=https://isbh.tmgrup.com.tr/sbh/2026/11/02/uyan-sarkisinin-klip-cekiminde-ne-yasandi-1793637511354.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/2026/04/04/1775286965973.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/halkbank-ureten-turkiye.png?v=25883.1",
-    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-1.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
-    "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/11/03/164x236/03SBH01.jpg?v=25883.1"
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار جهانی آهنگ «ویان» تارکان با نام «Wake Up»",
-   "summaryFa": "تارکان آهنگ «ویان» را که در سال ۲۰۰۸ نوشته بود، این بار با نام «Wake Up» به جهان معرفی می‌کند. این اثر به صورت داوطلبانه برای کنفرانس تغییرات اقلیمی سازمان ملل متحد آماده شده است.",
-   "bodyFa": [
-    "تارکان، خواننده اهل ترکیه، آهنگ «ویان» را که در سال ۲۰۰۸ نوشته بود، این بار با نام «Wake Up» برای مخاطبان جهانی منتشر می‌کند.",
-    "این اثر به صورت داوطلبانه برای کنفرانس تغییرات اقلیمی سازمان ملل متحد (COP31) آماده شده است. این کنفرانس قرار است با میزبانی ترکیه در تاریخ ۹ تا ۲۰ نوامبر در آنتالیا برگزار شود.",
-    "این پروژه شامل کلمات انگلیسی و نسخه جدیدی از این آهنگ است."
    ],
    "ai": true,
    "aiTries": 1
