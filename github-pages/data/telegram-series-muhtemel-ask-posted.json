@@ -127,7 +127,9 @@
     "editorial:original-7:3",
     "slot:2026-11-06:2",
     "news:17ecebabe719",
-    "pavaraghi:dubbed-10"
+    "pavaraghi:dubbed-10",
+    "editorial:original-2:0",
+    "slot:2026-11-07:0"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -170,12 +172,13 @@
     "78ad94186ae3975c27dd5bf6",
     "8ea333501643d45adf5600f4",
     "f30b72103666d1b27d80147d",
-    "4cbb7087f827bcbce7ffded8"
+    "4cbb7087f827bcbce7ffded8",
+    "1473d87fbe9c3be774940685"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-06",
     "actor:ayca-aysin-turan": "2026-10-14",
-    "episode:2": "2026-11-04",
+    "episode:2": "2026-11-07",
     "actor:ekin-koc": "2026-10-28",
     "actor:feyyaz-serifoglu": "2026-10-31",
     "poll:independence": "2026-10-15",
@@ -199,7 +202,7 @@
     "episode:6": "2026-11-06",
     "episode:7": "2026-11-06"
   },
-  "updated": "2026-11-07T02:55:39.654Z",
+  "updated": "2026-11-07T07:24:30.165Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
