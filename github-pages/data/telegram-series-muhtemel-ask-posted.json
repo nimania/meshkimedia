@@ -129,7 +129,9 @@
     "news:17ecebabe719",
     "pavaraghi:dubbed-10",
     "editorial:original-2:0",
-    "slot:2026-11-07:0"
+    "slot:2026-11-07:0",
+    "editorial:original-3:3",
+    "slot:2026-11-07:1"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -173,7 +175,8 @@
     "8ea333501643d45adf5600f4",
     "f30b72103666d1b27d80147d",
     "4cbb7087f827bcbce7ffded8",
-    "1473d87fbe9c3be774940685"
+    "1473d87fbe9c3be774940685",
+    "6ea7572ee85b0c473da412d3"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-06",
@@ -195,14 +198,14 @@
     "actor:tugay-erdogan": "2026-10-30",
     "actor:ozgur-berber": "2026-10-31",
     "poll:kadir": "2026-11-02",
-    "episode:3": "2026-11-04",
+    "episode:3": "2026-11-07",
     "episode:4": "2026-11-05",
     "poll:tolga": "2026-11-05",
     "episode:5": "2026-11-05",
     "episode:6": "2026-11-06",
     "episode:7": "2026-11-06"
   },
-  "updated": "2026-11-07T07:24:30.165Z",
+  "updated": "2026-11-07T10:20:56.975Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
