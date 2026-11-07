@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:12:48.611Z",
+ "updated": "2026-11-07T02:52:11.236Z",
  "items": [
   {
    "id": "0c50c80ca6f5",
@@ -185,6 +185,42 @@
    "mediaDone": true
   },
   {
+   "id": "7110e61f69e7",
+   "url": "https://www.haberturk.com/magazin/yesim-gul-u-yikan-haber-hayat-arkadasi-gokhan-suar-icin-dua-istedi-3925415",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Hayat arkadaşı entübe edildi",
+   "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'te 'Vuslat' karakterine hayat veren Yeşim Gül, entübe edilen hayat arkadaşı Gökhan Suar için sevenlerinden dua istedi",
+   "image": "https://im.haberturk.com/l/2026/11/06/ver1793968123/3925415/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-06T14:47:20.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "sevdan-bir-ates"
+    ],
+    "people": [
+     "yesim-gul"
+    ],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/yesim-gul-u-yikan-haber-hayat-arkadasi-gokhan-suar-icin-dua-istedi-3925415",
+     "title": "Hayat arkadaşı entübe edildi",
+     "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'te 'Vuslat' karakterine hayat veren Yeşim Gül, entübe edilen hayat arkadaşı Gökhan Suar için sevenlerinden dua istedi",
+     "published": "2026-11-06T14:47:20.000Z"
+    }
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "dd9c611bbacc",
    "url": "https://www.milliyet.com.tr/magazin/galeri/yildiz-tilbeden-dikkat-ceken-cikis-goz-numaralari-farkli-cikti-aciklamasi-olay-oldu-7695767",
    "source": "milliyet-magazin",
@@ -269,6 +305,44 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "9d8382c5d057",
+   "url": "https://www.sabah.com.tr/magazin/vefat-ettiginde-sadece-24-yasindaydi-taht-kurmussun-kalbime-ile-sohreti-yakalayan-esengulun-trajik-hikayesi-yurek-yakti-7696356",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Vefat ettiğinde sadece 24 yaşındaydı! \"Taht Kurmuşsun Kalbime\" ile şöhreti yakalayan Esengül'ün trajik hikayesi yürek yaktı...",
+   "snippet": "Plakları satış rekorları kıran, konserden konsere koşan ve hayranlarının sevgi gösterileriyle karşılanan Esengül (Esen Ağan), müzik dünyasında fırtınalar estiriyordu. Büyük çıkışını \"Taht Kurmuşsun Kalbime\"... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/e7bcf5/1200/675/0/12/1200/687?u=https://isbh.tmgrup.com.tr/sbh/2026/11/06/vefat-ettiginde-sadece-24-yasindaydi-taht-kurmussun-kalbime-ile-sohreti-yakalayan-esengulun-trajik-hikayesi-yu-1793970289668.jpg",
+   "video": null,
+   "published": "2026-11-06T13:09:08.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/vefat-ettiginde-sadece-24-yasindaydi-taht-kurmussun-kalbime-ile-sohreti-yakalayan-esengulun-trajik-hikayesi-yurek-yakti-7696356",
+     "title": "Vefat ettiğinde sadece 24 yaşındaydı! \"Taht Kurmuşsun Kalbime\" ile şöhreti yakalayan Esengül'ün trajik hikayesi yürek yaktı...",
+     "snippet": "Plakları satış rekorları kıran, konserden konsere koşan ve hayranlarının sevgi gösterileriyle karşılanan Esengül (Esen Ağan), müzik dünyasında fırtınalar estiriyordu. Büyük çıkışını \"Taht Kurmuşsun Kalbime\"... Devamı için tıklayınız",
+     "published": "2026-11-06T13:09:08.000Z"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/e7bcf5/1200/675/0/12/1200/687?u=https://isbh.tmgrup.com.tr/sbh/2026/11/06/vefat-ettiginde-sadece-24-yasindaydi-taht-kurmussun-kalbime-ile-sohreti-yakalayan-esengulun-trajik-hikayesi-yu-1793970289668.jpg",
+    "https://iasbh.tmgrup.com.tr/1e19ed/60/60/0/12/1201/1212?u=https://isbh.tmgrup.com.tr/sbh/2025/08/20/1755675838345.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "0feb0786d62d",
