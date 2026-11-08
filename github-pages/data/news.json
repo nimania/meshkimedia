@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-07T20:55:38.189Z",
+ "updated": "2026-11-08T00:40:50.389Z",
  "items": [
+  {
+   "id": "6e2ea0810d40",
+   "url": "https://www.sozcu.com.tr/burcu-biricik-de-gelir-adaletsizligine-isyan-etti-p377026",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Burcu Biricik de gelir adaletsizliğine isyan etti",
+   "snippet": "Oyunculardan kaşe indirimi talep edilmesi tartışmasına katılan Burcu Biricik, milyonluk ücretlerin yalnızca birkaç isiml...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/217jpg-yh4-fkGbE0aLm9VDraIHTA.jpg",
+   "video": null,
+   "published": "2026-11-07T21:06:07.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/burcu-biricik-de-gelir-adaletsizligine-isyan-etti-p377026",
+     "title": "Burcu Biricik de gelir adaletsizliğine isyan etti",
+     "snippet": "Oyunculardan kaşe indirimi talep edilmesi tartışmasına katılan Burcu Biricik, milyonluk ücretlerin yalnızca birkaç isiml...",
+     "published": "2026-11-07T21:06:07.000Z",
+     "titleFa": "بورجو بیریجیک هم به بی‌عدالتی در درآمدها اعتراض کرد"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/217jpg-yh4-fkGbE0aLm9VDraIHTA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/217jpg-yh4-fkGbE0aLm9VDraIHTA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/burcubiricik431609580244jpeg-falyJwh0uEOQYGpdtaWOXA.jpeg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/burcubiricik431549961356jpg-rPyDbi0x-0q_B2dyC7jHxw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kontagjpg-T8ckj2prW0aJAE5xJYdRXg.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "بورجو بیریجیک به بی‌عدالتی در درآمدها اعتراض کرد",
+   "summaryFa": "بورجو بیریجیک وارد بحث کاهش دستمزد بازیگران شد و اعلام کرد دستمزدهای میلیونی تنها به چند نام محدود اختصاص دارد.",
+   "bodyFa": [
+    "بورجو بیریجیک در واکنش به بحث‌های اخیر پیرامون درخواست کاهش دستمزد بازیگران، به این موضوع واکنش نشان داد و بر نابرابری مالی در این حرفه تأکید کرد.",
+    "او اظهار داشت که دستمزدهای کلان و میلیونی تنها محدود به چند بازیگر معدود است و بیشتر هنرمندان تنها تلاش می‌کنند تا هزینه‌های زندگی خود را تأمین کنند.",
+    "بیریجیک همچنین استدلال کرد که اعمال کسر از دستمزدها راهکار مناسبی برای نجات بخش تولید نخواهد بود و مشکلات مالی این صنعت را حل نمی‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "117734ce1abc",
    "url": "https://www.milliyet.com.tr/magazin/galeri/basak-gumulcinelioglu-ve-esi-cagri-citanaktan-mutlu-aile-pozu-iste-ogullari-devinin-son-hali-7696420",
@@ -13,7 +61,7 @@
    "video": null,
    "published": "2026-11-07T19:41:00.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -26,9 +74,26 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/basak-gumulcinelioglu-ve-esi-cagri-citanaktan-mutlu-aile-pozu-iste-ogullari-devinin-son-hali-7696420",
      "title": "Başak Gümülcinelioğlu ve eşi Çağrı Çıtanak'tan mutlu aile pozu! İşte oğulları Devin'in son hali",
      "snippet": "Oyuncu Başak Gümülcinelioğlu ve meslektaşı eşi Çağrı Çıtanak'ın mutlu evliliği devam ediyor. Oğulları Devin'in 1. yaş gününü kutlayan çift, doğum günü partisinden yeni kareleri Instagram'dan paylaştı.",
-     "published": "2026-11-07T19:41:00.000Z"
+     "published": "2026-11-07T19:41:00.000Z",
+     "titleFa": "Başak Gümülcinelioğlu ve eşi Çağrı Çıtanak'tan mutlu aile pozu! İşte oğulları Devin'in son hali"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aef7e200e691fff90b215a3.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aef7e200e691fff90b215a3.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تصاویر جدید از Başak Gümülcinelioğlu و Çağrı Çıtanak در تولد پسرشان",
+   "summaryFa": "بازیگر Başak Gümülcinelioğlu و همسرش Çağrı Çıtanak تولد یک سالگی پسرشان «Devin» را جشن گرفتند. این زوج تصاویر جدیدی از این مراسم خانوادگی را در اینستاگرام خود به اشتراک گذاشتند.",
+   "bodyFa": [
+    "بازیگر Başak Gümülcinelioğlu و همسر همکارش Çağrı Çıtanak زندگی مشترک شاد خود را ادامه می‌دهند. این زوج به مناسبت تولد یک سالگی پسرشان Devin، تصاویری از جشن تولد او را در صفحه اینستاگرام خود منتشر کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1819a4bb20bb",
@@ -95,9 +160,60 @@
      "url": "https://www.haberturk.com/magazin/hakan-ve-zafer-peker-kardesler-yillara-meydan-okuyor-3925681",
      "title": "Peker kardeşler yıllara meydan okuyor",
      "snippet": "Hakan Peker, ağabeyi Zafer Peker ile birlikte anneleri Sabahat Tekin’i ziyaret etti. O anları sosyal medya hesaplarından paylaşan ünlü kardeşlerin yıllara meydan okuyan görünümleri dikkat çekti",
-     "published": "2026-11-07T17:32:04.000Z"
+     "published": "2026-11-07T17:32:04.000Z",
+     "titleFa": "برادران پکر با زمان مبارزه می‌کنند"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "دیدار برادران پکر با مادرشان در فضای مجازی توجه‌برانگیز شد",
+   "summaryFa": "هاکان پکر و برادر بزرگترش ظفر پکر برای دیدار با مادرشان، صباحت تکین، دور هم جمع شدند. تصاویر این دورهمی خانوادگی در شبکه‌های اجتماعی بازتاب داشت.",
+   "bodyFa": [
+    "هاکان پکر، خواننده ۶۵ ساله، به همراه برادر موسیقیدان خود ظفر پکر که ۶۷ سال سن دارد، برای صرف صبحانه به دیدار مادرشان صباحت تکین رفتند.",
+    "این دو برادر تصاویر و لحظات این دیدار خانوادگی را در حساب‌های کاربری خود در شبکه‌های اجتماعی با طرفداران و دنبال‌کنندگانشان به اشتراک گذاشتند.",
+    "آنچه بیش از هر چیز در این تصاویر توجه کاربران فضای مجازی را به خود جلب کرد، ظاهر جوان و شاداب این دو برادر مشهور بود که به نوعی نشان‌دهنده گذر زمان بر چهره آن‌هاست."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "351543fa80e7",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/yesim-gul-hayat-arkadasini-kaybetti-yagmur-yukselden-duygulandiran-taziye-mesaji-7696374",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Yeşim Gül hayat arkadaşını kaybetti! Yağmur Yüksel'den duygulandıran taziye mesajı",
+   "snippet": "Oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar hayatını kaybetti. Gül'ün meslektaşı Yağmur Yüksel, sosyal medya hesabından duygu yüklü bir taziye mesajı paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aef57470e691fff90b21496.jpg",
+   "video": null,
+   "published": "2026-11-07T16:53:19.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "yesim-gul"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/yesim-gul-hayat-arkadasini-kaybetti-yagmur-yukselden-duygulandiran-taziye-mesaji-7696374",
+     "title": "Yeşim Gül hayat arkadaşını kaybetti! Yağmur Yüksel'den duygulandıran taziye mesajı",
+     "snippet": "Oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar hayatını kaybetti. Gül'ün meslektaşı Yağmur Yüksel, sosyal medya hesabından duygu yüklü bir taziye mesajı paylaştı.",
+     "published": "2026-11-07T16:53:19.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aef57470e691fff90b21496.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aef57470e691fff90b21496.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "4beb067b97b5",
@@ -124,9 +240,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/duetleri-olay-olmustu-serenay-sarikayadan-ajda-pekkan-paylasimi-tek-bir-aciklamam-yok-oyle-guzel-bir-geceydi-7696371",
      "title": "Düetleri olay olmuştu! Serenay Sarıkaya'dan Ajda Pekkan paylaşımı: Tek bir açıklamam yok öyle güzel bir geceydi",
      "snippet": "Katıldığı özel bir davette Süperstar Ajda Pekkan ile düet yapan oyuncu Serenay Sarıkaya, geceden kareleri 'Tek bir açıklamam yok öyle güzel bir geceydi' notuyla Instagram'dan paylaştı.",
-     "published": "2026-11-07T16:37:58.000Z"
+     "published": "2026-11-07T16:37:58.000Z",
+     "titleFa": "دوئت آنها جنجال به پا کرده بود! پست سرنای Sarikaya درباره Ajda Pekkan: هیچ توضیحی ندارم، شبی به آن زیبایی بود"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aef53a60e691fff90b21463.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aef53a60e691fff90b21463.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اشتراک‌گذاری تصاویر همخوانی سرنای ساریکایا با آجدا پکان در اینستاگرام",
+   "summaryFa": "سرنای ساریکایا تصاویری از همخوانی خود با آجدا پکان در یک مهمانی ویژه را با جمله «توضیحی ندارم، شبی به آن زیبایی بود» در اینستاگرام منتشر کرد.",
+   "bodyFa": [
+    "سرنای ساریکایا، بازیگر شناخته‌شده، در یک مهمانی اختصاصی با آجدا پکان، سوپراستار موسیقی، همخوانی و اجرای دوئت داشت که این اجرا بازتاب زیادی به همراه داشت.",
+    "این بازیگر پس از این رویداد، عکس‌ها و لحظاتی از آن شب را در صفحه اینستاگرام خود به اشتراک گذاشت و درباره این تجربه نوشت که هیچ توضیحی برای آن ندارد و شبی بسیار زیبا بوده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "297a65009ca9",
@@ -153,9 +287,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/karni-iyice-belirginlesti-gokce-bahadir-anne-olmak-icin-gun-sayiyor-7696360",
      "title": "Karnı iyice belirginleşti! Gökçe Bahadır anne olmak için gün sayıyor",
      "snippet": "Oyuncu Gökçe Bahadır ve müzisyen eşi Emir Ersoy'un mutlu evliliği devam ediyor. Çift, ilk kez anne baba olmaya hazırlanıyor. Bebeğini kucağına almaya hazırlanan Bahadır'ın karnının iyice belirginleştiği görüldü.",
-     "published": "2026-11-07T15:55:40.000Z"
+     "published": "2026-11-07T15:55:40.000Z",
+     "titleFa": "شکم او کاملاً مشخص شد! گوکچه بهادیر روزها را برای مادر شدن می‌شمارد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aef49a30e691fff90b21413.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aef49a30e691fff90b21413.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "برجستگی شکم گوکچه بهادیر و شمارش معکوس برای مادر شدن",
+   "summaryFa": "گوکچه بهادیر و همسرش امیر ارسوی در انتظار به دنیا آمدن اولین فرزند خود هستند. تصاویر جدید نشان می‌دهد که برآمدگی شکم این بازیگر به خوبی نمایان شده است.",
+   "bodyFa": [
+    "زندگی مشترک گوکچه بهادیر، بازیگر سرشناس، و همسرش امیر ارسوی، موسیقیدان، همچنان ادامه دارد و این زوج اکنون برای نخستین بار در آستانه تجربه پدر و مادر شدن قرار گرفته‌اند.",
+    "در تصاویر جدید منتشر شده از این بازیگر، تغییرات ظاهری و برجسته‌تر شدن شکم او به وضوح قابل مشاهده است و گزارش‌ها حاکی از آن است که او روزهای باقی‌مانده تا تولد فرزندش را می‌شمارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5cdbff4030b6",
@@ -169,7 +321,7 @@
    "video": null,
    "published": "2026-11-07T15:23:27.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -182,7 +334,8 @@
      "url": "https://www.haberturk.com/magazin/yilmaz-erdogan-dan-vizontele-mujdesi-3925656",
      "title": "Yılmaz Erdoğan'dan 'Vizontele' müjdesi",
      "snippet": "Yılmaz Erdoğan, 'Fethiye Uluslararası Film Festivali'nde yaptığı açıklamada 'Vizontele' serisinin 3'üncü ve son filmi için hazırlıklara başladıklarını, vizyon tarihinin ise 2028'in başı olduğunu söyledi",
-     "published": "2026-11-07T15:23:27.000Z"
+     "published": "2026-11-07T15:23:27.000Z",
+     "titleFa": "مژده «ویزونتله» از سوی Yılmaz Erdoğan"
     },
     {
      "source": "milliyet-magazin",
@@ -190,12 +343,52 @@
      "url": "https://www.milliyet.com.tr/magazin/vizontele-mujdesi-yilmaz-erdogan-tarih-vererek-duyurdu-7696351",
      "title": "'Vizontele' müjdesi! Yılmaz Erdoğan tarih vererek duyurdu",
      "snippet": "Fethiye Fotoğraf ve Sinema Sanatı Derneği (FEFSAD) öncülüğünde Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü, Fethiye Belediyesi, Fethiye Ticaret ve Sanayi Odası ile Fethiye Kent Konseyi destekleriyle gerçekleştirilen festivalin üçüncü gününde Erdoğan, Özer Olgu Kültür Merkezi’nde söyleşiye katı",
-     "published": "2026-11-07T15:31:13.000Z"
+     "published": "2026-11-07T15:31:13.000Z",
+     "titleFa": "مژده «ویزونتله»! Yılmaz Erdoğan با اعلام تاریخ خبر داد"
     }
    ],
    "mergedIds": [
     "7a0a674427e8"
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aef43430e691fff90b213fd.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg",
+    "https://image.milimaj.com/i/milliyet/75/869x477/6aef43430e691fff90b213fd.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "مژده Yılmaz Erdoğan درباره ساخت قسمت جدید «ویزونتله»",
+   "summaryFa": "یلماز اردوغان در جشنواره بین‌المللی فیلم فتحیه اعلام کرد که سومین و آخرین فیلم از مجموعه «ویزونتله» ساخته خواهد شد. او تاریخ اکران این فیلم را اوایل سال ۲۰۲۸ ذکر کرد.",
+   "bodyFa": [
+    "یلماز اردوغان، کارگردان، فیلم‌نامه‌نویس و بازیگر، در جریان چهارمین جشنواره بین‌المللی فیلم فتحیه در مرکز فرهنگی Özer Olgun با علاقه‌مندان سینما دیدار کرد. او در این مراسم اعلام کرد که بر روی پروژه جدیدی از مجموعه «ویزونتله» کار می‌کنند و این اثر، آخرین فیلم از این مجموعه خواهد بود.",
+    "بر اساس اطلاعات منتشرشده، آماده‌سازی برای ساخت این اثر قرار است از تابستان پیش رو آغاز شود و تلاش بر این است که فیلم برای اکران در ژانویه یا فوریه سال ۲۰۲۸ آماده شود."
+   ],
+   "comparison": {
+    "agree": [
+     "یلماز اردوغان در جشنواره فیلم فتحیه ساخت سومین و آخرین قسمت «ویزونتله» را اعلام کرد.",
+     "زمان اکران فیلم برای اوایل سال ۲۰۲۸ (ژانویه و فوریه) برنامه‌ریزی شده است."
+    ],
+    "differ": [
+     {
+      "topic": "زمان شروع آماده‌سازی و جزئیات دقیق",
+      "views": [
+       {
+        "source": "haberturk-magazin",
+        "text": "آماده‌سازی برای فیلم جدید در تابستان پیش رو آغاز می‌شود و این اثر آخرین قسمت خواهد بود."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "به جزئیات مربوط به تابستان اشاره‌ای نشده و تنها تاریخ اکران ذکر شده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0059891a4f0b",
@@ -222,9 +415,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/artik-en-cok-semt-pazarlarinda-goruluyor-eski-cocuk-yildiz-ne-hallere-dusmus-ise-gitmek-icin-bile-borc-aldim-43369405",
      "title": "Artık en çok, gittiği semt pazarlarında görülüyor... Eski çocuk yıldız ne hallere düşmüş: 'İşe gitmek için bile borç aldım'",
      "snippet": "Sinema ve TV dünyasında bir döneme çocuk yıldız olarak damgasını vuran isimler var... Bunların bazıları elbette kariyerlerini büyük bir başarıyla yetişkinliklerinde de sürdürüyor. Ama bazıları da kelimenin tam anlamıyla zor bir hayatın içinde kaybolup gidiyor.",
-     "published": "2026-11-07T14:52:00.000Z"
+     "published": "2026-11-07T14:52:00.000Z",
+     "titleFa": "اکنون بیشتر در بازارهای محلی دیده می‌شود... ببینید ستاره کودک سابق به چه روزی افتاده است: «حتی برای رفتن به سر کار هم قرض گرفتم»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aef0ade33682fc5418a86e2.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aef0ade33682fc5418a86e2.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "وضعیت دشوار ستاره کودک سابق سینما و تلویزیون",
+   "summaryFa": "برخی از ستاره‌های کودک دنیای سینما و تلویزیون در بزرگسالی با زندگی سختی روبرو می‌شوند و در آن گم می‌شوند.",
+   "bodyFa": [
+    "در دنیای سینما و تلویزیون، چهره‌هایی وجود دارند که در یک دوره به عنوان ستاره کودک شناخته شدند. در حالی که برخی از آن‌ها موفق شدند کارنامه هنری خود را در بزرگسالی با موفقیت ادامه دهند، برخی دیگر در سختی‌های زندگی گرفتار شده‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "2345e244b933",
@@ -251,9 +461,26 @@
      "url": "https://www.sabah.com.tr/magazin/90larin-muzik-dehasi-uzay-heparinin-olumun-ardindaki-aci-gercek-ortaya-cikti-iste-detaylar-7697013",
      "title": "90'ların müzik dehası Uzay Heparı'nın ölümün ardındaki acı gerçek ortaya çıktı! İşte detaylar...",
      "snippet": "1990'lı yılların başında Türk pop müziğine damga vuran isimlerden biri olan Uzay Heparı, kısa süren yaşamına sayısız unutulmaz eser ve önemli işbirlikleri sığdırdı. Sahne önündeki şöhretten çok müzikal... Devamı için tıklayınız",
-     "published": "2026-11-07T13:46:54.000Z"
+     "published": "2026-11-07T13:46:54.000Z",
+     "titleFa": "حقیقت تلخ پشت سر مرگ اوزای هپاری، نابغه موسیقی دهه ۹۰ آشکار شد! جزئیات اینجاست..."
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/3051e4/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2026/11/07/90larin-muzik-dehasi-uzay-heparinin-olumun-ardindaki-aci-gercek-ortaya-cikti-iste-detaylar-1794058989595.jpg",
+    "https://iasbh.tmgrup.com.tr/1e19ed/60/60/0/12/1201/1212?u=https://isbh.tmgrup.com.tr/sbh/2025/08/20/1755675838345.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "حقیقت تلخ پشت سر مرگ اوزای هپاری، نابغه موسیقی دهه ۹۰ میلادی آشکار شد!",
+   "summaryFa": "اوزای هپاری، یکی از چهره‌های برجسته موسیقی پاپ ترکیه در اوایل دهه ۹۰ میلادی، با وجود زندگی کوتاهش آثار فراموش‌نشدنی زیادی به جای گذاشت. با گذشت سال‌ها، او همچنان با توانایی‌های موسیقایی خود در خاطره‌ها زنده است.",
+   "bodyFa": [
+    "اوزای هپاری در اوایل دهه ۱۹۹۰ میلادی توانست تأثیر بزرگی بر موسیقی پاپ ترکیه بگذارد و در مدت کوتاه زندگی خود آثار و همکاری‌های مهمی را به ثبت برساند. او بیشتر از شهرت صحنه‌ای، به خاطر استعداد موسیقی‌اش در یادها ماندگار شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ca9096e2561e",
@@ -280,9 +507,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/ebru-gundesin-son-hali-dikkat-cekti-bu-kez-zayifligi-konusuldu-7696277",
      "title": "Ebru Gündeş’in son hali dikkat çekti! Bu kez zayıflığı konuşuldu",
      "snippet": "Son dönemde yüzündeki değişimle konuşulan Ebru Gündeş yeni karelerini takipçileriyle paylaştı. Ünlü şarkıcının bu kez daha ince görünümü dikkat çekti.",
-     "published": "2026-11-07T13:21:39.000Z"
+     "published": "2026-11-07T13:21:39.000Z",
+     "titleFa": "آخرین وضعیت ابرو گوندش توجه‌ها را جلب کرد! این بار لاغری او مطرح شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aef259de406d7101f144789.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aef259de406d7101f144789.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تصاویر جدید ابرو گوندش و جلب توجه لاغری او",
+   "summaryFa": "ابرو گوندش تصاویر جدیدی از خود را منتشر کرد که در آن‌ها ظاهر لاغرتر او مورد توجه قرار گرفته است.",
+   "bodyFa": [
+    "ابرو گوندش، خواننده مشهور، که در این مدت اخیر به خاطر تغییرات چهره‌اش نامش مطرح شده بود، این بار با انتشار تصاویری جدید در میان هوادارانش بازتاب داشت.",
+    "در تصاویر تازه منتشر شده، لاغری و ظاهر باریک‌تر این خواننده بیش از هر چیز دیگری توجه مخاطبان را به خود جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d76854f359b2",
@@ -311,7 +556,16 @@
      "snippet": "Dışarıdan bakıldığında ünlü dizilerde ya da filmlerde oynayan bütün oyuncuların bir eli yağda bir eli balda yaşadığı düşünülebilir. Ama bu durum herkes için geçerli değil.",
      "published": "2026-11-07T13:21:25.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aef22dd33682fc5418a8790.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aef22dd33682fc5418a8790.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true
   },
   {
    "id": "42453d77b524",
@@ -340,7 +594,16 @@
      "snippet": "Şafak Sezer, Kutsal Damacana filminde birlikte rol aldığı Bülent Ersoy’un normal makyajının yaklaşık 8,5-10 saat sürdüğünü, zombi makyajının ise 15 dakikada tamamlandığını söyledi.",
      "published": "2026-11-07T12:47:12.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aef1d93e406d7101f14476e.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aef1d93e406d7101f14476e.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "a9e07d997ff8",
@@ -369,7 +632,8 @@
      "snippet": "Şilili film yönetmeni Sebastián Lelio, 52 yaşında hayata veda etti",
      "published": "2026-11-07T12:44:41.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "3267c6789454",
@@ -479,7 +743,8 @@
      "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-ne-nursema-nin-donusu-damga-vurdu-3925603",
      "title": "Nursema'nın dönüşü damga vurdu",
      "snippet": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti' dün akşam yeni bölümüyle ekranlara geldi. Bölümün en büyük sürprizi ise Nursema’nın, Ömer’i aramasıyla yaşandı",
-     "published": "2026-11-07T10:58:46.000Z"
+     "published": "2026-11-07T10:58:46.000Z",
+     "titleFa": "بازگشت نورسما بر قسمت جدید اثرگذار شد"
     }
    ],
    "videos": [
@@ -500,7 +765,16 @@
      "id": "JQVFuYtj2Fo"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "بازگشت نورسما قسمت جدید سریال «شربت زغال‌اخته» را تحت تأثیر قرار داد",
+   "summaryFa": "در قسمت جدید سریال «شربت زغال‌اخته»، مشخص شد شخصیت نورسما زنده است و بازگشت او خانواده اونال را شوکه کرد. این قسمت همچنین رده‌بندی بینندگان و ترندهای شبکه‌های اجتماعی را به دست آورد.",
+   "bodyFa": [
+    "قسمت جدید سریال «شربت زغال‌اخته» پخش شد و با اتفاقات غافلگیرکننده خود بینندگان را به خود جلب کرد. مهم‌ترین رویداد این قسمت، زنده بودن شخصیت نورسما بود که پیشتر تصور می‌شد در یک حادثه جان باخته است. او پس از نجات یافتن توسط روستاییان، با عمر تماس گرفت و در پی آن، عمر و قویلجم او را پیدا کردند. بازگشت ناگهانی نورسما به عمارت، خانواده اونال را شگفت‌زده کرد و عبدالله را به وجد آورد.",
+    "در بخش دیگری از داستان، نورسما پس از بازگشت با اصیل روبه‌رو شد؛ فردی که به عمارت و شرکت چشم دوخته است. همچنین تلاش چمن و امیر برای بازگشت به یکدیگر با مانع آیشین مواجه شد. آیشین ادعا کرد باردار است و این موضوع را به چمن و خانواده اونال خبر داد. پس از آن، عبدالله شرط گذاشت که امیر باید با آیشین ازدواج کند، موضوعی که باعث دور شدن چمن از امیر شد.",
+    "بر اساس آمار منتشرشده، این قسمت از سریال «شربت زغال‌اخته» توانست در گروه‌های مختلف بینندگان رشد میزان تماشا را ثبت کند. علاوه بر این، هشتگ‌های مرتبط با سریال و شخصیت نورسما برای چند ساعت در فهرست ترندهای شبکه‌های اجتماعی جای گرفتند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d709c62bc211",
@@ -591,7 +865,8 @@
      "url": "https://www.milliyet.com.tr/magazin/guller-ve-gunahlarda-hesaplasma-kapida-baba-kiz-kavusacak-mi-7696166",
      "title": "Güller ve Günahlar'da hesaplaşma kapıda! Baba-kız kavuşacak mı?",
      "snippet": "HABER MERKEZİ -Kader’in babası olduğunu öğrenen Serhat’a hayat veren Murat Yıldırım, son bölümdeki performansıyla izleyicileri gözyaşlarına boğmuştu. “BİR DAKİKA DAHA AYRI KALAMAM” Yeni bölümde Serhat, Kader’i birlikte yaşamaya ikna etmeye çalışıyor. Kader’in karşı çıkması üzerine “Ben buna izin ver",
-     "published": "2026-11-07T10:10:21.000Z"
+     "published": "2026-11-07T10:10:21.000Z",
+     "titleFa": "حساب‌کشی در سریال «گل‌ها و گناهان» نزدیک است! آیا پدر و دختر به هم می‌رسند؟"
     }
    ],
    "images": [
@@ -602,7 +877,16 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "حساب‌کشی و تلاش برای دیدار پدر و دختر در قسمت جدید سریال «گل‌ها و گناهان»",
+   "summaryFa": "در قسمت جدید سریال «گل‌ها و گناهان»، مورات ییلدیریم در نقش سارهات برای زندگی مشترک با دخترش کادر تلاش می‌کند. این قسمت همچنین شامل خشم سارهات نسبت به براک و حوادث مربوط به زینپ خواهد بود.",
+   "bodyFa": [
+    "شبکه Kanal D قرار است قسمت جدیدی از سریال محبوب «گل‌ها و گناهان» را روی آنتن ببرد. در این قسمت، تنش‌ها به اوج می‌رسد زیرا ماجرای تلاش‌های سارهات برای پیوستن به دخترش ادامه دارد و حوادث تازه بر هیجان داستان می‌افزاید.",
+    "مورات ییلدیریم که نقش سارهات و پدر کادر را بازی می‌کند، در قسمت گذشته با بازی احساسی خود توجه مخاطبان را جلب کرده بود. اکنون در بخش‌های جدید، او سعی دارد کادر را متقاعد کند تا با هم زندگی کنند، اما با مقاومت دخترش روبه‌رو می‌شود.",
+    "علاوه بر ماجرای پدر و دختر، در این قسمت خشم شدید سارهات نسبت به براک و همچنین اتفاقاتی که برای زینپ رخ می‌دهد، نقش مهمی در بالا بردن سطح هیجان و تنش در داستان خواهد داشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8a9a4df55bf7",
@@ -629,9 +913,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/saglik/doc-dr-furkan-buraktan-zayiflama-ignelerine-bilimsel-bakis-tum-merak-edilenler-43369307",
      "title": "Doç. Dr. Furkan Burak’tan Zayıflama İğnelerine Bilimsel Bakış: Tüm Merak Edilenler",
      "snippet": "Endocrine Society Obezite Grubu Başkanı, Harvard Tıp Fakültesi öğretim üyesi ve Hürriyet yazarı Doç. Dr. Furkan Burak, son dönemin en çok konuşulan konularından zayıflama iğnelerini bilimsel veriler ışığında ele aldığı kapsamlı yazı dizisiyle okurlarla buluşuyor. 8-9 Kasım tarihlerinde Hürriyet’te y",
-     "published": "2026-11-07T08:34:12.000Z"
+     "published": "2026-11-07T08:34:12.000Z",
+     "titleFa": "نگاهی علمی به آمپول‌های لاغری از زبان دانشیار دکتر فورکان بوراک: پاسخ به تمام پرسش‌ها"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aeee27d242372ca5017607c.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aeee27d242372ca5017607c.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "نگاهی علمی به آمپول‌های لاغری با قلم دکتر فورکان بوراک",
+   "summaryFa": "دکتر فورکان بوراک، عضو هیئت علمی دانشگاه هاروارد و نویسنده روزنامه حریت، در یک مجموعه مقاله جامع به بررسی علمی آمپول‌های لاغری پرداخته است.",
+   "bodyFa": [
+    "دونده گروه چاقی انجمن غدد درون‌ریز، عضو هیئت علمی دانشکده پزشکی هاروارد و نویسنده روزنامه حریت، یعنی دانشیار دکتر فورکان بوراک، موضوع پربحث آمپول‌های لاغری را بر اساس داده‌های علمی مورد تحلیل و بررسی قرار داده است.",
+    "این مجموعه مقاله جامع در تاریخ ۸ و ۹ نوامبر در روزنامه حریت منتشر شده و به تمامی نکات و ابهامات پیرامون این آمپول‌های پرطرفدار پاسخ می‌دهد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f1f976f932a4",
@@ -721,35 +1023,6 @@
    ]
   },
   {
-   "id": "674e55abf1be",
-   "url": "https://www.haberturk.com/magazin/senarist-guliz-kucur-hayatini-kaybetti-3925566",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Ünlü senarist hayatını kaybetti",
-   "snippet": "Unutulmaz dizilerin senaryosunu kaleme alan Güliz Kucur, 61 yaşında hayata veda etti",
-   "image": "https://im.haberturk.com/l/2026/11/07/ver1794035690/3925566/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-07T07:55:55.000Z",
-   "scope": "dizi",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/senarist-guliz-kucur-hayatini-kaybetti-3925566",
-     "title": "Ünlü senarist hayatını kaybetti",
-     "snippet": "Unutulmaz dizilerin senaryosunu kaleme alan Güliz Kucur, 61 yaşında hayata veda etti",
-     "published": "2026-11-07T07:55:55.000Z"
-    }
-   ]
-  },
-  {
    "id": "ff461b7de69f",
    "url": "https://www.milliyet.com.tr/magazin/galeri/sifanur-gul-ve-berk-bakioglu-evleniyor-nisan-icin-tarih-verdi-7696121",
    "source": "milliyet-magazin",
@@ -761,7 +1034,7 @@
    "video": null,
    "published": "2026-11-07T07:34:54.000Z",
    "scope": "linked",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [
@@ -776,7 +1049,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/sifanur-gul-ve-berk-bakioglu-evleniyor-nisan-icin-tarih-verdi-7696121",
      "title": "Şifanur Gül ve Berk Bakioğlu evleniyor! Nişan için tarih verdi",
      "snippet": "Şifanur Gül ile Berk Bakioğlu evlilik yolunda ilk adımı atıyor. Amsterdam’da evlilik teklifi alan Gül, isteme ve nişanın gelecek hafta yapılacağını açıkladı.",
-     "published": "2026-11-07T07:34:54.000Z"
+     "published": "2026-11-07T07:34:54.000Z",
+     "titleFa": "شفانور گول و برک باقی‌اوغلو ازدواج می‌کنند! تاریخ نامزدی اعلام شد"
     }
    ],
    "images": [
@@ -787,7 +1061,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "ازدواج شفانور گول و برک باقی‌اوغلو؛ برگزاری مراسم نامزدی در هفته آینده",
+   "summaryFa": "شفانور گول و برک باقی‌اوغلو نخستین گام را برای ازدواج برمی‌دارند. به گفته گول، مراسم خواستگاری و نامزدی آن‌ها هفته آینده برگزار خواهد شد.",
+   "bodyFa": [
+    "شفانور گول و برک باقی‌اوغلو در مسیر ازدواج قرار گرفته‌اند و به‌زودی نخستین گام رسمی را در این راه برمی‌دارند. شفانور گول اعلام کرده است که پیشنهاد ازدواج را در شهر آمستردام دریافت کرده و به آن پاسخ مثبت داده است.",
+    "طبق گفته‌های شفانور گول، قرار است مراسم سنتی خواستگاری و نامزدی آن‌ها در هفته آینده برگزار شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "400202fe1374",
@@ -1053,65 +1335,20 @@
      "url": "https://www.haberturk.com/magazin/hafsanur-sancaktutan-hayatimin-en-guzel-donemini-yasiyorum-3925515",
      "title": "\"Hayatımın en güzel dönemini yaşıyorum\"",
      "snippet": "Bir süre önce saçlarını kısaltan Hafsanur Sancaktutan, yeni imajıyla ilk kez objektiflere takıldı. Oyuncu, depresyon nedeniyle saç kestirdiği yorumuna ise \"Hayatımın en güzel dönemini yaşıyorum\" yanıtını verdi",
-     "published": "2026-11-07T06:22:34.000Z"
+     "published": "2026-11-07T06:22:34.000Z",
+     "titleFa": "«زیباترین دوران زندگی‌ام را سپری می‌کنم»"
     }
    ],
-   "mediaDone": true
-  },
-  {
-   "id": "8752b7540245",
-   "url": "https://www.sozcu.com.tr/unlu-oyuncu-yesim-gul-un-aci-gunu-aci-haber-geldi-p376842",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ünlü oyuncu Yeşim Gül'ün acı günü: Dua istemişti",
-   "snippet": "Ünlü oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar'dan acı haber geldi. Acı haberi sosyal medya hesabından duyurdu.",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yesimguljpg-PI2mNlszj0mdgEmkW8OJvg.jpg",
-   "video": null,
-   "published": "2026-11-07T05:49:27.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [
-     "sevdan-bir-ates"
-    ],
-    "people": [
-     "yesim-gul"
-    ],
-    "networks": [
-     "show-tv"
-    ]
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/unlu-oyuncu-yesim-gul-un-aci-gunu-aci-haber-geldi-p376842",
-     "title": "Ünlü oyuncu Yeşim Gül'ün acı günü: Dua istemişti",
-     "snippet": "Ünlü oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar'dan acı haber geldi. Acı haberi sosyal medya hesabından duyurdu.",
-     "published": "2026-11-07T05:49:27.000Z"
-    },
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/yesim-gulun-aci-gunu-hayat-arkadasini-kaybetti-43369081",
-     "title": "Yeşim Gül'ün acı günü... Hayat arkadaşını kaybetti",
-     "snippet": "Oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar hayatını kaybetti.",
-     "published": "2026-11-07T06:03:00.000Z"
-    },
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/unlu-oyuncu-yesim-gul-un-aci-gunu-3925549",
-     "title": "Ünlü oyuncunun acı günü",
-     "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'te 'Vuslat' karakterine hayat veren Yeşim Gül, hayat arkadaşı Gökhan Suar'ı kaybetti",
-     "published": "2026-11-07T07:55:28.000Z"
-    }
+   "mediaDone": true,
+   "titleFa": "هفسانور سانجاک‌توتان درباره تغییر استایل و شایعات افسردگی توضیح داد",
+   "summaryFa": "هفسانور سانجاک‌توتان که اخیراً موهای خود را کوتاه کرده است، شایعات مربوط به کوتاه کردن موها به دلیل افسردگی را رد کرد. او تأکید کرد که در بهترین دوران زندگی‌اش به سر می‌برد.",
+   "bodyFa": [
+    "هفسانور سانجاک‌توتان، بازیگر ترکیه‌ای، اخیراً با استایل جدید خود در منطقه نیشانتاشی دیده شد. این نخستین بار بود که او با ظاهر تازه خود در مقابل دوربین‌ها قرار می‌گرفت. وی در این باره توضیح داد که موهایش پیش‌تر بلند شده بود و اکنون برای کوتاه‌کردن مجدد آن‌ها به آرایشگاه مراجعه کرده است.",
+    "این بازیگر همچنین به یک اتفاق جالب اشاره کرد و گفت که قصد داشته به نیشانتاشی برود اما به اشتباه سر از ایاصوفیه درآورده و در آنجا دعا کرده است. او درباره دلیل کوتاه کردن موهایش بیان کرد که مدت‌ها تمایل به این کار داشته و با پایان یافتن پروژه کاری‌اش، این فرصت برایش فراهم شده است.",
+    "در واکنش به این فرضیه که زنان معمولاً هنگام افسردگی موهای خود را کوتاه می‌کنند، سانجاک‌توتان این ادعا را رد کرد و پاسخ داد که شکر خدا در بهترین و زیباترین دوران زندگی خود قرار دارد."
    ],
-   "mergedIds": [
-    "6ef99cca3658",
-    "9643baa1d7da"
-   ]
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "38f0e678d474",
@@ -1376,7 +1613,7 @@
      "title": "‘Güller ve Günahlar ’da hesaplaşma kapıda!",
      "snippet": "Kader’in (Yade Arayıcı) babası olduğunu öğrenen Serhat’a hayat veren Murat Yıldırım, son bölümdeki performansıyla izleyicileri gözyaşlarına boğmuştu. Yeni bölümde Serhat, Kader’i birlikte yaşamaya ikna etmeye çalışıyor. Serhat’ın kızına kavuşma mücadelesi, Berrak’a (Oya Unustası) büyük öfkesi yeni b",
      "published": "2026-11-07T04:02:09.000Z",
-     "titleFa": "در «گل‌ها و گناهان» حساب‌کشی نزدیک است!"
+     "titleFa": "حساب‌کشی در سریال «گل‌ها و گناهان» نزدیک است!"
     },
     {
      "source": "hurriyet-kelebek",
@@ -1384,7 +1621,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/guller-ve-gunahlarda-hesaplasma-kapida-baba-kiz-kavusacak-mi-43369487",
      "title": "Güller ve Günahlar'da hesaplaşma kapıda! Baba-kız kavuşacak mı?",
      "snippet": "Kanal D’nin sevilen dizisi Güller ve Günahlar bu akşam yine nefes kesecek bir bölümle ekrana gelecek. Dizide Serhat’ın kızına kavuşma mücadelesi, Berrak’a büyük öfkesi ve Zeynep’in başına gelenler, tansiyonu yükseltecek.",
-     "published": "2026-11-07T11:06:00.000Z"
+     "published": "2026-11-07T11:06:00.000Z",
+     "titleFa": "حساب‌کشی در سریال گل‌ها و گناهان نزدیک است! آیا پدر و دختر به هم می‌رسند؟"
     }
    ],
    "images": [
@@ -1396,18 +1634,44 @@
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
    "mediaDone": true,
-   "titleFa": "حساب‌کشی در سریال «گل‌ها و گناهان» نزدیک است",
-   "summaryFa": "در قسمت جدید سریال «گل‌ها و گناهان»، سرهات تلاش می‌کند تا کادر را برای زندگی مشترک متقاعد کند. تلاش او برای رسیدن به دخترش و خشم شدیدش نسبت به برراک، حوادث جدید را رقم می‌زند.",
+   "titleFa": "حساب‌کشی در سریال گل‌ها و گناهان نزدیک است",
+   "summaryFa": "در قسمت جدید سریال گل‌ها و گناهان، تلاش‌های مورات ییلدیریم در نقش سرهات برای پیوستن به دخترش ادامه دارد. این در حالی است که خشم او نسبت به براک و حوادث مربوط به زینب، تنش داستان را افزایش می‌دهد.",
    "bodyFa": [
-    "در سریال محبوب «گل‌ها و گناهان» از کانال د، ماجراهای پرهیجانی در راه است. در بخش‌های اخیر، مورات ییلدیریم در نقش سرهات پس از اینکه فهمید پدر کادر با بازی یاده آرایجی است، با بازی احساسی خود و عملکردش در قسمت قبل، بینندگان را به گریه انداخت.",
-    "در قسمت جدید این مجموعه، سرهات تلاش می‌کند تا کادر را متقاعد سازد تا با یکدیگر زندگی کنند. تلاش‌های او برای پیوستن به دخترش و همچنین خشم بزرگ او نسبت به برراک با بازی اویا اونوستاسی، از محورهای اصلی بخش‌های پیش رو به شمار می‌رود."
+    "مجموعه تلویزیونی پرمخاطب «گل‌ها و گناهان» از شبکه Kanal D با پخش قسمت جدید خود، لحظات پرهیجانی را برای بینندگان رقم خواهد زد. در این قسمت، چالش‌ها و تلاش‌های سرهات برای رسیدن به دخترش کادر و متقاعد کردن او برای زندگی مشترک، بخش مهمی از ماجراست. بازی مورات ییلدیریم در نقش سرهات که متوجه شده پدر کادر است، پیش‌تر در قسمت گذشته مخاطبان را به گریه انداخته بود.",
+    "علاوه بر تلاش برای کنار هم بودن پدر و دختر، خشم شدید سرهات نسبت به براک با بازی اویا اونوستاسی و همچنین اتفاقاتی که برای زینب رخ داده است، سطح درام و تنش را در قسمت پیش رو بالاتر می‌برد."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "6dd6c373b683"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "هر دو منبع اشاره می‌کنند که سریال گل‌ها و گناهان از شبکه Kanal D پخش می‌شود.",
+     "هر دو منبع به تلاش‌های سرهات برای رسیدن به دخترش و خشم او نسبت به براک اشاره دارند."
+    ],
+    "differ": [
+     {
+      "topic": "زمان پخش قسمت جدید",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "سریال امشب با قسمتی نفس‌گیر روی آنتن می‌رود."
+       }
+      ]
+     },
+     {
+      "topic": "حوادث مربوط به شخصیت زینب",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "حوادث رخ داده برای زینب را از عوامل افزایش‌دهنده تنش در قسمت جدید ذکر می‌کند."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   }
   },
   {
    "id": "1e2579734526",
@@ -1751,7 +2015,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/kamera-gordugum-zaman-bayilacak-gibi-oluyordum-43369003",
      "title": "‘Kamera gördüğüm zaman bayılacak gibi oluyordum’",
      "snippet": "Her şey kamera korkusunu keşfetmesiyle başladı. “Bir korkum varsa üstüne giderim” diyerek oyunculukla tanıştı. Güzelliğinin getirdiği dertlerle de sınandı... Fotoğraflarına bakınca estetikli sanıldığı için birçok iş kaybettiğini anlatıyor. Kanal D’de yayımlanan ‘Haysiyet’ dizisinin oyuncularından Ay",
-     "published": "2026-11-07T04:00:00.000Z"
+     "published": "2026-11-07T04:00:00.000Z",
+     "titleFa": "«وقتی دوربین می‌دیدم نزدیک بود غش کنم»"
     }
    ],
    "images": [
@@ -1762,7 +2027,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اظهارات آیبوکه ییلماز درباره ترس از دوربین و از دست دادن فرصت‌های شغلی",
+   "summaryFa": "آیبوکه ییلماز بازیگر سریال «حیثیت» از مواجهه با ترس خود از دوربین و ورود به دنیای بازیگری سخن گفت. او همچنین اعلام کرد به دلیل گمانه‌زنی‌های اشتباه درباره انجام عمل زیبایی، چندین پیشنهاد کاری را از دست داده است.",
+   "bodyFa": [
+    "آیبوکه ییلماز، از بازیگران سریال «حیثیت» (Haysiyet) که از شبکه «کانال دی» پخش می‌شود، در گفتگویی به بررسی مسیر ورود خود به عرصه بازیگری پرداخته است. او اعلام کرد که ورودش به این حرفه با شناخت ترسش از دوربین آغاز شد؛ جایی که هنگام قرار گرفتن در مقابل دوربین احساس غش کردن به او دست می‌داد، اما تصمیم گرفت با روبرو شدن با این ترس وارد بازیگری شود.",
+    "این بازیگر همچنین به چالش‌های مرتبط با ظاهر خود اشاره کرد. او توضیح داد که به دلیل گمانه‌زنی‌ها و تصور اشتباه افراد درباره انجام عمل‌های زیبایی با دیدن عکس‌هایش، فرصت‌های شغلی و پیشنهادهای کاری متعددی را از دست داده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0c50c80ca6f5",
@@ -1936,7 +2209,8 @@
      "url": "https://www.sabah.com.tr/magazin/kenan-gerceklerin-pesine-dustu-7696452",
      "title": "Kenan gerçeklerin peşine düştü!",
      "snippet": "Atv dizisi 'Güneşin Doğduğu Yer', önceki akşam sekizinci bölümüyle ekrana geldi. Dizi; FIFTY5 BLUE TR tarafından alınan verilere göre gün içerisinde yayınlanan 100 programın yer aldığı reyting ölçümünde... Devamı için tıklayınız",
-     "published": "2026-11-06T16:43:51.000Z"
+     "published": "2026-11-06T16:43:51.000Z",
+     "titleFa": "کنان به دنبال حقیقت افتاد!"
     }
    ],
    "images": [
@@ -1947,7 +2221,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "درخشش سریال «جایی که خورشید طلوع می‌کند» در جدول رتبه‌بندی",
+   "summaryFa": "قسمت هشتم سریال «جایی که خورشید طلوع می‌کند» روی آنتن رفت و توانست در سه رده‌بندی مختلف، عنوان پربازدیدترین سریال روز را به دست آورد. این آمار بر اساس داده‌های موسسه FIFTY5 BLUE TR منتشر شده است.",
+   "bodyFa": [
+    "سریال تلویزیونی «جایی که خورشید طلوع می‌کند» از شبکه ATV، پیش‌تر با پخش قسمت هشتم خود توانسته بود توجه مخاطبان را به خود جلب کند. بر اساس اطلاعات و داده‌های ارائه‌شده توسط FIFTY5 BLUE TR، این اثر موفق شد در میان صد برنامه مختلف که در طول روز اندازه‌گیری شده بودند، در هر سه دسته مختلف به عنوان پربیننده‌ترین مجموعه نمایشی شناخته شود.",
+    "در این قسمت از سریال، ماجراهایی از جمله تلاش‌های کنان برای کشف حقیقت و همچنین خارج کردن اجباری لیلا از محله تنکه به نمایش درآمد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "41baa3489f1a",
@@ -2406,42 +2688,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "7110e61f69e7",
-   "url": "https://www.haberturk.com/magazin/yesim-gul-u-yikan-haber-hayat-arkadasi-gokhan-suar-icin-dua-istedi-3925415",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Hayat arkadaşı entübe edildi",
-   "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'te 'Vuslat' karakterine hayat veren Yeşim Gül, entübe edilen hayat arkadaşı Gökhan Suar için sevenlerinden dua istedi",
-   "image": "https://im.haberturk.com/l/2026/11/06/ver1793968123/3925415/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-06T14:47:20.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [
-     "sevdan-bir-ates"
-    ],
-    "people": [
-     "yesim-gul"
-    ],
-    "networks": [
-     "show-tv"
-    ]
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/yesim-gul-u-yikan-haber-hayat-arkadasi-gokhan-suar-icin-dua-istedi-3925415",
-     "title": "Hayat arkadaşı entübe edildi",
-     "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'te 'Vuslat' karakterine hayat veren Yeşim Gül, entübe edilen hayat arkadaşı Gökhan Suar için sevenlerinden dua istedi",
-     "published": "2026-11-06T14:47:20.000Z"
-    }
-   ],
-   "mediaDone": true
   },
   {
    "id": "dd9c611bbacc",
@@ -12267,54 +12513,6 @@
    "bodyFa": [
     "احمد سلجوق ایلکان به ادعاهای مطرح شده از سوی کوشکون صباح علیه خود واکنش نشان داد. او طی یک گفتگوی تلفنی در برنامه تلویزیونی «چه خبر در زندگی می‌گذرد» از شبکه Kanal D، اتهام «دزد زحمت» را رد کرد.",
     "این هنرمند مدعی شد ترانه‌هایی که کوشکون صباح را به شهرت رسانده، خودش ساخته است. او همچنین با انتقاد از رفتارهای صباح طی ۳۷ سال گذشته، اظهار داشت که او به جای هنر، با جنجال‌ها شناخته می‌شود و او را به تقلید کردن متهم کرد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "b89a853741dc",
-   "url": "https://www.milliyet.com.tr/magazin/idizden-deniz-sekiye-sahnede-surpriz-7692916",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "İdiz’den Deniz Seki’ye sahnede sürpriz!",
-   "snippet": "Şarkıcı, alkışlar ve tezahüratlar eşliğinde üç kez bis yaparak hayranlarının isteğini geri çevirmedi. Seki’yi bu özel gecesinde yalnız bırakmayan Nurseli İdiz, sahneye çıkarak 65 dakikalık bir müzikal hazırladığını açıkladı. İdiz’in, müzikaline Seki’nin bir şarkısını seslendirerek başlayacak olması, şarkıcıya sürpriz oldu.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ae90f42e672900e673f800e.jpg",
-   "video": null,
-   "published": "2026-11-03T04:01:42.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/idizden-deniz-sekiye-sahnede-surpriz-7692916",
-     "title": "İdiz’den Deniz Seki’ye sahnede sürpriz!",
-     "snippet": "Şarkıcı, alkışlar ve tezahüratlar eşliğinde üç kez bis yaparak hayranlarının isteğini geri çevirmedi. Seki’yi bu özel gecesinde yalnız bırakmayan Nurseli İdiz, sahneye çıkarak 65 dakikalık bir müzikal hazırladığını açıkladı. İdiz’in, müzikaline Seki’nin bir şarkısını seslendirerek başlayacak olması,",
-     "published": "2026-11-03T04:01:42.000Z",
-     "titleFa": "غافلگیری از ایدیز برای دنیز سکی روی صحنه!"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6ae90f42e672900e673f800e.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6ae90f42e672900e673f800e.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "غافلگیری نورسلی ایدیز برای دنیز سکی روی صحنه",
-   "summaryFa": "دنیز سکی در اجرای اخیر خود با استقبال مخاطبان روبرو شد و نورسلی ایدیز نیز روی صحنه حضور یافت. ایدیز در این مراسم اعلام کرد که در حال آماده‌سازی یک موزیکال ۶۵ دقیقه‌ای است.",
-   "bodyFa": [
-    "دنیز سکی در اجرای شب گذشته خود با تشویق و استقبال گرم هواداران روبه‌رو شد و در پاسخ به درخواست آنان، سه بار برنامه خود را تکرار کرد.",
-    "در این شب خاص، نورسلی ایدیز نیز به روی صحنه رفت و غافلگیری تازه‌ای را رقم زد. او اعلام کرد که در حال تدارک یک اثر موزیکال ۶۵ دقیقه‌ای است.",
-    "طبق اعلام ایدیز، قرار است این برنامه موزیکال با اجرای یکی از ترانه‌های دنیز سکی آغاز شود."
    ],
    "ai": true,
    "aiTries": 1
