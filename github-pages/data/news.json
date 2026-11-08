@@ -1,6 +1,53 @@
 {
- "updated": "2026-11-08T15:16:37.378Z",
+ "updated": "2026-11-08T19:46:12.684Z",
  "items": [
+  {
+   "id": "d62e89134080",
+   "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-sehzade-mustafa-itirafi-idam-sahnesinden-sonra-yasadiklarini-anlatti-p377284",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Mehmet Günsür'den 'Şehzade Mustafa' itirafı: 'İdam' sahnesinden sonra yaşadıklarını anlattı",
+   "snippet": "“Muhteşem Yüzyıl” dizisinde Şehzade Mustafa karakterini canlandıran Mehmet Günsür, yıllar sonra dizinin hafızalara kazın...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/mustafajpg-w9q5o4la3EGtF1bByG4J_A.jpg",
+   "video": null,
+   "published": "2026-11-08T16:14:02.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-sehzade-mustafa-itirafi-idam-sahnesinden-sonra-yasadiklarini-anlatti-p377284",
+     "title": "Mehmet Günsür'den 'Şehzade Mustafa' itirafı: 'İdam' sahnesinden sonra yaşadıklarını anlattı",
+     "snippet": "“Muhteşem Yüzyıl” dizisinde Şehzade Mustafa karakterini canlandıran Mehmet Günsür, yıllar sonra dizinin hafızalara kazın...",
+     "published": "2026-11-08T16:14:02.000Z",
+     "titleFa": "اعتراف مهمت گونسور درباره «شاهزاده مصطفی»: از آنچه پس از صحنه «اعدام» تجربه کرد گفت"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/mustafajpg-w9q5o4la3EGtF1bByG4J_A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/mustafajpg-w9q5o4la3EGtF1bByG4J_A.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/nehir-18jpg-lU03T4RcSkGlISq49EjmNQ.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/aa202611084300467743004660misirdakitrenkazasinda4kisioldu88kisiyaralandijpg-jL0YyVfffEWvy__6Emk0Ew.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ankara-kulisi-emekli-zamminda-son-formulpng-aI48y-976Um3UZPN8Y48KQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "اعتراف مهمت گونسور درباره صحنه اعدام شاهزاده مصطفی در سریال حریم سلطان",
+   "summaryFa": "مهمت گونسور، بازیگر نقش شاهزاده مصطفی، درباره واکنش‌ها و اتفاقات پس از پخش صحنه اعدام این شخصیت در سریال «حریم سلطان» سخن گفت.",
+   "bodyFa": [
+    "مهمت گونسور، بازیگری که در سریال محبوب «حریم سلطان» ایفاگر نقش شاهزاده مصطفی بود، پس از گذشت سال‌ها درباره یکی از ماندگارترین سکانس‌های این مجموعه یعنی صحنه اعدام توضیحاتی ارائه داد. به گفته این هنرمند، عوامل و بازیگران حدود دو سال در انتظار فرا رسیدن و ضبط این سکانس بوده‌اند.",
+    "او همچنین افزود که پس از روی آنتن رفتن این قسمت از سریال، آرامگاه شاهزاده مصطفی در شهر بورسا با هجوم و ازدحام شدید بازدیدکنندگان مواجه شد و به همین دلیل موقتاً به روی بازدیدکنندگان بسته شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "a52cbe0875dc",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/benden-oyuncudan-baska-bir-sey-olmazdi-43370636",
@@ -656,7 +703,8 @@
      "url": "https://www.milliyet.com.tr/magazin/guller-ve-gunahlarda-kader-aglarini-ordu-7696636",
      "title": "Güller ve Günahlar’da kader ağlarını ördü!",
      "snippet": "“KADER SİZİN KARDEŞİNİZ” Kanal D’nin ilgiyle takip edilen dizisi Güller ve Günahlar, son bölümüyle izleyicilere hem duygu dolu hem de heyecan yüklü anlar yaşattı. Serhat, İlkim ve Hayal’e Kader’le kardeş olduklarını açıkladı. Cezaevine giderek Berrak’tan hesap soran Serhat, asıl büyük yıkımı Kader’i",
-     "published": "2026-11-08T09:05:03.000Z"
+     "published": "2026-11-08T09:05:03.000Z",
+     "titleFa": "سرنوشت در سریال گل‌ها و گناهان تور خود را بافت!"
     }
    ],
    "images": [
@@ -667,7 +715,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "افشای راز خانوادگی و حوادث پرتنش در سریال گل‌ها و گناهان",
+   "summaryFa": "در قسمت جدید سریال «گل‌ها و گناهان»، سرهات راز برادری با کادر را برای ایلکیم و خیال فاش کرد. همچنین حوادث دراماتیکی مانند ربوده شدن زینب و تیراندازی به جهان و یوسف رخ داد.",
+   "bodyFa": [
+    "قسمت اخیر سریال «گل‌ها و گناهان» که شنبه‌شب‌ها از شبکه کانال دی پخش می‌شود، صحنه اتفاقات هیجان‌انگیز و احساسی بود. در این قسمت، سرهات راز مهمی را برملا کرد و به ایلکیم و خیال خبر داد که کادر خواهر آن‌ها است. او همچنین برای بازخواست از براک راهی زندان شد، اما کادر به او پشت کرد.",
+    "در ادامه حوادث دراماتیک این قسمت، ماجراهای نگران‌کننده‌ای رخ داد؛ شخصیت زینب دزدیده شد و جهان و یوسف نیز هدف تیراندازی قرار گرفتند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "bc6a078f7812",
@@ -2423,7 +2479,8 @@
      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/ilkergezici/2026/11/08/sinehaneyle-zaman-yolculugu",
      "title": "Sinehane’yle zaman yolculuğu",
      "snippet": "Animasyon sinemamızda çocukların hayal dünyasına dokunan yapımların sayısı giderek artıyor. İstanbul Muhafızları ve Akıncı gibi önemli projelere imza atan Neher Prodüksiyon ile Sinehane Film Prodüksiyon,... Devamı için tıklayınız",
-     "published": "2026-11-07T16:54:25.000Z"
+     "published": "2026-11-07T16:54:25.000Z",
+     "titleFa": "سفر در زمان با سینه‌خانه"
     }
    ],
    "images": [
@@ -2434,7 +2491,14 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
     "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/11/08/164x236/08SBH01.jpg?v=26401"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "سفر در زمان با سینه‌خانه",
+   "summaryFa": "شرکت‌های تولید فیلم نِهر و سینه‌خانه اثر جدیدی در حوزه انیمیشن خلق کرده‌اند که مخاطبان را به سفری در زمان و مکان می‌برد.",
+   "bodyFa": [
+    "تولید آثار انیمیشنی در سینمای ترکیه که به دنیای خیالی کودکان می‌پردازند، رو به افزایش است. شرکت‌های «نهر پروداکشن» و «سینه‌خانه فیلم پروداکشن» که پیش‌تر پروژه‌های مهمی مانند «محافظان استانبول» و «آکینجی» را ساخته بودند، این بار مخاطبان را وارد یک سفر غیرمعمول در زمان و مکان می‌کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4beb067b97b5",
@@ -3547,7 +3611,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/sinemanin-sultani-cop31-zirvesinde-43369099",
      "title": "Sinemanın sultanı COP31 Zirvesi'nde",
      "snippet": "İKLİM değişikliğiyle mücadele ve sürdürülebilirlik hedefleri kapsamında Antalya’da 9-20 Kasım’da düzenlenecek COP31’de sinema konuşulacak.",
-     "published": "2026-11-07T06:32:43.000Z"
+     "published": "2026-11-07T06:32:43.000Z",
+     "titleFa": "ملکه سینما در نشست COP31"
     }
    ],
    "images": [
@@ -3558,7 +3623,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "سینما در نشست COP31 در آنتالیا مورد بحث قرار می‌گیرد",
+   "summaryFa": "نشست COP31 با محوریت اهداف مبارزه با تغییرات اقلیمی و پایداری، از ۹ تا ۲۰ نوامبر در آنتالیا برگزار خواهد شد و در آن به موضوع سینما پرداخته می‌شود.",
+   "bodyFa": [
+    "بر اساس اطلاعات منتشر شده، قرار است در جریان برگزاری نشست COP31 که با تمرکز بر اهداف مبارزه با تغییرات اقلیمی و پایداری برنامه‌ریزی شده است، موضوع سینما نیز مورد بحث و گفتگو قرار بگیرد.",
+    "این رویداد قرار است از تاریخ ۹ تا ۲۰ نوامبر در شهر آنتالیا برگزار شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "be371c742360",
@@ -3701,6 +3774,57 @@
      "جدایی از کوبیلای آکا (تنها در s2 آمده است)."
     ]
    }
+  },
+  {
+   "id": "6ef99cca3658",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/yesim-gulun-aci-gunu-hayat-arkadasini-kaybetti-43369081",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Yeşim Gül'ün acı günü... Hayat arkadaşını kaybetti",
+   "snippet": "Oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar hayatını kaybetti.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6aeebf2933682fc5418a849f.jpg",
+   "video": null,
+   "published": "2026-11-07T06:03:00.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "yesim-gul"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/yesim-gulun-aci-gunu-hayat-arkadasini-kaybetti-43369081",
+     "title": "Yeşim Gül'ün acı günü... Hayat arkadaşını kaybetti",
+     "snippet": "Oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar hayatını kaybetti.",
+     "published": "2026-11-07T06:03:00.000Z"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/yesim-gul-hayat-arkadasini-kaybetti-yagmur-yukselden-duygulandiran-taziye-mesaji-7696374",
+     "title": "Yeşim Gül hayat arkadaşını kaybetti! Yağmur Yüksel'den duygulandıran taziye mesajı",
+     "snippet": "Oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar hayatını kaybetti. Gül'ün meslektaşı Yağmur Yüksel, sosyal medya hesabından duygu yüklü bir taziye mesajı paylaştı.",
+     "published": "2026-11-07T16:53:19.000Z"
+    }
+   ],
+   "mergedIds": [
+    "351543fa80e7"
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aeebf2933682fc5418a849f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aeebf2933682fc5418a849f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true
   },
   {
    "id": "38f0e678d474",
@@ -4024,37 +4148,6 @@
     ],
     "unconfirmed": []
    }
-  },
-  {
-   "id": "1e2579734526",
-   "url": "https://www.milliyet.com.tr/magazin/hindistana-gitseydim-prenses-olacaktim-7696064",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Hindistan’a gitseydim prenses olacaktım’",
-   "snippet": "Oyuncu, İzmir Foça’daki yaşamını Asiye Acar’ın sunduğu ‘Pazar Gezmesi’nde anlattı. Yarın saat 12.45’te Kanal D’de ekrana gelecek projede Taçbaş, bir ülkenin prensinden aldığı evlilik teklifini anlattı. Oyuncu, “Hindistan’a gitseydim belki de prenses olacaktım!” açıklamasını yaptı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aee5f1de406d7101f1446b1.jpg",
-   "video": null,
-   "published": "2026-11-07T04:02:08.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": [
-     "kanal-d"
-    ]
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/hindistana-gitseydim-prenses-olacaktim-7696064",
-     "title": "‘Hindistan’a gitseydim prenses olacaktım’",
-     "snippet": "Oyuncu, İzmir Foça’daki yaşamını Asiye Acar’ın sunduğu ‘Pazar Gezmesi’nde anlattı. Yarın saat 12.45’te Kanal D’de ekrana gelecek projede Taçbaş, bir ülkenin prensinden aldığı evlilik teklifini anlattı. Oyuncu, “Hindistan’a gitseydim belki de prenses olacaktım!” açıklamasını yaptı.",
-     "published": "2026-11-07T04:02:08.000Z"
-    }
-   ]
   },
   {
    "id": "9c199ecf70e5",
@@ -4892,7 +4985,8 @@
      "url": "https://www.sabah.com.tr/magazin/sevgilim-aliskin-degil-roportaj-yapmayalim-7696436",
      "title": "'Sevgilim alışkın değil, röportaj yapmayalım'",
      "snippet": "Oyuncu Afra Saraçoğlu ve sevgilisi Poyraz Yosmaoğlu, önceki akşam Taksim'de izledikleri tiyatro oyununun çıkışında objektiflere takıldı. Yakın bir arkadaşlarının oyununa geldiklerini belirten ünlü oyuncu,... Devamı için tıklayınız",
-     "published": "2026-11-06T16:10:02.000Z"
+     "published": "2026-11-06T16:10:02.000Z",
+     "titleFa": "عشقم عادت ندارد، مصاحبه نکنیم"
     }
    ],
    "images": [
@@ -4903,7 +4997,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "دیدار افرا ساراجوعلو و پویراز یوسمااوغلو در تئاتر تقسیم",
+   "summaryFa": "بازیگر افرا ساراجوعلو به همراه پویراز یوسمااوغلو پس از تماشای یک نمایش در تقسیم دیده شدند.",
+   "bodyFa": [
+    "بازیگر شناخته‌شده افرا ساراجوعلو و پویراز یوسمااوغلو در شب گذشته پس از تماشای یک نمایش تئاتر در منطقه تقسیم توسط عکاسان دیده شدند.",
+    "این بازیگر معروف اشاره کرد که برای تماشای اجرای یکی از دوستان نزدیک خود که کارگردانی را بر عهده داشته به آنجا رفته‌اند و نمایش را خوب ارزیابی کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "eb82bf7d4b8f",
@@ -6740,35 +6842,6 @@
    "aiTries": 1
   },
   {
-   "id": "f54a55c3bdc1",
-   "url": "https://www.sozcu.com.tr/emir-can-igrek-in-annesi-hastaneye-kaldirildi-konser-aninda-gozyaslarini-tutamadi-p376199",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Emir Can İğrek konser anında gözyaşlarını tutamadı",
-   "snippet": "Emir Can İğrek'in Harbiye konserinde yaptığı açıklama sevenlerini üzdü. Annesi Aysel İğrek'in sağlık durumuyla ilgili ko...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/emircanigrekagladijpg-Nn411xQLKEWoridsZAwZxQ.jpg",
-   "video": null,
-   "published": "2026-11-06T05:14:06.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/emir-can-igrek-in-annesi-hastaneye-kaldirildi-konser-aninda-gozyaslarini-tutamadi-p376199",
-     "title": "Emir Can İğrek konser anında gözyaşlarını tutamadı",
-     "snippet": "Emir Can İğrek'in Harbiye konserinde yaptığı açıklama sevenlerini üzdü. Annesi Aysel İğrek'in sağlık durumuyla ilgili ko...",
-     "published": "2026-11-06T05:14:06.000Z"
-    }
-   ]
-  },
-  {
    "id": "7dce33d72ed3",
    "url": "https://www.hurriyet.com.tr/kelebek/hayat/athena-gokhan-30-milyona-yesil-oldu-43367762",
    "source": "hurriyet-kelebek",
@@ -6935,7 +7008,8 @@
      "url": "https://www.milliyet.com.tr/magazin/efsane-album-yayinda-7695293",
      "title": "‘Efsane’ albüm yayında!",
      "snippet": "VTA Entertainment etiketiyle yayınlanan ve prodüktörlük koltuğunda Volga Tamöz ile Seçkin Özer’in oturduğu albüm; akustik ve disko yorumların yanı sıra Eypio, Sakiler, Mirkelam, Gökhan Birben ve Otilia gibi isimlerle gerçekleşen dikkat çekici iş birliklerini tek bir çatı altında topladı. Her şarkıda",
-     "published": "2026-11-06T04:02:06.000Z"
+     "published": "2026-11-06T04:02:06.000Z",
+     "titleFa": "آلبوم «افسانه» منتشر شد!"
     }
    ],
    "images": [
@@ -6946,7 +7020,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتشار آلبوم جدید «افسانه» اثر امره آلتوغ",
+   "summaryFa": "آلبوم جدید امره آلتوغ به نام «افسانه» شامل ۲۱ قطعه در پلتفرم‌های دیجیتال منتشر شد. این آلبوم شامل همکاری با هنرمندان مختلف و نسخه‌های جایگزین است.",
+   "bodyFa": [
+    "آلبوم جدید امره آلتوغ با عنوان «افسانه» به طور رسمی در پلتفرم‌های دیجیتال در دسترس مخاطبان قرار گرفت. این اثر جامع شامل ۱۶ قطعه مختلف و ۵ نسخه جایگزین ویژه است که در مجموع ۲۱ رکورد را شامل می‌شود.",
+    "این آلبوم تحت لیبل VTA Entertainment تهیه شده و ولگا تاموز و سکچین اوزر به عنوان تهیه‌کنندگان آن فعالیت داشته‌اند. در این مجموعه علاوه بر اجراهای آکوستیک و دیسکو، همکاری‌های جالب توجهی با نام‌هایی همچون ایپیو، ساکیلر، میرکلام، گوخان بیربن و اوتیلیا به چشم می‌خورد که تمامی آن‌ها زیر یک مجموعه جمع‌آوری شده‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "fdabb65fd04b",
@@ -6973,9 +7055,28 @@
      "url": "https://www.milliyet.com.tr/magazin/kendimi-hic-yabanci-hissetmedim-7695292",
      "title": "‘Kendimi hiç yabancı hissetmedim’",
      "snippet": "Oyuncu, basın mensupları ve hayranları tarafından yoğun ilgiyle karşılandı. Galada kendisini bekleyen sevenleriyle yakından ilgilenen, hediyelerini kabul eden ve herkesle tek tek fotoğraf çektiren Uzerli, geceye damgasını vurdu. Oyuncu, “Azerbaycan’a ve Bakü’ye ilk kez geliyorum ama daha ilk andan i",
-     "published": "2026-11-06T04:02:05.000Z"
+     "published": "2026-11-06T04:02:05.000Z",
+     "titleFa": "«هیچ‌وقت احساس غریبی نکردم»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aed08ede406d7101f14425e.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aed08ede406d7101f14425e.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "برگزاری گرانای فیلم «ایمروزدا بهار» در باکو",
+   "summaryFa": "مراسم اکران فیلم «ایمروزدا بهار» با بازی خالد ارگنچ و مریم اوزرلی در باکو برگزار شد. مریم اوزرلی در این سفر با استقبال گرم هواداران و خبرنگاران روبرو شد.",
+   "bodyFa": [
+    "مراسم اکران فیلم سینمایی «ایمروزدا بهار» با بازی مشترک خالد ارگنچ و مریم اوزرلی در شهر باکو برگزار شد.",
+    "مریم اوزرلی، بازیگر شناخته‌شده، در این مراسم مورد استقبال شدید اهالی رسانه و هواداران خود قرار گرفت. او در این رویداد با هوادارانش دیدار کرد، هدایای آنان را پذیرفت و با تک‌تک آن‌ها عکس یادگاری گرفت.",
+    "اوزرلی در حاشیه این مراسم اشاره کرد که این نخستین سفر او به آذربایجان و باکو است، اما از همان لحظه ورود احساس غریبی نکرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "32a90f5d519a",
@@ -7002,9 +7103,27 @@
      "url": "https://www.milliyet.com.tr/magazin/global-capta-bir-ilke-imza-atiyor-7695291",
      "title": "Global çapta bir ilke imza atıyor!",
      "snippet": "TikTok’un ilk kez bir sanatçıya özel olarak bu kadar kapsamlı ve çok katmanlı şekilde hayata geçirdiği ‘Music LIVE Stars’ projesi, Hadise ile başladı. Projenin ilk aşamasında başlayan yarışmayla katılımcılar, sanatçının şarkılarını seslendirerek, onunla çok özel bir ‘LIVE’ anı yaşama ve sürpriz ödül",
-     "published": "2026-11-06T04:02:05.000Z"
+     "published": "2026-11-06T04:02:05.000Z",
+     "titleFa": "اقدامی بی‌سابقه در سطح جهانی!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aed08a1e406d7101f144254.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aed08a1e406d7101f144254.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "آغاز پروژه «Music LIVE Stars» تیک‌تاک با هادیسه برای نخستین بار در جهان",
+   "summaryFa": "پروژه جامع و چندلایه «Music LIVE Stars» تیک‌تاک برای نخستین بار در سطح جهانی با همکاری هادیسه آغاز شد. در این پروژه، شرکت‌کنندگان با خواندن ترانه‌های این هنرمند شانس تجربه لحظه‌ای ویژه و جوایز غافلگیرکننده را دارند.",
+   "bodyFa": [
+    "پلتفرم تیک‌تاک برای نخستین بار در سطح جهانی دست به اجرای پروژه‌ای بسیار جامع و چندلایه به نام «Music LIVE Stars» زده است که این طرح ویژه با مشارکت هادیسه آغاز شده است.",
+    "در مرحله نخست این پروژه، مسابقه‌ای برگزار می‌شود که در آن شرکت‌کنندگان با خواندن ترانه‌های این خواننده محبوب، این فرصت را پیدا می‌کنند تا لحظه‌ای بسیار ویژه و زنده با او داشته باشند و از جوایز شگفت‌انگیزی بهره‌مند شوند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b894aebd4c9f",
@@ -7031,9 +7150,27 @@
      "url": "https://www.milliyet.com.tr/magazin/bolugura-avrupa-kapilari-aciliyor-7695290",
      "title": "Boluğur’a Avrupa kapıları açılıyor!",
      "snippet": "Avrupa’da vize derdinden kurtulmayı hedefleyen oyuncu, yurt dışında yaşama ve çalışma ihtimaline de yeşil ışık yaktı. Boluğur, “Gezmeyi çok seven bir insanım. Farklı ülkeler, farklı yerler görmek her zaman kültürel olarak da geliştiren bir şey. Vize derdi kalmayacak” dedi.",
-     "published": "2026-11-06T04:02:04.000Z"
+     "published": "2026-11-06T04:02:04.000Z",
+     "titleFa": "درهای اروپا به روی بولوعور باز می‌شود!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aed0855e406d7101f14424e.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aed0855e406d7101f14424e.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اقدام مرو بولوعور برای دریافت ویزای طلایی یونان",
+   "summaryFa": "مرو بولوعور درصدد دریافت «ویزای طلایی» از یونان است تا علاوه بر رفع مشکل ویزا، امکان زندگی و کار در خارج از کشور را نیز بررسی کند.",
+   "bodyFa": [
+    "مرو بولوعور برای دریافت «ویزای طلایی» (Golden Visa) از کشور یونان اقدام کرده است. این بازیگر با هدف رهایی از دردسرهای مربوط به ویزا در اروپا، تمایل خود را برای احتمال زندگی و کار در خارج از کشور نشان داده است.",
+    "او در این خصوص اظهار داشت که فردی بسیار علاقه‌مند به سفر است و دیدن کشورهای مختلف را مایه رشد فرهنگی می‌داند و با این اقدام دیگر دغدغه‌ای درباره ویزا نخواهد داشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8904c326ec7d",
@@ -7047,7 +7184,7 @@
    "video": null,
    "published": "2026-11-06T04:02:03.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -7060,9 +7197,28 @@
      "url": "https://www.milliyet.com.tr/magazin/temelleri-cocuklugumuzda-atiyoruz-7695289",
      "title": "‘Temelleri çocukluğumuzda atıyoruz’",
      "snippet": "Klipte şarkıcının çocukluk anıları ve ailesinin fotoğrafları da anlatının önemli parçaları arasında yer alıyor. Anne ve babasının gerçek fotoğraflarının kullanıldığı klip için Göksel, “Rüyalarımda İstanbul, çocukluğum ve annemle babamın çocukluğumdaki yüzleri var. Bugünkü hayatımızın temellerini çoc",
-     "published": "2026-11-06T04:02:03.000Z"
+     "published": "2026-11-06T04:02:03.000Z",
+     "titleFa": "«پایه‌ها را در کودکی می‌گذاریم»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aed0810e406d7101f144247.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aed0810e406d7101f144247.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار موزیک ویدیوی جدید «گوکسل» برای آهنگ «یک شب شنبه»",
+   "summaryFa": "گوکسل چهارمین موزیک ویدیو از آلبوم خود را برای آهنگ «یک شب شنبه» منتشر کرد. در این ویدیو از خاطرات دوران کودکی و عکس‌های واقعی پدر و مادر او استفاده شده است.",
+   "bodyFa": [
+    "خواننده معروف، گوکسل، چهارمین موزیک ویدیوی خود از آلبوم «رویای کار» را به قطعه «یک شب شنبه» اختصاص داد و آن را منتشر کرد.",
+    "در این ویدیو، خاطرات دوران کودکی و تصاویر واقعی پدر و مادر این خواننده به عنوان بخش مهمی از روایت به نمایش درآمده است.",
+    "گوکسل در این خصوص توضیح داده است که در رویاهایش استانبول، دوران کودکی‌اش و چهره آن زمان پدر و مادرش حضور دارند و معتقد است که پایه‌های زندگی امروزی ما در همان دوران کودکی گذاشته می‌شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0c1d149e9cf0",
@@ -7141,7 +7297,16 @@
      "snippet": "ABD’li ünlü realite şov yıldızı Kim Kardashian (46) ve Hollywood yıldızı Jennifer Lawrence (36), New York sokaklarında pijamayla görüntülendi.",
      "published": "2026-11-06T04:00:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6aecf48533682fc5418a7d85.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6aecf48533682fc5418a7d85.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true
   },
   {
    "id": "b9d6752405dd",
@@ -7193,35 +7358,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "0845227368f8",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/alina-boz-hamilelikte-son-durumunu-acikladi-sekerim-sinirda-cikti-7695229",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Alina Boz hamilelikte son durumunu açıkladı! 'Şekerim sınırda çıktı'",
-   "snippet": "İşletmeci Umut Evirgen ile mutlu bir evliliği olan oyuncu Alina Boz, ilk çocuğunu kucağına almak için gün sayıyor. Ünlü isim, katıldığı bir davette hamilelik sürecinden bahsederken sağlık durumuyla ilgili 'Şekerim sınırda çıktı' diye konuştu.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aecedebe406d7101f144173.jpg",
-   "video": null,
-   "published": "2026-11-05T21:03:53.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/alina-boz-hamilelikte-son-durumunu-acikladi-sekerim-sinirda-cikti-7695229",
-     "title": "Alina Boz hamilelikte son durumunu açıkladı! 'Şekerim sınırda çıktı'",
-     "snippet": "İşletmeci Umut Evirgen ile mutlu bir evliliği olan oyuncu Alina Boz, ilk çocuğunu kucağına almak için gün sayıyor. Ünlü isim, katıldığı bir davette hamilelik sürecinden bahsederken sağlık durumuyla ilgili 'Şekerim sınırda çıktı' diye konuştu.",
-     "published": "2026-11-05T21:03:53.000Z"
-    }
-   ]
   },
   {
    "id": "7d1c81a9d02b",
@@ -7309,35 +7445,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "a859688c9ce6",
-   "url": "https://www.sozcu.com.tr/alina-boz-hamileliginde-yasadigi-saglik-sorununu-ilk-kez-anlatti-p376450",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Alina Boz hamileliğinde yaşadığı sağlık sorununu ilk kez anlattı",
-   "snippet": "İlk kez anne olmaya hazırlanan ünlü oyuncu Alina Boz, hamileliğinin altıncı ayında yaşadığı sağlık sorununu açıkladı. Ka...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/alinajpg-oLh78LIE3US52ejE7yqO-g.jpg",
-   "video": null,
-   "published": "2026-11-05T19:21:09.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/alina-boz-hamileliginde-yasadigi-saglik-sorununu-ilk-kez-anlatti-p376450",
-     "title": "Alina Boz hamileliğinde yaşadığı sağlık sorununu ilk kez anlattı",
-     "snippet": "İlk kez anne olmaya hazırlanan ünlü oyuncu Alina Boz, hamileliğinin altıncı ayında yaşadığı sağlık sorununu açıkladı. Ka...",
-     "published": "2026-11-05T19:21:09.000Z"
-    }
-   ]
   },
   {
    "id": "4e0924587978",
@@ -7472,7 +7579,16 @@
      "snippet": "Ünlü şarkıcı Emre Altuğ, Efsane albümünün tamamını bugün müzikseverlerle buluşturdu. 16 farklı eser ve 5 özel alternatif versiyon olmak üzere toplam 21 kayıttan oluşan albümün prodüktörlüğünü Volga Tamöz... Devamı için tıklayınız",
      "published": "2026-11-05T17:00:47.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/a15f7d/1200/675/0/0/848/477?u=https://isbh.tmgrup.com.tr/sbh/2026/11/05/altugdan-efsane-sarkilar-1793897964585.jpeg",
+    "https://iasbh.tmgrup.com.tr/593a4d/752/395/0/10/869/466?u=https://isbh.tmgrup.com.tr/sbh/2026/11/05/altugdan-efsane-sarkilar-1793897964585.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "7870d3ca0e82",
