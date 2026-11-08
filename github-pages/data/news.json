@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-08T19:46:12.684Z",
+ "updated": "2026-11-08T23:45:56.060Z",
  "items": [
+  {
+   "id": "b957673997fa",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/daha-17nin-24-bolumunde-neler-oldu-43370895",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Daha 17'nin 24. bölümünde neler oldu? Aras için yolun sonu mu?",
+   "snippet": "Beş yaşında kaybettiği ailesinden geride kalan tek kişi olan kardeşini aramak için Bodrum’a gelen on yedi yaşındaki Aras'ın Akkayalarla yolunun kesişmesiyle zorlu bir mücadeleye dönüşen hayatını konu alan 'Daha 17' 24. bölümü ile ekranlardaydı...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af0eb8aac182abf8dd1101d.jpg",
+   "video": null,
+   "published": "2026-11-08T21:37:00.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "daha-17"
+    ],
+    "people": [],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/daha-17nin-24-bolumunde-neler-oldu-43370895",
+     "title": "Daha 17'nin 24. bölümünde neler oldu? Aras için yolun sonu mu?",
+     "snippet": "Beş yaşında kaybettiği ailesinden geride kalan tek kişi olan kardeşini aramak için Bodrum’a gelen on yedi yaşındaki Aras'ın Akkayalarla yolunun kesişmesiyle zorlu bir mücadeleye dönüşen hayatını konu alan 'Daha 17' 24. bölümü ile ekranlardaydı...",
+     "published": "2026-11-08T21:37:00.000Z"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af0eb8aac182abf8dd1101d.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af0eb8aac182abf8dd1101d.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "d62e89134080",
    "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-sehzade-mustafa-itirafi-idam-sahnesinden-sonra-yasadiklarini-anlatti-p377284",
@@ -3776,57 +3818,6 @@
    }
   },
   {
-   "id": "6ef99cca3658",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/yesim-gulun-aci-gunu-hayat-arkadasini-kaybetti-43369081",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Yeşim Gül'ün acı günü... Hayat arkadaşını kaybetti",
-   "snippet": "Oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar hayatını kaybetti.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6aeebf2933682fc5418a849f.jpg",
-   "video": null,
-   "published": "2026-11-07T06:03:00.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [
-     "yesim-gul"
-    ],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/yesim-gulun-aci-gunu-hayat-arkadasini-kaybetti-43369081",
-     "title": "Yeşim Gül'ün acı günü... Hayat arkadaşını kaybetti",
-     "snippet": "Oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar hayatını kaybetti.",
-     "published": "2026-11-07T06:03:00.000Z"
-    },
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/yesim-gul-hayat-arkadasini-kaybetti-yagmur-yukselden-duygulandiran-taziye-mesaji-7696374",
-     "title": "Yeşim Gül hayat arkadaşını kaybetti! Yağmur Yüksel'den duygulandıran taziye mesajı",
-     "snippet": "Oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar hayatını kaybetti. Gül'ün meslektaşı Yağmur Yüksel, sosyal medya hesabından duygu yüklü bir taziye mesajı paylaştı.",
-     "published": "2026-11-07T16:53:19.000Z"
-    }
-   ],
-   "mergedIds": [
-    "351543fa80e7"
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6aeebf2933682fc5418a849f.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6aeebf2933682fc5418a849f.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "38f0e678d474",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yillarin-ruzgari-esip-gecti-sinemanin-cinari-devrilmedi-calismak-beni-hayatta-tutuyor-88-yasinda-hala-film-setlerinde-43367901",
    "source": "hurriyet-kelebek",
@@ -7295,7 +7286,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/otelde-pijamali-kizlar-gecesi-43367698",
      "title": "Otelde pijamalı kızlar gecesi",
      "snippet": "ABD’li ünlü realite şov yıldızı Kim Kardashian (46) ve Hollywood yıldızı Jennifer Lawrence (36), New York sokaklarında pijamayla görüntülendi.",
-     "published": "2026-11-06T04:00:00.000Z"
+     "published": "2026-11-06T04:00:00.000Z",
+     "titleFa": "شب دخترانه با لباس خواب در هتل"
     }
    ],
    "images": [
@@ -7306,7 +7298,14 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تصویربرداری از کیم کارداشیان و جنیفر لارنس با لباس خواب در خیابان‌های نیویورک",
+   "summaryFa": "کیم کارداشیان و جنیفر لارنس در خیابان‌های نیویورک با لباس خواب دیده شدند.",
+   "bodyFa": [
+    "بر اساس گزارش‌های منتشر شده، کیم کارداشیان، ستاره رئالیتی شو آمریکایی، به همراه جنیفر لارنس، ستاره هالیوود، در خیابان‌های شهر نیویورک با لباس خواب مشاهده و تصویربرداری شدند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b9d6752405dd",
@@ -7472,7 +7471,7 @@
      "title": "Gökhan Keser aşkını ilan etti! İşte yeni sevgilisiyle ilk karesi",
      "snippet": "Şarkıcı ve oyuncu Gökhan Keser, sosyal medyadan yaptığı sürpriz paylaşımla yeni aşkını resmen duyurdu. Ünlü isim, Bade isimli sevgilisiyle romantik karesini 'Bazı hikâyeler hiç beklemediğin anda başlar' notuyla Instagram'dan paylaştı.",
      "published": "2026-11-05T18:00:44.000Z",
-     "titleFa": "گوخان کسر عشق خود را اعلام کرد! این هم اولین عکس با پارتنر جدیدش"
+     "titleFa": "گوخان کسر عشق خود را اعلام کرد! این هم اولین عکس با معشوقه جدیدش"
     },
     {
      "source": "sabah-magazin",
@@ -7480,7 +7479,8 @@
      "url": "https://www.sabah.com.tr/magazin/hic-beklemedigin-anda-gokhan-keser-askini-ilan-etti-iste-guzel-sevgilisiyle-ilk-romantik-kare-7696166",
      "title": "\"Hiç beklemediğin anda...\" Gökhan Keser aşkını ilan etti: İşte güzel sevgilisiyle ilk romantik kare!",
      "snippet": "Yakışıklı oyuncu ve şarkıcı Gökhan Keser, uzun süren yalnızlığına son verdi. Kalbinin kapılarını yeniden aralayan 39 yaşındaki ünlü isim, sevgilisiyle ilk kez romantik bir kare paylaşarak ilişkisini resmi... Devamı için tıklayınız",
-     "published": "2026-11-06T06:20:32.000Z"
+     "published": "2026-11-06T06:20:32.000Z",
+     "titleFa": "«در زمانی که اصلاً انتظارش را نداری...» گوخان کسر عشق خود را اعلام کرد: این هم اولین عکس رمانتیک با معشوق زیبایش!"
     }
    ],
    "images": [
@@ -7492,18 +7492,40 @@
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
    "mediaDone": true,
-   "titleFa": "گوخان کسر از رابطه عاشقانه جدید خود رونمایی کرد",
-   "summaryFa": "گوخان کسر، خواننده و بازیگر، با انتشار عکسی در شبکه‌های اجتماعی رابطه جدید خود را به طور رسمی اعلام کرد. او تصویر رمانتیک خود در کنار فردی به نام باده را به اشتراک گذاشت.",
+   "titleFa": "گوکهان کسر رابطه جدید خود را اعلام کرد",
+   "summaryFa": "گوخان کسر، خواننده و بازیگر، با انتشار عکسی در اینستاگرام رابطه جدید خود را رسماً اعلام کرد.",
    "bodyFa": [
-    "گوخان کسر، خواننده و بازیگر شناخته‌شده، با انتشار یک پست غافلگیرکننده در صفحه اجتماعی خود، خبر از شروع رابطه عاشقانه تازه‌ای داد و این موضوع را به طور رسمی اعلام کرد.",
-    "این چهره مشهور تصویری رمانتیک و دو نفره در کنار دختری به نام «باده» را در اینستاگرام منتشر کرد و برای آن از جمله «بعضی از داستان‌ها در همان لحظه‌ای که انتظارش را نداری آغاز می‌شوند» استفاده کرد."
+    "گوخان کسر، خواننده و بازیگر شناخته‌شده، با انتشار پستی غافلگیرکننده در شبکه‌های اجتماعی، رابطه عاشقانه جدید خود را به طور رسمی اعلام کرد. او تصویری رمانتیک از خود و نامزدش را با جمله «برخی داستان‌ها دقیقاً زمانی شروع می‌شوند که اصلاً انتظارش را نداری» در اینستاگرام به اشتراک گذاشت."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "7cedf6acfb40"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "گوخان کسر رابطه جدید خود را در شبکه‌های اجتماعی اعلام کرده است.",
+     "او یک عکس رمانتیک با جمله مشابه منتشر کرده است."
+    ],
+    "differ": [
+     {
+      "topic": "سن و جزئیات شخصی",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "به سن یا جزئیات زندگی شخصی او اشاره‌ای نکرده است."
+       },
+       {
+        "source": "sabah-magazin",
+        "text": "به سن ۳۹ سالگی او و پایان یافتن دوره طولانی تنهایی‌اش اشاره کرده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": [
+     "نام معشوقه او در یک منبع «باده» ذکر شده است اما منبع دیگر نامی نبرده است."
+    ]
+   }
   },
   {
    "id": "a631b6e084d6",
@@ -7577,7 +7599,8 @@
      "url": "https://www.sabah.com.tr/magazin/emre-altugdan-efsane-sarkilar-7695804",
      "title": "Emre Altuğ’dan efsane şarkılar",
      "snippet": "Ünlü şarkıcı Emre Altuğ, Efsane albümünün tamamını bugün müzikseverlerle buluşturdu. 16 farklı eser ve 5 özel alternatif versiyon olmak üzere toplam 21 kayıttan oluşan albümün prodüktörlüğünü Volga Tamöz... Devamı için tıklayınız",
-     "published": "2026-11-05T17:00:47.000Z"
+     "published": "2026-11-05T17:00:47.000Z",
+     "titleFa": "آهنگ‌های افسانه‌ای از امره آلتوغ"
     }
    ],
    "images": [
@@ -7588,36 +7611,16 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
    ],
-   "mediaDone": true
-  },
-  {
-   "id": "7870d3ca0e82",
-   "url": "https://www.sabah.com.tr/magazin/iki-kardes-kaza-gecirdi-7695794",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "İki kardeş kaza geçırdi",
-   "snippet": "Sanat dünyasının ünlü isimlerinden Sinan Özen, yakınlarını ve hayranlarını korkuttu! Ünlü sanatçı, Tokat konserinin ardından İstanbul'a dönüş yolunda trafik kazası geçirdi. Sakarya gişelerinde... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/182140/1200/675/0/11/517/302?u=https://isbh.tmgrup.com.tr/sbh/2026/11/05/iki-kardes-kaza-gecirdi-1793897120395.jpeg",
-   "video": null,
-   "published": "2026-11-05T16:45:27.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/iki-kardes-kaza-gecirdi-7695794",
-     "title": "İki kardeş kaza geçırdi",
-     "snippet": "Sanat dünyasının ünlü isimlerinden Sinan Özen, yakınlarını ve hayranlarını korkuttu! Ünlü sanatçı, Tokat konserinin ardından İstanbul'a dönüş yolunda trafik kazası geçirdi. Sakarya gişelerinde... Devamı için tıklayınız",
-     "published": "2026-11-05T16:45:27.000Z"
-    }
-   ]
+   "mediaDone": true,
+   "titleFa": "انتشار آلبوم کامل «افسانه» از امره آلتوغ",
+   "summaryFa": "امره آلتوغ خواننده معروف، آلبوم کامل خود به نام «افسانه» را امروز منتشر کرد. این آلبوم شامل ۲۱ اثر مختلف با تهیه‌کنندگی ولگا تاموز و سککین اوزر است.",
+   "bodyFa": [
+    "امره آلتوغ، خواننده سرشناس، آلبوم کامل خود تحت عنوان «افسانه» را امروز در دسترس علاقمندان به موسیقی قرار داد.",
+    "این آلبوم شامل ۱۶ اثر متفاوت و ۵ نسخه جایگزین ویژه است که در مجموع ۲۱ رکورد را در بر می‌گیرد و تهیه‌کنندگی آن را ولگا تاموز و سککین اوزر بر عهده داشته‌اند.",
+    "در این مجموعه قطعاتی مانند «سیاه»، «داغیلدیم بن» و «سرهوش» به همراه همکاری‌هایی از جمله ایپیو جای گرفته‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5fbf7048afc3",
@@ -7697,7 +7700,8 @@
      "url": "https://www.sozcu.com.tr/pinar-deniz-in-yas-sorusu-soran-muhabire-verdigi-yanit-dikkat-cekti-p376406",
      "title": "Pınar Deniz'in yaş sorusu soran muhabire verdiği yanıt dikkat çekti",
      "snippet": "“Yargı” dizisinde canlandırdığı Ceylin karakteriyle tanınan oyuncu Pınar Deniz, 33. yaşını kutladı. Doğum günü sonrası b...",
-     "published": "2026-11-05T14:54:18.000Z"
+     "published": "2026-11-05T14:54:18.000Z",
+     "titleFa": "پاسخ جالب Pınar Deniz به خبرنگاری که درباره سنش پرسیده بود توجه‌ها را به خود جلب کرد"
     }
    ],
    "images": [
@@ -7708,7 +7712,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kansertedavisigorenuzmancavusmucahityildizhayatinikaybettikapak2e05cb39e7188d18jpg-ofTglTIn6E_OrC3aJuZpjw.jpg?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6aecc0a2f4678357b8b7dd76png-naKRUfuUlEKOLqjCnbmfGA.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "پاسخ جالب پınar دنیز به خبرنگاری که درباره سنش پرسیده بود",
+   "summaryFa": "بازیگر سریال «Yargı» یعنی پınar دنیز ۳۳مین سالگرد تولد خود را جشن گرفت. او پس از مراسم تولد به گفتگو با خبرنگاران پرداخت.",
+   "bodyFa": [
+    "پınar دنیز، بازیگری که با نقش جیلین در سریال معروف «Yargı» شناخته می‌شود، اخیراً وارد ۳۳ سالگی شد و تولد خود را جشن گرفت.",
+    "این بازیگر شناخته‌شده پس از مراسم تولد خود با خبرنگاران و اهالی رسانه به گفتگو پرداخت و پاسخ او به سوالی درباره ترس از پیر شدن، توجه حاضران و رسانه‌ها را به خود جلب کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "76f313f718d1",
@@ -8215,35 +8227,6 @@
    "mediaDone": true
   },
   {
-   "id": "0913362ef568",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/usta-oyuncu-33-yasindaki-oglunu-kendi-elleriyle-topraga-vermisti-umudumuzu-kaybetmedik-ama-basaramadik-43366577",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Usta oyuncu 33 yaşındaki oğlunu kendi elleriyle toprağa vermişti… ‘Umudumuzu kaybetmedik ama başaramadık’",
-   "snippet": "Upuzun kariyeri boyunca hem sinema tarihine geçen filmlerde oynadı hem de çok izlenen televizyon dizilerinde başrol oldu. Ömrünün en kötü günlerini yaşarken zor bir karar verip tüm kariyerini hiç gözünü kırpmadan çöpe atmaktan geri durmadı…",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6aec2f8833682fc5418a7911.jpg",
-   "video": null,
-   "published": "2026-11-05T10:29:51.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/usta-oyuncu-33-yasindaki-oglunu-kendi-elleriyle-topraga-vermisti-umudumuzu-kaybetmedik-ama-basaramadik-43366577",
-     "title": "Usta oyuncu 33 yaşındaki oğlunu kendi elleriyle toprağa vermişti… ‘Umudumuzu kaybetmedik ama başaramadık’",
-     "snippet": "Upuzun kariyeri boyunca hem sinema tarihine geçen filmlerde oynadı hem de çok izlenen televizyon dizilerinde başrol oldu. Ömrünün en kötü günlerini yaşarken zor bir karar verip tüm kariyerini hiç gözünü kırpmadan çöpe atmaktan geri durmadı…",
-     "published": "2026-11-05T10:29:51.000Z"
-    }
-   ]
-  },
-  {
    "id": "f7c4a0cb6d06",
    "url": "https://www.hurriyet.com.tr/kelebek/hayat/duyurmak-icin-zaman-geldi-biz-evlendik-43366942",
    "source": "hurriyet-kelebek",
@@ -8462,35 +8445,6 @@
    },
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "e3940ad4f9f7",
-   "url": "https://www.milliyet.com.tr/magazin/unlu-sarkici-sinan-ozen-kaza-yapti-iste-saglik-durumu-7694664",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "SON DAKİKA: Kaza yapan Sinan Özen'in sağlık durumu nasıl?",
-   "snippet": "Tokat'ta 3 Kasım'da sahne alan ünlü şarkıcıSinan Özen, konserin ardından İstanbul'a dönmek üzere yola çıktı. KONSER DÖNÜŞÜ KAZA Özen'in içinde bulunduğu araç, otoyolda Sakarya gişelerinde kazaya karıştı. Sanatçının menajerliğini de yapan kardeşi Hızır Özen, kazayı sosyal medya hesabından yaptığı paylaşımla duyurdu. Altı film şirketine telif davası 'ÇOK ŞÜKÜR İYİYİZ' Kaza sonrası araçların fotoğraflarını paylaşan Hızır Özen, \"Tokat dönüşü Sakarya gişelerinde yaşadığımız kaza. Çok şükür iyiyiz\" if",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aec2725e672900e673f8759.jpg",
-   "video": null,
-   "published": "2026-11-05T08:56:26.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/unlu-sarkici-sinan-ozen-kaza-yapti-iste-saglik-durumu-7694664",
-     "title": "SON DAKİKA: Kaza yapan Sinan Özen'in sağlık durumu nasıl?",
-     "snippet": "Tokat'ta 3 Kasım'da sahne alan ünlü şarkıcıSinan Özen, konserin ardından İstanbul'a dönmek üzere yola çıktı. KONSER DÖNÜŞÜ KAZA Özen'in içinde bulunduğu araç, otoyolda Sakarya gişelerinde kazaya karıştı. Sanatçının menajerliğini de yapan kardeşi Hızır Özen, kazayı sosyal medya hesabından yaptığı pay",
-     "published": "2026-11-05T08:56:26.000Z"
-    }
-   ]
   },
   {
    "id": "e0397373ef56",
@@ -8745,65 +8699,6 @@
    "aiTries": 1
   },
   {
-   "id": "403f1fb84d73",
-   "url": "https://www.sozcu.com.tr/unlu-sarkici-sinan-ozen-kaza-yapti-yaninda-kardesi-de-vardi-p376225",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ünlü şarkıcı Sinan Özen kaza yaptı: Yanında kardeşi de vardı",
-   "snippet": "Sinan Özen'in Tokat konseri dönüşünde yaşadığı kaza sevenlerini korkuttu. Sakarya gişelerinde kazaya karışan sanatçı ve ...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sinanozenkazajpg-uq1bnVxokECjCH98ohBC-w.jpg",
-   "video": null,
-   "published": "2026-11-05T07:17:09.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/unlu-sarkici-sinan-ozen-kaza-yapti-yaninda-kardesi-de-vardi-p376225",
-     "title": "Ünlü şarkıcı Sinan Özen kaza yaptı: Yanında kardeşi de vardı",
-     "snippet": "Sinan Özen'in Tokat konseri dönüşünde yaşadığı kaza sevenlerini korkuttu. Sakarya gişelerinde kazaya karışan sanatçı ve ...",
-     "published": "2026-11-05T07:17:09.000Z"
-    }
-   ]
-  },
-  {
-   "id": "28180df70e11",
-   "url": "https://www.haberturk.com/magazin/sinan-ozen-trafik-kazasi-gecirdi-3925051",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Trafik kazası geçirdi",
-   "snippet": "Tokat'ta verdiği konserin ardından İstanbul'a dönmek üzere yola çıkan Sinan Özen, Sakarya gişelerinde trafik kazası geçirdi. Özen'in sağlık durumunun iyi olduğu öğrenildi",
-   "image": "https://im.haberturk.com/l/2026/11/05/ver1793861882/3925051/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-05T06:58:24.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/sinan-ozen-trafik-kazasi-gecirdi-3925051",
-     "title": "Trafik kazası geçirdi",
-     "snippet": "Tokat'ta verdiği konserin ardından İstanbul'a dönmek üzere yola çıkan Sinan Özen, Sakarya gişelerinde trafik kazası geçirdi. Özen'in sağlık durumunun iyi olduğu öğrenildi",
-     "published": "2026-11-05T06:58:24.000Z"
-    }
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "2bc7a6a4cca1",
    "url": "https://www.sabah.com.tr/magazin/dogallik-daha-iyi-miss-turkey-2025-birincisi-sila-saraydemirden-estetik-itirafi-7695419",
    "source": "sabah-magazin",
@@ -8828,7 +8723,8 @@
      "url": "https://www.sabah.com.tr/magazin/dogallik-daha-iyi-miss-turkey-2025-birincisi-sila-saraydemirden-estetik-itirafi-7695419",
      "title": "\"Doğallık daha iyi...\" Miss Turkey 2025 birincisi Sıla Saraydemir'den estetik itirafı!",
      "snippet": "Miss Turkey birincisi tescilli güzel Sıla Saraydemir, oyuncuların estetik tercihleri ve modellik sektörünün günümüzdeki değişimi hakkında samimi açıklamalarda bulundu. Saraydemir’in dikkat çeken açıklamaları... Devamı için tıklayınız",
-     "published": "2026-11-05T06:53:44.000Z"
+     "published": "2026-11-05T06:53:44.000Z",
+     "titleFa": "«طبیعی بودن بهتر است...» اعتراف درباره عمل زیبایی از Sıla Saraydemir برنده Miss Turkey 2025!"
     }
    ],
    "images": [
@@ -8839,7 +8735,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اعترافات درباره عمل های زیبایی از زبان Sıla Saraydemir برنده Miss Turkey 2025",
+   "summaryFa": "برنده مسابقات زیبایی ترکیه اظهارات صمیمانه‌ای درباره عمل‌های زیبایی بازیگران و تحولات صنعت مدلینگ مطرح کرد. این صحبت‌ها بازتاب زیادی در اخبار مجلات داشت.",
+   "bodyFa": [
+    "sıla saraydemir، برنده مسابقات miss turkey، اخیراً اظهارات صمیمانه‌ای را درباره انتخاب‌های مربوط به عمل‌های زیبایی توسط بازیگران و همچنین تغییرات کنونی در صنعت مدلینگ بیان کرده است.",
+    "این صحبت‌های او که توجه زیادی را به خود جلب کرده است، در میان اخبار و حاشیه‌های مربوط به چهره‌ها انعکاس یافته و بحث‌هایی را به همراه داشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f6e49cf7cc41",
@@ -8969,22 +8873,53 @@
      "url": "https://www.sabah.com.tr/magazin/surpriz-nikah-7695792",
      "title": "Sürpriz nikah",
      "snippet": "OYUNCU çift Yılmaz Bayraktar ve Sıla Özlem Önemli, 24 Eylül'de sessiz sedasız evlendiklerini açıkladı. Eminönü ve Galata Köprüsü'nde çekilen romantik nikâh karelerini sosyal medyada paylaşan çift, hayranlarına... Devamı için tıklayınız",
-     "published": "2026-11-05T16:45:06.000Z"
+     "published": "2026-11-05T16:45:06.000Z",
+     "titleFa": "عروسی غافلگیرکننده"
     }
    ],
    "mediaDone": true,
-   "titleFa": "ازwواج غافلگیرکننده Yılmaz Bayraktar و Sıla Özlem Önemli",
-   "summaryFa": "بازیگران Yılmaz Bayraktar و Sıla Özlem Önemli در ماه سپتامبر با یکدیگر ازدواج کردند و این خبر را در شبکه‌های اجتماعی به اشتراک گذاشتند.",
+   "titleFa": "ازدواج غافلگیرکننده ییلماز بایراکتار و سیلا اوزلم اونه‌ملی",
+   "summaryFa": "بازیگر مشهور ییلماز بایراکتار و سیلا اوزلم اونه‌ملی با انتشار تصاویری در شبکه‌های اجتماعی خبر از ازدواج خود دادند. این زوج در تاریخ ۲۴ سپتامبر طی مراسمی ساده با یکدیگر پیمان زناشویی بستند.",
    "bodyFa": [
-    "ییلماز بایرکتار و سیلا اوزلم اونه‌ملی، دو بازیگر شناخته‌شده، خبر ازدواج خود را به طور غافلگیرکننده‌ای با طرفدارانشان در میان گذاشتند. این زوج که در آثار مختلفی به ایفای نقش پرداخته‌اند، اعلام کردند که در تاریخ ۲۴ سپتامبر طی مراسمی ساده با یکدیگر پیمان زناشویی بسته‌اند.",
-    "این دو هنرمند با انتشار تصاویری در صفحات مجازی خود، احساس خوشبختی‌شان را ابراز کرده و خطاب به مخاطبان نوشتند که مدت‌هاست تشکیل خانواده داده‌اند و اکنون زمان اعلام آن فرا رسیده است."
+    "ییلماز بایراکتار، بازیگر سریال‌ها و فیلم‌هایی چون «وطنم تویی» و «رنگ پیروزی»، به همراه سیلا اوزلم اونه‌ملی، دیگر بازیگر سینما و تلویزیون، خبر ازدواج خود را به طور رسمی اعلام کردند. این زوج با انتشار تصاویری در حساب‌های کاربری خود در شبکه‌های اجتماعی، این خبر غافلگیرکننده را با طرفدارانشان به اشتراک گذاشتند.",
+    "بر اساس اطلاعات منتشر شده، این زوج در تاریخ ۲۴ سپتامبر مراسم ازدواج ساده‌ای را برگزار کرده‌اند. آن‌ها در کنار تصاویر خود این جمله را نوشت مدت‌هاست که یک خانواده شده‌ایم و اکنون زمان آن رسیده است که این موضوع را به شما اعلام کنیم."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "0ca3b2be353a"
    ],
-   "regen": true
+   "images": [
+    "https://iasbh.tmgrup.com.tr/815f49/1200/675/0/0/454/256?u=https://isbh.tmgrup.com.tr/sbh/2026/11/05/surpriz-nikah-1793897101321.jpeg",
+    "https://iasbh.tmgrup.com.tr/c913ba/752/395/0/0/454/237?u=https://isbh.tmgrup.com.tr/sbh/2026/11/05/surpriz-nikah-1793897101321.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "comparison": {
+    "agree": [
+     "زوج بازیگر ییلماز بایراکتار و سیلا اوزلم اونه‌ملی ازدواج کرده‌اند.",
+     "ازدواج در تاریخ ۲۴ سپتامبر صورت گرفته است.",
+     "این خبر از طریق شبکه‌های اجتماعی اعلام شده است."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات تصاویر و لباس",
+      "views": [
+       {
+        "source": "haberturk-magazin",
+        "text": "به انتشار تصاویر ازدواج اشاره شده اما جزئیاتی از محل عکس‌ها ذکر نشده است."
+       },
+       {
+        "source": "sabah-magazin",
+        "text": "به ثبت عکس‌های رمانتیک در امینونو و پل گالاتا و لباس سفید ساده عروس اشاره شده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   }
   },
   {
    "id": "78f390d83951",
