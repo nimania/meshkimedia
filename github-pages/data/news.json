@@ -13,7 +13,7 @@
    "video": null,
    "published": "2026-11-09T16:21:10.000Z",
    "scope": "linked",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [
      "sevdan-bir-ates"
@@ -30,7 +30,8 @@
      "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-on-izleme-3926088",
      "title": "\"Leyla hiçbir yere gitmeyecek!\"",
      "snippet": "SHOW TV'nin reyting rekortmeni dizisi 'Sevdan Bir Ateş'in yeni bölümüne ait bir ön izleme daha yayınlandı",
-     "published": "2026-11-09T16:21:10.000Z"
+     "published": "2026-11-09T16:21:10.000Z",
+     "titleFa": "«لیلا هیچ جا نخواهد رفت!»"
     }
    ],
    "videos": [
@@ -39,7 +40,15 @@
      "id": "Ur7KCUhLuDo"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتشار دومین پیش‌نمایش از قسمت دهم سریال «عشقت یک آتش است»",
+   "summaryFa": "شبکه شو تی‌وی دومین پیش‌نمایش قسمت دهم سریال «عشقت یک آتش است» را منتشر کرد. این سریال چهارشنبه شب پخش می‌شود.",
+   "bodyFa": [
+    "شبکه شو تی‌وی دومین ویدئوی پیش‌نمایش مربوط به قسمت دهم سریال محبوب و پرمخاطب «عشقت یک آتش است» محصول شرکت سی‌ان‌پی فیلم را برای مخاطبان به نمایش گذاشت.",
+    "این سریال قرار است با قسمت جدید خود در روز چهارشنبه ساعت ۲۰:۰۰ از شبکه شو تی‌وی روی آنتن برود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b70a5c924c76",
@@ -337,7 +346,16 @@
      "snippet": "HABER MERKEZİ- Kanal D’nin izleyiciyi ekran başına kilitleyen dizisi Uzak Şehir, yine nefes kesecek bir bölümle çok konuşulacak. Yeni tanıtımda Cihan, Enver’e diski nasıl bulduğunun hesabını soruyor. Enver’in yakasına yapışan Cihan, Enver’in parmağından çıkardığı yüzüğü fırlatıp atarken arkasındaki ",
      "published": "2026-11-09T11:24:31.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af1a91b0e691fff90b21f63.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af1a91b0e691fff90b21f63.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "47f96a52dae8",
