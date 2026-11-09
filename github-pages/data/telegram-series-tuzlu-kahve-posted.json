@@ -124,9 +124,12 @@
     "editorial:dubbed-11:0",
     "slot:2026-11-08:0",
     "editorial:dubbed-18:0",
-    "slot:2026-11-09:0"
+    "slot:2026-11-09:0",
+    "engagement:poll:discussion",
+    "engagement-day:2026-11-09",
+    "slot:2026-11-09:3"
   ],
-  "updated": "2026-11-09T06:44:28.066Z",
+  "updated": "2026-11-09T17:18:04.233Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
@@ -174,7 +177,8 @@
     "actor:bugra-gulsoy": "2026-10-31",
     "poll:trust": "2026-10-29",
     "poll:choice": "2026-11-02",
-    "poll:focus": "2026-11-05"
+    "poll:focus": "2026-11-05",
+    "poll:discussion": "2026-11-09"
   },
   "engagementReceipts": {
     "engagement:quiz:actor:nebahat-cehre": {
@@ -239,6 +243,13 @@
       "url": "https://t.me/ghahvehshoor/52",
       "poll_id": "6014715013552408346",
       "date": "2026-11-07"
+    },
+    "engagement:poll:discussion": {
+      "channel": "@ghahvehshoor",
+      "message_id": 55,
+      "url": "https://t.me/ghahvehshoor/55",
+      "poll_id": "6021554053186585860",
+      "date": "2026-11-09"
     }
   }
 }
