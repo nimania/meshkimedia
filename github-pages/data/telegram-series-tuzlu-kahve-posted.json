@@ -122,9 +122,11 @@
     "engagement-day:2026-11-07",
     "slot:2026-11-07:3",
     "editorial:dubbed-11:0",
-    "slot:2026-11-08:0"
+    "slot:2026-11-08:0",
+    "editorial:dubbed-18:0",
+    "slot:2026-11-09:0"
   ],
-  "updated": "2026-11-08T07:31:21.547Z",
+  "updated": "2026-11-09T06:44:28.066Z",
   "youtubeSources": {},
   "contentHashes": [
     "e16c5e5e3da6c81cf43d9e98",
@@ -157,7 +159,8 @@
     "442bbcee8a9473efa9a186d7",
     "10c3f4ddb7dada4d7dbdb95b",
     "f5e7867e25430b43c1006f69",
-    "353c81ff8de3d7be29561606"
+    "353c81ff8de3d7be29561606",
+    "f4a273e5742fe9ebc74bf7bb"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-06",
@@ -167,7 +170,7 @@
     "actor:eda-ece": "2026-11-07",
     "poll:family": "2026-10-15",
     "episode:5": "2026-11-05",
-    "episode:6": "2026-11-06",
+    "episode:6": "2026-11-09",
     "actor:bugra-gulsoy": "2026-10-31",
     "poll:trust": "2026-10-29",
     "poll:choice": "2026-11-02",
