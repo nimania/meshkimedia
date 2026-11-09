@@ -1,6 +1,794 @@
 {
- "updated": "2026-11-09T06:41:42.603Z",
+ "updated": "2026-11-09T17:14:50.291Z",
  "items": [
+  {
+   "id": "47aececc3652",
+   "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-on-izleme-3926088",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Leyla hiçbir yere gitmeyecek!\"",
+   "snippet": "SHOW TV'nin reyting rekortmeni dizisi 'Sevdan Bir Ateş'in yeni bölümüne ait bir ön izleme daha yayınlandı",
+   "image": "https://im.haberturk.com/l/2026/11/09/ver1794241250/3926088/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-09T16:21:10.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "sevdan-bir-ates"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-on-izleme-3926088",
+     "title": "\"Leyla hiçbir yere gitmeyecek!\"",
+     "snippet": "SHOW TV'nin reyting rekortmeni dizisi 'Sevdan Bir Ateş'in yeni bölümüne ait bir ön izleme daha yayınlandı",
+     "published": "2026-11-09T16:21:10.000Z"
+    }
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "Ur7KCUhLuDo"
+    }
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "b70a5c924c76",
+   "url": "https://www.sozcu.com.tr/cesur-sahneler-artinca-elestirmenlerden-tepki-yagdi-p379642",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Cesur sahneler artınca eleştirmenlerden tepki yağdı",
+   "snippet": "Bir platformda yayınlanan Rivals adlı dizi, ikinci sezonunun yeni bölümleriyle izleyici karşısına çıkmaya hazırlanıyor. ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/cesurjpg-JemtZ3XsTUeDBC0EvZWJmA.jpg",
+   "video": null,
+   "published": "2026-11-09T15:56:09.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/cesur-sahneler-artinca-elestirmenlerden-tepki-yagdi-p379642",
+     "title": "Cesur sahneler artınca eleştirmenlerden tepki yağdı",
+     "snippet": "Bir platformda yayınlanan Rivals adlı dizi, ikinci sezonunun yeni bölümleriyle izleyici karşısına çıkmaya hazırlanıyor. ...",
+     "published": "2026-11-09T15:56:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": "ed10b9897e4a",
+   "url": "https://www.haberturk.com/magazin/gurkan-uygun-in-aci-gunu-3925947",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Gürkan Uygun'un acı günü",
+   "snippet": "Ünlü oyuncu Gürkan Uygun'un babası Bahattin Uygun 86 yaşında vefat etti",
+   "image": "https://im.haberturk.com/l/2026/11/09/ver1794232326/3925947/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-09T14:26:38.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/gurkan-uygun-in-aci-gunu-3925947",
+     "title": "Gürkan Uygun'un acı günü",
+     "snippet": "Ünlü oyuncu Gürkan Uygun'un babası Bahattin Uygun 86 yaşında vefat etti",
+     "published": "2026-11-09T14:26:38.000Z"
+    },
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/gurkan-uygun-un-aci-gunu-babasini-son-yolculuguna-ugurladi-p379637",
+     "title": "Gürkan Uygun'un acı günü! Babasını son yolculuğuna uğurladı",
+     "snippet": "Kurtlar Vadisi dizisinde canlandırdığı Memati karakteriyle tanınan oyuncu Gürkan Uygun’un 86 yaşında hayatını kaybeden b...",
+     "published": "2026-11-09T15:32:19.000Z"
+    }
+   ],
+   "mergedIds": [
+    "4ffa0435863c"
+   ]
+  },
+  {
+   "id": "b7f96420f782",
+   "url": "https://www.sabah.com.tr/magazin/dunyanin-gozu-turkiyede-cop31e-katilan-unlulerden-dikkat-ceken-aciklamalar-7698240",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Dünyanın gözü Türkiye'de! COP31'e katılan ünlülerden dikkat çeken açıklamalar",
+   "snippet": "Dünyanın iklim krizine karşı çözüm aradığı COP31 zirvesi, Türkiye'nin ev sahipliğinde Antalya'da başladı. Organizasyona katılan ünlü oyuncular, iklim değişikliğiyle mücadelede artık sözlerin değil somut... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/8544db/1200/675/0/65/2048/1217?u=https://isbh.tmgrup.com.tr/sbh/2026/11/09/unlu-oyuncular-iklim-zirvesi-cop31de-bulustu-dunyanin-gelecegi-icin-tek-bir-sey-istediler-1794231599025.jpg",
+   "video": null,
+   "published": "2026-11-09T13:50:15.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/dunyanin-gozu-turkiyede-cop31e-katilan-unlulerden-dikkat-ceken-aciklamalar-7698240",
+     "title": "Dünyanın gözü Türkiye'de! COP31'e katılan ünlülerden dikkat çeken açıklamalar",
+     "snippet": "Dünyanın iklim krizine karşı çözüm aradığı COP31 zirvesi, Türkiye'nin ev sahipliğinde Antalya'da başladı. Organizasyona katılan ünlü oyuncular, iklim değişikliğiyle mücadelede artık sözlerin değil somut... Devamı için tıklayınız",
+     "published": "2026-11-09T13:50:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": "e1d8d9039a6f",
+   "url": "https://www.haberturk.com/magazin/foto/olivia-culpo-5-haftalik-oglunu-maca-goturdu-tribunde-kucuk-bir-taraftar-daha-3926040",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Ben havalı bir anneyim\"",
+   "snippet": "İki çocuk annesi Olivia Culpo, bir yaşındaki kızı ve henüz beş aylık oğluyla eşinin maçına gitti. \"Tribünde küçük bir taraftar daha\" diye bebeğinin görüntülerini paylaşan ünlü model, \"Ben sıradan bir anne değilim, havalı bir anneyim\" mesajını verdi",
+   "image": "https://im.haberturk.com/l/2026/11/09/ver1794231111/3926040/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-09T13:32:06.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/olivia-culpo-5-haftalik-oglunu-maca-goturdu-tribunde-kucuk-bir-taraftar-daha-3926040",
+     "title": "\"Ben havalı bir anneyim\"",
+     "snippet": "İki çocuk annesi Olivia Culpo, bir yaşındaki kızı ve henüz beş aylık oğluyla eşinin maçına gitti. \"Tribünde küçük bir taraftar daha\" diye bebeğinin görüntülerini paylaşan ünlü model, \"Ben sıradan bir anne değilim, havalı bir anneyim\" mesajını verdi",
+     "published": "2026-11-09T13:32:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": "1928aa264653",
+   "url": "https://www.milliyet.com.tr/magazin/avrupa-yakasi-ve-karadayida-rol-almisti-unlu-oyuncu-safak-karaliye-veda-o-benimle-yasayacak-7697389",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Avrupa Yakası ve Karadayı'da rol almıştı! Ünlü oyuncu Şafak Karali'ye veda: O benimle yaşayacak",
+   "snippet": "Kocaeli Şehir Tiyatroları'nın 1997 yılındaki kuruluş kadrosunda yer alan Şafak Karali için Süleyman Demirel Kültür Merkezi'nde (SDKM) anma töreni düzenlendi. \"Avrupa Yakası\" ve \"Karadayı\" dizileri ile \"Bir Zamanlar Anadolu'da\" filminde de rol alan Karali için düzenlenen törene eski İçişleri Bakan Yardımcısı Münir Karaloğlu, Kocaeli Büyükşehir Belediye Başkanı Tahir Büyükakın, tiyatronun kurucu oyuncularından Barış Falay ve Engin Benli ile Karali'nin ailesi, yakınları ve sanatçı dostları katıldı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af1abd50e691fff90b21f73.jpg",
+   "video": null,
+   "published": "2026-11-09T12:41:27.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/avrupa-yakasi-ve-karadayida-rol-almisti-unlu-oyuncu-safak-karaliye-veda-o-benimle-yasayacak-7697389",
+     "title": "Avrupa Yakası ve Karadayı'da rol almıştı! Ünlü oyuncu Şafak Karali'ye veda: O benimle yaşayacak",
+     "snippet": "Kocaeli Şehir Tiyatroları'nın 1997 yılındaki kuruluş kadrosunda yer alan Şafak Karali için Süleyman Demirel Kültür Merkezi'nde (SDKM) anma töreni düzenlendi. \"Avrupa Yakası\" ve \"Karadayı\" dizileri ile \"Bir Zamanlar Anadolu'da\" filminde de rol alan Karali için düzenlenen törene eski İçişleri Bakan Ya",
+     "published": "2026-11-09T12:41:27.000Z"
+    }
+   ]
+  },
+  {
+   "id": "5269b7d94f4c",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/bebegiyle-dondu-43371657",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Bebeğiyle döndü",
+   "snippet": "Oyuncu Feyyaz Şerifoğlu’yla evli olan ve geçen temmuz ayında ilk bebeği Defne Yaz’ı dünyaya getiren spiker Merve Dinçkol ekrana döndü.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af1bc633572349e3fc6f907.jpg",
+   "video": null,
+   "published": "2026-11-09T12:28:28.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "feyyaz-serifoglu"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/bebegiyle-dondu-43371657",
+     "title": "Bebeğiyle döndü",
+     "snippet": "Oyuncu Feyyaz Şerifoğlu’yla evli olan ve geçen temmuz ayında ilk bebeği Defne Yaz’ı dünyaya getiren spiker Merve Dinçkol ekrana döndü.",
+     "published": "2026-11-09T12:28:28.000Z"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af1bc633572349e3fc6f907.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af1bc633572349e3fc6f907.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "ff27e332ec05",
+   "url": "https://www.hurriyet.com.tr/kelebek/magazin/ozel-bir-kadinin-yuzu-kizardi-ne-gerek-vardi-simdi-bunu-hatirlatmaya-43371545",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Eski defterler yıllar sonra beklenmedik bir anda açıldı... 'Özel Bir Kadın'ın yüzü kızardı... 'Ne gerek vardı şimdi bunu hatırlatmaya!'",
+   "snippet": "Ünlülerin özel hayatlarında yaşadığı çalkantılı olayları anlatan anı kitapları her zaman büyük ilgi çeker...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af1b9b33572349e3fc6f8eb.jpg",
+   "video": null,
+   "published": "2026-11-09T12:26:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/ozel-bir-kadinin-yuzu-kizardi-ne-gerek-vardi-simdi-bunu-hatirlatmaya-43371545",
+     "title": "Eski defterler yıllar sonra beklenmedik bir anda açıldı... 'Özel Bir Kadın'ın yüzü kızardı... 'Ne gerek vardı şimdi bunu hatırlatmaya!'",
+     "snippet": "Ünlülerin özel hayatlarında yaşadığı çalkantılı olayları anlatan anı kitapları her zaman büyük ilgi çeker...",
+     "published": "2026-11-09T12:26:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "a777d87643d3",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/cemre-baysel-yeni-asklara-acigim-yuzunun-gozunun-guzel-olmasina-gerek-yok-kalbi-guzel-olsun-43371587",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Cemre Baysel: Yeni aşklara açığım! 'Yüzünün gözünün güzel olmasına gerek yok, kalbi güzel olsun'",
+   "snippet": "Milli yarış pilotu Cem Bölükbaşı’yla ilişkisi sona eren Cemre Baysel, kalbinin kapılarını aşka kapatmadı. “Yeni aşklara açığım” diyen güzel oyuncu, kriterlerini de açıkladı: “Merhametli olsun, kalbi güzel olsun, yanıma yakışsın.”",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af1b5e03572349e3fc6f8db.jpg",
+   "video": null,
+   "published": "2026-11-09T12:01:00.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "cemre-baysel"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/cemre-baysel-yeni-asklara-acigim-yuzunun-gozunun-guzel-olmasina-gerek-yok-kalbi-guzel-olsun-43371587",
+     "title": "Cemre Baysel: Yeni aşklara açığım! 'Yüzünün gözünün güzel olmasına gerek yok, kalbi güzel olsun'",
+     "snippet": "Milli yarış pilotu Cem Bölükbaşı’yla ilişkisi sona eren Cemre Baysel, kalbinin kapılarını aşka kapatmadı. “Yeni aşklara açığım” diyen güzel oyuncu, kriterlerini de açıkladı: “Merhametli olsun, kalbi güzel olsun, yanıma yakışsın.”",
+     "published": "2026-11-09T12:01:00.000Z"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af1b5e03572349e3fc6f8db.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af1b5e03572349e3fc6f8db.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "05d03251c58c",
+   "url": "https://www.milliyet.com.tr/magazin/uzak-sehirde-neler-olacak-7697372",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Uzak Şehir’de neler olacak?",
+   "snippet": "HABER MERKEZİ- Kanal D’nin izleyiciyi ekran başına kilitleyen dizisi Uzak Şehir, yine nefes kesecek bir bölümle çok konuşulacak. Yeni tanıtımda Cihan, Enver’e diski nasıl bulduğunun hesabını soruyor. Enver’in yakasına yapışan Cihan, Enver’in parmağından çıkardığı yüzüğü fırlatıp atarken arkasındaki kişiyi de çok yakında bulacağının mesajını veriyor. AyNA Yapım imzalı Uzak Şehir bu akşam saat 20.00’de Kanal D’de…",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af1a91b0e691fff90b21f63.jpg",
+   "video": null,
+   "published": "2026-11-09T11:24:31.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "uzak-sehir"
+    ],
+    "people": [],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/uzak-sehirde-neler-olacak-7697372",
+     "title": "Uzak Şehir’de neler olacak?",
+     "snippet": "HABER MERKEZİ- Kanal D’nin izleyiciyi ekran başına kilitleyen dizisi Uzak Şehir, yine nefes kesecek bir bölümle çok konuşulacak. Yeni tanıtımda Cihan, Enver’e diski nasıl bulduğunun hesabını soruyor. Enver’in yakasına yapışan Cihan, Enver’in parmağından çıkardığı yüzüğü fırlatıp atarken arkasındaki ",
+     "published": "2026-11-09T11:24:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": "47f96a52dae8",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/nazar-degmesin-43371550",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Nazar değmesin",
+   "snippet": "Asena Keskinci, başrolünde oynadığı “Üç Harfliler: Mühür” filminin yönetmeni Mert Uzunmehmet’le ilişki yaşıyor.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af1abe03572349e3fc6f8cf.jpg",
+   "video": null,
+   "published": "2026-11-09T11:18:08.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/nazar-degmesin-43371550",
+     "title": "Nazar değmesin",
+     "snippet": "Asena Keskinci, başrolünde oynadığı “Üç Harfliler: Mühür” filminin yönetmeni Mert Uzunmehmet’le ilişki yaşıyor.",
+     "published": "2026-11-09T11:18:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": "ebd288cc3756",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/sude-burcunun-kizi-miranin-kirki-uctu-ilk-kareler-geldi-7697345",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Sude Burcu'nun kızı Mira'nın kırkı uçtu! İlk kareler geldi",
+   "snippet": "Survivor yarışmasıyla tanınan Sude Burcu, eşi Mert Öcal ile kızları Mira'nın kırkını uçurdu. Özel günden kareleri sosyal medya hesabından paylaşan ünlü isim, \"Kalbimiz güzel dualarla doldu\" notuyla takipçilerini duygulandırdı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af19d880e691fff90b21efd.jpg",
+   "video": null,
+   "published": "2026-11-09T10:18:17.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/sude-burcunun-kizi-miranin-kirki-uctu-ilk-kareler-geldi-7697345",
+     "title": "Sude Burcu'nun kızı Mira'nın kırkı uçtu! İlk kareler geldi",
+     "snippet": "Survivor yarışmasıyla tanınan Sude Burcu, eşi Mert Öcal ile kızları Mira'nın kırkını uçurdu. Özel günden kareleri sosyal medya hesabından paylaşan ünlü isim, \"Kalbimiz güzel dualarla doldu\" notuyla takipçilerini duygulandırdı.",
+     "published": "2026-11-09T10:18:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": "2df6dced9e75",
+   "url": "https://www.sozcu.com.tr/90-li-yillarin-sevilen-arabeskcisi-tiktok-ta-slime-yapip-para-kazanmaya-basladi-p379519",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "90'lı yılların sevilen arabeskçisi TikTok'ta slime yapıp para kazanmaya başladı",
+   "snippet": "Bir dönemin sevilen şarkıcılarından Alihan, TikTok'ta giderek yayılan slime yayınlarına katıldı. Canlı yayında izleyicil...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/90li-yillarin-sevilen-arabeskcisi-tiktokta-slime-yapip-para-kazanmaya-basladipng-d8q2rm_u6EedD5gXoYv-Tw.png",
+   "video": null,
+   "published": "2026-11-09T09:48:20.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/90-li-yillarin-sevilen-arabeskcisi-tiktok-ta-slime-yapip-para-kazanmaya-basladi-p379519",
+     "title": "90'lı yılların sevilen arabeskçisi TikTok'ta slime yapıp para kazanmaya başladı",
+     "snippet": "Bir dönemin sevilen şarkıcılarından Alihan, TikTok'ta giderek yayılan slime yayınlarına katıldı. Canlı yayında izleyicil...",
+     "published": "2026-11-09T09:48:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": "f6017bc8191a",
+   "url": "https://www.haberturk.com/magazin/foto/gamze-ozcelik-ten-evlilik-itirafi-3925930",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Evlilikte en çok zorlayan şey...\"",
+   "snippet": "Oyunculuğun ardından yardım çalışmalarına yönelen Gamze Özçelik, evliliğine dair samimi açıklamalarda bulundu",
+   "image": "https://im.haberturk.com/l/2026/11/09/ver1794213765/3925930/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-09T08:44:15.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/gamze-ozcelik-ten-evlilik-itirafi-3925930",
+     "title": "\"Evlilikte en çok zorlayan şey...\"",
+     "snippet": "Oyunculuğun ardından yardım çalışmalarına yönelen Gamze Özçelik, evliliğine dair samimi açıklamalarda bulundu",
+     "published": "2026-11-09T08:44:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": "1f8cb0974fad",
+   "url": "https://www.sozcu.com.tr/8-kasim-reytinglerinde-daha-17-ye-zirve-soku-omur-usta-ucte-uc-yapti-p379486",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "8 Kasım reytinglerinde Daha 17'ye zirve şoku: Ömür Usta üçte üç yaptı",
+   "snippet": "8 Kasım Pazar reyting sonuçlarında Teşkilat, Ömür Usta ve Daha 17 arasındaki yarışın kazananı belli oldu. Total, AB ve A...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/8-kasim-reytinglerinde-daha-17ye-zirve-soku-omur-usta-ucte-uc-yaptipng-ZQFfv9nHjUi9RS0I5Mu5Og.png",
+   "video": null,
+   "published": "2026-11-09T08:33:28.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "omur-usta",
+     "daha-17"
+    ],
+    "people": [],
+    "networks": [
+     "now",
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/8-kasim-reytinglerinde-daha-17-ye-zirve-soku-omur-usta-ucte-uc-yapti-p379486",
+     "title": "8 Kasım reytinglerinde Daha 17'ye zirve şoku: Ömür Usta üçte üç yaptı",
+     "snippet": "8 Kasım Pazar reyting sonuçlarında Teşkilat, Ömür Usta ve Daha 17 arasındaki yarışın kazananı belli oldu. Total, AB ve A...",
+     "published": "2026-11-09T08:33:28.000Z"
+    }
+   ]
+  },
+  {
+   "id": "46c56313a5ff",
+   "url": "https://www.milliyet.com.tr/magazin/unlu-oyuncu-murat-divitcioglu-herkesi-sasirtti-setlerden-cikip-esnaf-oldu-7697232",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Ünlü oyuncu Murat Divitçioğlu herkesi şaşırttı! Setlerden çıkıp esnaf oldu",
+   "snippet": "Ünlü film, dizi ve reklam oyuncusu Murat Divitçioğlu, Kazdağları sevdası ve doğal yaşam ile iç içe olma hayali nedeniye Çanakkale'nin Bayramiç ilçesine yerleşti. Aile kurması ile beraber daha sakin bir hayat kurmak istediğini söyleyen 46 yaşındaki Divitçioğlu, üniversite okuduğu şehri tercih etti. Oyuncu Murat Divitçioğlu çekimlerden kalan zamanında arkadaşı Barlas Balcı'nın sandviç işletmesinde vaktini değerlendiriyor. İşletme sahibi Barlas Balcı, oyuncu Murat Divitçioğlu ile birlikte çalışmanı",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af17d6f0e691fff90b21de8.jpg",
+   "video": null,
+   "published": "2026-11-09T08:29:21.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/unlu-oyuncu-murat-divitcioglu-herkesi-sasirtti-setlerden-cikip-esnaf-oldu-7697232",
+     "title": "Ünlü oyuncu Murat Divitçioğlu herkesi şaşırttı! Setlerden çıkıp esnaf oldu",
+     "snippet": "Ünlü film, dizi ve reklam oyuncusu Murat Divitçioğlu, Kazdağları sevdası ve doğal yaşam ile iç içe olma hayali nedeniye Çanakkale'nin Bayramiç ilçesine yerleşti. Aile kurması ile beraber daha sakin bir hayat kurmak istediğini söyleyen 46 yaşındaki Divitçioğlu, üniversite okuduğu şehri tercih etti. O",
+     "published": "2026-11-09T08:29:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": "92870d331332",
+   "url": "https://www.sabah.com.tr/magazin/faruk-sabancidan-vapurda-dj-surprizi-istanbulda-yolculara-unutulmaz-anlar-yasatti-o-anlar-boyle-kaydedildi-7698099",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Faruk Sabancı'dan vapurda DJ sürprizi! İstanbul'da yolculara unutulmaz anlar yaşattı, o anlar böyle kaydedildi",
+   "snippet": "Ünlü oyuncu Esra Bilgiç ile yaşadığı aşkla da gündeme gelen Sabancı ailesinin genç DJ'i Faruk Sabancı, bu kez İstanbul'da sıra dışı bir performansla ortaya çıktı. Vapur yolculuğu yapanlara beklenmedik... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/22c3b7/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2026/11/09/faruk-sabancidan-vapurda-dj-surprizi-istanbulda-yolculara-unutulmaz-anlar-yasatti-o-anlar-boyle-kaydedildi-1794212955038.jpg",
+   "video": null,
+   "published": "2026-11-09T08:29:15.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/faruk-sabancidan-vapurda-dj-surprizi-istanbulda-yolculara-unutulmaz-anlar-yasatti-o-anlar-boyle-kaydedildi-7698099",
+     "title": "Faruk Sabancı'dan vapurda DJ sürprizi! İstanbul'da yolculara unutulmaz anlar yaşattı, o anlar böyle kaydedildi",
+     "snippet": "Ünlü oyuncu Esra Bilgiç ile yaşadığı aşkla da gündeme gelen Sabancı ailesinin genç DJ'i Faruk Sabancı, bu kez İstanbul'da sıra dışı bir performansla ortaya çıktı. Vapur yolculuğu yapanlara beklenmedik... Devamı için tıklayınız",
+     "published": "2026-11-09T08:29:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": "8afebb9fe945",
+   "url": "https://www.sozcu.com.tr/evlat-dizisi-baslamadan-karisti-kanali-yonetmeni-degisti-oyunculardan-indirim-istendi-p379481",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Evlat dizisi başlamadan karıştı: Kanalı, yönetmeni değişti, oyunculardan indirim istendi",
+   "snippet": "Hazal Subaşı ve Birkan Sokullu'nun başrollerini paylaşacağı Evlat dizisi, henüz izleyici karşısına çıkmadan peş peşe değ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/880jpg-SKWiBItJ-EqStqw34zFoRQ.jpg",
+   "video": null,
+   "published": "2026-11-09T08:23:32.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/evlat-dizisi-baslamadan-karisti-kanali-yonetmeni-degisti-oyunculardan-indirim-istendi-p379481",
+     "title": "Evlat dizisi başlamadan karıştı: Kanalı, yönetmeni değişti, oyunculardan indirim istendi",
+     "snippet": "Hazal Subaşı ve Birkan Sokullu'nun başrollerini paylaşacağı Evlat dizisi, henüz izleyici karşısına çıkmadan peş peşe değ...",
+     "published": "2026-11-09T08:23:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": "53760b89f9e6",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/vedanin-en-unutulmazi-benim-kalbim-hala-seninle-atiyor-adamim-43371218",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "'Vedanın en unutulmazı... Benim kalbim hâlâ seninle atıyor adamım'",
+   "snippet": "Usta oyuncu Perihan Savaş, 9 Kasım 1995'te hayatını kaybeden eşi Yılmaz Zafer'i ölüm yıl dönümünde duygusal bir paylaşımla andı.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af181a83572349e3fc6f810.jpg",
+   "video": null,
+   "published": "2026-11-09T08:18:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/vedanin-en-unutulmazi-benim-kalbim-hala-seninle-atiyor-adamim-43371218",
+     "title": "'Vedanın en unutulmazı... Benim kalbim hâlâ seninle atıyor adamım'",
+     "snippet": "Usta oyuncu Perihan Savaş, 9 Kasım 1995'te hayatını kaybeden eşi Yılmaz Zafer'i ölüm yıl dönümünde duygusal bir paylaşımla andı.",
+     "published": "2026-11-09T08:18:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "9e07db277263",
+   "url": "https://www.haberturk.com/magazin/muhtemel-ask-in-yeni-bolumunden-bir-tanitim-daha-yayinlandi-3925881",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"O büyük gün geldi sonunda!\"",
+   "snippet": "SHOW TV'nin sevilen dizisi 'Muhtemel Aşk'ın perşembe akşamı ekrana gelecek yeni bölümünde ortaya çıkan sırlar ve şoke eden gerçekler dengeleri değiştiriyor",
+   "image": "https://im.haberturk.com/l/2026/11/09/ver1794212010/3925881/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-09T08:15:44.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "muhtemel-ask"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/muhtemel-ask-in-yeni-bolumunden-bir-tanitim-daha-yayinlandi-3925881",
+     "title": "\"O büyük gün geldi sonunda!\"",
+     "snippet": "SHOW TV'nin sevilen dizisi 'Muhtemel Aşk'ın perşembe akşamı ekrana gelecek yeni bölümünde ortaya çıkan sırlar ve şoke eden gerçekler dengeleri değiştiriyor",
+     "published": "2026-11-09T08:15:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": "b7fa5dc1b23b",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/perihan-savasin-oglu-neden-annesini-sakladi-ilk-kez-anlatti-7697168",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Perihan Savaş'ın oğlu neden annesini sakladı? İlk kez anlattı",
+   "snippet": "Yeşilçam'ın usta oyuncusu Perihan Savaş'ın oğlu Savaş Zafer, annesinin ünlü kimliğini askerlik döneminde gizlediğini açıkladı. Nişanlısının sosyal medya paylaşımıyla gerçek ortaya çıkarken, Zafer'in \"Yemin törenine kadar kimse bilmedi\" sözleri dikkat çekti.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af179190e691fff90b21dc5.jpg",
+   "video": null,
+   "published": "2026-11-09T07:48:14.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/perihan-savasin-oglu-neden-annesini-sakladi-ilk-kez-anlatti-7697168",
+     "title": "Perihan Savaş'ın oğlu neden annesini sakladı? İlk kez anlattı",
+     "snippet": "Yeşilçam'ın usta oyuncusu Perihan Savaş'ın oğlu Savaş Zafer, annesinin ünlü kimliğini askerlik döneminde gizlediğini açıkladı. Nişanlısının sosyal medya paylaşımıyla gerçek ortaya çıkarken, Zafer'in \"Yemin törenine kadar kimse bilmedi\" sözleri dikkat çekti.",
+     "published": "2026-11-09T07:48:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": "29faab53fe6f",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ozyegin-filarmoni-fazil-say-yonetiminde-sahneye-cikiyor-43371126",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Özyeğin Filarmoni, Fazıl Say yönetiminde sahneye çıkıyor",
+   "snippet": "Fazıl Say’ın sanat yönetmenliğini üstlendiği Özyeğin Filarmoni, 2026/27 sezonunda İstanbul’da yedi konser verecek. Orkestra, ilk konserini 9 Kasım’da Lütfi Kırdar Kongre ve Sergi Sarayı’nda gerçekleştirecek.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af177853572349e3fc6f7ed.jpg",
+   "video": null,
+   "published": "2026-11-09T07:34:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ozyegin-filarmoni-fazil-say-yonetiminde-sahneye-cikiyor-43371126",
+     "title": "Özyeğin Filarmoni, Fazıl Say yönetiminde sahneye çıkıyor",
+     "snippet": "Fazıl Say’ın sanat yönetmenliğini üstlendiği Özyeğin Filarmoni, 2026/27 sezonunda İstanbul’da yedi konser verecek. Orkestra, ilk konserini 9 Kasım’da Lütfi Kırdar Kongre ve Sergi Sarayı’nda gerçekleştirecek.",
+     "published": "2026-11-09T07:34:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "4965dde5bd11",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/elcin-zehra-irem-askini-ilan-etti-sevgilisi-bakin-kim-cikti-7697157",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Elçin Zehra İrem aşkını ilan etti! Sevgilisi bakın kim çıktı",
+   "snippet": "Ünlü Elçin Zehra İrem aşkını ilan etti. Elçin Zehra İrem, Instagram hesabından paylaştığı kareyle aşkını ilan etti.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af172800e691fff90b21d99.jpg",
+   "video": null,
+   "published": "2026-11-09T07:14:30.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "elcin-zehra-irem",
+     "elcin-zehra"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/elcin-zehra-irem-askini-ilan-etti-sevgilisi-bakin-kim-cikti-7697157",
+     "title": "Elçin Zehra İrem aşkını ilan etti! Sevgilisi bakın kim çıktı",
+     "snippet": "Ünlü Elçin Zehra İrem aşkını ilan etti. Elçin Zehra İrem, Instagram hesabından paylaştığı kareyle aşkını ilan etti.",
+     "published": "2026-11-09T07:14:30.000Z"
+    }
+   ]
+  },
+  {
+   "id": "177e657c4091",
+   "url": "https://www.sozcu.com.tr/kerem-alisik-in-basrolundeki-dizide-oyunculardan-indirim-istendi-p379445",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Kerem Alışık'ın başrolündeki dizide oyunculardan indirim istendi",
+   "snippet": "Televizyon sektöründeki reklam krizi yapımları da etkilemeye başladı. Haysiyet dizisinin devam edebilmesi için oyuncular...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/668jpg-3qFfY6JU_UiAsn6QbdwnCQ.jpg",
+   "video": null,
+   "published": "2026-11-09T07:02:07.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "kerem-alisik"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/kerem-alisik-in-basrolundeki-dizide-oyunculardan-indirim-istendi-p379445",
+     "title": "Kerem Alışık'ın başrolündeki dizide oyunculardan indirim istendi",
+     "snippet": "Televizyon sektöründeki reklam krizi yapımları da etkilemeye başladı. Haysiyet dizisinin devam edebilmesi için oyuncular...",
+     "published": "2026-11-09T07:02:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": "45421241f482",
+   "url": "https://www.sozcu.com.tr/sabanci-vapurda-dj-oldu-yolcular-once-sasirdi-sonra-dans-etti-p379433",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Sabancı vapurda dj oldu: Yolcular önce şaşırdı sonra dans etti",
+   "snippet": "Gece kulüplerinde ve konserlerde sahne alan Faruk Sabancı, bu kez İstanbul'da bambaşka bir ortamda ortaya çıktı. Kadıköy...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/faruksabanciijpg-yExGbZrEYkS0gJbmGJLzbw.jpg",
+   "video": null,
+   "published": "2026-11-09T06:44:42.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sabanci-vapurda-dj-oldu-yolcular-once-sasirdi-sonra-dans-etti-p379433",
+     "title": "Sabancı vapurda dj oldu: Yolcular önce şaşırdı sonra dans etti",
+     "snippet": "Gece kulüplerinde ve konserlerde sahne alan Faruk Sabancı, bu kez İstanbul'da bambaşka bir ortamda ortaya çıktı. Kadıköy...",
+     "published": "2026-11-09T06:44:42.000Z"
+    }
+   ]
+  },
   {
    "id": "8dbfe9104033",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/bade-iscil-arayista-bir-kadin-olmadim-43371010",
@@ -308,6 +1096,14 @@
      "snippet": "Şafak Sezer, Bülent Ersoy'la aynı filmde rol aldığı dönemde yaşanan ilginç set anısını paylaştı. Diva'nın makyajının saa...",
      "published": "2026-11-09T05:16:38.000Z",
      "titleFa": "Bülent Ersoy'un makyajı yüzünden seti terk etti: Şafak Sezer anlattı"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/safak-sezerden-bulent-ersoy-itirafi-10-saat-surdu-seti-terk-etmis-7697250",
+     "title": "Şafak Sezer'den Bülent Ersoy itirafı! '10 saat sürdü, seti terk etmiş’",
+     "snippet": "Ünlü komedyen Şafak Sezer, Bülent Ersoy'la birlikte rol aldığı Kutsal Damacana 5: Zombi filminin setinde yaşananları anlattı.",
+     "published": "2026-11-09T11:45:45.000Z"
     }
    ],
    "images": [
@@ -326,7 +1122,40 @@
     "Şafak Sezer توضیح داد که طولانی شدن روند گریم فشار زیادی ایجاد کرد، به طوری که آرایشگر پروژه در جریان فیلمبرداری و به دنبال اتفاقات رخ داده، تصمیم گرفت ست فیلمبرداری را رها کرده و ترک کند."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "mergedIds": [
+    "b2f7e345861a"
+   ],
+   "regen": true
+  },
+  {
+   "id": "4dbca6436399",
+   "url": "https://www.haberturk.com/magazin/safak-karali-hayatini-kaybetti-3925889",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Ünlü oyuncu hayatını kaybetti",
+   "snippet": "Kocaeli Büyükşehir Belediyesi Şehir Tiyatroları'nın kurucu sanatçılarından oyuncu Şafak Karali, 57 yaşında vefat etti",
+   "image": "https://im.haberturk.com/l/2026/11/09/ver1794201067/3925889/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-09T05:13:08.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/safak-karali-hayatini-kaybetti-3925889",
+     "title": "Ünlü oyuncu hayatını kaybetti",
+     "snippet": "Kocaeli Büyükşehir Belediyesi Şehir Tiyatroları'nın kurucu sanatçılarından oyuncu Şafak Karali, 57 yaşında vefat etti",
+     "published": "2026-11-09T05:13:08.000Z"
+    }
+   ]
   },
   {
    "id": "0d7fa7f03259",
@@ -1841,6 +2670,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "d0affac121fb",
+   "url": "https://www.sozcu.com.tr/ekranlarin-sevilen-oyuncusu-ciftci-olmustu-filiz-tacbas-sir-gibi-sakladigi-hastaligini-acikladi-p377139",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Beyin tümörü tespit edildi, kendine yeni hayat kurdu: Oyunculuğa ara verip çiftçi oldu",
+   "snippet": "Oyunculuğa ara vererek Foça'ya yerleşen ve kendisine yepyeni bir hayat kuran Filiz Taçbaş, Pazar Gezmesi programının fra...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/oyunculugubirakipciftciolmustufiliztacbassirgibisakladigihastaliginiacikladijpg-GXkfqXjtwkGzBXSfTrn-KA.jpg",
+   "video": null,
+   "published": "2026-11-08T10:13:53.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/ekranlarin-sevilen-oyuncusu-ciftci-olmustu-filiz-tacbas-sir-gibi-sakladigi-hastaligini-acikladi-p377139",
+     "title": "Beyin tümörü tespit edildi, kendine yeni hayat kurdu: Oyunculuğa ara verip çiftçi oldu",
+     "snippet": "Oyunculuğa ara vererek Foça'ya yerleşen ve kendisine yepyeni bir hayat kuran Filiz Taçbaş, Pazar Gezmesi programının fra...",
+     "published": "2026-11-08T10:13:53.000Z"
+    }
+   ]
   },
   {
    "id": "0b7d7cb63f78",
@@ -3802,6 +4660,37 @@
    "aiTries": 1
   },
   {
+   "id": "351543fa80e7",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/yesim-gul-hayat-arkadasini-kaybetti-yagmur-yukselden-duygulandiran-taziye-mesaji-7696374",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Yeşim Gül hayat arkadaşını kaybetti! Yağmur Yüksel'den duygulandıran taziye mesajı",
+   "snippet": "Oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar hayatını kaybetti. Gül'ün meslektaşı Yağmur Yüksel, sosyal medya hesabından duygu yüklü bir taziye mesajı paylaştı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aef57470e691fff90b21496.jpg",
+   "video": null,
+   "published": "2026-11-07T16:53:19.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "yesim-gul"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/yesim-gul-hayat-arkadasini-kaybetti-yagmur-yukselden-duygulandiran-taziye-mesaji-7696374",
+     "title": "Yeşim Gül hayat arkadaşını kaybetti! Yağmur Yüksel'den duygulandıran taziye mesajı",
+     "snippet": "Oyuncu Yeşim Gül'ün hayat arkadaşı Gökhan Suar hayatını kaybetti. Gül'ün meslektaşı Yağmur Yüksel, sosyal medya hesabından duygu yüklü bir taziye mesajı paylaştı.",
+     "published": "2026-11-07T16:53:19.000Z"
+    }
+   ]
+  },
+  {
    "id": "4beb067b97b5",
    "url": "https://www.milliyet.com.tr/magazin/galeri/duetleri-olay-olmustu-serenay-sarikayadan-ajda-pekkan-paylasimi-tek-bir-aciklamam-yok-oyle-guzel-bir-geceydi-7696371",
    "source": "milliyet-magazin",
@@ -4254,6 +5143,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "3267c6789454",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-yonetmen-evinde-olu-bulundu-43369554",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Ünlü yönetmen evinde ölü bulundu",
+   "snippet": "Sinema dünyasından acı bir haber geldi...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6aef108c33682fc5418a8709.jpg",
+   "video": null,
+   "published": "2026-11-07T11:51:36.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-yonetmen-evinde-olu-bulundu-43369554",
+     "title": "Ünlü yönetmen evinde ölü bulundu",
+     "snippet": "Sinema dünyasından acı bir haber geldi...",
+     "published": "2026-11-07T11:51:36.000Z"
+    }
+   ]
   },
   {
    "id": "9a2e88705d28",
@@ -12557,186 +13475,6 @@
    "aiTries": 1
   },
   {
-   "id": "52ee500b6b63",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/milyonluk-malikanesi-var-keyfini-suremiyor-korkudan-cadirda-yasiyor-43364403",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Milyonluk malikanesi var, keyfini süremiyor... Korkudan çadırda yaşıyor!",
-   "snippet": "Ünlülerin yaşadığı o gösterişli malikanelerin her tür sorundan ayrıcalıklı olduğunu sanıyorsanız bir kere daha düşünün...",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae9ee5c242372ca50174432.jpg",
-   "video": null,
-   "published": "2026-11-04T05:59:40.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/milyonluk-malikanesi-var-keyfini-suremiyor-korkudan-cadirda-yasiyor-43364403",
-     "title": "Milyonluk malikanesi var, keyfini süremiyor... Korkudan çadırda yaşıyor!",
-     "snippet": "Ünlülerin yaşadığı o gösterişli malikanelerin her tür sorundan ayrıcalıklı olduğunu sanıyorsanız bir kere daha düşünün...",
-     "published": "2026-11-04T05:59:40.000Z",
-     "titleFa": "Milyonluk malikanesi var, keyfini süremiyor... Korkudan çadırda yaşıyor!"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6ae9ee5c242372ca50174432.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6ae9ee5c242372ca50174432.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
-   ],
-   "mediaDone": true,
-   "titleFa": "زندگی در چادر به دلیل ترس با وجود داشتن عمارت میلیونی",
-   "bodyFa": [
-    "بر اساس گزارش‌ها، با وجود داشتن یک عمارت مجلل و چند میلیونی، فردی ترجیح داده است که از ترس در چادر زندگی کند و نمی‌تواند از عمارت خود لذت ببرد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "a797fe3ee93f",
-   "url": "https://www.haberturk.com/magazin/galatasarayli-futbolculardan-stuttgart-galibiyeti-sonrasi-gece-eglencesi-3924777",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Galibiyet sonrası gece eğlencesi",
-   "snippet": "Şampiyonlar Ligi'nde Stuttgart'ı 2-0 mağlup eden Galatasaraylı futbolcular, maçın ardından galibiyeti Etiler'deki bir mekanda kutladı. Basın mensuplarının görüntü almasını istemeyen oyuncular arka kapıdan ayrılırken, aldıkları güvenlik önlemleri ve mekan çıkışındaki anlar dikkat çekti",
-   "image": "https://im.haberturk.com/l/2026/11/04/ver1793771186/3924777/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-04T05:51:06.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/galatasarayli-futbolculardan-stuttgart-galibiyeti-sonrasi-gece-eglencesi-3924777",
-     "title": "Galibiyet sonrası gece eğlencesi",
-     "snippet": "Şampiyonlar Ligi'nde Stuttgart'ı 2-0 mağlup eden Galatasaraylı futbolcular, maçın ardından galibiyeti Etiler'deki bir mekanda kutladı. Basın mensuplarının görüntü almasını istemeyen oyuncular arka kapıdan ayrılırken, aldıkları güvenlik önlemleri ve mekan çıkışındaki anlar dikkat çekti",
-     "published": "2026-11-04T05:51:06.000Z",
-     "titleFa": "جشن شبانه پس از پیروزی"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "جشن پیروزی بازیکنان گاتاسرای در اتیلر پس از پیروزی بر اشتوتگارت",
-   "summaryFa": "بازیکنان گاتاسرای پس از پیروزی برابر اشتوتگارت در لیگ قهرمانان اروپا، در منطقه‌ای در اتیلر به جشن و سرور پرداختند. آن‌ها برای دوری از دوربین خبرنگاران تدابیر امنیتی ویژه‌ای اتخاذ کردند و از در پشتی محل خارج شدند.",
-   "bodyFa": [
-    "تیم فوتبال گاتاسرای در چارچوب هفته چهارم لیگ قهرمانان اروپا موفق شد با دو گل اشتوتگارت آلمان را شکست دهد و سه امتیاز کسب کند. پس از این پیروزی، بازیکنان تیم تصمیم گرفتند تا پاسی از شب در مکانی واقع در اتیلر به جشن و پایکوبی بپردازند.",
-    "این حضور با حاشیه‌هایی همراه بود و بازیکنان تلاش کردند از دید خبرنگاران و عکاسان پنهان بمانند. به همین دلیل تدابیر امنیتی فشرده‌ای اتخاذ شد و بیشتر بازیکنان از در پشتی محل خارج شدند. برای نمونه، باریش آلپر ییلماز با خودروی دیگری از محل دور شد.",
-    "همچنین ایسماعیل یاکوبس تلاش کرد خود را پنهان کند و هنگام سوار شدن به خودرو برای افتادن شلوارش دچار دردسر شد. لوکاس تورِیرا نیز با استفاده از چترها از دید خبرنگاران مخفی شد و به خودرویش منتقل گردید."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "ce5b7477d193",
-   "url": "https://www.sozcu.com.tr/konserinde-abla-diye-seslenen-hayranina-dayanamadi-bir-kere-daha-derseniz-p375821",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Konserinde abla diye seslenen hayranına dayanamadı: \"Bir kere daha derseniz...\"",
-   "snippet": "Türk rock müziğinin sevilen isimlerinden Şebnem Ferah, konserinde kendisine \"abla\" diye seslenen hayranına verdiği espri...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sebnemferahhjpg-9o7BTuJxEE_fl9kGoJt-AA.jpg",
-   "video": null,
-   "published": "2026-11-04T05:33:06.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/konserinde-abla-diye-seslenen-hayranina-dayanamadi-bir-kere-daha-derseniz-p375821",
-     "title": "Konserinde abla diye seslenen hayranına dayanamadı: \"Bir kere daha derseniz...\"",
-     "snippet": "Türk rock müziğinin sevilen isimlerinden Şebnem Ferah, konserinde kendisine \"abla\" diye seslenen hayranına verdiği espri...",
-     "published": "2026-11-04T05:33:06.000Z",
-     "titleFa": "کنسرتinde abla diye seslenen hayranına dayanamadı: \"Bir kere daha derseniz...\""
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sebnemferahhjpg-9o7BTuJxEE_fl9kGoJt-AA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sebnemferahhjpg-9o7BTuJxEE_fl9kGoJt-AA.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/masterchefjpg-h19bt59UQEaZwgPuBr9lcA.jpg?w=288&h=162&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6aeb1a07f4678357b8b789eepng-mzD3IS0b0EGnbJ0SDCBL5g.png?w=320&h=248&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6aeb2c0af4678357b8b78cc5png-_4z_EZy9z02Juiyqscdt1Q.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "واکنش طنزآمیز شبنم فرح به هواداری که او را در کنسرت «آبلا» صدا زد",
-   "summaryFa": "شبنم فرح، خواننده ۵۴ ساله موسیقی راک ترکیه، در کنسرت خود به هواداری که او را «آبلا» (خواهر بزرگتر) خطاب کرده بود، پاسخ طنزآمیزی داد. او همچنین اشاره کرد که گاهی کسانی هم هستند که او را «خاله» صدا می‌زنند.",
-   "bodyFa": [
-    "در جریان یک کنسرت، شبنم فرح، یکی از چهره‌های محبوب موسیقی راک ترکیه، با واکنش طنزآمیز خود به یکی از حاضران توجه‌ها را به خود جلب کرد. ماجرا از آنجا شروع شد که یکی از هواداران در میان برنامه، این هنرمند ۵۴ ساله را با عنوان «آبلا» خطاب قرار داد که با پاسخ شوخ‌طبعانه این خواننده همراه شد.",
-    "این هنرمند در ادامه صحبت‌های خود با حاضران، با اشاره به این موضوع اضافه کرد که گاهی برخی از مخاطبان نیز او را «خاله» صدا می‌زنند که این اظهارات نیز مورد توجه قرار گرفت و فضایی صمیمی در سالن ایجاد کرد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "57513a50ff5c",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/sevket-coruh-kizimin-bez-parasini-bakkala-yazdirdim-43365243",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Şevket Çoruh: Kızımın bez parasını bakkala yazdırdım!",
-   "snippet": "Şevket Çoruh, kariyerinin ilk yıllarında yaşadığı maddi sıkıntıları anlattı. 90’ların sonunda yayınlanan “Yılan Hikâyesi” dizisinden yol masraflarını bile karşılayamadığı için ayrıldığını söyleyen oyuncu, “O dönem çocuğumun bez parasını bakkala yazdırdığım günler oldu” dedi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6aeac0be242372ca5017473c.jpg",
-   "video": null,
-   "published": "2026-11-04T05:22:59.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/sevket-coruh-kizimin-bez-parasini-bakkala-yazdirdim-43365243",
-     "title": "Şevket Çoruh: Kızımın bez parasını bakkala yazdırdım!",
-     "snippet": "Şevket Çoruh, kariyerinin ilk yıllarında yaşadığı maddi sıkıntıları anlattı. 90’ların sonunda yayınlanan “Yılan Hikâyesi” dizisinden yol masraflarını bile karşılayamadığı için ayrıldığını söyleyen oyuncu, “O dönem çocuğumun bez parasını bakkala yazdırdığım günler oldu” dedi.",
-     "published": "2026-11-04T05:22:59.000Z",
-     "titleFa": "شوکت چوروح: پول پوشک دخترم را به حساب بقالی نوشتم!"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6aeac0be242372ca5017473c.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6aeac0be242372ca5017473c.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3721",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3721"
-   ],
-   "mediaDone": true,
-   "titleFa": "روایت شوکت چوروح از مشکلات مالی در سال‌های آغازین کاری‌اش",
-   "summaryFa": "شوکت چوروح از روزهای سخت مالی خود در گذشته گفت و اعلام کرد که حتی پول پوشک فرزندش را به حساب دفتری بقالی می‌نوشته است. او همچنین توضیح داد که در اواخر دهه ۹۰ میلادی به دلیل عدم توانایی در پرداخت هزینه‌های رفت‌وآمد از سریال «Yılan Hikâyesi» جدا شده است.",
-   "bodyFa": [
-    "شوکت چوروح، بازیگر ترکیه‌ای، در صحبت‌های اخیر خود از مشکلات مالی و سختی‌هایی که در سال‌های ابتدایی فعالیت حرفه‌ای‌اش تجربه کرده، پرده برداشت.",
-    "این بازیگر اشاره کرد که در اواخر دهه ۹۰ میلادی در سریال «Yılan Hikâyesi» حضور داشته، اما به دلیل ناتوانی در تأمین هزینه‌های رفت‌وآمد و کرایه راه، مجبور به جدایی از این پروژه شده است.",
-    "او همچنین یادآور شد که شرایط مالی‌اش در آن دوران به قدری دشوار بوده که حتی برای تهیه پوشک فرزند خود دچار مشکل بوده و هزینه‌ها را به حساب دفتری بقالی محل ثبت می‌کرده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
    "id": "6c8fe31661eb",
    "url": "https://www.sozcu.com.tr/ayse-yle-kavga-eden-sadi-ye-tepki-yagdi-mehmet-sef-ikisini-de-kovdu-p375812",
    "source": "sozcu-magazin",
@@ -12858,455 +13596,6 @@
    "summaryFa": "دوغوکان گونگور، بازیگر نقش اصلی سریال «حیثیت»، اعلام کرد که ۲۳ کیلوگرم وزن کم کرده است.",
    "bodyFa": [
     "دوغوکان گونگور، بازیگر نقش اصلی سریال «حیثیت» در شبکه کانال دی، در جریان حضور در یک مراسم درباره کاهش وزن خود صحبت کرد. او اعلام کرد که موفق شده است ۲۳ کیلوگرم وزن کم کند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "ff47510629bd",
-   "url": "https://www.milliyet.com.tr/magazin/yorumlar-umurumda-degil-7693825",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Yorumlar umurumda değil’",
-   "snippet": "Oyuncu, “Yorumlar umurumda değil. İsteyen istediğini de söyleyebilir” dedi. Ramsey davetine katılan Günsür, “İtalya’da yaşıyorsunuz. Türkiye’yi özlüyor musunuz?” sorusuna, “Ben şanslıyım, oradayken burayı özlüyorum. Buradayken de orayı özlüyorum. Ne mutlu gidip gelebiliyorum ama” yanıtını verdi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aea69726672e03049526eeb.jpg",
-   "video": null,
-   "published": "2026-11-04T04:01:48.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/yorumlar-umurumda-degil-7693825",
-     "title": "‘Yorumlar umurumda değil’",
-     "snippet": "Oyuncu, “Yorumlar umurumda değil. İsteyen istediğini de söyleyebilir” dedi. Ramsey davetine katılan Günsür, “İtalya’da yaşıyorsunuz. Türkiye’yi özlüyor musunuz?” sorusuna, “Ben şanslıyım, oradayken burayı özlüyorum. Buradayken de orayı özlüyorum. Ne mutlu gidip gelebiliyorum ama” yanıtını verdi.",
-     "published": "2026-11-04T04:01:48.000Z",
-     "titleFa": "«Yorumlar umurumda değil»"
-    },
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/mehmet-gunsur-yorumlar-umurumda-degil-43365233",
-     "title": "Mehmet Günsür: Yorumlar umurumda değil!",
-     "snippet": "Mehmet Günsür, Kuruçeşme’de katıldığı bir etkinlikte 20 yıllık eşi Katerina Mongio hakkında sosyal medyada yapılan olumsuz yorumlarla ilgili konuştu. Ünlü oyuncu “Yorumlar umurumda değil. İsteyen istediğini de söyleyebilir” dedi.",
-     "published": "2026-11-04T04:47:00.000Z",
-     "titleFa": "Mehmet Günsür: Yorumlar umurumda değil!"
-    }
-   ],
-   "mergedIds": [
-    "8c0d91be6293"
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aea69726672e03049526eeb.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aea69726672e03049526eeb.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "واکنش محمد گونسور به نظرات منفی درباره همسرش",
-   "summaryFa": "محمد گونسور در پاسخ به نظرات منفی کاربران در شبکه‌های اجتماعی درباره همسرش اعلام کرد که این نظرات برایش اهمیتی ندارد. او همچنین درباره زندگی در ایتالیا و دلتنگی برای ترکیه توضیحاتی داد.",
-   "bodyFa": [
-    "محمد گونسور، بازیگر سرشناس، در خصوص کامنت‌ها و نظرات منفی منتشر شده در شبکه‌های اجتماعی درباره همسر ۲۰ ساله‌اش، کاترینا مونجو، واکنش نشان داد. او تأکید کرد که این نظرات برایش مهم نیست و هر کسی می‌تواند هر چه می‌خواهد بگوید.",
-    "این بازیگر که در یک رویداد شرکت کرده بود، همچنین درباره زندگی خود در ایتالیا صحبت کرد. او در پاسخ به سوالی درباره اینکه آیا دلتنگ ترکیه می‌شود یا خیر، بیان کرد که فرد خوش‌شانسی است؛ زیرا وقتی در ایتالیاست دلتنگ ترکیه می‌شود و وقتی در ترکیه است، جای دیگر را دلتنگ می‌شود و خوشحال است که می‌تواند میان دو کشور رفت‌وآمد کند."
-   ],
-   "comparison": {
-    "agree": [
-     "محمد گونسور درباره نظرات منفی شبکه‌های اجتماعی درباره همسرش صحبت کرده است.",
-     "او گفته است که نظرات برایش اهمیتی ندارد و هرکسی می‌تواند هرچه می‌خواهد بگوید."
-    ],
-    "differ": [
-     {
-      "topic": "محل برگزاری رویداد یا جزئیات دعوت",
-      "views": [
-       {
-        "source": "milliyet-magazin",
-        "text": "به شرکت در دعوت Ramsey اشاره کرده است."
-       },
-       {
-        "source": "hurriyet-kelebek",
-        "text": "به شرکت در یک رویداد در کوروچشمه (Kuruçeşme) اشاره کرده است."
-       }
-      ]
-     }
-    ],
-    "unconfirmed": []
-   },
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "99db71149011",
-   "url": "https://www.milliyet.com.tr/magazin/yeni-kesfinizim-7693824",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Yeni keşfinizim’",
-   "snippet": "‘Çakallarla Dans’ serisiyle ilk kez bu filmde yer aldığını belirten Nur Sürer, “Ben sinemaya ‘Çakallarla Dans 8’ ile başladım. Yeni keşfinizim. Umarım sekizinci filmi beğenirsiniz” diyerek esprili bir açıklama yaptı. Proje, cuma günü vizyonda olacak.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aea691f6672e03049526ee5.jpg",
-   "video": null,
-   "published": "2026-11-04T04:01:47.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/yeni-kesfinizim-7693824",
-     "title": "‘Yeni keşfinizim’",
-     "snippet": "‘Çakallarla Dans’ serisiyle ilk kez bu filmde yer aldığını belirten Nur Sürer, “Ben sinemaya ‘Çakallarla Dans 8’ ile başladım. Yeni keşfinizim. Umarım sekizinci filmi beğenirsiniz” diyerek esprili bir açıklama yaptı. Proje, cuma günü vizyonda olacak.",
-     "published": "2026-11-04T04:01:47.000Z",
-     "titleFa": "«کشف جدید شما هستم»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aea691f6672e03049526ee5.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aea691f6672e03049526ee5.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "گala فیلم «چاکالارلا دانس ۸» در استانبول برگزار شد",
-   "summaryFa": "مراسم اکران افتتاحیه فیلم «چاکالارلا دانس ۸: شوتوتگارت چیکارماسی» در سینما آتلاس استانبول برگزار شد. نور سورر بازیگر این فیلم شوخی جالب توجهی درباره حضورش در این مجموعه انجام داد.",
-   "bodyFa": [
-    "مراسم گالی فیلم سینمایی «چاکالارلا دانس ۸: شوتوتگارت چیکارماسی» با حضور بازیگران آن در سینما آتلاس واقع در منطقه بی اوغلو استانبول برگزار شد. در این پروژه بازیگرانی همچون شوکت چوروح، تیمور آکار، مراد آکویونلو، دیدم بالچین، هاکان بیلگین، نور سورر، تیم سیفی، ویلدان چیرپان، اصلی ملیسا اوزون، تانجو بیلیر، جیحون ییلماز، مظلوم سومر و مراد چلیک به ایفای نقش پرداخته‌اند.",
-    "نور سورر بازیگر شناخته‌شده این اثر طی مراسم گلا با لحنی طنزآمیز به حضورش در این مجموعه اشاره کرد و گفت که کار سینمایی خود را با فیلم هشتم آغاز کرده و خود را «کشف جدید» خواند و ابراز امیدواری کرد که مخاطبان از این فیلم لذت ببرند. اکران عمومی این فیلم از روز جمعه آغاز خواهد شد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "cb3277c7922b",
-   "url": "https://www.milliyet.com.tr/magazin/albumun-tamami-dinleyiciyle-bulusacak-7693822",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Albümün tamamı dinleyiciyle buluşacak’",
-   "snippet": "Sanatçı, “Hasan benim kıymetlim, babadan kıymetli. Bende hatırı babamdan geliyor. Çünkü Altan benim eski klarnetçim, orkestranın en değerli müzisyenlerinden biriydi. Aslında Altan Doğan’ın çocukluğunu biliyorum. Hasan’ın da bu kadar iyi bir müzisyen ve güzel kalpli bir insan olması bizim arkadaş olmamızı sağladı” dedi. Kendi müzik çalışmalarının da yolunda gittiğini belirten Altuğ, yeni albümünün tamamını dinleyiciyle buluşturmayı planladıklarını söyledi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aea68dc6672e03049526edf.jpg",
-   "video": null,
-   "published": "2026-11-04T04:01:47.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/albumun-tamami-dinleyiciyle-bulusacak-7693822",
-     "title": "‘Albümün tamamı dinleyiciyle buluşacak’",
-     "snippet": "Sanatçı, “Hasan benim kıymetlim, babadan kıymetli. Bende hatırı babamdan geliyor. Çünkü Altan benim eski klarnetçim, orkestranın en değerli müzisyenlerinden biriydi. Aslında Altan Doğan’ın çocukluğunu biliyorum. Hasan’ın da bu kadar iyi bir müzisyen ve güzel kalpli bir insan olması bizim arkadaş olm",
-     "published": "2026-11-04T04:01:47.000Z",
-     "titleFa": "«تمام آلبوم با مخاطبان ملاقات خواهد کرد»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aea68dc6672e03049526edf.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aea68dc6672e03049526edf.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "حضور امره آلتوغ در مراسم رونمایی از اثر حسن گوزتلیک",
-   "summaryFa": "امره آلتوغ در مراسم معرفی قطعه «سانا توتولیوروم» از حسن گوزتلیک شرکت کرد. او در این مراسم به تمجید از این هنرمند پرداخت.",
-   "bodyFa": [
-    "امره آلتوغ، هنرمند شناخته‌شده، در مراسم رونمایی اثر «سانا توتولیوروم» متعلق به حسن گوزتلیک، عضو جداشده از گروه ساکیلر، حضور یافت.",
-    "آلتوغ در این مراسم درباره حسن گوزتلیک صحبت کرد و او را بسیار ارزشمند دانست. او اشاره کرد که شناخت دیرینه‌ای از خانواده‌اش دارد و حسن را انسانی خوش‌قلب و موسیقیدانی برجسته توصیف نمود."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "9d238f02339c",
-   "url": "https://www.milliyet.com.tr/magazin/korkularinin-uzerine-gitti-7693821",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Korkularının üzerine gitti",
-   "snippet": "Mag dergisine konuşan oyuncu, “Beni en çok etkileyenler, fikrini açıkça söyleyen ve kendi kararlarımı vermem için bana alan tanıyan insanlar oldu. Hayatımda hem beni iyi hissettirenlere hem de kendimle yüzleşmemi sağlayanlara yer var. Kendime dönüp bakmaktan, yanıldığımı kabul etmekten çekinmem” dedi. Başlangıçta kamera karşısında yaşadığı çekingenliği zamanla aştığını belirten oyuncu, korkularının üzerine gittikçe kendisini daha özgür hissettiğini ve oyunculuktan aldığı keyfin giderek arttığını",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aea688f6672e03049526ed9.jpg",
-   "video": null,
-   "published": "2026-11-04T04:01:47.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/korkularinin-uzerine-gitti-7693821",
-     "title": "Korkularının üzerine gitti",
-     "snippet": "Mag dergisine konuşan oyuncu, “Beni en çok etkileyenler, fikrini açıkça söyleyen ve kendi kararlarımı vermem için bana alan tanıyan insanlar oldu. Hayatımda hem beni iyi hissettirenlere hem de kendimle yüzleşmemi sağlayanlara yer var. Kendime dönüp bakmaktan, yanıldığımı kabul etmekten çekinmem” ded",
-     "published": "2026-11-04T04:01:47.000Z",
-     "titleFa": "ترس‌هایش را پشت سر گذا"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aea688f6672e03049526ed9.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aea688f6672e03049526ed9.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "آیبوکه ییلماز درباره افراد تأثیرگذار در زندگی‌اش سخن گفت",
-   "summaryFa": "آیبوکه ییلماز، بازیگر سریال «حیثیت»، در گفت‌وگویی از ویژگی‌های انسان‌هایی که بیشترین تأثیر را روی او گذاشته‌اند، سخن گفت.",
-   "bodyFa": [
-    "آیبوکه ییلماز، بازیگر سریال «حیثیت» که از شبکه Kanal D پخش می‌شود، در مصاحبه‌ای با مجله Mag درباره افرادی که در زندگی‌اش الهام‌بخش بوده‌اند، صحبت کرد.",
-    "او اشاره کرد که بیشترین تأثیر را از کسانی گرفته که نظرات خود را صراحتاً بیان کرده و به او فضای کافی برای تصمیم‌گیری شخصی داده‌اند. به گفته این بازیگر، در زندگی او هم افرادی که حالش را خوب می‌کنند جای دارند و هم کسانی که به او کمک می‌کنند تا با خودش روبه‌رو شود.",
-    "ییلماز همچنین تأکید کرد که از نگاه کردن به درون خود و پذیرش اشتباهاتش ابایی ندارد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "7a034ea50446",
-   "url": "https://www.milliyet.com.tr/magazin/ilk-teklisi-cikti-7693818",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "İlk teklisi çıktı",
-   "snippet": "Şarkıcı, ‘Bir Daha Olmaz’ eseriyle dinleyici karşısına çıktı. Şarkı, ilk andaki yıkıcı acıdan ziyade, bir daha geriye dönülmeyeceğini fark eden bir zihnin dingin ama sitemkâr yalnızlığını hissettiriyor.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aea66fa6672e03049526ecc.jpg",
-   "video": null,
-   "published": "2026-11-04T04:01:46.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/ilk-teklisi-cikti-7693818",
-     "title": "İlk teklisi çıktı",
-     "snippet": "Şarkıcı, ‘Bir Daha Olmaz’ eseriyle dinleyici karşısına çıktı. Şarkı, ilk andaki yıkıcı acıdan ziyade, bir daha geriye dönülmeyeceğini fark eden bir zihnin dingin ama sitemkâr yalnızlığını hissettiriyor.",
-     "published": "2026-11-04T04:01:46.000Z",
-     "titleFa": "نخستین تک‌آهنگ او منتشر شد"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aea66fa6672e03049526ecc.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aea66fa6672e03049526ecc.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار نخستین تک‌آهنگ لیلا اکسوی",
-   "summaryFa": "لیلا اکسوی پس از بیش از ۱۲ سال سابقه معلمی، نخستین تک‌آهنگ خود را با نام «دیگر تکرار نخواهد شد» منتشر کرد. این اثر حس تنهایی آرام اما گله‌مند ذهن را منتقل می‌کند.",
-   "bodyFa": [
-    "لیلا اکسوی پس از سپری کردن بیش از ۱۲ سال از دوران کاری خود در حرفه معلمی، وارد عرصه موسیقی شد و نخستین تک‌آهنگ خود را به مخاطبان عرضه کرد.",
-    "این اثر که «دیگر تکرار نخواهد شد» نام دارد، بر خلاف درد ویرانگر لحظات نخست، حس تنهایی توأم با آرامش و گله‌مندی ذهنی را بازتاب می‌دهد که به آگاهی از عدم بازگشت به گذشته رسیده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "f5d4d08cb7e8",
-   "url": "https://www.milliyet.com.tr/magazin/entube-sirasinda-mahkemeye-basvurdu-7693819",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Entübe sırasında mahkemeye başvurdu’",
-   "snippet": "Jülide Kural’ın avukatı Bişar Abdi Alınak, sanatçının yeğeni Levent İnanır’a yüklendi. Alınak, “Levent İnanır, dayısı Kadir İnanır entübe edildiği sırada vasi atanmak ve mal varlığına tedbir koydurmak için mahkemeye başvurdu. Tüm Türkiye Kadir İnanır’ı merak ederken kendimizi vasi davasında bulduk. Mahkeme, Jülide Kural’ın vasi atamasına karar verdi. İki gün sonra Kadir İnanır hayatını kaybetti” dedi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aea68356672e03049526ed3.jpg",
-   "video": null,
-   "published": "2026-11-04T04:01:46.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/entube-sirasinda-mahkemeye-basvurdu-7693819",
-     "title": "‘Entübe sırasında mahkemeye başvurdu’",
-     "snippet": "Jülide Kural’ın avukatı Bişar Abdi Alınak, sanatçının yeğeni Levent İnanır’a yüklendi. Alınak, “Levent İnanır, dayısı Kadir İnanır entübe edildiği sırada vasi atanmak ve mal varlığına tedbir koydurmak için mahkemeye başvurdu. Tüm Türkiye Kadir İnanır’ı merak ederken kendimizi vasi davasında bulduk. ",
-     "published": "2026-11-04T04:01:46.000Z"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aea68356672e03049526ed3.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aea68356672e03049526ed3.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true
-  },
-  {
-   "id": "287ea6523965",
-   "url": "https://www.milliyet.com.tr/magazin/muzikseverlerle-bulusacak-7693816",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Müzikseverlerle buluşacak",
-   "snippet": "Şarkıcı, fenomen eserleriyle, müzik ve eğlence dolu bir geceye imza atacak. Buray, Pasha Girne Hotel’de müzikseverleri bir araya getirecek.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aea66516672e03049526ec0.jpg",
-   "video": null,
-   "published": "2026-11-04T04:01:45.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/muzikseverlerle-bulusacak-7693816",
-     "title": "Müzikseverlerle buluşacak",
-     "snippet": "Şarkıcı, fenomen eserleriyle, müzik ve eğlence dolu bir geceye imza atacak. Buray, Pasha Girne Hotel’de müzikseverleri bir araya getirecek.",
-     "published": "2026-11-04T04:01:45.000Z",
-     "titleFa": "دیدار با علاقه‌مندان به موسیقی"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aea66516672e03049526ec0.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aea66516672e03049526ec0.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "برای در هتل پاشا گیرنه روی صحنه می‌رود",
-   "summaryFa": "خواننده معروف، بورای، در تاریخ ۱۴ نوامبر در هتل پاشا گیرنه به اجرای برنامه خواهد پرداخت. او قرار است با آثار محبوب خود شب پر از موسیقی و سرگرمی را برای هوادارانش رقم بزند.",
-   "bodyFa": [
-    "خواننده محبوب، بورای، خود را آماده می‌کند تا در تاریخ ۱۴ نوامبر با طرفداران خود دیدار کند. این برنامه قرار است در هتل پاشا گیرنه برگزار شود و فضایی سرشار از موسیقی و شادی را برای علاقه‌مندان به ارمغان بیاورد.",
-    "بر اساس اطلاعات منتشر شده، این هنرمند قصد دارد با اجرای آثار ماندگار و پرطرفدار خود، شبی خاطره‌انگیز و پر از سرگرمی را برای مخاطبان و دوستداران موسیقی خلق کند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "7c04ac61efe2",
-   "url": "https://www.milliyet.com.tr/magazin/oyuncular-icin-kulis-daha-degerli-7693815",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "‘Oyuncular için kulis daha değerli’",
-   "snippet": "MESUT YILMAZ - Oyuncu, “Bu iş karavanda olmuyor, kulisi olmalı... Erol Günaydın, Kayhan Yıldızoğlu, Tamer Yiğit, Fatma Girik ve Eşref Kolçak’la aynı kulisi paylaştık. Kulis adabı hayata bakışını değiştiriyor. Düşünsenize Fatma Hanım’ı Instagram’dan çıktığınızı... Sette konfor olacak ama karavan birleştirici değil, ayrıştırıcı... Oyuncular için kulis daha değerli” açıklamasını yaptı” dedi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aea65fb6672e03049526eba.jpg",
-   "video": null,
-   "published": "2026-11-04T04:01:44.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/oyuncular-icin-kulis-daha-degerli-7693815",
-     "title": "‘Oyuncular için kulis daha değerli’",
-     "snippet": "MESUT YILMAZ - Oyuncu, “Bu iş karavanda olmuyor, kulisi olmalı... Erol Günaydın, Kayhan Yıldızoğlu, Tamer Yiğit, Fatma Girik ve Eşref Kolçak’la aynı kulisi paylaştık. Kulis adabı hayata bakışını değiştiriyor. Düşünsenize Fatma Hanım’ı Instagram’dan çıktığınızı... Sette konfor olacak ama karavan birl",
-     "published": "2026-11-04T04:01:44.000Z",
-     "titleFa": "«بازیگران için kulis daha değerli»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aea65fb6672e03049526eba.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aea65fb6672e03049526eba.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "دیدگاه بکر آکسوی درباره اهمیت و جایگاه فرهنگ پشت صحنه در بازیگری",
-   "summaryFa": "بکر آکسوی اظهار داشت که استفاده از کاروان در پشت صحنه سریال‌ها عامل جداسازی است و ارزش فرهنگی و تربیتی اتاق‌های گریم قدیمی را ندارد. او با اشاره به تجربه‌اش با بزرگان سینما، بر اهمیت سنت‌های پشت صحنه تأکید کرد.",
-   "bodyFa": [
-    "بکر آکسوی، بازیگر شناخته‌شده، در سخنان اخیر خود به انتقاد از استفاده از کاروان در پشت صحنه پروژه‌های هنری پرداخته و آن را به جای عاملی برای وحدت، ابزاری برای جداسازی میان عوامل دانسته است.",
-    "او با یادآوری خاطرات همکاری خود با هنرمندان برجسته‌ای همچون ارول گونایدین، کایهان ییلدیزاوغلو، تامِر ییغیت، فاطمه گیرییک و اشرف کولچاک، تأکید کرد که اشتراک‌گذاری اتاق گریم و آداب حاکم بر آن، تأثیر عمیقی بر نگرش انسان به زندگی می‌گذارد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "f97e1825220c",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/ikinci-kez-anne-olmaya-hazirlaniyor-gamze-ercelden-karni-burnunda-yeni-kareler-7693661",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "İkinci kez anne olmaya hazırlanıyor! Gamze Erçel'den karnı burnunda yeni kareler",
-   "snippet": "Oyuncu Hande Erçel’in fenomen ablası Gamze Erçel Yıldırım, ikinci bebeğini kucağına almaya hazırlanıyor. Doğum için gün sayan Yıldırım'ın son pozlarında karnının iyice belirginleştiği görüldü.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aea32f26672e03049526de6.jpg",
-   "video": null,
-   "published": "2026-11-03T19:18:15.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/ikinci-kez-anne-olmaya-hazirlaniyor-gamze-ercelden-karni-burnunda-yeni-kareler-7693661",
-     "title": "İkinci kez anne olmaya hazırlanıyor! Gamze Erçel'den karnı burnunda yeni kareler",
-     "snippet": "Oyuncu Hande Erçel’in fenomen ablası Gamze Erçel Yıldırım, ikinci bebeğini kucağına almaya hazırlanıyor. Doğum için gün sayan Yıldırım'ın son pozlarında karnının iyice belirginleştiği görüldü.",
-     "published": "2026-11-03T19:18:15.000Z",
-     "titleFa": "دومین بارداری؛ تصاویر جدیدی از شکم برآمده gamze erçel منتشر شد"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aea32f26672e03049526de6.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aea32f26672e03049526de6.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "gamze erçel دومین فرزند خود را به دنیا می‌آورد",
-   "summaryFa": "gamze erçel، خواهر بازیگر مشهور hande erçel، در آستانه به دنیا آوردن دومین فرزند خود قرار دارد. تصاویر جدید او با شکم برآمده در رسانه‌ها منتشر شده است.",
-   "bodyFa": [
-    "gamze erçel yıldırım که به عنوان خواهر بازیگر سرشناس hande erçel شناخته می‌شود، این روزها خود را برای پذیرش دومین فرزندش آماده می‌کند. او در روزهای پایانی دوران بارداری خود به سر می‌برد و لحظات نزدیک به زایمان را سپری می‌کند.",
-    "تصاویر تازه‌ای از او منتشر شده است که نشان می‌دهد شکمش به خوبی برآمده شده و بارداری‌اش در مرحله پیشرفته‌ای قرار دارد. این اخبار و تصاویر جدید توجه طرفداران و رسانه‌ها را به خود جلب کرده است."
    ],
    "ai": true,
    "aiTries": 1
@@ -13503,147 +13792,6 @@
    "bodyFa": [
     "شبکه شو تی‌وی چهارمین تیزر تبلیغاتی قسمت ۱۴۵ سریال محبوب «شربت زغال‌اخته» را منتشر کرد. در این بخش، مواجهه نورسما و اصیل به تصویر کشیده می‌شود که در آن اصیل به عشق خود اعتراف می‌کند، اما نورسما موضعی قاطع می‌گیرد و به او می‌گوید که آن‌ها نمی‌توانند با هم باشند و او شاید امروز برای اولین بار او را واقعاً از دست داده است. در همین حال، عبدالله که از بازگشت دخترش خوشحال است، از نورسما عذرخواهی می‌کند.",
     "از سوی دیگر، خبر آشتی کردن الیف، چمن و امیر باعث روبه‌رو شدن Kıvılcım (قِویلجیم) و سالقیم می‌شود. سفر لیلار به هتل عمر و وداع هلال با عمر پیش از رفتن به لندن نیز از دیگر اتفاقات جذاب این قسمت است. در سکانس پایانی این تیزر، فاتح شاهد دیدار مخفیانه باشاک و لیلار است و در حالی که باشاک تلاش می‌کند پسرش را از لیلار دور نگه دارد، لیلار ادعا می‌کند که پدر جمو است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "e84bae40766a",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/aska-geldi-buse-terim-ve-sevgilisi-batu-sondan-romantik-pozlar-7693638",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Aşka geldi! Buse Terim ve sevgilisi Batu Son’dan romantik pozlar",
-   "snippet": "Fatih Terim'in fenomen kızı Buse Terim, özel hayatı ve paylaşımlarıyla magazin gündeminde adından söz ettiriyor. Volkan Bahçekapılı'dan ayrıldıktan sonra yeni bir aşka yelken açan Terim, sevgilisi Batu Son'la yeni romantik karelerini paylaştı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aea18aa6672e03049526da1.jpg",
-   "video": null,
-   "published": "2026-11-03T17:25:17.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/aska-geldi-buse-terim-ve-sevgilisi-batu-sondan-romantik-pozlar-7693638",
-     "title": "Aşka geldi! Buse Terim ve sevgilisi Batu Son’dan romantik pozlar",
-     "snippet": "Fatih Terim'in fenomen kızı Buse Terim, özel hayatı ve paylaşımlarıyla magazin gündeminde adından söz ettiriyor. Volkan Bahçekapılı'dan ayrıldıktan sonra yeni bir aşka yelken açan Terim, sevgilisi Batu Son'la yeni romantik karelerini paylaştı.",
-     "published": "2026-11-03T17:25:17.000Z",
-     "titleFa": "عاشقانه شد! عکس‌های رمانتیک بوسه تیم و پارتنرش باتو سون"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aea18aa6672e03049526da1.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aea18aa6672e03049526da1.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "تصاویر رمانتیک بوسه تیم و پارتنرش باتو سون",
-   "summaryFa": "بوسه تیم، دختر فاتح تیم، تصاویر جدیدی از روابط عاطفی خود با باتو سون منتشر کرد. او پس از جدایی از ولکان باغچه‌کاپالی وارد رابطه تازه‌ای شده است.",
-   "bodyFa": [
-    "بوسه تیم که به خاطر زندگی شخصی و فعالیت‌هایش در رسانه‌های اجتماعی شناخته می‌شود، بار دیگر در مرکز توجه اخبار هنری قرار گرفت.",
-    "او پس از پایان زندگی مشترک خود با ولکان باغچه‌کاپالی، این بار تصاویر و لحظات رمانتیک جدیدی را به همراه پارتنر جدید خود، باتو سون، با مخاطبان به اشتراک گذاشت."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "9bf65a6fd4b7",
-   "url": "https://www.milliyet.com.tr/magazin/aydan-seneri-yikan-olum-haberi-cok-ozleyecegim-7693621",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Aydan Şener'i yıkan ölüm haberi! 'Çok özleyeceğim'",
-   "snippet": "HABER MERKEZİ - 1981 yılında Türkiye güzeli seçilen, kısa bir süre mankenlik yaptıktan sonra oyunculuğa adım atan Aydan Şener kariyerinin yanı sıra paylaşımlarıyla da magazin gündeminde adından söz ettiriyor. Sosyal medyayı aktif olarak kullanan ünlülerden olan 63 yaşındaki Aydan Şener, son paylaşımıyla takipçilerini hüzünlendirdi. İlk kez anne olmuştu! Melike Şahin ve oğlu Ali Robin'den yeni kareler ÜZÜCÜ HABERİ DUYURDU Şener, Instagram hesabından üzücü bir haberi duyurdu. Aydan Şener, yıllardı",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6aea0baf6672e03049526d79.jpg",
-   "video": null,
-   "published": "2026-11-03T16:52:19.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/aydan-seneri-yikan-olum-haberi-cok-ozleyecegim-7693621",
-     "title": "Aydan Şener'i yıkan ölüm haberi! 'Çok özleyeceğim'",
-     "snippet": "HABER MERKEZİ - 1981 yılında Türkiye güzeli seçilen, kısa bir süre mankenlik yaptıktan sonra oyunculuğa adım atan Aydan Şener kariyerinin yanı sıra paylaşımlarıyla da magazin gündeminde adından söz ettiriyor. Sosyal medyayı aktif olarak kullanan ünlülerden olan 63 yaşındaki Aydan Şener, son paylaşım",
-     "published": "2026-11-03T16:52:19.000Z",
-     "titleFa": "خبر مرگ که ایدان شنر را ویران کرد! «بسیار دلتنگت خواهم شد»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6aea0baf6672e03049526d79.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6aea0baf6672e03049526d79.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "خبر درگذشت حیوان خانگی ایدان شنر",
-   "summaryFa": "ایدان شنر، بازیگر مطرح ترکیه، در صفحه اجتماعی خود از مرگ حیوان خانگی اش خبر داد و ابراز ناراحتی کرد.",
-   "bodyFa": [
-    "ایدان شنر، بازیگر ۶۳ ساله و چهره شناخته‌شده که در سال ۱۹۸۱ به عنوان دختر شایسته ترکیه انتخاب شده بود، با انتشار مطلبی در حساب کاربری خود خبر تلخی را به اطلاع مخاطبانش رساند. او اعلام کرد که حیوان خانگی و دوست وفادارش که سال‌ها در کنارش بود، جان خود را از دست داده است.",
-    "این بازیگر که فعالیت زیادی در شبکه‌های اجتماعی دارد و همواره مورد توجه رسانه‌ها و بخش مجله‌ای خبرهاست، با انتشار این پیام اندوه خود را از این فقدان نشان داد و پیامی در این خصوص به اشتراک گذاشت."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "cdf12e1874e3",
-   "url": "https://www.milliyet.com.tr/magazin/survivorda-dugun-var-ayse-yuksel-romantik-evlilik-teklifi-karsisinda-gozyaslarina-boguldu-7447375",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Survivor Ayşe Yüksel sevgilisi Sercan Saray ile evleniyor! Romantik teklif karşısında gözyaşlarına boğuldu",
-   "snippet": "HABER MERKEZİ - Ocak ayında başlayan Survivor All Star 2025 macerası haziranda sona erdi. Adem Kılıççı'nın şampiyon olduğu Survivor 2025 sezonunun en çok konuşulan isimlerinden biri de başarılı isim Ayşe Yüksel oldu. Ünlü isimden nostaljik paylaşım! Çocukluk fotoğrafıyla takipçilerini geçmişe götürdü Yarışmada dördüncü olmayı başaran Ayşe Yüksel, Survivor'dan döndükten sonra sosyal medyayı da aktif kullanmaya başladı. Yüksel, yaptığı diyetten sonra bir haftada 2,5 kilo verdiğini açıklamıştı. ROM",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/68ca72373272e7f520f04928.jpg",
-   "video": null,
-   "published": "2026-11-03T16:24:31.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/survivorda-dugun-var-ayse-yuksel-romantik-evlilik-teklifi-karsisinda-gozyaslarina-boguldu-7447375",
-     "title": "Survivor Ayşe Yüksel sevgilisi Sercan Saray ile evleniyor! Romantik teklif karşısında gözyaşlarına boğuldu",
-     "snippet": "HABER MERKEZİ - Ocak ayında başlayan Survivor All Star 2025 macerası haziranda sona erdi. Adem Kılıççı'nın şampiyon olduğu Survivor 2025 sezonunun en çok konuşulan isimlerinden biri de başarılı isim Ayşe Yüksel oldu. Ünlü isimden nostaljik paylaşım! Çocukluk fotoğrafıyla takipçilerini geçmişe götürd",
-     "published": "2026-11-03T16:24:31.000Z",
-     "titleFa": "Survivor Ayşe Yüksel sevgilisi Sercan Saray ile evleniyor! Romantik teklif karşısında gözyaşlarına boğuldu"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/68ca72373272e7f520f04928.jpg",
-    "https://image.milimaj.com/i/milliyet/75/1200x675/68ca818e3272e7f520f04970.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "ازpishنهاد ازدواج به عیش Yüksel و عکس کودکی او",
-   "summaryFa": "عیشه Yüksel، چهره مطرح مسابقه Survivor، با سercان Saray ازدواج می‌کند. او همچنین تصویر دوران کودکی خود را با هوادارانش به اشتراک گذاشت.",
-   "bodyFa": [
-    "عیشه Yüksel یکی از نام‌های پربحث فصل Survivor 2025 بود که مسابقات آن از ژانویه آغاز و در ماه ژوئن به پایان رسید. در این فصل آدم کلیچچی به مقام قهرمانی دست یافت.",
-    "گزارش‌ها حاکی از آن است که عیشه Yüksel از سوی نامزد خود سercan Saray پیشنهاد ازدواج دریافت کرده و در برابر این پیشنهاد رومانتیک احساساتی شده است. همچنین او اخیراً با انتشار یک عکس قدیمی از دوران کودکی خود، فالوورهایش را به گذشته برد."
    ],
    "ai": true,
    "aiTries": 1
