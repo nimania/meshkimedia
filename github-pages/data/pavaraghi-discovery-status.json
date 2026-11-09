@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T06:19:10.558934+00:00",
+  "generatedAt": "2026-11-09T22:17:43.181299+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "uzak-sehir:65",
-    "tuzlu-kahve:4",
-    "tuzlu-kahve:5",
-    "tuzlu-kahve:6"
+    "uzak-sehir:66",
+    "abi:1",
+    "abi:19",
+    "abi:20"
   ],
   "episodes": [
     {
@@ -208,7 +208,7 @@
       "seriesSlug": "abi",
       "seriesTitle": "خانواده یک آزمون است",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-01T21:58:39.168778+00:00",
+      "checkedAt": "2026-11-09T22:17:43.181299+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -240,7 +240,7 @@
       "seriesSlug": "abi",
       "seriesTitle": "خانواده یک آزمون است",
       "originalEpisode": 19,
-      "checkedAt": "2026-11-01T21:58:39.168778+00:00",
+      "checkedAt": "2026-11-09T22:17:43.181299+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -272,7 +272,7 @@
       "seriesSlug": "abi",
       "seriesTitle": "خانواده یک آزمون است",
       "originalEpisode": 20,
-      "checkedAt": "2026-11-01T21:58:39.168778+00:00",
+      "checkedAt": "2026-11-09T22:17:43.181299+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -2512,7 +2512,7 @@
       "seriesSlug": "uzak-sehir",
       "seriesTitle": "شهر دور",
       "originalEpisode": 66,
-      "checkedAt": "2026-11-01T13:16:53.758566+00:00",
+      "checkedAt": "2026-11-09T22:17:43.181299+00:00",
       "languagesToTry": [
         "tr",
         "fa",
