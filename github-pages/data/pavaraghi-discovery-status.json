@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T07:12:27.201969+00:00",
+  "generatedAt": "2026-11-10T19:41:48.305980+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "uzak-sehir:67",
-    "abi:21",
-    "abi:22",
-    "abi:23"
+    "yeralti:1",
+    "alti-ustu-istanbul:1",
+    "anne-yarisi:1",
+    "ask-ve-taht:1"
   ],
   "episodes": [
     {
@@ -400,7 +400,7 @@
       "seriesSlug": "alti-ustu-istanbul",
       "seriesTitle": "بالا و پایین استانبول",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-02T15:43:33.871508+00:00",
+      "checkedAt": "2026-11-10T19:41:48.305980+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -432,7 +432,7 @@
       "seriesSlug": "anne-yarisi",
       "seriesTitle": "نیمهٔ مادر",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-02T15:43:33.871508+00:00",
+      "checkedAt": "2026-11-10T19:41:48.305980+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -464,7 +464,7 @@
       "seriesSlug": "ask-ve-taht",
       "seriesTitle": "عشق و تخت",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-02T15:43:33.871508+00:00",
+      "checkedAt": "2026-11-10T19:41:48.305980+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -2576,7 +2576,7 @@
       "seriesSlug": "yeralti",
       "seriesTitle": "زیرزمین",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-02T05:57:12.653448+00:00",
+      "checkedAt": "2026-11-10T19:41:48.305980+00:00",
       "languagesToTry": [
         "tr",
         "fa",
