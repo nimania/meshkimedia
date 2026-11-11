@@ -164,7 +164,10 @@
     "slot:2026-11-10:2",
     "news:9e07db277263",
     "editorial:dubbed-10:0",
-    "slot:2026-11-11:0"
+    "slot:2026-11-11:0",
+    "engagement:quiz:actor:hayal-koseoglu",
+    "engagement-day:2026-11-11",
+    "slot:2026-11-11:3"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -236,7 +239,7 @@
     "poll:independence": "2026-10-15",
     "actor:cansel-elcin": "2026-11-04",
     "actor:evrim-dogan": "2026-11-07",
-    "actor:hayal-koseoglu": "2026-10-16",
+    "actor:hayal-koseoglu": "2026-11-11",
     "actor:muge-bayramoglu": "2026-10-16",
     "actor:ege-erkal": "2026-10-16",
     "actor:bahtiyar-memili": "2026-10-29",
@@ -259,7 +262,7 @@
     "poll:format": "2026-11-09",
     "episode:10": "2026-11-10"
   },
-  "updated": "2026-11-11T06:38:17.933Z",
+  "updated": "2026-11-11T15:02:37.473Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
@@ -331,6 +334,13 @@
       "url": "https://t.me/ehtemalaneshgheh/77",
       "poll_id": "6021683885752977118",
       "date": "2026-11-09"
+    },
+    "engagement:quiz:actor:hayal-koseoglu": {
+      "channel": "@ehtemalaneshgheh",
+      "message_id": 85,
+      "url": "https://t.me/ehtemalaneshgheh/85",
+      "poll_id": "6025973441390183998",
+      "date": "2026-11-11"
     }
   }
 }
