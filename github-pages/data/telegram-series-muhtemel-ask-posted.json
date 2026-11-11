@@ -167,7 +167,9 @@
     "slot:2026-11-11:0",
     "engagement:quiz:actor:hayal-koseoglu",
     "engagement-day:2026-11-11",
-    "slot:2026-11-11:3"
+    "slot:2026-11-11:3",
+    "editorial:dubbed-11:0",
+    "slot:2026-11-11:1"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -228,7 +230,8 @@
     "f017496cc5ed3cccc9d2c312",
     "6359a8ebf554af655aa0ced7",
     "dacc429096b9ea15ee92de12",
-    "15d7cb65342a00314164e7d4"
+    "15d7cb65342a00314164e7d4",
+    "f4e4593bf157470e77248f91"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-09",
@@ -253,7 +256,7 @@
     "episode:3": "2026-11-10",
     "episode:4": "2026-11-11",
     "poll:tolga": "2026-11-05",
-    "episode:5": "2026-11-08",
+    "episode:5": "2026-11-11",
     "episode:6": "2026-11-09",
     "episode:7": "2026-11-06",
     "episode:8": "2026-11-07",
@@ -262,7 +265,7 @@
     "poll:format": "2026-11-09",
     "episode:10": "2026-11-10"
   },
-  "updated": "2026-11-11T15:02:37.473Z",
+  "updated": "2026-11-11T15:25:31.478Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
