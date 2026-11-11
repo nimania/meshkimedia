@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:57:39.697Z",
+ "updated": "2026-11-11T15:17:10.147Z",
  "items": [
   {
    "id": "72ca4c7624ea",
@@ -53,35 +53,6 @@
    "aiTries": 1
   },
   {
-   "id": "5c495a14e07c",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/usta-sanatci-cengiz-tekine-veda-43374579",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Usta sanatçı Cengiz Tekin'e veda",
-   "snippet": "“Neden Saçların Beyazlamış Arkadaş”, “Dert Kitabı” ve “Diyemedim” gibi unutulmaz şarkılara imza atan sanatçı Cengiz Tekin, 71 yaşında hayatını kaybetti. Bir süredir sağlık sorunlarıyla mücadele eden Tekin, bugün İstanbul'da düzenlenen törenle son yolculuğuna uğurlandı.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af471fe3572349e3fc70318.jpg",
-   "video": null,
-   "published": "2026-11-11T13:48:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/usta-sanatci-cengiz-tekine-veda-43374579",
-     "title": "Usta sanatçı Cengiz Tekin'e veda",
-     "snippet": "“Neden Saçların Beyazlamış Arkadaş”, “Dert Kitabı” ve “Diyemedim” gibi unutulmaz şarkılara imza atan sanatçı Cengiz Tekin, 71 yaşında hayatını kaybetti. Bir süredir sağlık sorunlarıyla mücadele eden Tekin, bugün İstanbul'da düzenlenen törenle son yolculuğuna uğurlandı.",
-     "published": "2026-11-11T13:48:00.000Z"
-    }
-   ]
-  },
-  {
    "id": "0a5828084cdd",
    "url": "https://www.sozcu.com.tr/53-yasindaki-heidi-klum-dan-37-yasindaki-esine-ask-sovu-tatil-pozlari-olay-oldu-p380344",
    "source": "sozcu-magazin",
@@ -108,7 +79,16 @@
      "snippet": "Dünyaca ünlü model Heidi Klum, kendisinden 16 yaş küçük eşi Tom Kaulitz ile Almanya tatilinden romantik görüntüler payla...",
      "published": "2026-11-11T13:26:28.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hediklmmjpg-aXa6K79TNUKbpzsr11FvTw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hediklmmjpg-aXa6K79TNUKbpzsr11FvTw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hediklumjpg-94XJ2kFJpkyFB4Z8bKGEgQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/53-yasindaki-heidi-klumdan-37-yasindaki-esine-ask-sovu-tatil-pozlari-olay-oldu-3jpg-T_Q138YmH0KCe-CksWXulg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/53-yasindaki-heidi-klumdan-37-yasindaki-esine-ask-sovu-tatil-pozlari-olay-oldu-2jpg-sN_tSgH1OEOhHc5GyMtYbg.jpg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "9e3322f7acb5",
@@ -135,38 +115,27 @@
      "url": "https://www.sozcu.com.tr/kadir-ezildi-gitti-pelin-oztekin-geldi-reytinglerde-aradaki-fark-sasirtti-p380336",
      "title": "Kadir Ezildi ve yerine gelen Pelin Öztekin rakip oldu: Reytinglerde fark şaşırttı",
      "snippet": "NOW TV'de Kadir Ezildi'nin sunduğu En Hamarat Benim'in yerine başlayan Pelin Öztekin'li Gelinler Sofrada'nın reyting sır...",
-     "published": "2026-11-11T13:04:06.000Z"
+     "published": "2026-11-11T13:04:06.000Z",
+     "titleFa": "رقابت کادیر ایزیلدی و پلین اوزتکین که جایگزین او شد: تفاوت در آمار بینندگان شگفت‌انگیز بود"
     }
-   ]
-  },
-  {
-   "id": "a22e41ab5375",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/doktorlar-konser-veremeyecegini-soyledi-efsane-muzisyen-vazgecmiyor-araba-bile-suremiyor-ama-sahneye-cikacak-43374332",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Doktorlar konser veremeyeceğini söyledi, efsane müzisyen vazgeçmiyor… Araba bile süremiyor ama sahneye çıkacak",
-   "snippet": "Müzik dünyasının efsane isimlerinden biri son birkaç yıldır yaşadığı ağır sağlık sorunlarıyla gündemde. Beyin hastalığına yakalanan usta müzisyen doktorlarının kararını hayranlarına açıklamış ve durumu büyük üzüntü yaratmıştı.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af45838aa7d7bef19767dc4.jpg",
-   "video": null,
-   "published": "2026-11-11T12:44:39.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/doktorlar-konser-veremeyecegini-soyledi-efsane-muzisyen-vazgecmiyor-araba-bile-suremiyor-ama-sahneye-cikacak-43374332",
-     "title": "Doktorlar konser veremeyeceğini söyledi, efsane müzisyen vazgeçmiyor… Araba bile süremiyor ama sahneye çıkacak",
-     "snippet": "Müzik dünyasının efsane isimlerinden biri son birkaç yıldır yaşadığı ağır sağlık sorunlarıyla gündemde. Beyin hastalığına yakalanan usta müzisyen doktorlarının kararını hayranlarına açıklamış ve durumu büyük üzüntü yaratmıştı.",
-     "published": "2026-11-11T12:44:39.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kadir-ezildi-gitti-pelin-oztekin-geldi-reytinglerde-aradaki-fark-sasirttipng-AaDGqf0mK0edu-qzbysqkQ.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kadir-ezildi-gitti-pelin-oztekin-geldi-reytinglerde-aradaki-fark-sasirttipng-AaDGqf0mK0edu-qzbysqkQ.png?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/141jpg-NvbLaJ_BzUOhxydM8ONnsg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/temizlik-benim-isim-kadir-ezildijpg-qfqIOrw1iUmrWS8xDDKlpA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/caycekkapaklikjpg-L60HdSJ3zESLK44MKZKzfA.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "رقابت آمار بینندگان میان برنامه‌های جدید کادیر ایزیلدی و پلین اوزتکین",
+   "summaryFa": "برنامه «گلینلر سوفرادا» با اجرای پلین اوزتکین در شبکه NOW TV جایگزین برنامه کادیر ایزیلدی شد. هم‌زمان با بازگشت ایزیلدی در شبکه TV8، اختلاف آمار بینندگان این دو برنامه توجه‌ها را جلب کرده است.",
+   "bodyFa": [
+    "برنامه تلویزیونی «گلینلر سوفرادا» با اجرای پلین اوزتکین در شبکه NOW TV کار خود را آغاز کرده و جایگزین برنامه «ان هامارات بنیم» با اجرای کادیر ایزیلدی شده است. با مشخص شدن آمار رتبه‌بندی بینندگان، مشخص گردید که این دو چهره تلویزیونی اکنون به رقبای یکدیگر تبدیل شده‌اند.",
+    "از سوی دیگر، کادیر ایزیلدی با برنامه جدیدی در شبکه TV8 به روی آنتن بازگشته است. تفاوت در رتبه‌بندی میزان بینندگان میان برنامه جدید ایزیلدی و برنامه جایگزین او در شبکه NOW TV باعث جلب توجه رسانه‌ها شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "559b1bd84b6e",
@@ -195,7 +164,16 @@
      "snippet": "Türk sinemasının unutulmaz ismi Kemal Sunal, doğum gününde ailesi tarafından anıldı. Ali Sunal, Ezo Sunal ve Gül Sunal, yaptıkları duygusal paylaşımlarla usta sanatçıya duydukları özlemi dile getirdi.",
      "published": "2026-11-11T12:40:45.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af46172e24fe47b8d6cbd8e.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af46172e24fe47b8d6cbd8e.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "4d9044f9e874",
@@ -256,7 +234,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ozge-torer-karakuyunun-hikayesi-bogazimda-dugumlendi-43374300",
      "title": "Özge Törer: Karakuyu’nun hikayesi boğazımda düğümlendi",
      "snippet": "Kanal D’nin izleyiciyle buluşmak için gün sayan dizisi Karakuyu’nun başrol oyuncusu Özge Törer, dizinin kendisini derinden etkileyen hikâyesine ilişkin açıklamalarda bulundu. Törer, izleyicileri yoğun duyguların ve güçlü bir adalet arayışının beklediğini söyledi.",
-     "published": "2026-11-11T11:46:55.000Z"
+     "published": "2026-11-11T11:46:55.000Z",
+     "titleFa": "Özge Törer: Karakuyu’nun hikayesi boğazımda düğümlendi"
     },
     {
      "source": "milliyet-magazin",
@@ -264,12 +243,53 @@
      "url": "https://www.milliyet.com.tr/magazin/ozge-torer-karakuyunun-hikayesi-bogazimda-dugumlendi-7698816",
      "title": "Özge Törer: Karakuyu'nun hikayesi boğazımda düğümlendi",
      "snippet": "HABER MERKEZİ - Geçmişinden uzaklaşarak kendine yeni bir hayat kurmaya çalışan Ferda’nın (Özge Törer) hikâyesini konu alan Karakuyu, izleyicileri insanlığa dair derin sorularla yüzleştirmeye hazırlanıyor. 'BİRAZ YÜREK BURKABİLİRİZ, BİRAZ CESARET VEREBİLİRİZ' Güçlü hikâyesiyle ekrana gelmeye hazırlan",
-     "published": "2026-11-11T12:37:02.000Z"
+     "published": "2026-11-11T12:37:02.000Z",
+     "titleFa": "Özge Törer: Karakuyu'nun hikayesi boğazımda düğümlendi"
     }
    ],
    "mergedIds": [
     "9c3ff904139a"
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af4557f3572349e3fc7020f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af4557f3572349e3fc7020f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "özge تörer: داستان «کاراکویو» در گلوی من گره خورد",
+   "summaryFa": "بازیگر نقش اصلی سریال «کاراکویو» از تاثیر عمیق داستان این مجموعه بر خود گفت. این سریال قرار است به زودی از کانال د پخش شود.",
+   "bodyFa": [
+    "özge تörer، بازیگر نقش اصلی سریال جدید «کاراکویو» که قرار است به زودی از شبکه کانال د روی آنتن برود، درباره داستان این مجموعه اظهاراتی داشته است. او بیان کرد که داستان این سریال او را به شدت تحت تاثیر قرار داده و در گلویوی او گره خورده است.",
+    "بر اساس گزارش‌ها، مخاطبان این مجموعه با احساساتی فشرده و تلاشی قدرتمند برای اجرای عدالت روبه‌رو خواهند شد. همچنین روایت سریال درباره فردایی است که تلاش می‌کند با فاصله گرفتن از گذشته خود، زندگی تازه‌ای برای خویش بسازد و مخاطبان را با پرسش‌های عمیقی درباره بشریت مواجه کند."
+   ],
+   "comparison": {
+    "agree": [
+     "هر دو رسانه گزارش داده‌اند که özge تörer بازیگر نقش اصلی سریال Karakuyu است.",
+     "هر دو منبع اشاره کرده‌اند که این سریال از شبکه Kanal D پخش خواهد شد.",
+     "هر دو منبع به این گفته özge تörer اشاره کرده‌اند که داستان سریال در گلوی او گره خورده است."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات پیرامون شخصیت و سوالات انسانی سریال",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "به احساسات شدید و جستجوی قدرتمند برای عدالت اشاره کرده است."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "به جزئیات بیشتری درباره شخصیت Ferda و مواجهه مخاطبان با سوالات عمیق درباره بشریت پرداخته است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6aa0d40378b6",
@@ -296,9 +316,19 @@
      "url": "https://www.haberturk.com/magazin/2027-coachella-festivali-nin-ana-sanatci-kadrosu-belli-oldu-3926528",
      "title": "Kadro belli oldu",
      "snippet": "Dünyanın en prestijli ve en popüler açık hava müzik etkinliklerinden biri olan Coachella'da gelecek yıl yer alacak sanatçılar açıklandı",
-     "published": "2026-11-11T11:23:42.000Z"
+     "published": "2026-11-11T11:23:42.000Z",
+     "titleFa": "فهرست هنرمندان مشخص شد"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "اعلام فهرست هنرمندان و خوانندگان اصلی جشنواره کوآچلا ۲۰۲۷",
+   "summaryFa": "فهرست هنرمندان و اجراکنندگان اصلی جشنواره موسیقی و هنر کوآچلا برای سال ۲۰۲۷ اعلام شد. دوآ لیپا، تیم ایمپالا، سیزا و ددی یانکی از چهره‌های اصلی این رویداد خواهند بود.",
+   "bodyFa": [
+    "برگزارکنندگان جشنواره موسیقی و هنر کوآچلا در شهر ایندیو ایالات متحده، فهرست اجراکنندگان دوره بعدی این رویداد را اعلام کردند. این جشنواره در دو آخر هفته متوالی و در تاریخ‌های ۹ تا ۱۱ آوریل و ۱۶ تا ۱۸ آوریل ۲۰۲۷ برگزار خواهد شد. در این دوره دوآ لیپا، تیم ایمپالا و سیزا به عنوان سربرگ‌های اصلی به روی صحنه می‌روند و ددی یانکی نیز با یک تولید و اجرای ویژه به عنوان چهارمین هنرمند اصلی حضور دارد.",
+    "علاوه بر اجراکنندگان اصلی، چهره‌ها و گروه‌های دیگری نظیر مدونا، جیسو، زارا لارسون، استیو لیسی، کلانی، پوبی بریجرز، ویزر، تیئستو، مارتین گریکس، کیگو و بکی جی در این جشنواره به اجرای برنامه خواهند پرداخت. طبق اعلام رسانه‌ها، پیش‌فروش بلیت‌های این رویداد از تاریخ ۱۳ نوامبر آغاز می‌شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "fe191db8baf7",
@@ -327,7 +357,16 @@
      "snippet": "Magazin dünyasının gözde çiftlerinden Serenay Sarıkaya ve Mert Demir cephesinden ayrılık haberi geldi. Daha önce de hakl...",
      "published": "2026-11-11T11:13:43.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/serenaysarikayamertdemirrjpg-VlEKkkmjYE6uqpz-k6j9lQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/serenaysarikayamertdemirrjpg-VlEKkkmjYE6uqpz-k6j9lQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/3-yillik-ask-sessiz-sedasiz-bitti-serenay-sarikaya-ve-mert-demir-ayrildijpg-Zj0u90ubLEuobRTTiGbuBA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/losevjpg-M8S2s7KYoUqgPPoF6Hprvw.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yeni-proje-20261111t140139621png-JoNfFaQm20CqvZnDrlNVlw.png?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "ab157bbc221a",
@@ -354,9 +393,27 @@
      "url": "https://www.milliyet.com.tr/magazin/unlulerden-cop31de-ortak-cagri-soz-degil-artik-eylem-zamani-7698717",
      "title": "Ünlülerden COP31’de ortak çağrı: Söz değil, artık eylem zamanı",
      "snippet": "Antalya'da 9-20 Kasım tarihleri arasında gerçekleştirilen COP31'in 11-12 Kasım'daki Dünya Liderler Zirvesi kapsamında sanat, televizyon ve spor dünyasının tanınmış isimleri de zirveye katıldı. Dünyanın farklı ülkelerinden devlet ve hükümet başkanlarının iklim kriziyle mücadeleyi görüşmek üzere buluş",
-     "published": "2026-11-11T10:13:30.000Z"
+     "published": "2026-11-11T10:13:30.000Z",
+     "titleFa": "فراخوان مشترک چهره‌ها در COP31: زمان عمل است، نه حرف"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af43df6e24fe47b8d6cbbca.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af43df6e24fe47b8d6cbbca.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "فخوان مشترک چهره های سرشناس در COP31: زمان اقدام فرا رسیده است",
+   "summaryFa": "چهره‌های سرشناس حوزه‌های هنر، تلویزیون و ورزش در نشست جهانی سران در آنتالیا حضور یافتند. آن‌ها خواستار اقدام عملی به جای حرف در زمینه بحران اقلیمی شدند.",
+   "bodyFa": [
+    "نشست COP31 که از تاریخ ۹ تا ۲۰ نوامبر در آنتالیا در حال برگزاری است، میزبان چهره‌های سرشناس دنیای هنر، تلویزیون و ورزش بود. این افراد در بخش «نشست سران جهان» که در روزهای ۱۱ و ۱۲ نوامبر برگزار شد، شرکت کردند.",
+    "این رویداد با حضور سران کشورها و دولت‌های مختلف جهان برگزار شد تا راهکارهای مقابله با بحران اقلیمی را بررسی کنند. در همین راستا، چهره‌های شناخته‌شده نیز خواستار توجه جدی‌تر به این بحران شدند و تاکید کردند که دیگر زمان حرف زدن گذشته و باید اقدام عملی انجام داد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0e1a5ce378ff",
@@ -370,7 +427,7 @@
    "video": null,
    "published": "2026-11-11T09:50:31.000Z",
    "scope": "dizi",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -383,9 +440,27 @@
      "url": "https://www.sozcu.com.tr/57-yasindaki-beyazit-ozturk-yeniden-universiteli-olmayi-planliyor-hayalindeki-bolum-dikkat-cekti-p380266",
      "title": "57 yaşındaki Beyazıt Öztürk yeniden üniversiteli olmayı planlıyor: Hayalindeki bölüm dikkat çekti",
      "snippet": "Ekranların sevilen sunucusu Beyazıt Öztürk, yarışmada üniversiteye geri dönen bir yarışmacıyı görünce kendi eğitim hayat...",
-     "published": "2026-11-11T09:50:31.000Z"
+     "published": "2026-11-11T09:50:31.000Z",
+     "titleFa": "برنامه‌ریزی بیاضیت اوثتورک ۵۷ ساله برای تحصیل دوباره در دانشگاه: رشته مورد علاقه‌اش توجه‌ها را جلب کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/28jpg-Nm8aaiTIEUmEl5GJkc7JGw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/28jpg-Nm8aaiTIEUmEl5GJkc7JGw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/cam-balkonjpg-s_JFlauOz0a4LuVWYU-ocw.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/746jpg-pY2D3xqp6E6gsQzgWt5ybg.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6af46fb3f4678357b8b8f4bepng-zK4eMDJD70mwCmEwXlW1Fg.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "بیاضیت اوثتورک ۵۷ ساله به فکر بازگشت به دانشگاه و تحصیل در رشته دامپزشکی است",
+   "summaryFa": "بیاضیت اوثتورک، مجری تلویزیون، پس از مشاهده شرکت‌کننده‌ای که به دانشگاه بازگشته بود، از تمایل خود برای ادامه تحصیل گفت. او اعلام کرد که دوباره به تحصیل در رشته دامپزشکی علاقه‌مند شده است.",
+   "bodyFa": [
+    "بیاضیت اوثتورک، مجری ۵۷ ساله سرشناس تلویزیونی، پس از دیدن یکی از شرکت‌کنندگان یک مسابقه که به چرخه تحصیل در دانشگاه بازگشته بود، درباره تحصیلات خود اظهارات مفصلی مطرح کرد.",
+    "این مجری محبوب اعلام کرد که دوباره به فکر تحصیل افتاده و علاقه‌مند است در رشته دامپزشکی ادامه تحصیل دهد. سخنان او درباره بازگشت به دانشگاه و انتخاب رشته مورد علاقه‌اش توجه بسیاری را جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "071775738ffd",
@@ -414,7 +489,16 @@
      "snippet": "Takvimler 2011 yılını gösteriyordu... Ünlü oyuncunun karısını yıllar yılı aldattığı ortaya çıkınca bu durum herkes için şaşırtıcı olmuştu...",
      "published": "2026-11-11T09:42:10.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af20eaa3572349e3fc6f9df.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af20eaa3572349e3fc6f9df.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true
   },
   {
    "id": "479382b55005",
@@ -443,7 +527,16 @@
      "snippet": "Bir dönem rol aldığı dizilerle geniş bir hayran kitlesine ulaşan oyuncu Burak Hakkı, oyunculuk kariyerinin yanı sıra çiftçilikte de başarı elde etti.",
      "published": "2026-11-11T09:32:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af4375a3572349e3fc70129.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af4375a3572349e3fc70129.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true
   },
   {
    "id": "16505b3107d0",
@@ -483,7 +576,16 @@
    ],
    "mergedIds": [
     "1394c6c67fe5"
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/cengiztekinnnjpg-YqZIpgvTgEe9DfBG_sN-xw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/cengiztekinnnjpg-YqZIpgvTgEe9DfBG_sN-xw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/cengiztekinnnjpg-WI2xrknbWUqn65GAiWZ_Yw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/manevrapng-1_3YSpzwgE69fjZ5WPGshQ.png?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hw1yymyaaaa8abgjpg-wKTXpWr0CEq0MQk29-8yLQ.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "0176cae06b9b",
@@ -568,9 +670,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/dizi-oyuncusu-yillar-yili-sohret-pesinde-kostu-sonunda-karavanda-yasayan-bir-ciftci-oldu-o-dunyadaki-her-sey-yalanmis-meger-43373801",
      "title": "Dizi oyuncusu yıllar yılı şöhret peşinde koştu... Sonunda karavanda yaşayan bir çiftçi oldu: 'Gerekirse yol kenarında limon satarım'",
      "snippet": "Özellikle son yıllarda çok fazla okumuşsunuzdur, doğal yaşama geçiş yapan ünlülerin öykülerini. Kendilerine sakin, huzurlu, kentin karmaşasından uzakta bir hayat kurup sebze- meyve yetiştiren, hatta hayvancılığa başlayan ünlüler bunlar.",
-     "published": "2026-11-11T08:39:00.000Z"
+     "published": "2026-11-11T08:39:00.000Z",
+     "titleFa": "بازیگر سریال پس از سال‌ها تلاش برای شهرت، کشاورز کاروان‌نشین شد: 'در صورت لزوم کنار جاده لیمو می‌فروشم'"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af4246533682fc5418a9a1a.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af4246533682fc5418a9a1a.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "تغییر مسیر زندگی یک بازیگر سریال و روی آوردن به کشاورزی و زندگی در طبیعت",
+   "summaryFa": "گزارش‌ها حاکی از آن است که برخی چهره‌های سرشناس با رها کردن شلوغی شهر، به زندگی ساده، کشاورزی و پرورش محصولات در طبیعت روی آورده‌اند.",
+   "bodyFa": [
+    "بر اساس گزارش‌های منتشرشده، در سال‌های اخیر برخی از چهره‌های سرشناس و بازیگران پس از سال‌ها حضور در دنیای شهرت، تصمیم گرفته‌اند از ازدحام و جنجال‌های زندگی شهری فاصله بگیرند. این افراد به دنبال دستیابی به آرامش، مسیر جدیدی را برای زندگی خود انتخاب کرده‌اند.",
+    "در این رویکرد جدید، این افراد به زندگی در طبیعت روی آورده و به فعالیت‌هایی نظیر کشاورزی، کشت میوه و سبزیجات و حتی دامداری مشغول شده‌اند تا الگویی متفاوت از زندگی پس از دوران شهرت را تجربه کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5742aebf89e4",
@@ -703,10 +823,20 @@
      "url": "https://www.haberturk.com/magazin/gokce-eyuboglu-sevdan-bir-ates-i-anlatti-karakterlerin-gecmisi-merak-duygusunu-canli-tutuyor-3926450",
      "title": "\"Karakterlerin geçmişi merak duygusunu canlı tutuyor\"",
      "snippet": "SHOW TV'nin ilgiyle izlenen dizisi 'Sevdan Bir Ateş'te 'Mihre' karakterine hayat veren Gökçe Eyüboğlu, Habertürk'e konuştu. Karakterinin derinliklerini, vicdan muhasebelerini ve setteki yaşamını tüm samimiyetiyle anlatan Eyüboğlu; oyunculuk yolculuğunu, merak duygusunu ve insanı anlamaya dair merak ",
-     "published": "2026-11-11T07:55:16.000Z"
+     "published": "2026-11-11T07:55:16.000Z",
+     "titleFa": "گذشته شخصیت‌ها حس کنجکاوی را زنده نگه می‌دارد"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "گذشته شخصیت‌ها حس کنجکاوی را زنده نگه می‌دارد",
+   "summaryFa": "گؤکچه ایوب‌اوغلو، بازیگر نقش میهره در سریال «عشقت یک آتش است»، در گفتگویی با خبرترک به بررسی ابعاد نقش خود پرداخت. او تاکید کرد که بدون قضاوت کردن، تلاش می‌کند دلایل رفتارهای شخصیت را درک کند.",
+   "bodyFa": [
+    "گؤکچه ایوب‌اوغلو، بازیگر سریال «عشقت یک آتش است» که از شبکه شو تی‌وی پخش می‌شود، در مصاحبه‌ای با خبرترک درباره بازی در نقش «میهره» صحبت کرده است. این سریال با داستان و شخصیت‌های خود توجه مخاطبان را جلب کرده و ایوب‌اوغلو در این گفتگو از ویژگی‌های نقش خود و تجربیاتش در پشت صحنه سخن گفته است.",
+    "ایوب‌اوغلو علاوه بر بازیگری، به تدریس این رشته نیز می‌پردازد و علاقه‌مند به پژوهش، کشف چیزهای جدید و سفر است. او نقش حس کنجکاوی را در زندگی شخصی و کاری خود بسیار تعیین‌کننده می‌داند و معتقد است که حفظ این کنجکاوی برای درک بهتر انسان‌ها و هنر ضروری است.",
+    "وی درباره نحوه آماده‌سازی برای نقش میهره اشاره کرد که به جای قضاوت کردن شخصیت، سعی می‌کند علل رفتارهای او، نیازها و شرایطی که او را ساخته است درک کند. به باور او، یک بازیگر نمی‌تواند شخصیتی را که خودش قضاوت می‌کند، به درستی ایفا نماید."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b99ac8828ccc",
@@ -737,9 +867,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/ayca-varlier-opera-sahnesinde-43373770",
      "title": "Ayça Varlıer opera sahnesinde",
      "snippet": "Kanal D’nin sevilen dizisi “Haysiyet”in Şehnaz’ı Ayça Varlıer, oyunculuktaki başarısının yanı sıra müzik çalışmalarıyla da adından söz ettiriyor.",
-     "published": "2026-11-11T07:13:17.000Z"
+     "published": "2026-11-11T07:13:17.000Z",
+     "titleFa": "آیچا وارلی‌یر روی صحنه اپرا"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af4158a3572349e3fc70011.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af4158a3572349e3fc70011.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true,
+   "titleFa": "آیچا وارلی‌یر روی صحنه اپرا",
+   "summaryFa": "آیچا وارلی‌یر، بازیگر نقش شهناز در سریال «حیثیت»، علاوه بر موفقیت در عرصه بازیگری با فعالیت‌های موسیقایی خود نیز توجه‌ها را جلب کرده است.",
+   "bodyFa": [
+    "آیچا وارلی‌یر که ایفاگر نقش «شهناز» در سریال محبوب «حیثیت» از شبکه کانال دی است، علاوه بر درخشش و موفقیت در بازیگری، با پروژه‌های موسیقایی‌اش نیز نام خود را بر سر زبان‌ها انداخته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "90a586880257",
@@ -3325,35 +3472,6 @@
    "aiTries": 1
   },
   {
-   "id": "0266bb4152d6",
-   "url": "https://www.haberturk.com/magazin/foto/breaking-bad-dizisi-yildizlari-hayatini-kaybeden-rj-mitte-nin-anma-toreninde-bulustu-3926169",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Mitte'yi andılar",
-   "snippet": "'Breaking Bad' dizisinde canlandırdığı Walter White Jr. rolüyle tanınan RJ Mitte'nin 34 yaşında hayatını kaybetmesinin ardından Hollywood'da anma töreni düzenlendi. Dizi yıldızları, rol arkadaşları için bir araya geldi",
-   "image": "https://im.haberturk.com/l/2026/11/10/ver1794294186/3926169/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-10T07:09:21.000Z",
-   "scope": "dizi",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/breaking-bad-dizisi-yildizlari-hayatini-kaybeden-rj-mitte-nin-anma-toreninde-bulustu-3926169",
-     "title": "Mitte'yi andılar",
-     "snippet": "'Breaking Bad' dizisinde canlandırdığı Walter White Jr. rolüyle tanınan RJ Mitte'nin 34 yaşında hayatını kaybetmesinin ardından Hollywood'da anma töreni düzenlendi. Dizi yıldızları, rol arkadaşları için bir araya geldi",
-     "published": "2026-11-10T07:09:21.000Z"
-    }
-   ]
-  },
-  {
    "id": "654bb746b852",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kayakuyunun-kahramani-43372325",
    "source": "hurriyet-kelebek",
@@ -4115,39 +4233,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "21b50912d5b7",
-   "url": "https://www.sozcu.com.tr/trt-nin-aile-yilina-ozel-evlilik-guzeldir-dizisi-yayina-saatler-kala-iptal-edildi-sebebi-sonra-p379661",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "TRT'nin 'Evlilik Güzeldir' dizisi yayına saatler kala iptal edildi: Sebebi sonra ortaya çıktı",
-   "snippet": "İzmir’in Aliağa ilçesindeki HABAŞ Demir-Çelik Fabrikası’nda meydana gelen patlamada 16 kişinin hayatını kaybetmesinin ar...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/trtjpg-KVM2pKFaTEifMB_g7tMUhw.jpg",
-   "video": null,
-   "published": "2026-11-09T18:17:27.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [
-     "evlilik-guzeldir"
-    ],
-    "people": [],
-    "networks": [
-     "trt-1"
-    ]
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/trt-nin-aile-yilina-ozel-evlilik-guzeldir-dizisi-yayina-saatler-kala-iptal-edildi-sebebi-sonra-p379661",
-     "title": "TRT'nin 'Evlilik Güzeldir' dizisi yayına saatler kala iptal edildi: Sebebi sonra ortaya çıktı",
-     "snippet": "İzmir’in Aliağa ilçesindeki HABAŞ Demir-Çelik Fabrikası’nda meydana gelen patlamada 16 kişinin hayatını kaybetmesinin ar...",
-     "published": "2026-11-09T18:17:27.000Z"
-    }
-   ]
   },
   {
    "id": "256e6d825e98",
