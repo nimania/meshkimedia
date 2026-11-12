@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:03:36.600Z",
+ "updated": "2026-11-12T03:04:06.324Z",
  "items": [
   {
    "id": "0fe2fe5baf08",
@@ -199,10 +199,20 @@
      "url": "https://www.haberturk.com/magazin/foto/melisa-asli-pamuk-ve-yusuf-yazici-dan-mujdeli-haber-3926645",
      "title": "Ünlü çiftten müjdeli haber",
      "snippet": "Oyuncu Melisa Aslı Pamuk ile Olympiakos'ta forma giyen milli futbolcu Yusuf Yazıcı'nın ailesini büyütmeye hazırlandığı öğrenildi. Mutlu evliliklerini sürdüren çift, ikinci kez anne ve baba olmaya hazırlanıyor",
-     "published": "2026-11-11T18:53:14.000Z"
+     "published": "2026-11-11T18:53:14.000Z",
+     "titleFa": "خبر خوش از زوج مشهور"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "ملیسا اصلی پاموک و یوسف یازیجی در انتظار دومین فرزند خود هستند",
+   "summaryFa": "ملیسا اصلی پاموک، بازیگر مطرح، و یوسف یازیجی، فوتبالیست ملی‌پوش، به زودی برای دومین بار صاحب فرزند خواهند شد. خبر بارداری مجدد این بازیگر در جریان حضورش در یک رویداد مشخص شده است.",
+   "bodyFa": [
+    "بر اساس اخبار منتشرشده، ملیسا اصلی پاموک، بازیگر سرشناس، و یوسف یازیجی، بازیکن تیم اولیمپیاکوس و تیم ملی فوتبال ترکیه، در تدارک بزرگ‌تر کردن خانواده خود هستند. این زوج که زندگی مشترکشان را ادامه می‌دهند، به زودی دومین فرزند خود را به دنیا خواهند آورد.",
+    "این دو چهره معروف در مه ۲۰۲۴ طی مراسمی در پاریس با یکدیگر ازدواج کردند و کمی بعد در ۲۹ ژانویه ۲۰۲۵ با آغوش گرفتن پسرشان به نام «میلان»، برای اولین بار حس شیرین پدر و مادر شدن را تجربه کردند.",
+    "اکنون مشخص شده است که این زوج در انتظار فرزند دیگری هستند. خبر بارداری مجدد ملیسا اصلی پاموک پس از حضور او در یک رویداد جدید به آشکار شده و بازتاب یافته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3ac1fbbb173f",
@@ -402,7 +412,8 @@
      "url": "https://www.milliyet.com.tr/magazin/buyuk-ask-sona-mi-erdi-serenay-sarikaya-ve-mert-demir-ayrildi-iddiasi-7698959",
      "title": "Büyük aşk sona mı erdi? Serenay Sarıkaya ve Mert Demir ayrıldı iddiası",
      "snippet": "HABER MERKEZİ - Magazin dünyası Mert Demir ve Serenay Sarıkaya arasındaki ilişkiyi konuşmaya devam ediyor. İkilinin reklam aşkı yaşadığı iddia edilmişti. Çift ise haklarındaki iddialar karşısında uzun bir süre sessiz kalmayı tercih etmişti. Beraberliklerini gözlerden uzak yaşayan ünlü çiftin ayrıldı",
-     "published": "2026-11-11T15:57:39.000Z"
+     "published": "2026-11-11T15:57:39.000Z",
+     "titleFa": "آیا عشق بزرگ به پایان رسید؟ ادعای جدایی سرنای ساریکایا و مرت دمیر"
     }
    ],
    "images": [
@@ -413,7 +424,16 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "ادعای جدایی سرنای ساریکایا و مرت دمیر",
+   "summaryFa": "شایعات تازه‌ای درباره پایان رابطه سرنای ساریکایا و مرت دمیر مطرح شده است. این دو پیش‌تر نیز با ادعاهایی مبنی بر تبلیغاتی بودن رابطه‌شان مواجه شده بودند.",
+   "bodyFa": [
+    "رسانه‌های سرگرمی ترکیه از احتمال پایان رابطه عاطفی میان سرنای ساریکایا، بازیگر، و مرت دمیر، خواننده خبر می‌دهند. این خبر به یکی از موضوعات مورد بحث در اخبار چهره‌ها تبدیل شده است.",
+    "پیش از این نیز شایعاتی مطرح شده بود مبنی بر اینکه رابطه این دو هنرمند صرفاً یک رابطه تبلیغاتی است. با این حال، آن‌ها برای مدتی طولانی ترجیح داده بودند در برابر این ادعاها سکوت کنند و رابطه خود را دور از انظار عمومی نگه دارند.",
+    "در حال حاضر خبر پایان یافتن این رابطه تنها در حد یک ادعای رسانه‌ای است و هیچ‌گونه تایید یا تکذیب رسمی درباره آن منتشر نشده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "498ebf4de499",
@@ -606,44 +626,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "a22e41ab5375",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/doktorlar-konser-veremeyecegini-soyledi-efsane-muzisyen-vazgecmiyor-araba-bile-suremiyor-ama-sahneye-cikacak-43374332",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Doktorlar konser veremeyeceğini söyledi, efsane müzisyen vazgeçmiyor… Araba bile süremiyor ama sahneye çıkacak",
-   "snippet": "Müzik dünyasının efsane isimlerinden biri son birkaç yıldır yaşadığı ağır sağlık sorunlarıyla gündemde. Beyin hastalığına yakalanan usta müzisyen doktorlarının kararını hayranlarına açıklamış ve durumu büyük üzüntü yaratmıştı.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af45838aa7d7bef19767dc4.jpg",
-   "video": null,
-   "published": "2026-11-11T12:44:39.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/doktorlar-konser-veremeyecegini-soyledi-efsane-muzisyen-vazgecmiyor-araba-bile-suremiyor-ama-sahneye-cikacak-43374332",
-     "title": "Doktorlar konser veremeyeceğini söyledi, efsane müzisyen vazgeçmiyor… Araba bile süremiyor ama sahneye çıkacak",
-     "snippet": "Müzik dünyasının efsane isimlerinden biri son birkaç yıldır yaşadığı ağır sağlık sorunlarıyla gündemde. Beyin hastalığına yakalanan usta müzisyen doktorlarının kararını hayranlarına açıklamış ve durumu büyük üzüntü yaratmıştı.",
-     "published": "2026-11-11T12:44:39.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6af45838aa7d7bef19767dc4.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6af45838aa7d7bef19767dc4.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
-   ],
-   "mediaDone": true
   },
   {
    "id": "559b1bd84b6e",
@@ -1521,6 +1503,44 @@
    "aiTries": 1
   },
   {
+   "id": "550038d494cf",
+   "url": "https://www.hurriyet.com.tr/kelebek/stil/unlu-oyuncuya-aci-haber-ikiz-cocuklari-annesiz-kaldi-43373692",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Ünlü oyuncuya acı haber: İkiz çocukları annesiz kaldı",
+   "snippet": "Beyazperdenin yaşayan efsanelerinden biri olan Robert De Niro'ya acı haber...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af40a1833682fc5418a9954.jpg",
+   "video": null,
+   "published": "2026-11-11T06:27:26.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/unlu-oyuncuya-aci-haber-ikiz-cocuklari-annesiz-kaldi-43373692",
+     "title": "Ünlü oyuncuya acı haber: İkiz çocukları annesiz kaldı",
+     "snippet": "Beyazperdenin yaşayan efsanelerinden biri olan Robert De Niro'ya acı haber...",
+     "published": "2026-11-11T06:27:26.000Z"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af40a1833682fc5418a9954.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af40a1833682fc5418a9954.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
+   ],
+   "mediaDone": true
+  },
+  {
    "id": "02f5b4ca7dae",
    "url": "https://www.haberturk.com/magazin/pelin-karahan-in-kontrol-gunu-3926433",
    "source": "haberturk-magazin",
@@ -1605,6 +1625,44 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "669f1ad5cd6b",
+   "url": "https://www.sabah.com.tr/magazin/robert-de-nironun-ikiz-cocuklarinin-annesiydi-unlu-model-ve-oyuncu-toukie-smith-hayatini-kaybetti-7699321",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "Robert De Niro'nun ikiz çocuklarının annesiydi! Ünlü model ve oyuncu Toukie Smith hayatını kaybetti",
+   "snippet": "Ünlü model ve oyuncu Toukie Smith, 74 yaşında hayatını kaybetti. Hollywood efsanesi Robert De Niro ile yaşadığı uzun soluklu ilişkiyle de bilinen ünlü ismin acı haberini, De Niro ile olan birlikteliğinden... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/b430f8/1200/675/0/4/2048/1155?u=https://isbh.tmgrup.com.tr/sbh/2026/11/11/robert-de-nironun-ikiz-cocuklarinin-annesiydi-unlu-model-ve-oyuncu-toukie-smith-hayatini-kaybetti-1794377008824.jpg",
+   "video": null,
+   "published": "2026-11-11T06:08:03.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/robert-de-nironun-ikiz-cocuklarinin-annesiydi-unlu-model-ve-oyuncu-toukie-smith-hayatini-kaybetti-7699321",
+     "title": "Robert De Niro'nun ikiz çocuklarının annesiydi! Ünlü model ve oyuncu Toukie Smith hayatını kaybetti",
+     "snippet": "Ünlü model ve oyuncu Toukie Smith, 74 yaşında hayatını kaybetti. Hollywood efsanesi Robert De Niro ile yaşadığı uzun soluklu ilişkiyle de bilinen ünlü ismin acı haberini, De Niro ile olan birlikteliğinden... Devamı için tıklayınız",
+     "published": "2026-11-11T06:08:03.000Z"
+    }
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/b430f8/1200/675/0/4/2048/1155?u=https://isbh.tmgrup.com.tr/sbh/2026/11/11/robert-de-nironun-ikiz-cocuklarinin-annesiydi-unlu-model-ve-oyuncu-toukie-smith-hayatini-kaybetti-1794377008824.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "4b7b92a6022a",
@@ -13961,53 +14019,6 @@
    "summaryFa": "سینان اوزن خواننده مشهور در ۳ نوامبر پس از برگزاری کنسرت در توکات، در مسیر بازگشت به استانبول دچار تصادف رانندگی شد.",
    "bodyFa": [
     "سینان اوزن، خواننده مشهور، در تاریخ ۳ نوامبر پس از اجرای کنسرت خود در شهر توکات، هنگام بازگشت به سمت استانبول دچار سانحه رانندگی شد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "c07bd06858bd",
-   "url": "https://www.hurriyet.com.tr/kelebek/stil/bakude-sevgi-seli-43367840",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Bakü’de sevgi seli",
-   "snippet": "BAŞROLLERİNİ Halit Ergenç ve Meryem Uzerli’nin paylaştığı ‘İmroz’da Bahar’ filminin Bakü galası önceki gün gerçekleşti.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6aed754333682fc5418a7f1d.jpg",
-   "video": null,
-   "published": "2026-11-06T06:36:34.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/stil/bakude-sevgi-seli-43367840",
-     "title": "Bakü’de sevgi seli",
-     "snippet": "BAŞROLLERİNİ Halit Ergenç ve Meryem Uzerli’nin paylaştığı ‘İmroz’da Bahar’ filminin Bakü galası önceki gün gerçekleşti.",
-     "published": "2026-11-06T06:36:34.000Z",
-     "titleFa": "سیل عشق در باکو"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6aed754333682fc5418a7f1d.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6aed754333682fc5418a7f1d.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
-   ],
-   "mediaDone": true,
-   "titleFa": "برguزیری گالا فیلم «بهار در ایمروز» در باکو با بازی خالد ارگنچ و مریم اوزرلی",
-   "summaryFa": "مراسم گالی فیلم «بهار در ایمروز» با بازی خالد ارگنچ و مریم اوزرلی روز گذشته در شهر باکو برگزار شد.",
-   "bodyFa": [
-    "مراسم گالا یا همان اکران افتتاحیه فیلم سینمایی «بهار در ایمروز» با استقبال و ابراز علاقه شدید مخاطبان در شهر باکو برگزار شد.",
-    "در این فیلم سینمایی، دو بازیگر شناخته‌شده ترکیه‌ای یعنی خالد ارگنچ و مریم اوزرلی نقش‌های اصلی (بازیگران محوری) را بر عهده دارند و در این مراسم حضور داشتند."
    ],
    "ai": true,
    "aiTries": 1
