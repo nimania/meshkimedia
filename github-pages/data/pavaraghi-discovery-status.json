@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:07:50.558430+00:00",
+  "generatedAt": "2026-11-12T23:35:19.376863+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "gunesin-dogdugu-yer:1",
-    "gunesin-dogdugu-yer:2",
-    "gunesin-dogdugu-yer:3",
-    "gunesin-dogdugu-yer:4"
+    "halef-koklerin-cagrisi:1",
+    "muhtemel-ask:3",
+    "muhtemel-ask:4",
+    "muhtemel-ask:5"
   ],
   "episodes": [
     {
@@ -1008,7 +1008,7 @@
       "seriesSlug": "halef-koklerin-cagrisi",
       "seriesTitle": "جانشین: ندای ریشه‌ها",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-04T06:12:36.349581+00:00",
+      "checkedAt": "2026-11-12T23:35:19.376863+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1552,7 +1552,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 3,
-      "checkedAt": "2026-11-04T14:28:23.049574+00:00",
+      "checkedAt": "2026-11-12T23:35:19.376863+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1584,7 +1584,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 4,
-      "checkedAt": "2026-11-04T14:28:23.049574+00:00",
+      "checkedAt": "2026-11-12T23:35:19.376863+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1616,7 +1616,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 5,
-      "checkedAt": "2026-11-04T14:28:23.049574+00:00",
+      "checkedAt": "2026-11-12T23:35:19.376863+00:00",
       "languagesToTry": [
         "tr",
         "fa",
