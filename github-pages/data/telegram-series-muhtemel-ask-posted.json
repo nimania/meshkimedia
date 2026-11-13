@@ -183,7 +183,9 @@
     "editorial:dubbed-8:0",
     "slot:2026-11-13:0",
     "editorial:original-8:0",
-    "slot:2026-11-13:1"
+    "slot:2026-11-13:1",
+    "editorial:original-11:3",
+    "slot:2026-11-13:2"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -252,7 +254,8 @@
     "10308ceeb151ddd81318233a",
     "c5c569bbef09da73cdc7cc0a",
     "2262ec3b4df2bcd52a03eb67",
-    "513aa251e81a17bcdc732375"
+    "513aa251e81a17bcdc732375",
+    "0d3aa332ed2465705433a4cb"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-09",
@@ -285,9 +288,10 @@
     "episode:17": "2026-11-08",
     "poll:format": "2026-11-09",
     "episode:10": "2026-11-10",
-    "poll:topic": "2026-11-12"
+    "poll:topic": "2026-11-12",
+    "episode:11": "2026-11-13"
   },
-  "updated": "2026-11-13T15:07:46.739Z",
+  "updated": "2026-11-13T15:14:37.016Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
