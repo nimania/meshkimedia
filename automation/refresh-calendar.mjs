@@ -32,7 +32,7 @@ const entities = (value) => String(value || "")
 const MONTHS = {jan:0,feb:1,mar:2,apr:3,may:4,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11};
 const NETWORK_NAMES = {
   atv:"atv", "showtv":"show-tv", "startv":"star-tv",
-  "kanald":"kanal-d", "trt1":"trt-1", "now":"now", "nowtv":"now",tv8:"tv8"
+  "kanald":"kanal-d", "trt1":"trt-1", "now":"now", "nowtv":"now",tv8:"tv8", "kanal7":"kanal-7"
 };
 const dayStamp = (heading, today) => {
   const x = heading.match(/(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s*,\s*([A-Za-z]+)\s+(\d{1,2})/i);
@@ -69,7 +69,7 @@ export function parseCalendar(source, series, networks, today) {
     const tail = text.slice(headings[i].index+headings[i][0].length, headings[i+1]?.index ?? text.length);
     const rows = tail.split(/\n+/).map(x=>x.replace(/\s+/g," ").trim()).filter(Boolean);
     for (const row of rows) {
-      const hit=row.match(/(.{2,160}?)\s+Season\s+(\d+)\s*,?\s*Episode\s+(\d+)\s+(ATV|Show\s*TV|Star\s*TV|Kanal\s*D|TRT\s*1|NOW(?:\s*TV)?|TV8)(?:\s+(Series|Season)\s+(Premiere|Finale))?/i);
+      const hit=row.match(/(.{2,160}?)\s+Season\s+(\d+)\s*,?\s*Episode\s+(\d+)\s+(ATV|Show\s*TV|Star\s*TV|Kanal\s*D|Kanal\s*7|TRT\s*1|NOW(?:\s*TV)?|TV8)(?:\s+(Series|Season)\s+(Premiere|Finale))?/i);
       if (!hit) continue;
       let title=hit[1].replace(/^\s*[\[\]\u2022\-]+/,"").replace(/\s*\]\s*$/,"").trim();
       // Normalized title lookup also rescues links with a stray leading label.

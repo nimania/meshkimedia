@@ -3,7 +3,10 @@
     "slug": "show-tv",
     "name": "Show TV",
     "nameFa": "شوتی‌وی",
-    "ratingKeys": ["SHOW TV", "SHOW"],
+    "ratingKeys": [
+      "SHOW TV",
+      "SHOW"
+    ],
     "color": "#e2001a",
     "abbr": "SHOW",
     "site": "https://www.showtv.com.tr/"
@@ -12,7 +15,9 @@
     "slug": "atv",
     "name": "ATV",
     "nameFa": "آ‌تی‌وی",
-    "ratingKeys": ["ATV"],
+    "ratingKeys": [
+      "ATV"
+    ],
     "color": "#e30613",
     "abbr": "atv",
     "site": "https://www.atv.com.tr/"
@@ -21,7 +26,9 @@
     "slug": "kanal-d",
     "name": "Kanal D",
     "nameFa": "کانال دی",
-    "ratingKeys": ["KANAL D"],
+    "ratingKeys": [
+      "KANAL D"
+    ],
     "color": "#0b4ea2",
     "abbr": "KD",
     "site": "https://www.kanald.com.tr/"
@@ -30,7 +37,10 @@
     "slug": "star-tv",
     "name": "Star TV",
     "nameFa": "استار تی‌وی",
-    "ratingKeys": ["STAR TV", "STAR"],
+    "ratingKeys": [
+      "STAR TV",
+      "STAR"
+    ],
     "color": "#14a1e0",
     "abbr": "STAR",
     "site": "https://www.startv.com.tr/"
@@ -39,7 +49,11 @@
     "slug": "trt-1",
     "name": "TRT 1",
     "nameFa": "تی‌آر‌تی ۱",
-    "ratingKeys": ["TRT 1", "TRT1", "TRT"],
+    "ratingKeys": [
+      "TRT 1",
+      "TRT1",
+      "TRT"
+    ],
     "color": "#12a89d",
     "abbr": "TRT1",
     "site": "https://www.trt1.com.tr/"
@@ -48,7 +62,10 @@
     "slug": "now",
     "name": "NOW",
     "nameFa": "ناو",
-    "ratingKeys": ["NOW", "NOW TV"],
+    "ratingKeys": [
+      "NOW",
+      "NOW TV"
+    ],
     "color": "#e6007e",
     "abbr": "NOW",
     "site": "https://www.nowtv.com.tr/"
@@ -57,9 +74,22 @@
     "slug": "tv8",
     "name": "TV8",
     "nameFa": "تی‌وی ۸",
-    "ratingKeys": ["TV8"],
+    "ratingKeys": [
+      "TV8"
+    ],
     "color": "#ed1846",
     "abbr": "TV8",
     "site": "https://www.tv8.com.tr/"
+  },
+  "kanal-7": {
+    "slug": "kanal-7",
+    "name": "Kanal 7",
+    "nameFa": "کانال ۷",
+    "ratingKeys": [
+      "KANAL 7"
+    ],
+    "color": "#be1e2d",
+    "abbr": "K7",
+    "site": "https://www.kanal7.com/"
   }
 }

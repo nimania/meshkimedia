@@ -43,3 +43,9 @@ test("match calendar dates across December to January year boundary",()=>{
  const d=parseCalendar(html,series,networks,"2026-12-30").days;
  assert.ok(d["2026-12-28"]);assert.ok(d["2027-01-04"]);
 });
+
+test("daily Kanal 7 broadcasts are retained alongside weekly dramas",()=>{
+ const found=parseCalendar("<h1>Turkish TV Calendar</h1><h2>Friday, Nov 13</h2><a>Gelin Season 4, Episode 50 Kanal 7</a>",series,networks,"2026-11-13");
+ assert.deepEqual(found.days["2026-11-13"],[{slug:"gelin",season:4,episode:50}]);
+ assert.equal(found.shows.gelin.network,"kanal-7");
+});
