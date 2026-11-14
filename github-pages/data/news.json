@@ -1,6 +1,224 @@
 {
- "updated": "2026-11-14T11:32:35.196Z",
+ "updated": "2026-11-14T13:58:28.573Z",
  "items": [
+  {
+   "id": "0c8d3cd1f28b",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/gonca-cilasundan-baris-yalcin-ile-ask-iddialarina-yanit-nasibimi-kapatmayin-7700733",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Gonca Cilasun'dan Barış Yalçın ile aşk iddialarına yanıt: Nasibimi kapatmayın",
+   "snippet": "Kanal D'nin reyting rekortmeni dizisi Uzak Şehir'de \"Sadakat Albora\" karakteriyle ekranlarda fırtınalar estiren Gonca Cilasun, rol arkadaşı Barış Yalçın ile aşk yaşadığı yönündeki iddiaları yalanladı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af863a1540fd9a7c6cbd6a1.jpg",
+   "video": null,
+   "published": "2026-11-14T13:36:33.000Z",
+   "scope": "linked",
+   "kind": "rumor",
+   "entities": {
+    "series": [
+     "uzak-sehir"
+    ],
+    "people": [
+     "gonca-cilasun"
+    ],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/gonca-cilasundan-baris-yalcin-ile-ask-iddialarina-yanit-nasibimi-kapatmayin-7700733",
+     "title": "Gonca Cilasun'dan Barış Yalçın ile aşk iddialarına yanıt: Nasibimi kapatmayın",
+     "snippet": "Kanal D'nin reyting rekortmeni dizisi Uzak Şehir'de \"Sadakat Albora\" karakteriyle ekranlarda fırtınalar estiren Gonca Cilasun, rol arkadaşı Barış Yalçın ile aşk yaşadığı yönündeki iddiaları yalanladı.",
+     "published": "2026-11-14T13:36:33.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af863a1540fd9a7c6cbd6a1.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af863a1540fd9a7c6cbd6a1.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "6323f039ea96",
+   "url": "https://www.haberturk.com/magazin/foto/asena-ile-kani-kudu-evlendi-3927355",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Evlendik\"",
+   "snippet": "Ünlü oryantal Asena, yaklaşık 8 aydır birlikte olduğu Kani Kudu ile sessiz sedasız evlendiklerini açıkladı",
+   "image": "https://im.haberturk.com/l/2026/11/14/ver1794660439/3927355/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-14T13:30:32.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/asena-ile-kani-kudu-evlendi-3927355",
+     "title": "\"Evlendik\"",
+     "snippet": "Ünlü oryantal Asena, yaklaşık 8 aydır birlikte olduğu Kani Kudu ile sessiz sedasız evlendiklerini açıkladı",
+     "published": "2026-11-14T13:30:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": "63f6e70cbeb2",
+   "url": "https://www.haberturk.com/magazin/hande-unsal-ve-serkan-balkan-dan-ask-aciklamasi-3927363",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Aşk açıklaması",
+   "snippet": "Hande Ünsal ve sevgilisi Serkan Balkan, Arnavutköy'de birlikte yemek yerken görüntülendi. Çift, hem müzik projeleri hem de ilişkileri hakkında konuştu",
+   "image": "https://im.haberturk.com/l/2026/11/14/ver1794662415/3927363/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-14T13:20:38.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/hande-unsal-ve-serkan-balkan-dan-ask-aciklamasi-3927363",
+     "title": "Aşk açıklaması",
+     "snippet": "Hande Ünsal ve sevgilisi Serkan Balkan, Arnavutköy'de birlikte yemek yerken görüntülendi. Çift, hem müzik projeleri hem de ilişkileri hakkında konuştu",
+     "published": "2026-11-14T13:20:38.000Z"
+    }
+   ]
+  },
+  {
+   "id": "3010d9182830",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ayni-cati-altinda-33-yillik-bir-ask-bu-ilk-tanistiginda-tek-kelime-etmemisti-simdi-onunla-el-ele-yaslaniyor-43378168",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Ne zaman yorulsa başını onun omuzuna yaslıyor... 'Bu güzel adamla 33 yıl... Dünyanın en şanslı kızıyım ben'",
+   "snippet": "Aşkların ve evliliklerin pek de uzun ömürlü olmadığı ünlüler dünyasında bazı çiftler, gerçekten de bu kavramların hakkını veriyor.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af850d4ff497cc803f6a94d.jpg",
+   "video": null,
+   "published": "2026-11-14T12:25:48.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ayni-cati-altinda-33-yillik-bir-ask-bu-ilk-tanistiginda-tek-kelime-etmemisti-simdi-onunla-el-ele-yaslaniyor-43378168",
+     "title": "Ne zaman yorulsa başını onun omuzuna yaslıyor... 'Bu güzel adamla 33 yıl... Dünyanın en şanslı kızıyım ben'",
+     "snippet": "Aşkların ve evliliklerin pek de uzun ömürlü olmadığı ünlüler dünyasında bazı çiftler, gerçekten de bu kavramların hakkını veriyor.",
+     "published": "2026-11-14T12:25:48.000Z"
+    }
+   ]
+  },
+  {
+   "id": "0da1e4824951",
+   "url": "https://www.haberturk.com/magazin/avril-lavigne-anne-oldu-3927346",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Ünlü şarkıcı anne oldu",
+   "snippet": "Bir döneme damga vuran şarkıcı Avril Lavigne, ilk kez annelik heyecanı yaşadı. 42 yaşındaki Lavigne, mutluluğunu takipçileriyle paylaştı",
+   "image": "https://im.haberturk.com/l/2026/11/14/ver1794657841/3927346/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-14T12:04:03.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/avril-lavigne-anne-oldu-3927346",
+     "title": "Ünlü şarkıcı anne oldu",
+     "snippet": "Bir döneme damga vuran şarkıcı Avril Lavigne, ilk kez annelik heyecanı yaşadı. 42 yaşındaki Lavigne, mutluluğunu takipçileriyle paylaştı",
+     "published": "2026-11-14T12:04:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": "55f3a14142d2",
+   "url": "https://www.hurriyet.com.tr/kelebek/hayat/unlu-sanatci-10-yil-sonra-bodrumda-yeniden-nikah-masasina-oturdu-43378246",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Ünlü şarkıcıyla eşi 10 yıl önce boşanmıştı... Bodrum'da yeniden evlendiler",
+   "snippet": "Muğla'nın Bodrum ilçesinde 2010 yılında evlenen şarkıcı Zeynep Casalini ile işletmeci Tahsin Berk, 10 yıl önce sona eren evliliklerinin ardından yeniden Bodrum'da dünyaevine girdi. Çiftin nikah töreninde yüzüklerini kızları Dafne taktı.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af84ce5ff497cc803f6a911.jpg",
+   "video": null,
+   "published": "2026-11-14T11:58:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hayat/unlu-sanatci-10-yil-sonra-bodrumda-yeniden-nikah-masasina-oturdu-43378246",
+     "title": "Ünlü şarkıcıyla eşi 10 yıl önce boşanmıştı... Bodrum'da yeniden evlendiler",
+     "snippet": "Muğla'nın Bodrum ilçesinde 2010 yılında evlenen şarkıcı Zeynep Casalini ile işletmeci Tahsin Berk, 10 yıl önce sona eren evliliklerinin ardından yeniden Bodrum'da dünyaevine girdi. Çiftin nikah töreninde yüzüklerini kızları Dafne taktı.",
+     "published": "2026-11-14T11:58:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "a699e51e2012",
+   "url": "https://www.sozcu.com.tr/unlu-oyuncu-ecem-karavus-tan-korkutan-haber-canimla-savas-icindeyim-p381300",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Ünlü oyuncu Ecem Karavus’tan korkutan haber: ‘Canımla savaş içindeyim’",
+   "snippet": "Ünlü oyuncu Ecem Karavus'tan korkutan haber geldi! \"Beş gündür canımla savaş içindeyim\" diyerek yaşadığı sağlık sorununu...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/unlu-oyuncu-ecem-karavustan-korkutan-haber-canimla-savas-icindeyim-1jpg-fOOm8HJDn0ydArni5brOsw.jpg",
+   "video": null,
+   "published": "2026-11-14T11:55:12.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/unlu-oyuncu-ecem-karavus-tan-korkutan-haber-canimla-savas-icindeyim-p381300",
+     "title": "Ünlü oyuncu Ecem Karavus’tan korkutan haber: ‘Canımla savaş içindeyim’",
+     "snippet": "Ünlü oyuncu Ecem Karavus'tan korkutan haber geldi! \"Beş gündür canımla savaş içindeyim\" diyerek yaşadığı sağlık sorununu...",
+     "published": "2026-11-14T11:55:12.000Z"
+    }
+   ]
+  },
   {
    "id": "b9f21cd0582a",
    "url": "https://www.milliyet.com.tr/magazin/galeri/cop31de-turkiyeden-dunyaya-sanat-mirasi-copart-gelecek-zirvelere-tasinacak-7700685",
@@ -11480,163 +11698,6 @@
    "mediaDone": true
   },
   {
-   "id": "bf73b8702abd",
-   "url": "https://www.sozcu.com.tr/ebru-gundes-in-kolundaki-saatle-ev-aliniyor-fiyati-servet-degerinde-p379829",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ebru Gündeş'in kolundaki saatle ev alınıyor: Fiyatı servet değerinde",
-   "snippet": "Ünlü şarkıcı Ebru Gündeş'in son paylaşımındaki kombininin fiyatı merak konusu oldu. Özellikle kolundaki lüks saat, değer...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ebru-gundes-saatpng-TuzuK4DNHUWEdBig7X1HRg.png",
-   "video": null,
-   "published": "2026-11-10T07:44:44.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/ebru-gundes-in-kolundaki-saatle-ev-aliniyor-fiyati-servet-degerinde-p379829",
-     "title": "Ebru Gündeş'in kolundaki saatle ev alınıyor: Fiyatı servet değerinde",
-     "snippet": "Ünlü şarkıcı Ebru Gündeş'in son paylaşımındaki kombininin fiyatı merak konusu oldu. Özellikle kolundaki lüks saat, değer...",
-     "published": "2026-11-10T07:44:44.000Z",
-     "titleFa": "ساعت روی دست ابرو گوندش به ارزش یک خانه: قیمت در حد ثروت"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ebru-gundes-saatpng-TuzuK4DNHUWEdBig7X1HRg.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ebru-gundes-saatpng-TuzuK4DNHUWEdBig7X1HRg.png?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ebru-gundesin-son-hali-sasirtti-bu-kez-zayifligiyla-gundeme-geldi-1jpg-4bYqHli11EyMLun4zChiuA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/masa-dapjpg-MO6Qxfnv_UiYjUeC0_hiUA.jpg?w=288&h=162&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/geminigeneratedimage482iya482iya482ijpg-Qx3Tg3Bq7UmcWvBGWlEBMQ.jpg?w=288&h=162&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "ساعت لوکس ابرو گوندش در مرکز توجه؛ قیمت نجومی و واکنش کاربران",
-   "summaryFa": "انتشار تصویر جدیدی از ابرو گوندش، خواننده مشهور، و ساعت لوکس دست او توجه کاربران شبکه‌های اجتماعی را به خود جلب کرد. ارزش این ساعت تعجب مخاطبان را برانگیخت و نظرات متفاوتی را به دنبال داشت.",
-   "bodyFa": [
-    "تصویر اخیر منتشر شده از ابرو گوندش، خواننده سرشناس، مباحث زیادی را درباره قیمت لباس و اکسسوری‌های او در میان طرفداران و کاربران فضای مجازی ایجاد کرده است. در این میان، ساعت لوکسی که بر دست این هنرمند دیده می‌شود، به دلیل ارزش مالی بسیار بالا بیش از سایر اجزای پوشش او توجه‌ها را به سوی خود جلب کرده است.",
-    "پس از انتشار این تصویر، کاربران شبکه‌های اجتماعی واکنش‌های گوناگونی نشان دادند. گروهی از کاربران به نقد و بررسی قیمت نجومی این ساعت پرداختند، در حالی که دسته‌ای دیگر طراحی آن را مورد بحث و تبادل نظر قرار دادند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "4f8baaf21754",
-   "url": "https://www.milliyet.com.tr/magazin/lang-lang-ve-genc-muzisyenlerin-ipek-yolu-konseri-icin-biletler-satista-7697893",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Lang Lang ve genç müzisyenlerin 'İpek Yolu' konseri için biletler satışta",
-   "snippet": "Yüzyıllar boyunca kültürleri, fikirleri ve sanatı buluşturan İpek Yolu, bu kez müziğin evrensel diliyle İstanbul’da hayat buluyor. ÇEV Sanat’ın düzenlediği ‘İpek Yolu’ konseri, klasik müziğin dünyaca ünlü ismi Lang Lang ile Türkiye’nin üstün yetenekli genç müzisyenlerini aynı sahnede bir araya getiriyor. 2 Aralık Çarşamba akşamı AKM Türk Telekom Opera Salonu’nda gerçekleşecek konser, genç sanatçıların eğitim yolculuklarına destek olma fırsatı sunuyor. Konserden elde edilecek gelir, ÇEV Sanat’ın ",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af2ca96e24fe47b8d6cb2a3.jpg",
-   "video": null,
-   "published": "2026-11-10T07:42:09.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/lang-lang-ve-genc-muzisyenlerin-ipek-yolu-konseri-icin-biletler-satista-7697893",
-     "title": "Lang Lang ve genç müzisyenlerin 'İpek Yolu' konseri için biletler satışta",
-     "snippet": "Yüzyıllar boyunca kültürleri, fikirleri ve sanatı buluşturan İpek Yolu, bu kez müziğin evrensel diliyle İstanbul’da hayat buluyor. ÇEV Sanat’ın düzenlediği ‘İpek Yolu’ konseri, klasik müziğin dünyaca ünlü ismi Lang Lang ile Türkiye’nin üstün yetenekli genç müzisyenlerini aynı sahnede bir araya getir",
-     "published": "2026-11-10T07:42:09.000Z",
-     "titleFa": "بلیت‌های کنسرت «جاده ابریشم» اثر لانگ لانگ و نوازندگان جوان به فروش رسید"
-    },
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/stil/lang-lang-ve-genc-muzisyenlerin-ipek-yolu-konseri-icin-biletler-satista-43372719",
-     "title": "Lang Lang ve genç müzisyenlerin 'İpek Yolu' konseri için biletler satışta",
-     "snippet": "Dünyaca ünlü piyanist Lang Lang, ÇEV Sanat’ın genç müzisyenleri Arya Su Gülenç, Bade Daştan ve Damla Ece Karataş ile 2 Aralık’da AKM Türk Telekom Opera Salonu’nda buluşuyor. Doğu ile Batı’nın kültürel bağlarından ilham alan ‘İpek Yolu’ konserinin sınırlı sayıdaki biletleri Biletinial’da satışa sunul",
-     "published": "2026-11-10T09:13:00.000Z",
-     "titleFa": "بلیت‌های کنسرت «جاده ابریشم» اثر لانگ لانگ و نوازندگان جوان به فروش رسید"
-    }
-   ],
-   "mergedIds": [
-    "45491db3f9d8"
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6af2ca96e24fe47b8d6cb2a3.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6af2ca96e24fe47b8d6cb2a3.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "فروش بلیت‌های کنسرت «جاده ابریشم» با حضور لانگ لانگ و نوازندگان جوان",
-   "summaryFa": "بلیت‌های کنسرت «جاده ابریشم» با حضور پیانیست برجسته جهان، لانگ لانگ، و نوازندگان جوان در سایت Biletinial برای فروش عرضه شد. این رویداد در تاریخ ۲ آذر در سالن اپرای AKM تورک تله‌کوم برگزار خواهد شد.",
-   "bodyFa": [
-    "پیانیست نامدار جهانی، لانگ لانگ، قرار است در کنسرتی تحت عنوان «جاده ابریشم» که با الهام از پیوندهای فرهنگی میان شرق و غرب توسط سازمان ÇEV Sanat برگزار می‌شود، روی صحنه برود.",
-    "در این رویداد موسیقایی، نوازندگان مستعد جوان یعنی آریا سو گولنچ، باده داش‌تان و داملا اجه کاراتاش در کنار این هنرمند برجسته به اجرای برنامه خواهند پرداخت.",
-    "این کنسرت در تاریخ ۲ آذر در سالن اپرای AKM تورک تله‌کوم میزبان مخاطبان خواهد بود و بلیت‌های محدود آن هم‌اکنون از طریق پلتفرم Biletinial قابل تهیه است."
-   ],
-   "comparison": {
-    "agree": [
-     "حضور پیانیست جهان لانگ لانگ در کنسرت جاده ابریشم",
-     "همکاری نوازندگان جوان آریا سو گولنچ، باده داش‌تان و داملا ECE کاراتاش در این کنسرت",
-     "برگزاری کنسرت توسط ÇEV Sanat در تاریخ ۲ آذر در سالن اپرای AKM تورک تله‌کوم",
-     "عرضه بلیت‌های محدود از طریق سامانه Biletinial"
-    ],
-    "differ": [],
-    "unconfirmed": []
-   },
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "5254903282b9",
-   "url": "https://www.haberturk.com/magazin/foto/unlulerden-10-kasim-ataturk-u-anma-gunu-paylasimlari-3926128",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"Vatan sana minnettar\"",
-   "snippet": "Ulu önder Mustafa Kemal Atatürk, 88 yıl önce bugün hayata gözlerini yumdu. Ünlü isimler, Türkiye Cumhuriyeti'nin kurucusu Atatürk için sosyal medya hesaplarından mesajlar yayınladı",
-   "image": "https://im.haberturk.com/l/2026/11/10/ver1794285016/3926128/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-10T07:10:13.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/unlulerden-10-kasim-ataturk-u-anma-gunu-paylasimlari-3926128",
-     "title": "\"Vatan sana minnettar\"",
-     "snippet": "Ulu önder Mustafa Kemal Atatürk, 88 yıl önce bugün hayata gözlerini yumdu. Ünlü isimler, Türkiye Cumhuriyeti'nin kurucusu Atatürk için sosyal medya hesaplarından mesajlar yayınladı",
-     "published": "2026-11-10T07:10:13.000Z",
-     "titleFa": "وطن به تو سپاسگزار است"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "عملیات پلیسی در اورdu و یادبود آتاتورک",
-   "summaryFa": "در پی ادعای تامین و فروش غیرقانونی داروهایچندین نفر بازداشت شدند. همچنین چهره‌های سرشناس یاد و خاطره مصطفی کمال آتاتورک را گرامی داشتند.",
-   "bodyFa": [
-    "۸۸ سال پس از درگذشت مصطفی کمال آتاتورک، بنیان‌گذار جمهوری ترکیه، چهره‌های سرشناس پیام‌هایی را در شبکه‌های اجتماعی به همین مناسبت منتشر کردند.",
-    "در رویدادی دیگر، عملیاتی در شهرستان اونیه متعلق به استان اردو انجام گرفت. این عملیات به دنبال ادعایی مبنی بر تامین غیرقانونی برخی داروهای نسخه‌ای، خروج آن‌ها از بیمارستان و فروش‌شان صورت گرفت.",
-    "در جریان این اقدام، ۱۸ مظنون بازداشت شدند که از میان آن‌ها، دو تن شامل یک سرپزشک سابق با نام اختصاری A.A. روانه زندان شدند و ۱۶ تن دیگر با شرط کنترل قضایی آزاد گشتند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
    "id": "654bb746b852",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kayakuyunun-kahramani-43372325",
    "source": "hurriyet-kelebek",
@@ -11681,146 +11742,6 @@
    "bodyFa": [
     "اونور تونا، بازیگر سریال جدید و مورد انتظار «کاراکویو» از شبکه کانال د، در خصوص روند آماده‌سازی خود برای ایفای نقش شخصیتی به نام قهرمان صحبت کرده است.",
     "او در این باره بیان کرده است که «کندی قهرمان‌می اوینایاجا‌ام» (نقش قهرمانِ خودم را بازی خواهم کرد)."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "0344063c1be6",
-   "url": "https://www.sabah.com.tr/magazin/6-aylik-hamile-alina-bozdan-yeni-fotograflar-pembe-elbisesiyle-mest-etti-7698624",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "6 aylık hamile Alina Boz'dan yeni fotoğraflar! Pembe elbisesiyle mest etti…",
-   "snippet": "Evliliğinde mutlu bir hamilelik süreci geçiren Alina Boz, büyüyen karnıyla yeni pozlarını takipçilerinin beğenisine sundu. İlk kez anne olmaya hazırlanan ünlü oyuncunun pembe elbiseli kareleri büyük ilgi... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/f8d042/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2026/11/10/6-aylik-hamile-alina-bozdan-yeni-fotograflar-pembe-elbisesiyle-mest-etti-1794293540109.jpg",
-   "video": null,
-   "published": "2026-11-10T06:52:22.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/6-aylik-hamile-alina-bozdan-yeni-fotograflar-pembe-elbisesiyle-mest-etti-7698624",
-     "title": "6 aylık hamile Alina Boz'dan yeni fotoğraflar! Pembe elbisesiyle mest etti…",
-     "snippet": "Evliliğinde mutlu bir hamilelik süreci geçiren Alina Boz, büyüyen karnıyla yeni pozlarını takipçilerinin beğenisine sundu. İlk kez anne olmaya hazırlanan ünlü oyuncunun pembe elbiseli kareleri büyük ilgi... Devamı için tıklayınız",
-     "published": "2026-11-10T06:52:22.000Z",
-     "titleFa": "تصاویر جدید از آلینا بوز ۶ ماهه باردار! با لباس صورتی‌اش دلبری کرد..."
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/f8d042/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2026/11/10/6-aylik-hamile-alina-bozdan-yeni-fotograflar-pembe-elbisesiyle-mest-etti-1794293540109.jpg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
-    "https://iasbh.tmgrup.com.tr/393afd/0/0/0/0/374/391?u=https://isbh.tmgrup.com.tr/sb/album/2026/10/14/bebek-heyecani-her-gecen-gun-artiyor-alina-bozdan-yeni-kareler-siyah-beyaz-pozlarina-begeni-yagdi-1791957314347.jpg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "تصاویر جدید آلینا بوز با لباس صورتی در دوران بارداری",
-   "summaryFa": "آلینا بوز، بازیگر مشهور که در انتظار تولد نخستین فرزند خود است، تصاویر جدیدی از دوران بارداری خود با لباس صورتی منتشر کرد. این تصاویر با استقبال و توجه زیادی از سوی دنبال‌کنندگان او مواجه شد.",
-   "bodyFa": [
-    "آلینا بوز، بازیگر سرشناس، روزهای شاد و آرامی را در دوران بارداری خود سپری می‌کند و این روزها منتظر به دنیا آمدن اولین فرزندش است. او اخیراً تصاویر تازه‌ای از خود را به اشتراک گذاشته که در آن برجستگی شکمش مشخص است.",
-    "در این تصاویر جدید، این بازیگر با لباس صورتی دیده می‌شود که انتشار این عکس‌ها توجه زیادی را در فضای مجازی به خود جلب کرده و با استقبال هواداران و دنبال‌کنندگان او همراه شده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "1ae68b8c01bc",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/bulasikci-olarak-basladigi-kariyerinde-zirveye-cikti-unlu-sef-eski-gunlerini-hic-unutmadi-bunlar-basarinin-gozyaslari-43371748",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Bulaşıkçı olarak başladığı kariyerinde zirveye çıktı... Ünlü şef eski günlerini hiç unutmadı: Bunlar başarının gözyaşları",
-   "snippet": "Dünyada birçok başarı öyküsü var... Hepsi de özellikle yeni nesillere ilham verecek türden.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af1ce4c3572349e3fc6f93e.jpg",
-   "video": null,
-   "published": "2026-11-10T05:51:01.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/bulasikci-olarak-basladigi-kariyerinde-zirveye-cikti-unlu-sef-eski-gunlerini-hic-unutmadi-bunlar-basarinin-gozyaslari-43371748",
-     "title": "Bulaşıkçı olarak başladığı kariyerinde zirveye çıktı... Ünlü şef eski günlerini hiç unutmadı: Bunlar başarının gözyaşları",
-     "snippet": "Dünyada birçok başarı öyküsü var... Hepsi de özellikle yeni nesillere ilham verecek türden.",
-     "published": "2026-11-10T05:51:01.000Z",
-     "titleFa": "شروع به عنوان ظرفش و رسیدن به اوج موفقیت... سرآشپز معروف گذشته‌اش را هرگز فراموش نکرد: این‌ها اشک‌های موفقیت هستند"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6af1ce4c3572349e3fc6f93e.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6af1ce4c3572349e3fc6f93e.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
-   ],
-   "mediaDone": true,
-   "titleFa": "رسیدن یک سر آشپز معروف به اوج موفقیت پس از شروع کار به عنوان ظرفش",
-   "summaryFa": "داستان‌های موفقیت زیادی در جهان وجود دارد که به ویژه برای نسل‌های جدید الهام‌بخش هستند.",
-   "bodyFa": [
-    "در جهان داستان‌های موفقیت فراوانی وجود دارد که می‌توانند به عنوان الگو و الهام‌بخش نسل‌های جدید عمل کنند. این موضوع شامل مسیر حرفه‌ای یک سرآشپز معروف است که کار خود را به عنوان ظرفش آغاز کرده و اکنون به اوج موفقیت رسیده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "ff35a221d270",
-   "url": "https://www.sozcu.com.tr/unlu-isimlerden-10-kasim-paylasimlari-ataturk-u-ozlem-ve-minnetle-andilar-p379749",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ünlü isimlerden 10 Kasım paylaşımları: Atatürk'ü özlem ve minnetle andılar",
-   "snippet": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk, ölümünün 88'inci yıl dönümünde saygı, özlem ve minnetle anı...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ataturkunlupaylasimjpg-Hjep8m0VMEad8C0BD-KOKQ.jpg",
-   "video": null,
-   "published": "2026-11-10T05:46:27.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/unlu-isimlerden-10-kasim-paylasimlari-ataturk-u-ozlem-ve-minnetle-andilar-p379749",
-     "title": "Ünlü isimlerden 10 Kasım paylaşımları: Atatürk'ü özlem ve minnetle andılar",
-     "snippet": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk, ölümünün 88'inci yıl dönümünde saygı, özlem ve minnetle anı...",
-     "published": "2026-11-10T05:46:27.000Z",
-     "titleFa": "اشتراک‌گذاری‌های ۱۰ نوامبر از چهره‌های مشهور: آاتاتورک را با دلتنگی و قدردانی یاد کردند"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ataturkunlupaylasimjpg-Hjep8m0VMEad8C0BD-KOKQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ataturkunlupaylasimjpg-Hjep8m0VMEad8C0BD-KOKQ.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-goruntusu-20261110-082654png-QzPAv1th20CdpkzVR4Mksw.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-goruntusu-20261110-082724png-sClhPgiePUGtufA1p38gxw.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-goruntusu-20261110-082939png-pH6V8YAtKEyagfkxQxSY-w.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-goruntusu-20261110-082953png-OLIpuzuUoEOuwtJTlIu7Sg.png"
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار پیام‌های چهره‌های مشهور به مناسبت ۱۰ آبان و یادبود آاتاتورک",
-   "summaryFa": "بنیان‌گذار جمهوری ترکیه، غازی مصطفی کمال آاتاتورک، در هشتادوهشتمین سالگرد درگذشت خود گرامی داشته شد. چهره‌های مشهور از جمله تورکان شورای با انتشار پیام‌هایی احساسات خود را ابراز کردند.",
-   "bodyFa": [
-    "در هشتادوهشتمین سالگرد درگذشت غازی مصطفی کمال آاتاتورک، بنیان‌گذار جمهوری ترکیه، چهره‌های سرشناس این کشور با انتشار پیام‌های ویژه‌ای در روز ۱۰ نوامبر، یاد و خاطره او را با احترام، دلتنگی و قدردانی گرامی داشتند.",
-    "در این میان، تورکان شورای در میان چهره‌های سرشناسی بود که با انتشار پیامی احساسی نوشت: «تو را با دلتنگی، عشق و قدردانی یاد می‌کنم... همیشه، هر جا... در قلب من هستی.» پیام‌های یادبود چهره‌های مشهور برای آاتاتورک بازتاب و توجه زیادی در شبکه‌های اجتماعی به همراه داشت."
    ],
    "ai": true,
    "aiTries": 1
