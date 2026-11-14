@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-14T18:09:41.647Z",
+ "updated": "2026-11-14T22:29:29.768Z",
  "items": [
+  {
+   "id": "f19abeb4e6bb",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/kadir-inanirin-ardindan-gundeme-gelmisti-emel-sayindan-miras-aciklamasi-7700857",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Kadir İnanır'ın ardından gündeme gelmişti! Emel Sayın’dan miras açıklaması",
+   "snippet": "Usta sanatçı Kadir İnanır’ın mirasıyla ilgili aile arasındaki anlaşmazlıklar devam ederken, İnanır'ın yakın arkadaşlarından şarkıcı Emel Sayın, kendi mirasıyla ilgili açıklamalarda bulundu.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af8c3f9b61a898b6e31086c.jpg",
+   "video": null,
+   "published": "2026-11-14T20:29:30.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/kadir-inanirin-ardindan-gundeme-gelmisti-emel-sayindan-miras-aciklamasi-7700857",
+     "title": "Kadir İnanır'ın ardından gündeme gelmişti! Emel Sayın’dan miras açıklaması",
+     "snippet": "Usta sanatçı Kadir İnanır’ın mirasıyla ilgili aile arasındaki anlaşmazlıklar devam ederken, İnanır'ın yakın arkadaşlarından şarkıcı Emel Sayın, kendi mirasıyla ilgili açıklamalarda bulundu.",
+     "published": "2026-11-14T20:29:30.000Z"
+    }
+   ]
+  },
   {
    "id": "cb757bfa8e6e",
    "url": "https://www.milliyet.com.tr/magazin/bebeginin-cinsiyetini-aciklamisti-almila-adanin-karni-iyice-belirginlesti-7700828",
@@ -267,7 +296,7 @@
    "video": null,
    "published": "2026-11-14T14:28:18.000Z",
    "scope": "linked",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [
@@ -282,7 +311,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/sifanur-gul-ile-berk-bakioglu-nisanlandi-7700751",
      "title": "Şifanur Gül ile Berk Bakioğlu nişanlandı",
      "snippet": "Şifanur Gül, uzun süredir aşk yaşadığı oyuncu Berk Bakioğlu ile nişanlandı. Amsterdam'da aldığı evlilik teklifine “Evet” diyen ünlü oyuncu nişan haberini tek kare ile duyurdu.",
-     "published": "2026-11-14T14:28:18.000Z"
+     "published": "2026-11-14T14:28:18.000Z",
+     "titleFa": "نامزدی شیفانور گل و برک باقی‌اوغلو"
     }
    ],
    "images": [
@@ -293,7 +323,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "نامزدی شیفانور گل و برک باقی‌اوغلو",
+   "summaryFa": "شیفانور گل و برک باقی‌اوغلو پس از مدتی رابطه، با یکدیگر نامزد شدند. این خبر با انتشار یک عکس رسانه‌ای شد.",
+   "bodyFa": [
+    "شیفانور گل با انتشار یک عکس، خبر نامزدی خود را با برک باقی‌اوغلو رسماً اعلام کرد. این دو بازیگر که برای مدتی طولانی با یکدیگر رابطه داشتند، اکنون تصمیم به رسمیت بخشیدن به رابطه خود گرفته‌اند.",
+    "طبق اطلاعات منتشرشده، برک باقی‌اوغلو در شهر آمستردام از شیفانور گل خواستگاری کرده و او نیز به این پیشنهاد ازدواج پاسخ مثبت داده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "034355908891",
@@ -607,6 +645,35 @@
    "aiTries": 1
   },
   {
+   "id": "a699e51e2012",
+   "url": "https://www.sozcu.com.tr/unlu-oyuncu-ecem-karavus-tan-korkutan-haber-canimla-savas-icindeyim-p381300",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Ünlü oyuncu Ecem Karavus’tan korkutan haber: ‘Canımla savaş içindeyim’",
+   "snippet": "Ünlü oyuncu Ecem Karavus'tan korkutan haber geldi! \"Beş gündür canımla savaş içindeyim\" diyerek yaşadığı sağlık sorununu...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/unlu-oyuncu-ecem-karavustan-korkutan-haber-canimla-savas-icindeyim-1jpg-fOOm8HJDn0ydArni5brOsw.jpg",
+   "video": null,
+   "published": "2026-11-14T11:55:12.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/unlu-oyuncu-ecem-karavus-tan-korkutan-haber-canimla-savas-icindeyim-p381300",
+     "title": "Ünlü oyuncu Ecem Karavus’tan korkutan haber: ‘Canımla savaş içindeyim’",
+     "snippet": "Ünlü oyuncu Ecem Karavus'tan korkutan haber geldi! \"Beş gündür canımla savaş içindeyim\" diyerek yaşadığı sağlık sorununu...",
+     "published": "2026-11-14T11:55:12.000Z"
+    }
+   ]
+  },
+  {
    "id": "b9f21cd0582a",
    "url": "https://www.milliyet.com.tr/magazin/galeri/cop31de-turkiyeden-dunyaya-sanat-mirasi-copart-gelecek-zirvelere-tasinacak-7700685",
    "source": "milliyet-magazin",
@@ -704,6 +771,35 @@
     }
    ],
    "mediaDone": true
+  },
+  {
+   "id": "8cfc8af2ec11",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-cift-savasir-gibi-bosandi-olan-yine-cocuklara-oldu-ruh-sagligimi-kaybettim-yapayalniz-kaldim-43377826",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Ünlü çift savaşır gibi boşandı, olan yine çocuklara oldu... Gencecik ruhu ne acılarla doluymuş meğer!",
+   "snippet": "Hani hep söylenir ya \"İnsanlar evlenir, boşanır... Ama olan hep çocuklara olur...\" Özellikle de taraflar sakince değil de kavgalı ve gürültülü boşanıyorsa...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af80e00ff497cc803f6a630.jpg",
+   "video": null,
+   "published": "2026-11-14T10:18:56.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-cift-savasir-gibi-bosandi-olan-yine-cocuklara-oldu-ruh-sagligimi-kaybettim-yapayalniz-kaldim-43377826",
+     "title": "Ünlü çift savaşır gibi boşandı, olan yine çocuklara oldu... Gencecik ruhu ne acılarla doluymuş meğer!",
+     "snippet": "Hani hep söylenir ya \"İnsanlar evlenir, boşanır... Ama olan hep çocuklara olur...\" Özellikle de taraflar sakince değil de kavgalı ve gürültülü boşanıyorsa...",
+     "published": "2026-11-14T10:18:56.000Z"
+    }
+   ]
   },
   {
    "id": "c1f476c55638",
@@ -1196,6 +1292,35 @@
    "aiTries": 1
   },
   {
+   "id": "1171d0847a3f",
+   "url": "https://www.sozcu.com.tr/thor-un-evine-girip-3-arabasini-caldilar-p381225",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "'Thor'un evine girip 3 arabasını çaldılar",
+   "snippet": "Marvel filmlerindeki Thor karakteriyle bilinen aktör Chris Hemsworth, hırsız mağduru oldu.",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/chris-hemsworthjpg-EmHdoiD6IkCUnriSdtUU1Q.jpg",
+   "video": null,
+   "published": "2026-11-14T06:57:43.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/thor-un-evine-girip-3-arabasini-caldilar-p381225",
+     "title": "'Thor'un evine girip 3 arabasını çaldılar",
+     "snippet": "Marvel filmlerindeki Thor karakteriyle bilinen aktör Chris Hemsworth, hırsız mağduru oldu.",
+     "published": "2026-11-14T06:57:43.000Z"
+    }
+   ]
+  },
+  {
    "id": "79f5edb71f4f",
    "url": "https://www.sozcu.com.tr/televizyonlarda-dizi-sureleri-kisaliyor-iste-yeni-bolum-suresi-p381217",
    "source": "sozcu-magazin",
@@ -1381,6 +1506,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "6da983899d5f",
+   "url": "https://www.hurriyet.com.tr/kelebek/magazin/magazin-figuru-degilim-43377424",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Magazin figürü değilim",
+   "snippet": "Atilla Taş kızının vefatının ardından ilk kez görüntülendi.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af7443fff497cc803f6a4e8.jpg",
+   "video": null,
+   "published": "2026-11-14T04:04:09.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/magazin-figuru-degilim-43377424",
+     "title": "Magazin figürü değilim",
+     "snippet": "Atilla Taş kızının vefatının ardından ilk kez görüntülendi.",
+     "published": "2026-11-14T04:04:09.000Z"
+    }
+   ]
   },
   {
    "id": "5e262127ed64",
@@ -6019,6 +6173,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "504d7b624c8e",
+   "url": "https://www.sozcu.com.tr/milyonlari-gulduren-unlu-oyuncu-62-yasinda-hayatini-kaybetti-olum-nedeni-yurekleri-dagladi-p380618",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Ünlü komedyen hayatını kaybetti: 62 yaşında yakalandığı hastalığa yenik düştü",
+   "snippet": "Bir döneme damga vuran efsane komedi dizisi \"Yes, Dear\" ile milyonları güldüren ünlü oyuncu Anthony Clark, 62 yaşında ha...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/milyonlari-gulduren-unlu-oyuncu-62-yasinda-hayatini-kaybetti-olum-nedeni-yurekleri-dagladi-2jpg-Lp0LKVzfJ0yaP9nuyKi9Tg.jpg",
+   "video": null,
+   "published": "2026-11-12T13:52:15.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/milyonlari-gulduren-unlu-oyuncu-62-yasinda-hayatini-kaybetti-olum-nedeni-yurekleri-dagladi-p380618",
+     "title": "Ünlü komedyen hayatını kaybetti: 62 yaşında yakalandığı hastalığa yenik düştü",
+     "snippet": "Bir döneme damga vuran efsane komedi dizisi \"Yes, Dear\" ile milyonları güldüren ünlü oyuncu Anthony Clark, 62 yaşında ha...",
+     "published": "2026-11-12T13:52:15.000Z"
+    }
+   ]
   },
   {
    "id": "631f7877a7e1",
@@ -12000,93 +12183,6 @@
    "aiTries": 1
   },
   {
-   "id": "b4f5066c6a3a",
-   "url": "https://www.milliyet.com.tr/galeri/volkan-konakin-esinden-yurek-burkan-paylasim-istedigimde-elini-tutamiyorum-ama-7697986",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Volkan Konak’ın eşinden yürek burkan paylaşım: İstediğimde elini tutamıyorum ama...",
-   "snippet": "Volkan Konak’ın eşi Selma Konak, sanatçıya duyduğu özlemi sosyal medya hesabından yaptığı paylaşımla dile getirdi. Konak'ın paylaşımı görenleri duygulandırdı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af2d87fe24fe47b8d6cb372.jpg",
-   "video": null,
-   "published": "2026-11-10T08:46:25.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/galeri/volkan-konakin-esinden-yurek-burkan-paylasim-istedigimde-elini-tutamiyorum-ama-7697986",
-     "title": "Volkan Konak’ın eşinden yürek burkan paylaşım: İstediğimde elini tutamıyorum ama...",
-     "snippet": "Volkan Konak’ın eşi Selma Konak, sanatçıya duyduğu özlemi sosyal medya hesabından yaptığı paylaşımla dile getirdi. Konak'ın paylaşımı görenleri duygulandırdı.",
-     "published": "2026-11-10T08:46:25.000Z",
-     "titleFa": "پست تکان‌دهنده از همسر وولکان کوناک: وقتی می‌خواهم دستش را بگیرم نمی‌توانم، اما..."
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6af2d87fe24fe47b8d6cb372.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6af2d87fe24fe47b8d6cb372.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار مطلب احساسی از سوی همسر وولکان کوناک",
-   "summaryFa": "سلما کوناک، همسر وولکان کوناک، دلتنگی خود برای این هنرمند را در حساب کاربری خود ابراز کرد. این پست احساسی توجه مخاطبان را به خود جلب کرد.",
-   "bodyFa": [
-    "سلما کوناک، همسر هنرمند معروف وولکان کوناک، با انتشار مطلبی در شبکه اجتماعی خود، احساسات و دلتنگی عمیقش را نسبت به او به اشتراک گذاشت.",
-    "این نوشته که بازتاب‌دهنده احساسات شخصی اوست، موجب احساساتی شدن کاربران و مخاطبان فضای مجازی شد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "9d1557f29f7f",
-   "url": "https://www.haberturk.com/magazin/kurk-mantolu-madonna-filminin-maria-puder-i-meryem-uzerli-oldu-3926209",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "'Maria Puder'ı canlandıracak",
-   "snippet": "Sabahattin Ali'nin 'Kürk Mantolu Madonna' eseri sinemaya uyarlanıyor. Filmin başrol karakteri 'Maria Puder'i Meryem Uzerli canlandıracak",
-   "image": "https://im.haberturk.com/l/2026/11/10/ver1794298348/3926209/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-10T08:43:55.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/kurk-mantolu-madonna-filminin-maria-puder-i-meryem-uzerli-oldu-3926209",
-     "title": "'Maria Puder'ı canlandıracak",
-     "snippet": "Sabahattin Ali'nin 'Kürk Mantolu Madonna' eseri sinemaya uyarlanıyor. Filmin başrol karakteri 'Maria Puder'i Meryem Uzerli canlandıracak",
-     "published": "2026-11-10T08:43:55.000Z",
-     "titleFa": "او نقش ماریا پودر را بازی خواهد کرد"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "بازیگر نقش ماریا پودر در اقتباس سینمایی «کورک مانتولو مادونا» مشخص شد",
-   "summaryFa": "مریم اوزرلی برای بازی در نقش «ماریا پودر» در فیلم اقتباسی از رمان صباح‌الدین علی قرارداد امضا کرد. تلاش‌ها برای انتخاب بازیگر نقش «رایف افندی» همچنان ادامه دارد.",
-   "bodyFa": [
-    "شرکت‌های فکری هاریکا پروداکشن و ساچاکلی فیلم استودیوز قصد دارند رمان مشهور «کورک مانتولو مادونا» اثر صباح‌الدین علی را به فیلم سینمایی تبدیل کنند. بر اساس اطلاعات منتشر شده، قرارداد رسمی با مریم اوزرلی برای ایفای نقش اصلی «ماریا پودر» به امضا رسیده است.",
-    "نگارش فیلمنامه این اثر بر عهده مرت دیکمن بوده و کارگردانی آن را سدات اینجی بر عهده دارد. برنامه‌ریزی شده است که فیلمبرداری این اثر در کشورهای ترکیه و آلمان انجام شود و کارهای تولیدی آن در استودیوز بابلسبرگ در شهر برلین پیگیری شود.",
-    "با وجود مشخص شدن بازیگر نقش اول زن، روند مذاکرات و جستجو برای انتخاب بازیگر دیگر شخصیت اصلی داستان یعنی «رایف افندی» هنوز ادامه دارد و کسی برای این نقش انتخاب نشده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
    "id": "da7ad0756517",
    "url": "https://www.milliyet.com.tr/magazin/alya-gitmekten-vazgecti-7697978",
    "source": "milliyet-magazin",
@@ -12137,123 +12233,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "5a35a558e632",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/istedigim-zaman-elini-tutamiyorum-43372573",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Selma Konak duygulandırdı: İstediğim zaman elini tutamıyorum belki ama...",
-   "snippet": "2025 yılında hayatını kaybeden usta sanatçı Volkan Konak'ın eşi Selma Konak, sosyal medya paylaşımıyla bir kez daha yürekleri burktu.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af2d5253572349e3fc6fbfb.jpg",
-   "video": null,
-   "published": "2026-11-10T08:32:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/istedigim-zaman-elini-tutamiyorum-43372573",
-     "title": "Selma Konak duygulandırdı: İstediğim zaman elini tutamıyorum belki ama...",
-     "snippet": "2025 yılında hayatını kaybeden usta sanatçı Volkan Konak'ın eşi Selma Konak, sosyal medya paylaşımıyla bir kez daha yürekleri burktu.",
-     "published": "2026-11-10T08:32:00.000Z",
-     "titleFa": "سلما کوناک احساسی شد: شاید نتوانم هر زمان که بخواهم دستش را بگیرم اما..."
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6af2d5253572349e3fc6fbfb.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6af2d5253572349e3fc6fbfb.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3728",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3728"
-   ],
-   "mediaDone": true,
-   "titleFa": "پست احساسی سلما کونak درباره ولکان کوناک",
-   "summaryFa": "سلما کوناک، همسر هنرمند فقید ولکان کوناک، با انتشار پستی در شبکه‌های اجتماعی احساسات مخاطبان را برانگیخت.",
-   "bodyFa": [
-    "سلما کوناک، همسر هنرمند فقید ولکان کوناک که در سال ۲۰۲۵ درگذشته است، با انتشار پیامی در شبکه‌های اجتماعی توجه مخاطبان را به خود جلب کرد و موجب تاثر کاربران شد.",
-    "او در این پست به دلتنگی‌ها و شرایط خود اشاره کرده و نوشته است که شاید نتواند هر زمان که بخواهد دست‌های او را بگیرد، اما یاد و خاطره‌اش همواره زنده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "bded1c89e5e5",
-   "url": "https://www.haberturk.com/magazin/ask-engel-tanimaz-filminin-unlu-mavi-kapili-evi-7-5-milyon-sterline-satisa-cikti-3926185",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "7,5 milyon sterline satışa çıktı",
-   "snippet": "Julia Roberts ve Hugh Grant'ın hafızalara kazınan romantik komedi filmi 'Aşk Engel Tanımaz'ın (Notting Hill) ünlü mavi kapılı evi satılıyor",
-   "image": "https://im.haberturk.com/l/2026/11/10/ver1794297546/3926185/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-10T08:01:46.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/ask-engel-tanimaz-filminin-unlu-mavi-kapili-evi-7-5-milyon-sterline-satisa-cikti-3926185",
-     "title": "7,5 milyon sterline satışa çıktı",
-     "snippet": "Julia Roberts ve Hugh Grant'ın hafızalara kazınan romantik komedi filmi 'Aşk Engel Tanımaz'ın (Notting Hill) ünlü mavi kapılı evi satılıyor",
-     "published": "2026-11-10T08:01:46.000Z",
-     "titleFa": "۷.۵ میلیون استرلینه ساتیشا چیقتی"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "خانه معروف فیلم «آشک انگل تانیماز» (ناتینگ هیل) به فروش گذاشته شد",
-   "summaryFa": "خانه آبی‌رنگ معروف فیلم کمدی رمانتیک «ناتینگ هیل» با بازی جولیا رابرتز و هیو گرانت با قیمت ۷.۵ میلیون استرلینگ در لندن برای فروش عرضه شد. این ملک که در گذشته متعلق به ریچارد کورتیس، فیلم‌نامه‌نویس فیلم بوده، دارای ویژگی‌های معماری و تاریخی است.",
-   "bodyFa": [
-    "خانه معروف فیلم کمدی رمانتیک و به‌یادماندنی «آشک انگل تانیماز» (Notting Hill) محصول ۱۹۹۹ که با بازی جولیا رابرتز و هیو گرانت شناخته می‌شود، در پایتخت انگلستان، لندن، برای فروش گذاشته شده است. این ملک که به خاطر داشتن درِ آبی‌رنگ شهرت جهانی دارد، با قیمت ۷.۵ میلیون استرلینگ به بازار عرضه شده است.",
-    "این ساختمان سه خوابه که از تبدیل یک کلیسای کوچک باپتیست قرن نوزدهمی به دست آمده، در فیلم به عنوان خانه شخصیت ویلیام با بازی هیو گرانت استفاده شده بود. ریچارد کورتیس، فیلم‌نامه‌نویس اثر، زمانی در این خانه زندگی می‌کرده است. پس از موفقیت بین‌المللی فیلم، این مکان به جاذبه‌ای توریستی تبدیل شد و گردشگران مرتباً برای عکاسی به آنجا می‌روند. درِ اصلی آبی‌رنگ بعدها به خیریه اهدا شد و درِ جایگزین ابتدا سیاه شد اما نهایتاً دوباره به رنگ آبی درآمد.",
-    "آگهی فروش این ملک در تاریخ ۲۰ اکتبر منتشر شد. مالک فعلی این خانه که یک کارآفرین فناوری اهل ایالات متحده است و قصد مهاجرت به آمریکا را دارد، آن را در سال ۲۰۱۴ خریداری کرده بود. مشاوران املاک این ملک را ترکیبی نادر از تاریخ معماری و شهرت سینمایی توصیف می‌کنند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "37fe4ef4f8f7",
-   "url": "https://www.haberturk.com/magazin/safak-karali-son-yolculuguna-ugurlandi-baris-falay-cenazesinde-gozyaslarina-boguldu-o-benimle-yasayacak-3926184",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Cenazede gözyaşlarına boğuldu",
-   "snippet": "Kocaeli'de hayatını kaybeden oyuncu Şafak Karali için düzenlenen anma töreninde duygusal anlar yaşandı. Karali'nin yakın arkadaşı Barış Falay, törende yaptığı konuşma esnasında gözyaşlarına boğuldu",
-   "image": "https://im.haberturk.com/l/2026/11/10/ver1794297097/3926184/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-10T07:58:02.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/safak-karali-son-yolculuguna-ugurlandi-baris-falay-cenazesinde-gozyaslarina-boguldu-o-benimle-yasayacak-3926184",
-     "title": "Cenazede gözyaşlarına boğuldu",
-     "snippet": "Kocaeli'de hayatını kaybeden oyuncu Şafak Karali için düzenlenen anma töreninde duygusal anlar yaşandı. Karali'nin yakın arkadaşı Barış Falay, törende yaptığı konuşma esnasında gözyaşlarına boğuldu",
-     "published": "2026-11-10T07:58:02.000Z"
-    }
-   ],
-   "mediaDone": true
   },
   {
    "id": "654bb746b852",
