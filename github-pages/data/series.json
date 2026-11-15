@@ -5305,8 +5305,7 @@
           {
             "number": 8,
             "date": "2026-11-15",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -5813,8 +5812,7 @@
           {
             "number": 25,
             "date": "2026-11-15",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -5977,8 +5975,7 @@
           {
             "number": 193,
             "date": "2026-11-15",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
