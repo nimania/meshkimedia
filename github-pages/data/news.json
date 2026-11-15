@@ -1,6 +1,174 @@
 {
- "updated": "2026-11-15T17:45:27.824Z",
+ "updated": "2026-11-15T22:52:28.049Z",
  "items": [
+  {
+   "id": "0c8f9efaaca9",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/uzun-bir-sure-nereye-ait-oldugumu-anlamaya-calistim-43379444",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "\"Uzun bir süre nereye ait olduğumu anlamaya çalıştım\"",
+   "snippet": "Farklı müzik kültürlerini bir araya getiren başarılı şarkıcı, söz yazarı, besteci ve viyolonsel sanatçısı Nesrine ile keyifli bir röportaj için bir araya geldik.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af9ee2e2356f0a3a15a26a7.jpg",
+   "video": null,
+   "published": "2026-11-15T21:03:27.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/uzun-bir-sure-nereye-ait-oldugumu-anlamaya-calistim-43379444",
+     "title": "\"Uzun bir süre nereye ait olduğumu anlamaya çalıştım\"",
+     "snippet": "Farklı müzik kültürlerini bir araya getiren başarılı şarkıcı, söz yazarı, besteci ve viyolonsel sanatçısı Nesrine ile keyifli bir röportaj için bir araya geldik.",
+     "published": "2026-11-15T21:03:27.000Z",
+     "titleFa": "مدت‌ها تلاش کردم بفهمم به کجا تعلق دارم"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af9ee2e2356f0a3a15a26a7.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af9ee2e2356f0a3a15a26a7.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "مصاحبه با نسرین، خواننده و نوازنده ویولنسل",
+   "summaryFa": "نسرین، خواننده، ترانه‌سرا، آهنگساز و نوازنده ویولنسل در گفتگویی شرکت کرد. او در این مصاحبه اشاره کرد که مدت زیادی طول کشید تا بفهمد به کجا تعلق دارد.",
+   "bodyFa": [
+    "روزنامه حریت اخیراً گفتگوی جذابی با نسرین، هنرمندی که فرهنگ‌های مختلف موسیقایی را در کنار یکدیگر جمع کرده است، انجام داده است. نسرین به عنوان خواننده، ترانه‌سرا، آهنگساز و نوازنده ویولنسل فعالیت دارد.",
+    "او در جریان این مصاحبه درباره روند زندگی و مسیر هنری خود صحبت کرده و از جمله بیان کرده است که برای مدت زمان طولانی تلاش می‌کرده تا متوجه شود به چه جایی تعلق دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "8af875ead373",
+   "url": "https://www.haberturk.com/magazin/foto/kutsi-ile-sevda-sonmez-evlendi-3927547",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Sürpriz nikah",
+   "snippet": "Ünlü şarkıcı ve oyuncu Kutsi, bir süredir aşk yaşadığı Sevda Sönmez ile hayatını birleştirdi",
+   "image": "https://im.haberturk.com/l/2026/11/15/ver1794771063/3927547/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-15T19:47:46.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/kutsi-ile-sevda-sonmez-evlendi-3927547",
+     "title": "Sürpriz nikah",
+     "snippet": "Ünlü şarkıcı ve oyuncu Kutsi, bir süredir aşk yaşadığı Sevda Sönmez ile hayatını birleştirdi",
+     "published": "2026-11-15T19:47:46.000Z",
+     "titleFa": "ازدواج غافلگیرکننده"
+    },
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/kutsi-ucuncu-kez-evlendi-surpriz-nikah-p381678",
+     "title": "Kutsi üçüncü kez evlendi! Sürpriz nikah",
+     "snippet": "Şarkıcı ve oyuncu Kutsi, bir süredir birlikte olduğu Sevda Sönmez ile düzenlenen sade bir törenle dünyaevine girdi. Üçün...",
+     "published": "2026-11-15T21:53:20.000Z",
+     "titleFa": "کوتسی برای سومین بار ازدواج کرد! ازدواج غافلگیرکننده"
+    }
+   ],
+   "mergedIds": [
+    "efbfe1d74874"
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kutsi-dugun-2026-11-15-4jpg-oRV7PCMlf0eO_gGKiiA8Jw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kutsi-dugun-2026-11-15-1jfif-DSa2SLyB4Ua4I0finOu4yQ.jfif",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kutsi-dugun-2026-11-15-3jfif-bnmINMeApEyYw27uSWZO2w.jfif",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kaldirimjpg-N4PigwILXEGE1FIQKq-SMQ.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/bursadayayagecidinde5kisiyecarpan1610539478782jpg-vxQCDMKMGECcECEX8e3yyg.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "ازدواج غافلگیرکننده کوتسی با Sevda Sönmez",
+   "summaryFa": "خواننده و بازیگر معروف، کوتسی، با Sevda Sönmez ازدواج کرد. نماینده مجلس، Serkan Bayram، شاهد عقد این زوج بود.",
+   "bodyFa": [
+    "کوتسی، خواننده و بازیگر سرشناس، با Sevda Sönmez که مدتی با یکدیگر در رابطه بودند، طی مراسمی ازدواج کرد. این خبر غافلگیرکننده در رسانه‌ها بازتاب داشت و جزئیاتی درباره این پیوند منتشر شد.",
+    "بر اساس اطلاعات موجود، Serkan Bayram نماینده استانبول در مجلس، به عنوان شاهد عقد این زوج حضور داشت و برای آن‌ها آرزوی خوشبختی کرد. همچنین ذکر شد که کوتسی پیش از این نیز ازدواج‌هایی داشته است."
+   ],
+   "comparison": {
+    "agree": [
+     "کوتسی و Sevda Sönmez ازدواج کردند.",
+     "Serkan Bayram شاهد عقد این زوج بود."
+    ],
+    "differ": [
+     {
+      "topic": "تعداد ازدواج‌های قبلی",
+      "views": [
+       {
+        "source": "haberturk-magazin",
+        "text": "به نام‌های Sinem Bayraktutar و Sibel Ülker اشاره می‌کند که کوتسی قبلا با آن‌ها ازدواج کرده بود."
+       },
+       {
+        "source": "sozcu-magazin",
+        "text": "ذکر می‌کند که این سومین بار است که کوتسی بر سر سفره عقد می‌نشیند."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "2a03f7250ed5",
+   "url": "https://www.sozcu.com.tr/nebahat-cehre-haluk-bilginer-turk-sinemasi-yanit-p381641",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Nebahat Çehre'den Haluk Bilginer'in sözlerine yanıt! Aynı sözleri üç kez tekrarladı",
+   "snippet": "Oyuncu Nebahat Çehre, meslektaşı Haluk Bilginer'in Türk sinemasına ilişkin ifadesiyle başlayan tartışmaya ilişkin açıkla...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/nebahat-cehre-haluk-bilginer-121212jpg-Ynw19W91X06te9szsMVdJQ.jpg",
+   "video": null,
+   "published": "2026-11-15T17:48:52.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "nebahat-cehre"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/nebahat-cehre-haluk-bilginer-turk-sinemasi-yanit-p381641",
+     "title": "Nebahat Çehre'den Haluk Bilginer'in sözlerine yanıt! Aynı sözleri üç kez tekrarladı",
+     "snippet": "Oyuncu Nebahat Çehre, meslektaşı Haluk Bilginer'in Türk sinemasına ilişkin ifadesiyle başlayan tartışmaya ilişkin açıkla...",
+     "published": "2026-11-15T17:48:52.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/nebahat-cehre-haluk-bilginer-121212jpg-Ynw19W91X06te9szsMVdJQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/nebahat-cehre-haluk-bilginer-121212jpg-Ynw19W91X06te9szsMVdJQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/nc-2026-11-15jfif-w7q0i8XqI02nAKuvzlXbFA.jfif",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/medyajpg-RbKXfdkTVke_m6ICqfuzfQ.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/son-dakikajpg-u9ZT_gysQUqkQ98gYsSDnQ.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "033917825086",
    "url": "https://www.sozcu.com.tr/sehnaz-dilan-ediz-hun-a-cevap-verdi-p381622",
@@ -26,9 +194,27 @@
      "url": "https://www.sozcu.com.tr/sehnaz-dilan-ediz-hun-a-cevap-verdi-p381622",
      "title": "Yoksul filminin Leyla’sı Şehnaz Dilan’dan uzun zaman sonra ilk görüntü!",
      "snippet": "Kemal Sunal ile birlikte rol aldığı Yoksul filminde canlandırdığı Leyla karakteriyle hafızalara kazınan Şehnaz Dilan, yı...",
-     "published": "2026-11-15T16:43:58.000Z"
+     "published": "2026-11-15T16:43:58.000Z",
+     "titleFa": "تصویری جدید از شهناز دیلان، لیلای فیلم یوسول، پس از مدت‌ها!"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yoksul-film-1986-4jpg-OweCA5ej0EO1cv3dlrQWoA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yoksul-film-1986-4jpg-OweCA5ej0EO1cv3dlrQWoA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sehnaz-dilan-533556jpg-ULzbVkXEMkCKVLT7bX_kEg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sehnaz-dilan-151452webp-MT31mS6L8kWQ0vFkzS8BpQ.webp",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yoksul-film-1986-3png-x7pe0OQ7Fk2BBJj78--uAA.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "تصویر جدید از شهناز دیلان، بازیگر نقش لیلا در فیلم یوسول، پس از سال‌ها",
+   "summaryFa": "شهناز دیلان، بازیگر نقش لیلا در فیلم «یوسول» در کنار کمال سونال، پس از سال‌ها در منطقه نیشانتاشی دیده شد. او به اظهارات ادیت هون درباره پایان یافتن سینمای یشیل‌چام گلایه کرد.",
+   "bodyFa": [
+    "شهناز دیلان، بازیگر شناخته‌شده‌ای که با ایفای نقش لیلا در فیلم «یوسول» در کنار کمال سونال در خاطره‌ها مانده است، پس از مدت‌ها دوری از انظار عمومی در نیشانتاشی دیده شد و تصویر جدیدی از او ثبت گردید.",
+    "این بازیگر مشهور در جریان حضور خود به سخنان ادیت هون واکنش نشان داد و از دیدگاه او مبنی بر پایان یافتن دوران یشیل‌چام ابراز گله‌مندی کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "07658fd5fa3c",
@@ -55,9 +241,27 @@
      "url": "https://www.sozcu.com.tr/sarkici-goksel-almanya-belcika-vize-sorunu-p381617",
      "title": "Şarkıcı Göksel'in Avrupa konserlerinde vize engeli: Orkestrasız sahne aldı",
      "snippet": "Şarkıcı Göksel, Almanya'nın Mannheim ve Belçika'nın Brüksel kentlerinde verdiği konserler öncesinde orkestra ekibinin vi...",
-     "published": "2026-11-15T15:44:01.000Z"
+     "published": "2026-11-15T15:44:01.000Z",
+     "titleFa": "ممانعت از صدور ویزا برای کنسرت‌های اروپایی خواننده گوکسل: او بدون ارکستر روی صحنه رفت"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/goksel-235211jpg-M14lHsRTtE6zVL81KooAsA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/goksel-235211jpg-M14lHsRTtE6zVL81KooAsA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/goksel-20261114png-38JtLjorhEu2-yftVY96ag.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/orman-12jpg-4FjSzTQbCUCW_EuLuqaCEw.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/343jpg-6LUqaZbPEkam6S8M8K7cGg.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "ممانعت از صدور روزیدا برای ارکستر خواننده گوکسل در کنسرت‌های اروپایی",
+   "summaryFa": "گروه ارکستر خواننده مشهور گوکسل پیش از اجراهای اروپایی با مشکل ویزا مواجه شدند. این هنرمند با وجود این مشکل، کنسرت‌های خود را لغو نکرد و به تنهایی روی صحنه رفت.",
+   "bodyFa": [
+    "خواننده معروف، گوکسل، پیش از برگزاری کنسرت‌های خود در شهرهای مانهایم آلمان و بروکسل بلژیک با دردسر روبرو شد. اعضای ارکستر این خواننده نتوانستند ویزای لازم را دریافت کنند و به دلیل این مانع نتوانستند او را همراهی کنند.",
+    "با وجود این مشکل پیش آمده، گوکسل تصمیم گرفت برنامه‌های خود را لغو نکند. او در این کنسرت‌ها بدون حضور ارکستر خود به روی صحنه رفت و به اجرای برنامه پرداخت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "25677ba8b8ef",
@@ -84,9 +288,27 @@
      "url": "https://www.sozcu.com.tr/son-paylasimi-gundem-oldu-ikinci-kez-gogus-estetigi-mi-yaptirdi-p381603",
      "title": "Son paylaşımı gündem oldu! İkinci kez göğüs estetiği mi yaptırdı?",
      "snippet": "Dünyaca ünlü yıldız Kylie Jenner, sosyal medya hesabından paylaştığı cesur pozlarla yeniden gündeme geldi. Derin göğüs d...",
-     "published": "2026-11-15T14:22:52.000Z"
+     "published": "2026-11-15T14:22:52.000Z",
+     "titleFa": "آخرین پست او جنجال‌ساز شد! آیا او برای دومین بار عمل جراحی سینه انجام داده است؟"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/lastikjpg-ltAwvu1ddUmMYBC1MNsXCA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/lastikjpg-ltAwvu1ddUmMYBC1MNsXCA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/millisporcutarihegectiturkiyeyeilkmadalyayigetirdikapaka1336df4243044eajpg-Man9211nKkmexTdYBOU67w.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/depophotos19083544jpeg-H9oWHeE43E2ST1s1GlOx2A.jpeg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ronaldinho46yasinda11yilsonraresmimacacikti6af9f332f4678357b8b9c205png-wXZfdGdwl0CZwHETYMMhOA.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار تصاویر جدید کایلی جنر و بحث درباره عمل جراحی سینه",
+   "summaryFa": "کایلی جنر با انتشار تصاویر جدید خود در شبکه‌های اجتماعی مورد توجه قرار گرفت و شایعاتی درباره عمل جراحی دوم او مطرح شد. با این حال، هنوز هیچ توضیح رسمی و تایید شده‌ای در این زمینه ارائه نشده است.",
+   "bodyFa": [
+    "کایلی جنر، ستاره مشهور جهانی، با به اشتراک گذاشتن تصاویر جدید و جسورانه خود در حساب کاربری‌اش در شبکه‌های اجتماعی، بار دیگر به سرخط خبرها تبدیل شد. او در این تصاویر با یک کرست دارای یقه باز و عمیق دیده شد که توجه مخاطبان و کاربران را به خود جلب کرد.",
+    "به دنبال انتشار این تصاویر، نظرات و گمانه‌زنی‌هایی در میان کاربران شکل گرفت مبنی بر اینکه این چهره معروف برای دومین بار اقدام به انجام عمل جراحی زیبایی سینه کرده است. با وجود این ادعاها و بازتاب‌های فراوان در فضای مجازی، تا کنون هیچ‌گونه بیانیه یا توضیح تایید شده‌ای درباره صحت این موضوع منتشر نشده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5c5f0a3a74ba",
@@ -113,9 +335,20 @@
      "url": "https://www.haberturk.com/magazin/oguzhan-koc-ve-hazal-subasi-yeni-yuvalarina-tasiniyor-3927512",
      "title": "Ünlü çift yeni yuvalarına taşınıyor",
      "snippet": "Oğuzhan Koç'un İstanbul Levent'teki evinin kirasının mahkeme kararıyla 85 bin liradan 324 bin liraya çıkarılmasının ardından ünlü şarkıcı sevgilisi Hazal Subaşı ile evden ayrıldı. Eşyaların yüklenmesi sırasında sevgilisi Subaşı kamyonun başında bekledi",
-     "published": "2026-11-15T13:58:13.000Z"
+     "published": "2026-11-15T13:58:13.000Z",
+     "titleFa": "زوج معروف به خانه جدید خود نقل مکان می‌کنند"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "اسباب‌کشی Oğuzhan Koç و Hazal Subaşı پس از افزایش حکم دادگاه اجاره‌baha",
+   "summaryFa": "پس از صدور حکم دادگاه برای افزایش اجاره‌بهای خانه Oğuzhan Koç، این زوج به خانه‌ای جدید نقل مکان کردند. Hazal Subaşı در تمام طول مراحل باربری در کنار کامیون حضور داشت.",
+   "bodyFa": [
+    "پس از اختلاف میان خواننده معروف Oğuzhan Koç و صاحبخانه‌اش بر سر مبلغ اجاره خانه در منطقه لنت استانبول، پرونده به دادگاه کشیده شد. دادگاه پس از بررسی گزارش کارشناس، اجاره ماهانه این واحد را از ۸۵ هزار لیر به ۳۲۴ هزار لیر افزایش داد.",
+    "به دنبال صدور این حکم، Oğuzhan Koç تصمیم گرفت از این خانه که از سال ۲۰۱۹ در آن سکونت داشت، تخلیه کند. او به همراه دوست دختر بازیگرش، Hazal Subaşı، خانه را ترک کرد و به محل سکونت جدیدی نقل مکان نمود.",
+    "در جریان جابجایی اسباب و اثاثیه، Hazal Subaşı در تمامی مراحل بارگیری در کنار کامیون حمل بار حضور داشت و روند کار را از نزدیک زیر نظر گرفت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3c3384247cbd",
@@ -129,7 +362,7 @@
    "video": null,
    "published": "2026-11-15T13:37:00.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -142,9 +375,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/emel-sayindan-miras-aciklamasi-boyle-bir-sey-olmasini-asla-istemem-43379286",
      "title": "Emel Sayın’dan miras açıklaması: “Böyle bir şey olmasını asla istemem”",
      "snippet": "Türk sanat müziğinin usta isimlerinden Emel Sayın, son dönemde gündeme gelen miras tartışmaları hakkında konuştu. Miras konusunun kendisini rahatsız ettiğini dile getiren sanatçı, ailesiyle arasındaki güçlü bağa dikkat çekti.",
-     "published": "2026-11-15T13:37:00.000Z"
+     "published": "2026-11-15T13:37:00.000Z",
+     "titleFa": "اظهارات امل سایین درباره ارث: «هرگز نمی‌خواهم چنین چیزی وجود داشته باشد»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af9b5a03516f14679cc83f7.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af9b5a03516f14679cc83f7.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "اظهارات امل سایın درباره موضوع ارث",
+   "summaryFa": "امل سایین، یکی از چهره‌های برجسته موسیقی هنری ترکیه، درباره بحث‌های اخیر پیرامون موضوع ارث صحبت کرد. او اعلام کرد که این موضوع باعث ناراحتی‌اش می‌شود و به پیوند قوی میان خود و خانواده‌اش اشاره کرد.",
+   "bodyFa": [
+    "امل سایین، از نام‌های برجسته موسیقی سنتی ترکیه، اخیراً درباره بحث‌های مطرح شده پیرامون موضوع ارث به اظهار نظر پرداخته است.",
+    "این هنرمند نام‌آور تأکید کرد که مطرح شدن بحث ارث موجب ناراحتی او می‌شود و در ادامه به رابطه و پیوند عمیق و قوی میان خود و اعضای خانواده‌اش اشاره کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "80279a5c7449",
@@ -171,38 +422,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/komsulari-dogum-gununde-ferdi-tayfuru-anlatti-43379256",
      "title": "Komşuları doğum gününde Ferdi Tayfur'u anlattı: Ünlü oldu ama mahallesini unutmadı",
      "snippet": "Adanalı sanatçı Ferdi Tayfur, doğum gününde doğup büyüdüğü mahallede vatandaşlar tarafından anılırken, bir dönem çalıştığı kahvede kendisi için dua okundu. Arabesk müziğin usta sanatçısı Ferdi Tayfur, doğum günü olan 15 Kasım'da doğup büyüdüğü mahallede unutulmadı. 2 Ocak 2025 tarihinde hayatını kay",
-     "published": "2026-11-15T13:12:20.000Z"
+     "published": "2026-11-15T13:12:20.000Z",
+     "titleFa": "همسایگان فردی تایفور را در روز تولدش روایت کردند: معروف شد اما محله‌اش را فراموش نکرد"
     }
-   ]
-  },
-  {
-   "id": "41b360fff937",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/saglik-sorunlari-yuzunden-artik-sahneye-cikamiyor-efsane-sarkici-herkes-onu-ayakta-alkislarken-gozyaslarina-boguldu-43378975",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Sağlık sorunları yüzünden artık sahneye çıkamıyor… Efsane şarkıcı herkes onu ayakta alkışlarken gözyaşlarına boğuldu",
-   "snippet": "Dünyanın gelmiş geçmiş en büyük müzisyenlerinden biri… Uzun yıllar önce kurulan efsane müzik grubunun davulcusu olarak başladığı kariyerine çok ünlü bir şarkıcı olarak devam eden yıldız isim dün akşam hayatının en özel gecelerinden birini yaşadı.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af9722f8c01a1364d06919b.jpg",
-   "video": null,
-   "published": "2026-11-15T12:35:20.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/saglik-sorunlari-yuzunden-artik-sahneye-cikamiyor-efsane-sarkici-herkes-onu-ayakta-alkislarken-gozyaslarina-boguldu-43378975",
-     "title": "Sağlık sorunları yüzünden artık sahneye çıkamıyor… Efsane şarkıcı herkes onu ayakta alkışlarken gözyaşlarına boğuldu",
-     "snippet": "Dünyanın gelmiş geçmiş en büyük müzisyenlerinden biri… Uzun yıllar önce kurulan efsane müzik grubunun davulcusu olarak başladığı kariyerine çok ünlü bir şarkıcı olarak devam eden yıldız isim dün akşam hayatının en özel gecelerinden birini yaşadı.",
-     "published": "2026-11-15T12:35:20.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af9afb13516f14679cc83d6.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af9afb13516f14679cc83d6.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "یادbood فردی تایفور در زادگاهش به مناسبت روز تولد",
+   "summaryFa": "هنرمند برجسته موسیقی آرابسک، فردی تایفور، در روز تولدش در محله دوران کودکی‌اش یادآوری شد. شهروندان و همسایگان برای او در قهوه‌خانه‌ای که زمانی در آن کار می‌کرد، دعا خواندند.",
+   "bodyFa": [
+    "در روز ۱۵ نوامبر که مصادف با سالروز تولد فردی تایفور، هنرمند اهل آدانا است، مردم محلی در محله‌ای که او در آن متولد شده و رشد کرده بود، به یاد او بودند. این برنامه مردمی با گرامیداشت یاد این هنرمند همراه بود.",
+    "همچنین در قهوه‌خانه‌ای که فردی تایفور در یک دوره از زندگی‌اش در آنجا کار می‌کرد، برای وی دعای خیر خوانده شد تا خاطره حضور او در آن محله زنده نگه داشته شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "93c067429adb",
@@ -280,38 +520,27 @@
      "url": "https://www.sozcu.com.tr/kirasina-4-kati-zam-gelen-unlu-unlu-cift-apar-topar-tasindi-p381565",
      "title": "Kirasına 4 katı zam gelen ünlü ünlü çift apar topar taşındı",
      "snippet": "Şarkıcı Oğuzhan Koç ile oyuncu Hazal Subaşı, kira anlaşmazlığı nedeniyle davalık oldukları Levent'teki lüks daireden ayr...",
-     "published": "2026-11-15T11:49:59.000Z"
+     "published": "2026-11-15T11:49:59.000Z",
+     "titleFa": "افزایش چهار برابری اجاره‌بها و نقل مکان فوری زوج مشهور"
     }
-   ]
-  },
-  {
-   "id": "9a1485c64d70",
-   "url": "https://www.haberturk.com/magazin/breaking-bad-oyuncusu-rj-mitte-nin-olumunun-ardindan-annesi-seni-o-kadar-ozluyorum-ki-canim-aciyor-3927499",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"O kadar özlüyorum ki canım acıyor\"",
-   "snippet": "34 yaşında hayatını kaybeden 'Breaking Bad' oyuncusu RJ Mitte'nin annesinden duygusal mesaj: Bu yeni hayata alışmaya çalışıyorum ama çok acı verici bir şekilde zor",
-   "image": "https://im.haberturk.com/l/2026/11/15/ver1794741844/3927499/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-15T11:24:30.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/breaking-bad-oyuncusu-rj-mitte-nin-olumunun-ardindan-annesi-seni-o-kadar-ozluyorum-ki-canim-aciyor-3927499",
-     "title": "\"O kadar özlüyorum ki canım acıyor\"",
-     "snippet": "34 yaşında hayatını kaybeden 'Breaking Bad' oyuncusu RJ Mitte'nin annesinden duygusal mesaj: Bu yeni hayata alışmaya çalışıyorum ama çok acı verici bir şekilde zor",
-     "published": "2026-11-15T11:24:30.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hazalsubasioguzhankocjpg-6bSTCKT3f0K6-C4pDnkDlQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hazalsubasioguzhankocjpg-6bSTCKT3f0K6-C4pDnkDlQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/oguzhankocjpg-qzE7XetFcE_MQCEG6yZojg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-resmi-20261115-143312png-KqIj1uHx_kel8OiPby9rbA.png?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/b79281333d6b4d76af8b2baba656d165jpeg-utq5M4BX1Ua9azoThfAtRQ.jpeg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "زوج مشهور به دلیل افزایش چهار برابری اجاره بها نقل مکان کردند",
+   "summaryFa": "خواننده اوغوزهان کوچ و بازیگر هازال باشی پس از اختلاف بر سر اجاره بها و حکم دادگاه، از خانه لوکس خود در لِوِنت نقل مکان کردند.",
+   "bodyFa": [
+    "خواننده اوغوزهان کوچ و بازیگر هازال باشی به خاطر اختلافاتی که با صاحبخانه خود داشتند و موضوع به دادگاه کشیده شده بود، از آپارتمان لوکس خود در منطقه لِوِنت خارج شدند.",
+    "پس از اینکه دادگاه حکم داد میزان اجاره از ۸۵ هزار لیر به ۳۲۴ هزار لیر افزایش یابد، این زوج تصمیم گرفتند خانه را ترک کرده و به منزل جدید خود نقل مکان کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "e4353fe1242e",
@@ -340,7 +569,16 @@
      "snippet": "Arabesk müziğin usta sanatçısı Ferdi Tayfur, doğum günü olan 15 Kasım'da doğup büyüdüğü mahallede unutulmadı. 2 Ocak 2025 tarihinde hayatını kaybeden Tayfur'un çocukluk ve gençlik yıllarını geçirdiği Hürriyet Mahallesi'nde vatandaşlar, usta sanatçıyı anlatarak hatıralarını paylaştı. Sanatçının bir d",
      "published": "2026-11-15T10:56:02.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af986f0b61a898b6e310c06.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af986f0b61a898b6e310c06.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "0708dafe52de",
@@ -418,9 +656,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/hande-ercelin-dubai-tarzi-olay-oldu-takipciler-bulent-ersoya-benzetti-7701110",
      "title": "Hande Erçel'in Dubai tarzı olay oldu! Takipçiler Bülent Ersoy'a benzetti",
      "snippet": "Hande Erçel'in Dubai'de tercih ettiği kabarık ve tüy detaylı elbise sosyal medyada olay yarattı. Ünlü oyuncuya yapılan Diva benzetmesi dikkat çekti.",
-     "published": "2026-11-15T08:59:10.000Z"
+     "published": "2026-11-15T08:59:10.000Z",
+     "titleFa": "استایل دبی هانده ارچل جنجال به پا کرد! فالوورها او را شبیه به بولنت ارسوی دانستند"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af97305b61a898b6e310b93.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af97305b61a898b6e310b93.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "استایل هانده ارچل در دبی و شباهت آن به بولنت ارسوی از نگاه کاربران",
+   "summaryFa": "لباس پفی و پردار هانده ارچل در دبی جنجال‌برانگیز شد و کاربران شبکه‌های اجتماعی او را به بولنت ارسوی تشبیه کردند.",
+   "bodyFa": [
+    "لباس خاصی که هانده ارچل، بازیگر مشهور، در سفر خود به دبی به تن کرده بود، بازتاب گسترده‌ای در شبکه‌های اجتماعی داشت و توجه کاربران را به خود جلب کرد.",
+    "این لباس که دارای جزئیات پفی و پردار است، باعث شد تا برخی از دنبال‌کنندگان، استایل او را با «دیوا» (بولنت ارسوی) مقایسه کنند و نظرات مختلفی را در این خصوص مطرح نمایند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "723b6fb383d7",
@@ -434,7 +690,7 @@
    "video": null,
    "published": "2026-11-15T08:56:57.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -447,9 +703,27 @@
      "url": "https://www.sozcu.com.tr/bir-donemin-unlu-oryantali-sessiz-sedasiz-evlendigini-acikladi-p381522",
      "title": "Bir dönemin ünlü oryantali sessiz sedasız evlendiğini açıkladı",
      "snippet": "Oryantal Asena, Hasan Dere ile biten 8 yıllık evliliğinin ardından yeniden nikah masasına oturdu. Yaklaşık 8 aydır birli...",
-     "published": "2026-11-15T08:56:57.000Z"
+     "published": "2026-11-15T08:56:57.000Z",
+     "titleFa": "رقاص معروف یک دوره اعلام کرد که به دور از سرصدا ازدواج کرده است"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/615jpg-P7j0_NG3-U2S9uWmqYSopg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/615jpg-P7j0_NG3-U2S9uWmqYSopg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/oryantal-asenajpg-A9UPgzfFn06qw0NYN-Oa9Q.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/oryantal-asenaaajpg-fd6wLXck806hF2t-DKUiQg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/asena-ciftlikjpg-6dSnYdz_x0KpakK9xfYxzg.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "ازen ازدواج پنهانی و بدون سرصدای رقاص معروف آسنا",
+   "summaryFa": "آسنا، رقاص و چهره مشهور سابق، پس از پایان زندگی مشترک هشت ساله خود با حسن دره، برای دومین بار ازدواج کرد. او این بار با کانی کودو، که حدود هشت ماه با او در رابطه بود، به دور از چشم رسانه‌ها پیمان زناشویی بست.",
+   "bodyFa": [
+    "آسنا، رقاص و چهره شناخته‌شده‌ای که در گذشته با هنرنمایی‌های خود به شهرت رسیده بود، در زندگی شخصی‌اش تصمیم جدیدی گرفت. او پس از جدایی از همسر قبلی‌اش، حسن دره، که زندگی مشترکشان هشت سال طول کشیده بود، دوباره ازدواج کرد.",
+    "این چهره مشهور اخیراً در مصاحبه‌ای برای نخستین بار از احساس خوشبختی خود سخن گفت و فاش کرد که با کانی کودو ازدواج کرده است. رابطه این زوج حدود هشت ماه ادامه داشته و مراسم ازدواج آن‌ها نیز به دور از هماهنگی‌های رسانه‌ای و به صورت پنهانی برگزار شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "9f51e529924a",
@@ -478,7 +752,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/hulya-kocyigit-lizge-comerte-el-verdi-gelenekten-gelecege-susuz-yaz-43378927",
      "title": "Hülya Koçyiğit, Lizge Cömert'e el verdi... Gelenekten geleceğe 'Susuz Yaz'",
      "snippet": "Necati Cumalı’nın toplumsal gerçekçi eserinden Metin Erksan tarafından sinemaya uyarlanan Susuz Yaz, 63 yıl sonra yeniden hayat buldu. İlk sinema filmi olan Susuz Yaz’da Bahar’a hayat veren Hülya Koçyiğit, aynı adı taşıyan Kanal D’nin yeni dizisinde geleneği geleceğe taşıyan halefi Lizge Cömert ile ",
-     "published": "2026-11-15T08:20:00.000Z"
+     "published": "2026-11-15T08:20:00.000Z",
+     "titleFa": "هولیا کوچی‌گیت به لیزگه جومرت دست داد... «تابستان بی‌باران» از سنت به آینده"
     },
     {
      "source": "milliyet-magazin",
@@ -486,12 +761,48 @@
      "url": "https://www.milliyet.com.tr/magazin/63-yillik-efsane-yeniden-donuyor-susuz-yaz-dizisine-hulya-kocyigitten-ilk-yorum-7701051",
      "title": "63 yıl sonra! Susuz Yaz'da kuşaklar buluştu: Hülya Koçyiğit'ten Lizge Cömert'e tarihi jest",
      "snippet": "HABER MERKEZİ- 1963 yılında Necati Cumalı’nın Ege bölgesinin kırsal kesiminde yaşanan sorunları ele aldığı öyküsü Susuz Yaz, Türk sinemasının usta ismi Metin Erksan tarafından filme çekildi. Türk sinemasının ilk kez uluslararası ödüle layık görüldüğü Berlin Film Festivali’nde Altın Ayı kazanan eser,",
-     "published": "2026-11-15T10:25:01.000Z"
+     "published": "2026-11-15T10:25:01.000Z",
+     "titleFa": "بعد از ۶۳ سال! تقاطع نسل‌ها در «تابستان بی‌باران»: ژست تاریخی هولیا کوچی‌گیت به لیزگه جومرت"
     }
    ],
    "mergedIds": [
     "cd04b3894d9b"
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af96b063516f14679cc815c.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af96b063516f14679cc815c.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "دیدار نسل‌ها در «تابستان بی‌باران»؛ از هولیا کوچی‌گیت تا لیزگه جومرت",
+   "summaryFa": "هولیا کوچی‌گیت، بازیگر فیلم خاطره‌انگیز «تابستان بی‌باران»، با لیزگه جومرت، بازیگر نسخه جدید این اثر در کانال دی دیدار کرد. این دو هنرمند در جریان نشست اقلیمی COP31 در آنتالیا گردهم آمدند.",
+   "bodyFa": [
+    "اثر واقع‌گرایانه اجتماعی «تابستان بی‌باران» نوشته نجاتی جومالی که ۶۳ سال پیش توسط متین ارکسان به فیلم سینمایی تبدیل شده بود، بار دیگر مورد توجه قرار گرفت. در فیلم سینمایی اصلی، هولیا کوچی‌گیت ایفاگر نقش «بهار» بود و اکنون در سریال جدیدی با همین نام از شبکه کانال دی، لیزگه جومرت جانشین این نقش شده است.",
+    "بر اساس گزارش‌ها، هولیا کوچی‌گیت و لیزگه جومرت در نشست جهانی اقلیمی COP31 در آنتالیا یکدیگر را ملاقات کردند. آن‌ها ضمن تماشای مشترک فیلم «تابستان بی‌باران»، در برابر پوستر این اثر عکس یادگاری گرفتند و هولیا کوچی‌گیت با حمایت از لیزگه جومرت به عنوان «بهار جدید»، به او اصطلاحاً «دست داد» و پشتیبانی خود را ابراز کرد."
+   ],
+   "comparison": {
+    "agree": [
+     "اثر «تابستان بی‌باران» نوشته نجاتی جومالی و اقتباس سینمایی متین ارکسان است.",
+     "هولیا کوچی‌گیت در فیلم اصلی نقش بهار را بازی کرده و لیزگه جومرت در سریال جدید کانال دی حضور دارد."
+    ],
+    "differ": [
+     {
+      "topic": "سال ساخت اثر اصلی",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "فیلم در سال ۱۹۶۳ ساخته شده و برنده جایزه خرس طلایی در جشنواره فیلم برلین شده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "497a087f4c17",
@@ -505,7 +816,7 @@
    "video": null,
    "published": "2026-11-15T08:02:27.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -518,9 +829,27 @@
      "url": "https://www.milliyet.com.tr/magazin/demet-akalin-adanayi-salladi-konserde-yer-yerinden-oynadi-7701090",
      "title": "Demet Akalın Adana'yı salladı! Konserde yer yerinden oynadı",
      "snippet": "Bakanlıktan yapılan açıklamaya göre, festivalin 8. gününde Demet Akalın, Merkez Park'ta sahne aldı. Akalın, konserde aralarında \"Çalkala\", \"Kulüp\" ve \"Yerinde Dur\"un da bulunduğu şarkılarını seslendirdi. Konser sırasında müzikseverler, Akalın'ın söylediği şarkılara eşlik etti. Kadir İnanır'ın mal va",
-     "published": "2026-11-15T08:02:27.000Z"
+     "published": "2026-11-15T08:02:27.000Z",
+     "titleFa": "دمت آکالین آدانا را لرزاند! کنسرت غوغا به پا کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af966f3b61a898b6e310b1d.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af966f3b61a898b6e310b1d.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای کنسرت دمت آکالین در جشنواره فرهنگی آدانا",
+   "summaryFa": "دمت آکالین در ادامه جشنواره فرهنگی و گردشگری آدانا در پارک مرکزی روی صحنه رفت و به اجرای ترانه‌های معروف خود پرداخت. این کنسرت با استقبال و همراهی مخاطبان مواجه شد.",
+   "bodyFa": [
+    "بر اساس اعلام وزارت فرهنگ و گردشگری، دمت آکالین در روز هشتم جشنواره فرهنگی راه آدانا در پارک مرکزی کنسرت برگزار کرد.",
+    "این خواننده در جریان این اجرا قطعات شناخته‌شده‌ای از جمله «چانکالا»، «کلوب» و «یرینده دور» را برای حاضران خواند و هواداران موسیقی نیز با او همخوانی کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ce9626f83a59",
@@ -547,9 +876,28 @@
      "url": "https://www.sozcu.com.tr/iki-unlu-oyuncu-ayni-dizide-bulusuyor-mukemmel-anneler-in-kadrosu-sekilleniyor-p381498",
      "title": "İki ünlü oyuncu aynı dizide buluşuyor! Mükemmel Anneler'in kadrosu şekilleniyor",
      "snippet": "Deniz Çakır ve Ebru Özkan, TV8 ekranlarında yayınlanacak Mükemmel Anneler dizisiyle izleyici karşısına çıkmaya hazırlanı...",
-     "published": "2026-11-15T07:58:07.000Z"
+     "published": "2026-11-15T07:58:07.000Z",
+     "titleFa": "دو بازیگر مشهور در یک سریال با هم دیدار می‌کنند! کادر سریال «مادران بی‌نقص» شکل می‌گیرد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/mukemmelannelerjpg-FaIWW706aUWuTWrZwEAZVw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/mukemmelannelerjpg-FaIWW706aUWuTWrZwEAZVw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/379jpg-diT6rNqsm0_ZXckb-kullA.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/adadasdadpng-aoQr-xA6CUSHyE6RNVNmXA.PNG?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ronaldinho46yasinda11yilsonraresmimacacikti6af9f332f4678357b8b9c205png-wXZfdGdwl0CZwHETYMMhOA.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "پیوستن دنیز چاکییر و ابرو اوزکان به سریال «مادران بی‌نقص»",
+   "summaryFa": "دنیز چاکییر و ابرو اوزکان قرار است در سریال «مادران بی‌نقص» از شبکه TV8 بازی کنند. این مجموعه تلویزیونی برای پخش در ماه ژانویه برنامه‌ریزی شده است.",
+   "bodyFa": [
+    "دنیز چاکییر و ابرو اوزکان، دو بازیگر شناخته‌شده تلویزیون، قرار است با پروژه جدیدی به نام «مادران بی‌نقص» که از شبکه TV8 پخش خواهد شد، به روی آنتن بروند.",
+    "این سریال با تهیه‌کنندگی «پم یاپیم» تولید می‌شود و طبق برنامه‌ریزی‌های انجام شده، قرار است در ماه ژانویه آینده پخش خود را آغاز کند.",
+    "همچنین گزارش شده است که نقش‌آفرینی این دو بازیگر در این مجموعه قطعی شده و شخصیت‌هایی که قرار است ایفا کنند نیز مشخص شده‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "84b0b942b279",
@@ -576,9 +924,20 @@
      "url": "https://www.haberturk.com/magazin/foto/irem-derici-den-evlilik-sorularina-yanit-paramiz-kalmadi-3927462",
      "title": "\"Paramız kalmadı!\"",
      "snippet": "Şarkıcı İrem Derici, Melih Kunukçu ile evlilik planlarından evinin bitmeyen masraflarına dair samimi açıklamalarda bulundu",
-     "published": "2026-11-15T07:55:46.000Z"
+     "published": "2026-11-15T07:55:46.000Z",
+     "titleFa": "\"Paramız kalmadı!\""
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "اظهارات صمیمانه ایرم دريجي درباره برنامه‌های ازدواج و هزینه‌های خانه",
+   "summaryFa": "ایرم دريجي در مصاحبه‌ای درباره برنامه‌های ازدواج خود با ملیح کونوقجو و هزینه‌های بی‌پایان خانه‌اش صحبت کرد. او همچنین به موضوع هوش مصنوعی و تحسین Serenay Sarıkaya پرداخت.",
+   "bodyFa": [
+    "ایرم دريجي، خواننده، در حاشیه دیدار با هواداران خود در قبرس پیش از رفتن روی صحنه به سوالات خبرنگاران پاسخ داد. او در پاسخ به سوالی درباره برنامه‌های ازدواج خود با نامزد دی‌جی‌اش، ملیح کونوقجو، با طنز اعلام کرد که پولی برایشان نمانده است.",
+    "این خواننده توضیح داد که به دلیل هزینه‌های سنگین بازسازی خانه، تمام تابستان را برای خانه کار کرده و حساب بانکی‌اش خالی شده است. دريجي در بخش دیگری از صحبت‌های خود درباره هوش مصنوعی نظر داد و گفت که این فناوری چیز جدیدی به ما نمی‌دهد بلکه داشته‌هایمان را با سرعت ارائه می‌دهد و بیش از حد بزرگ شده است.",
+    "علاوه بر این، ایرم دريجي تحسین خود را نسبت به Serenay Sarıkaya ابراز کرد و از بازیگری و راه رفتن بااعتمادبه‌نفس او در هفته مد پاریس تمجید نمود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6adfb22d4d96",
@@ -607,9 +966,27 @@
      "url": "https://www.sozcu.com.tr/dizi-baslamadan-kriz-cikti-basroller-projeden-ayrildi-p381494",
      "title": "Dizi başlamadan kriz çıktı: Başroller projeden ayrıldı",
      "snippet": "Star TV'den atv'ye transfer edilen Evlat dizisi, hazırlık sürecindeki değişikliklerin ardından bu kez başrol ayrılıkları...",
-     "published": "2026-11-15T07:52:12.000Z"
+     "published": "2026-11-15T07:52:12.000Z",
+     "titleFa": "بحران پیش از آغاز سریال: بازیگران نقش اصلی از پروژه جدا شدند"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/379jpg-diT6rNqsm0_ZXckb-kullA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/379jpg-diT6rNqsm0_ZXckb-kullA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yeni-proje-20261115t102315799png-RobbhMl1MkWqqELDnW1xAw.png?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/11/bellek-cip-bilgisayar-pixabay-1jpg-9w_FY-e4QU2Me8QNQ0k4aw.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ronaldinho46yasinda11yilsonraresmimacacikti6af9f332f4678357b8b9c205png-wXZfdGdwl0CZwHETYMMhOA.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "بحران در سریال «فرزند» پیش از آغاز پخش؛ جدایی بازیگران نقش اصلی",
+   "summaryFa": "سریال «فرزند» که از استار تی‌وی به کانال آ‌تی‌وی منتقل شده بود، پیش از آغاز فیلمبرداری با جدایی بازیگران نقش‌های اصلی «حیات» و دکتر «چاغری» مواجه شد.",
+   "bodyFa": [
+    "سریال «فرزند» با تولیدی شرکت بوزداغ فیلم که ابتدا برای شبکه استار تی‌وی آماده شده بود و سپس به شبکه آ‌تی‌وی انتقال یافت، پیش از شروع فیلمبرداری با حاشیه‌ها و تغییرات تازه‌ای روبه‌رو شد.",
+    "بر اساس اطلاعات به‌دست‌آمده، دو بازیگری که پیش‌تر برای ایفای نقش‌های «حیات» و دکتر «چاغری» با آن‌ها توافق شده بود، در این پروژه حضور نخواهند داشت و از سریال جدا شده‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "982aed0bb393",
@@ -689,9 +1066,27 @@
      "url": "https://www.sozcu.com.tr/can-yaman-in-ten-rengi-olay-oldu-niye-bu-kadar-kararmis-yorumlari-yagdi-p381435",
      "title": "Can Yaman'ın ten rengi olay oldu: 'Niye bu kadar kararmış?' yorumları yağdı",
      "snippet": "Kariyerini yurt dışında sürdüren oyuncu Can Yaman, Madrid'de katıldığı dizi galasında bu kez görünümüyle gündeme geldi. ...",
-     "published": "2026-11-15T07:06:12.000Z"
+     "published": "2026-11-15T07:06:12.000Z",
+     "titleFa": "رنگ پوست جان یAMAN جنجال‌ساز شد: نظراتی مانند «چرا اینقدر تیره شده است؟» سرازیر شد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/canyamansonhalijpg-av0L6gBXaEuVBuYhTz7bIw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/canyamansonhalijpg-av0L6gBXaEuVBuYhTz7bIw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/saveclipapp895288043180772947837269932009836058701386285njpg-4l3ma56-b0uYWaO7QexeqA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/saveclipapp899543224180777213237269936650658404730419797njpg-rDSixL7oo02Ue1mPsIs3Qg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/9/cybercab037screenshot1copy1024x5761jpg-nVSuW1-pl0O8KOd_iDdoPw.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "رنگ پوست جان یaman در مادرید مورد توجه قرار گرفت",
+   "summaryFa": "جان یAMAN، بازیگری که فعالیت خود را در خارج از کشور ادامه می‌دهد، با ظاهر بسیار برنزه خود در یک اکران سریال در مادرید توجه‌ها را به خود جلب کرد. این تصاویر جدید در شبکه‌های اجتماعی بحث‌برانگیز شد و نظرات زیادی را به دنبال داشت.",
+   "bodyFa": [
+    "جان یAMAN، بازیگر ترکیه‌ای که مدت‌هاست فعالیت‌های هنری خود را در خارج از کشور دنبال می‌کند، این بار با حضور در یک مراسم اکران سریال در شهر مادرید و با ظاهر متفاوت خود به تیتر خبرها تبدیل شد.",
+    "تصاویر این بازیگر با پوست به شدت برنزه شده‌اش در برابر دوربین‌ها، واکنش‌های زیادی را در شبکه‌های اجتماعی به همراه داشت و کاربران با نظراتی چون «چرا اینقدر تیره شده است؟» به این موضوع واکنش نشان دادند. او در این رویداد که برای پروژه جدیدش برگزار شده بود، شرکت کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6004e70d40c5",
@@ -718,9 +1113,19 @@
      "url": "https://www.haberturk.com/magazin/mahsun-kirmizigul-yilbasi-ucretleri-abartiliyor-3927454",
      "title": "\"Yılbaşı ücretleri abartılıyor\"",
      "snippet": "Mahsun Kırmızıgül, yılbaşı konser ücretleriyle ilgili ortaya atılan astronomik rakamlara \"Abartılıyor\" diyerek tepki gösterdi",
-     "published": "2026-11-15T07:00:32.000Z"
+     "published": "2026-11-15T07:00:32.000Z",
+     "titleFa": "دمزدهای سال نو اغراق‌آمیز است"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "واکنش mahsun kırmızıgül به دستمزدهای نجومی کنسرت‌های سال نو",
+   "summaryFa": "محسون قرمزگول به ارقام نجومی مطرح شده درباره دستمزدهای کنسرت‌های سال نو واکنش نشان داد و آن‌ها را اغراق‌آمیز خواند. او همچنین به مشکلات اقتصادی بخش سینما اشاره کرد.",
+   "bodyFa": [
+    "محسون قرمزگول، خواننده و چهره شناخته‌شده، در حاشیه برنامه‌ای در قبرس به پرسش‌های خبرنگاران پاسخ داد و شایعات و ادعاها درباره دستمزدهای نجومی خوانندگان برای کنسرت‌های سال نو را رد کرد. او با انتقاد از این ارقام اعلام کرد که انتشار چنین اعدادی باعث شده تا افراد زیادی با او تماس بگیرند.",
+    "این هنرمند همچنین درباره مشکلات مالی و اقتصادی در سینما صحبت کرد و بر ضرورت همکاری همگان در این زمینه تأکید داشت. او افزود که در فعالیت‌های صحنه‌ای خود تلاش می‌کند فراتر از خوانندگی معمولی عمل کرده و روایتی داستانی را به نمایش بگذارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ffaf113be1ae",
@@ -749,7 +1154,8 @@
      "snippet": "Birce Akalay, önceki gün Bebek'te objektiflere yansıdı. Yeni projelerinin olduğunu söyleyen oyuncu, güzel havayı fırsat bilerek parkta kitap okudu, ardından sahilde yürüyüş yaptı",
      "published": "2026-11-15T06:42:03.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "42d35080f4d1",
@@ -776,9 +1182,27 @@
      "url": "https://www.sozcu.com.tr/turk-dizileri-icin-ab-raporuna-atif-var-yaptirim-cagrisi-yok-p381446",
      "title": "Rumlar Türk dizilerine savaş açtı",
      "snippet": "Güney Kıbrıs Rum basınından Phileleftheros'ta yayımlanan analizde, Türk dizileri Türkiye'nin kültürel ve siyasi etkisini...",
-     "published": "2026-11-15T06:17:36.000Z"
+     "published": "2026-11-15T06:17:36.000Z",
+     "titleFa": "یونانی‌تباران قبرس به سریال‌های ترکی اعلان جنگ دادند"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/turkdizileriicinabraporunaatifvaryaptirimcagrisiyokkapakc54661efbb85736bjpg-HvTO-Z8umEaHhYlO0JFIpQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/turkdizileriicinabraporunaatifvaryaptirimcagrisiyokkapakc54661efbb85736bjpg-HvTO-Z8umEaHhYlO0JFIpQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/guzelyurtpng-P6DYvy2JZEuVbRXqvV70sw.png?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/953jpg-29FIvQ48PEuvxqKlkOMtbQ.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ronaldinho46yasinda11yilsonraresmimacacikti6af9f332f4678357b8b9c205png-wXZfdGdwl0CZwHETYMMhOA.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "یادداشت روزنامه صزهونی درباره تاثیر فرهنگی و سیاسی سریال‌های ترکی",
+   "summaryFa": "یک تحلیل در روزنامه چاپ جنوب قبرس، سریال‌های ترکی را ابزاری برای افزایش نفوذ فرهنگی و سیاسی ترکیه توصیف کرده است. با این حال، گزارش کمیسیون اروپا که در این مقاله به آن اشاره شده، هیچ درخواستی برای تحریم یا مسدودسازی این سریال‌ها مطرح نکرده است.",
+   "bodyFa": [
+    "در روزنامه «فیلکلفتروس» چاپ جنوب قبرس تحلیلی منتشر شده است که در آن ادعا می‌شود سریال‌های ترکی به عنوان ابزاری جهت گسترش نفوذ سیاسی و فرهنگی ترکیه عمل می‌کنند. این مطلب با استناد به گزارش کمیسیون اروپا درباره ترکیه نوشته شده است.",
+    "با وجود این تحلیل، بررسی‌ها نشان می‌دهد که در گزارش کمیسیون اروپا هیچ‌گونه توصیه، فراخوان یا درخواستی مبنی بر اعمال تحریم یا جلوگیری از پخش سریال‌های ترکی وجود ندارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b5fe1b1fdde8",
@@ -807,7 +1231,16 @@
      "snippet": "Sanatorium Tophane, İsmail Şimşek’in “Monokrom” başlıklı kişisel sergisini sanatseverlerle buluşturdu.",
      "published": "2026-11-15T06:04:29.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af94b698c01a1364d0690e5.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af94b698c01a1364d0690e5.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true
   },
   {
    "id": "0e9066ebcafe",
@@ -834,9 +1267,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ilk-okuma-provasi-yapildi-43378792",
      "title": "İlk okuma provası yapıldı",
      "snippet": "Bir eğitim dizisi olarak hazırlanan “Who Are You?” dizisinin ilk okuma provası yapıldı.",
-     "published": "2026-11-15T06:02:35.000Z"
+     "published": "2026-11-15T06:02:35.000Z",
+     "titleFa": "نخستین تمرین دورخوانی انجام شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af94ae98c01a1364d0690d3.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af94ae98c01a1364d0690d3.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "انجام نخستین تمرین دورخوانی سریال «Who Are You؟»",
+   "summaryFa": "نخستین تمرین دورخوانی سریال آموزشی «Who Are You؟» برگزار شد.",
+   "bodyFa": [
+    "سریال جدید «Who Are You؟» که به عنوان یک مجموعه آموزشی تدارک دیده شده است، گام نخست را برداشت.",
+    "بر اساس اطلاعات منتشر شده، عوامل این پروژه مراحل آماده‌سازی خود را با برگزاری نخستین تمرین دورخوانی متن آغاز کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d6cd95121c67",
@@ -865,7 +1316,16 @@
      "snippet": "Tuğçe Kandemir, yeni şarkısı “Ben Eski Ben Değilim”i müzikseverler ile buluşturdu.",
      "published": "2026-11-15T05:57:20.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af949408c01a1364d0690b6.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af949408c01a1364d0690b6.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true
   },
   {
    "id": "5e2b56d015ec",
@@ -1043,7 +1503,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/cok-gurur-duyuyorum-43378774",
      "title": "Çok gurur duyuyorum",
      "snippet": "Kanal D’nin sevilen dizisi “Daha 17”de Leyla karakterini canlandıran genç oyuncu Ceren Ayruk, samimi açıklamalarda bulundu.",
-     "published": "2026-11-15T05:43:14.000Z"
+     "published": "2026-11-15T05:43:14.000Z",
+     "titleFa": "خیلی افتخار می‌کنم"
     }
    ],
    "images": [
@@ -1054,7 +1515,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اظهارات جرن آیروک درباره نقش‌آفرینی در سریال «هنوز ۱۷ سالشه»",
+   "summaryFa": "جرن آیروک، بازیگر نقش لیلا در سریال «هنوز ۱۷ سالشه»، در گفتگویی صمیمانه از حضور در این مجموعه ابراز افتخار کرد. این سریال از شبکه کانال دی پخش می‌شود.",
+   "bodyFa": [
+    "جرن آیروک، بازیگر جوان ترکیه‌ای که در سریال محبوب «هنوز ۱۷ سالشه» محصول شبکه کانال دی نقش شخصیت لیلا را ایفا می‌کند، در گفتگویی صمیمانه درباره تجربه کاری خود سخن گفت.",
+    "این بازیگر با ابراز خرسندی از حضور در این پروژه تاکید کرد که به بازی در سریال «هنوز ۱۷ سالشه» بسیار افتخار می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "371dd64e496b",
@@ -1112,9 +1581,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/herkes-elini-tasin-altina-koymali-43378768",
      "title": "Herkes elini taşın altına koymalı",
      "snippet": "Kanal D’nin sevilen yapımı ‘Haysiyet’te Ender karakterine hayat veren Emin Günenç, dizi sektöründe yaşanan reklam krizi hakkında konuştu.",
-     "published": "2026-11-15T05:39:00.000Z"
+     "published": "2026-11-15T05:39:00.000Z",
+     "titleFa": "همه باید دست به کار شوند"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af9459d8c01a1364d069063.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af9459d8c01a1364d069063.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "اظهارات امین گوننچ درباره بحران تبلیغات در صنعت سریال‌سازی",
+   "summaryFa": "امین گوننچ، بازیگر نقش اندر در سریال «حیثیت»، پیرامون بحران تبلیغات در این صنعت به صحبت پرداخت.",
+   "bodyFa": [
+    "امین گوننچ که در سریال محبوب «حیثیت» از شبکه کانال دی نقش کاراکتر اندر را ایفا می‌کند، اخیراً درباره بحران تبلیغات که این روزها در بخش تولید سریال‌های تلویزیونی جریان دارد، نکاتی را مطرح کرد.",
+    "این بازیگر در جریان صحبت‌های خود به موضوع بحران تبلیغات در صنعت سریال‌سازی پرداخت و دیدگاه‌های خود را در این خصوص با مخاطبان به اشتراک گذاشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "71b9abd91402",
@@ -1350,7 +1837,8 @@
      "url": "https://www.milliyet.com.tr/magazin/basarinin-sirri-ekip-ruhu-7700895",
      "title": "Başarının sırrı ekip ruhu",
      "snippet": "Bunun yanında popülarite de beraberinde geldi. Hem kendi adıma hem de arkadaşlarım adına gurur duyuyorum” dedi. ‘Daha 17’nin başarısında oyuncular arasındaki uyumun önemine dikkat çeken Ayruk, “Herkesin işini severek yapması dizinin başarısında önemli bir rol. Ekip ruhu izleyiciye de yansıyor” diye ",
-     "published": "2026-11-15T04:01:39.000Z"
+     "published": "2026-11-15T04:01:39.000Z",
+     "titleFa": "راز موفقیت، روحیه تیمی است"
     }
    ],
    "images": [
@@ -1361,7 +1849,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "صحبت‌های جرن آیروک درباره راز موفقیت سریال «هنوز ۱۷ سالشه»",
+   "summaryFa": "جرن آیروک، بازیگر سریال «هنوز ۱۷ سالشه»، علت موفقیت این مجموعه را هماهنگی و روحیه تیمی میان بازیگران دانست. او همچنین اشاره کرد که هدف اصلی‌اش داشتن یک حرفه بازیگری خوب بوده است.",
+   "bodyFa": [
+    "جرن آیروک که در سریال «هنوز ۱۷ سالشه» محصول شبکه کانال دی نقش «لیلا» را ایفا می‌کند، درباره تجربه بازیگری خود و موفقیت این مجموعه سخن گفته است. به گفته او، هدف اولیه وی تنها داشتن یک کارنامه بازیگری موفق بوده، اما همراه با آن محبوبیت نیز به دست آمده است. او اعلام کرد که به خود و دوستان بازیگرش افتخار می‌کند.",
+    "این بازیگر با تأکید بر اهمیت هماهنگی میان بازیگران در موفقیت سریال اظهار داشت که علاقه‌مند بودن همه عوامل به کارشان نقش مهمی در پیشبرد پروژه دارد. او معتقد است روحیه تیمی و حس همکاری موجود در میان بازیگران به مخاطبان نیز منتقل می‌شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1542f5c8e725",
@@ -1808,9 +2304,27 @@
      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/aytug/2026/11/15/dizilerimizin-tanitim-gucunden-korktular",
      "title": "Dizilerimizin tanıtım gücünden korktular",
      "snippet": "Diziler evrenindeki ağır kriz, öncelikle tek bedava eğlencesi akşam çekirdek çitleyip dizi izlemek olanları mağdur etti. Millet kendini gerçekten de boşlukta hissetmeye başladı. Dizi piyasasını ayakta... Devamı için tıklayınız",
-     "published": "2026-11-14T16:50:51.000Z"
+     "published": "2026-11-14T16:50:51.000Z",
+     "titleFa": "از قدرت معرفی سریال‌های ما ترسیدند"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/b342c6/0/0/0/0/380/447?u=https://isbh.tmgrup.com.tr/sbh/2026/11/14/dizilerimizin-tanitim-gucunden-korktular-1794674948703.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/2026/04/04/1775286965973.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/halkbank-ureten-turkiye.png?v=26401",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-1.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
+    "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/11/15/164x236/15SBH01.jpg?v=26401"
+   ],
+   "mediaDone": true,
+   "titleFa": "ب بحران در دنیای سریال‌ها و تاثیر آن بر مخاطبان",
+   "summaryFa": "بحران شدید در بازار سریال‌ها باعث نارضایتی مخاطبانی شده که سرگرمی اصلی‌شان تماشای تلویزیون است. قطع ناگهانی تبلیغات دلایل مختلفی دارد که بازار سریال را تحت تأثیر قرار داده است.",
+   "bodyFa": [
+    "در دنیای سریال‌ها بحران سنگینی ایجاد شده است که بیش از هر کس، بینندگانی را که تنها سرگرمی رایگانشان تماشای سریال در شب‌هنگام است، دچار مشکل و نارضایتی کرده است. مردم به دلیل این شرایط احساس خلأ و سردرگمی می‌کنند.",
+    "تبلیغاتی که بازار سریال را سرپا نگه داشته بودند، به یکباره و مانند اینکه با چاقو بریده شوند، متوقف شده‌اند. در این گزارش اشاره شده است که دلایل مختلفی پشت این قطع ناگهانی تبلیغات وجود دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "08e0cc7ed18c",
@@ -1973,7 +2487,8 @@
      "url": "https://www.sabah.com.tr/magazin/sumeyye-aydoganin-cop31-gururu-7701751",
      "title": "Sümeyye Aydoğan'ın COP31 gururu",
      "snippet": "'Ünlü oyuncu Sümeyye Aydoğan, Antalya'da düzenlenen COP31 etkinliğinin ardından İstanbul Havalimanı'nda görüntülendi. Basın mensuplarıyla sohbet eden güzel oyuncu, etkinliğin kendisi için çok değerli olduğunu... Devamı için tıklayınız",
-     "published": "2026-11-14T15:47:40.000Z"
+     "published": "2026-11-14T15:47:40.000Z",
+     "titleFa": "افتخار سمیه آیدوغان از حضور در COP31"
     }
    ],
    "images": [
@@ -1984,7 +2499,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "ابراز افتخار سمیه آیدوغان از حضور در رویداد COP31",
+   "summaryFa": "سمیه آیدوغان پس از شرکت در رویداد COP31 در آنتالیا در فرودگاه استانبول دیده شد. او این تجربه را بسیار ارزشمند دانست و از حضور در آن ابراز افتخار کرد.",
+   "bodyFa": [
+    "سمیه آیدوغان، بازیگر سرشناس، پس از پایان رویداد COP31 که در آنتالیا برگزار شده بود، در فرودگاه استانبول مشاهده شد.",
+    "وی در گفتگو با خبرنگاران و رسانه‌ها اعلام کرد که شرکت در این رویداد برای او بسیار ارزشمند بوده و از حضور در این برنامه احساس خوشحالی و افتخار می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "27f6bcc257a2",
@@ -2242,7 +2765,7 @@
    "video": null,
    "published": "2026-11-14T14:53:54.000Z",
    "scope": "linked",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [
@@ -2257,10 +2780,20 @@
      "url": "https://www.haberturk.com/magazin/foto/sifanur-gul-ile-berk-bakioglu-nisanlandi-3927378",
      "title": "Oyuncu çift nişanlandı",
      "snippet": "Oyuncu çift Şifanur Gül ile Berk Bakioğlu, yüzüklerini taktıklarını duyurdu. İkili, mutlu anlarını \"İşte dönüm noktası 14.11.26\" notuyla takipçileriyle paylaştı",
-     "published": "2026-11-14T14:53:54.000Z"
+     "published": "2026-11-14T14:53:54.000Z",
+     "titleFa": "زوج بازیگر نامزد شدند"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "نامزدی زوج هنرمند، شفانور گل و برک باقی‌اوغلو",
+   "summaryFa": "شفانور گل و برک باقی‌اوغلو با انتشار تصاویری در صفحات اجتماعی خود از برگزاری مراسم نامزدی‌شان خبر دادند. این زوج پیش‌تر نیز پیشنهاد ازدواج را دریافت کرده بودند.",
+   "bodyFa": [
+    "شفانور گل و برk باقی‌اوغلو، دو بازیگر جوان، رابطه خود را با برگزاری یک مراسم نامزدی وارد مرحله تازه‌ای کردند. این زوج که مدتی است در کنار یکدیگر حضور دارند، با انتشار تصاویری در شبکه‌های اجتماعی اعلام کردند که حلقه نامزدی خود را دست کرده‌اند.",
+    "مراسم نامزدی این دو هنرمند با حضور خانواده‌ها و نزدیکانشان برگزار شد. آن‌ها لحظات این مراسم را با عبارت «İşte dönüm noktası 14.11.26» در فضای مجازی به اشتراک گذاشتند که بازتاب زیادی میان طرفدارانشان داشت و تصاویری نیز توسط مهمانان منتشر شد.",
+    "همچنین اشاره شده است که شفانور گل سال گذشته در جشن تولد بیست و هشت سالگی خود از برک باقی‌اوغلو پیشنهاد ازدواج دریافت کرده بود و اکنون این زوج با برگزاری مراسم رسمی، نامزدی خود را علنی کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3a4105277c08",
@@ -8534,35 +9067,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "504d7b624c8e",
-   "url": "https://www.sozcu.com.tr/milyonlari-gulduren-unlu-oyuncu-62-yasinda-hayatini-kaybetti-olum-nedeni-yurekleri-dagladi-p380618",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ünlü komedyen hayatını kaybetti: 62 yaşında yakalandığı hastalığa yenik düştü",
-   "snippet": "Bir döneme damga vuran efsane komedi dizisi \"Yes, Dear\" ile milyonları güldüren ünlü oyuncu Anthony Clark, 62 yaşında ha...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/milyonlari-gulduren-unlu-oyuncu-62-yasinda-hayatini-kaybetti-olum-nedeni-yurekleri-dagladi-2jpg-Lp0LKVzfJ0yaP9nuyKi9Tg.jpg",
-   "video": null,
-   "published": "2026-11-12T13:52:15.000Z",
-   "scope": "dizi",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/milyonlari-gulduren-unlu-oyuncu-62-yasinda-hayatini-kaybetti-olum-nedeni-yurekleri-dagladi-p380618",
-     "title": "Ünlü komedyen hayatını kaybetti: 62 yaşında yakalandığı hastalığa yenik düştü",
-     "snippet": "Bir döneme damga vuran efsane komedi dizisi \"Yes, Dear\" ile milyonları güldüren ünlü oyuncu Anthony Clark, 62 yaşında ha...",
-     "published": "2026-11-12T13:52:15.000Z"
-    }
-   ]
   },
   {
    "id": "631f7877a7e1",
