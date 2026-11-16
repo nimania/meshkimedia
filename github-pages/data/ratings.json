@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T16:49:44.282Z",
+  "updatedAt": "2026-11-16T22:09:51.802Z",
   "metric": "Rating %",
   "windowDays": 120,
   "source": {
@@ -477,6 +477,233 @@
             "network": "SHOW TV",
             "rating": 2.49,
             "share": 9.45
+          }
+        ]
+      }
+    },
+    {
+      "date": "13.11.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "TASACAK BU DENIZ",
+            "network": "TRT 1",
+            "rating": 10.6,
+            "share": 28.89
+          },
+          {
+            "rank": 2,
+            "program": "KIZILCIK SERBETI",
+            "network": "SHOW TV",
+            "rating": 6.45,
+            "share": 17.84
+          },
+          {
+            "rank": 3,
+            "program": "TASACAK BU DENIZ (OZET)",
+            "network": "TRT 1",
+            "rating": 5.62,
+            "share": 15.72
+          },
+          {
+            "rank": 4,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 4.71,
+            "share": 20.97
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.33,
+            "share": 31.42
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.86,
+            "share": 12.27
+          },
+          {
+            "rank": 7,
+            "program": "KIZILCIK SERBETI (OZET)",
+            "network": "SHOW TV",
+            "rating": 3.84,
+            "share": 10.72
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 3.65,
+            "share": 11.66
+          },
+          {
+            "rank": 9,
+            "program": "BUZ DEVRI 4 KITALAR AYRILIYOR (Y.S)",
+            "network": "ATV",
+            "rating": 2.97,
+            "share": 8.23
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.83,
+            "share": 9.02
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "TASACAK BU DENIZ",
+            "network": "TRT 1",
+            "rating": 8.76,
+            "share": 26.7
+          },
+          {
+            "rank": 2,
+            "program": "KIZILCIK SERBETI",
+            "network": "SHOW TV",
+            "rating": 6.22,
+            "share": 19.16
+          },
+          {
+            "rank": 3,
+            "program": "TASACAK BU DENIZ (OZET)",
+            "network": "TRT 1",
+            "rating": 4.79,
+            "share": 16.17
+          },
+          {
+            "rank": 4,
+            "program": "KIZILCIK SERBETI (OZET)",
+            "network": "SHOW TV",
+            "rating": 3.96,
+            "share": 13.3
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.47,
+            "share": 31.21
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.32,
+            "share": 13.38
+          },
+          {
+            "rank": 7,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.88,
+            "share": 16.52
+          },
+          {
+            "rank": 8,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.07,
+            "share": 8.32
+          },
+          {
+            "rank": 9,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.03,
+            "share": 6.39
+          },
+          {
+            "rank": 10,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.89,
+            "share": 7.63
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "TASACAK BU DENIZ",
+            "network": "TRT 1",
+            "rating": 10.46,
+            "share": 28.56
+          },
+          {
+            "rank": 2,
+            "program": "KIZILCIK SERBETI",
+            "network": "SHOW TV",
+            "rating": 6.58,
+            "share": 18.19
+          },
+          {
+            "rank": 3,
+            "program": "TASACAK BU DENIZ (OZET)",
+            "network": "TRT 1",
+            "rating": 5.93,
+            "share": 17.75
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.37,
+            "share": 33.09
+          },
+          {
+            "rank": 5,
+            "program": "KIZILCIK SERBETI (OZET)",
+            "network": "SHOW TV",
+            "rating": 4.25,
+            "share": 12.66
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 4.1,
+            "share": 20.78
+          },
+          {
+            "rank": 7,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.84,
+            "share": 13.51
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.83,
+            "share": 10.01
+          },
+          {
+            "rank": 9,
+            "program": "BUZ DEVRI 4 KITALAR AYRILIYOR (Y.S)",
+            "network": "ATV",
+            "rating": 2.74,
+            "share": 8.11
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.59,
+            "share": 9.12
           }
         ]
       }
