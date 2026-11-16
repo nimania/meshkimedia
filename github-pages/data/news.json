@@ -1,6 +1,391 @@
 {
- "updated": "2026-11-16T11:29:42.155Z",
+ "updated": "2026-11-16T16:49:45.714Z",
  "items": [
+  {
+   "id": "af17c1199cda",
+   "url": "https://www.haberturk.com/magazin/selahattin-pasali-evliligimizin-en-guzel-donemindeyiz-3927749",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Evliliğimizin en güzel dönemindeyiz\"",
+   "snippet": "Selahattin Paşalı ve eşi Lara Paşalı, Kadıköy'de objektiflere yansıdı. Haklarında çıkan boşanma iddialarına açıklık getiren oyuncu, \"Şu anda evliliğimizin en iyi dönemindeyiz\" dedi",
+   "image": "https://im.haberturk.com/l/2026/11/16/ver1794840931/3927749/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-16T14:59:09.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/selahattin-pasali-evliligimizin-en-guzel-donemindeyiz-3927749",
+     "title": "\"Evliliğimizin en güzel dönemindeyiz\"",
+     "snippet": "Selahattin Paşalı ve eşi Lara Paşalı, Kadıköy'de objektiflere yansıdı. Haklarında çıkan boşanma iddialarına açıklık getiren oyuncu, \"Şu anda evliliğimizin en iyi dönemindeyiz\" dedi",
+     "published": "2026-11-16T14:59:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": "e310409d684f",
+   "url": "https://www.haberturk.com/magazin/ufuk-beydemir-dua-istedi-3927697",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Ufuk Beydemir dua istedi",
+   "snippet": "Geçtiğimiz aylarda baba olacağını duyuran Ufuk Beydemir, doğumun planlanandan erken başladığını açıkladı. Konserini iptal eden şarkıcı, Hollanda'ya sevgilisinin yanına gitti",
+   "image": "https://im.haberturk.com/l/2026/11/16/ver1794832725/3927697/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-16T14:52:34.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/ufuk-beydemir-dua-istedi-3927697",
+     "title": "Ufuk Beydemir dua istedi",
+     "snippet": "Geçtiğimiz aylarda baba olacağını duyuran Ufuk Beydemir, doğumun planlanandan erken başladığını açıkladı. Konserini iptal eden şarkıcı, Hollanda'ya sevgilisinin yanına gitti",
+     "published": "2026-11-16T14:52:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": "a3199d14ba85",
+   "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nden-yeni-tanitim-3927736",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Tebrikler babaanne oluyorsunuz!\"",
+   "snippet": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nin yeni bölümünden ikinci tanıtım izleyiciyle buluştu",
+   "image": "https://im.haberturk.com/l/2026/11/16/ver1794838989/3927736/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-16T14:23:34.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "kizilcik-serbeti"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nden-yeni-tanitim-3927736",
+     "title": "\"Tebrikler babaanne oluyorsunuz!\"",
+     "snippet": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nin yeni bölümünden ikinci tanıtım izleyiciyle buluştu",
+     "published": "2026-11-16T14:23:34.000Z"
+    }
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "NewaDUlP2sM"
+    }
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "9a553530539c",
+   "url": "https://www.haberturk.com/magazin/heavy-metal-efsanesi-judas-priest-istanbul-a-geliyor-3927732",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "İstanbul'a geliyor",
+   "snippet": "Heavy metal tarihinin unutulmaz gruplarından Judas Priest, 17 Temmuz'da İstanbul'daki KüçükÇiftlik Park'ta sahne alacak",
+   "image": "https://im.haberturk.com/l/2026/11/16/ver1794837619/3927732/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-16T14:00:58.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/heavy-metal-efsanesi-judas-priest-istanbul-a-geliyor-3927732",
+     "title": "İstanbul'a geliyor",
+     "snippet": "Heavy metal tarihinin unutulmaz gruplarından Judas Priest, 17 Temmuz'da İstanbul'daki KüçükÇiftlik Park'ta sahne alacak",
+     "published": "2026-11-16T14:00:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": "f94ce7f26d43",
+   "url": "https://www.sozcu.com.tr/ikinci-haluk-levent-dediler-celik-ten-benim-kazandigim-para-aciklamasi-p381937",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "'İkinci Haluk Levent' dediler: Çelik'ten 'Benim kazandığım para' açıklaması",
+   "snippet": "Farklı şehirlerde bakkal ve eczanelerdeki veresiye borçlarını kapatan şarkıcı Çelik, kendisini Haluk Levent'e benzeten y...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/halukleventcelikjpg-W4l8vYNoMUClu1GuKcdv9A.jpg",
+   "video": null,
+   "published": "2026-11-16T13:56:33.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/ikinci-haluk-levent-dediler-celik-ten-benim-kazandigim-para-aciklamasi-p381937",
+     "title": "'İkinci Haluk Levent' dediler: Çelik'ten 'Benim kazandığım para' açıklaması",
+     "snippet": "Farklı şehirlerde bakkal ve eczanelerdeki veresiye borçlarını kapatan şarkıcı Çelik, kendisini Haluk Levent'e benzeten y...",
+     "published": "2026-11-16T13:56:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": "16f06330b0f7",
+   "url": "https://www.sozcu.com.tr/merve-dizdar-dan-hamilelik-pozlari-buyuyen-karnini-ilk-kez-boyle-paylasti-p381929",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Merve Dizdar'dan hamilelik pozları: Büyüyen karnını ilk kez böyle paylaştı",
+   "snippet": "Anne olmak için gün sayan Merve Dizdar, sosyal medya hesabından hamilelik fotoğraflarını takipçileriyle paylaştı. Ünlü o...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/358jpg-E18twB6bL0eW0XP9HYthfQ.jpg",
+   "video": null,
+   "published": "2026-11-16T13:33:05.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/merve-dizdar-dan-hamilelik-pozlari-buyuyen-karnini-ilk-kez-boyle-paylasti-p381929",
+     "title": "Merve Dizdar'dan hamilelik pozları: Büyüyen karnını ilk kez böyle paylaştı",
+     "snippet": "Anne olmak için gün sayan Merve Dizdar, sosyal medya hesabından hamilelik fotoğraflarını takipçileriyle paylaştı. Ünlü o...",
+     "published": "2026-11-16T13:33:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": "7000ebe3fad2",
+   "url": "https://www.haberturk.com/magazin/johnny-depp-hollywood-dan-kendi-adasina-kacti-kimsenin-bana-kamera-dogrultmadigi-bir-hayat-yasiyorum-3927712",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Hollywood'dan kendi adasına kaçtı",
+   "snippet": "2024'te Bahamalar'da bir ada satın alan Johnny Depp, Hollywood'da sahip olamadığı mahremiyeti yaşamak için adaya taşındı. Ünlü oyuncu, yeni hayatından memnun: Orada kimse bana kamera doğrultmuyor veya dik dik bakmıyor",
+   "image": "https://im.haberturk.com/l/2026/11/16/ver1794834272/3927712/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-16T13:12:18.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/johnny-depp-hollywood-dan-kendi-adasina-kacti-kimsenin-bana-kamera-dogrultmadigi-bir-hayat-yasiyorum-3927712",
+     "title": "Hollywood'dan kendi adasına kaçtı",
+     "snippet": "2024'te Bahamalar'da bir ada satın alan Johnny Depp, Hollywood'da sahip olamadığı mahremiyeti yaşamak için adaya taşındı. Ünlü oyuncu, yeni hayatından memnun: Orada kimse bana kamera doğrultmuyor veya dik dik bakmıyor",
+     "published": "2026-11-16T13:12:18.000Z"
+    }
+   ]
+  },
+  {
+   "id": "3c95df5b39cb",
+   "url": "https://www.sozcu.com.tr/masterchef-kim-elendi-15-kasim-pazar-masterchef-te-elenen-isim-belli-oldu-p381912",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "MasterChef kim elendi? 15 Kasım Pazar MasterChef'te elenen isim belli oldu",
+   "snippet": "MasterChef Türkiye'de 15 Kasım 2026 Pazar akşamı eleme heyecanı yaşandı. Nurten, Burçin, Bahar ve Enes'in mücadele ettiğ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/masterchefkimelendiiijpg-MAq1xlS9Bki6WYdHYJfX0w.jpg",
+   "video": null,
+   "published": "2026-11-16T12:45:55.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "masterchef-turkiye"
+    ],
+    "people": [],
+    "networks": [
+     "tv8"
+    ]
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/masterchef-kim-elendi-15-kasim-pazar-masterchef-te-elenen-isim-belli-oldu-p381912",
+     "title": "MasterChef kim elendi? 15 Kasım Pazar MasterChef'te elenen isim belli oldu",
+     "snippet": "MasterChef Türkiye'de 15 Kasım 2026 Pazar akşamı eleme heyecanı yaşandı. Nurten, Burçin, Bahar ve Enes'in mücadele ettiğ...",
+     "published": "2026-11-16T12:45:55.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/masterchefkimelendiiijpg-MAq1xlS9Bki6WYdHYJfX0w.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/masterchefkimelendiiijpg-MAq1xlS9Bki6WYdHYJfX0w.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-goruntusu-20261116-154208png-xnzfviY7802P0RIA9jwzxg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-goruntusu-20261116-154433png-bXidfMj3mUmgXKtz9jUOGQ.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/goren-bozulmus-yumurta-sanip-cope-atiyor-fiyati-2-bin-liraya-satiliyorjpg-EUDKTdouekykObQ7UyAV6A.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "c559d139f656",
+   "url": "https://www.milliyet.com.tr/magazin/uzak-sehirde-asiklar-yeniden-yan-yana-7701811",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Uzak Şehir’de aşıklar yeniden yan yana",
+   "snippet": "HABER MERKEZİ - Suların durulmadığı Uzak Şehir’de bu akşam yine duygusal anlar yaşanacak. Cihan’ın başına gelenlerin ardından Mardin’de kalacağının sözünü veren Alya, konaktan çıkarken Cihan da onunla birlikte gitmek istiyor. Oğlunun yeniden Alya’nın peşinden koştuğunu gören Sadakat, konağa Berfin’in geleceğini söyleyerek Cihan’ı durdurmaya çalışsa da Cihan, annesini dinlemiyor ve Alya ile gidiyor. Bu duruma sinirlenen Sadakat’in Nare’ye söylediği “Benim oğlumu mıknatıs gibi çekiyor” sözleri tan",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6afae841b61a898b6e3112ed.jpg",
+   "video": null,
+   "published": "2026-11-16T12:39:31.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "uzak-sehir"
+    ],
+    "people": [],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/uzak-sehirde-asiklar-yeniden-yan-yana-7701811",
+     "title": "Uzak Şehir’de aşıklar yeniden yan yana",
+     "snippet": "HABER MERKEZİ - Suların durulmadığı Uzak Şehir’de bu akşam yine duygusal anlar yaşanacak. Cihan’ın başına gelenlerin ardından Mardin’de kalacağının sözünü veren Alya, konaktan çıkarken Cihan da onunla birlikte gitmek istiyor. Oğlunun yeniden Alya’nın peşinden koştuğunu gören Sadakat, konağa Berfin’i",
+     "published": "2026-11-16T12:39:31.000Z",
+     "titleFa": "عشاق در «شهر دور» دوباره در کنار هم"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6afae841b61a898b6e3112ed.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6afae841b61a898b6e3112ed.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "لحظات احساسی و چالش‌برانگیز در قسمت جدید سریال شهر دور",
+   "summaryFa": "قسمت جدید سریال «شهر دور» امشب با اتفاقات احساسی و هیجان‌انگیزی روی آنتن می‌رود. تلاش جهان برای همراهی با آلیا، واکنش خشمگینانه سعادت را به دنبال دارد.",
+   "bodyFa": [
+    "در قسمت جدید سریال پرطرفدار «شهر دور» که از شبکه کاناال د پخش می‌شود، تماشاگران شاهد لحظات احساسی جدیدی خواهند بود. پس از اتفاقاتی که برای جهان رخ داد، آلیا قول داد که در ماردین بماند، اما هنگامی که او قصد خروج از عمارت را دارد، جهان نیز تصمیم می‌گیرد همراهش برود.",
+    "این اقدام جهان و پافشاری او بر همراهی با آلیا، خشم سعادت را برمی‌انگیزد و او با دیدن اینکه پسرش دوباره به دنبال آلیا می‌رود، برلین را به عمارت می‌آورد. پافشاری این زوج بر جدا نشدن از یکدیگر، اشتیاق و کنجکاوی بینندگان را برای تماشای این قسمت دوچندان کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "3b6c92226b73",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yuzuklerini-taktilar-43380215",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Yüzüklerini taktılar",
+   "snippet": "Oyuncu çift Şifanur Gül ile Berk Bakioğlu, ilişkilerini evlilik yolunda bir adım daha ileriye taşıdı.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6afaf1233516f14679cc8a1e.jpg",
+   "video": null,
+   "published": "2026-11-16T12:04:00.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "berk-bakioglu"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yuzuklerini-taktilar-43380215",
+     "title": "Yüzüklerini taktılar",
+     "snippet": "Oyuncu çift Şifanur Gül ile Berk Bakioğlu, ilişkilerini evlilik yolunda bir adım daha ileriye taşıdı.",
+     "published": "2026-11-16T12:04:00.000Z",
+     "titleFa": "انگشترهای خود را به دست کردند"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6afaf1233516f14679cc8a1e.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6afaf1233516f14679cc8a1e.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "شیفانور گل و برک باقی‌اوغلو انگشتر نامزدی به دست کردند",
+   "summaryFa": "شیفانور گل و برک باقی‌اوغلو، زوج بازیگر ترکیه‌ای، رابطه خود را یک گام به ازدواج نزدیک‌تر کردند. آن‌ها با انداختن انگشتر نامزدی، تصمیم خود را برای ازدواج جدی‌تر ساختند.",
+   "bodyFa": [
+    "زوج بازیگر شیفانور گل و برک باقی‌اوغلو، با انداختن انگشتر نامزدی، رابطه خود را یک قدم دیگر در مسیر ازدواج پیش بردند.",
+    "این دو بازیگر که با یکدیگر در رابطه هستند، اکنون وارد مرحله جدیدی از زندگی مشترک خود شده‌اند تا این تصمیم را رسمی‌تر کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "721255af0b44",
+   "url": "https://www.sozcu.com.tr/bir-gecede-25-milyon-tl-kazanacagi-konusuluyordu-mahsun-kirmizigul-den-yilbasi-ucreti-aciklamasi-p381889",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Bir gecede 25 milyon TL kazanacağı konuşuluyordu: Mahsun Kırmızıgül'den yılbaşı ücreti açıklaması",
+   "snippet": "Yılbaşı gecesi Kıbrıs'ta sahne alacak Mahsun Kırmızıgül'ün iki saatlik konser için 25 milyon TL alacağı öne sürüldü. Ünl...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/737jpg-m7--PKvspkCzv2qJrRB_Sw.jpg",
+   "video": null,
+   "published": "2026-11-16T11:54:25.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/bir-gecede-25-milyon-tl-kazanacagi-konusuluyordu-mahsun-kirmizigul-den-yilbasi-ucreti-aciklamasi-p381889",
+     "title": "Bir gecede 25 milyon TL kazanacağı konuşuluyordu: Mahsun Kırmızıgül'den yılbaşı ücreti açıklaması",
+     "snippet": "Yılbaşı gecesi Kıbrıs'ta sahne alacak Mahsun Kırmızıgül'ün iki saatlik konser için 25 milyon TL alacağı öne sürüldü. Ünl...",
+     "published": "2026-11-16T11:54:25.000Z"
+    }
+   ]
+  },
   {
    "id": "8d301c106836",
    "url": "https://www.sozcu.com.tr/sibel-tascioglu-ndan-kizilcik-serbeti-aciklamasi-sessizliginin-nedeni-belli-oldu-p381874",
@@ -34,6 +419,14 @@
      "snippet": "Kızılcık Şerbeti'nden ayrılığıyla ilgili ortaya atılan çarpıcı iddialarla gündeme gelen Sibel Taşçıoğlu, kendisine atfed...",
      "published": "2026-11-16T11:08:47.000Z",
      "titleFa": "توضیحات سیبل تاشچی‌اوغلو درباره شربت زغال‌اخته: دلیل سکوت او مشخص شد"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/kizilcik-serbetinde-neler-yasandi-sibel-tascioglu-ilk-kez-acikladi-7701931",
+     "title": "Kızılcık Şerbeti'nde neler ayrıldı? Sibel Taşçıoğlu ilk kez açıkladı",
+     "snippet": "Kızılcık Şerbeti'nde Pembe karakterine hayat veren Sibel Taşçıoğlu, diziden ayrılığıyla ilgili sessizliğini bozdu.",
+     "published": "2026-11-16T14:49:26.000Z"
     }
    ],
    "images": [
@@ -52,7 +445,11 @@
     "این بازیگر همچنین دلایل سکوت خود را تا این زمان توضیح داد. این سخنان در پی ادعاهای مطرح‌شده درباره اتفاقاتی که گفته می‌شود در کاروان او رخ داده، بیان شده است."
    ],
    "ai": true,
-   "aiTries": 1
+   "aiTries": 1,
+   "mergedIds": [
+    "528d78914d3e"
+   ],
+   "regen": true
   },
   {
    "id": "5bd2ced96b83",
@@ -174,7 +571,8 @@
      "url": "https://www.sozcu.com.tr/milli-mac-reytinglerde-zirveyi-kapti-teskilat-omur-usta-ve-daha-17-bakin-kacinci-oldu-p381835",
      "title": "Milli maç reytinglerde zirveyi kaptı: Teşkilat, Ömür Usta ve Daha 17 bakın kaçıncı oldu",
      "snippet": "15 Kasım Pazar reyting sonuçlarında Türkiye-Fransa milli maçı üç kategoride de zirveye yerleşti. Ömür Usta ve Daha 17 üs...",
-     "published": "2026-11-16T09:02:47.000Z"
+     "published": "2026-11-16T09:02:47.000Z",
+     "titleFa": "مسابقه ملی در رتبه‌بندی‌ها به صدر رسید: ببینید تشکیلات، اومور اوستا و هنوز ۱۷ سالشه چه رتبه‌ای کسب کردند"
     }
    ],
    "images": [
@@ -185,7 +583,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/altin1jpg-nJ2fZk7cC0uxpXk9bq_pcw.jpg?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6afaaf59f4678357b8b9dbe6png-fCGhAaC3iU6EqgN0Ckxxbg.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "نتایج رتبه‌بندی برنامه‌های تلویزیونی و مسابقه ملی در ۱۵ نوامبر",
+   "summaryFa": "مسابقه ملی ترکیه و فرانسه در تاریخ ۱۵ نوامبر توانست در هر سه رده‌بندی در صدر قرار گیرد. در همین حال، سریال‌های اومور اوستا و هنوز ۱۷ سالشه در رتبه‌های بالای جدول جای گرفتند.",
+   "bodyFa": [
+    "نتایج رتبه‌بندی‌های تلویزیونی مربوط به یکشنبه ۱۵ نوامبر منتشر شد که بر اساس آن، مسابقه فوتبال میان تیم‌های ملی ترکیه و فرانسه موفق شد در تمامی سه رده‌بندی مختلف جایگاه نخست را به خود اختصاص دهد و در صدر جدول قرار گیرد.",
+    "در جریان این رقابت‌ها و انتشار آمار بینندگان، سریال‌های اومور اوستا و هنوز ۱۷ سالشه توانستند جایگاه‌های بالایی را در جدول رتبه‌بندی کسب کنند. همچنین وضعیت و جایگاه سریال تشکیلات نیز از سوی مخاطبان مورد توجه و کنجکاوی قرار گرفت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b57d8a481930",
@@ -443,9 +849,26 @@
      "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-bir-tanitim-daha-3927571",
      "title": "\"Sabah gözünü açtığında annen yanında olacak!\"",
      "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'in 11'inci bölümünün 2'nci fragmanı izleyiciyle buluştu",
-     "published": "2026-11-16T07:46:25.000Z"
+     "published": "2026-11-16T07:46:25.000Z",
+     "titleFa": "«صبحی که چشمانت را باز کنی، مادرت کنارت خواهد بود!»"
     }
-   ]
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "8x1q1t_c1EM"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار دومین تیزر قسمت ۱۱ سریال «عشقت یک آتش است»",
+   "summaryFa": "دومین تیزر قسمت یازدهم سریال «عشقت یک آتش است» منتشر شد. این پیش‌نمایش ماجرای دزدیده شدن لیلا و تهدیدهای فیصل را به تصویر می‌کشد.",
+   "bodyFa": [
+    "دومین تیزر از قسمت یازدهم سریال «عشقت یک آتش است» محصول شرکت سی‌ان‌پی فیلم از شبکه شو تی‌وی منتشر شد. در این پیش‌نمایش، پخش خبر ربوده شدن لیلا توسط نسیم باعث آشفتگی در عمارت می‌شود. میرزا نیز با دیدن همای کوچک که خبر ربوده شدن مادرش را شنیده، او را در آغوش می‌گیرد و قول می‌دهد که صبح هنگام باز کردن چشمانش، مادرش در کنار او باشد.",
+    "در بخش دیگری از تیزر، نسیم، لیلا را که دست و پایش بسته است تهدید می‌کند که دیگر هرگز دخترش را نخواهد دید. از سوی دیگر، فیصل برای باز کردن مسیر حلب اقدام به باج‌گیری از وصلت می‌کند. او با نشان دادن ویدئویی در تلفن همراه خود، وصلت را شوکه کرده و تهدید می‌کند که اگر راه حلب را باز نکند، فیلم نحوه کشته شدن همسرش را به تمام کاپادوکیه نشان خواهد داد.",
+    "در پایان این تیزر، میرزا و نیروهایش در تاریکی شب در حال حرکت هستند و لیلا نیز به نسیم می‌گوید که گیر افتاده و کارش تمام شده است. قسمت جدید این سریال چهارشنبه‌شب ساعت ۲۰:۰۰ از شبکه شو تی‌وی پخش خواهد شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4cc0d21ef21b",
@@ -505,7 +928,16 @@
      "snippet": "Oyuncu Şifanur Gül ile Berk Bakioğlu'ndan hayranlarını sevindiren haber geldi. Bir süredir aşk yaşayan ünlü çift, aileleri ve yakın dostlarının katıldığı törenle nişanlandı. Çift, mutluluklarını sosyal medyadan paylaştı.",
      "published": "2026-11-16T07:32:01.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6afab114b61a898b6e311115.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6afab114b61a898b6e311115.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "0f29beeff4fd",
@@ -1185,7 +1617,16 @@
      "snippet": "NESLİHAN KESKİN / HABER MERKEZİ - Kira sözleşmesinin beşinci yılını doldurmasının ardından oyuncu, bölgedeki emsal kira bedellerini gerekçe göstererek kiracısına ihtarname gönderdi. Aylık 30 bin lira kira ödeyen Akçay’dan yeni dönem için 125 bin lira talep edildi. İddiaya göre, ihtarnameye rağmen Ah",
      "published": "2026-11-16T03:55:58.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6afa289ab61a898b6e310f5a.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6afa289ab61a898b6e310f5a.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "15d3fd6b8936",
@@ -1440,7 +1881,16 @@
      "snippet": "Antalya'da düzenlenen COP31 İklim Zirvesi, atv'nin ilgiyle takip edilen dizisi 'Altı Üstü İstanbul'un yıldızlarını ağırladı. Dizinin sevilen oyuncuları Rahimcan Kapkap, Elçin Zehra İrem, Berk Ali Çatal,... Devamı için tıklayınız",
      "published": "2026-11-15T19:32:34.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/9bd921/1200/675/0/0/1199/673?u=https://isbh.tmgrup.com.tr/sbh/2026/11/15/1794771082888.jpeg",
+    "https://iasbh.tmgrup.com.tr/b529c2/752/395/0/19/1199/648?u=https://isbh.tmgrup.com.tr/sbh/2026/11/15/1794771082888.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "de0194e71ddb",
@@ -3963,6 +4413,35 @@
      "title": "‘Mizah duygusu çok yüksek bir toplum olduğumuza yürekten inanıyorum’",
      "snippet": "Oyuncu olmaya çok küçük yaşta karar verenlerden. Komediden drama, sinemadan tiyatroya uzanan kariyer yolculuğunda hep farklı karakterlerde izledik onu. Öner Erkan bugünlerde ‘Kayıp El’le seyirci karşısında. Erkan’la yeni oyununu ve sahne tutkusunu konuşmak üzere buluştuk.",
      "published": "2026-11-15T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "f6c9618a6598",
+   "url": "https://www.milliyet.com.tr/magazin/buyuk-ask-sona-mi-erdi-serenay-sarikaya-ve-mert-demir-ayrildi-iddiasi-7698959",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Büyük aşk sona mı erdi? Serenay Sarıkaya ve Mert Demir ayrıldı iddiası",
+   "snippet": "Magazin dünyası Mert Demir ve Serenay Sarıkaya arasındaki ilişkiyi konuşmaya devam ediyor. İkilinin reklam aşkı yaşadığı iddia edilmişti. Çift ise haklarındaki iddialar karşısında uzun bir süre sessiz kalmayı tercih etmişti. Beraberliklerini gözlerden uzak yaşayan ünlü çiftin ayrıldığı iddia edilmişti. İkili, ayrılık iddialarına Mert Demir'in Harbiye konserindeki görüntülerle yanıt vermişti. Kadir İnanır'ın ardından gündeme gelmişti! Coşkun Sabah'tan vasiyet açıklaması Konserden günlerden sonra ",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af48bc8540fd9a7c6cbc52c.jpg",
+   "video": null,
+   "published": "2026-11-14T23:16:28.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/buyuk-ask-sona-mi-erdi-serenay-sarikaya-ve-mert-demir-ayrildi-iddiasi-7698959",
+     "title": "Büyük aşk sona mı erdi? Serenay Sarıkaya ve Mert Demir ayrıldı iddiası",
+     "snippet": "Magazin dünyası Mert Demir ve Serenay Sarıkaya arasındaki ilişkiyi konuşmaya devam ediyor. İkilinin reklam aşkı yaşadığı iddia edilmişti. Çift ise haklarındaki iddialar karşısında uzun bir süre sessiz kalmayı tercih etmişti. Beraberliklerini gözlerden uzak yaşayan ünlü çiftin ayrıldığı iddia edilmiş",
+     "published": "2026-11-14T23:16:28.000Z"
     }
    ]
   },
@@ -11508,285 +11987,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "ed9a334a9505",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/unlu-oyuncu-bora-akkasin-esi-oben-alkan-yasadigi-kazaya-isyan-etti-sukur-canimdan-olmadim-7699421",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Ünlü oyuncu Bora Akkaş'ın eşi Oben Alkan yaşadığı kazaya isyan etti: Şükür canımdan olmadım",
-   "snippet": "Ünlü oyuncu Bora Akkaş’ın eşi Oben Alkan, aylar önce yaşadığı trafik kazasına ilişkin hukuki sürecin takipsizlikle sonuçlanmasına tepki gösterdi. Karşı tarafın yaşına dikkat çeken Alkan, “Şükür canımdan olmadım” ifadelerini kullandı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af597b8b61a898b6e30fd1e.jpg",
-   "video": null,
-   "published": "2026-11-12T10:42:04.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/unlu-oyuncu-bora-akkasin-esi-oben-alkan-yasadigi-kazaya-isyan-etti-sukur-canimdan-olmadim-7699421",
-     "title": "Ünlü oyuncu Bora Akkaş'ın eşi Oben Alkan yaşadığı kazaya isyan etti: Şükür canımdan olmadım",
-     "snippet": "Ünlü oyuncu Bora Akkaş’ın eşi Oben Alkan, aylar önce yaşadığı trafik kazasına ilişkin hukuki sürecin takipsizlikle sonuçlanmasına tepki gösterdi. Karşı tarafın yaşına dikkat çeken Alkan, “Şükür canımdan olmadım” ifadelerini kullandı.",
-     "published": "2026-11-12T10:42:04.000Z"
-    }
-   ]
-  },
-  {
-   "id": "5ebdb856fd3e",
-   "url": "https://www.haberturk.com/magazin/kayahan-sarkilariyla-yesilcam-tadinda-muzikal-3926774",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Kayahan şarkılarıyla Yeşilçam müzikali",
-   "snippet": "Kayahan'ın eserleri kalabalık bir orkestra, zengin bir oyuncu ve solist kadrosu ile müzikal olarak sergilenecek. Beste Açar, bu müzikalde hem Türkan rolüyle oyuna dahil olacak hem de babasının şarkılarını seslendirecek",
-   "image": "https://im.haberturk.com/l/2026/11/12/ver1794472704/3926774/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-12T10:36:40.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/kayahan-sarkilariyla-yesilcam-tadinda-muzikal-3926774",
-     "title": "Kayahan şarkılarıyla Yeşilçam müzikali",
-     "snippet": "Kayahan'ın eserleri kalabalık bir orkestra, zengin bir oyuncu ve solist kadrosu ile müzikal olarak sergilenecek. Beste Açar, bu müzikalde hem Türkan rolüyle oyuna dahil olacak hem de babasının şarkılarını seslendirecek",
-     "published": "2026-11-12T10:36:40.000Z",
-     "titleFa": "موزیکال Yeşilçam با ترانه‌های کایاهان"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "اجرای آثار کایاهان در قالب یک موزیکال به نام «اوضالاردا ایشیکسیزیم»",
-   "summaryFa": "آثار هنرمند فقید کایاهان در تاریخ ۱۱ آذر در مرکز نمایش بوستانجی با حضور ارکستری بزرگ و گروهی از بازیگران و تک‌خوانان روی صحنه می‌رود. در این اثر، Beste Açar علاوه بر خواندن ترانه‌های پدرش، در نقش تورکان نیز به ایفای نقش می‌پردازد.",
-   "bodyFa": [
-    "آثار کایاهان در تاریخ ۱۱ آذر در مرکز نمایش بوستانجی با عنوان «اوضالاردا ایشیکسیزیم» و با همراهی یک ارکستر بزرگ و کادر غنی از بازیگران و تک‌خوانان به صورت موزیکال به نمایش درخواهد آمد. در این پروژه هنرمندانی چون Beste Açar، اردال چلیک، اردینچ اریشمیش، بورچین بیلدیک، گونچا بیرول بهار، ارکستر سمفونی سینما به رهبری اوزگور سوینچ حضور دارند و ترانه‌های کایاهان را اجرا خواهند کرد.",
-    "داستان این موزیکال روایتگر ماجرای یک خانواده مهاجر و هوادار کایاهان است که می‌خواهند با پس‌انداز خود یک کنسرت برای این هنرمند برگزار کنند، غافل از اینکه سازمان‌دهنده این مراسم فردی غیرقابل اعتماد است. از سوی دیگر، عثمان مدیر بازنشسته‌ اداره پلیس محلی تلاش می‌کند مانع برگزاری این کنسرت شود، زیرا ترانه‌های کایاهان یادآور همسر سابق اوست که سال‌ها پیش ترک‌اش کرده است. کارگردانی این اثر بر عهده هکان آلتینر است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "1e9a75edacb7",
-   "url": "https://www.hurriyet.com.tr/kelebek/cocukla-hayat/hadi-gidelim-43375625",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Hadi gidelim",
-   "snippet": "Piyanodan resme, deneylerden İngilizce tiyatro oyununa kadar birbirinden eğlenceli ve öğretici etkinliklerle çocukların ajandası bu hafta da dolu dolu!",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af59680d94e263e205a0900.jpg",
-   "video": null,
-   "published": "2026-11-12T10:35:45.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/cocukla-hayat/hadi-gidelim-43375625",
-     "title": "Hadi gidelim",
-     "snippet": "Piyanodan resme, deneylerden İngilizce tiyatro oyununa kadar birbirinden eğlenceli ve öğretici etkinliklerle çocukların ajandası bu hafta da dolu dolu!",
-     "published": "2026-11-12T10:35:45.000Z",
-     "titleFa": "بیا بریم"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6af59680d94e263e205a0900.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6af59680d94e263e205a0900.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
-   ],
-   "mediaDone": true,
-   "titleFa": "برنامه‌های متنوع و آموزشی برای کودکان در این هفته",
-   "summaryFa": "برنامه کودکان این هفته با فعالیت‌های سرگرم‌کننده و آموزشی از جمله پیانو، نقاشی و تئاتر انگلیسی پر شده است.",
-   "bodyFa": [
-    "برنامه کودکان در این هفته با مجموعه‌ای از فعالیت‌های سرگرم‌کننده و آموزشی، از جمله نوازندگی پیانو، نقاشی، آزمایش‌های مختلف و اجرای تئاتر انگلیسی، بسیار پربار و شلوغ است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "e669273bc378",
-   "url": "https://www.sozcu.com.tr/ufuk-beydemir-ve-sevgilisi-sharon-kovacs-tan-yeni-kare-karni-iyice-belirginlesti-p380629",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ufuk Beydemir ve sevgilisi Sharon Kovacs'tan yeni kare: Karnı iyice belirginleşti",
-   "snippet": "İlk kez anne-baba olmaya hazırlanan Ufuk Beydemir ve Hollandalı şarkıcı Sharon Kovacs'tan yeni fotoğraf geldi. Birlikte ...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/577jpg-9yEfrvqnfE6WTLwGeWUFoQ.jpg",
-   "video": null,
-   "published": "2026-11-12T09:37:11.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/ufuk-beydemir-ve-sevgilisi-sharon-kovacs-tan-yeni-kare-karni-iyice-belirginlesti-p380629",
-     "title": "Ufuk Beydemir ve sevgilisi Sharon Kovacs'tan yeni kare: Karnı iyice belirginleşti",
-     "snippet": "İlk kez anne-baba olmaya hazırlanan Ufuk Beydemir ve Hollandalı şarkıcı Sharon Kovacs'tan yeni fotoğraf geldi. Birlikte ...",
-     "published": "2026-11-12T09:37:11.000Z",
-     "titleFa": "عکس جدید از افوک بیدمیر و نامزدش شرون کواکس: برآمدگی شکم کاملاً نمایان شد"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/577jpg-9yEfrvqnfE6WTLwGeWUFoQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/577jpg-9yEfrvqnfE6WTLwGeWUFoQ.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ufuk-beydemir-hamile-sevgilisijpg-7UjyJ5_jgE2_TgHIGHNRsg.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/berdanmardinilimonatajpg-c8OXOEVcp0_B3-Nh_iFXGw.jpg?w=288&h=162&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yeni-proje-20261112t122949947png-44cGVAACxEKU4RN9BiNBAA.png?w=288&h=162&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "عکس جدید از افوک بیدمیر و شرون کواکس با نمایان شدن برآمدگی شکم",
-   "summaryFa": "افوک بیدمیر و شرون کواکس، خواننده هلندی، تصویر جدیدی از دوران بارداری خود منتشر کردند. این زوج برای نخستین بار در آستانه تجربه پدر و مادر شدن هستند.",
-   "bodyFa": [
-    "افوک بیدمیر و نامزدش شرون کواکس که برای اولین بار در آستانه پدر و مادر شدن قرار دارند، تصویر جدیدی از خود به اشتراک گذاشتند. در این عکس مشترک، وضعیت پیشرفت بارداری کواکس مورد توجه مخاطبان قرار گرفت.",
-    "این زوج هنرمند خود را آماده می‌کنند تا نخستین فرزندشان را در آغوش بگیرند. خبر پدر شدن بیدمیر نخستین بار در ماه اوت رسانه‌ای شده بود."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "b86e84e5722a",
-   "url": "https://www.milliyet.com.tr/magazin/onur-tuna-karakuyuda-kendi-kahramanimi-oynayacagim-7699313",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Onur Tuna: Karakuyu'da kendi Kahraman'ımı oynayacağım",
-   "snippet": "HABER MERKEZİ - Kanal D’nin tanıtımları izlenme rekoru kıran yeni projesi Karakuyu’nun Kahraman’ı Onur Tuna canlandırdığı karaktere yaklaşımını anlattı. “BAŞIMA GELSE AGRESİF OLABİLİRİM” Başarılı oyuncu, Kahraman ile arasında güçlü benzerlikler bulunduğunu dile getirdi. Empati yaptığını belirten Tuna, “Benim de sevdiklerimin başına kötü bir şey gelse agresif biri olabilirim” dedi. “GÜÇLÜ BİR ADALET DUYGUM VAR” Tuna, Karakuyu’nun hikayesine atıfta bulunarak, “Herkes gibi benim de güçlü bir adalet",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6af58162b61a898b6e30fbdb.jpg",
-   "video": null,
-   "published": "2026-11-12T09:27:42.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": [
-     "kanal-d"
-    ]
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/onur-tuna-karakuyuda-kendi-kahramanimi-oynayacagim-7699313",
-     "title": "Onur Tuna: Karakuyu'da kendi Kahraman'ımı oynayacağım",
-     "snippet": "HABER MERKEZİ - Kanal D’nin tanıtımları izlenme rekoru kıran yeni projesi Karakuyu’nun Kahraman’ı Onur Tuna canlandırdığı karaktere yaklaşımını anlattı. “BAŞIMA GELSE AGRESİF OLABİLİRİM” Başarılı oyuncu, Kahraman ile arasında güçlü benzerlikler bulunduğunu dile getirdi. Empati yaptığını belirten Tun",
-     "published": "2026-11-12T09:27:42.000Z"
-    }
-   ]
-  },
-  {
-   "id": "5bbbbc3afabe",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/ask-sarhosu-genc-milyoner-evinde-pek-guler-yuzlu-degilmis-hamileyken-beni-fazla-calistirdi-bu-yuzden-bebegimi-dusurdum-43375234",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Aşk sarhoşu yıldız bir değil yedi kez mahkemelik: Ben onun yüzünden bebeğimi düşürdüm!",
-   "snippet": "İçine doğduğu ünlü aile sayesinde kariyer basamaklarını da hızlıca tırmandı Kylie Jenner. Daha 29 yaşında olmasına rağmen de 700 milyon dolarlık bir servetin sahibi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af572c08c01a1364d067e25.jpg",
-   "video": null,
-   "published": "2026-11-12T09:24:29.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/ask-sarhosu-genc-milyoner-evinde-pek-guler-yuzlu-degilmis-hamileyken-beni-fazla-calistirdi-bu-yuzden-bebegimi-dusurdum-43375234",
-     "title": "Aşk sarhoşu yıldız bir değil yedi kez mahkemelik: Ben onun yüzünden bebeğimi düşürdüm!",
-     "snippet": "İçine doğduğu ünlü aile sayesinde kariyer basamaklarını da hızlıca tırmandı Kylie Jenner. Daha 29 yaşında olmasına rağmen de 700 milyon dolarlık bir servetin sahibi.",
-     "published": "2026-11-12T09:24:29.000Z"
-    }
-   ]
-  },
-  {
-   "id": "1b48fd2882eb",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/o-kadar-medeni-degilim-adliyeden-el-ele-cikmam-43375465",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Berdan Mardini boşanmanın ardından konuştu: O kadar medeni değilim, adliyeden el ele çıkmam",
-   "snippet": "Şarkıcı Berdan Mardini, İngilizce öğretmeni Dilara Talay ile yaptığı evliliği tek celsede sonlandırdı. Nisan 2025'te nikâh masasına oturan çiftin sessiz sedasız gerçekleşen boşanmasının ardından Mardini, ilk kez açıklamalarda bulundu. Ünlü şarkıcı, hem eski eşi hakkında konuştu hem de adliyeden el ele ayrıldıkları yönündeki iddialara açıklık getirdi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6af584eec813a6f07cce75c2.jpg",
-   "video": null,
-   "published": "2026-11-12T09:21:00.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/o-kadar-medeni-degilim-adliyeden-el-ele-cikmam-43375465",
-     "title": "Berdan Mardini boşanmanın ardından konuştu: O kadar medeni değilim, adliyeden el ele çıkmam",
-     "snippet": "Şarkıcı Berdan Mardini, İngilizce öğretmeni Dilara Talay ile yaptığı evliliği tek celsede sonlandırdı. Nisan 2025'te nikâh masasına oturan çiftin sessiz sedasız gerçekleşen boşanmasının ardından Mardini, ilk kez açıklamalarda bulundu. Ünlü şarkıcı, hem eski eşi hakkında konuştu hem de adliyeden el e",
-     "published": "2026-11-12T09:21:00.000Z"
-    }
-   ]
-  },
-  {
-   "id": "62ca8ad1d9bb",
-   "url": "https://www.haberturk.com/magazin/ferhat-gocer-telif-haklari-aktivistiyim-3926784",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"Telif hakları aktivistiyim\"",
-   "snippet": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında konuşan MSG Yönetim Kurulu Başkanı Ferhat Göçer, kültür ve sanatın toplumsal davranış değişikliğindeki rolüne dikkat çekti",
-   "image": "https://im.haberturk.com/l/2026/11/12/ver1794474513/3926784/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-12T09:09:06.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/ferhat-gocer-telif-haklari-aktivistiyim-3926784",
-     "title": "\"Telif hakları aktivistiyim\"",
-     "snippet": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında konuşan MSG Yönetim Kurulu Başkanı Ferhat Göçer, kültür ve sanatın toplumsal davranış değişikliğindeki rolüne dikkat çekti",
-     "published": "2026-11-12T09:09:06.000Z"
-    }
-   ]
   },
   {
    "id": "29b1e49887fe",
