@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T18:47:58.839329+00:00",
+  "generatedAt": "2026-11-16T06:21:47.685084+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "kizilcik-serbeti:141",
-    "mehmed-fetihler-sultani:1",
-    "mercan-kosk:1",
-    "mercan-kosk:2"
+    "mercan-kosk:3",
+    "mercan-kosk:4",
+    "mercan-kosk:5",
+    "muhtemel-ask:1"
   ],
   "episodes": [
     {
@@ -1392,7 +1392,7 @@
       "seriesSlug": "mercan-kosk",
       "seriesTitle": "عمارت مرجان",
       "originalEpisode": 3,
-      "checkedAt": "2026-11-07T12:55:46.348150+00:00",
+      "checkedAt": "2026-11-16T06:21:47.685084+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1424,7 +1424,7 @@
       "seriesSlug": "mercan-kosk",
       "seriesTitle": "عمارت مرجان",
       "originalEpisode": 4,
-      "checkedAt": "2026-11-07T21:46:20.128368+00:00",
+      "checkedAt": "2026-11-16T06:21:47.685084+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1456,7 +1456,7 @@
       "seriesSlug": "mercan-kosk",
       "seriesTitle": "عمارت مرجان",
       "originalEpisode": 5,
-      "checkedAt": "2026-11-07T21:46:20.128368+00:00",
+      "checkedAt": "2026-11-16T06:21:47.685084+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1488,7 +1488,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-07T21:46:20.128368+00:00",
+      "checkedAt": "2026-11-16T06:21:47.685084+00:00",
       "languagesToTry": [
         "tr",
         "fa",
