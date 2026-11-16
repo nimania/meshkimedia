@@ -141,7 +141,7 @@
    "video": null,
    "published": "2026-11-15T17:48:52.000Z",
    "scope": "linked",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [
@@ -156,7 +156,8 @@
      "url": "https://www.sozcu.com.tr/nebahat-cehre-haluk-bilginer-turk-sinemasi-yanit-p381641",
      "title": "Nebahat Çehre'den Haluk Bilginer'in sözlerine yanıt! Aynı sözleri üç kez tekrarladı",
      "snippet": "Oyuncu Nebahat Çehre, meslektaşı Haluk Bilginer'in Türk sinemasına ilişkin ifadesiyle başlayan tartışmaya ilişkin açıkla...",
-     "published": "2026-11-15T17:48:52.000Z"
+     "published": "2026-11-15T17:48:52.000Z",
+     "titleFa": "پاسخ نباهت چهره به سخنان هالوک بیلگینر! او همان عبارت را سه بار تکرار کرد"
     }
    ],
    "images": [
@@ -167,7 +168,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/medyajpg-RbKXfdkTVke_m6ICqfuzfQ.jpg?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/son-dakikajpg-u9ZT_gysQUqkQ98gYsSDnQ.jpg?w=288&h=162&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "واکنش نباهت چهره به سخنان هالوک بیلگینر درباره سینمای ترکیه",
+   "summaryFa": "نباهت چهره با انتشار پستی در شبکه‌های اجتماعی اعلام کرد سخنانش در مصاحبه قبلی نادرست برداشت شده است. او در این واکنش، عبارت «سینمای ترکیه» را سه بار تکرار کرد.",
+   "bodyFa": [
+    "نباهت چهره، بازیگر سرشناس ترکیه، به بحث‌های شکل‌گرفته پس از اظهارات همکارش هالوک بیلگینر درباره سینمای ترکیه پاسخ داد. این بحث‌ها با نظرات مطرح‌شده از سوی بیلگینر آغاز شده بود.",
+    "نباهت چهره با انتشار مطلبی در شبکه‌های اجتماعی توضیح داد که سخنان قبلی او در یک مصاحبه دچار سوءتفاهم شده است. او در این پست، برای تأکید بر موضع خود عبارت «سینمای ترکیه» را سه بار تکرار کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "033917825086",
@@ -567,7 +576,8 @@
      "url": "https://www.milliyet.com.tr/magazin/sohret-oldu-ama-mahallesini-hic-unutmadi-ferdi-tayfurun-cocukluk-arkadasindan-yillar-sonra-gelen-itiraf-7701167",
      "title": "Şöhret oldu ama mahallesini hiç unutmadı! Ferdi Tayfur'un çocukluk arkadaşından yıllar sonra gelen itiraf",
      "snippet": "Arabesk müziğin usta sanatçısı Ferdi Tayfur, doğum günü olan 15 Kasım'da doğup büyüdüğü mahallede unutulmadı. 2 Ocak 2025 tarihinde hayatını kaybeden Tayfur'un çocukluk ve gençlik yıllarını geçirdiği Hürriyet Mahallesi'nde vatandaşlar, usta sanatçıyı anlatarak hatıralarını paylaştı. Sanatçının bir d",
-     "published": "2026-11-15T10:56:02.000Z"
+     "published": "2026-11-15T10:56:02.000Z",
+     "titleFa": "او به شهرت رسید اما هرگز محله‌اش را فراموش نکرد! اعتراف دوست دوران کودکی Ferdi Tayfur پس از سال‌ها"
     }
    ],
    "images": [
@@ -578,7 +588,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "یadکردن از Ferdi Tayfur در محله کودکی‌اش در روز تولد",
+   "summaryFa": "مردم محله Hürriyet که Ferdi Tayfur دوران کودکی و جوانی خود را در آن گذرانده بود، در روز تولد او یعنی ۱۵ نوامبر یاد و خاطره این هنرمند فقید را زنده نگه داشتند.",
+   "bodyFa": [
+    "در ۱۵ نوامبر که مصادف با زادروز Ferdi Tayfur، چهره برجسته موسیقی عربسک است، اهالی محله Hürriyet یاد او را گرامی داشتند. این هنرمند که در ۲ ژانویه ۲۰۲۵ درگذشته است، دوران کودکی و جوانی خود را در این محله سپری کرده بود.",
+    "شهروندان و یکی از دوستان دوران کودکی او با یادآوری خاطرات، از دوران زندگی و پیوند او با این منطقه سخن گفتند و نشان دادند که او با وجود رسیدن به شهرت، محله خود را فراموش نکرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0708dafe52de",
@@ -1152,10 +1170,20 @@
      "url": "https://www.haberturk.com/magazin/birce-akalay-hava-alalim-dedik-yakalandik-3927426",
      "title": "\"Yakalandık\"",
      "snippet": "Birce Akalay, önceki gün Bebek'te objektiflere yansıdı. Yeni projelerinin olduğunu söyleyen oyuncu, güzel havayı fırsat bilerek parkta kitap okudu, ardından sahilde yürüyüş yaptı",
-     "published": "2026-11-15T06:42:03.000Z"
+     "published": "2026-11-15T06:42:03.000Z",
+     "titleFa": "ما دستگیر شدیم"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "دیدار بیرجه آکالای با خبرنگار در منطقه bebek",
+   "summaryFa": "بیرجه آکالای در منطقه bebek دیده شد و از داشتن پروژه‌های جدید در آینده نزدیک خبر داد.",
+   "bodyFa": [
+    "بیرجه آکالای، بازیگر شناخته شده، روز گذشته در منطقه bebek توسط عکاسان و خبرنگاران دیده شد. او که برای گرداندن سگ خود به بیرون رفته بود، پس از مواجهه با خبرنگاران توضیحاتی کوتاه ارائه داد.",
+    "این بازیگر با اشاره به اینکه به زودی در پروژه‌های جدیدی حضور خواهد داشت، وضعیت خود را خوب توصیف کرد و گفت که قصد داشته مقداری هوای تازه بگردد اما توسط خبرنگاران غافلگیر شده است.",
+    "آکالای پس از این گفتگو، مدتی را در پارک زیر سایه درخت به کتابخوانی پرداخت و سپس به همراه سگ خود در امتداد ساحل به پیاده‌روی ادامه داد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "42d35080f4d1",
@@ -1229,7 +1257,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/yeni-sergi-tophanede-43378794",
      "title": "Yeni sergi Tophane’de",
      "snippet": "Sanatorium Tophane, İsmail Şimşek’in “Monokrom” başlıklı kişisel sergisini sanatseverlerle buluşturdu.",
-     "published": "2026-11-15T06:04:29.000Z"
+     "published": "2026-11-15T06:04:29.000Z",
+     "titleFa": "نمایشگاه جدید در توپخانه"
     }
    ],
    "images": [
@@ -1240,7 +1269,14 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "برپایی نمایشگاه جدید در توپخانه",
+   "summaryFa": "نمایشگاه انفرادی اسماعیل Şimşek با عنوان «موناکروم» در Sanatorium Tophane افتتاح شد.",
+   "bodyFa": [
+    "گالری Sanatorium Tophane میزبان نمایشگاه انفرادی جدیدی از آثار اسماعیل Şimşek با عنوان «موناکروم» شده است و این مجموعه هنری اکنون پذیرای علاقه‌مندان به هنر است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0e9066ebcafe",
@@ -1301,7 +1337,7 @@
    "video": null,
    "published": "2026-11-15T05:57:20.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1314,7 +1350,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/ezber-bozan-donus-43378789",
      "title": "Ezber bozan dönüş",
      "snippet": "Tuğçe Kandemir, yeni şarkısı “Ben Eski Ben Değilim”i müzikseverler ile buluşturdu.",
-     "published": "2026-11-15T05:57:20.000Z"
+     "published": "2026-11-15T05:57:20.000Z",
+     "titleFa": "بازگشت ساختارشککن"
     }
    ],
    "images": [
@@ -1325,7 +1362,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتشار آهنگ جدید توگچه کاندمیر",
+   "summaryFa": "توگچه کاندمیر ترانه جدید خود را با نام «من آن آدم سابق نیستم» منتشر کرد و در دسترس علاقه‌مندان به موسیقی قرار داد.",
+   "bodyFa": [
+    "توگچه کاندمیر، خواننده، قطعه جدید خود را با عنوان «Ben Eski Ben Değilim» (من آن آدم سابق نیستم) به بازار عرضه کرده و آن را به دست مخاطبان و دوستداران موسیقی رسانده است.",
+    "این اثر جدید تازه‌ترین فعالیت این خواننده به شمار می‌رود که اکنون برای علاقه‌مندان قابل شنیدن است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5e2b56d015ec",
@@ -1352,9 +1397,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/esine-askini-ilani-etti-43378787",
      "title": "Eşine aşkını ilanı etti",
      "snippet": "Deha Bilimlier önceki akşam Cahide Palazzo’da sahne aldı.",
-     "published": "2026-11-15T05:53:41.000Z"
+     "published": "2026-11-15T05:53:41.000Z",
+     "titleFa": "اعلام عشق به همسر"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af948e18c01a1364d0690aa.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af948e18c01a1364d0690aa.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "ابراز عشق دها بیلیم‌لیئر به همسرش روی صحنه",
+   "summaryFa": "دha بیلیم‌لیئر در اجرای اخیر خود روی صحنه، عشق خود را به همسرش ابراز کرد.",
+   "bodyFa": [
+    "دها بیلیم‌لیئر، خواننده ترکیه‌ای، در اجرای شب گذشته خود که در «جاهیده پالازو» برگزار شد، روی صحنه رفت.",
+    "او در جریان این اجرا، عشق خود را به همسرش ابراز کرد و لحظاتی احساسی را رقم زد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a708ac8971cc",
@@ -1381,9 +1444,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/30-aralikta-zorlu-psmde-43378784",
      "title": "30 Aralık’ta Zorlu Psm’de",
      "snippet": "Kenan Doğulu’nun senfonik konser projesi “Symphonity”, 30 Aralık’ta Zorlu PSM’de.",
-     "published": "2026-11-15T05:50:31.000Z"
+     "published": "2026-11-15T05:50:31.000Z",
+     "titleFa": "۳۰ دسامبر در Zorlu PSM"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af948258c01a1364d069096.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af948258c01a1364d069096.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "برгуаr کنцерт سنفونیک «Symphonity» کنان دوغولو در زورلو PSM",
+   "summaryFa": "پрoжه کنцерт سنفونیک «Symphonity» از کنان دوغولو در تاریخ ۳۰ دسامبر در Zorlu PSM برگزار خواهد شد.",
+   "bodyFa": [
+    "بر اساس اخبار منتشر شده، پروژه موسیقی سنفونیک «Symphonity» متعلق به کنان دوغولو قرار است در تاریخ ۳۰ دسامبر در مرکز هنرهای نمایشی زورلو (Zorlu PSM) روی صحنه برود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f90666102d1d",
@@ -1410,9 +1490,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/eski-esiyle-yeniden-evlendi-43378782",
      "title": "Eski eşiyle yeniden evlendi",
      "snippet": "Ünlü şarkıcı Zeynep Casalini (56) kızı Dafne’nin babası Tahsin Berk’le (62) ikinci kez nikâh masasına oturdu.",
-     "published": "2026-11-15T05:48:58.000Z"
+     "published": "2026-11-15T05:48:58.000Z",
+     "titleFa": "ازواج مجدد با همسر سابق"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af947c78c01a1364d06908e.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af947c78c01a1364d06908e.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "ازواج مجدد زینب کسالینی با همسر سابقش",
+   "summaryFa": "زینب کسالینی، خواننده مشهور، برای دومین بار با تحسین برک، پدر دخترش دافنه، ازدواج کرد.",
+   "bodyFa": [
+    "زینب کسالینی خواننده ۵۶ ساله برای دومین بار با تحسین برک ۶۲ ساله که پدر دخترشان به نام دافنه است، پای سفره عقد نشست."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "69e078634bf8",
@@ -1439,9 +1536,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/bankadaki-parasi-60-milyon-43378778",
      "title": "Bankadaki parası 60 milyon",
      "snippet": "Kadir İnanır’ın vefatının ardından mal varlığı ve vasiyetiyle ilgili tartışmalar sürüyor. Usta oyuncunun tüm mal varlığını hayat arkadaşı Jülide Kural’a bıraktığı vasiyetinin 17 Aralık’ta açıklanması beklenirken, bankadaki resmi nakit varlığının 60 milyon TL olduğu öğrenildi.",
-     "published": "2026-11-15T05:46:00.000Z"
+     "published": "2026-11-15T05:46:00.000Z",
+     "titleFa": "پول موجود در بانک ۶۰ میلیون است"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af952348c01a1364d0690fc.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af952348c01a1364d0690fc.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "دارایی نقدی ۶۰ میلیون لیره‌ای کادیر اینانیر در بانک",
+   "summaryFa": "بحث‌ها پیرامون دارایی‌ها و وصیت‌نامه کادیر اینانیر پس از درگذشت او ادامه دارد. انتظار می‌رود وصیت‌نامه این بازیگر پیشکسوت در تاریخ ۱۷ دسامبر افشا شود.",
+   "bodyFa": [
+    "پس از درگذشت کادیر اینانیر، بحث و گفت‌وگوها درباره دارایی‌ها و وصیت‌نامه او همچنان جریان دارد. گزارش‌ها حاکی از آن است که میزان دارایی نقدی رسمی این بازیگر برجسته در بانک ۶۰ میلیون لیره ترکیه است.",
+    "طبق اطلاعات به‌دست‌آمده، انتظار می‌رود وصیت‌نامه وی که تمامی دارایی‌هایش را به شریک زندگی‌اش، ژولیده کورال، واگذار کرده است، در تاریخ ۱۷ دسامبر رسمی و اعلام شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "651bae0ebdcd",
@@ -1468,9 +1583,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/festival-yolculugu-suruyor-43378775",
      "title": "Festival yolculuğu sürüyor",
      "snippet": "Aydın Orak’ın yazıp yönettiği “Ölü Arının İğnesi”, Antalya Altın Portakal Film Festivali’nde gerçekleştirdiği prömiyerin ardından festival yolculuğunu sürdürüyor.",
-     "published": "2026-11-15T05:44:12.000Z"
+     "published": "2026-11-15T05:44:12.000Z",
+     "titleFa": "سفر جشنواره‌ای ادامه دارد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af946a88c01a1364d06907e.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af946a88c01a1364d06907e.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "ادامه مسیر جشنواره‌ای فیلم «نیش زنبور مرده»",
+   "summaryFa": "فیلم «نیش زنبور مرده» به نویسندگی و کارگردانی آیدین اوراک، پس از اولین نمایش خود در جشنواره فیلم پرتقال طلایی آنتالیا، همچنان به حضور در جشنواره‌ها ادامه می‌دهد.",
+   "bodyFa": [
+    "فیلم «نیش زنبور مرده» به نویسندگی و کارگردانی آیدین اوراک، پس از اینکه نخستین نمایش خود را در جشنواره فیلم پرتقال طلایی آنتالیا انجام داد، مسیر حضور در جشنواره‌های مختلف را همچنان ادامه می‌دهد.",
+    "این اثر سینمایی که تاکنون در جشنواره پرتقال طلایی آنتالیا روی پرده رفته است، در حال حاضر به سفرهای جشنواره‌ای خود ادامه می‌دهد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6f7ca78cb65e",
@@ -1537,7 +1670,7 @@
    "video": null,
    "published": "2026-11-15T05:41:40.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1550,9 +1683,27 @@
      "url": "https://www.sozcu.com.tr/56-yasindaki-zeynep-casalini-10-yil-once-bosandigi-esiyle-yeniden-evlendi-p381429",
      "title": "56 yaşındaki Zeynep Casalini 10 yıl önce boşandığı eşiyle yeniden evlendi",
      "snippet": "56 yaşındaki şarkıcı Zeynep Casalini, yıllar önce yollarını ayırdığı işletmeci Tahsin Berk ile yeniden nikâh masasına ot...",
-     "published": "2026-11-15T05:41:40.000Z"
+     "published": "2026-11-15T05:41:40.000Z",
+     "titleFa": "زينپ كاساليني ۵۶ ساله با همسر ۵ سال پيش خود دوباره ازدواج کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/zeynepcasalinijpg-txoEc-Pjk0mzkhJ4trcHDg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/zeynepcasalinijpg-txoEc-Pjk0mzkhJ4trcHDg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/56-yasindaki-zeynep-casalini-eski-esiyle-yeniden-evlendi-yuzukleri-kizi-takti-2jpg-0DpVNEYuCk2OA_WgAp_woA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/zeynepcasalinisonhajpg-rCdV7BQqXEquGTnIJgCyfA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/110jpg-a3rqiWZwiU2fhS7_6qXmZw.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "زينپ كاساليني، خواننده ۵۶ ساله، با همسر سابق خود دوباره ازدواج کرد",
+   "summaryFa": "زينپ كاساليني، خواننده ۵۶ ساله، ده سال پس از جدايي دوباره با همسر سابقش ازدواج کرد. مراسم ازدواج اين زوج در بودروم برگزار شد.",
+   "bodyFa": [
+    "زينپ كاساليني، خواننده ۵۶ ساله، پس از سال‌ها دوری دوباره با تاهسين برک، فعال حوزه کسب‌وکار و همسر سابق خود پيمان زناشويی بست. اين زوج پيش‌تر در سال ۲۰۱۶ از يکدیگر جدا شده بودند.",
+    "مراسم ازدواج مجدد آن‌ها در شهر بودروم برگزار شد و دخترشان دفنه نيز در اين مراسم حضور داشت. کاساليني خبر و تصوير مربوط به خوشحالی خود از اين رویداد را در صفحه اجتماعی‌اش به اشتراک گذاشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c78dd781d3da",
@@ -1628,9 +1779,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/bizim-ailedeki-en-cirkin-sesliyim-43378767",
      "title": "Bizim ailedeki en çirkin sesliyim",
      "snippet": "Mustafa Keser, Hülya Koçyiğit’in her pazar TRT 2 ekranlarında yayınlanan ‘Film Gibi Hayatlar’ programına konuk oldu.",
-     "published": "2026-11-15T05:37:56.000Z"
+     "published": "2026-11-15T05:37:56.000Z",
+     "titleFa": "من بدترین صدای خانواده‌ام را دارم"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af945308c01a1364d06905d.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af945308c01a1364d06905d.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "مصطفی کسر مهمان برنامه «زندگی‌ ها مانند فیلم است» شد",
+   "summaryFa": "مصطفی کسر به عنوان مهمان در برنامه تلویزیونی هولیا کوچ‌ییگیت شرکت کرد.",
+   "bodyFa": [
+    "مصطفی کسر در برنامه «زندگی‌ ها مانند فیلم است» با اجرای هولیا کوچ‌ییگیت که هر یکشنبه از شبکه TRT 2 پخش می‌شود، حضور یافت و به عنوان مهمان در این برنامه شرکت کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f8f687f7822e",
@@ -1659,7 +1827,16 @@
      "snippet": "Cenk Eren, sanat hayatının 30’uncu yılını önceki akşam Bostancı Gösteri Merkezi’nde verdiği özel konserle kutladı.",
      "published": "2026-11-15T05:36:32.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af944d18c01a1364d069057.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af944d18c01a1364d069057.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true
   },
   {
    "id": "579ce99f974a",
@@ -1686,9 +1863,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/guneyin-incisi-odulu-43378765",
      "title": "‘Güney’in İncisi’ ödülü",
      "snippet": "Türk sinemasının Sultanı Türkan Şoray, Adana’da eğitime gönül verenlerin kurduğu Güney Eğitim Vakfı’nın 32’nci kuruluş yıldönümü kapsamında düzenleyeceği gecede “Güney’in İncisi” ödülünü alacak.",
-     "published": "2026-11-15T05:35:22.000Z"
+     "published": "2026-11-15T05:35:22.000Z",
+     "titleFa": "جایزه «مروارید جنوب»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af944968c01a1364d069051.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af944968c01a1364d069051.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "درyaft جایزه «مروارید جنوب» توسط تورکان شورای",
+   "summaryFa": "تورکان شورای، سلطان سینمای ترکیه، جایزه «مروارید جنوب» را در مراسم سی و دومین سالگرد تأسیس بنیاد آموزش جنوب در آدانا دریافت خواهد کرد.",
+   "bodyFa": [
+    "تورکان شورای، چهره سرشناس و ملقب به سلطان سینمای ترکیه، قرار است در مراسمی که به مناسبت سی و دومین سالگرد تأسیس «بنیاد آموزش جنوب» در شهر آدانا برگزار می‌شود، تجلیل شود.",
+    "در این مراسم که توسط حامیان و دوستداران آموزش در آدانا تدارک دیده شده است، جایزه ویژه موسوم به «مروارید جنوبی» به تورکان شورای اهدا خواهد شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6b0c046b977c",
@@ -1715,9 +1910,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/fiyatlar-biraz-sisirme-43378764",
      "title": "Fiyatlar biraz şişirme",
      "snippet": "Melek Mosso önceki akşam Çapa Pera’da sahne aldı.",
-     "published": "2026-11-15T05:34:06.000Z"
+     "published": "2026-11-15T05:34:06.000Z",
+     "titleFa": "قیمت‌ها کمی اغراق‌آمیز است"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af9444a8c01a1364d06904b.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af9444a8c01a1364d06904b.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای ملک مسو در چاپا پررا",
+   "summaryFa": "ملک مسو، خواننده ترکیه‌ای، در شب‌های گذشته در چاپا پررا روی صحنه رفت.",
+   "bodyFa": [
+    "ملک مسو، خواننده محبوب، در شب گذشته در چاپا پررا به اجرای برنامه پرداخت و روی صحنه رفت.",
+    "جزئیات بیشتری درباره این رویداد یا حواشی آن در اطلاعات موجود ذکر نشده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1f408f5a2154",
@@ -1746,7 +1959,16 @@
      "snippet": "“Yıkılmayız Öyle” adlı single’ını sevenleriyle buluşturan İdo Tatlıses imaj değişikliğine de gitti. Şort ve eşofmanla vedalaşan Tatlıses sahnede artık takım elbiseyle, orkestra eşliğinde dinleyicilerinin karşısına çıkıyor. Evinde buluştuğumuz şarkıcıyla hem kariyerindeki bu yeni dönemi, hem babası İ",
      "published": "2026-11-15T05:19:45.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af940e88c01a1364d069036.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af940e88c01a1364d069036.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true
   },
   {
    "id": "8c6726a56bb7",
@@ -1773,9 +1995,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/o-da-zayiflayanlar-kervanina-katildi-15-yas-genclesmissin-43377158",
      "title": "O da zayıflayanlar kervanına katıldı: 15 yaş gençleşmişsin!",
      "snippet": "Uzun bir oyunculuk kariyeri olan, bir dönem de ekranlarda yemek programı hazırlayıp sunan yıldız isim de en sonunda zayıflayarak görüntüsünü değiştiren ünlüler arasında katıldı.",
-     "published": "2026-11-15T04:32:51.000Z"
+     "published": "2026-11-15T04:32:51.000Z",
+     "titleFa": "او هم به کاروان لاغرشده‌ها پیوست: ۱۵ سال جوان‌تر شده‌ای!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6af6ff8c8c01a1364d068a2d.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6af6ff8c8c01a1364d068a2d.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3742",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3742"
+   ],
+   "mediaDone": true,
+   "titleFa": "پ پیوستن ستاره قدیمی به جمع کاهش‌وزن‌یافتگان با تغییر ظاهر چشمگیر",
+   "summaryFa": "یک بازیگر باسابقه و مجری سابق برنامه‌های آشپزی، با کاهش وزن ظاهر خود را تغییر داده است. طرفداران در واکنش به او گفته‌اند که پانزده سال جوان‌تر به نظر می‌رسد.",
+   "bodyFa": [
+    "یک چهره سرشناس که سابقه طولانی در بازیگری دارد و در گذشته نیز اجرای برنامه‌های تلویزیونی آشپزی را بر عهده داشت، با کاهش وزن اخیر خود به جمع چهره‌هایی پیوسته که ظاهرشان را تغییر داده‌اند.",
+    "این تغییر ظاهر قابل توجه با واکنش‌هایی از سوی مخاطبان روبرو شده است، به‌طوری که برخی به او گفته‌اند با این تغییرات پانزده سال جوان‌تر به نظر می‌رسد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d38974b7e984",
@@ -1804,7 +2044,16 @@
      "snippet": "MESUT YILMAZ -Beş yıldır ekrandan uzak kalan Dilan Çiçek Deniz, sektördeki kaşe eşitsizliği hakkında konuştu. Erkek oyuncuların daha çok para almasını eleştiren Deniz, “Geçen bir tablo paylaşıldı, ‘İlk 5’i erkek... Erkek domine bir sektör olması beni rahatsız ediyor. O yüzden yapımcı olarak girdim s",
      "published": "2026-11-15T04:01:39.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af8d90eb61a898b6e310909.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af8d90eb61a898b6e310909.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "87b8f9063b26",
@@ -1886,7 +2135,16 @@
      "snippet": "Arap dünyasının Met Galası olarak adlandırılan Vogue Arabia Ball gecesinde tüy detaylı ve çiçek işlemeli bir elbise tercih eden oyuncunun, ihtişamlı görünümüne yorum yağdı. Lübnanlı modacı Zuhair Murad imzası taşıyan kabarık kıyafeti Bülent Ersoy’un sahne kostümlerine benzetilen Erçel’in fotoğraflar",
      "published": "2026-11-15T04:01:38.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af8d854b61a898b6e3108f7.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af8d854b61a898b6e3108f7.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "7d77c97a51b6",
@@ -1913,9 +2171,27 @@
      "url": "https://www.milliyet.com.tr/magazin/30uncu-yila-gorkemli-kutlama-7700892",
      "title": "30’uncu yıla görkemli kutlama",
      "snippet": "27 kişilik orkestrasıyla İstanbul Bostancı Gösteri Merkezi’nde konser veren sanatçı, özel tasarlanan sahnesi ve kıyafetleriyle ihtişamlı bir şölene imza attı. Birgül Vargı, Nilgün Çarmıklı, Neşe Gönül, Sema Güral Sürmeli, Jale Öztarhan, Semra Tümay, Nazar Şoray ve Pınar Altuğ’un aralarında bulunduğu",
-     "published": "2026-11-15T04:01:38.000Z"
+     "published": "2026-11-15T04:01:38.000Z",
+     "titleFa": "جشن باشکوه برای سی‌امین سال"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af8d818b61a898b6e3108f1.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af8d818b61a898b6e3108f1.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن باشکوه سی‌امین سال فعالیت هنری",
+   "summaryFa": "چنگ ارن سی سال فعالیت هنری خود را با یک کنسرت باشکوه و ارکستری بزرگ در استانبول جشن گرفت. این برنامه با حضور چهره‌های سرشناس برگزار شد.",
+   "bodyFa": [
+    "چنگ ارن سی‌امین سال فعالیت هنری خود را با برگزاری یک کنسرت فراموش‌نشدنی در مرکز نمایش بستانچی استانبول جشن گرفت. او در این اجرا با یک ارکستر ۲۷ نفره روی صحنه رفت و برنامه‌ای باشکوه را به نمایش گذاشت.",
+    "این هنرمند در این مراسم با صحنه‌ای طراحی‌شده و لباس‌های خاص، جشنی پرشکوه خلق کرد. در این کنسرت چهره‌های سرشناسی همچون بیرگول وارگی، نیلسون چارمیکلی، نشه گونول، سما گورال سرملی، ژاله اوزتارهان، سمرا تومای، نظر شورای و پینار آلتوگ حضور داشتند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5372a0ccc38d",
@@ -1946,7 +2222,16 @@
      "snippet": "Doğayla iç içe villasında Asiye Acar’ı ağırlayan sanatçı, çocuk odasıyla şaşırttı. “Bu odayla evlilik için evrene manifest gönderiyorum” diyen İpek, müzik dünyasına ise Yıldız Tilbe sayesinde adım attığını söyledi. Sanatçı, “Oyuncu olmak istiyordum. Verdiği ‘Bir Alo De’ şarkısıyla hayatım değişti” d",
      "published": "2026-11-15T04:01:37.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af8d7dbb61a898b6e3108eb.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af8d7dbb61a898b6e3108eb.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "1f3564da9f0e",
@@ -1975,7 +2260,16 @@
      "snippet": "‘Biz Bize’ programına konuk olan oyuncu, “Hayal ettiği her şeyi kim yapabilmiş? Hayatınızda bir amacınız olacak ve ona ulaşmaya çalışacaksınız. Kesintisiz mutluluk aptallar içindir. Ben de normal bir insan olarak inişler çıkışlar yaşadım, koşulları zorladım” dedi.",
      "published": "2026-11-15T04:01:36.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af8d6dbb61a898b6e3108de.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af8d6dbb61a898b6e3108de.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "55bacbf12e3b",
@@ -2004,7 +2298,16 @@
      "snippet": "‘Film Gibi Hayatlar’ programına konuk olan sanatçı, “Şarkı söylemek yalnızca notaları seslendirmekten ibaret değil. Bugüne kadar hiç laf olsun diye şarkı söylemedim. Karşı tarafa anlatmak lazım parçaları” dedi. 18 yaşındaki gençlerin de kendisini dinlediğine vurgu yapan Keser, “Ben şarkıları anlatar",
      "published": "2026-11-15T04:01:36.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6af8d6a5b61a898b6e3108d8.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6af8d6a5b61a898b6e3108d8.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "7484485ceba5",
@@ -2823,7 +3126,7 @@
      "title": "Şifanur Gül ile Berk Bakioğlu nişanlandı",
      "snippet": "Şifanur Gül, uzun süredir aşk yaşadığı oyuncu Berk Bakioğlu ile nişanlandı. Amsterdam'da aldığı evlilik teklifine “Evet” diyen ünlü oyuncu nişan haberini tek kare ile duyurdu.",
      "published": "2026-11-14T14:28:18.000Z",
-     "titleFa": "نامزدی شیفانور گل و برک باقی‌اوغلو"
+     "titleFa": "Şifanur Gül ile Berk Bakioğlu nişanlandı"
     },
     {
      "source": "sozcu-magazin",
@@ -2831,7 +3134,8 @@
      "url": "https://www.sozcu.com.tr/sifanur-gul-ve-berk-bakioglu-nisanlandi-mutlu-gunlerini-boyle-duyurdular-p381486",
      "title": "Şifanur Gül ve Berk Bakioğlu nişanlandı: Mutlu günlerini böyle duyurdular",
      "snippet": "Oyuncu Şifanur Gül ile Berk Bakioğlu, aileleri ve yakın dostlarının katıldığı törenle evlilik yolunda ilk adımı attı. Çi...",
-     "published": "2026-11-15T07:27:27.000Z"
+     "published": "2026-11-15T07:27:27.000Z",
+     "titleFa": "Şifanur Gül ve Berk Bakioğlu nişanlandı: Mutlu günlerini böyle duyurdular"
     }
    ],
    "images": [
@@ -2843,18 +3147,39 @@
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
    "mediaDone": true,
-   "titleFa": "نامزدی شیفانور گل و برک باقی‌اوغلو",
-   "summaryFa": "شیفانور گل و برک باقی‌اوغلو پس از مدتی رابطه، با یکدیگر نامزد شدند. این خبر با انتشار یک عکس رسانه‌ای شد.",
+   "titleFa": "شifanور گل و برک باقی‌اوغلو نامزد کردند",
+   "summaryFa": "شifanور گل و برک باقی‌اوغلو پس از مدتی رابطه، طی مراسمی نامزد شدند. این زوج خوشبختی خود را در شبکه‌های اجتماعی با مخاطبان به اشتراک گذاشتند.",
    "bodyFa": [
-    "شیفانور گل با انتشار یک عکس، خبر نامزدی خود را با برک باقی‌اوغلو رسماً اعلام کرد. این دو بازیگر که برای مدتی طولانی با یکدیگر رابطه داشتند، اکنون تصمیم به رسمیت بخشیدن به رابطه خود گرفته‌اند.",
-    "طبق اطلاعات منتشرشده، برک باقی‌اوغلو در شهر آمستردام از شیفانور گل خواستگاری کرده و او نیز به این پیشنهاد ازدواج پاسخ مثبت داده است."
+    "شifanور گل و بازیگر برک باقی‌اوغلو، پس از مدت‌ها رابطه عاشقانه، گامی در جهت ازدواج برداشتند و نامزد کردند.",
+    "بر اساس اخبار منتشر شده، این زوج خوشبخت خبر نامزدی خود را از طریق شبکه‌های اجتماعی اعلام کردند و تصاویری از این روز مهم را با طرفداران به اشتراک گذاشتند."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "c2cf0da48337"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "شifanور گل و برک باقی‌اوغلو نامزد کرده‌اند.",
+     "آن‌ها مدتی است با یکدیگر رابطه دارند."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات پیشنهاد ازدواج و مراسم",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "به پیشنهاد ازدواج در آمستردام و انتشار خبر با یک تصویر اشاره می‌کند."
+       },
+       {
+        "source": "sozcu-magazin",
+        "text": "به حضور خانواده‌ها و دوستان نزدیک در مراسم و نکته‌دار بودن تاریخ در پست زوج اشاره می‌کند."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   }
   },
   {
    "id": "034355908891",
@@ -5398,7 +5723,8 @@
      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/merveyurtyapan/2026/11/14/gercek-karakterler-izleyiciyi-etkiledi",
      "title": "Gerçek karakterler izleyiciyi etkiledi",
      "snippet": "Atv dizisi ‘Altı Üstü İstanbul’da ‘Sezen’i canlandıran Ezgi Çelik, dizinin başarısının sırrını GÜNAYDIN’a anlattı: “Karakterlerin gerçek ve hikâyelerinin derin olması bence seyirciyi etkiledi. Senaristlerimiz... Devamı için tıklayınız",
-     "published": "2026-11-13T17:49:59.000Z"
+     "published": "2026-11-13T17:49:59.000Z",
+     "titleFa": "شخصیت‌های واقعی مخاطبان را تحت تأثیر قرار دادند"
     }
    ],
    "images": [
@@ -5409,7 +5735,16 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png",
     "https://i.tmgrup.com.tr/egazete/ilk-sayfalar/2026/11/14/164x236/14SBH01.jpg?v=26401"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اظهارات ازگی چلیک درباره موفقیت سریال بالا و پایین استانبول",
+   "summaryFa": "ازگی چلیک، بازیگر سریال بالا و پایین استانبول، معتقد است که واقع‌گرایانه بودن شخصیت‌ها و عمق داستان‌ها دلیل اصلی تأثیرگذاری این مجموعه بر مخاطبان است.",
+   "bodyFa": [
+    "ازگی چلیک بازیگر سریال «بالا و پایین استانبول» در گفتگویی با نشریه گۆنایدین، نظرات خود را درباره راز موفقیت این مجموعه تلویزیونی از شبکه آ تی وی بیان کرد.",
+    "او در این مصاحبه اشاره کرد که واقعی بودن شخصیت‌ها و عمق داستان‌های روایت شده توانسته است مخاطبان را به خود جلب کند و تحت تأثیر قرار دهد.",
+    "همچنین به گفته وی، نویسندگان این سریال بسیار جسور هستند و اثر نام‌برده مجموعه‌ای پویا و آماده برای نوآوری به شمار می‌رود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "caafdc0165f0",
