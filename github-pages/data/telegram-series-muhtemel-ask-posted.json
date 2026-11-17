@@ -212,7 +212,8 @@
     "engagement:poll:emotion",
     "engagement-day:2026-11-16",
     "slot:2026-11-16:3",
-    "pavaraghi:dubbed-21"
+    "pavaraghi:dubbed-21",
+    "pavaraghi:dubbed-22"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -296,7 +297,8 @@
     "774958171437a7ab5bfb5144",
     "619244f79b4548bc7dd1865d",
     "937ce07de8ce331330b4de29",
-    "cd7452f71825a2711e9c9ebd"
+    "cd7452f71825a2711e9c9ebd",
+    "5571bf88da5bbfff52857f20"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-09",
@@ -334,7 +336,7 @@
     "episode:12": "2026-11-15",
     "poll:emotion": "2026-11-16"
   },
-  "updated": "2026-11-16T22:19:51.289Z",
+  "updated": "2026-11-17T04:36:32.427Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
