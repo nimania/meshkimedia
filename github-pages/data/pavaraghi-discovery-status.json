@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T21:57:55.195246+00:00",
+  "generatedAt": "2026-11-17T07:50:34.921007+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "muhtemel-ask:2",
-    "omur-usta:1",
-    "sevdan-bir-ates:1",
-    "sevdan-bir-ates:2"
+    "sevdan-bir-ates:3",
+    "sevdan-bir-ates:4",
+    "sevdan-bir-ates:5",
+    "sevdigim-sensin:1"
   ],
   "episodes": [
     {
@@ -2192,7 +2192,7 @@
       "seriesSlug": "sevdan-bir-ates",
       "seriesTitle": "عشقت یک آتش است",
       "originalEpisode": 3,
-      "checkedAt": "2026-11-08T05:56:31.962023+00:00",
+      "checkedAt": "2026-11-17T07:50:34.921007+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -2224,7 +2224,7 @@
       "seriesSlug": "sevdan-bir-ates",
       "seriesTitle": "عشقت یک آتش است",
       "originalEpisode": 4,
-      "checkedAt": "2026-11-08T13:18:46.285303+00:00",
+      "checkedAt": "2026-11-17T07:50:34.921007+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -2256,7 +2256,7 @@
       "seriesSlug": "sevdan-bir-ates",
       "seriesTitle": "عشقت یک آتش است",
       "originalEpisode": 5,
-      "checkedAt": "2026-11-08T13:18:46.285303+00:00",
+      "checkedAt": "2026-11-17T07:50:34.921007+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -2384,7 +2384,7 @@
       "seriesSlug": "sevdigim-sensin",
       "seriesTitle": "تو همانی که دوستش دارم",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-08T13:18:46.285303+00:00",
+      "checkedAt": "2026-11-17T07:50:34.921007+00:00",
       "languagesToTry": [
         "tr",
         "fa",
