@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T22:09:51.802Z",
+  "updatedAt": "2026-11-17T14:29:33.939Z",
   "metric": "Rating %",
   "windowDays": 120,
   "source": {
@@ -27,6 +27,233 @@
     }
   },
   "days": [
+    {
+      "date": "16.11.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "UZAK SEHIR",
+            "network": "KANAL D",
+            "rating": 9.79,
+            "share": 26.65
+          },
+          {
+            "rank": 2,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 7.08,
+            "share": 19.26
+          },
+          {
+            "rank": 3,
+            "program": "UZAK SEHIR (OZET)",
+            "network": "KANAL D",
+            "rating": 6,
+            "share": 16.47
+          },
+          {
+            "rank": 4,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 4.71,
+            "share": 13.03
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.63,
+            "share": 30.03
+          },
+          {
+            "rank": 6,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 4.51,
+            "share": 19.79
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 3.89,
+            "share": 12.43
+          },
+          {
+            "rank": 8,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.81,
+            "share": 12.1
+          },
+          {
+            "rank": 9,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 2.83,
+            "share": 9.01
+          },
+          {
+            "rank": 10,
+            "program": "SHOW ANA HABER",
+            "network": "SHOW TV",
+            "rating": 2.71,
+            "share": 8.66
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "UZAK SEHIR",
+            "network": "KANAL D",
+            "rating": 6.8,
+            "share": 21.57
+          },
+          {
+            "rank": 2,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 4.24,
+            "share": 13.41
+          },
+          {
+            "rank": 3,
+            "program": "UZAK SEHIR (OZET)",
+            "network": "KANAL D",
+            "rating": 4.11,
+            "share": 13.39
+          },
+          {
+            "rank": 4,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 3.98,
+            "share": 15.6
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.15,
+            "share": 26.75
+          },
+          {
+            "rank": 6,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 2.94,
+            "share": 9.73
+          },
+          {
+            "rank": 7,
+            "program": "EVLILIK GUZELDIR",
+            "network": "TRT 1",
+            "rating": 2.71,
+            "share": 8.46
+          },
+          {
+            "rank": 8,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.55,
+            "share": 8.3
+          },
+          {
+            "rank": 9,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 2.41,
+            "share": 14.27
+          },
+          {
+            "rank": 10,
+            "program": "KANAL D ANA HABER",
+            "network": "KANAL D",
+            "rating": 1.91,
+            "share": 7.5
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "UZAK SEHIR",
+            "network": "KANAL D",
+            "rating": 8.08,
+            "share": 22.28
+          },
+          {
+            "rank": 2,
+            "program": "ALTI USTU ISTANBUL",
+            "network": "ATV",
+            "rating": 6.41,
+            "share": 17.65
+          },
+          {
+            "rank": 3,
+            "program": "UZAK SEHIR (OZET)",
+            "network": "KANAL D",
+            "rating": 4.58,
+            "share": 13.37
+          },
+          {
+            "rank": 4,
+            "program": "ALTI USTU ISTANBUL (OZET)",
+            "network": "ATV",
+            "rating": 4.34,
+            "share": 12.81
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.21,
+            "share": 31.37
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 4.14,
+            "share": 14.42
+          },
+          {
+            "rank": 7,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.13,
+            "share": 16.8
+          },
+          {
+            "rank": 8,
+            "program": "EVLILIK GUZELDIR",
+            "network": "TRT 1",
+            "rating": 2.8,
+            "share": 7.6
+          },
+          {
+            "rank": 9,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.79,
+            "share": 7.92
+          },
+          {
+            "rank": 10,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.73,
+            "share": 9.56
+          }
+        ]
+      }
+    },
     {
       "date": "15.11.2026",
       "weekday": "",
