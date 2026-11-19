@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T07:19:48.555500+00:00",
+  "generatedAt": "2026-11-19T20:30:27.430239+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "uzak-sehir:66",
-    "abi:21",
-    "abi:22",
-    "abi:23"
+    "uzak-sehir:67",
+    "alti-ustu-istanbul:1",
+    "anne-yarisi:1",
+    "ask-ve-taht:1"
   ],
   "episodes": [
     {
@@ -400,7 +400,7 @@
       "seriesSlug": "alti-ustu-istanbul",
       "seriesTitle": "بالا و پایین استانبول",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-10T19:41:48.305980+00:00",
+      "checkedAt": "2026-11-19T20:30:27.430239+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -432,7 +432,7 @@
       "seriesSlug": "anne-yarisi",
       "seriesTitle": "نیمهٔ مادر",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-10T19:41:48.305980+00:00",
+      "checkedAt": "2026-11-19T20:30:27.430239+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -464,7 +464,7 @@
       "seriesSlug": "ask-ve-taht",
       "seriesTitle": "عشق و تخت",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-10T19:41:48.305980+00:00",
+      "checkedAt": "2026-11-19T20:30:27.430239+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -2544,7 +2544,7 @@
       "seriesSlug": "uzak-sehir",
       "seriesTitle": "شهر دور",
       "originalEpisode": 67,
-      "checkedAt": "2026-11-10T07:12:27.201969+00:00",
+      "checkedAt": "2026-11-19T20:30:27.430239+00:00",
       "languagesToTry": [
         "tr",
         "fa",
