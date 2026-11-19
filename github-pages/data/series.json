@@ -1008,8 +1008,7 @@
           {
             "number": 9,
             "date": "2026-11-19",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -4533,8 +4532,7 @@
           {
             "number": 25,
             "date": "2026-11-19",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
@@ -6687,8 +6685,7 @@
           {
             "number": 22,
             "date": "2026-11-19",
-            "calendar": true,
-            "scheduled": true
+            "calendar": true
           }
         ]
       }
