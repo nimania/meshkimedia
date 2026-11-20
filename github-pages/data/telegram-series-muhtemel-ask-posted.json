@@ -235,7 +235,9 @@
     "pavaraghi:dubbed-27",
     "pavaraghi:dubbed-28",
     "editorial:dubbed-20:0",
-    "slot:2026-11-20:0"
+    "slot:2026-11-20:0",
+    "editorial:dubbed-21:0",
+    "slot:2026-11-20:1"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -331,7 +333,8 @@
     "bc2d2f009e792cf18e20c68c",
     "427d688eb082f4e740a44cc3",
     "da2b1142575c458ac8a99be7",
-    "f23ac2a304a1a25a4e1440c5"
+    "f23ac2a304a1a25a4e1440c5",
+    "4523f28cb23655386fe012c8"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-09",
@@ -363,14 +366,14 @@
     "episode:9": "2026-11-20",
     "episode:17": "2026-11-08",
     "poll:format": "2026-11-09",
-    "episode:10": "2026-11-17",
+    "episode:10": "2026-11-20",
     "poll:topic": "2026-11-12",
     "episode:11": "2026-11-13",
     "episode:12": "2026-11-15",
     "poll:emotion": "2026-11-16",
     "poll:character": "2026-11-19"
   },
-  "updated": "2026-11-20T13:02:32.749Z",
+  "updated": "2026-11-20T16:02:14.676Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
