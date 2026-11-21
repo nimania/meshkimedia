@@ -1,6 +1,123 @@
 {
- "updated": "2026-11-20T21:10:20.383Z",
+ "updated": "2026-11-21T02:21:15.655Z",
  "items": [
+  {
+   "id": "f1ad3af651d3",
+   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/en-iyi-10-hali-saha-hem-spor-hem-eglence-43385663",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "En iyi 10 halı saha: Hem spor hem eğlence",
+   "snippet": "Kimileri için haftanın stresini atmanın, kimileri için arkadaşlarıyla rekabete girmenin en keyifli yolu halı saha maçları. Ancak iyi bir maçın sırrı yalnızca sahadaki oyuncularla değil; zeminle, atmosferle ve sunulan olanaklarla da ilgili. Jürimizin oylarıyla İstanbul’dan Adana’ya, İzmir’den Bursa’ya futbolseverlerin favorisi 10 halı sahayı seçtik.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b00c5ab9a30875a04578360.jpg",
+   "video": null,
+   "published": "2026-11-20T22:12:13.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/en-iyi-10-hali-saha-hem-spor-hem-eglence-43385663",
+     "title": "En iyi 10 halı saha: Hem spor hem eğlence",
+     "snippet": "Kimileri için haftanın stresini atmanın, kimileri için arkadaşlarıyla rekabete girmenin en keyifli yolu halı saha maçları. Ancak iyi bir maçın sırrı yalnızca sahadaki oyuncularla değil; zeminle, atmosferle ve sunulan olanaklarla da ilgili. Jürimizin oylarıyla İstanbul’dan Adana’ya, İzmir’den Bursa’y",
+     "published": "2026-11-20T22:12:13.000Z"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b00c5ab9a30875a04578360.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b00c5ab9a30875a04578360.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "a902bc5407a6",
+   "url": "https://www.haberturk.com/magazin/foto/murat-unalmis-iyi-ki-dogdun-babam-3928921",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"İyi ki doğdun babam\"",
+   "snippet": "Oyuncu Murat Ünalmış, küçük oğlu Toprak'ın birinci yaş gününü sosyal medya hesabından yaptığı duygusal paylaşımla kutladı. Ünalmış, paylaşımına \"İyi ki doğdun babam. İlk yaş günün kutlu olsun\" notunu düştü",
+   "image": "https://im.haberturk.com/l/2026/11/21/ver1795212182/3928921/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-20T22:03:07.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "murat-unalmis"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/murat-unalmis-iyi-ki-dogdun-babam-3928921",
+     "title": "\"İyi ki doğdun babam\"",
+     "snippet": "Oyuncu Murat Ünalmış, küçük oğlu Toprak'ın birinci yaş gününü sosyal medya hesabından yaptığı duygusal paylaşımla kutladı. Ünalmış, paylaşımına \"İyi ki doğdun babam. İlk yaş günün kutlu olsun\" notunu düştü",
+     "published": "2026-11-20T22:03:07.000Z"
+    }
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "6e4ff93823bf",
+   "url": "https://www.haberturk.com/magazin/menekse-den-yeni-tanitim-3928925",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "'Menekşe'den yeni tanıtım",
+   "snippet": "SHOW TV'nin yeni günlük dizisi 'Menekşe'nin 30 Kasım Pazartesi günü yayınlanacak ilk bölümünün 2'nci tanıtımı yayınlandı",
+   "image": "https://im.haberturk.com/l/2026/11/21/ver1795210795/3928925/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-20T21:40:13.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/menekse-den-yeni-tanitim-3928925",
+     "title": "'Menekşe'den yeni tanıtım",
+     "snippet": "SHOW TV'nin yeni günlük dizisi 'Menekşe'nin 30 Kasım Pazartesi günü yayınlanacak ilk bölümünün 2'nci tanıtımı yayınlandı",
+     "published": "2026-11-20T21:40:13.000Z",
+     "titleFa": "تیزر جدید سریال «منکشه»"
+    }
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "zYs71wAZsWo"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "رونمایی از دومین تیزر سریال روزانه «منکشه»",
+   "summaryFa": "دومین تیزر از قسمت نخست سریال روزانه «منکشه» منتشر شد. این مجموعه از دوشنبه ۳۰ نوامبر روی آنتن شبکه شو تی‌وی می‌رود.",
+   "bodyFa": [
+    "دومین تیزر از نخستین قسمت سریال روزانه جدید «منکشه» (Menekşe) به تهیه‌کنندگی شرکت لیمون ساخت (Limon Yapım) منتشر شد. این سریال به زودی میهمان مخاطبان شبکه شو تی‌وی خواهد بود.",
+    "طبق برنامه‌ریزی اعلام‌شده، پخش سریال «منکشه» از روز دوشنبه ۳۰ نوامبر آغاز می‌شود و از آن پس، روزهای کاری هفته ساعت ۱۶:۳۰ از شبکه شو تی‌وی پخش خواهد شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "eb1e01f5e2de",
    "url": "https://www.milliyet.com.tr/magazin/galeri/seda-sayan-ucaktan-paylasti-cok-yorulduk-gidiyoruz-yarimle-7704802",
@@ -163,7 +280,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/eda-ece-ve-kizindan-yeni-paylasim-iste-mina-ipekin-son-hali-7704789",
      "title": "Eda Ece ve kızından yeni paylaşım! İşte Mina İpek'in son hali",
      "snippet": "Oyuncu Eda Ece ve eşi basketbolcu Buğrahan Tuncer'in mutlu evliliği devam ediyor. Ünlü isim, gözlerden uzak yetiştirdiği 2 yaşındaki kızı Mina İpek'in son halini Instagram'dan takipçileriyle paylaştı.",
-     "published": "2026-11-20T19:44:16.000Z"
+     "published": "2026-11-20T19:44:16.000Z",
+     "titleFa": "پست جدید ادا اجه و دخترش! این هم جدیدترین تصویر مینا ایپک"
     }
    ],
    "images": [
@@ -174,7 +292,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اشتراک‌گذاری تصویر جدیدی از دختر ادا اجه در اینستاگرام",
+   "summaryFa": "ادا اجه، بازیگر شناخته‌شده، تصویر جدیدی از دختر دو ساله‌اش مینا ایپک را در اینستاگرام به اشتراک گذاشت.",
+   "bodyFa": [
+    "زندگی مشترک ادا اجه، بازیگر سرشناس، و همسرش بوغراهان تونجر که بازیکن بسکتبال است، همچنان ادامه دارد. این زوج همواره تلاش کرده‌اند فرزند خود را به دور از حواشی و نگاه رسانه‌ها بزرگ کنند.",
+    "با این حال، ادا اجه به‌تازگی تصویر جدیدی از آخرین وضعیت دختر دو ساله‌اش، مینا ایپک، را در صفحه شخصی خود در اینستاگرام با دنبال‌کنندگانش به اشتراک گذاشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ba159702ed9a",
@@ -203,10 +329,19 @@
      "url": "https://www.haberturk.com/magazin/foto/eda-ece-kucuktu-buyudu-3928910",
      "title": "\"Küçüktü, büyüdü\"",
      "snippet": "Oyuncu Eda Ece, 2024 yılında doğan kızı Mina İpek ile çekilen yeni fotoğraflarını sosyal medya hesabından paylaştı. Ece, kızıyla birlikte verdiği pozlara \"Küçüktü, büyüdü\" notunu düştü",
-     "published": "2026-11-20T19:28:58.000Z"
+     "published": "2026-11-20T19:28:58.000Z",
+     "titleFa": "کوچک بود، بزرگ شد"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتشار تصاویر جدید ادا اجه همراه دخترش و توضیحات او درباره تغییر معیارهای بازیگری‌اش",
+   "summaryFa": "ادا اجه تصاویر جدیدی از خود و دخترش مینا ایپک منتشر کرد. او همچنین اعلام کرد که پس از ازدواج و مادر شدن، در انتخاب نقش‌ها و صحنه‌های بازیگری حساسیت بیشتری به خرج می‌دهد.",
+   "bodyFa": [
+    "ادا اجه، بازیگر مطرح ترکیه‌ای، عکس‌های جدیدی از خود به همراه دخترش مینا ایپک در شبکه‌های اجتماعی به اشتراک گذاشت و یادداشت «کوچک بود، بزرگ شد» را در کنار آن‌ها قرار داد. این بازیگر ۳۶ ساله در سال ۲۰۲۳ با بوراخان تونجر، بسکتبالیست تیم گالاتاسرای ازدواج کرد و این زوج در سال ۲۰۲۴ صاحب نخستین فرزند خود شدند.",
+    "ادا اجه همچنین درباره تغییر ترجیحات شغلی خود پس از ازدواج و تجربه مادری صحبت کرده است. به گفته او، وی پس از تشکیل خانواده در انتخاب نقش‌هایش دقت بیشتری می‌کند و ترجیح می‌دهد در صحنه‌های بوسه یا صحنه‌های باز بازی نکند و پوشش خود را نیز با حساسیت بیشتری انتخاب کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "822373bddd3b",
@@ -552,7 +687,8 @@
      "url": "https://www.sozcu.com.tr/necati-sasmaz-in-son-hali-saskinlik-yaratti-ali-koc-la-yan-yana-geldi-p383105",
      "title": "Necati Şaşmaz’ın son hali şaşkınlık yarattı: Ali Koç’la yan yana geldi",
      "snippet": "Bir döneme damga vuran Kurtlar Vadisi dizisinde canlandırdığı Polat Alemdar karakteriyle hafızalara kazınan oyuncu Necat...",
-     "published": "2026-11-20T16:13:10.000Z"
+     "published": "2026-11-20T16:13:10.000Z",
+     "titleFa": "ظاهر جدید نجاتی شاشماز باعث شگفتی شد: قرار گرفتن در کنار علی کوچ"
     }
    ],
    "images": [
@@ -563,7 +699,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/manisa-sulama-havuzu-3-yasindajpg-QASQApOY6U2Nkky9OHQ70g.jpg?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/03add77e19e8470ab7d261ac522c3132m24a5239jpeg-F0Fp-qt4BUq-5SeuGnC5AQ.jpeg?w=288&h=162&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "ظاهر جدید نجاتی شاشماز توجه‌ها را جلب کرد: حضور در کنار علی کوچ",
+   "summaryFa": "نجاتی شاشماز، بازیگر شخصیت پولات علمدار در سریال «آشیانه گرگ‌ها»، پس از مدت‌ها در انظار عمومی ظاهر شد. جدیدترین تصویر او در یک مراسم عروسی و در کنار علی کوچ توجه زیادی را جلب کرده است.",
+   "bodyFa": [
+    "نجاتی شاشماز، بازیگری که با بازی در نقش شخصیت «پولات علمدار» در سریال «آشیانه گرگ‌ها» (Kurtlar Vadisi) شناخته می‌شود، پس از مدت‌ها دوری از انظار عمومی دیده شد.",
+    "او در مراسم عقد دختر یوسف تکین، وزیر آموزش ملی ترکیه حضور یافت. انتشار تصاویر جدید این بازیگر در این مراسم و قرار گرفتن او در کنار علی کوچ، توجه‌ها را به آخرین وضعیت و ظاهر وی جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "54410578555b",
@@ -590,7 +734,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/can-aslantug-26-yasinda-arzum-onandan-ogluna-duygusal-sozler-bugun-anne-oldugum-yastasin-7704664",
      "title": "Can Aslantuğ 26 yaşında! Arzum Onan'dan oğluna duygusal sözler: Bugün anne olduğum yaştasın",
      "snippet": "Mehmet Aslantuğ ve Arzum Onan çiftinin oğlu Can Aslantuğ, 26 yaşına girdi. Güzel oyuncu, sosyal medyadan paylaştığı duygu yüklü doğum günü mesajına ''Bugün anne olduğum yaştasın, iyi ki doğdun canım oğlum'' notunu düştü.",
-     "published": "2026-11-20T15:50:48.000Z"
+     "published": "2026-11-20T15:50:48.000Z",
+     "titleFa": "جان آسلانتوع ۲۶ ساله شد! سخنان احساسی آرزو اونان برای پسرش: امروز در سنی هستی که من مادر شدم"
     }
    ],
    "images": [
@@ -601,7 +746,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تبریک تولد احساسی آرزو اونان به پسرش جان",
+   "summaryFa": "جان، پسر مهمت آسلانتوع و آرزو اونان، وارد ۲۶ سالگی شد. آرزو اونان با انتشار پیامی در شبکه‌های اجتماعی این روز را به پسرش تبریک گفت.",
+   "bodyFa": [
+    "جان آسلانتوع، فرزند مشترک مهمت آسلانتوع و آرزو اونan، به سن ۲۶ سالگی رسید. این رویداد با پیام تبریک محبت‌آمیز مادرش همراه شد.",
+    "آرزو اونان، بازیگر شناخته‌شده، در پیامی احساسی در فضای مجازی خطاب به فرزندش نوشت که او اکنون به سن مادر شدن خودش در زمان تولد او رسیده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ccb546515b1e",
@@ -843,7 +996,7 @@
    "video": null,
    "published": "2026-11-20T13:04:27.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -856,7 +1009,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/eski-albumleri-acti-iste-engin-altan-duzyatanin-genclik-halleri-eski-guzel-gunler-7704599",
      "title": "Eski albümleri açtı! İşte Engin Altan Düzyatan'ın gençlik halleri: Eski güzel günler",
      "snippet": "Engin Altan Düzyatan, sosyal medya hesabından gençlik yıllarına ait fotoğraflarını paylaştı.",
-     "published": "2026-11-20T13:04:27.000Z"
+     "published": "2026-11-20T13:04:27.000Z",
+     "titleFa": "آلبوم‌های قدیمی را باز کرد! این هم تصاویر جوانی انگین آلتان دوزیاتان: روزهای خوب گذشته"
     }
    ],
    "images": [
@@ -867,7 +1021,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتشار تصاویر جوانی انگین آلтан دوزیاتان در فضای مجازی",
+   "summaryFa": "انگین آلتان دوزیاتان تصاویری از دوران جوانی خود را در حساب کاربری‌اش در شبکه اجتماعی منتشر کرد.",
+   "bodyFa": [
+    "انگین آلتان دوزیاتان، بازیگر شناخته شده، اخیراً تصاویری مربوط به دوران جوانی خود را در حساب شبکه اجتماعی‌اش با مخاطبان به اشتراک گذاشته است.",
+    "این اقدام او در فضای مجازی بازتاب داشته و نگاه طرفداران را به عکس‌های قدیمی این بازیگر جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "2a2a32e70644",
@@ -987,7 +1149,8 @@
      "url": "https://www.haberturk.com/magazin/yapimci-faruk-turgut-tan-dizi-sektorune-butce-elestirisi-3928820",
      "title": "Dizi sektörüne 'bütçe' eleştirisi",
      "snippet": "SHOW TV'nin reyting rekortmeni dizisi 'Kızılcık Şerbeti'nin yapımcısı Faruk Turgut, dizi sektöründeki yüksek başrol ücretlerini ve bunun prodüksiyon bütçelerine etkisi hakkında konuştu. Turgut, sektördeki ücret politikasının arz-talep dengesi üzerinden şekillendiğine dikkat çekti",
-     "published": "2026-11-20T12:32:45.000Z"
+     "published": "2026-11-20T12:32:45.000Z",
+     "titleFa": "انتقاد از «بودجه» در صنعت سریال‌سازی"
     }
    ],
    "videos": [
@@ -998,7 +1161,14 @@
    ],
    "mediaDone": true,
    "ai": true,
-   "aiTries": 1
+   "aiTries": 2,
+   "titleFa": "انتقاد تهیه‌کننده سریال شربت زغال‌اخته از دستمزدهای هنگفت بازیگران",
+   "summaryFa": "فاروق تورگوت، تهیه‌کننده سریال «شربت زغال‌اخته»، از دستمزدهای بالای بازیگران نقش اول و تأثیر آن بر بودجه پروژه‌ها انتقاد کرد. او علت اصلی این مسئله را تقاضای شبکه‌های تلویزیونی برای حضور بازیگران خاص دانست.",
+   "bodyFa": [
+    "فاروق تورگوت، تهیه‌کننده سریال «شربت زغال‌اخته»، در یک برنامه تلویزیونی به بررسی دستمزدهای بالای بازیگران نقش اول و تأثیر مستقیم آن بر بودجه ساخت سریال‌ها پرداخت. او توضیح داد که تعیین دستمزدها در این صنعت بر پایه نظام عرضه و تقاضا انجام می‌شود.",
+    "به گفته تورگوت، شبکه‌های تلویزیونی شرط تأیید برخی پروژه‌ها را حضور بازیگران مشخصی قرار می‌دهند. بازیگران نیز با آگاهی از اینکه شبکه خواستار حضور آن‌هاست، بالاترین ارقام ممکن را پیشنهاد می‌دهند. وی با تأکید بر اینکه کسی را سرزنش نمی‌کند، اشاره کرد که این روند برآمده از خواست شبکه و پذیرش آن است.",
+    "این تهیه‌کننده همچنین یادآور شد که هزینه‌های جانبی مانند حق‌الزحمه مدیران برنامه و مالیات تکلیفی، بار مالی سنگینی بر دوش تهیه‌کننده می‌گذارد. او تصریح کرد که شخصاً حاضر به پرداخت چنین مبالغ سنگینی برای یک بازیگر نیست، چرا که اختصاص سهم ناهمگون از بودجه کل به یک شخص، بر تمام ابعاد پروژه تأثیر می‌گذارد."
+   ]
   },
   {
    "id": "988234bd2b71",
@@ -1203,38 +1373,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/keyif/50den-fazla-milletten-25-bin-kisinin-yasadigi-sehrin-hedefi-surdurulebilir-turizm-43385030",
      "title": "50'den fazla milletten 25 bin kişinin yaşadığı şehrin hedefi sürdürülebilir turizm",
      "snippet": "Mısır denildiğinde akla ilk gelen görüntüler arasında Gize Piramitleri, Nil Nehri ve Kahire'nin tarihî zenginlikleri bulunuyor. Ancak ülke, binlerce yıllık kültürel mirasının yanında Kızıldeniz kıyılarındaki modern turizm merkezleri, su sporları, gastronomi, sanat etkinlikleri ve farklı yaşam biçiml",
-     "published": "2026-11-20T11:05:32.000Z"
+     "published": "2026-11-20T11:05:32.000Z",
+     "titleFa": "هدف شهر با ۲۵ هزار نفر جمعیت از بیش از ۵۰ ملت، گردشگری پایدار است"
     }
-   ]
-  },
-  {
-   "id": "70934e21f235",
-   "url": "https://www.sabah.com.tr/magazin/x-men-ve-star-trekin-yildizi-patrick-stewartin-olum-nedeni-belli-oldu-7705821",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "X-Men ve Star Trek'in yıldızı Patrick Stewart'ın ölüm nedeni belli oldu!",
-   "snippet": "Sinema, televizyon ve tiyatro sahnesinde unutulmaz rollere imza atan, özellikle \"Star Trek\" ve \"X-Men\" serileriyle hafızalara kazınan Emmy ve Altın Küre ödüllü İngiliz oyuncu Patrick Stewart, 28 Ekim'de... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/d46d78/1200/675/0/0/752/422?u=https://isbh.tmgrup.com.tr/sbh/2026/11/20/x-men-ve-star-trekin-yildizi-patrick-stewartin-olum-nedeni-belli-oldu-1795169877733.jpeg",
-   "video": null,
-   "published": "2026-11-20T10:20:36.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/x-men-ve-star-trekin-yildizi-patrick-stewartin-olum-nedeni-belli-oldu-7705821",
-     "title": "X-Men ve Star Trek'in yıldızı Patrick Stewart'ın ölüm nedeni belli oldu!",
-     "snippet": "Sinema, televizyon ve tiyatro sahnesinde unutulmaz rollere imza atan, özellikle \"Star Trek\" ve \"X-Men\" serileriyle hafızalara kazınan Emmy ve Altın Küre ödüllü İngiliz oyuncu Patrick Stewart, 28 Ekim'de... Devamı için tıklayınız",
-     "published": "2026-11-20T10:20:36.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b002941925c456bddefb2fd.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b002941925c456bddefb2fd.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "هدف گردشگری پایدار در شهری با بیش از ۲۵ هزار نفر از ۵۰ ملیت",
+   "summaryFa": "کشور مصر علاوه بر آثار باستانی مانند اهرام گیزه و رود نیل، بر مراکز گردشگری مدرن و فعالیت‌های مختلف نیز تأکید دارد.",
+   "bodyFa": [
+    "وقتی سخن از کشور مصر به میان می‌آید، معمولاً تصاویری چون اهرام ثلاثه، رود نیل و جاذبه‌های تاریخی قاهره در ذهن شکل می‌گیرد.",
+    "با این حال، این کشور در کنار میراث چند هزار ساله خود، بر جاذبه‌های دیگری مانند مراکز گردشگری مدرن در سواحل دریای سرخ، ورزش‌های آبی، گردشگری غذایی، رویدادهای هنری و سبک‌های زندگی گوناگون نیز تمرکز دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a7418f78bcb7",
@@ -1319,9 +1478,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/evlilik-de-bebek-de-50sinden-sonra-geldi-43384867",
      "title": "Evlilik de bebek de 50'sinden sonra geldi... Ünlü oyuncunun 17 yaş genç karısı ona bir erkek evlât verdi",
      "snippet": "Rol aldığı Mad Men dizisiyle tanınan Jon Hamm, hayatında aradığı huzuru da mutluluğu da 50 yaşından sonra buldu.",
-     "published": "2026-11-20T09:35:40.000Z"
+     "published": "2026-11-20T09:35:40.000Z",
+     "titleFa": "ازدواج و بچه‌دار شدن پس از ۵۰ سالگی... همسر ۱۷ سال جوان‌تر بازیگر معروف برای او یک فرزند پسر به دنیا آورد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b00100d8c01a1364d06a737.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b00100d8c01a1364d06a737.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "بازیگر سریال مد من در ۵۰ سالگی پدر شد",
+   "summaryFa": "جان هم، بازیگر شناخته‌شده سریال مد من، در سن بالای پنجاه سالگی صاحب یک فرزند پسر شد.",
+   "bodyFa": [
+    "جان هم، بازیگر مشهوری که با ایفای نقش در سریال «مد من» به شهرت رسید، زندگی شخصی و آرامش خود را پس از سن پنجاه سالگی پیدا کرده است.",
+    "بر اساس گزارش‌ها، همسر جوان‌تر او که ۱۷ سال با این بازیگر اختلاف سنی دارد، یک فرزند پسر به او هدیه داده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "65d0cd037270",
@@ -1348,9 +1525,19 @@
      "url": "https://www.haberturk.com/magazin/foto/birce-akalay-eminonu-nu-cok-seviyorum-3928752",
      "title": "Eminönü yolcusu",
      "snippet": "Ünlü oyuncu Birce Akalay, önceki gün Bebek’te objektiflere takıldı. Eminönü vapuruna binerken görüntülenen Akalay, Tarihi Yarımada'ya duyduğu sevgiyi dile getirdi",
-     "published": "2026-11-20T09:05:09.000Z"
+     "published": "2026-11-20T09:05:09.000Z",
+     "titleFa": "مسافر امین‌ئونو"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "دیدار با بیرجه آکالای در اسکله ببک و صحبت‌های کوتاه او درباره سفرش به امین‌ئونو",
+   "summaryFa": "بیرجه آکالای هنگام سوار شدن به کشتی در اسکله ببک دیده شد و از علاقه‌اش به مناطق تاریخی استانبول گفت. او همچنین اعلام کرد که حال او و هاکان کورتاش بسیار خوب است.",
+   "bodyFa": [
+    "بیرجه آکالای، بازیگر شناخته‌شده، در اسکله ببک استانبول مشاهده شد. این بازیگر که برای رفتن به امین‌ئونو سوار کشتی می‌شد، بر علاقه زیاد خود به مناطق تاریخی استانبول تاکید کرد. او اظهار داشت که علاقه زیادی به امین‌ئونو و سیرکچی دارد و چون مدتی بود به آنجا نرفته بود، تصمیم گرفته برای گردش به این محله‌ها برود.",
+    "آکالای برای اینکه از کشتی جا نماند، صحبت‌های خود با خبرنگاران را کوتاه نگه داشت. او همچنین در پاسخ به سوالاتی درباره دوست‌پسرش، هاکان کورتاش، اعلام کرد که حال هر دوی آن‌ها بسیار خوب است و اوضاع کاملاً بر وفق مرادشان می‌گذرد. این بازیگر پس از این گفت‌وگوی کوتاه، وارد اسکله شد و به سمت امین‌ئونو حرکت کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0ee9a758045d",
@@ -1379,7 +1566,16 @@
      "snippet": "HABER MERKEZİ - Tüm dünyanın merakla beklediği GTA 6, 19 Kasım'da oyunseverlerle buluştu. Dünya genelinde büyük heyecan yaratan oyun, sosyal medyanın da en çok konuşulan konuları arasına girdi. GTA çılgınlığı magazin dünyasına da taşındı. Ünlü oyuncu Pelin Akil, eski eşi Anıl Altan'ın ikiz kızları A",
      "published": "2026-11-20T08:21:26.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0002b1c00aca18cb4aebc9.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0002b1c00aca18cb4aebc9.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "ab46dc884a80",
@@ -1455,38 +1651,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/turk-seyircisini-aglatmak-zor-43384680",
      "title": "Türk seyircisini ağlatmak zor",
      "snippet": "Özcan Deniz ve Öykü Karayel’i başrollerinde buluşturan, Net Yapım yapımcılığında hayata geçirilen “Son Yemek” filminin galası önceki akşam İstinyePark ParibuCineverse’de yapıldı.",
-     "published": "2026-11-20T08:01:00.000Z"
+     "published": "2026-11-20T08:01:00.000Z",
+     "titleFa": "گریاندن تماشاگران ترک سخت است"
     }
-   ]
-  },
-  {
-   "id": "5b9645eaedfc",
-   "url": "https://www.haberturk.com/magazin/star-trek-ve-x-men-in-yildizi-patrick-stewart-in-olum-nedeni-aciklandi-3928711",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Ölüm nedeni açıklandı",
-   "snippet": "Sinema, televizyon ve tiyatro sahnesinde unutulmaz rollere imza atan, en çok da 'Star Trek' serisiyle hafızalara kazınan efsane oyuncu Patrick Stewart, geçtiğimiz ay 86 yaşında hayata veda etmişti. Stewart'ın ölüm belgesindeki detaylar ortaya çıktı",
-   "image": "https://im.haberturk.com/l/2026/11/20/ver1795161132/3928711/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-20T07:56:30.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/star-trek-ve-x-men-in-yildizi-patrick-stewart-in-olum-nedeni-aciklandi-3928711",
-     "title": "Ölüm nedeni açıklandı",
-     "snippet": "Sinema, televizyon ve tiyatro sahnesinde unutulmaz rollere imza atan, en çok da 'Star Trek' serisiyle hafızalara kazınan efsane oyuncu Patrick Stewart, geçtiğimiz ay 86 yaşında hayata veda etmişti. Stewart'ın ölüm belgesindeki detaylar ortaya çıktı",
-     "published": "2026-11-20T07:56:30.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6afffb50c757abf6569387ab.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6afffb50c757abf6569387ab.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "برگزاری مراسم افتتاحیه فیلم «Son Yemek» با بازی اوزجان دنیز و اویکو کارایل",
+   "summaryFa": "مراسم افتتاحیه فیلم سینمایی «Son Yemek» به تهیه‌کنندگی نت یاپیم برگزار شد. اوزجان دنیز و اویکو کارایل نقش‌های اصلی این فیلم را بر عهده دارند.",
+   "bodyFa": [
+    "مراسم افتتاحیه فیلم سینمایی «Son Yemek» به تهیه‌کنندگی شرکت «نت یاپیم» در سینما پاریبو سینورس واقع در مرکز خرید استینیه‌پارک برگزار گردید. اوزجان دنیز و اویکو کارایل بازیگران نقش‌های اصلی این اثر سینمایی هستند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b3137671d3dc",
@@ -1513,9 +1697,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/nikahta-ortaya-cikti-necati-sasmazin-son-hali-dikkat-cekti-7704328",
      "title": "Nikahta ortaya çıktı! Necati Şaşmaz'ın son hali dikkat çekti",
      "snippet": "“Kurtlar Vadisi” dizisindeki Polat Alemdar karakteriyle tanınan Necati Şaşmaz, uzun bir aradan sonra Millî Eğitim Bakanı Yusuf Tekin'in kızının nikah töreninde görüntülendi. Ali Koç ve Eyüp Yıldız'la aynı karede yer alan oyuncunun son hali dikkat çekti.",
-     "published": "2026-11-20T07:48:50.000Z"
+     "published": "2026-11-20T07:48:50.000Z",
+     "titleFa": "در مراسم عروسی مشخص شد! ظاهر جدید نجاتی شاشماز توجه‌ها را جلب کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6afffb14c00aca18cb4aeb57.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6afffb14c00aca18cb4aeb57.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "ظاهر جدید نجاتی شاشماز در مراسم ازدواج مشخص شد",
+   "summaryFa": "نجاتی شاشماز، بازیگر نقش پولاد علم‌دار در سریال وادی گرگ‌ها، پس از مدت‌ها دوری در مراسم ازدواج دختر وزیر آموزش ملی دیده شد. حضور او در کنار چهره‌هایی چون علی کوچ و ایوب ییلدیز توجه‌ها را به خود جلب کرد.",
+   "bodyFa": [
+    "نجاتی شاشماز، بازیگر شناخته‌شده‌ای که با ایفای نقش پولاد علم‌دار در مجموعه تلویزیونی «وادی گرگ‌ها» به شهرت رسید، پس از مدت‌ها غیبت در انظار عمومی، در مراسم عروسی دختر یوسف تکین، وزیر آموزش ملی ترکیه، شرکت کرد.",
+    "تصاویر منتشر شده از این مراسم نشان می‌دهد که او در کنار چهره‌هایی مانند علی کوچ و ایوب ییلدیز قرار گرفته است. ظاهر جدید این بازیگر در این تصاویر مورد توجه رسانه‌ها و مخاطبان قرار گرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f1640c77da05",
@@ -1542,9 +1744,27 @@
      "url": "https://www.sozcu.com.tr/500-bin-tl-lik-teklifi-reddetti-100-bin-tl-yi-bile-kazanamadi-p382982",
      "title": "500 bin TL'lik teklifi reddetti, 100 bin TL'yi bile kazanamadı",
      "snippet": "Esra Erol'un sunduğu Var Mısın Yok Musun'da yarışan Ömer Çakır, büyük ödül hayaliyle bankanın yarım milyon liralık tekli...",
-     "published": "2026-11-20T07:33:09.000Z"
+     "published": "2026-11-20T07:33:09.000Z",
+     "titleFa": "او پیشنهاد ۵۰۰ هزار لیره‌ای را رد کرد، حتی نتوانست ۱۰۰ هزار لیر به دست آورد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/varmisinyokmusunkazanilanoduljpg-wU7-tBNSPkCW3PKxfB-Vuw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/varmisinyokmusunkazanilanoduljpg-wU7-tBNSPkCW3PKxfB-Vuw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kadikoyjpg-1kIfwO9Q6kutw055aI5RPA.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/vbnvbvbpng-RaNR3Mtae0aUomZ7FHezFA.PNG?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/trumptan-abdli-sirketlere-gozdagi-ihlal-edene-agir-vergi-getiriyorpng-NU0XB7-ziU_UR0BDz8ViFw.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "رد پیشنهاد ۵۰۰ هزار لیره‌ای در مسابقه «Var Mısın Yok Musun»",
+   "summaryFa": "عمر چاکر در مسابقه تلویزیونی پیشنهاد پانصد هزار لیره‌ای بانک را رد کرد، اما در نهایت نتવانست به مبلغ دلخواه خود دست یابد.",
+   "bodyFa": [
+    "در مسابقه تلویزیونی «Var Mısın Yok Musun» با اجرای اسرا ارول، شرکت‌کننده‌ای به نام عمر چاکر با امید دستیابی به جایزه بزرگ، پیشنهاد پانصد هزار لیره‌ای بانک را رد کرد.",
+    "با این حال، با پیش رفتن روند مسابقه و باز شدن جعبه‌ها، شانس با او یار نبود و او در پایان نتوانست به میزان سود مورد انتظار خود حتی به مبلغ صد هزار لیر دست پیدا کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "749758fec8cb",
@@ -1571,9 +1791,28 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/tek-bir-paylasimindan-yuz-binlerce-dolar-kazaniyor-unlu-influencer-milyarderlik-yolunda-43384520",
      "title": "Tek bir paylaşımından yüz binlerce dolar kazanıyor… Ünlü influencer milyarderlik yolunda",
      "snippet": "Son zamanlarda her yerde o var, ismi eğlence dünyasının en ünlü isimleriyle yan yana yazılıyor, kendine büyük yıldızları arasından yeni arkadaşlar buluyor, önemli davetlerin, kırmızı halıların en göz alıcı isimlerinden biri olmayı başarıyor.",
-     "published": "2026-11-20T07:32:07.000Z"
+     "published": "2026-11-20T07:32:07.000Z",
+     "titleFa": "Tek bir paylaşımından yüz binlerce dolar kazanıyor… Ünlü influencer milyarderlik yolunda"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6affdf83925c456bddefb08b.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6affdf83925c456bddefb08b.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "درآمد صدها هزار دلاری یک اینفلوئنسر مشهور از هر پست",
+   "summaryFa": "یک اینفلوئنسر مشهور با فعالیت‌های اخیر خود در حال نزدیک شدن به وضعیت میلیاردی است و درآمد قابل توجهی از انتشار هر پست کسب می‌کند.",
+   "bodyFa": [
+    "در روزهای اخیر نام یک اینفلوئنسر معروف در صدر اخبار دنیای سرگرمی قرار گرفته و نام او در کنار چهره‌های سرشناس به چشم می‌خورد.",
+    "بر اساس گزارش‌ها، این شخص توانسته است دوستان جدیدی از میان ستاره‌های بزرگ پیدا کند و به یکی از چهره‌های جذاب در مهمانی‌ها و فرش قرمزهای مهم تبدیل شود.",
+    "همچنین ادعا می‌شود که این چهره مشهور از طریق تنها یک پست در شبکه‌های اجتماعی، صدها هزار دلار درآمد کسب می‌کند و در مسیر تبدیل شدن به یک فرد میلیاردر قرار دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ae19a17873f1",
@@ -1625,55 +1864,6 @@
    "aiTries": 1
   },
   {
-   "id": "fef76f780890",
-   "url": "https://www.sozcu.com.tr/43-yasindaki-unlu-oyuncu-merdiven-boslugunda-olu-bulundu-p382964",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "43 yaşındaki ünlü oyuncu merdiven boşluğunda ölü bulundu",
-   "snippet": "Amerikan Beyzbol Ligi (MLB) ekiplerinden Chicago White Sox ve New York Mets formaları giyen, spor kariyerinin ardından i...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/asdasdsdsdsdpng-X8ib9i1Ia0a0f9uJjWot8w.PNG",
-   "video": null,
-   "published": "2026-11-20T06:42:37.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/43-yasindaki-unlu-oyuncu-merdiven-boslugunda-olu-bulundu-p382964",
-     "title": "43 yaşındaki ünlü oyuncu merdiven boşluğunda ölü bulundu",
-     "snippet": "Amerikan Beyzbol Ligi (MLB) ekiplerinden Chicago White Sox ve New York Mets formaları giyen, spor kariyerinin ardından i...",
-     "published": "2026-11-20T06:42:37.000Z"
-    },
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/43-yasindaki-unlu-oyuncu-lance-broadway-merdiven-boslugunda-olu-bulundu-7705729",
-     "title": "43 yaşındaki ünlü oyuncu Lance Broadway merdiven boşluğunda ölü bulundu!",
-     "snippet": "\"Olympus Has Fallen\" ve Marvel'ın sevilen dizisi \"Agents of S.H.I.E.L.D.\" gibi yapımlarda rol alan 43 yaşındaki ABD'li oyuncu ve eski profesyonel beyzbolcu Lance Broadway, Teksas eyaletinin Dallas kentinde... Devamı için tıklayınız",
-     "published": "2026-11-20T07:22:04.000Z"
-    },
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/43-yasindaydi-oyuncu-lance-broadway-merdiven-boslugunda-olu-bulundu-7704550",
-     "title": "43 yaşındaydı! Oyuncu Lance Broadway merdiven boşluğunda ölü bulundu",
-     "snippet": "HABER MERKEZİ - Hollywood dünyasından üzücü haber geldi. “Agents of S.H.I.E.L.D.” ve “Lucifer” gibi yapımlarda rol alan eski beyzbolcu ve oyuncu Lance Broadway, 43 yaşında hayatını kaybetti. Teksas'taki bir apartmanın merdiven boşluğunda ölü bulunan Broadway'in ölüm nedeni henüz belirlenemedi. MERDİ",
-     "published": "2026-11-20T11:34:32.000Z"
-    }
-   ],
-   "mergedIds": [
-    "05df16bb5269",
-    "934304cd8429"
-   ]
-  },
-  {
    "id": "1bc487841295",
    "url": "https://www.hurriyet.com.tr/kelebek/stil/yasadiklarimi-asla-unutmam-43384562",
    "source": "hurriyet-kelebek",
@@ -1685,7 +1875,7 @@
    "video": null,
    "published": "2026-11-20T06:30:55.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1698,9 +1888,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/yasadiklarimi-asla-unutmam-43384562",
      "title": "Yaşadıklarımı asla unutmam",
      "snippet": "Ersay Üner önceki gün Rumeli Hisarı’nda görüntülendi. Haftanın 3-4 günü stüdyoda olduğunu belirten Üner, şarkılarını yazarak içindeki dertleri azalttığını söyledi.",
-     "published": "2026-11-20T06:30:55.000Z"
+     "published": "2026-11-20T06:30:55.000Z",
+     "titleFa": "آنچه تجربه کرده‌ام را هرگز فراموش نمی‌کنم"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6affe915c757abf656938792.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6affe915c757abf656938792.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "ارصای اۆنَر در روملی حصار دیده شد",
+   "summaryFa": "ارصای اۆنَر اخیراً در روملی حصار دیده شد و اعلام کرد که با نوشتن ترانه‌هایش غصه‌های درونش را کم می‌کند.",
+   "bodyFa": [
+    "ارصای اۆنَر روز گذشته در منطقه روملی حصار دیده شد. او در صحبت‌های خود اشاره کرد که هفته‌ای سه الی چهار روز را در استودیو می‌گذراند.",
+    "او همچنین بیان کرد که با نوشتن آهنگ‌هایش، بارهای سنگین و غصه‌های درونی خود را کاهش می‌دهد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "14c6a2fee8b2",
@@ -1816,9 +2024,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/setten-sete-kosarken-canlari-cikti-ama-karsiligini-da-aldilar-unlu-cift-milyonlari-tak-diye-nakit-saydi-yeni-evin-43382704",
      "title": "Setten sete koşarken canları çıktı ama karşılığını da aldılar... Ünlü çift, milyonları 'tak diye' nakit saydı, yeni evin tapusunu aldı",
      "snippet": "Bu dünyada yapılan her iş belli bir emek gerektirir... Ne olursa olsun, en basitinden en zoruna kadar hiçbir iş, bazen zorluklara katlanmadan, bazen uykusuz kalmadan, bazen de sıkıntı yaşamadan yapılmaz.",
-     "published": "2026-11-20T05:54:28.000Z"
+     "published": "2026-11-20T05:54:28.000Z",
+     "titleFa": "از این ست به آن ست دویدند اما نتیجه اش را هم گرفتند... زوج معروف، میلیون ها تومان پول نقد را 'تاک' شمارش کردند و سند خانه جدید را گرفتند"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6afef9f08c01a1364d06a19d.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6afef9f08c01a1364d06a19d.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "خرید خانه جدید توسط زوج معروف با پرداخت نقدی",
+   "summaryFa": "یک زوج مشهور با تلاش فراوان در صحنه‌های فیلم‌برداری، توانستند خانه جدیدی خریداری کنند و سند آن را به صورت نقدی دریافت نمایند.",
+   "bodyFa": [
+    "بر اساس گزارش‌های منتشر شده، هر کاری در این دنیا نیازمند زحمت و تلاش است و انجام کارها گاهی با سختی، بی‌خوابی و مشکلات همراه است.",
+    "این زوج مشهور پس از تلاش‌های فراوان و جابجایی بین پروژه‌های مختلف، در نهایت مزد زحمات خود را گرفتند و توانستند هزینه خانه جدید خود را به صورت نقدی پرداخت کرده و سند آن را به نام خود بزنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ad339c0bbc2c",
@@ -1925,7 +2151,7 @@
    "video": null,
    "published": "2026-11-20T05:34:34.000Z",
    "scope": "linked",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [
@@ -1940,7 +2166,8 @@
      "url": "https://www.sozcu.com.tr/gonca-vuslateri-den-sasirtan-itiraf-rezil-olduk-baba-meger-boyle-cikmis-p382914",
      "title": "Gonca Vuslateri'den şaşırtan itiraf: \"Rezil olduk baba\" meğer böyle çıkmış",
      "snippet": "Gonca Vuslateri'nin Leyla: Hayat… Aşk… Adalet… dizisinde hafızalara kazınan \"Rezil olduk baba\" repliğinin ardındaki gerç...",
-     "published": "2026-11-20T05:34:34.000Z"
+     "published": "2026-11-20T05:34:34.000Z",
+     "titleFa": "اعتراف تعجب‌آور از گونجا ووسلاتری: معلوم شد «آبرومان رفت بابا» چطور شکل گرفته است"
     }
    ],
    "images": [
@@ -1951,7 +2178,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/lodospng-0WozZttZpkuBt68-z8PHnA.png?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/trumptan-abdli-sirketlere-gozdagi-ihlal-edene-agir-vergi-getiriyorpng-NU0XB7-ziU_UR0BDz8ViFw.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اعتراف تعجب‌آور گونجا ووسلاتری درباره دیالوگ معروف «آبرومان رفت بابا»",
+   "summaryFa": "گونجا ووسلاتری فاش کرد که دیالوگ به‌یادماندنی او در سریال «لیلا: زندگی، عشق، عدالت» در واقع نتیجه یک فراموشی بوده است. این صحنه که در شبکه‌های اجتماعی وایرال شده بود، داستان جالب‌توجهی پشت خود دارد.",
+   "bodyFa": [
+    "حقیقت پشت یکی از پرمخاطب‌ترین و به‌یادماندنی‌ترین دیالوگ‌های سریال «لیلا: زندگی، عشق، عدالت» آشکار شد. گونجا ووسلاتری، بازیگر مشهور، در این باره توضیحاتی ارائه داد که برای طرفداران این مجموعه تلویزیونی جالب توجه بود.",
+    "بر اساس اطلاعات منتشرشده، این بازیگر اعلام کرد که صحنه معروف و وایرال‌شده «آبرومان رفت بابا» در فضای مجازی، در اصل برنامه‌ریزی‌شده نبوده بلکه بر اثر فراموشی رخ داده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a382622c599d",
@@ -1978,9 +2213,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/laroussi-turkiyede-kalici-bir-kariyer-insa-etmek-istiyorum-43384508",
      "title": "Laroussi: Türkiye’de kalıcı bir kariyer inşa etmek istiyorum",
      "snippet": "Fas asıllı Hollandalı pop ve R&B şarkıcısı Laroussi, müzik kariyerinde yeni bir sayfa açtı, İstanbul merkezli projeler ve konser çalışmaları yürütmek üzere Türkiye’ye geldi. Kültürler arası bir köprü oluşturmayı amaçladığını söyleyen şarkıcıyla Türkiye’ye olan sevgisini ve müzik çalışmalarını konuşt",
-     "published": "2026-11-20T05:31:44.000Z"
+     "published": "2026-11-20T05:31:44.000Z",
+     "titleFa": "لاروسی: می‌خواهم یک حرفه پایدار در ترکیه بسازم"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6affdb1fc757abf656938718.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6affdb1fc757abf656938718.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "لاروسی: می‌خواهم یک حرفه پایدار در ترکیه بسازم",
+   "summaryFa": "لاروسی، خواننده پاپ و آر اند بی مراکشی‌تبار هلندی، برای پروژه‌ها و کنسرت‌های مبتنی بر استانبول به ترکیه آمده است. او قصد دارد پلی فرهنگی ایجاد کند و درباره علاقه خود به ترکیه و کارهای موسیقی‌اش صحبت کرده است.",
+   "bodyFa": [
+    "لاروسی، خواننده پاپ و آر اند بی مراکشی‌تبار هلندی، با آغاز فصل جدیدی در مسیر حرفه‌ای خود، راهی ترکیه شده است تا فعالیت‌های خود را متمرکز بر پروژه‌ها و برنامه‌های کنسرت در استانبول پیش ببرد.",
+    "این هنرمند اعلام کرده است که هدفش ایجاد یک پل ارتباطی میان فرهنگ‌های مختلف است و اخیراً درباره علاقه عمیق خود به ترکیه و همچنین فعالیت‌های موسیقایی‌اش به گفتگو پرداخته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ff6abe24b729",
@@ -2109,9 +2362,20 @@
      "url": "https://www.haberturk.com/magazin/ersay-uner-yasadigim-hicbir-seyi-unutmadim-3928632",
      "title": "\"Yaşadığım hiçbir şeyi unutmadım\"",
      "snippet": "Şarkı yazarak yaşadığı dertleri hafiflettiğini söyleyen şarkıcı Ersay Üner, geçmişte yaşadığı kırgınlıkları unutmadığını ancak zamanla kabullendiğini dile getirdi. Üner, \"Unutmuyoruz, alışıyoruz\" ifadelerini kullandı",
-     "published": "2026-11-20T04:42:42.000Z"
+     "published": "2026-11-20T04:42:42.000Z",
+     "titleFa": "«یاشادیغیم هیچ‌بیری اونوتمادیم»"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "گفته‌های ارسای اۆنر درباره فعالیت‌های موسیقی و تجربیات گذشته‌اش",
+   "summaryFa": "ارسای اۆنر در مصاحبه‌ای جدید درباره کارهای موسیقی خود و نحوه کنار آمدن با دلخوری‌های گذشته صحبت کرد. این هنرمند اشاره کرد که دردها و مشکلاتش را با ترانه‌سرایی سبک‌تر می‌کند.",
+   "bodyFa": [
+    "ارسای اۆنر، خواننده، در روملی حصار دیده شد و درباره فعالیت‌های جاری خود اطلاع‌رسانی کرد. او گفت که سه یا چهار روز از هفته را در استودیو می‌گذراند و آخر هفته‌ها در چارچوب تور آناتولی روی صحنه می‌رود.",
+    "او همچنین درباره داستان شکل‌گیری ترانه جدیدش توضیح داد که این قطعه با پیانو و ویولن و به شکلی ساده تولید شده است. اۆنر بیان کرد که با نوشتن آهنگ، مشکلات درونی‌اش را سبک می‌کند.",
+    "این خواننده تأکید کرد که هیچ‌کدام از اتفاقات زندگی‌اش را فراموش نکرده اما با گذشت زمان آن‌ها را پذیرفته است. او افزود که دیگر از کسی رنجیده نمی‌شود اما کسانی را که باعث دلخوری شده‌اند نیز در زندگی خود نگه نمی‌دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5fbe271e08fd",
@@ -2138,9 +2402,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/meger-filmde-kendi-askini-oynamis-beni-babamdan-ayni-oyle-istedi-43381339",
      "title": "Meğer filmde kendi aşkını oynamış! ‘Beni de babamdan aynı öyle istemişti!’",
      "snippet": "Hollywood’un en uzun soluklu evliliklerinden birini sürdüren ünlü çiftin setlerde başlayan büyük aşkının filmlerdeki gibi bir hikâyesi olduğunu biliyor muydunuz?",
-     "published": "2026-11-20T04:23:18.000Z"
+     "published": "2026-11-20T04:23:18.000Z",
+     "titleFa": "Meğer filmde kendi aşkını oynamış! ‘Beni de babamdan aynı öyle istemişti!’"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6afc3c223516f14679cc972a.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6afc3c223516f14679cc972a.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "داستان عشق طولانی‌ترین ازدواج هالیوود و شباهت آن به فیلم‌ها",
+   "summaryFa": "گزارشی درباره عشق آغاز شده در پشت صحنه یکی از طولانی‌ترین ازدواج‌های هالیوود که شباهت زیادی به داستان‌های فیلم دارد.",
+   "bodyFa": [
+    "این گزارش به یکی از طولانی‌ترین ازدواج‌های هالیوود می‌پردازد و داستان شکل‌گیری عشق میان یک زوج مشهور را روایت می‌کند که در پشت صحنه فیلم‌ها آغاز شده است.",
+    "بر اساس این مطلب، آغاز این رابطه شباهت زیادی به داستان‌های درون فیلم‌ها دارد و خاطراتی از نحوه خواستگاری را نیز به یاد می‌آورد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5316d153932a",
@@ -2218,9 +2500,28 @@
      "url": "https://www.milliyet.com.tr/magazin/vizyon-heyecani-dort-sehre-tasindi-7704230",
      "title": "Vizyon heyecanı dört şehre taşındı",
      "snippet": "3 Aralık’ta Mall of İstanbul’da gerçekleşecek seyircili galanın biletleri dakikalar içinde tükenirken, filmin oyuncuları gelen yoğun istek üzerine 4 Aralık’ta Adana, 5 Aralık’ta Ankara ve 6 Aralık’ta İzmir’deki sinemaseverlerle buluşacak. BKM yapımcılığında Gülse Birsel’in kaleme aldığı ‘2 Aile Aras",
-     "published": "2026-11-20T04:02:00.000Z"
+     "published": "2026-11-20T04:02:00.000Z",
+     "titleFa": "هیجان اکران به چهار شهر منتقل شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aff7e811c3369444cf1ccae.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aff7e811c3369444cf1ccae.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "هیجان اکران فیلم «دو خانواده میان» به چهار شهر منتقل شد",
+   "summaryFa": "بازیگران و عوامل فیلم «دو خانواده میان» پس از استقبال از بلیت‌های گالای استانبول، برنامه‌ای برای دیدار با مخاطبان در شهرهای آدانا، آنکارا و ازمیر تدارک دیده‌اند. بلیت‌های مراسم استانبول به سرعت به فروش رفت.",
+   "bodyFa": [
+    "فیلم سینمایی «دو خانواده میان» به نویسندگی گلسا بیرسل و تهیه‌کنندگی شرکت BKM که با بازی دمت اووگار و انگین گونایدین در نقش‌های اصلی ساخته شده، تب و تاب اکران خود را علاوه بر استانبول به شهرهای دیگر نیز گسترش می‌دهد.",
+    "پس از آنکه بلیت‌های مراسم گالای با حضور تماشاگران که در تاریخ ۳ دسامبر در مال آو استانبول برگزار می‌شود، ظرف چند دقیقه به اتمام رسید، سازندگان فیلم تصمیم گرفتند به دلیل تقاضای بالای مخاطبان، برنامه‌های دیگری را در سایر شهرها اجرا کنند.",
+    "بر این اساس، بازیگران فیلم در تاریخ ۴ دسامبر در آدانا، ۵ دسامبر در آنکارا و ۶ دسامبر در ازمیر با دوستداران سینما دیدار خواهند کرد و هیجان اکران اثر را به این سه شهر نیز منتقل می‌نمایند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "daaa24c21bb1",
@@ -2298,7 +2599,16 @@
      "snippet": "MESUT YILMAZ -Fıstık yeşili saten elbisesini beline bağladığı pembe hırkayla tamamlayan oyuncu, Hollywood esintisi yorumlarına, “Zıt renkler hoşuma gitti. Arada böyle giyiniyorum” yanıtını verdi. Ünsal, “Nasıl hissediyorlarsa öyle giyinsinler. Hoşlarına gidiyorsa hemen yapsınlar” sözleriyle genç kız",
      "published": "2026-11-20T04:01:59.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aff7d4f1c3369444cf1cca2.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aff7d4f1c3369444cf1cca2.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "33802f629def",
@@ -2325,9 +2635,27 @@
      "url": "https://www.milliyet.com.tr/magazin/donemem-cikti-7704226",
      "title": "‘Dönemem’ çıktı",
      "snippet": "Söz ve müziği şarkıcıya, düzenlemesi Erhan Bayrak’a ait olan şarkı, Boz Production ve DMC etiketiyle yayınlandı. Duygusal atmosferiyle dikkat çeken ‘Dönemem’, Boz’un söz yazarı ve besteci kimliğini bir kez daha öne çıkardı.",
-     "published": "2026-11-20T04:01:58.000Z"
+     "published": "2026-11-20T04:01:58.000Z",
+     "titleFa": "آهنگ «Dönemem» منتشر شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aff7c471c3369444cf1cc95.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aff7c471c3369444cf1cc95.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار آهنگ جدید مورات بوز به نام «Dönemem»",
+   "summaryFa": "آهنگ احساسی جدید مورات بوز با نام «Dönemem» امروز منتشر شد. ترانه و آهنگسازی این اثر بر عهده خود خواننده بوده است.",
+   "bodyFa": [
+    "مورات بوز قطعه جدید خود را با نام «Dönemem» در تاریخ امروز به مخاطبان موسیقی عرضه کرد. این آهنگ جدید با فضای احساسی خود توجه‌ها را به خود جلب کرده و بار دیگر مهارت این خواننده را در زمینه ترانه‌سرایی و آهنگسازی برجسته می‌سازد.",
+    "ترانه و آهنگسازی قطعه «Dönemem» توسط خود خواننده انجام شده و تنظیم آن بر عهده «ارحان بایراک» است. این اثر همچنین با برچسب‌های «بوز پروداکشن» و «DMC» منتشر شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6d057537f5fc",
@@ -2367,7 +2695,16 @@
    ],
    "mergedIds": [
     "d852e4c69b4b"
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aff7b201c3369444cf1cc82.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aff7b201c3369444cf1cc82.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "4614e05b80e1",
@@ -2394,9 +2731,27 @@
      "url": "https://www.milliyet.com.tr/magazin/cocuklarimiza-guzel-bir-dunya-birakalim-7704221",
      "title": "‘Çocuklarımıza güzel bir dünya bırakalım’",
      "snippet": "Yağmura rağmen binlerce kişi, sanatçıyı yalnız bırakmadı. Doğayı korumanın küçük adımlarla başlayabileceğini vurgulayan Yaşar, “Çöpümüzü yere atmayalım, ışığımızı kapatalım, suyumuzu ve yiyeceklerimizi israf etmeyelim. Çocuklarımıza daha güzel bir dünya bırakalım. Çok konuşuyoruz, çok yazıp çiziyoru",
-     "published": "2026-11-20T04:01:56.000Z"
+     "published": "2026-11-20T04:01:56.000Z",
+     "titleFa": "بیایید دنیای زیباتری برای فرزندانمان به جای بگذاریم"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6aff7ab41c3369444cf1cc6d.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6aff7ab41c3369444cf1cc6d.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "کنسرت ابرو یاشار در آنتالیا همزمان با اجلاس اقلیمی سازمان ملل",
+   "summaryFa": "ابرو یاشار در آنتالیا به روی صحنه رفت و بر اهمیت حفاظت از طبیعت و آینده کودکان تأکید کرد. این کنسرت با استقبال هزاران نفری مخاطبان با وجود بارش باران روبه‌رو شد.",
+   "bodyFa": [
+    "ابرو یاشار، خواننده سرشناس، در چارچوب اجلاس تغییرات اقلیمی سازمان ملل متحد (COP31) که در آنتالیا برگزار شد، به اجرای کنسرت پرداخت. این رویداد با استقبال گسترده هزاران نفر از طرفداران روبه‌رو شد که با وجود شرایط بارانی هوا، در کنسرت حضور یافتند و هنرمند را همراهی کردند.",
+    "این هنرمند در جریان برنامه خود بر لزوم حفاظت از طبیعت تأکید کرد و یادآور شد که مراقبت از محیط زیست می‌تواند با اقدامات ساده و کوچک آغاز شود. وی از مخاطبان خواست از ریختن زباله روی زمین خودداری کنند، در مصرف انرژی و آب صرفه‌جویی کرده و از اسراف غذا بپرهیزند تا دنیای بهتری برای نسل‌های آینده به یادگار بماند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c38c29d35cbd",
@@ -2522,9 +2877,27 @@
      "url": "https://www.sabah.com.tr/magazin/cocugumu-buyutmek-istiyorum-7705485",
      "title": "‘Çocuğumu büyütmek istiyorum’",
      "snippet": "Özcan Deniz'in, hem senaryosunu yazdığı hem yönetmenliğini üstlendiği hem de başrolünde yer aldığı 'Son Yemek' filminin galası yapıldı. Filmin senaryosunda insani duyguları ön plana çıkardığını söyleyen... Devamı için tıklayınız",
-     "published": "2026-11-19T21:42:21.000Z"
+     "published": "2026-11-19T21:42:21.000Z",
+     "titleFa": "«می‌خواهم فرزندم را بزرگ کنم»"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/dcf87e/1200/675/0/45/940/573?u=https://isbh.tmgrup.com.tr/sbh/2026/11/20/cocugumu-buyutmek-istiyorum-1795124468189.jpeg",
+    "https://iasbh.tmgrup.com.tr/960e51/60/60/0/0/60/60?u=https://isbh.tmgrup.com.tr/sbh/2025/01/10/1736489014590.jpg",
+    "https://iasbh.tmgrup.com.tr/e14d88/752/395/0/65/940/561?u=https://isbh.tmgrup.com.tr/sbh/2026/11/20/cocugumu-buyutmek-istiyorum-1795124468189.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "برگزاری گالا و اکران فیلم «آخرین غذا» با حضور اوزجان دنیز",
+   "summaryFa": "مراسم گالای فیلم «آخرین غذا» با نویسندگی، کارگردانی و نقش‌آفرینی اوزجان دنیز برگزار شد. او در این مراسم درباره تمرکز فیلم بر عواطف انسانی سخن گفت.",
+   "bodyFa": [
+    "مراسم گالای فیلم جدیدی به نام «آخرین غذا» برگزار شد. اوزجان دنیز در این اثر سینمایی به عنوان نویسنده، کارگردان و بازیگر نقش اصلی حضور دارد.",
+    "اوزجان دنیز طی سخنانی در این مراسم اشاره کرد که در فیلم‌نامه خود تلاش کرده تا احساسات و عواطف انسانی را در مرکز توجه قرار دهد. او همچنین بیان کرد که سعی داشته داستانی بزرگ را به شیوه‌ای ساده و تأثیرگذار روایت کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "078985c7d36c",
@@ -2600,9 +2973,27 @@
      "url": "https://www.sabah.com.tr/magazin/ilkyazdan-yeni-single-7705482",
      "title": "İlkyaz’dan yeni single",
      "snippet": "İlkyaz Kocatepe, üçüncü single'ı 'Havada Saklı Bir Duygu Var'ı müzikseverlerle buluşturdu. Aysun-Ali Kocatepe çiftinin kızı olarak müzikle iç içe büyüyen şarkıcı, yeni parçasında geçmişin izlerini tatlı... Devamı için tıklayınız",
-     "published": "2026-11-19T21:37:03.000Z"
+     "published": "2026-11-19T21:37:03.000Z",
+     "titleFa": "تک‌آهنگ جدید از سوی ایلکیاز"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/2628b0/1200/675/0/57/594/391?u=https://isbh.tmgrup.com.tr/sbh/2026/11/20/ilkyazdan-yeni-single-1795124226849.jpeg",
+    "https://iasbh.tmgrup.com.tr/7d2bf5/752/395/0/68/594/381?u=https://isbh.tmgrup.com.tr/sbh/2026/11/20/ilkyazdan-yeni-single-1795124226849.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار تک‌آنگاه جدید از ایلکیاز کوچاتپه",
+   "summaryFa": "ایلکیاز کوچاتپه سومین تک‌آهنگ خود را با نام «احساسی پنهان در هوا» منتشر کرد. این خواننده در اثر جدید خود به گذشته نگاهی انداخته و هیجان آغازهای تازه را روایت می‌کند.",
+   "bodyFa": [
+    "ایلکیاز کوچاتپه، دختر زوج هنرمند آیسون و علی کوچاتپه که در فضایی آکنده از موسیقی رشد کرده است، سومین تک‌آهنگ خود را به نام «احساسی پنهان در هوا» روانه بازار موسیقی کرد.",
+    "او در این ترانه تازه، خاطرات گذشته را با لبخندی شیرین یاد کرده و هم‌زمان حس و حال هیجان‌انگیز گام برداشتن به سوی شروع‌های جدید را به مخاطبان منتقل می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "2c2df7c3e16e",
@@ -2642,7 +3033,16 @@
    ],
    "mergedIds": [
     "9f2634547895"
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/8ac75d/1200/675/0/86/617/433?u=https://isbh.tmgrup.com.tr/sbh/2026/11/20/konser-sampiyonu-1795124097624.jpeg",
+    "https://iasbh.tmgrup.com.tr/507161/752/395/0/99/617/424?u=https://isbh.tmgrup.com.tr/sbh/2026/11/20/konser-sampiyonu-1795124097624.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "69e8ce013971",
@@ -2671,7 +3071,16 @@
      "snippet": "Ebru Yaşar, Antalya'da düzenlenen COP31 Birleşmiş Milletler İklim Zirvesi kapsamında konser verdi. Yaşar, yağmura rağmen kendisini dinlemeye gelen sevenlerine \"Hoş geldiniz, sefalar getirdiniz canım Antalya!\"... Devamı için tıklayınız",
      "published": "2026-11-19T21:34:12.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/150296/1200/675/0/103/1028/683?u=https://isbh.tmgrup.com.tr/sbh/2026/11/20/1795124021106.jpeg",
+    "https://iasbh.tmgrup.com.tr/992c7f/752/395/0/125/1028/667?u=https://isbh.tmgrup.com.tr/sbh/2026/11/20/1795124021106.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "5323a2ad879a",
