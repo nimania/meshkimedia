@@ -239,7 +239,9 @@
     "editorial:dubbed-21:0",
     "slot:2026-11-20:1",
     "news:a7418f78bcb7",
-    "pavaraghi:dubbed-29"
+    "pavaraghi:dubbed-29",
+    "editorial:original-11:0",
+    "slot:2026-11-21:0"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -338,7 +340,8 @@
     "f23ac2a304a1a25a4e1440c5",
     "4523f28cb23655386fe012c8",
     "26f8c3c17c693177772da08e",
-    "97431d2ff5e446effd0b98f2"
+    "97431d2ff5e446effd0b98f2",
+    "02315d4b78cecde40edee41c"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-09",
@@ -372,12 +375,12 @@
     "poll:format": "2026-11-09",
     "episode:10": "2026-11-20",
     "poll:topic": "2026-11-12",
-    "episode:11": "2026-11-13",
+    "episode:11": "2026-11-21",
     "episode:12": "2026-11-15",
     "poll:emotion": "2026-11-16",
     "poll:character": "2026-11-19"
   },
-  "updated": "2026-11-21T02:29:04.352Z",
+  "updated": "2026-11-21T11:14:41.879Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
