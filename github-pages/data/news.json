@@ -1,6 +1,93 @@
 {
- "updated": "2026-11-21T11:11:21.014Z",
+ "updated": "2026-11-21T15:09:03.433Z",
  "items": [
+  {
+   "id": "bc8f8041918e",
+   "url": "https://www.hurriyet.com.tr/kelebek/magazin/once-oglunu-sonra-karisini-topraga-verdi-alti-yil-iki-cocuguna-hem-anne-hem-baba-oldu-artik-yeniden-sevmeye-hazirim-43386317",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Önce oğlunu sonra karısını toprağa verdi... Altı yıl iki çocuğuna hem anne hem baba oldu... \"Artık yeniden sevmeye hazırım\"",
+   "snippet": "Sinemanın eskimeyen yıldızlarından John Travolta bundan altı yıl önce hayatının en büyük acılarından birini yaşadı...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b01a62cc757abf656938ceb.jpg",
+   "video": null,
+   "published": "2026-11-21T14:15:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/once-oglunu-sonra-karisini-topraga-verdi-alti-yil-iki-cocuguna-hem-anne-hem-baba-oldu-artik-yeniden-sevmeye-hazirim-43386317",
+     "title": "Önce oğlunu sonra karısını toprağa verdi... Altı yıl iki çocuğuna hem anne hem baba oldu... \"Artık yeniden sevmeye hazırım\"",
+     "snippet": "Sinemanın eskimeyen yıldızlarından John Travolta bundan altı yıl önce hayatının en büyük acılarından birini yaşadı...",
+     "published": "2026-11-21T14:15:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "831ee34b2f32",
+   "url": "https://www.sozcu.com.tr/podyumu-birakti-ciftci-oldu-unlu-manken-tugba-ozay-tonlarca-hasat-yapiyor-p383273",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Podyumu bıraktı çiftçi oldu: Ünlü manken Tuğba Özay tonlarca hasat yapıyor",
+   "snippet": "Bir dönemin podyumlarda fırtınalar estiren ünlü ismi Tuğba Özay, şöhreti geride bırakıp yerleştiği Antalya Manavgat'ta b...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/podyumu-birakti-ciftci-oldu-unlu-manken-tugba-ozay-tonlarca-hasat-yapiyor-3jpg-ic98kh1o-0C2QwgHU_GpWA.jpg",
+   "video": null,
+   "published": "2026-11-21T13:22:53.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/podyumu-birakti-ciftci-oldu-unlu-manken-tugba-ozay-tonlarca-hasat-yapiyor-p383273",
+     "title": "Podyumu bıraktı çiftçi oldu: Ünlü manken Tuğba Özay tonlarca hasat yapıyor",
+     "snippet": "Bir dönemin podyumlarda fırtınalar estiren ünlü ismi Tuğba Özay, şöhreti geride bırakıp yerleştiği Antalya Manavgat'ta b...",
+     "published": "2026-11-21T13:22:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": "2a0f7426e253",
+   "url": "https://www.haberturk.com/magazin/nil-karaibrahimgil-den-senfonil-soleni-3929012",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Nil Karaibrahimgil'den Senfonil şöleni",
+   "snippet": "Nil Karaibrahimgil, Zorlu PSM'de, Sinema Senfoni Orkestrası ve şef Hakan Şensoy eşliğinde sevenleriyle bir araya geldi",
+   "image": "https://im.haberturk.com/l/2026/11/21/ver1795259087/3929012/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-21T11:05:32.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/nil-karaibrahimgil-den-senfonil-soleni-3929012",
+     "title": "Nil Karaibrahimgil'den Senfonil şöleni",
+     "snippet": "Nil Karaibrahimgil, Zorlu PSM'de, Sinema Senfoni Orkestrası ve şef Hakan Şensoy eşliğinde sevenleriyle bir araya geldi",
+     "published": "2026-11-21T11:05:32.000Z"
+    }
+   ]
+  },
   {
    "id": "cd394c64f4f6",
    "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-omer-ve-kivilcim-in-yakinlasmasi-geceye-damgasini-vurdu-3929010",
@@ -193,7 +280,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/uzak-sehirin-atesi-ersin-arici-esine-askini-haykirdi-seninle-her-seye-varim-ben-7705054",
      "title": "Uzak Şehir'in Ateş'i Ersin Arıcı eşine aşkını haykırdı: Seninle her şeye varım ben!",
      "snippet": "Uzak Şehir dizisinde Ateş karakterini canlandıran Ersin Arıcı, eşi Beril Pozam'ın doğum gününü romantik bir mesajla kutladı.",
-     "published": "2026-11-21T09:27:04.000Z"
+     "published": "2026-11-21T09:27:04.000Z",
+     "titleFa": "ابراز عشق ارسین آریجی بازیگر نقش آتش در شهر دور به همسرش: با تو برای همه چیز حاضرم!"
     }
    ],
    "images": [
@@ -204,7 +292,14 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تبریک عاشقانه ارسین آریجی بازیگر سریال شهر دور به همسرش بریل پوزام",
+   "summaryFa": "ارسین آریجی، بازیگر نقش آتش در سریال «شهر دور»، تولد همسرش بریل پوزام را با پیامی رمانتیک تبریک گفت.",
+   "bodyFa": [
+    "ارسین آریجی که در سریال «شهر دور» ایفاگر نقش «آتش» است، سالروز تولد همسرش بریل پوزام را با انتشار یک پیام عاشقانه تبریک گفت. او در این پیام ابراز داشت که همراه با همسرش برای مواجهه با هر چیزی آماده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4f2b10a33390",
@@ -233,9 +328,28 @@
      "url": "https://www.sozcu.com.tr/eda-ece-kizini-paylasti-herkes-ayni-yorumu-yapti-p383189",
      "title": "Eda Ece kızını paylaştı: Herkes aynı yorumu yaptı",
      "snippet": "Ünlü oyuncu Eda Ece, kızı Mina İpek ile çekilen yeni karelerini paylaştı. Takipçilerinden \"Annesinin kopyası\" yorumları ...",
-     "published": "2026-11-21T09:00:34.000Z"
+     "published": "2026-11-21T09:00:34.000Z",
+     "titleFa": "ادا اجه دخترش را به اشتراک گذاشت: همه یک نظر مشابه دادند"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/edaecejpg-ZKtjqNfyJ0y0y366tX7KTQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/edaecejpg-ZKtjqNfyJ0y0y366tX7KTQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/12/bitcoinkisalarmshutter-2jpg-dgHdXS2UTUiqMB9QQFAupw.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kepjpg-voSaulcTAEauyJvg46OfCA.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b01409df4678357b8ba8469png-N15iPj1Nu0i6-g1Fu1Bo4w.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار تصاویر جدید ادا اجه همراه با دخترش مینا ایپک",
+   "summaryFa": "ادا اجه تصاویر جدیدی از خود و دخترش را در شبکه اجتماعی به اشتراک گذاشت. این عکس‌ها با واکنش‌های گسترده و نظرات دنبال‌کنندگان درباره شباهت آن دو مواجه شد.",
+   "bodyFa": [
+    "ادا اجه، بازیگر شناخته‌شده، عکس‌های جدیدی از خود و دخترش مینا ایپک را در صفحه شخصی‌اش به اشتراک گذاشته است. این بازیگر با انتشار این تصاویر مادر و دختری، یادداشت «کوچک بود، بزرگ شد» را قرار داد که سریعاً توجه رسانه‌ها و کاربران شبکه اجتماعی را به خود جلب نمود.",
+    "ادا اجه در سال ۲۰۲۳ با بوراخان تونجر، بازیکن بسکتبال تیم گالاتاسرای ازدواج کرد و در سال ۲۰۲۴ با به دنیا آمدن نخستین فرزندشان مینا ایپک، برای اولین بار حس مادری را تجربه نمود. او معمولاً لحظات گوناگونی از زندگی خانوادگی و وقت گذراندن با فرزندش را با دنبال‌کنندگان خود به اشتراک می‌گذارد.",
+    "این پست جدید در مدت زمانی کوتاه با استقبال زیادی روبه‌رو شد. بسیاری از دنبال‌کنندگان در بخش دیدگاه‌ها به شباهت زیاد مینا ایپک به مادرش اشاره کرده و او را کپی برابر اصل مادرش خواندند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "293cc6fbdca3",
@@ -618,7 +732,16 @@
      "snippet": "“Güller ve Günahlar” dizisinin Serhat’ı Murat Yıldırım, ara tatilde eşi Iman Elbani ve kızı Miray’la Antalya’ya gitti.",
      "published": "2026-11-21T04:31:07.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b0059158c01a1364d06ab7c.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b01b05bc757abf656938d38.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true
   },
   {
    "id": "76fcc2392b0f",
@@ -827,7 +950,16 @@
      "snippet": "Adana Altın Koza Film Festivali’nden ‘En İyi Kadın Oyuncu’ ödülünü kazanan Ergüçlü, heyecanlı olduğunu belirterek, konuklara teşekkürlerini sundu. 27 Kasım’da vizyona girecek olan projede Ergüçlü’nün yanı sıra Güven Kıraç, Ulvi Kahyaoğlu, Erdeniz Kurucan ve Cansu Fırıncı gibi isimler de rol alıyor.",
      "published": "2026-11-21T04:01:59.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b00c6251c3369444cf1d1ca.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b00c6251c3369444cf1d1ca.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "14a7df913436",
@@ -976,7 +1108,16 @@
      "snippet": "atv ekranlarının sevilen dizisi ‘Güneşin Doğduğu Yer’, bu hafta dokuzuncu bölümüyle yine Türkiye’yi ekran başına topladı. Dizide; Leyla’ya Berlin’de kurulan tuzağın arkasında annesi Celadet’in olduğunu... Devamı için tıklayınız",
      "published": "2026-11-21T02:18:22.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/a83818/1200/675/0/150/1421/951?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/lince-ugrayan-leyla-kararini-verdi-1795227398231.jpeg",
+    "https://iasbh.tmgrup.com.tr/d247fb/752/395/0/179/1421/925?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/lince-ugrayan-leyla-kararini-verdi-1795227398231.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "c25748823fe9",
@@ -1178,6 +1319,35 @@
      "title": "Güzellik davetinde buluştular",
      "snippet": "Cemiyet ve magazin dünyasının tanınmış isimleri Hakan Eroğlu ev sahipliğindeki güzellik davetinde bir araya geldi. Etkinliğe katılanlar arasında oyuncu Gülsim Ali, ünlü şarkıcı Bülent Serttaş ve eşi Selvi... Devamı için tıklayınız",
      "published": "2026-11-21T02:02:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": "5a73d8c1a4f2",
+   "url": "https://www.sabah.com.tr/magazin/artik-gecelerde-beni-gorebilirsiniz-7706194",
+   "source": "sabah-magazin",
+   "sourceName": "Sabah",
+   "lang": "tr",
+   "title": "‘Artık gecelerde beni görebilirsiniz’",
+   "snippet": "Ünlü şarkıcı Merve Özbey, önceki akşam bir davette görüntülendi. Geçen yıl davetlerde ve gece etkinliklerinde pek sık görülmediğini, ancak bu yıl haftada iki kez gazetecilerle gecelerde karşılaştıklarını... Devamı için tıklayınız",
+   "image": "https://iasbh.tmgrup.com.tr/24093b/1200/675/0/52/677/435?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/artik-gecelerde-beni-gorebilirsiniz-1795226156498.jpeg",
+   "video": null,
+   "published": "2026-11-21T01:55:56.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sabah-magazin",
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/magazin/artik-gecelerde-beni-gorebilirsiniz-7706194",
+     "title": "‘Artık gecelerde beni görebilirsiniz’",
+     "snippet": "Ünlü şarkıcı Merve Özbey, önceki akşam bir davette görüntülendi. Geçen yıl davetlerde ve gece etkinliklerinde pek sık görülmediğini, ancak bu yıl haftada iki kez gazetecilerle gecelerde karşılaştıklarını... Devamı için tıklayınız",
+     "published": "2026-11-21T01:55:56.000Z"
     }
    ]
   },
@@ -11114,35 +11284,6 @@
    ]
   },
   {
-   "id": "63b616203a98",
-   "url": "https://www.haberturk.com/magazin/beyonce-grammy-odulune-100-kez-aday-gosterilen-ilk-sanatci-oldu-3927862",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Müzik tarihine geçti",
-   "snippet": "Dünyaca ünlü ABD'li şarkıcı Beyonce, 69. Grammy Ödülleri'nde aldığı adaylıkla bu ödüle 100 kez aday gösterilen ilk sanatçı ünvanını aldı",
-   "image": "https://im.haberturk.com/l/2026/11/17/ver1794898319/3927862/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-17T09:00:43.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/beyonce-grammy-odulune-100-kez-aday-gosterilen-ilk-sanatci-oldu-3927862",
-     "title": "Müzik tarihine geçti",
-     "snippet": "Dünyaca ünlü ABD'li şarkıcı Beyonce, 69. Grammy Ödülleri'nde aldığı adaylıkla bu ödüle 100 kez aday gösterilen ilk sanatçı ünvanını aldı",
-     "published": "2026-11-17T09:00:43.000Z"
-    }
-   ]
-  },
-  {
    "id": "b0e31d540eeb",
    "url": "https://www.haberturk.com/magazin/menekse-ve-murat-in-aski-istanbul-sokaklarina-tasiyor-3927902",
    "source": "haberturk-magazin",
@@ -11181,93 +11322,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "a9777a4cd078",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kraliyet-ailesinden-sasirtan-adim-yeni-ajani-davul-calarak-karsiladilar-hizmetimize-hos-geldin-43380852",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Kraliyet ailesinden şaşırtan adım: Yeni ajanı 'davul çalarak' karşıladılar... Hizmetimize hoş geldiniz!",
-   "snippet": "Sinema dünyası ve sinema meraklıları bir süredir tek bir konuya odaklanmıştı... Yeni James Bond kim olacak?",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6afc00783516f14679cc9292.jpg",
-   "video": null,
-   "published": "2026-11-17T08:08:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kraliyet-ailesinden-sasirtan-adim-yeni-ajani-davul-calarak-karsiladilar-hizmetimize-hos-geldin-43380852",
-     "title": "Kraliyet ailesinden şaşırtan adım: Yeni ajanı 'davul çalarak' karşıladılar... Hizmetimize hoş geldiniz!",
-     "snippet": "Sinema dünyası ve sinema meraklıları bir süredir tek bir konuya odaklanmıştı... Yeni James Bond kim olacak?",
-     "published": "2026-11-17T08:08:00.000Z"
-    }
-   ]
-  },
-  {
-   "id": "0dba2279afa2",
-   "url": "https://www.hurriyet.com.tr/kelebek/stil/kibrista-keyifli-gece-43380951",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Kıbrıs’ta keyifli gece",
-   "snippet": "Emre Altuğ, 14 Kasım gecesi Merit Lefkoşa Casino’da müzik dolu bir geceye imza attı.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6afc09943516f14679cc9377.jpg",
-   "video": null,
-   "published": "2026-11-17T08:00:22.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/stil/kibrista-keyifli-gece-43380951",
-     "title": "Kıbrıs’ta keyifli gece",
-     "snippet": "Emre Altuğ, 14 Kasım gecesi Merit Lefkoşa Casino’da müzik dolu bir geceye imza attı.",
-     "published": "2026-11-17T08:00:22.000Z"
-    }
-   ]
-  },
-  {
-   "id": "523348f16c23",
-   "url": "https://www.hurriyet.com.tr/kelebek/stil/iremden-sarkiyi-calmaliydim-43380947",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "İrem’den şarkıyı çalmalıydım",
-   "snippet": "Mustafa Ceceli önceki akşam Kıbrıs’ta Concorde Tower Hotel’de sahne aldı. Ceceli, konseri öncesi basın mensuplarıyla bir araya geldi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6afc09563516f14679cc9369.jpg",
-   "video": null,
-   "published": "2026-11-17T07:59:20.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/stil/iremden-sarkiyi-calmaliydim-43380947",
-     "title": "İrem’den şarkıyı çalmalıydım",
-     "snippet": "Mustafa Ceceli önceki akşam Kıbrıs’ta Concorde Tower Hotel’de sahne aldı. Ceceli, konseri öncesi basın mensuplarıyla bir araya geldi.",
-     "published": "2026-11-17T07:59:20.000Z"
-    }
-   ]
   },
   {
    "id": "ff098042bf42",
