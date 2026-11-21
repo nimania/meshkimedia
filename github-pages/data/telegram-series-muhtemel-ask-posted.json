@@ -244,7 +244,9 @@
     "slot:2026-11-21:0",
     "engagement:quiz:actor:bahtiyar-memili",
     "engagement-day:2026-11-21",
-    "slot:2026-11-21:3"
+    "slot:2026-11-21:3",
+    "editorial:original-12:0",
+    "slot:2026-11-21:1"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -344,7 +346,8 @@
     "4523f28cb23655386fe012c8",
     "26f8c3c17c693177772da08e",
     "97431d2ff5e446effd0b98f2",
-    "02315d4b78cecde40edee41c"
+    "02315d4b78cecde40edee41c",
+    "65127a50354d040455fb3765"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-09",
@@ -379,11 +382,11 @@
     "episode:10": "2026-11-20",
     "poll:topic": "2026-11-12",
     "episode:11": "2026-11-21",
-    "episode:12": "2026-11-15",
+    "episode:12": "2026-11-21",
     "poll:emotion": "2026-11-16",
     "poll:character": "2026-11-19"
   },
-  "updated": "2026-11-21T15:17:42.361Z",
+  "updated": "2026-11-21T18:03:22.072Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
