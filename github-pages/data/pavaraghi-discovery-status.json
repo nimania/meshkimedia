@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T06:41:22.112334+00:00",
+  "generatedAt": "2026-11-22T19:33:03.656182+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "gunesin-dogdugu-yer:4",
-    "halef-koklerin-cagrisi:1",
-    "muhtemel-ask:3",
-    "muhtemel-ask:4"
+    "muhtemel-ask:5",
+    "muhtemel-ask:6",
+    "muhtemel-ask:7",
+    "muhtemel-ask:8"
   ],
   "episodes": [
     {
@@ -1616,7 +1616,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 5,
-      "checkedAt": "2026-11-12T23:35:19.376863+00:00",
+      "checkedAt": "2026-11-22T19:33:03.656182+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1648,7 +1648,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 6,
-      "checkedAt": "2026-11-13T06:38:36.667058+00:00",
+      "checkedAt": "2026-11-22T19:33:03.656182+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1680,7 +1680,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 7,
-      "checkedAt": "2026-11-13T06:38:36.667058+00:00",
+      "checkedAt": "2026-11-22T19:33:03.656182+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1712,7 +1712,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 8,
-      "checkedAt": "2026-11-13T06:38:36.667058+00:00",
+      "checkedAt": "2026-11-22T19:33:03.656182+00:00",
       "languagesToTry": [
         "tr",
         "fa",
