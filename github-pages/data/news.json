@@ -245,7 +245,8 @@
      "url": "https://www.milliyet.com.tr/magazin/daha-17de-buyuk-sir-ortaya-cikacak-mi-7705663",
      "title": "Daha 17’de büyük sır ortaya çıkacak mı?",
      "snippet": "HABER MERKEZİ- Daha 17’nin yeni bölümünde Leyla ile Şebnem arasında yaşanacak yüzleşme, büyük sırrın ortaya çıkıp çıkmayacağına dair heyecanı artırıyor. Şebnem’in Leyla’ya yönelttiği “Ne yapacaksın? Anlatacak mısın her şeyi?” sorusu, gerilimin fitilini ateşliyor. “BEN SENİN YÜZÜNDEN BİR EVLAT KAYBET",
-     "published": "2026-11-22T12:50:17.000Z"
+     "published": "2026-11-22T12:50:17.000Z",
+     "titleFa": "آیا راز بزرگ در هنوز ۱۷ سالشه فاش خواهد شد؟"
     }
    ],
    "images": [
@@ -256,7 +257,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "آیا راز بزرگ در سریال هنوز ۱۷ سالشه فاش خواهد شد؟",
+   "summaryFa": "با آگاهی لیلا از هویت واقعی تئومان و رویارویی شدیدی که میان او و شبنم در پیش است، هیجان داستان سریال «هنوز ۱۷ سالشه» به اوج رسیده است. اکنون پرسش اصلی این است که آیا تئومان متوجه برادر بودن خود با آراس خواهد شد یا خیر.",
+   "bodyFa": [
+    "داستان سریال «هنوز ۱۷ سالشه» که یکشنبه شب‌ها از شبکه کانال دی پخش می‌شود، به نقاط حساسی رسیده است. پس از آراس، دنیز و متین، اکنون لیلا نیز متوجه شده که تئومان در واقع همان دمیر است؛ اتفاقی که موازنه داستان را کاملاً دستخوش تغییر کرده است. در حال حاضر مهم‌ترین ابهام برای مخاطبان این است که آیا تئومان سرانجام پی خواهد برد که برادر آراس است یا خیر.",
+    "از سوی دیگر، رویارویی میان لیلا و شبنم تنش‌ها را افزایش داده است. پرسش شبنم از لیلا درباره اینکه آیا همه‌چیز را تعریف خواهد کرد یا نه، و همچنین مطرح شدن موضوع از دست رفتن یک فرزند، احتمال فاش شدن راز بزرگ سریال را در قسمت جدید بیش از پیش تقویت کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0a3554d6d528",
