@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T19:10:34.998478+00:00",
+  "generatedAt": "2026-11-22T06:41:22.112334+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "guller-ve-gunahlar:36",
-    "gunesin-dogdugu-yer:1",
-    "gunesin-dogdugu-yer:2",
-    "gunesin-dogdugu-yer:3"
+    "gunesin-dogdugu-yer:4",
+    "halef-koklerin-cagrisi:1",
+    "muhtemel-ask:3",
+    "muhtemel-ask:4"
   ],
   "episodes": [
     {
@@ -976,7 +976,7 @@
       "seriesSlug": "gunesin-dogdugu-yer",
       "seriesTitle": "جایی که خورشید طلوع می‌کند",
       "originalEpisode": 4,
-      "checkedAt": "2026-11-12T15:07:50.558430+00:00",
+      "checkedAt": "2026-11-22T06:41:22.112334+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1008,7 +1008,7 @@
       "seriesSlug": "halef-koklerin-cagrisi",
       "seriesTitle": "جانشین: ندای ریشه‌ها",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-12T23:35:19.376863+00:00",
+      "checkedAt": "2026-11-22T06:41:22.112334+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1552,7 +1552,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 3,
-      "checkedAt": "2026-11-12T23:35:19.376863+00:00",
+      "checkedAt": "2026-11-22T06:41:22.112334+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1584,7 +1584,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 4,
-      "checkedAt": "2026-11-12T23:35:19.376863+00:00",
+      "checkedAt": "2026-11-22T06:41:22.112334+00:00",
       "languagesToTry": [
         "tr",
         "fa",
