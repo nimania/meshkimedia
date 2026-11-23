@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:50:01.407Z",
+ "updated": "2026-11-23T02:49:47.461Z",
  "items": [
   {
    "id": "88babcd9d48f",
@@ -202,7 +202,8 @@
      "url": "https://www.sozcu.com.tr/dunyaca-unlu-guzel-jennifer-lopez-hayatini-degistiren-sureci-anlatti-p383483",
      "title": "Dünyaca ünlü güzel Jennifer Lopez hayatını değiştiren süreci anlattı",
      "snippet": "57 yaşındaki dünyaca ünlü şarkıcı Jennifer Lopez, formunu korumak için uyguladığı beslenme ve spor rutinini anlattı. Yak...",
-     "published": "2026-11-22T14:18:27.000Z"
+     "published": "2026-11-22T14:18:27.000Z",
+     "titleFa": "جنیفر لوپز، زیباروی مشهور جهان، از فرآیندی که زندگی‌اش را تغییر داد گفت"
     }
    ],
    "images": [
@@ -213,45 +214,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/millitakimdasakatliksokuikioyuncukadrodancikarildikapakc51a47fc2679011djpg-BRFpxpTyIUG23pmCvD_WPQ.jpg?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/fenerbahcede11puanlikfarksonrasikadrodisiiddiasi6b029d49f4678357b8ba9f95png-mNCmmvyYbEiC4dBcGzUx_Q.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
-  },
-  {
-   "id": "9da4946d8a76",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/onur-buyuktopcu-igne-ile-28-kilo-verdim-43387144",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Onur Büyüktopçu: İğne ile 28 kilo verdim",
-   "snippet": "Oyuncu Onur Büyüktopçu, 28 kilo verme sürecinde zayıflama iğnesi kullandığını açıkladı. Başlangıçta bu durumu gizlediğini söyleyen oyuncu, sonrasında açıkça anlatmaya karar verdiğini belirtti.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b02f8c42356f0a3a15a3bf7.jpg",
-   "video": null,
-   "published": "2026-11-22T14:14:55.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/onur-buyuktopcu-igne-ile-28-kilo-verdim-43387144",
-     "title": "Onur Büyüktopçu: İğne ile 28 kilo verdim",
-     "snippet": "Oyuncu Onur Büyüktopçu, 28 kilo verme sürecinde zayıflama iğnesi kullandığını açıkladı. Başlangıçta bu durumu gizlediğini söyleyen oyuncu, sonrasında açıkça anlatmaya karar verdiğini belirtti.",
-     "published": "2026-11-22T14:14:55.000Z"
-    }
+   "mediaDone": true,
+   "titleFa": "توضیحات جنیفر لوپز درباره برنامه ورزشی و رژیم غذایی خود برای حفظ تناسب اندام",
+   "summaryFa": "جنیفر لوپز، خواننده ۵۷ ساله، جزئیات عادات غذایی و ورزشی خود را برای حفظ آمادگی جسمانی تشریح کرد. او اعلام کرد حدود ۱۰ سال است تمرینات وزنه انجام می‌دهد و مصرف کافئین را کنار گذاشته است.",
+   "bodyFa": [
+    "جنیفر لوپز، خواننده ۵۷ ساله و مشهور جهانی، درباره عادات غذایی و سبک ورزشی خود که برای حفظ تناسب اندام به کار می‌گیرد صحبت کرده است. او اعلام کرد تغییر در رژیم غذایی و انجام تمرینات ورزشی منظم نقش مهمی در روند زندگی او ایفا کرده است.",
+    "به گفته این ستاره معروف، او حدود ۱۰ سال است که تمرینات با وزنه را دنبال می‌کند و کار بر روی عضلات تغییرات بزرگی در بدن وی به وجود آورده است. لوپز همچنین به اصلاح عادات تغذیه‌ای خود اشاره کرد و گفت که کافئین، از جمله قهوه، مصرف نمی‌کند."
    ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6b02f8c42356f0a3a15a3bf7.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6b02f8c42356f0a3a15a3bf7.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
-   ],
-   "mediaDone": true
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "82252c29be18",
@@ -308,9 +279,27 @@
      "url": "https://www.sozcu.com.tr/sila-sahnede-sarkilariyla-degil-kaslariyla-da-sov-yapti-p383465",
      "title": "Sıla sahnede şarkılarıyla değil kaslarıyla da şov yaptı",
      "snippet": "Ünlü şarkıcı Sıla, İstanbul'daki sahnesinde hayranlarıyla buluştu. Hit şarkılarının yanı sıra özel repertuvarıyla müziks...",
-     "published": "2026-11-22T13:20:17.000Z"
+     "published": "2026-11-22T13:20:17.000Z",
+     "titleFa": "سیلا روی صحنه نه تنها با ترانه‌هایش بلکه با عضلاتش جلب توجه کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/silakarinkasijpg-USAgRHe8rESQrxFe1VdiJw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/silakarinkasijpg-USAgRHe8rESQrxFe1VdiJw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sila-sahnede-sarkilariyla-degil-kaslariyla-da-sov-yapti-1533x800jpg-b4WytgHKtES7mFuU2ZzU0A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yeni-proje-82jpg-5whz0HPnlka6USlZgAX6Cg.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/cbkmersinden101sayilikgalibiyetkapakb1427ce6c027bcf1jpg-0HH352BkKUW1lX1oLD7VaQ.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "درخشش سیلا روی صحنه استانبول با ترانه‌ها و تناسب اندامش",
+   "summaryFa": "سیلا، خواننده مطرح، در کنسرت جدید خود در استانبول به اجرای برنامه پرداخت. استایل و تناسب اندام او روی صحنه توجه زیادی را به خود جلب کرد.",
+   "bodyFa": [
+    "سیلا، خواننده مشهور، در جریان کنسرت اخیر خود در استانبول با طرفدارانش دیدار کرد. او در این برنامه علاوه بر اجرای قطعات معروف و محبوبش، آثاری از یک فهرست ویژه را برای علاقه‌مندان به نمایش گذاشت.",
+    "این هنرمند با کت و شلوار مشکی‌رنگی که توسط بوراک بایراکتاراوغلو طراحی شده بود روی صحنه به اجرا پرداخت. در کنار برنامه موسیقی، ظاهر متناسب و عضلات مشخص شکم او ازجمله جزئیاتی بود که در طول این شب توجه مخاطبان را به خود جلب کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8b3408ed627b",
@@ -439,9 +428,27 @@
      "url": "https://www.sozcu.com.tr/yesilcam-in-unutulmaz-oyuncusundan-87-yasina-ozel-paylasim-bugun-86-yil-geride-kaldi-p383456",
      "title": "Yeşilçam'ın unutulmaz oyuncusundan 87. yaşına özel paylaşım! \"Bugün 86 yıl geride kaldı…\"",
      "snippet": "Yeşilçam'ın unutulmaz oyuncularından Ediz Hun, 86. yaşını kutladı. \"Genç Kızlar\", \"Güllü\" ve \"Ankara Ekspresi\" gibi film...",
-     "published": "2026-11-22T12:30:39.000Z"
+     "published": "2026-11-22T12:30:39.000Z",
+     "titleFa": "پست ویژه بازیگر فراموش‌نشدنی یشیلچام به مناسبت ۸۷ سالگی‌اش؛ «امروز ۸۶ سال پشت سر گذاشته شد…»"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/688jpg-nHMmPBJxaUWYDhK55NNykg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/688jpg-nHMmPBJxaUWYDhK55NNykg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ediz-hunjpg-ccevjrosbU_winiDaCPC0A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yesilcamin-unutulmaz-oyuncusundan-87-yasina-ozel-paylasim-bugun-86-yil-geride-kaldi-1jpg-BA_GVZkNuUeKGOSab_NAWg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/otojpg-5zGZpq5_uEWcMjw9cthxLQ.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "پست ویژه ادیز هون، بازیگر پیشکسوت سینمای ترکیه به مناسبت تولد ۸۶ سالگی‌اش",
+   "summaryFa": "ادیز هون، از بازیگران ماندگار سینمای یشیلچام، تولد ۸۶ سالگی خود را همراه همسرش جشن گرفت و یادداشتی احساسی منتشر کرد.",
+   "bodyFa": [
+    "ادیز هون، از چهره‌های ماندگار و برجسته سینمای یشیلچام ترکیه، رسیدن به ۸۶ سالگی خود را جشن گرفت. این بازیگر باسابقه که با نقش‌آفرینی در فیلم‌های شناخته‌شده‌ای مانند «Genç Kızlar»، «Güllü» و «Ankara Ekspresi» در یادها مانده است، جایگاه ویژه‌ای در سینمای ترکیه دارد.",
+    "او به همین مناسبت، تصاویری را همراه همسر خود در شبکه‌های اجتماعی به اشتراک گذاشت و با نگارش یادداشتی احساسی، به مرور سال‌های سپری‌شده از زندگی‌اش پرداخت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "865e51f8cf97",
@@ -468,9 +475,19 @@
      "url": "https://www.haberturk.com/magazin/sila-kaslandi-3929199",
      "title": "Sıla'dan kas şov!",
      "snippet": "Ünlü şarkıcı Sıla, sahne aldığı mekanda karın kaslarını gözler önüne seren tarzıyla dikkat çekti",
-     "published": "2026-11-22T12:06:59.000Z"
+     "published": "2026-11-22T12:06:59.000Z",
+     "titleFa": "نمایش عضلات شکم توسط سیلا!"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای سیلا در استانبول و جلب توجه رسانه‌ها به استایل او",
+   "summaryFa": "سیلا، خواننده ترکیه‌ای، در کنسرت اخیر خود در استانبول با استایل ویژه روی صحنه رفت و ترانه‌هایش را اجرا کرد. همچنین گزارشی کوتاه از وقوع آتش‌سوزی در منطقه کوچوک‌چکمه‌جه استانبول منتشر شده است.",
+   "bodyFa": [
+    "سیلا، خواننده شناخته‌شده ترکیه‌ای، دیشب در استانبول با طرفداران خود دیدار کرد و قطعات محبوبش را به اجرا درآورد. استایل و ظاهر این هنرمند بر روی صحنه اجرا توجه حاضران را به خود جلب کرده است.",
+    "در بخش دیگری از این خبر، به حادثه آتش‌سوزی در طبقه زیرزمین یک ساختمان ۵ طبقه در منطقه کوچوک‌چکمه‌جه استانبول اشاره شده است. بر اساس ادعاهای مطرح‌شده، این حادثه تلفات جانی و مصدوم داشته و بررسی‌های تیم‌های مربوطه در محل حادثه همچنان ادامه دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "de6284c67e56",
@@ -497,9 +514,27 @@
      "url": "https://www.sozcu.com.tr/ajda-pekkan-dan-373-sarki-icin-tarihi-zafer-mahkeme-son-noktayi-koydu-p383451",
      "title": "Ajda Pekkan'dan 373 şarkı için tarihi zafer: Mahkeme son noktayı koydu",
      "snippet": "Türk pop müziğinin Süperstar'ı Ajda Pekkan, yıllara yayılan müzik kariyerinin eserleri için açtığı telif davasını kazand...",
-     "published": "2026-11-22T11:57:00.000Z"
+     "published": "2026-11-22T11:57:00.000Z",
+     "titleFa": "Pirozi-ye tarihi-ye Ajda Pekkan baraye 373 ahang: Dadgah nokte-ye akhir ra gozasht"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/801jpg-D9qud-MWnkSWHP5_IITw8A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/801jpg-D9qud-MWnkSWHP5_IITw8A.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/366jpg-qr0jzrFI_USquh5QlSypxw.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/227jpg-nyC-Z28pI0azp7EuB5k6zA.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b030e16f4678357b8baaa29png-L1RIbC7-Tk69GFnow1JQpA.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "پieruzi tarihi Ajda Pekkan baraye 373 ahang dar dadgah",
+   "summaryFa": "Ajda Pekkan dar dava-ye telif-i asar-i khod piriuz shod. Dadgah estefade-ye bi-ejazeh az 373 ahang-e ou ra dar paygah-e majazi gheyre-ghanuni tashkhis dad.",
+   "bodyFa": [
+    "Ajda Pekkan, chehre-ye moshakhas-e musighi-ye pop-e Torkiye, dar dava-ye telif-i marbut be asar-e dovvom-e doran-e kari-ye khod piroz shode ast.",
+    "Dadgah-e Hoghuqi-ye Malekiyat-e Fekri va Sanati-ye Istanbul ray dad ke estefade-ye bi-ejazeh az 373 sabt-e ahang az zendegi-ye 61 sale-ye honari-ye ou dar paygah-haye digital gheyre-ghanuni ast. In hokm hamchenin nokat-e hoghuqi-ye mohemmi ra darbare-ye enteqal-e hoquq-e digital dar sanat-e musighi bayan mikonad."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0743f6c630c4",
@@ -579,9 +614,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/kucuk-kizi-buyudu-artik-kendi-boyunu-gecti-43386914",
      "title": "Küçük kızı büyüdü, annesine arkadaş oldu",
      "snippet": "Sinema dünyasının iki ünlü yıldızı yolları bir film setinde kesiştiğinde henüz ikisi de yolun başında gencecik birer oyuncuydu. Sette başlayan yakınlaşmaları önce iyi bir arkadaşlığa sonra da büyük bir aşka dönüştü.",
-     "published": "2026-11-22T10:35:07.000Z"
+     "published": "2026-11-22T10:35:07.000Z",
+     "titleFa": "دختر کوچک بزرگ شد و دوست مادرش شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b02c0109a30875a04578cb8.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b02c0109a30875a04578cb8.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "دو ستاره مشهور سینما و آشنایی آن‌ها در یک پروژه سینمایی",
+   "summaryFa": "آشنای دو بازیگر مشهور سینما در یک پروژه فیلمبرداری آغاز شد و به دوستی و عشقی بزرگ تبدیل گردید.",
+   "bodyFa": [
+    "بر اساس گزارش‌های منتشر شده، مسیر زندگی دو ستاره سرشناس دنیای سینما زمانی به یکدیگر گره خورد که هر دو در ابتدای راه بازیگری خود بودند و در یک فیلم با یکدیگر هم‌بازی شدند.",
+    "این آشنایی که نخست در پشت صحنه شکل گرفت، به مرور زمان به یک دوستی عمیق و سپس به یک رابطه عاشقانه مبدل گشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3b7180a30fbb",
@@ -657,7 +710,8 @@
      "url": "https://www.sozcu.com.tr/almila-ada-anne-oldu-kizina-verdigi-isim-merak-uyandirdi-p383426",
      "title": "Almila Ada anne oldu: Kızına verdiği isim merak uyandırdı",
      "snippet": "Üç Kız Kardeş ve Kırgın Çiçekler gibi yapımlarla tanınan oyuncu Almila Ada, eşi İhsan Çilsal ile ilk kez anne-baba olman...",
-     "published": "2026-11-22T09:42:54.000Z"
+     "published": "2026-11-22T09:42:54.000Z",
+     "titleFa": "آلمیلا آدا مادر شد: نامی که روی دخترش گذاشته کنجکاوی برانگیخت"
     },
     {
      "source": "hurriyet-kelebek",
@@ -665,12 +719,38 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/almila-ada-anne-oldu-kizina-verdigi-isim-dikkat-cekti-43386919",
      "title": "Almila Ada anne oldu! Kızına verdiği isim dikkat çekti",
      "snippet": "Oyuncu Almila Ada ve eşi İhsan Çilsal, ilk çocuklarını kucaklarına aldı. Ünlü oyuncu, doğum sonrası yaptığı ilk paylaşımda kızının adını da açıkladı.",
-     "published": "2026-11-22T09:46:00.000Z"
+     "published": "2026-11-22T09:46:00.000Z",
+     "titleFa": "آلمیلا آدا مادر شد! نامی که روی دخترش گذاشته جلب توجه کرد"
     }
    ],
    "mergedIds": [
     "44004e2abad9"
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/505jpg-Al0Wn4bzRUeajBPcWFa3_Q.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/505jpg-Al0Wn4bzRUeajBPcWFa3_Q.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/almila-ada-anne-oldu-kizina-verdigi-isim-merak-uyandirdi-5jpg--bjV7Y1OB0esUBqGVh8NiA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/almila-ada-anne-oldu-kizina-verdigi-isim-merak-uyandirdi-4jpg-5YtD4c6mGUKbGE1n6QdQpw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/iphoneair2jpg-KOIui7VY4k2r4Qk0dfbapg.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "آلمیلا آدا مادر شد",
+   "summaryFa": "آلمیلا آدا و همسرش احسان چیلصال برای نخستین بار صاحب فرزند دختر شدند. این بازیگر خبر به دنیا آمدن فرزندش و نام او را در فضای مجازی اعلام کرد.",
+   "bodyFa": [
+    "آلمیلا آدا، بازیگر شناخته‌شده سریال‌هایی مانند «سه خواهر» و «گل‌های شکسته»، به همراه همسرش احسان چیلصال تجربه نخستین پدر و مادر شدن را به دست آوردند.",
+    "این بازیگر پس از به دنیا آمدن فرزند دخترش، با انتشار پستی در حساب کاربری خود در شبکه‌های اجتماعی، ضمن ابراز خوشحالی، نام فرزندش را نیز با مخاطبان به اشتراک گذاشت."
+   ],
+   "comparison": {
+    "agree": [
+     "آلمیلا آدا و همسرش احسان چیلصال اولین فرزند خود را به دنیا آوردند.",
+     "این بازیگر پس از زایمان در شبکه‌های اجتماعی پستی منتشر کرد و نام دخترش را اعلام نمود."
+    ],
+    "differ": [],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "e38b52f879f4",
@@ -799,9 +879,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-sarkici-sessiz-sedasiz-evlendi-aile-arasinda-dugun-43386856",
      "title": "Ünlü şarkıcı sessiz sedasız evlendi… Aile arasında düğün",
      "snippet": "Ünlü şarkıcı Miley Cyrus bir süredir birlikte olduğu erkek arkadaşı Maxx Morando’yla evlendi.",
-     "published": "2026-11-22T08:54:00.000Z"
+     "published": "2026-11-22T08:54:00.000Z",
+     "titleFa": "خواننده معروف بی‌سرصدا ازدواج کرد… عروسی در میان خانواده"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b02ad882356f0a3a15a3bb5.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b02ad882356f0a3a15a3bb5.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "مایلی سایرس بدون سر و صدا با مکس موراندو ازدواج کرد",
+   "summaryFa": "مایلی سایرس، خواننده مشهور، با دوست پسر خود مکس موراندو ازدواج کرد. این مراسم به صورت خانوادگی و به دور از سر و صدا برگزار شد.",
+   "bodyFa": [
+    "بر اساس گزارش‌های منتشر شده، مایلی سایرس خواننده سرشناس، با مکس موراندو که مدتی بود با او رابطه داشت، ازدواج کرده است.",
+    "این مراسم عروسی به صورت خانوادگی و به دور از هیاهو و سر و صدا برگزار شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "74025fe6ed26",
@@ -815,7 +913,7 @@
    "video": null,
    "published": "2026-11-22T08:50:38.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -828,9 +926,21 @@
      "url": "https://www.haberturk.com/magazin/foto/emre-altug-a-hapis-soku-ogrendikten-sonra-3929175",
      "title": "Emre Altuğ'a hapis şoku!",
      "snippet": "Ünlü şarkıcı ve oyuncu Emre Altuğ hakkında, Çeşme’de sit alanı içerisinde bulunan taşınmazına projeye aykırı olarak yapı inşa ettiği iddiasıyla hapis istemiyle dava açıldı",
-     "published": "2026-11-22T08:50:38.000Z"
+     "published": "2026-11-22T08:50:38.000Z",
+     "titleFa": "شوک زندان برای امره آلتوغ!"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "پرandه قضایی و درخواست حبس برای امره آلتوغ",
+   "summaryFa": "درباره خواننده و بازیگر معروف، امره آلتوغ، به اتهام ساخت‌وساز غیرمجاز در منطقه حفاظت‌شده در چشمه پرونده قضایی تشکیل شده است. دادستان خواستار مجازات حبس تا ۱۰ سال برای او شده است.",
+   "bodyFa": [
+    "برای امره آلتوغ، خواننده و بازیگر مشهور، به اتمام ساخت‌وساز خلاف پروژه در ملکی واقع در منطقه حفاظت‌شده در چشمه، کیفرخواستی با درخواست حبس صادر شده است.",
+    "شهرداری چشمه اعلام کرده است که در ملک متعلق به آلتوغ در محله موسالا ساخت‌وسازهایی از جمله استخر، اتاق موتورخانه، دیوارهای بریگتی و بناهای یک‌طبقه انجام شده است. از آنجا که این ملک در یک منطقه حفاظت‌شده قرار دارد، شهرداری به دلیل ساخت‌وساز بدون مجوز و پروانه شکایت کرده است.",
+    "بر اساس کیفرخواست تنظیم‌شده از سوی دادستانی، برای آلتوغ به اتهام «مخالفت با قانون حفاظت از ارزش‌های فرهنگی و طبیعی» و «ایجاد آلودگی ساختمانی» تقاضای ۳ تا ۱۰ سال زندان شده است.",
+    "امره آلتوغ در اظهارات خود ادعا کرده است که تصمیم مربوطه به طور غیرقانونی به او ابلاغ شده، برای لغو تصمیم انجمن شکایت کرده و با دریافت نظریه از اداره کل منطقه دوم سازمان عمومی دولت آب وزارت کشاورزی و جنگلداری، هیچ مانعی برای ساخت‌وساز وجود نداشته و عناصر جرم شکل نگرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "eef2cecc341a",
@@ -857,9 +967,27 @@
      "url": "https://www.sozcu.com.tr/1-5-metrelik-pasta-seda-onder-in-dogum-gunu-pastasi-masayi-kapladi-p383412",
      "title": "1,5 metrelik pasta: Seda Önder'in doğum günü pastası masayı kapladı",
      "snippet": "Şarkıcı Seda Önder, doğum gününü İstanbul'da yakın dostlarıyla kutladı. Pembe elbisesinden çiçeklere kadar her ayrıntını...",
-     "published": "2026-11-22T08:35:36.000Z"
+     "published": "2026-11-22T08:35:36.000Z",
+     "titleFa": "کیک ۱.۵ متری: کیک تولد سدا اوندر میز را پوشاند"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sedaonderjpg-7wHOkEL8EUK7822seiFrjA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sedaonderjpg-7wHOkEL8EUK7822seiFrjA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sedaonederrsjpg-u5UB8nP4PkuH_Iv8tTBI1g.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/15-metrelik-pasta-seda-onderin-dogum-gunu-pastasi-masayi-kapladipng-p7vkKbfJ0EmBoHtClcHMOA.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/alanyadayolvermekavgasindabicaklananogretmenhayatinikaybettikapak71998242547fa433jpg-X2467GFzB0OIX9mkxXsTkA.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن تولد خواننده سدا اوندر با کیک ۱.۵ متری در استانبول",
+   "summaryFa": "سدا اوندر، خواننده، تولد خود را با حضور دوستان نزدیکش در استانبول جشن گرفت. کیک غول‌پیکر ۱.۵ متری این مراسم توجه زیادی را به خود جلب کرد.",
+   "bodyFa": [
+    "سدا اوندر، خواننده ترکیه‌ای، زادروز خود را طی جشنی خصوصی در یک رستوران مجلل در استانبول با حضور دوستان نزدیکش برگزار کرد. این مهمانی به دلیل جزئیات هماهنگ و رنگارنگ خود مورد توجه رسانه‌ها قرار گرفت.",
+    "در این مراسم که از لباس صورتی میزبان گرفته تا گل‌ها همگی با یکدیگر هماهنگ بودند، مهم‌ترین و بحث‌برانگیزترین بخش جشن به کیک تولد غول‌پیکر و ۱.۵ متری تعلق داشت که تمام سطح میز را پوشانده بود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ed049a671c97",
@@ -886,9 +1014,27 @@
      "url": "https://www.sozcu.com.tr/nil-karaibrahimgil-binlerce-kisiye-seslendi-ters-smokiniyle-sahneye-cikti-p383405",
      "title": "Nil Karaibrahimgil binlerce kişiye seslendi: Ters smokiniyle sahneye çıktı",
      "snippet": "Nil Karaibrahimgil, Zorlu PSM'de gerçekleşen Senfonil konserinde binlerce müzikseverle buluştu. Sevilen şarkılarını senf...",
-     "published": "2026-11-22T08:15:08.000Z"
+     "published": "2026-11-22T08:15:08.000Z",
+     "titleFa": "نیل کارابراهیم‌گیل هزاران نفر را مخاطب قرار داد: با اسموکینگ وارونه به روی صحنه رفت"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/92jpg-7hqL10hVqE_z7AvydTutpw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/92jpg-7hqL10hVqE_z7AvydTutpw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/nil-karaibrahimgil-binlerce-kisiye-seslendi-ters-smokiniyle-sahneye-cikti-2jpeg-1OOd9qfyFUOaQYoVzSCeuQ.jpeg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/nil-karaibrahimgil-binlerce-kisiye-seslendi-ters-smokiniyle-sahneye-cikti-4jpeg-72lt5CO3rkG0-DvKoXSTkg.jpeg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/867jpg-0b-4JftTeECdjzWxPqa_fA.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای نیل کارابراهیم‌گیل در مرکز زورلو پسه و لباس متفاوت او روی صحنه",
+   "summaryFa": "نیل کارابراهیم‌گیل در مرکز زورلو پسه کنسرت برگزار کرد و ترانه‌های محبوب خود را با ارکستر سمفونیک خواند. او با لباس خاص و طراحی‌شده روی صحنه حاضر شد.",
+   "bodyFa": [
+    "نیل کارابراهیم‌گیل، خواننده سرشناس، در کنسرت «سفونیل» که در مرکز زورلو پسه برگزار شد، با هزاران نفر از طرفداران خود دیدار کرد.",
+    "این هنرمند در جریان این اجرا، آهنگ‌های محبوب خود را همراه با ارکستر سمفونیک برای مخاطبان اجرا کرد و حضور او با اسموکینگ وارونه اثر تانجو باباجان، از نکات برجسته و پرمخاطب این رویداد بود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "bf5284216834",
@@ -915,9 +1061,27 @@
      "url": "https://www.sozcu.com.tr/gokhan-turkmen-den-esine-romantik-dogum-gunu-jesti-iznik-te-kutladilar-p383400",
      "title": "Gökhan Türkmen'den eşine romantik doğum günü jesti: İznik'te kutladılar",
      "snippet": "Şarkıcı Gökhan Türkmen, eşi Sinem Türkmen'in yeni yaşını kutladığı özel geceden romantik bir kare paylaştı. İznik'te yak...",
-     "published": "2026-11-22T08:01:18.000Z"
+     "published": "2026-11-22T08:01:18.000Z",
+     "titleFa": "حرکت رومانتیک گوخان تورکمن برای همسرش در روز تولدش: در ایزنیک جشن گرفتند"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/604jpg-44QeVHyczUKJnTp9N3JArw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/604jpg-44QeVHyczUKJnTp9N3JArw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/gokhan-turkmenden-esine-romantik-dogum-gunu-jesti-iznikte-kutladilarjpeg-Q1qnFWpg40eU2TSUbW8TJg.jpeg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/bucurcadininkucukzelisibuyudusimditiyatrosahnesindejpg-knUcqiRgTkK16gLMfjrnpw.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/975jpg-_aV6hvSMnUioz6Tl4NFOcg.jpg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "ژست رومانتیک گوخان تورکمن برای تولد همسرش در ایزنیک",
+   "summaryFa": "گوخان تورکمن، خواننده سرشناس، تصاویری از جشن تولد همسرش سینم تورکمن در ایزنیک منتشر کرد. این جشن با حضور دوستان نزدیک این زوج برگزار شد.",
+   "bodyFa": [
+    "گوخان تورکمن، خواننده ترکیه، به مناسبت تولد همسرش سینم تورکمن محفلی خاص و رومانتیک تدارک دید. این مراسم جشن تولد در شهر ایزنیک و با حضور جمعی از دوستان نزدیک این زوج برگزار گردید.",
+    "در جریان این شب ویژه، کیک غافلگیرکننده‌ای بریده شد و عکس دو نفره و رومانتیکی که این زوج در فضای مجازی به اشتراک گذاشتند، به یکی از لحظات برجسته و پرتوجه این جشن تبدیل شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5223f48ebfcd",
@@ -944,9 +1108,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/esi-selena-gomezin-sirrini-acikladi-her-gun-bir-kavanoz-yiyor-7705458",
      "title": "Eşi Selena Gomez'in sırrını açıkladı! 'Her gün bir kavanoz yiyor'",
      "snippet": "Selena Gomez'in yıllardır vazgeçemediği alışkanlığı ortaya çıktı. Ünlü yıldızın alışkanlığını anlatan eşi Benny Blanco, \"Eşim her gün bir kavanoz yiyor. Ondan vazgeçmesine imkan yok\" dedi. Gomez'in hazırladığı patlamış mısır tarifi de sosyal medyada büyük ilgi gördü.",
-     "published": "2026-11-22T07:35:01.000Z"
+     "published": "2026-11-22T07:35:01.000Z",
+     "titleFa": "همسر سلنا گومز راز او را فاش کرد! «هر روز یک شیشه می‌خورد»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b029af5b61a898b6e3136be.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b029af5b61a898b6e3136be.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "افشای عادت روزانه سلنا گومز توسط همسرش بنی بلانکو",
+   "summaryFa": "بنی بلانکو، همسر سلنا گومز، از عادت چندساله این خواننده پرده برداشت و اعلام کرد او روزانه یک شیشه کامل از خوراکی مورد علاقه‌اش را می‌خورد. همچنین دستور تهیه پاپ‌کورن گومز در شبکه‌های اجتماعی بسیار مورد توجه قرار گرفته است.",
+   "bodyFa": [
+    "بنی بلانکو، همسر سلنا گومز، به تازگی درباره یکی از عادت‌های قدیمی و ترک‌نشدنی این ستاره معروف صحبت کرده است. به گفته بلانکو، گومز سال‌هاست به این عادت وابستگی دارد و امکان ندارد آن را کنار بگذارد، به طوری که هر روز یک شیشه کامل از این خوراکی را مصرف می‌کند.",
+    "در کنار مطرح شدن این موضوع، دستور تهیه پاپ‌کورنی که سلنا گومز آماده کرده نیز در فضای مجازی و شبکه‌های اجتماعی با استقبال و توجه فراوان کاربران مواجه شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "257bbf5b04b1",
@@ -960,7 +1142,7 @@
    "video": null,
    "published": "2026-11-22T07:24:03.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -973,9 +1155,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/superstar-ajda-pekkan-hukuk-mucadelesini-kazandi-373-sarkisi-icin-emsal-karar-7705457",
      "title": "Süperstar Ajda Pekkan hukuk mücadelesini kazandı! 373 şarkısı için emsal karar",
      "snippet": "Türk pop müziğinin Süperstar'ı Ajda Pekkan, yıllardır dijital müzik platformlarında yayımlanan eserlerinin izinsiz kullanıldığı iddiasıyla başlattığı hukuk mücadelesini kazandı. Mahkeme, aralarında Elenor Plak, Akbaş Müzik, Avrupa Müzik ve Odeon Müzik'in de bulunduğu yapım şirketlerine karşı açılan ",
-     "published": "2026-11-22T07:24:03.000Z"
+     "published": "2026-11-22T07:24:03.000Z",
+     "titleFa": "پیروزی حقوقی سوپراستار آژدا پکان! رأی نمونه برای ۳۷۳ آهنگ او"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b029803b61a898b6e31368c.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b029803b61a898b6e31368c.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "پyrozی آژدا پکان در نبرد حقوقی برای آثارش",
+   "summaryFa": "آژدا پکان، فوق‌ستاره موسیقی پاپ ترکیه، توانست در پرونده حقوقی مربوط به استفاده غیرمجاز از آثارش در پلتفرم‌های دیجیتال پیروز شود. دادگاه علیه شرکت‌های تولیدی مختلف رأی صادر کرد.",
+   "bodyFa": [
+    "آژدا پکان، چهره برجسته موسیقی پاپ ترکیه، توانست در دعوای حقوقی خود پیروز شود. این پرونده با ادعای استفاده غیرمجاز از ۳۷۳ اثر این خواننده در پلتفرم‌های دیجیتال آغاز شده بود.",
+    "دادگاه مربوطه تصمیمی نمونه‌وار در این زمینه اتخاذ کرد و این رأی علیه شرکت‌های تولیدی مختلف از جمله الر پلاک، آکباش موزیک، اوروپا موزیک و اودئون موزیک صادر شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c11231897eda",
@@ -1002,9 +1202,20 @@
      "url": "https://www.haberturk.com/magazin/foto/seda-bakan-ve-ailesi-yeni-yuvasina-kavustu-3929158",
      "title": "Yeni yuvalarına kavuştular",
      "snippet": "Ünlü oyuncu Seda Bakan, ailesiyle birlikte daha büyük eve taşındı. Bakan ve eşi Ali Erel, yeni yuvaları için kesenin ağzını açtı",
-     "published": "2026-11-22T07:19:39.000Z"
+     "published": "2026-11-22T07:19:39.000Z",
+     "titleFa": "آن‌ها به خانه جدید خود رسیدند"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "سда باکان و خانواده‌اش به خانه جدید نقل مکان کردند",
+   "summaryFa": "بازیگر مشهور، سدا باکان، به همراه همسر و فرزندانش به خانه‌ای بزرگ‌تر در ساری‌یر اسباب‌کشی کرد. بر اساس گزارش‌ها، این زوج برای خرید و بازسازی خانه جدید هزینه قابل توجهی انجام داده‌اند.",
+   "bodyFa": [
+    "سدا باکان، بازیگر شناخته‌شده، پس از اینکه خانه‌اش به همراه همسرش علی اریل و دو فرزندشان کوچک شده بود، تصمیم به تغییر محل سکونت گرفت. این خانواده که پیش‌تر با دو پرستار زندگی می‌کردند، خانه‌ای جدید در منطقه ساری‌یر خریداری کردند.",
+    "بر اساس اخبار منتشر شده، پس از اتمام کارهای بازسازی که به سلیقه شخصی این زوج انجام شد، آن‌ها به خانه جدید خود نقل مکان کردند. ادعا شده است که مجموع هزینه‌های خرید خانه و بازسازی آن حدود ۹۰ میلیون لیر بوده است.",
+    "این بازیگر همچنین پیش‌تر در صحبت‌های خود به نحوه آشنایی‌اش با همسرش در جریان همکاری در تئاتر و دوران آشنایی پیش از ازدواج اشاره کرده بود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "32e79101444f",
@@ -1031,7 +1242,8 @@
      "url": "https://www.haberturk.com/magazin/eski-esi-cansu-tosun-dan-erkan-kolcak-kostendil-e-surpriz-3929147",
      "title": "Eski eşine sürpriz yaptı",
      "snippet": "Ünlü oyuncu ve yönetmen Erkan Kolçak Köstendil, \"Resmin Aklımda Kaldı Izdırap\" filminin özel galasında eski eşi Cansu Tosun'un sürpriziyle karşılaştı",
-     "published": "2026-11-22T06:23:40.000Z"
+     "published": "2026-11-22T06:23:40.000Z",
+     "titleFa": "همسر سابقش را سورپرایز کرد"
     }
    ],
    "videos": [
@@ -1040,7 +1252,15 @@
      "id": "zcXD6TCe2M4"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "غافلگیری ارکان کلچاک کوستندیل در اکران خصوصی فیلمش",
+   "summaryFa": "ارکان کلچاک کوستندیل در اکران خصوصی فیلم خود با سورپرایز همسر سابقش مواجه شد. این فیلم حاصل بیش از ۱۰ سال تلاش است.",
+   "bodyFa": [
+    "ارکان کلچاک کوستندیل، بازیگر و کارگردان شناخته‌شده، برای موفقیت فیلم «Resmin Aklımda Kaldı Izdırap» که در جشنواره‌های بین‌المللی نیز جوایزی کسب کرده، میزبان یک شب اکران خصوصی بود. در این مراسم که همکاران و دوستان این هنرمند حضور داشتند، او با سورپرایزی از سوی همسر سابقش، جانسو توسون، روبه‌رو شد.",
+    "کوستندیل در این مراسم درباره اثر خود توضیح داد که این پروژه چهار بخشی، حاصل نزدیک به ۱۰ سال تلاش مستمر و ساخت آن با بودجه شخصی در طول زمان بوده است. به گفته وی، این اثر سفری از کودکی تا سالمندی را روایت می‌کند و به داستان‌ها، کوچه‌ها و خاطرات مشترک انسانی می‌پردازد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f02f65a6784e",
@@ -1067,7 +1287,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/unluyle-ask-yasamak-zor-43386638",
      "title": "Ünlüyle aşk yaşamak zor",
      "snippet": "Bazıları onu Simge Sağın’la yaşadığı ilişkiyle tanıdı ama o uzun süredir müzik dünyası-nın içinde. Bir yandan yurtiçinde ve yurtdışında DJ setinin başına geçip elektronik mü-zik sevenleri eğlendiriyor, bir yandan da kurduğu müzik akademileriyle sektöre yeni müzisyenler yetiştiriyor.",
-     "published": "2026-11-22T06:20:37.000Z"
+     "published": "2026-11-22T06:20:37.000Z",
+     "titleFa": "عاشق شدن با یک فرد مشهور دشوار است"
     }
    ],
    "images": [
@@ -1078,7 +1299,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "رابطه با افراد مشهور دشوار است",
+   "summaryFa": "برخی او را با رابطه اش با سیمگه ساغین می شناسند، در حالی که او مدت هاست در دنیای موسیقی فعالیت دارد.",
+   "bodyFa": [
+    "برخی افراد او را از طریق رابطه اش با سیمگه ساغین می شناسند، اما او سابقه ای طولانی در دنیای موسیقی دارد.",
+    "او در کنار فعالیت به عنوان دی جی در داخل و خارج از کشور برای علاقه مندان به موسیقی الکترونیک، با تأسیس آکادمی های موسیقی به پرورش هنرمندان جدید در این صنعت نیز مشغول است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1c83289bc392",
@@ -1128,35 +1357,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "e5375f3c6097",
-   "url": "https://www.sozcu.com.tr/uc-karisi-da-terk-etti-saglik-sorunlariyla-bogusuyor-simdi-basinda-hemsire-var-p383348",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Üç karısı da terk etti, sağlık sorunlarıyla boğuşuyor: Şimdi başında hemşire var",
-   "snippet": "Müzik dünyasının efsane ismi Phil Collins, yıllar sonra çocuklarına yönelik pişmanlığını dile getirmişti. Üç evliliği so...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/596jpg-2YAk8Rfp10eDJUUv28q2Jw.jpg",
-   "video": null,
-   "published": "2026-11-22T05:18:40.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/uc-karisi-da-terk-etti-saglik-sorunlariyla-bogusuyor-simdi-basinda-hemsire-var-p383348",
-     "title": "Üç karısı da terk etti, sağlık sorunlarıyla boğuşuyor: Şimdi başında hemşire var",
-     "snippet": "Müzik dünyasının efsane ismi Phil Collins, yıllar sonra çocuklarına yönelik pişmanlığını dile getirmişti. Üç evliliği so...",
-     "published": "2026-11-22T05:18:40.000Z"
-    }
-   ]
   },
   {
    "id": "dd6924cc1eb0",
@@ -1320,7 +1520,7 @@
    "video": null,
    "published": "2026-11-22T04:02:02.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -1333,7 +1533,8 @@
      "url": "https://www.milliyet.com.tr/magazin/fenomenler-ozur-dileyecek-7705339",
      "title": "‘Fenomenler özür dileyecek’",
      "snippet": "Katıldığı bir programda fenomenlerin sahte bir dünya yarattığına vurgu yapan oyuncu, “Bütün Instagram fenomenleri, kendilerini olmadıkları gibi göstererek yarattıkları sahte dünya için önümüzdeki 10 yıl içinde toplum önünde özür dileyecek. Üzücü bir haberi paylaştıktan sonra arkasından, ‘Ne kadar mu",
-     "published": "2026-11-22T04:02:02.000Z"
+     "published": "2026-11-22T04:02:02.000Z",
+     "titleFa": "«فَنومِن‌لر اوزور دیله‌یجک»"
     }
    ],
    "images": [
@@ -1344,7 +1545,16 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتقاد اوکان بایولگن از اینستاگرام و پیش‌بینی او درباره چهره‌های شبکه‌های اجتماعی",
+   "summaryFa": "اوکان بایولگن در یک برنامه تلویزیونی از چهره‌های شبکه‌های اجتماعی انتقاد کرد. او پیش‌بینی کرد که این افراد طی ده سال آینده به خاطر دنیای دروغینی که ساخته‌اند، عذرخواهی خواهند کرد.",
+   "bodyFa": [
+    "اوکان بایولگن، بازیگر، در یک برنامه تلویزیونی به شدت به فعالان و چهره‌های شبکه‌های اجتماعی (اینستاگرام) تاخت و از عملکرد آن‌ها انتقاد کرد.",
+    "او در سخنان خود بیان کرد که این افراد با نشان دادن چهره‌ای غیرواقعی از خود، یک دنیای ساختگی و دروغین به وجود آورده‌اند که تأثیر منفی بر جامعه دارد.",
+    "این بازیگر همچنین ادعا و پیش‌بینی کرد که تمام این چهره‌های مجازی طی ده سال آینده مجبور خواهند شد در ملاءعام و مقابل جامعه به خاطر ساختن این دنیای دروغین عذرخواهی کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ea435cf6d275",
@@ -1406,7 +1616,7 @@
    "video": null,
    "published": "2026-11-22T04:02:00.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "rumor",
    "entities": {
     "series": [],
     "people": [],
@@ -1419,7 +1629,8 @@
      "url": "https://www.milliyet.com.tr/magazin/eglencesi-tatsiz-bitti-7705333",
      "title": "Eğlencesi tatsız bitti",
      "snippet": "MESUT YILMAZ -Alkolün etkisiyle büyüyen kavgada Döngel’in arkadaşları tarafından sakinleştirilmeye çalışıldığı sırada, grubun mekandan ayrıldığı öne sürüldü. Çıkışta objektife yansıyan oyuncu, “Öyle bir şey olmadı” diyerek, kavgayı yalanladı.",
-     "published": "2026-11-22T04:02:00.000Z"
+     "published": "2026-11-22T04:02:00.000Z",
+     "titleFa": "تفریح او تلخ به پایان رسید"
     }
    ],
    "images": [
@@ -1430,7 +1641,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "پayan ناخوشایند شب‌نشینی ملیسا دونگل",
+   "summaryFa": "گفته می‌شود ملیسا دونگل در یک مکان تفریحی در منطقه ببک استانبول با گروهی دچار درگیری شده است. این بازیگر ادعای مطرح شده درباره درگیری را تکذیب کرد.",
+   "bodyFa": [
+    "بر اساس گزارش‌های منتشر شده، شب‌نشینی ملیسا دونگل در استانبول با حواشی همراه بوده و ادعا می‌شود که این بازیگر در یک مکان تفریحی واقع در منطقه ببک با گروهی وارد بحث و جدل شده است. منابع خبری ادعا کرده‌اند که این درگیری تحت تأثیر مصرف الکل بالا گرفته و دوستان دونگل تلاش کرده‌اند او را آرام کنند و در نهایت گروه محل را ترک کرده‌اند.",
+    "با این حال، ملیسا دونگل هنگام خروج از محل در مقابل دوربین خبرنگاران قرار گرفت و این ادعاها را به طور کامل رد کرد. او با بیان اینکه «چنین چیزی رخ نداده است»، خبر درگیری را تکذیب نمود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6c6a86087baa",
@@ -1457,7 +1676,8 @@
      "url": "https://www.milliyet.com.tr/magazin/sahnede-askini-haykirdi-7705332",
      "title": "Sahnede aşkını haykırdı",
      "snippet": "Çapamarka’da konser veren sanatçıyı dinlemeye giden oyuncu, kendisini sahneye çağıran Olcay’a kayıtsız kalamadı. Mikronu alır almaz, “Çok uzun zamandır sana aşığım” diyerek, iltifatlar yağdıran Tülek’in, Olcay’la yaptığı ‘Dedikodu’ düeti dakikalarca alkışlandı.",
-     "published": "2026-11-22T04:02:00.000Z"
+     "published": "2026-11-22T04:02:00.000Z",
+     "titleFa": "ابراز عشق روی صحنه"
     }
    ],
    "images": [
@@ -1468,7 +1688,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اعتراف عاشقانه توغrul تولک به زهال اولجای روی صحنه",
+   "summaryFa": "توغrul تولک در جریان کنسرت زهال اولجای روی صحنه رفت و به او ابراز علاقه کرد. این دو همچنین قطعه «Dedikodu» را با هم اجرا کردند که با استقبال حاضران روبرو شد.",
+   "bodyFa": [
+    "در رویدادی که در چارپامارکا برگزار شد، زهال اولجای میزبان توغrul تولک روی صحنه بود. این بازیگر که برای تماشای کنسرت رفته بود، دعوت اولجای را پذیرفت و روی صحنه رفت.",
+    "توغrul تولک پس از گرفتن میکروفون، با ابراز عشق طولانی‌مدت خود به اولجای و بیان تعریف و تمجید، توجه‌ها را به خود جلب کرد. اجرای مشترک آن‌ها در قالب دوئت قطعه «Dedikodu» با تشویق طولانی مدت حاضران همراه شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0609f4e62909",
@@ -1544,7 +1772,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/surekli-bitpazarina-nur-yagiyor-43386588",
      "title": "‘Sürekli bitpazarına nur yağıyor’",
      "snippet": "Televizyonun en etkili isimlerinden biri oldu. Şov dünyasına damga vurdu. İşleri kadar söylemleriyle de dikkat çekti. Hep dobra ve sivriydi, hiç uslu çocuk olmadı. Okan Bayülgen şimdi yeni oyunu ‘Skandal’ için gün sayıyor. Onunla buluşup ünlüler dünyasını, aşkı, hayatı ve geçmişteki işlerini konuşuy",
-     "published": "2026-11-22T04:00:00.000Z"
+     "published": "2026-11-22T04:00:00.000Z",
+     "titleFa": "«سوداگران همیشه بازار کهنه را رونق می‌دهند»"
     }
    ],
    "images": [
@@ -1555,7 +1784,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "گگفتگو با اوکان بایولگن درباره نمایش جدیدش «اسکاندال»",
+   "summaryFa": "اوکان بایولگن، یکی از چهره‌های تأثیرگذار تلویزیون، خود را برای اجرای نمایش جدیدش به نام «اسکاندال» آماده می‌کند.",
+   "bodyFa": [
+    "اوکان بایولگن به عنوان یکی از چهره‌های تأثیرگذار تلویزیون و دنیای نمایش شناخته می‌شود که همواره علاوه بر فعالیت‌های حرفه‌ای‌اش، به خاطر اظهارات صریح و بی‌پرده خود نیز مورد توجه قرار گرفته است.",
+    "او اکنون در تدارک اجرای نمایش جدید خود با عنوان «اسکاندال» است و در این زمینه درباره مسائل مختلفی چون دنیای مشاهیر، عشق، زندگی و کارهای گذشته‌اش گفتگو کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "039c27ab3998",
@@ -1582,7 +1819,8 @@
      "url": "https://www.milliyet.com.tr/magazin/alyanin-yildizi-dustu-7705336",
      "title": "Alya’nın yıldızı düştü",
      "snippet": "MESUTYILMAZ - Geçtiğimiz hafta konserinde düşerek yaralanan şarkıcı, Sahne17 Plus performansı öncesi muhabirlerin hediye ettiği dev nazar boncuğuyla poz verdi. Dudağı ve çenesinden yaralandığını söyleyen sanatçı, “Nazar değil de yıldızım çok düşük” dedi. Oyunculuğa dönmek istediğini de dile getiren ",
-     "published": "2026-11-22T03:48:18.000Z"
+     "published": "2026-11-22T03:48:18.000Z",
+     "titleFa": "ستاره آلیا سقوط کرد"
     }
    ],
    "images": [
@@ -1593,7 +1831,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اظهارات آلیا درباره حادثه کنسرت و تمایل به بازیگری",
+   "summaryFa": "آلیا، خواننده‌ای که اخیراً در کنسرت خود دچار حادثه شده بود، درباره آسیب‌های وارده و تمایلش به بازگشت به بازیگری صحبت کرد.",
+   "bodyFa": [
+    "خواننده معروف، آلیا، که در هفته گذشته طی اجرای کنسرت خود سقوط کرده و دچار آسیب‌دیدگی شده بود، پیش از اجرای برنامه‌اش در «Sahne17 Plus» با خبرنگاران گفتگو کرد. او در این دیدار با یک هدیه nazar boncuğu (مهره چشم‌نظر) بزرگ که خبرنگاران به او داده بودند، عکس یادگاری گرفت.",
+    "این هنرمند اشاره کرد که از ناحیه لب و چانه دچار جراحت شده است، اما تأکید کرد که مشکل اصلی را باید در جای دیگری جستجو کرد و گفت: «این چشم‌زخم نیست، بلکه ستاره بخت من بسیار پایین آمده است.» او همچنین در جریان این گفتگو از تمایل خود برای بازگشت به عرصه بازیگری خبر داد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4c38019b6797",
@@ -1667,7 +1913,8 @@
      "url": "https://www.sabah.com.tr/magazin/yol-arkadasim-3un-yildizi-cindy-7706660",
      "title": "‘Yol Arkadaşım 3’ün yıldızı Cindy",
      "snippet": "İbrahim Büyükak ve Oğuzhan Koç'un sevilen karakterleri Şeref ve Onur, 'Yol Arkadaşım 3' ile yeniden beyazperdeye dönmeye hazırlanıyor. Serinin merakla beklenen üçüncü filminden set kareleri de gelmeye... Devamı için tıklayınız",
-     "published": "2026-11-21T20:33:33.000Z"
+     "published": "2026-11-21T20:33:33.000Z",
+     "titleFa": "ستاره «یول آرکاداشیم ۳» سیندی است"
     }
    ],
    "images": [
@@ -1678,7 +1925,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "سین디، ستاره جدید فیلم «یول آرکاداشیم ۳»",
+   "summaryFa": "شخصیت‌های محبوب شرف و اونور با فیلم «یول آرکاداشیم ۳» به پرده سینما بازمی‌گردند. تصاویری از پشت صحنه این اثر منتشر شده است.",
+   "bodyFa": [
+    "شخصیت‌های محبوب و شناخته‌شده شرف و اونور با بازی ابراهیم بویوک‌آک و اوغوزهان کوچ، در حال آماده شدن برای بازگشت دوباره به پرده سینما با فیلم «یول آرکاداشیم ۳» هستند.",
+    "همزمان با نزدیک شدن به اکران این اثر مورد انتظار، تصاویری از پشت صحنه فیلمبرداری منتشر شده است که وسیله نقلیه جدید فیلم به همراه تریلر حمل و نقل ویژه و همچنین اسب قهرمان و ستاره دوست‌داشتنی آن یعنی سیندی را به نمایش می‌گذارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f01b750e5b6f",
@@ -1692,7 +1947,7 @@
    "video": null,
    "published": "2026-11-21T20:32:30.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1705,9 +1960,27 @@
      "url": "https://www.sabah.com.tr/magazin/o-hanimefendiyi-tanimiyorum-7706658",
      "title": "‘O hanımefendiyi tanımıyorum’",
      "snippet": "Esat Yontunç'un adı bir süredir yasak aşk iddialarına karışmıştı. Ünlü isim, hakkında çıkan bu söylentilerle ilgili ilk kez açıklama yaptı. Yontunç, \"Adı geçen hanımefendiyi tanımadığım gibi hayatımda... Devamı için tıklayınız",
-     "published": "2026-11-21T20:32:30.000Z"
+     "published": "2026-11-21T20:32:30.000Z",
+     "titleFa": "آن خانم را نمی‌شناسم"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/7d6d1a/1200/675/0/19/387/237?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/o-hanimefendiyi-tanimiyorum-1795293146207.jpeg",
+    "https://iasbh.tmgrup.com.tr/64f8ae/752/395/0/26/387/229?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/o-hanimefendiyi-tanimiyorum-1795293146207.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "پ응خن اسات یونتونک به ادعاهای رابطه ممنوعه",
+   "summaryFa": "اسات یونتونک برای نخستین بار به شایعات درباره رابطه ممنوعه واکنش نشان داد. او این ادعاها را رد کرد.",
+   "bodyFa": [
+    "نام اسات یونتونک مدتی بود که درگیر ادعاهای مربوط به یک رابطه ممنوعه شده بود. این چهره سرشناس برای اولین بار نسبت به این شایعات واکنش نشان داد و توضیحاتی ارائه کرد.",
+    "او اعلام کرد که آن زن را نمی‌شناسد و حتی در زندگی‌اش هیچ‌گونه ارتباطی مانند سلام و احوالپرسی هم با او نداشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f774d9ad162a",
@@ -1721,7 +1994,7 @@
    "video": null,
    "published": "2026-11-21T20:17:26.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1734,9 +2007,28 @@
      "url": "https://www.sabah.com.tr/magazin/cagdas-dansin-dort-farkli-yorumu-7706650",
      "title": "Çağdaş dansın dört farklı yorumu",
      "snippet": "İstanbul Devlet Opera ve Balesi, dört farklı koreografiden oluşan 'Momentum' gösterisini sanatseverlerle buluşturuyor. 'Interwoven', 'Unison', 'Kurgu' ve 'Köçekçe: Bir Rapsodi' 4 farklı eserden oluşan... Devamı için tıklayınız",
-     "published": "2026-11-21T20:17:26.000Z"
+     "published": "2026-11-21T20:17:26.000Z",
+     "titleFa": "چهار تفسیر مختلف از رقص معاصر"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/746259/1200/675/0/217/2048/1372?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/cagdas-dansin-dort-farkli-yorumu-1795292247731.jpeg",
+    "https://iasbh.tmgrup.com.tr/4951fd/752/395/0/298/2041/1372?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/cagdas-dansin-dort-farkli-yorumu-1795292247731.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "چهار تفسیر مختلف از رقص معاصر در نمایش «مومنتوم»",
+   "summaryFa": "اپرا و باله دولتی استانبول نمایش «مومنتوم» را که شامل چهار اثر گوناگون است، روی صحنه می‌برد. این اجرا از ۲۴ آبان در تالار اپرای ثریا آغاز می‌شود.",
+   "bodyFa": [
+    "اپرا و باله دولتی استانبول اجرای جدید خود به نام «مومنتوم» را به علاقه‌مندان هنر معرفی می‌کند. این اثر شامل چهار رقص و طراحی حرکت متفاوت است.",
+    "این برنامه از چهار اثر گوناگون با عناوین «Interwoven»، «Unison»، «Kurgu» و «Köçekçe: Bir Rapsodi» تشکیل شده است.",
+    "مخاطبان می‌توانند از تاریخ ۲۴ نوامبر (۲۴ آبان) به تماشای این تولید هنری در تالار اپرای ثریا بنشینند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a6d862de6c82",
@@ -1763,9 +2055,27 @@
      "url": "https://www.sabah.com.tr/magazin/animasyonda-dunya-ile-yarisiyoruz-7706647",
      "title": "Animasyonda dünya ile yarışıyoruz",
      "snippet": "A Para’da Sinan Özedincik ve Merve Yurtyapan’ın sunumuyla yayınlanan ‘Biz Bize’ programı bu hafta yönetmen M. Musab Gündüz, şarkıcılar Hande Mehan, Feride Hilal Akın, ‘Aşk Tesadüfleri Sever 3’ filminin... Devamı için tıklayınız",
-     "published": "2026-11-21T20:11:02.000Z"
+     "published": "2026-11-21T20:11:02.000Z",
+     "titleFa": "در انیمیشن با دنیا رقابت می‌کنیم"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/268b0a/1200/675/0/0/1038/583?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/animasyonda-dunya-ile-yarisiyoruz-1795291562635.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/2016/10/20/60x60/1476970095697.jpg",
+    "https://iasbh.tmgrup.com.tr/303f8c/752/395/0/18/1038/562?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/animasyonda-dunya-ile-yarisiyoruz-1795291562635.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "برنامه «بیز بیزه» با حضور چهره‌های هنری و سینمایی",
+   "summaryFa": "برنامه «بیز بیزه» در شبکه A Para میزبان کارگردانان، خوانندگان و عوامل فیلم «عشق اتفاق‌ها را دوست دارد ۳» بود.",
+   "bodyFa": [
+    "برنامه «بیز بیزه» که با اجرای سینان اوزدینجیک و مروه یورتیاپان از شبکه A Para پخش می‌شود، در قسمت این هفته خود میزبان چهره‌های مختلفی از دنیای هنر و موسیقی بود.",
+    "در این برنامه M. موسیب گوندوز (کارگردان)، هانده مهان و فریده هلال آکین (خوانندگان)، عمر فاروق سوراک (کارگردان عمومی فیلم «عشق اتفاق‌ها را دوست دارد ۳») به همراه پینار توره و درینسو سوراک (بازیگران این فیلم) حضور یافتند و درباره فعالیت‌های خود گفتگو کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f2e9d41c2358",
@@ -1815,35 +2125,6 @@
    "aiTries": 1
   },
   {
-   "id": "d8c07fd52ef3",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/akkaya-kardeslerin-aci-gunu-babalari-hayatini-kaybetti-7705275",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Akkaya kardeşlerin acı günü! Babaları hayatını kaybetti",
-   "snippet": "Oyuncu Esra, Sarp ve Kaya Akkaya kardeşler, üzücü haberi sosyal medyadan duyurdu. Kardeşler, Instagram'dan yaptıkları ortak açıklamayla babaları Yüksel Akkaya'nın hayatını kaybettiğini açıkladı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b01e55e545758672f578f11.jpg",
-   "video": null,
-   "published": "2026-11-21T18:46:11.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/akkaya-kardeslerin-aci-gunu-babalari-hayatini-kaybetti-7705275",
-     "title": "Akkaya kardeşlerin acı günü! Babaları hayatını kaybetti",
-     "snippet": "Oyuncu Esra, Sarp ve Kaya Akkaya kardeşler, üzücü haberi sosyal medyadan duyurdu. Kardeşler, Instagram'dan yaptıkları ortak açıklamayla babaları Yüksel Akkaya'nın hayatını kaybettiğini açıkladı.",
-     "published": "2026-11-21T18:46:11.000Z"
-    }
-   ]
-  },
-  {
    "id": "c631cd1b1eda",
    "url": "https://www.milliyet.com.tr/magazin/galeri/almila-ada-ilk-kez-anne-oldu-dogum-sonrasi-ilk-kareleri-paylasti-bebeginin-adi-dikkat-cekti-7705235",
    "source": "milliyet-magazin",
@@ -1855,7 +2136,7 @@
    "video": null,
    "published": "2026-11-21T17:43:40.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1868,7 +2149,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/almila-ada-ilk-kez-anne-oldu-dogum-sonrasi-ilk-kareleri-paylasti-bebeginin-adi-dikkat-cekti-7705235",
      "title": "Almila Ada anne oldu! Doğum sonrası ilk kareleri paylaştı: Bebeğinin adı dikkat çekti",
      "snippet": "Oyuncu Almila Ada Çilsal ve eşi İhsan Çilsal, merakla bekledikleri ilk çocuklarına kavuşmanın sevincini yaşıyor. Doğum sonrası sosyal medyadan ilk paylaşımını yapan ünlü ismin bebeğine verdiği isim dikkat çekti.",
-     "published": "2026-11-21T17:43:40.000Z"
+     "published": "2026-11-21T17:43:40.000Z",
+     "titleFa": "آلمیلا آدا مادر شد! او اولین تصاویر پس از زایمان را به اشتراک گذاشت: نام نوزادش توجه‌ها را جلب کرد"
     }
    ],
    "images": [
@@ -1879,36 +2161,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
-  },
-  {
-   "id": "bf43621d60dd",
-   "url": "https://www.milliyet.com.tr/magazin/survivor-almeda-baylani-yikan-olum-haberi-canim-yaniyor-7705220",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Survivor Almeda Baylan'ı yıkan ölüm haberi! 'Canım yanıyor'",
-   "snippet": "HABER MERKEZİ - Survivor All Star 2025'te şampiyonluk için favori gösterilen isimlerden olan Almeda Baylan, İstanbul'daki dev finale günler kala diskalifiye olarak veda etmişti. Baylan, yarışma sonrası açıklamaları ve paylaşımlarıyla magazin gündeminde adından söz ettirmeye devam ediyor. Instagram detayı ele verdi! Demet Özdemir'in hangi ülkede olduğu ortaya çıktı Survivor ile adını geniş kitlelere duyuran Baylan, sosyal medyayı aktif kullanmaya devam ediyor. Survivor Almeda, son paylaşımıyla ta",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b01c510545758672f578e93.jpg",
-   "video": null,
-   "published": "2026-11-21T16:28:06.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/survivor-almeda-baylani-yikan-olum-haberi-canim-yaniyor-7705220",
-     "title": "Survivor Almeda Baylan'ı yıkan ölüm haberi! 'Canım yanıyor'",
-     "snippet": "HABER MERKEZİ - Survivor All Star 2025'te şampiyonluk için favori gösterilen isimlerden olan Almeda Baylan, İstanbul'daki dev finale günler kala diskalifiye olarak veda etmişti. Baylan, yarışma sonrası açıklamaları ve paylaşımlarıyla magazin gündeminde adından söz ettirmeye devam ediyor. Instagram d",
-     "published": "2026-11-21T16:28:06.000Z"
-    }
-   ]
+   "mediaDone": true,
+   "titleFa": "آلمیلا آدا مادر شد و اولین تصاویر را به اشتراک گذاشت",
+   "summaryFa": "بازیگر ترک، آلمیلا آدا چیسال و همسرش احسان چیسال، از به دنیا آمدن اولین فرزند خود خبر دادند. نام نوزاد این زوج در اولین تصاویر منتشر شده در فضای مجازی توجه‌ها را به خود جلب کرد.",
+   "bodyFa": [
+    "آلمیلا آدا چیسال، بازیگر سرشناس، به همراه همسرش احسان چیسال نخستین فرزند خود را در آغوش گرفتند و تجربه پدر و مادر شدن را آغاز کردند.",
+    "این زوج پس از تولد فرزندشان، اولین تصاویر و عکس‌های مربوط به این رویداد را در شبکه‌های اجتماعی با مخاطبان به اشتراک گذاشتند که انتخاب نام نوزاد در این تصاویر توجه کاربران را جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "62f1f1e4b879",
@@ -2003,35 +2264,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "bc8f8041918e",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/once-oglunu-sonra-karisini-topraga-verdi-alti-yil-iki-cocuguna-hem-anne-hem-baba-oldu-artik-yeniden-sevmeye-hazirim-43386317",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Önce oğlunu sonra karısını toprağa verdi... Altı yıl iki çocuğuna hem anne hem baba oldu... \"Artık yeniden sevmeye hazırım\"",
-   "snippet": "Sinemanın eskimeyen yıldızlarından John Travolta bundan altı yıl önce hayatının en büyük acılarından birini yaşadı...",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b01a62cc757abf656938ceb.jpg",
-   "video": null,
-   "published": "2026-11-21T14:15:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/once-oglunu-sonra-karisini-topraga-verdi-alti-yil-iki-cocuguna-hem-anne-hem-baba-oldu-artik-yeniden-sevmeye-hazirim-43386317",
-     "title": "Önce oğlunu sonra karısını toprağa verdi... Altı yıl iki çocuğuna hem anne hem baba oldu... \"Artık yeniden sevmeye hazırım\"",
-     "snippet": "Sinemanın eskimeyen yıldızlarından John Travolta bundan altı yıl önce hayatının en büyük acılarından birini yaşadı...",
-     "published": "2026-11-21T14:15:00.000Z"
-    }
-   ]
   },
   {
    "id": "831ee34b2f32",
@@ -2732,7 +2964,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/turk-lokumu-diyorsam-turk-sinemasi-derim-43385280",
      "title": "Türk lokumu diyorsam Türk sineması derim",
      "snippet": "Sumru Yavrucuk’a Haluk Bilginer’in tartışma yaratan “Türk sineması değil, Türkiye sineması diyelim” sözleri soruldu. Sanatçı, görüşünü “Türk lokumu diyorsam, Türk sineması da derim” sözleriyle dile getirdi.",
-     "published": "2026-11-21T04:42:37.000Z"
+     "published": "2026-11-21T04:42:37.000Z",
+     "titleFa": "اگر می‌گویم لوکوم ترکی، می‌گویم سینمای ترک"
     }
    ],
    "images": [
@@ -2745,7 +2978,13 @@
    ],
    "mediaDone": true,
    "ai": true,
-   "aiTries": 1
+   "aiTries": 2,
+   "titleFa": "واکنش سومرو یاوروجک به اظهارات هالوک بیلگینر درباره سینمای ترکیه",
+   "summaryFa": "سومرو یاوروجک در پاسخ به سخنان جنجالی هالوک بیلگینر درباره نام‌گذاری سینمای ترکیه، نظر خود را با مثالی از «لوکوم ترکی» بیان کرد.",
+   "bodyFa": [
+    "از سومرو یاوروجک درباره اظهارات جنجالی اخیر هالوک بیلگینر پرسیده شد که پیشنهاد کرده بود به جای اصطلاح «سینمای ترک»، از عبارت «سینمای ترکیه» استفاده شود.",
+    "این هنرمند در پاسخ به این پرسش، دیدگاه خود را مطرح کرد و گفت که اگر از عبارت «لوکوم ترکی» استفاده می‌کند، به همان نسبت از اصطلاح «سینمای ترک» نیز استفاده خواهد کرد."
+   ]
   },
   {
    "id": "db91252cb364",
@@ -3633,9 +3872,27 @@
      "url": "https://www.sabah.com.tr/magazin/once-saygiyi-ogren-7706206",
      "title": "Önce saygıyı öğren!",
      "snippet": "Oyuncu Çiğdem Batur'un Sultanahmet Camii'nden yaptığı paylaşım sosyal medyada tepki çekti. Oyuncunun ziyaretinden geriye caminin eşsiz mimarisi ya da tarihi değil, sosyal medyada tartışma yaratan bir paylaşım... Devamı için tıklayınız",
-     "published": "2026-11-21T02:16:16.000Z"
+     "published": "2026-11-21T02:16:16.000Z",
+     "titleFa": "اول احترام گذاشتن را یاد بگیر!"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/771a47/1200/675/0/45/1063/643?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/once-saygiyi-ogren-1795227217469.jpeg",
+    "https://iasbh.tmgrup.com.tr/a3a054/752/395/0/65/1063/622?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/once-saygiyi-ogren-1795227217469.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "واکنش‌ها به اشتراک‌گذاری چیدم باتور از مسجد سلطان‌احمد",
+   "summaryFa": "انتشار مطلبی از سوی چیدم باتور پس از بازدید از مسجد سلطان‌احمد در فضای مجازی جنجال‌برانگیز شد. او در حساب کاربری خود از بوی پای موجود در مسجد ابراز نارضایتی کرده بود.",
+   "bodyFa": [
+    "چیدم باتور، بازیگر، پس از بازدید از مسجد سلطان‌احمد، عکسی منتشر کرد که با واکنش‌های منفی در شبکه‌های اجتماعی روبه‌رو شد. به جای تمرکز بر معماری و تاریخ این مکان، این پست جنجال آفرید.",
+    "این بازیگر در حساب کاربری خود اعلام کرده بود که از بوی پای موجود در مسجد اذیت شده است که این موضوع بحث‌هایی را در فضای مجازی به دنبال داشت."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "62a610e7b885",
@@ -3664,7 +3921,16 @@
      "snippet": "Alphan Eşeli'nin yazıp yönettiği, başrolünde Hazar Ergüçlü'nün yer aldığı 'MUTTER: Bir Annenin Hatıra Defteri', 27 Kasım'da sinemalarda izleyiciyle buluşuyor. Önceki gün gerçekleşen özel gösterimde iş... Devamı için tıklayınız",
      "published": "2026-11-21T02:11:46.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/48fdaa/1200/675/0/0/827/465?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/mutter-bir-annenin-hatira-defterinden-ozel-gosterim-1795227065756.jpeg",
+    "https://iasbh.tmgrup.com.tr/599b39/752/395/0/0/827/435?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/mutter-bir-annenin-hatira-defterinden-ozel-gosterim-1795227065756.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "796b7a045255",
@@ -3693,7 +3959,16 @@
      "snippet": "Arabesk müziğin başarılı isimlerinden Gökhan Namlı, Kozyatağı'nda ilk kez sahne almadan önce müzik kariyeri, arabeskin geleceği, son dönemde sosyal medyada viral olan şarkıları ve yeni projeleri hakkında... Devamı için tıklayınız",
      "published": "2026-11-21T02:10:51.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/113fcc/1200/675/0/0/408/228?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/1795227041472.jpeg",
+    "https://iasbh.tmgrup.com.tr/20703e/752/395/0/6/408/222?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/1795227041472.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "363cdb98fc0a",
@@ -3720,9 +3995,27 @@
      "url": "https://www.sabah.com.tr/magazin/buz-pistinde-gosteri-7706200",
      "title": "Buz pistinde gösteri",
      "snippet": "Oyuncu Melis Sezen, tatil için Amerika'nın New York kentine gitti. Şehirde enerjik halleriyle dikkat çeken Sezen, kırmızı elbisesiyle buz pistinde gösteri yaptı. Ünlü oyuncu buz üzerinde sergilediği hareketlerle... Devamı için tıklayınız",
-     "published": "2026-11-21T02:04:12.000Z"
+     "published": "2026-11-21T02:04:12.000Z",
+     "titleFa": "نمایش در پیست یخ"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/5296d4/1200/675/0/569/944/1098?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/buz-pistinde-gosteri-1795226647210.jpeg",
+    "https://iasbh.tmgrup.com.tr/149c7a/752/395/0/583/944/1078?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/buz-pistinde-gosteri-1795226647210.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای نمایش روی یخ توسط بازیگر ترک در نیویورک",
+   "summaryFa": "بازیگر معروف Melis Sezen برای تعطیلات به نیویورک سفر کرد و با لباس قرمز روی پیست یخ به اجرای نمایش پرداخت.",
+   "bodyFa": [
+    "بازیگر شناخته‌شده Melis Sezen برای گذراندن تعطیلات راهی شهر نیویورک در ایالات متحده آمریکا شد. او در طول این سفر با روحیه‌ای پرانرژی توجه اطرافیان و رسانه‌ها را به خود جلب کرد.",
+    "این بازیگر در جریان سفر خود با پوشیدن یک لباس قرمز به پیست پاتیناژ رفت و روی یخ به اجرای نمایش پرداخت. حرکات او بر روی یخ باعث شگفتی تماشاگرانی شد که در حال تماشای اجرای او بودند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "bf8052f21b38",
@@ -3751,7 +4044,16 @@
      "snippet": "Dünyaca ünlü Fransız müzik kolektifi Nouvelle Vague, efsanevi grup Depeche Mode'un eserlerini yeniden yorumladığı yeni albümü 'A Date With Depeche Mode'u dinleyicilerle buluşturdu. Nedime Girişken, dünyaca... Devamı için tıklayınız",
      "published": "2026-11-21T02:03:47.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/9f83de/1200/675/0/84/681/468?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/depeche-modea-turk-nefesi-1795226617359.jpeg",
+    "https://iasbh.tmgrup.com.tr/73f94e/752/395/0/97/681/453?u=https://isbh.tmgrup.com.tr/sbh/2026/11/21/depeche-modea-turk-nefesi-1795226617359.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "7a7c8ba2ec40",
@@ -11861,6 +12163,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "036edc9f2f44",
+   "url": "https://www.dailysabah.com/arts/turkish-artist-ahmet-albayrak-earns-spots-at-intl-art-exhibitions/news",
+   "source": "dailysabah-arts",
+   "sourceName": "Daily Sabah",
+   "lang": "en",
+   "title": "Turkish artist Ahmet Albayrak earns spots at int'l art exhibitions",
+   "snippet": "Turkish artist and academic Prof. Dr. Ahmet Albayrak is set to showcase his video works at two international art exhibitions opening Nov. 18, with his pieces selected for collectio...",
+   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/11/17/470874.jpg",
+   "video": null,
+   "published": "2026-11-17T13:18:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "dailysabah-arts",
+     "name": "Daily Sabah",
+     "url": "https://www.dailysabah.com/arts/turkish-artist-ahmet-albayrak-earns-spots-at-intl-art-exhibitions/news",
+     "title": "Turkish artist Ahmet Albayrak earns spots at int'l art exhibitions",
+     "snippet": "Turkish artist and academic Prof. Dr. Ahmet Albayrak is set to showcase his video works at two international art exhibitions opening Nov. 18, with his pieces selected for collectio...",
+     "published": "2026-11-17T13:18:00.000Z"
+    }
+   ]
   },
   {
    "id": "68c29ee586ab",
