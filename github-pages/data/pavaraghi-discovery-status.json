@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T23:49:55.423075+00:00",
+  "generatedAt": "2026-11-24T09:49:55.726039+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "muhtemel-ask:13",
-    "muhtemel-ask:14",
-    "muhtemel-ask:15",
-    "muhtemel-ask:16"
+    "muhtemel-ask:17",
+    "muhtemel-ask:18",
+    "muhtemel-ask:19",
+    "sevdan-bir-ates:6"
   ],
   "episodes": [
     {
@@ -2000,7 +2000,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 17,
-      "checkedAt": "2026-11-14T06:15:27.150680+00:00",
+      "checkedAt": "2026-11-24T09:49:55.726039+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -2032,7 +2032,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 18,
-      "checkedAt": "2026-11-14T13:33:08.710764+00:00",
+      "checkedAt": "2026-11-24T09:49:55.726039+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -2064,7 +2064,7 @@
       "seriesSlug": "muhtemel-ask",
       "seriesTitle": "احتمالاً عشقه",
       "originalEpisode": 19,
-      "checkedAt": "2026-11-14T13:33:08.710764+00:00",
+      "checkedAt": "2026-11-24T09:49:55.726039+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -2288,7 +2288,7 @@
       "seriesSlug": "sevdan-bir-ates",
       "seriesTitle": "عشقت یک آتش است",
       "originalEpisode": 6,
-      "checkedAt": "2026-11-14T13:33:08.710764+00:00",
+      "checkedAt": "2026-11-24T09:49:55.726039+00:00",
       "languagesToTry": [
         "tr",
         "fa",
