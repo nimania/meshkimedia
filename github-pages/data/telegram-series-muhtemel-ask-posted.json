@@ -260,7 +260,8 @@
     "slot:2026-11-23:0",
     "engagement:poll:speculation",
     "engagement-day:2026-11-23",
-    "slot:2026-11-23:3"
+    "slot:2026-11-23:3",
+    "news:e71f2fc56ace"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -368,7 +369,8 @@
     "73d306d56bbfc937d1e010b4",
     "eabd353cf10c322ca9af2969",
     "c7d6238f01480670049d6ebd",
-    "86a0a73f1b94ba95226ee5c8"
+    "86a0a73f1b94ba95226ee5c8",
+    "9c0994f2cb61f95e54bacdab"
   ],
   "lastSubjects": {
     "episode:1": "2026-11-09",
@@ -411,7 +413,7 @@
     "episode:15": "2026-11-22",
     "poll:speculation": "2026-11-23"
   },
-  "updated": "2026-11-23T19:03:51.026Z",
+  "updated": "2026-11-24T01:01:43.974Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
