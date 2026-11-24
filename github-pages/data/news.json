@@ -1,6 +1,44 @@
 {
- "updated": "2026-11-24T18:41:51.262Z",
+ "updated": "2026-11-24T21:16:15.845Z",
  "items": [
+  {
+   "id": "9a42745fd920",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/amerikadan-pes-pese-paylasti-melis-sezenin-pozlarina-begeni-yagmuru-7707234",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Amerika'dan peş peşe paylaştı! Melis Sezen'in pozlarına beğeni yağmuru",
+   "snippet": "Oyuncu Melis Sezen, paylaşımlarıyla adından söz ettirmeye devam ediyor. Amerika'ya tatile giden ünlü ismin yeni Instagram pozlarına takipçilerinden yorum ve beğeni yağdı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b05e4351c3369444cf1e277.jpg",
+   "video": null,
+   "published": "2026-11-24T19:25:55.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/amerikadan-pes-pese-paylasti-melis-sezenin-pozlarina-begeni-yagmuru-7707234",
+     "title": "Amerika'dan peş peşe paylaştı! Melis Sezen'in pozlarına beğeni yağmuru",
+     "snippet": "Oyuncu Melis Sezen, paylaşımlarıyla adından söz ettirmeye devam ediyor. Amerika'ya tatile giden ünlü ismin yeni Instagram pozlarına takipçilerinden yorum ve beğeni yağdı.",
+     "published": "2026-11-24T19:25:55.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b05e4351c3369444cf1e277.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b05e4351c3369444cf1e277.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
   {
    "id": "4b408389451b",
    "url": "https://www.milliyet.com.tr/magazin/galeri/goruntulere-tepki-yagmisti-demet-akalin-sozunu-tuttu-izmite-gitti-kucuk-kiza-yeni-bisiklet-aldi-7707207",
@@ -26,9 +64,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/goruntulere-tepki-yagmisti-demet-akalin-sozunu-tuttu-izmite-gitti-kucuk-kiza-yeni-bisiklet-aldi-7707207",
      "title": "Görüntülere tepki yağmıştı! Demet Akalın sözünü tuttu: İzmit'e gitti, küçük kıza yeni bisiklet aldı",
      "snippet": "Kocaeli'nin İzmit ilçesinde otomobile bisikletiyle sürttüğü gerekçesiyle kız çocuğunun bisikletini parçalayan kadına tepki yağdı. Görüntülerin sosyal medyada yayılmasının ardından şarkıcı Demet Akalın, verdiği bisiklet sözünü tuttu. Ünlü isim, İzmit'e giderek küçük kıza yeni bisiklet hediye etti.",
-     "published": "2026-11-24T17:27:23.000Z"
+     "published": "2026-11-24T17:27:23.000Z",
+     "titleFa": "واکنش‌ها به تصاویر ادامه دارد! دمت آکالین به قول خود عمل کرد: به ازمیت رفت و برای دختر بچه دوچرخه جدید خرید"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b05c84e1c3369444cf1e1c3.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b05c84e1c3369444cf1e1c3.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "عمل به قول دمت آکالین؛ خرید دوچرخه جدید برای دختر بچه در ازمیت",
+   "summaryFa": "پس از انتشار تصاویر تخریب دوچرخه یک دختر بچه در ازمیت، دمت آکالین به قول خود عمل کرد و با سفر به این شهر برای او دوچرخه جدیدی خرید.",
+   "bodyFa": [
+    "به دنبال انتشار تصاویری در فضای مجازی مبنی بر اینکه زن متهم شده بود دوچرخه یک دختر بچه در منطقه ازمیت استان کوجالی را به دلیل برخورد با خودرو تخریب کرده است، موجی از واکنش‌ها و انتقادات شکل گرفت.",
+    "پس از بازتاب گسترده این تصاویر، دمت آکالین، خواننده سرشناس، تصمیم گرفت به قول خود عمل کند. او به شهر ازمیت سفر کرد و یک دستگاه دوچرخه جدید به عنوان هدیه به این دختر بچه تقدیم نمود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "26ab67e24d6a",
@@ -105,9 +161,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/hande-ercel-33-yasinda-ablasindan-duygusal-dogum-gunu-mesaji-iyi-ki-dogdun-diger-yarim-7707187",
      "title": "Hande Erçel 33 yaşında! Ablasından duygusal doğum günü mesajı: İyi ki doğdun diğer yarım",
      "snippet": "Magazin gündeminden düşmeyen oyuncu Hande Erçel, 33 yaşına girdi. Ünlü ismin fenomen ablası Gamze Erçel Yıldırım, sosyal medya hesabından paylaştığı mesajla kardeşinin doğum gününü kutladı.",
-     "published": "2026-11-24T16:19:09.000Z"
+     "published": "2026-11-24T16:19:09.000Z",
+     "titleFa": "هانده ارچل ۳۳ ساله شد! پیام احساسی تولد از خواهرش: تولدت مبارک نیمه دیگرم"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b05b8901c3369444cf1e156.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b05b8901c3369444cf1e156.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تبریک تولد احساسی غمزه ارچل به خواهرش هانде ارچل در ۳۳ سالگی",
+   "summaryFa": "هانده ارچل بازیگر شناخته‌شده وارد ۳۳ سالگی شد. خواهر او غمزه ارچل ییلدریم با پیامی در شبکه‌های اجتماعی تولدش را تبریک گفت.",
+   "bodyFa": [
+    "هانده ارچل، بازیگر مشهور که همواره در صدر اخبار مجلات قرار دارد، ۳۳ ساله شد.",
+    "در همین راستا، غمزه ارچل ییلدریم، خواهر معروف این بازیگر، با انتشار پیامی در حساب کاربری خود در شبکه‌های اجتماعی، تولد خواهرش را تبریک گفت و او را «نیمه دیگر» خود خطاب کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "95e78a129776",
@@ -136,7 +210,16 @@
      "snippet": "HABER MERKEZİ - Survivor Ünlüler Gönüllüler 2026 yarışmasının olaylı yarışmacısı Seren Ay Çetin, yaşadığı kavgaların ardından uyarı cezası almasına rağmen diğer yarışmacılarla sorun yaşamaya devam etmişti. En son Lina'nın üzerine yürüyen Çetin, fiziki müdahalede bulunduğu için Survivor'dan diskalifi",
      "published": "2026-11-24T15:42:43.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b05acdb1c3369444cf1e101.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b05acdb1c3369444cf1e101.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "9f14c00a525d",
@@ -165,7 +248,16 @@
      "snippet": "Usta oyuncu Erdal Özyağcılar sette çektiği bir videoda, oyunculuğun madencilikten sonra dünyanın en zor ikinci mesleği olduğu yönündeki söylemlere karşı çıktı.",
      "published": "2026-11-24T14:41:38.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b05a1a91c3369444cf1e0c6.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b05a1a91c3369444cf1e0c6.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "18f827d611b8",
@@ -248,7 +340,16 @@
      "snippet": "Hem ünlüler dünyasında hem de sıradan hayatlarda bazı evlilikler bitse bile çiftler öyle hemen bağlantılarını kesip kendi yollarına gidemiyorlar.",
      "published": "2026-11-24T13:55:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b057c038c01a1364d06b83e.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b057c038c01a1364d06b83e.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true
   },
   {
    "id": "9df19e515263",
@@ -550,7 +651,8 @@
      "snippet": "Son dönemde dizi ve film sektöründe yaşanan krizle ilgili konuşan oyuncu Barış Falay, \"Bana bu kriz hikayesi çok anlamlı gelmiyor. Çünkü ben hiçbir işimde parayı öne koyarak pazarlık yapmadım. Önce hikayeyi sevdim, rolü sevdim, oynamak istedim\" dedi",
      "published": "2026-11-24T10:52:32.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "bffb7e759c80",
@@ -871,7 +973,7 @@
    "lang": "tr",
    "title": "\"Leyla\" dizisi 54. Uluslararası Emmy Ödülleri'nde \"En İyi Telenovela\" seçildi",
    "snippet": "Televizyon dünyasının uluslararası yapımlarını bir araya getiren 54. Uluslararası Emmy Ödülleri, New York'ta düzenlenen törenle sahiplerini buldu.",
-   "image": "",
+   "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/24/thumbs_b_c_739e2be6e6baf300a06c918b812c17c4.jpg",
    "video": null,
    "published": "2026-11-24T07:51:55.000Z",
    "scope": "dizi",
@@ -888,9 +990,27 @@
      "url": "https://www.aa.com.tr/tr/kultur/leyla-dizisi-54-uluslararasi-emmy-odullerinde-en-iyi-telenovela-secildi/4135363",
      "title": "\"Leyla\" dizisi 54. Uluslararası Emmy Ödülleri'nde \"En İyi Telenovela\" seçildi",
      "snippet": "Televizyon dünyasının uluslararası yapımlarını bir araya getiren 54. Uluslararası Emmy Ödülleri, New York'ta düzenlenen törenle sahiplerini buldu.",
-     "published": "2026-11-24T07:51:55.000Z"
+     "published": "2026-11-24T07:51:55.000Z",
+     "titleFa": "سریال «لیلا» در ۵۴ مین دوره جوایز بین‌المللی امی به عنوان «بهترین تلونولا» انتخاب شد"
     }
-   ]
+   ],
+   "images": [
+    "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/24/thumbs_b_c_739e2be6e6baf300a06c918b812c17c4.jpg",
+    "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/24/098f5622b9618ca25f01a659b0d34bd7.jpg",
+    "https://web-cdnprod.aa.com.tr/uploads/PodCastChannel/2026/01/20/e3fd4cf4b4acbb555b6a1f260831c0e0.jpg",
+    "https://web-cdnprod.aa.com.tr/uploads/PodCastChannel/2026/01/20/12b198ea5d3d29dabeb6e0df548ddfe8.jpg",
+    "https://web-cdnprod.aa.com.tr/uploads/PodCast/2026/11/20/437e9769-ad0f-4045-8205-d90d1777c8dc.jpg",
+    "https://web-cdnprod.aa.com.tr/uploads/PodCast/2026/11/19/468f9f09-0320-4181-b77d-74ae2c3d990b.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتخاب سریال «لیلا» به عنوان بهترین تلونولا در پنجاه و چهارمین دوره جوایز بین‌المللی امی",
+   "summaryFa": "سریال «لیلا» در پنجاه و چهارمین دوره جوایز بین‌المللی امی در نیویورک به عنوان «بهترین تلونولا» انتخاب شد. این رویداد برای تجلیل از آثار بین‌المللی دنیای تلویزیون برگزار شد.",
+   "bodyFa": [
+    "پنجاه و چهارمین دوره جوایز بین‌المللی امی با برگزاری مراسمی در شهر نیویورک، برندگان خود را شناخت. این رویداد مهم فرهنگی و هنری، آثار برجسته تلویزیونی از سراسر جهان را گرد هم می‌آورد.",
+    "در این مراسم، سریال «لیلا» موفق شد عنوان «بهترین تلونولا» را به خود اختصاص دهد و این موفقیت را در سطح بین‌المللی به ثبت برساند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b52ce30dc59c",
@@ -933,7 +1053,7 @@
    "video": null,
    "published": "2026-11-24T07:40:15.000Z",
    "scope": "dizi",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -946,9 +1066,20 @@
      "url": "https://www.haberturk.com/magazin/turk-dizisi-leyla-uluslararasi-emmy-odulu-nu-kazandi-3929653",
      "title": "\"Leyla\" Emmy kazandı",
      "snippet": "54. Uluslararası Emmy Ödülleri'nde \"En İyi Telenovela\" dalının kazananı Türk dizisi \"Leyla\" oldu",
-     "published": "2026-11-24T07:40:15.000Z"
+     "published": "2026-11-24T07:40:15.000Z",
+     "titleFa": "سریال «لیلا» برنده جایزه امی شد"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "پیروزی سریال «لیلا» در پنجاه و چهارمین جوایز بین‌المللی امی",
+   "summaryFa": "سریال ترکی «لیلا» محصول آی‌یاپیم توانست در پنجاه و چهارمین دوره جوایز بین‌المللی امی جایزه «بهترین تلانولا» را از آن خود کند. این مراسم شب گذشته در نیویورک برگزار شد و این اثر موفق شد از رقیب‌هایی از برزیل و اسپانیا پیشی بگیرد.",
+   "bodyFa": [
+    "در پنجاه و چهارمین دوره جوایز بین‌المللی امی که شب گذشته در شهر نیویورک برگزار شد، سریال ترکی «لیلا» با تهیه‌کنندگی آی‌یاپیم توانست در بخش «بهترین تلانولا» پیروز شود و موفقیت چشمگیری در عرصه بین‌المللی به دست آورد.",
+    "در این رویداد، نمایندگان ترکیه یعنی سریال‌های «لیلا» و «اوزاق شهر» حضور داشتند. در رقابتی که میان ۶۴ نامزد از ۲۲ کشور و در ۱۶ دسته مختلف برگزار گردید، سریال «لیلا» موفق شد آثار تولید شده در کشورهای برزیل و اسپانیا را پشت سر بگذارد و جایزه این بخش را کسب کند.",
+    "پیش از این نیز سریال‌های ترکی دیگری همچون «دها»، «قضاوت»، «شخصیت» و «کارا سودا» موفق به دریافت جایزه امی شده بودند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "44f8d6ccedcc",
@@ -1066,7 +1197,8 @@
      "url": "https://www.haberturk.com/magazin/asena-keskinci-yorumlari-gorunce-daha-farkli-motive-oluyorum-3929527",
      "title": "\"Yorumları görünce daha farklı motive oluyorum\"",
      "snippet": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nde 'Çimen' karakterine hayat veren Asena Keskinci, \"Kendi ruhumu da ortaya koyarak kendi 'Çimen'imi yaratmaya çalışıyorum\" dedi. Genç oyuncu ayrıca, \"Sosyal medyadaki yorumları görünce daha farklı motive oluyorum\" ifadelerini kullandı",
-     "published": "2026-11-24T06:26:13.000Z"
+     "published": "2026-11-24T06:26:13.000Z",
+     "titleFa": "وقتی نظرات را می‌بینم انگیزه متفاوتی پیدا می‌کنم"
     }
    ],
    "videos": [
@@ -1075,7 +1207,16 @@
      "id": "1LQfMSxQ-Tw"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "صحبت‌های آسنا کسکینچی درباره بازی در نقش چیمن در سریال «شربت زغال‌اخته»",
+   "summaryFa": "آسنا کسکینچی بازیگر نقش چیمن در سریال «شربت زغال‌اخته» از چالش‌های پیوستن به این مجموعه و انگیزه گرفتن از نظرات کاربران سخن گفت. او تأکید کرد که تلاش می‌کند بدون قضاوت، این شخصیت را با روحیه خود بازآفرینی کند.",
+   "bodyFa": [
+    "آسنا کسکینچی، بازیگر جوان سریال «شربت زغال‌اخته»، در گفتگو با بورجو تافلان‌اوغلو در کانال یوتیوب شو تی‌وی درباره تجربه حضور خود در این مجموعه سخن گفت. او با اشاره به چالش‌های پیوستن به نقشی که پیش از این برای بینندگان شناخته‌شده بود، توضیح داد که تلاش می‌کند ضمن رعایت چارچوب‌های اصلی، روحیه خودش را نیز وارد نقش کرده و «چیمن»ِ اختصاصی خود را بسازد.",
+    "این بازیگر درباره بازخورد مخاطبان اظهار داشت که دیدن نظرات مثبت در شبکه‌های اجتماعی حس خوبی به او می‌دهد و انگیزه متفاوتی برایش ایجاد می‌کند. او همچنین یادآور شد که پس از حضور در این نقش، طیف سنی افرادی که در خیابان او را می‌شناسند گسترده‌تر شده و حس می‌کند مردم به چشم «دختر خانه» به او نگاه می‌کنند.",
+    "کسکینچی حضور در میان تیمی که از قبل با یکدیگر هماهنگ شده‌اند را پر از صمیمیت و دارای مزایای فراوان دانست. او اضافه کرد که تلاش می‌کند بدون قضاوت کردن رفتارهای کاراکتر «چیمن»، او را درک کرده و در قالب این نقش باقی بماند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6392003ec369",
@@ -1473,7 +1614,16 @@
      "snippet": "İki oyuncu, Antalya’da düzenlenen COP31’de buluştu. Usta oyuncunun genç meslektaşına el verdiği etkinlik geniş yankı buldu. Dizinin kendisini heyecanlandırdığını ve izleyeceğini söyleyen usta oyuncu, “Hülya Koçyiğit el verdi” deyip, ekledi: “Bu Bahar çok güzel. Çok başarılı olacağına inanıyorum. Gör",
      "published": "2026-11-24T04:02:13.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b04c2641c3369444cf1ddc6.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b04c2641c3369444cf1ddc6.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "92587ec9a6cf",
@@ -1708,7 +1858,7 @@
      "title": "Uzak Şehir'in 74. bölümünde neler oldu? 'Bu DNA testi kimin anne?'",
      "snippet": "Kanal D’nin Ozan Akbaba, Sinem Ünsal, Gonca Cilasun, Müfit Kayacan, Sahra Şaş, Dilin Döğer, Atakan Özkaya, İlkay Kayku, Nazmi Kırık, Sinan Demirer, Zeynep Kankonde, Muttalip Müjdeci, Barış Yalçın, Burak Şafak, Mehmet Polat, Yunus Eski, Yaren Güldiken, Kuzey Gezer'i kadrosunda buluşturan, AyNA Yapım ",
      "published": "2026-11-23T21:26:00.000Z",
-     "titleFa": "در قسمت ۷۴ سریال شهر دور چه گذشت؟ «این آزمایش دی‌ان‌ای مال کیست مادر؟»"
+     "titleFa": "در قسمت ۷۴ سریال شهر دور چه گذشت؟ «این تست DNA متعلق به کیست مادر؟»"
     },
     {
      "source": "milliyet-magazin",
@@ -1716,7 +1866,8 @@
      "url": "https://www.milliyet.com.tr/magazin/uzak-sehirde-taslar-yerinden-oynadi-7706924",
      "title": "Uzak Şehir'de taşlar yerinden oynadı",
      "snippet": "HABER MERKEZİ -Pazartesi akşamlarına damga vuran Uzak Şehir, baş döndüren gelişmelere sahne oldu. İzleyicileri yine ekrana kilitleyen bölümde Alya ve Cihan yangından kurtuldu. Cihan, Enver için canını hiçe sayıp alevlerin arasına dalsa da çabası onu kurtarmaya yetmedi. SADAKAT YIKILDI Nare, Alya'nın",
-     "published": "2026-11-24T09:50:47.000Z"
+     "published": "2026-11-24T09:50:47.000Z",
+     "titleFa": "در سریال شهر دور همه چیز به هم ریخت"
     }
    ],
    "images": [
@@ -1728,17 +1879,42 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
    ],
    "mediaDone": true,
-   "titleFa": "در قسمت ۷۴ سریال «شهر دور» چه گذشت؟ «این آزمایش دی‌ان‌ای برای کیست مادر؟»",
-   "summaryFa": "گزارش رسانه‌ای درباره قسمت هفتاد و چهارم سریال «شهر دور» به رویدادهای این قسمت و پرسشی درباره یک آزمایش دی‌ان‌ای اشاره دارد.",
+   "titleFa": "تحولات جدید و افشای رازهای خانوادگی در قسمت تازه سریال شهر دور",
+   "summaryFa": "قسمت جدید سریال «شهر دور» با نجات شخصیت‌ها از آتش‌سوزی و افشای رازهای مهم خانوادگی همراه شد. در این قسمت موضوعاتی چون بارداری علیا و سؤالات پیرامون تست DNA مطرح شده است.",
    "bodyFa": [
-    "گزارش منتشرشده درباره قسمت هفتاد و چهارم سریال «شهر دور» محصول شرکت آی‌ان‌ای یاپیم برای شبکه کانال دی، به تحولات این قسمت با محوریت سؤالی درباره یک نتیجه آزمایش دی‌ان‌ای پرداخته است. در گروه بازیگران این مجموعه، چهره‌هایی از جمله اوزان آکبابا، سینم اونسال، گونجا جیلاسون، مؤفیت کایاجان، صحرا شاش، دیلین دوئر، آتاکان اوزکایا، ایلکای قایکو، نظمی قیریق و کوزی گزر حضور دارند."
+    "سریال پربیننده «شهر دور» که از شبکه کانال دی پخش می‌شود، در جدیدترین قسمت خود شاهد اتفاقات و تحولات دراماتیک مهمی بود. در این مجموعه بازیگرانی همچون اوزان آکبابا، سینم اونسال، گونجا جیلاسون، مؤفیت کایاجان، صحرا شاش، دیلین دوئر، آتاکان اوزکایا، ایلکای قایکو، نظمی قیریق و کوزی گزر حضور دارند.",
+    "بر اساس گزارش‌های رسانه‌ای، در صحنه‌هایی حساس از این قسمت، علیا و جهان از حادثه آتش‌سوزی نجات پیدا می‌کنند. جهان برای نجات جان انور خود را به دل آتش می‌زند، اما تلاش‌های او موفقیت‌آمیز نبوده و انور جانش را از دست می‌دهد.",
+    "در ادامه داستان، ناره متوجه بارداری علیا می‌شود و صداقت نیز درمی‌یابد که جهان فرزند واقعی او نیست. همچنین مطرح شدن پرسش‌هایی درباره نتیجه یک تست DNA، ابعاد تازه‌ای به رازهای خانوادگی این سریال داده است."
    ],
    "ai": true,
-   "aiTries": 1,
+   "aiTries": 2,
    "mergedIds": [
     "ad569eda887a"
    ],
-   "regen": true
+   "comparison": {
+    "agree": [
+     "هر دو منبع خبری به اتفاقات و تحولات مهم قسمت جدید سریال «شهر دور» پرداخته‌اند."
+    ],
+    "differ": [
+     {
+      "topic": "تمرکز بر رویدادهای مختلف داستان",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "بر عنوان قسمت ۷۴ و مطرح شدن پرسشی درباره تست DNA تمرکز کرده است."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "به جزئیاتی مانند نجات علیا و جهان از آتش، مرگ انور، بارداری علیا و فاش شدن راز مادری صداقت پرداخته است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": [
+     "موضوع تست DNA تنها در گزارش s1 عنوان شده است.",
+     "جزئیات مربوط به آتش‌سوزی، مرگ انور، بارداری علیا و عدم رابطه فرزندی جهان و صداقت تنها در گزارش s2 آمده است."
+    ]
+   }
   },
   {
    "id": "b698b31ecf25",
@@ -2115,7 +2291,8 @@
      "url": "https://www.sabah.com.tr/magazin/mahalleye-gulten-geldi-7707801",
      "title": "Mahalleye Gülten geldi",
      "snippet": "ATV'NIN sevilen dizisi 'Altı Üstü İstanbul'un kadrosuna Didem Balçın da katıldı. Balçın, mahalleye gelen Gülten karakteriyle hikâyede yer alıyor. 'Altı Üstü İstanbul' kenar mahallede yaşayan Emir ve arkadaşlarının... Devamı için tıklayınız",
-     "published": "2026-11-23T16:19:47.000Z"
+     "published": "2026-11-23T16:19:47.000Z",
+     "titleFa": "گلتن به محله آمد"
     }
    ],
    "images": [
@@ -2126,7 +2303,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "پیوستن دیدم بالچین به کادر بازیگران سریال «بالا و پایین استانبول»",
+   "summaryFa": "دیدم بالچین به جمع بازیگران سریال «بالا و پایین استانبول» پیوست. او در این مجموعه نقش شخصیتی به نام گلتن را ایفا می‌کند.",
+   "bodyFa": [
+    "دیدم بالچین به جمع بازیگران سریال «بالا و پایین استانبول» که از شبکه ATV پخش می‌شود، پیوسته است. او قرار است در نقش شخصیتی به نام «گلتن» ظاهر شود که تازه به این محله آمده است.",
+    "سریال «بالا و پایین استانبول» روایتی از زندگی امیر و دوستانش است که در یکی از محله‌های حاشیه‌ای سکونت دارند و برای دستیابی به زندگی بهتر تلاش می‌کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "cd7975bf8085",
@@ -2402,7 +2587,8 @@
      "url": "https://www.milliyet.com.tr/magazin/alya-aseriyor-7706292",
      "title": "Alya aşeriyor",
      "snippet": "HABER MERKEZİ- Yaşanan yangın felaketinin ardından Cihan otelde Alya ve Deniz’in yanında kaldı. Hamileliğinden dolayı gece yarısı aşeren Alya, buzdolabından üzüm yerken Cihan’a yakalandı. Cihan’ın şüphelenmemesi için üzümün dumanın etkisini azaltmaya faydası olduğunu söyleyen Alya’nın halleri izleye",
-     "published": "2026-11-23T12:45:16.000Z"
+     "published": "2026-11-23T12:45:16.000Z",
+     "titleFa": "آلیا هوس بارداری می‌کند"
     }
    ],
    "images": [
@@ -2413,7 +2599,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "پیش‌نمایش قسمت جدید سریال «شهر دور»؛ صحنه غافلگیری آلیا توسط جیهان",
+   "summaryFa": "پیش‌نمایش قسمت جدید سریال «شهر دور» منتشر شد. در این ویدیو آلیا که باردار است، نیمه‌شب هنگام خوردن انگور توسط جیهان غافلگیر می‌شود.",
+   "bodyFa": [
+    "پیش‌نمایشی از قسمت امشب سریال «شهر دور» از شبکه کانال دی منتشر شده است. بر اساس اطلاعات این گزارش، پس از وقوع حادثه آتش‌سوزی، شخصیت جیهان در هتل در کنار آلیا و دنیز مانده است.",
+    "در این صحنه، آلیا که به دلیل بارداری دچار هوس شبانه شده، نیمه‌شب جلوی یخچال مشغول خوردن انگور است که جیهان او را می‌بیند. آلیا برای اینکه جیهان مشکوک نشود، ادعا می‌کند که خوردن انگور به کاهش اثرات دود آتش‌سوزی کمک می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5595a513eafb",
@@ -3311,46 +3505,6 @@
    "aiTries": 1
   },
   {
-   "id": "eefadca4f3ea",
-   "url": "https://www.sozcu.com.tr/feyyaz-serifoglu-nun-4-aylik-kizinin-bulundugu-otomobile-kamyon-carpti-p383596",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Feyyaz Şerifoğlu'nun 4 aylık kızının ve eşinin bulunduğu otomobile kamyon çarptı",
-   "snippet": "Haber spikeri Merve Dinçkol Şerifoğlu, kızı Defne Yaz ve bakıcılarıyla TEM Otoyolu'nda seyir halindeyken arkadan gelen k...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglujpg-SPUa3_1MG0eCj6br6kfCIg.jpg",
-   "video": null,
-   "published": "2026-11-23T06:12:26.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [
-     "feyyaz-serifoglu"
-    ],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/feyyaz-serifoglu-nun-4-aylik-kizinin-bulundugu-otomobile-kamyon-carpti-p383596",
-     "title": "Feyyaz Şerifoğlu'nun 4 aylık kızının ve eşinin bulunduğu otomobile kamyon çarptı",
-     "snippet": "Haber spikeri Merve Dinçkol Şerifoğlu, kızı Defne Yaz ve bakıcılarıyla TEM Otoyolu'nda seyir halindeyken arkadan gelen k...",
-     "published": "2026-11-23T06:12:26.000Z"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglujpg-SPUa3_1MG0eCj6br6kfCIg.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglujpg-SPUa3_1MG0eCj6br6kfCIg.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglu-1jpg-GJco9Q5xe02KdZjuWmdgxQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglu-2jpg-hatqE_aZk0S1RHA_kPFNIA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/balik-cesitleri-fiyatlarijpeg-g8gR2hzSJ02oFcOAyu13kw.jpeg?w=288&h=162&mode=crop&scale=both"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "16f59929a10a",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncu-gec-yasta-cocuk-sahibi-olmustu-kizi-aci-konustu-keske-babam-bu-kadar-yasli-olmasaydi-43384633",
    "source": "hurriyet-kelebek",
@@ -3807,7 +3961,8 @@
      "url": "https://www.milliyet.com.tr/magazin/arkeolog-olmak-istiyordum-7705845",
      "title": "‘Arkeolog olmak istiyordum’",
      "snippet": "11 Aralık’ta vizyona girecek proje için oyuncu, “Arkeolog olmak ilk istediğim mesleklerden biriydi benim. Bu kadar kadim tarafımızla ilgili bir bilim dalında ben de Özlem gibi yoğun hislerle çalışırdım diye düşünüyorum. Tarih boyunca yaşamış insanlarla karşılaşma isteği bence bu filmin her anında va",
-     "published": "2026-11-23T04:02:05.000Z"
+     "published": "2026-11-23T04:02:05.000Z",
+     "titleFa": "«می‌خواستم باستان‌شناس شوم»"
     },
     {
      "source": "hurriyet-kelebek",
@@ -3815,7 +3970,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/arkeolog-olmak-isterdim-43387520",
      "title": "Arkeolog olmak isterdim",
      "snippet": "Tülin Özen, 11 Aralık’ta vizyona girecek ödüllü film ‘Kadim Mavi’de izleyici karşısına çıkacak.",
-     "published": "2026-11-23T05:51:00.000Z"
+     "published": "2026-11-23T05:51:00.000Z",
+     "titleFa": "دوست داشتم باستان‌شناس شوم"
     }
    ],
    "mergedIds": [
@@ -3829,7 +3985,26 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اظهار نظر تولین اؤزن درباره بازی در نقش یک باستان‌شناس در فیلم «Kadim Mavi»",
+   "summaryFa": "تولین اؤزن در آستانه اکران فیلم سینمایی «Kadim Mavi» از علاقه قدیمی خود به شغل باستان‌شناسی گفت. او در این اثر نقش باستان‌شناسی به نام اوزلم را ایفا می‌کند.",
+   "bodyFa": [
+    "تولین اؤزن، بازیگر مطرح، با فیلم سینمایی «Kadim Mavi» به دیدار تماشاگران می‌آید. این اثر سینمایی قرار است در تاریخ ۱۱ دسامبر به روی پرده سینماها برود. اؤزن در این پروژه نقش باستان‌شناسی به نام «اوزلم» را بازی کرده و به تشریح ابعاد این نقش و ارتباط احساسی خود با آن پرداخته است.",
+    "به گفته تولین اؤزن، باستان‌شناسی از اولین شغل‌هایی بوده که او در زندگی علاقه‌مند به انجام آن بوده است. او معتقد است اشتیاق برای مواجهه با انسان‌هایی که در طول تاریخ زیسته‌اند، احساسی است که در لحظه‌لحظه این فیلم به چشم می‌خورد. اؤزن تأکید دارد که اگر در واقعیت نیز در شاخه‌ای مرتبط با تاریخ و گذشته کهن فعالیت می‌کرد، مانند شخصیت اوزلم با احساساتی عمیق به کار می‌پرداخت."
+   ],
+   "comparison": {
+    "agree": [
+     "فیلم «Kadim Mavi» با حضور تولین اؤزن در تاریخ ۱۱ دسامبر اکران خواهد شد.",
+     "تولین اؤزن به شغل باستان‌شناسی علاقه داشته است."
+    ],
+    "differ": [],
+    "unconfirmed": [
+     "عنوان «برنده جایزه» برای فیلم «Kadim Mavi» تنها در گزارش حریت ذکر شده است.",
+     "نام شخصیت «اوزلم» و نقل‌قول‌های مستقیم تولین اؤزن درباره این نقش تنها در گزارش ملیت آمده است."
+    ]
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "88babcd9d48f",
@@ -11984,53 +12159,6 @@
     ],
     "unconfirmed": []
    },
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "9533e9e982bc",
-   "url": "https://www.hurriyet.com.tr/kelebek/cocukla-hayat/hadi-gidelim-43384074",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Hadi gidelim",
-   "snippet": "Bu hafta sonu minikleri sahnede ve atölyelerde eğlence dolu bir program bekliyor. Tiyatro oyunları, müzikaller ve yaratıcı tasarım atölyeleriyle çocuklar hem eğlenecek hem de yeni dünyalar keşfedecek.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6afefba98c01a1364d06a1cf.jpg",
-   "video": null,
-   "published": "2026-11-19T13:37:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/cocukla-hayat/hadi-gidelim-43384074",
-     "title": "Hadi gidelim",
-     "snippet": "Bu hafta sonu minikleri sahnede ve atölyelerde eğlence dolu bir program bekliyor. Tiyatro oyunları, müzikaller ve yaratıcı tasarım atölyeleriyle çocuklar hem eğlenecek hem de yeni dünyalar keşfedecek.",
-     "published": "2026-11-19T13:37:00.000Z",
-     "titleFa": "بیا برویم"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6afefba98c01a1364d06a1cf.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6afefba98c01a1364d06a1cf.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
-   ],
-   "mediaDone": true,
-   "titleFa": "برنامه‌های سرگرمی آخر هفته برای کودکان",
-   "summaryFa": "آخر هفته جاری برنامه‌های متنوعی شامل نمایش‌های تئاتر، موزیکال و کارگاه‌های طراحی خلاقانه برای کودکان در نظر گرفته شده است.",
-   "bodyFa": [
-    "آخر هفته پیش رو، کودکان می‌توانند در برنامه‌های پر از سرگرمی که شامل اجراهای صحنه‌ای و کارگاه‌های مختلف است، شرکت کنند.",
-    "این برنامه‌ها شامل نمایش‌های تئاتر، موزیکال و کارگاه‌های طراحی خلاقانه است تا بچه‌ها ضمن سرگرم شدن، فرصتی برای کشف دنیاهای جدید داشته باشند."
-   ],
    "ai": true,
    "aiTries": 1
   },
