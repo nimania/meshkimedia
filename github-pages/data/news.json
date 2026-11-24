@@ -1,6 +1,528 @@
 {
- "updated": "2026-11-24T10:59:26.077Z",
+ "updated": "2026-11-24T18:41:51.262Z",
  "items": [
+  {
+   "id": "4b408389451b",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/goruntulere-tepki-yagmisti-demet-akalin-sozunu-tuttu-izmite-gitti-kucuk-kiza-yeni-bisiklet-aldi-7707207",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Görüntülere tepki yağmıştı! Demet Akalın sözünü tuttu: İzmit'e gitti, küçük kıza yeni bisiklet aldı",
+   "snippet": "Kocaeli'nin İzmit ilçesinde otomobile bisikletiyle sürttüğü gerekçesiyle kız çocuğunun bisikletini parçalayan kadına tepki yağdı. Görüntülerin sosyal medyada yayılmasının ardından şarkıcı Demet Akalın, verdiği bisiklet sözünü tuttu. Ünlü isim, İzmit'e giderek küçük kıza yeni bisiklet hediye etti.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b05c84e1c3369444cf1e1c3.jpg",
+   "video": null,
+   "published": "2026-11-24T17:27:23.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/goruntulere-tepki-yagmisti-demet-akalin-sozunu-tuttu-izmite-gitti-kucuk-kiza-yeni-bisiklet-aldi-7707207",
+     "title": "Görüntülere tepki yağmıştı! Demet Akalın sözünü tuttu: İzmit'e gitti, küçük kıza yeni bisiklet aldı",
+     "snippet": "Kocaeli'nin İzmit ilçesinde otomobile bisikletiyle sürttüğü gerekçesiyle kız çocuğunun bisikletini parçalayan kadına tepki yağdı. Görüntülerin sosyal medyada yayılmasının ardından şarkıcı Demet Akalın, verdiği bisiklet sözünü tuttu. Ünlü isim, İzmit'e giderek küçük kıza yeni bisiklet hediye etti.",
+     "published": "2026-11-24T17:27:23.000Z"
+    }
+   ]
+  },
+  {
+   "id": "26ab67e24d6a",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/kizilcik-serbeti-setinde-karavan-iddiasi-feyza-civelek-sessizligini-bozdu-7707199",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Kızılcık Şerbeti setinde karavan iddiası! Feyza Civelek sessizliğini bozdu",
+   "snippet": "Kızılcık Şerbeti dizisinde Nilay karakterini canlandıran Feyza Civelek, hakkında çok konuşulan karavan iddialarıyla ilgili sessizliğini bozarak açıklama yaptı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b05c2c01c3369444cf1e19b.jpg",
+   "video": null,
+   "published": "2026-11-24T17:03:08.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "kizilcik-serbeti"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/kizilcik-serbeti-setinde-karavan-iddiasi-feyza-civelek-sessizligini-bozdu-7707199",
+     "title": "Kızılcık Şerbeti setinde karavan iddiası! Feyza Civelek sessizliğini bozdu",
+     "snippet": "Kızılcık Şerbeti dizisinde Nilay karakterini canlandıran Feyza Civelek, hakkında çok konuşulan karavan iddialarıyla ilgili sessizliğini bozarak açıklama yaptı.",
+     "published": "2026-11-24T17:03:08.000Z",
+     "titleFa": "ادعای کاروان در ست سریال شربت زغال‌اخته! فیضا جیولک سکوتش را شکست"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b05c2c01c3369444cf1e19b.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b05c2c01c3369444cf1e19b.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "واکنش فیضا جیولک به ادعاهای کاروان در پشت صحنه سریال شربت زغال‌اخته",
+   "summaryFa": "فیضا جیولک، بازیگر نقش نیلا در سریال «شربت زغال‌اخته»، به ادعاهای مطرح‌شده درباره کاروان در محل فیلم‌برداری پاسخ داد.",
+   "bodyFa": [
+    "فیضا جیولک که ایفاگر نقش نیلا در سریال «شربت زغال‌اخته» است، سکوت خود را درباره ادعاهای مطرح‌شده مربوط به کاروان در پشت صحنه این سریال شکست. او با ارائه توضیحاتی به شایعات و ادعاهای پربحث پیرامون این موضوع واکنش نشان داد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "35a6646855f0",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/hande-ercel-33-yasinda-ablasindan-duygusal-dogum-gunu-mesaji-iyi-ki-dogdun-diger-yarim-7707187",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Hande Erçel 33 yaşında! Ablasından duygusal doğum günü mesajı: İyi ki doğdun diğer yarım",
+   "snippet": "Magazin gündeminden düşmeyen oyuncu Hande Erçel, 33 yaşına girdi. Ünlü ismin fenomen ablası Gamze Erçel Yıldırım, sosyal medya hesabından paylaştığı mesajla kardeşinin doğum gününü kutladı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b05b8901c3369444cf1e156.jpg",
+   "video": null,
+   "published": "2026-11-24T16:19:09.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/hande-ercel-33-yasinda-ablasindan-duygusal-dogum-gunu-mesaji-iyi-ki-dogdun-diger-yarim-7707187",
+     "title": "Hande Erçel 33 yaşında! Ablasından duygusal doğum günü mesajı: İyi ki doğdun diğer yarım",
+     "snippet": "Magazin gündeminden düşmeyen oyuncu Hande Erçel, 33 yaşına girdi. Ünlü ismin fenomen ablası Gamze Erçel Yıldırım, sosyal medya hesabından paylaştığı mesajla kardeşinin doğum gününü kutladı.",
+     "published": "2026-11-24T16:19:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": "95e78a129776",
+   "url": "https://www.milliyet.com.tr/magazin/survivor-seren-ay-cetini-yikan-olum-haberi-amcasi-hikmet-cetin-hayatini-kaybetti-7707175",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Survivor Seren Ay Çetin'i yıkan ölüm haberi! Amcası Hikmet Çetin hayatını kaybetti",
+   "snippet": "HABER MERKEZİ - Survivor Ünlüler Gönüllüler 2026 yarışmasının olaylı yarışmacısı Seren Ay Çetin, yaşadığı kavgaların ardından uyarı cezası almasına rağmen diğer yarışmacılarla sorun yaşamaya devam etmişti. En son Lina'nın üzerine yürüyen Çetin, fiziki müdahalede bulunduğu için Survivor'dan diskalifiye edilmişti. Kobra Murat müstakbel gelinine dolar yağdırdı! Kolları dikkat çekti Survivor sonrası adını geniş kitlelere duyuran boksör Çetin, sosyal medyayı aktif olarak kullanmaya devam ediyor. Surv",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b05acdb1c3369444cf1e101.jpg",
+   "video": null,
+   "published": "2026-11-24T15:42:43.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/survivor-seren-ay-cetini-yikan-olum-haberi-amcasi-hikmet-cetin-hayatini-kaybetti-7707175",
+     "title": "Survivor Seren Ay Çetin'i yıkan ölüm haberi! Amcası Hikmet Çetin hayatını kaybetti",
+     "snippet": "HABER MERKEZİ - Survivor Ünlüler Gönüllüler 2026 yarışmasının olaylı yarışmacısı Seren Ay Çetin, yaşadığı kavgaların ardından uyarı cezası almasına rağmen diğer yarışmacılarla sorun yaşamaya devam etmişti. En son Lina'nın üzerine yürüyen Çetin, fiziki müdahalede bulunduğu için Survivor'dan diskalifi",
+     "published": "2026-11-24T15:42:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": "9f14c00a525d",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/erdal-ozyagcilar-oyunculuk-dunyanin-en-zor-2-meslegidir-soylemi-sehir-efsanesidir-7707148",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Erdal Özyağcılar: Oyunculuk dünyanın en zor 2. mesleğidir söylemi şehir efsanesidir",
+   "snippet": "Usta oyuncu Erdal Özyağcılar sette çektiği bir videoda, oyunculuğun madencilikten sonra dünyanın en zor ikinci mesleği olduğu yönündeki söylemlere karşı çıktı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b05a1a91c3369444cf1e0c6.jpg",
+   "video": null,
+   "published": "2026-11-24T14:41:38.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/erdal-ozyagcilar-oyunculuk-dunyanin-en-zor-2-meslegidir-soylemi-sehir-efsanesidir-7707148",
+     "title": "Erdal Özyağcılar: Oyunculuk dünyanın en zor 2. mesleğidir söylemi şehir efsanesidir",
+     "snippet": "Usta oyuncu Erdal Özyağcılar sette çektiği bir videoda, oyunculuğun madencilikten sonra dünyanın en zor ikinci mesleği olduğu yönündeki söylemlere karşı çıktı.",
+     "published": "2026-11-24T14:41:38.000Z"
+    }
+   ]
+  },
+  {
+   "id": "18f827d611b8",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/cemre-baysel-iddiali-elbisesiyle-goz-kamastirdi-son-pozlarina-begeni-yagdi-7707054",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Cemre Baysel iddialı elbisesiyle göz kamaştırdı! Son pozlarına beğeni yağdı",
+   "snippet": "“Güller ve Günahlar” dizisinin yıldızı Cemre Baysel, bir çekim için kamera karşısına geçti. Bordo renkli, siyah dantel detaylı elbisesiyle iddialı pozlar veren ünlü oyuncunun fotoğrafları sosyal medyada beğeni topladı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b0599ba1c3369444cf1e093.jpg",
+   "video": null,
+   "published": "2026-11-24T14:07:23.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "guller-ve-gunahlar"
+    ],
+    "people": [
+     "cemre-baysel"
+    ],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/cemre-baysel-iddiali-elbisesiyle-goz-kamastirdi-son-pozlarina-begeni-yagdi-7707054",
+     "title": "Cemre Baysel iddialı elbisesiyle göz kamaştırdı! Son pozlarına beğeni yağdı",
+     "snippet": "“Güller ve Günahlar” dizisinin yıldızı Cemre Baysel, bir çekim için kamera karşısına geçti. Bordo renkli, siyah dantel detaylı elbisesiyle iddialı pozlar veren ünlü oyuncunun fotoğrafları sosyal medyada beğeni topladı.",
+     "published": "2026-11-24T14:07:23.000Z",
+     "titleFa": "جمره بایسل با لباس جذاب خود درخشید! هجوم پسندها به آخرین تصاویر او"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0599ba1c3369444cf1e093.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0599ba1c3369444cf1e093.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "جمره بایسل با لباس جذاب خود توجه‌ها را به خود جلب کرد",
+   "summaryFa": "جمره بایسل، ستاره سریال گل‌ها و گناهان، در یک پروژه عکاسی جدید شرکت کرد. تصاویر او با لباس بورگوندی و جزئیات توری مشکی در شبکه‌های اجتماعی مورد توجه قرار گرفت.",
+   "bodyFa": [
+    "جمره بایسل، بازیگر شناخته شده و ستاره سریال گل‌ها و گناهان، اخیراً برای یک عکاسی جدید مقابل دوربین رفت.",
+    "او در این تصاویر با پوشیدن یک لباس بورگوندی رنگ که دارای جزئیات توری مشکی بود، پزهای جالب‌توجهی گرفت.",
+    "این عکس‌ها پس از انتشار در شبکه‌های اجتماعی با استقبال و پسند کاربران روبه‌رو شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "6c94963cb23e",
+   "url": "https://www.hurriyet.com.tr/kelebek/magazin/16-yil-suren-asksiz-evlilik-pahaliya-patladi-bosandi-ama-yine-kurtulamadi-eski-kocasina-yuklu-odeme-yapacak-43389430",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "16 yıl süren aşksız evlilik pahalıya patladı: Boşandı ama hayatından çıkaramadı... Eski kocasına yarım milyonluk ödeme yapacak!",
+   "snippet": "Hem ünlüler dünyasında hem de sıradan hayatlarda bazı evlilikler bitse bile çiftler öyle hemen bağlantılarını kesip kendi yollarına gidemiyorlar.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b057c038c01a1364d06b83e.jpg",
+   "video": null,
+   "published": "2026-11-24T13:55:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/16-yil-suren-asksiz-evlilik-pahaliya-patladi-bosandi-ama-yine-kurtulamadi-eski-kocasina-yuklu-odeme-yapacak-43389430",
+     "title": "16 yıl süren aşksız evlilik pahalıya patladı: Boşandı ama hayatından çıkaramadı... Eski kocasına yarım milyonluk ödeme yapacak!",
+     "snippet": "Hem ünlüler dünyasında hem de sıradan hayatlarda bazı evlilikler bitse bile çiftler öyle hemen bağlantılarını kesip kendi yollarına gidemiyorlar.",
+     "published": "2026-11-24T13:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "9df19e515263",
+   "url": "https://www.haberturk.com/magazin/okan-bayulgen-ask-kurbaniyim-3929788",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Aşk kurbanıyım!\"",
+   "snippet": "Okan Bayülgen, Bloomberg HT'de yayınlanan \"Aslı Şafak'la İşin Aslı\" programında özel hayatı ve kızı İstanbul hakkında konuştu. \"Ben aşk kurbanıyım\" diyen ünlü televizyoncu, 17 yaşındaki kızı İstanbul'un sosyal medya kullanmama kararını da anlattı",
+   "image": "https://im.haberturk.com/l/2026/11/24/ver1795527238/3929788/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-24T13:34:13.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/okan-bayulgen-ask-kurbaniyim-3929788",
+     "title": "\"Aşk kurbanıyım!\"",
+     "snippet": "Okan Bayülgen, Bloomberg HT'de yayınlanan \"Aslı Şafak'la İşin Aslı\" programında özel hayatı ve kızı İstanbul hakkında konuştu. \"Ben aşk kurbanıyım\" diyen ünlü televizyoncu, 17 yaşındaki kızı İstanbul'un sosyal medya kullanmama kararını da anlattı",
+     "published": "2026-11-24T13:34:13.000Z"
+    }
+   ]
+  },
+  {
+   "id": "bb7c922a44ee",
+   "url": "https://www.hurriyet.com.tr/kelebek/stil/lidyanin-tarihi-edusa-operasiyla-akm-sahnesinde-yeniden-canlaniyor-43389532",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Lidya’nın tarihi ‘Edusa’ operasıyla AKM Sahnesi’nde yeniden canlanıyor",
+   "snippet": "Anadolu’nun köklü uygarlıklarından Lidya Krallığı’nın son dönemini sahneye taşıyan “Edusa” operası, İstanbul Devlet Opera ve Balesi tarafından yeniden sanatseverlerle buluşturuluyor. Geçtiğimiz sezon dünya prömiyeri gerçekleştirilen eser, 26 Kasım’da Atatürk Kültür Merkezi Türk Telekom Opera Salonu’nda yeniden sahnelenecek.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0585e43516f14679ccc7af.jpg",
+   "video": null,
+   "published": "2026-11-24T12:43:51.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/lidyanin-tarihi-edusa-operasiyla-akm-sahnesinde-yeniden-canlaniyor-43389532",
+     "title": "Lidya’nın tarihi ‘Edusa’ operasıyla AKM Sahnesi’nde yeniden canlanıyor",
+     "snippet": "Anadolu’nun köklü uygarlıklarından Lidya Krallığı’nın son dönemini sahneye taşıyan “Edusa” operası, İstanbul Devlet Opera ve Balesi tarafından yeniden sanatseverlerle buluşturuluyor. Geçtiğimiz sezon dünya prömiyeri gerçekleştirilen eser, 26 Kasım’da Atatürk Kültür Merkezi Türk Telekom Opera Salonu’",
+     "published": "2026-11-24T12:43:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": "0943026df7f5",
+   "url": "https://www.haberturk.com/magazin/kobra-murat-ogluna-kiz-istedi-3929755",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Kobra Murat oğluna kız istedi",
+   "snippet": "Roman müziğinin sevilen ismi Kobra Murat, oğlunu evlendiriyor. Gösterişli tarzıyla bilinen şarkıcı, oğlu Yiğithan'a kız istedi. \"Prensesim\" dediği müstakbel gelininin üzerine dolar saçtı",
+   "image": "https://im.haberturk.com/l/2026/11/24/ver1795522945/3929755/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-24T12:42:37.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/kobra-murat-ogluna-kiz-istedi-3929755",
+     "title": "Kobra Murat oğluna kız istedi",
+     "snippet": "Roman müziğinin sevilen ismi Kobra Murat, oğlunu evlendiriyor. Gösterişli tarzıyla bilinen şarkıcı, oğlu Yiğithan'a kız istedi. \"Prensesim\" dediği müstakbel gelininin üzerine dolar saçtı",
+     "published": "2026-11-24T12:42:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": "8e3d5dda8263",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/haysiyetin-simayi-pariste-43389482",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Haysiyet'in Simay'ı Paris'te!",
+   "snippet": "Kanal D’nin sevilen dizisi Haysiyet’te Simay karakterine hayat veren başarılı oyuncu Merih Öztürk, yoğun set temposuna kısa bir ara vererek soluğu Paris’te aldı. Sanatın ve modanın başkenti Paris’e giden güzel oyuncu, şehrin büyüleyici atmosferini keşfetti.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b057eae8c01a1364d06b85a.jpg",
+   "video": null,
+   "published": "2026-11-24T12:08:00.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "haysiyet"
+    ],
+    "people": [
+     "merih-ozturk"
+    ],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/haysiyetin-simayi-pariste-43389482",
+     "title": "Haysiyet'in Simay'ı Paris'te!",
+     "snippet": "Kanal D’nin sevilen dizisi Haysiyet’te Simay karakterine hayat veren başarılı oyuncu Merih Öztürk, yoğun set temposuna kısa bir ara vererek soluğu Paris’te aldı. Sanatın ve modanın başkenti Paris’e giden güzel oyuncu, şehrin büyüleyici atmosferini keşfetti.",
+     "published": "2026-11-24T12:08:00.000Z",
+     "titleFa": "سیمای سریال حیثیت در پاریس!"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/haysiyetin-simayi-askin-sehrinde-tek-basina-7707041",
+     "title": "Haysiyet'in Simay'ı aşkın şehrinde tek başına",
+     "snippet": "HABER MERKEZİ - Romantik atmosferiyle dikkat çeken Paris, bu kez Merih Öztürk’ün keşiflerine sahne oldu. Şehri tek başına gezmeyi tercih eden güzel oyuncu, romantik Paris kaçamağını özel anlarla taçlandırdı. SET TEMPOSUNA PARİS MOLASI Yoğun çalışma temposuna kısa bir mola veren Merih Öztürk, Paris s",
+     "published": "2026-11-24T14:50:28.000Z",
+     "titleFa": "سیمای سریال حیثیت تنها در شهر عشق"
+    }
+   ],
+   "mergedIds": [
+    "dec96e6d9ecc"
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b057eae8c01a1364d06b85a.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b057eae8c01a1364d06b85a.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "سفر مریح اؤزتورک، بازیگر سریال حیثیت، به پاریس برای استراحت",
+   "summaryFa": "مریح اؤزتورک، بازیگر نقش سیمای در سریال «حیثیت»، برای استراحت از فیلم‌برداری‌های فشرده به پاریس سفر کرد. او در این سفر از جاذبه‌های این شهر دیدن کرده است.",
+   "bodyFa": [
+    "مریح اؤزتورک، بازیگر نقش سیمای در سریال پرطرفدار «حیثیت» از شبکه کانال د، به دلیل روند فشرده فیلم‌برداری و کار در ست سریال، تصمیم گرفت استراحت کوتاهی به خود بدهد.",
+    "این بازیگر برای گذراندن این وقفه کاری راهی پاریس، پایتخت هنر و مد شد تا از فضای دیدنی این شهر بازدید کند.",
+    "بر اساس گزارش‌های منتشرشده، او در جریان این سفر از جاذبه‌های گردشگری پاریس دیدن کرده و اوقات خود را در فضایی آرامش‌بخش گذرانده است."
+   ],
+   "comparison": {
+    "agree": [
+     "مریح اؤزتورک بازیگر نقش سیمای در سریال حیثیت (شبکه کانال د) است.",
+     "او به دلیل برنامه فشرده کاری، مرخصی کوتاهی گرفته و به پاریس سفر کرده است."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات نحوه گردش در شهر",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "تنها به سفر او به پاریس و گشت‌وگذار در فضای هنری و مد اشاره کرده است."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "تصریح کرده که او ترجیح داده به تنهایی در شهر گردش کند."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "e8747ff5c992",
+   "url": "https://www.sozcu.com.tr/dizi-sektorunde-indirim-krizi-ilker-aksum-dan-ucret-indirimi-teklifine-rest-p384037",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Dizi sektöründe indirim krizi: İlker Aksum'dan ücret indirimi teklifine rest",
+   "snippet": "Dizi sektöründe reklam gelirlerindeki düşüş nedeniyle oyuncuların ücretlerinde indirim gündeme gelirken İlker Aksum'dan ...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ilker-aksum-wjpg-jhLFJOCjXkOQ-3Qa6deOpw.jpg",
+   "video": null,
+   "published": "2026-11-24T11:47:59.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "ilker-aksum"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/dizi-sektorunde-indirim-krizi-ilker-aksum-dan-ucret-indirimi-teklifine-rest-p384037",
+     "title": "Dizi sektöründe indirim krizi: İlker Aksum'dan ücret indirimi teklifine rest",
+     "snippet": "Dizi sektöründe reklam gelirlerindeki düşüş nedeniyle oyuncuların ücretlerinde indirim gündeme gelirken İlker Aksum'dan ...",
+     "published": "2026-11-24T11:47:59.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ilker-aksum-wjpg-jhLFJOCjXkOQ-3Qa6deOpw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ilker-aksum-wjpg-jhLFJOCjXkOQ-3Qa6deOpw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hibrit-otomobiljpeg-xXJOytUkw0O7fuhWd2qIjw.jpeg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hizliipng-6YVVEJhbVk2psf5iiHlsyw.png?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b058488f4678357b8baff35png-oNepa9CNqUGsigh9d6vyoQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "bde4db9690d8",
+   "url": "https://www.haberturk.com/magazin/abd-li-rapci-macklemore-gazze-deki-soykirimi-anlatan-sarki-cikardi-3929733",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Gazze'deki soykırımı anlatan şarkı çıkardı",
+   "snippet": "Filistin destekçisi ABD'li ünlü rapçi Macklemore, İsrail'in Gazze'deki soykırımına dikkati çeken \"Where's our love\" isimli yeni bir şarkı yayımladı",
+   "image": "https://im.haberturk.com/l/2026/11/24/ver1795518471/3929733/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-24T11:14:02.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/abd-li-rapci-macklemore-gazze-deki-soykirimi-anlatan-sarki-cikardi-3929733",
+     "title": "Gazze'deki soykırımı anlatan şarkı çıkardı",
+     "snippet": "Filistin destekçisi ABD'li ünlü rapçi Macklemore, İsrail'in Gazze'deki soykırımına dikkati çeken \"Where's our love\" isimli yeni bir şarkı yayımladı",
+     "published": "2026-11-24T11:14:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": "740855428cfa",
+   "url": "https://www.hurriyet.com.tr/kelebek/stil/tek-kisilik-gosteri-43389364",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Tek kişilik gösteri",
+   "snippet": "Ersin Korkut, tek kişilik gösterisi “Ben mi Yapmışım?”da Hakkâri’den İstanbul’a uzanan hayatını mizahi bir dille anlatıyor. Eray Yasin Işık’ın yazıp yönettiği oyunun galası 1 Aralık’ta Baba Sahne’de gerçekleştirilecek.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0570fb8c01a1364d06b7ab.jpg",
+   "video": null,
+   "published": "2026-11-24T11:12:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/stil/tek-kisilik-gosteri-43389364",
+     "title": "Tek kişilik gösteri",
+     "snippet": "Ersin Korkut, tek kişilik gösterisi “Ben mi Yapmışım?”da Hakkâri’den İstanbul’a uzanan hayatını mizahi bir dille anlatıyor. Eray Yasin Işık’ın yazıp yönettiği oyunun galası 1 Aralık’ta Baba Sahne’de gerçekleştirilecek.",
+     "published": "2026-11-24T11:12:00.000Z"
+    }
+   ]
+  },
   {
    "id": "34f76e4c890e",
    "url": "https://www.haberturk.com/magazin/baris-falay-hicbir-isimde-parayi-on-plana-koymadim-3929724",
@@ -1009,7 +1531,8 @@
      "url": "https://www.milliyet.com.tr/magazin/alya-ve-cihan-times-meydaninda-bulustu-7706538",
      "title": "Alya ve Cihan, Times Meydanı’nda buluştu",
      "snippet": "İkili, Emmy adayı dizinin tanıtımlarının yayınlandığı Times Meydanı’ndaki dev ekranların önünde buluştu. İkiliye yapımcı Lale Eren de eşlik etti. Akbaba, ‘Tuk tuk’ adı verilen ve ABD’de yaşayan bir Türk tarafından kullanılan bisikletle 5. Cadde’de turlarken, hayranlarının yoğun ilgisiyle karşılaştı.",
-     "published": "2026-11-24T04:02:11.000Z"
+     "published": "2026-11-24T04:02:11.000Z",
+     "titleFa": "آلیا و جهان در میدان تایمز ملاقات کردند"
     }
    ],
    "images": [
@@ -1020,7 +1543,16 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "دیدار آلیا و جهان در میدان تایمز نیویورک",
+   "summaryFa": "بازیگران سریال «شهر دور» برای مراسم اِمی به نیویورک سفر کردند و در میدان تایمز دیده شدند. این سفر با توقف موقت در فیلمبرداری ماردین انجام شد.",
+   "bodyFa": [
+    "اوزان آکبابا و سینم اونسال، بازیگران اصلی سریال نامزد جایزه اِمی یعنی «شهر دور» از شبکه کادال دی، موقتاً به فیلمبرداری این سریال در ماردین استراحت داده و راهی نیویورک شدند.",
+    "این دو بازیگر در میدان تایمز و در مقابل نمایشگرهای بزرگی که تبلیغات این سریال را پخش می‌کردند، حضور یافتند. لاله ارن، تهیه‌کننده اثر نیز آن‌ها را همراهی کرد.",
+    "در جریان این سفر، اوزان آکبابا سوار بر یک دوچرخه ویژه که توسط یک ترک مقیم آمریکا هدایت می‌شد در خیابان پنجم گشت زد و با استقبال و توجه زیاد طرفداران روبه‌رو شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "307c07a7285f",
@@ -1083,7 +1615,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/sinem-unsal-ve-ozan-akbaba-kirmizi-halida-emmyde-uzak-sehir-onuru-43388659",
      "title": "Sinem Ünsal ve Ozan Akbaba kırmızı halıda! Emmy’de “Uzak Şehir” onuru",
      "snippet": "Kanal D’nin izlenme rekorları kıran “Uzak Şehir” dizisinin yıldızları Sinem Ünsal ve Ozan Akbaba, New York’ta düzenlenen 54. Uluslararası Emmy’s Ödülleri Galasında Türkiye’yi temsil etti.",
-     "published": "2026-11-24T01:51:00.000Z"
+     "published": "2026-11-24T01:51:00.000Z",
+     "titleFa": "سینم اونسال و اوزان آکبابا روی فرش قرمز! افتخار «شهر دور» در امی"
     },
     {
      "source": "milliyet-magazin",
@@ -1091,7 +1624,8 @@
      "url": "https://www.milliyet.com.tr/magazin/emmy-uzak-degil-sinem-unsal-ve-ozan-akbaba-halida-7706567",
      "title": "Emmy'de Uzak Şehir onuru! Sinem Ünsal ve Ozan Akbaba halıda",
      "snippet": "Uluslararası Televizyon Sanat ve Bilimleri Akademisi tarafından düzenlenen Uluslararası Emmy Ödülleri bu sene 54. kez sahiplerini buldu. ABD dışında üretilen ve kesintisiz olay örgüsüne sahip melodramatik dizilere verilen \"En İyi Telenovela\" kategorisinde ödüle aday gösterilen Uzak Şehir’in başrol o",
-     "published": "2026-11-24T07:42:46.000Z"
+     "published": "2026-11-24T07:42:46.000Z",
+     "titleFa": "افتخار «شهر دور» در امی! سینم اونسال و اوزان آکبابا روی فرش قرمز"
     }
    ],
    "mergedIds": [
@@ -1105,7 +1639,33 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "افتخارآفرینی شهر دور در جوایز امی با حضور سینم اونسال و اوزان آکبابا",
+   "summaryFa": "سینم اونسال و اوزان آکبابا، بازیگران سریال «شهر دور»، در مراسم پنجاه و چهارمین دوره جوایز بین‌المللی امی در نیویورک حضور یافتند. این سریال در بخش «بهترین تلنوولا» نامزد دریافت جایزه شده بود.",
+   "bodyFa": [
+    "بازیگران سریال پرمخاطب «شهر دور» محصول کانال دی، یعنی سینم اونسال و اوزان آکبابا، به منظور نمایندگی از ترکیه در مراسم گالا و پنجاه و چهارمین دوره جوایز بین‌المللی امی در نیویورک شرکت کردند.",
+    "این رویداد که توسط آکادمی بین‌المللی علوم و هنرهای تلویزیونی برگزار می‌شود، امسال میزبان این دو هنرمند بود تا در میان آثار برجسته جهان حضور داشته باشند."
+   ],
+   "comparison": {
+    "agree": [
+     "سینم اونسال و اوزان آکبابا بازیگران سریال «شهر دور» از شبکه کانال دی هستند.",
+     "آن‌ها در پنجاه و چهارمین دوره جوایز بین‌المللی امی در نیویورک حضور یافتند و ترکیه را نمایندگی کردند."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات دسته‌بندی و برگزاری جوایز امی",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "به برگزاری جوایز توسط آکادمی بین‌المللی علوم و هنرهای تلویزیونی و نامزدی سریال «شهر دور» در بخش «بهترین تلنوولا» مختص آثار تولید شده خارج از آمریکا اشاره کرده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1a76a72685de",
@@ -1557,7 +2117,16 @@
      "snippet": "ATV'NIN sevilen dizisi 'Altı Üstü İstanbul'un kadrosuna Didem Balçın da katıldı. Balçın, mahalleye gelen Gülten karakteriyle hikâyede yer alıyor. 'Altı Üstü İstanbul' kenar mahallede yaşayan Emir ve arkadaşlarının... Devamı için tıklayınız",
      "published": "2026-11-23T16:19:47.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/833f05/1200/675/0/64/1379/841?u=https://isbh.tmgrup.com.tr/sbh/2026/11/23/mahalleye-gulten-geldi-1795450774824.jpeg",
+    "https://iasbh.tmgrup.com.tr/7fbbcd/752/395/0/86/1379/809?u=https://isbh.tmgrup.com.tr/sbh/2026/11/23/mahalleye-gulten-geldi-1795450774824.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true
   },
   {
    "id": "cd7975bf8085",
@@ -11466,148 +12035,6 @@
    "aiTries": 1
   },
   {
-   "id": "4738e0f08612",
-   "url": "https://www.haberturk.com/magazin/yonca-lodi-den-yaprak-dokumu-leyla-3928546",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Yonca Lodi'den 'Yaprak Dökümü Leyla'",
-   "snippet": "Yonca Lodi, yeni şarkısı 'Yaprak Dökümü Leyla'yı müzikseverlerin beğenisine sunuyor",
-   "image": "https://im.haberturk.com/l/2026/11/19/ver1795092790/3928546/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-19T12:53:41.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/yonca-lodi-den-yaprak-dokumu-leyla-3928546",
-     "title": "Yonca Lodi'den 'Yaprak Dökümü Leyla'",
-     "snippet": "Yonca Lodi, yeni şarkısı 'Yaprak Dökümü Leyla'yı müzikseverlerin beğenisine sunuyor",
-     "published": "2026-11-19T12:53:41.000Z",
-     "titleFa": "از یونکا لودی «Yaprak Dökümü Leyla»"
-    },
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yonca-lodiden-yaprak-dokumu-43384127",
-     "title": "Yonca Lodi'den Yaprak Dökümü",
-     "snippet": "Türk pop müziğinin başarılı ve sevilen ismi Yonca Lodi, dinleyicilerini derinden etkileyecek yepyeni şarkısı “Yaprak Dökümü Leyla” ile müzikseverlerle buluşmaya hazırlanıyor.",
-     "published": "2026-11-19T14:10:19.000Z",
-     "titleFa": "برگریزان از یونکا لودی"
-    }
-   ],
-   "mergedIds": [
-    "6c2c2cb3d3ac"
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6aff02f0925c456bddefaecb.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-google-play.png?v=azure-3761"
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار آهنگ جدید «Yaprak Dökümü Leyla» از یونکا لودی",
-   "summaryFa": "یونکا لودی، خواننده محبوب پات ترک، خود را برای انتشار تک‌آهنگ جدید خود آماده می‌کند. این اثر به موضوعاتی مانند جستجوی عشق معصومانه و ناامیدی‌ها می‌پردازد.",
-   "bodyFa": [
-    "یونکا لودی، خواننده مطرح موسیقی پاپ ترک، با اثر جدید خود به نام «Yaprak Dökümü Leyla» به زودی به استقبال مخاطبان می‌رود. این ترانه بر محور جستجوی یک عشق ساده و واقعی در میان روابط سطحی و ناامیدی‌های ناشی از آن شکل گرفته است.",
-    "ترانه و آهنگسازی این اثر متعلق به مراد گونش است و تنظیم مدرن آن توسط مهمتهان دیشبوداک انجام شده است. همچنین کارگردانی موزیک ویدیو این ترانه را امره اوزبیلن بر عهده داشته است تا فضای ملانکولیک داستان را به تصویر بکشد."
-   ],
-   "comparison": {
-    "agree": [
-     "یونکا لودی آهنگ جدیدی به نام «Yaprak Dökümü Leyla» منتشر می‌کند."
-    ],
-    "differ": [],
-    "unconfirmed": []
-   },
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "6e89b13b658f",
-   "url": "https://www.hurriyet.com.tr/kelebek/stil/bir-baskadir-yeni-yil-basliyor-43383926",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "“Bir Başkadır Yeni Yıl” başlıyor",
-   "snippet": "Hilltown Küçükyalı’da 27 Kasım – 31 Aralık tarihleri arasında düzenlenecek “Bir Başkadır Yeni Yıl”, konserler, gastronomi, alışveriş, etkinlikler ve buz pistiyle ziyaretçilere yeni yıl atmosferi yaşatacak.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6afeeba8c757abf6569381a6.jpg",
-   "video": null,
-   "published": "2026-11-19T12:29:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/stil/bir-baskadir-yeni-yil-basliyor-43383926",
-     "title": "“Bir Başkadır Yeni Yıl” başlıyor",
-     "snippet": "Hilltown Küçükyalı’da 27 Kasım – 31 Aralık tarihleri arasında düzenlenecek “Bir Başkadır Yeni Yıl”, konserler, gastronomi, alışveriş, etkinlikler ve buz pistiyle ziyaretçilere yeni yıl atmosferi yaşatacak.",
-     "published": "2026-11-19T12:29:00.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6afeeba8c757abf6569381a6.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6afeeba8c757abf6569381a6.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
-   ],
-   "mediaDone": true
-  },
-  {
-   "id": "f6acb307d2c2",
-   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/dansa-davet-43383838",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Dansa davet",
-   "snippet": "Bu hafta Nederlands Dans Theater’ın genç dansçıları, 30. İstanbul Tiyatro Festivali kapsamında 2 gün üst üste sahnede olacak. Ayrıca Karsu, Ankara’da; Sibel Can, İstanbul’da konser verecek. İstanbul Modern’in yeni sergisi ‘Akıp Giden Şehir’ ziyarete açıldı.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6afee76e2356f0a3a15a358e.jpg",
-   "video": null,
-   "published": "2026-11-19T12:11:54.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/dansa-davet-43383838",
-     "title": "Dansa davet",
-     "snippet": "Bu hafta Nederlands Dans Theater’ın genç dansçıları, 30. İstanbul Tiyatro Festivali kapsamında 2 gün üst üste sahnede olacak. Ayrıca Karsu, Ankara’da; Sibel Can, İstanbul’da konser verecek. İstanbul Modern’in yeni sergisi ‘Akıp Giden Şehir’ ziyarete açıldı.",
-     "published": "2026-11-19T12:11:54.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6afee76e2356f0a3a15a358e.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6afee76e2356f0a3a15a358e.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "1f6503000741",
    "url": "https://www.sozcu.com.tr/kerem-alisik-i-yillar-sonra-ekrana-donduren-haysiyet-dizisi-icin-karar-verildi-p382780",
    "source": "sozcu-magazin",
@@ -11661,100 +12088,6 @@
    "aiTries": 1
   },
   {
-   "id": "d7f333b18fa6",
-   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/yeni-adimlar-yepyeni-sesler-43383832",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Yeni adımlar, yepyeni sesler",
-   "snippet": "Bu hafta Deniz Seki yeni bir tekli yayımlamakla kalmadı, yapımcılığa adım attığının da müjdesini verdi. Genç yetenek Yağmur Erdağ’a ‘Yağmur’ şarkısında Teoman eşlik etti…",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6afee1f58c01a1364d06a066.jpg",
-   "video": null,
-   "published": "2026-11-19T11:48:07.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/yeni-adimlar-yepyeni-sesler-43383832",
-     "title": "Yeni adımlar, yepyeni sesler",
-     "snippet": "Bu hafta Deniz Seki yeni bir tekli yayımlamakla kalmadı, yapımcılığa adım attığının da müjdesini verdi. Genç yetenek Yağmur Erdağ’a ‘Yağmur’ şarkısında Teoman eşlik etti…",
-     "published": "2026-11-19T11:48:07.000Z",
-     "titleFa": "گام‌های تازه، صداهای کاملاً جدید"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6afee1f58c01a1364d06a066.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6afee1f58c01a1364d06a066.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
-   ],
-   "mediaDone": true,
-   "titleFa": "گام‌های تازه و صداهای جدید در دنیای موسیقی",
-   "summaryFa": "دниз سکی علاوه بر انتشار تک‌آهنگ جدید، ورود خود به عرصه تهیه‌کنندگی را اعلام کرد. در این اثر، تئومان نیز به خواننده جوان، یاغмур ارداغ، پیوسته است.",
-   "bodyFa": [
-    "در هفته جاری، دنیز سکی خبرهای مهمی را برای طرفداران خود به اشتراک گذاشت. او نه تنها یک تک‌آهنگ جدید منتشر کرد، بلکه رسماً اعلام کرد که وارد عرصه تهیه‌کنندگی نیز شده است.",
-    "در این میان، قطعه «یاغмур» با صدای هنرمند جوان، یاغмур ارداغ، توجه مخاطبان را به خود جلب کرده است. در اجرای این ترانه، تئومان نیز به عنوان همخوان یا همراه، این استعداد جوان را همراهی کرده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "4c8e1b1d44ff",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/fahriye-evcenden-karan-ve-kerem-paylasimi-iki-erkek-cocuklu-evin-aksam-rutini-7703810",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Fahriye Evcen'den Karan ve Kerem paylaşımı! 'İki erkek çocuklu evin akşam rutini'",
-   "snippet": "Fahriye Evcen, oğulları Karan ve Kerem'in başlarına buz tuttukları anları sosyal medya hesabından paylaştı. Ünlü oyuncu paylaşıma “İki erkek çocuklu evin akşam rutini... Buz servisi efendim alır mıydınız?” notunu ekledi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6afedd26c00aca18cb4ae826.jpg",
-   "video": null,
-   "published": "2026-11-19T11:28:19.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/fahriye-evcenden-karan-ve-kerem-paylasimi-iki-erkek-cocuklu-evin-aksam-rutini-7703810",
-     "title": "Fahriye Evcen'den Karan ve Kerem paylaşımı! 'İki erkek çocuklu evin akşam rutini'",
-     "snippet": "Fahriye Evcen, oğulları Karan ve Kerem'in başlarına buz tuttukları anları sosyal medya hesabından paylaştı. Ünlü oyuncu paylaşıma “İki erkek çocuklu evin akşam rutini... Buz servisi efendim alır mıydınız?” notunu ekledi.",
-     "published": "2026-11-19T11:28:19.000Z",
-     "titleFa": "اشتراک‌گذاری تصویری از کارن و کرم توسط فحریه اوجن! «روتین شبانه خانه دارای دو پسر»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6afedd26c00aca18cb4ae826.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6afedd26c00aca18cb4ae826.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "انتشار تصویر کارن و کرم توسط فحریه اوجن",
-   "summaryFa": "فحریه اوجن تصاویری از لحظات قرار دادن یخ روی سر پسرانش، کارن و کرم، در شبکه‌های اجتماعی منتشر کرد. او این تصویر را با جمله «روتین شبانه خانه دارای دو پسر... سرویس یخ چطور، میل دارید؟» به اشتراک گذاشت.",
-   "bodyFa": [
-    "فحریه اوجن، بازیگر مشهور، تصاویری از فرزندان خود یعنی کارن و کرم را در صفحه اجتماعی‌اش به اشتراک گذاشت که در آن مشغول گذاشتن یخ روی سر خود هستند.",
-    "او این پست را با یادداشتی طنزآمیز درباره روتین شبانه یک خانه با دو پسر منتشر کرد و خطاب به مخاطبان نوشت که آیا سرویس یخ می‌خواهند یا خیر."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
    "id": "b8229310fd9e",
    "url": "https://www.hurriyet.com.tr/kelebek/magazin/yillarin-oyuncusu-ozel-abone-sayfasi-acmisti-dara-dustugunu-kimseler-bilmiyormus-evimin-kirasini-bile-odeyemiyordum-43383631",
    "source": "hurriyet-kelebek",
@@ -11799,206 +12132,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "4b7bd34a0105",
-   "url": "https://www.sozcu.com.tr/hayrettin-in-programinda-ortalik-karisti-fenomenden-konuga-ucan-tekme-p382625",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Hayrettin'in Kaos Show programında ortalık karıştı: Fenomenden konuğa uçan tekme",
-   "snippet": "Hayrettin'in sunduğu programa katılan fenomenin beklenmedik hareketi, eğlenceli anların yaşandığı stüdyoda tansiyonu yük...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hayrettinin-programinda-ortalik-karisti-fenomenden-konuga-ucan-tekmepng-27mCtmwt4EWtJ2i4b057gQ.png",
-   "video": null,
-   "published": "2026-11-19T09:30:29.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/hayrettin-in-programinda-ortalik-karisti-fenomenden-konuga-ucan-tekme-p382625",
-     "title": "Hayrettin'in Kaos Show programında ortalık karıştı: Fenomenden konuğa uçan tekme",
-     "snippet": "Hayrettin'in sunduğu programa katılan fenomenin beklenmedik hareketi, eğlenceli anların yaşandığı stüdyoda tansiyonu yük...",
-     "published": "2026-11-19T09:30:29.000Z",
-     "titleFa": "جنجال در برنامه «کائوس شو» با اجرای خیرالدین: لگد پرنده یک چهره فضای مجازی به مهمان برنامه"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hayrettinin-programinda-ortalik-karisti-fenomenden-konuga-ucan-tekmepng-27mCtmwt4EWtJ2i4b057gQ.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hayrettinin-programinda-ortalik-karisti-fenomenden-konuga-ucan-tekmepng-27mCtmwt4EWtJ2i4b057gQ.png?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/itiresenjpg-rabXlbciQEa-YFW_jSugwA.jpg?w=288&h=162&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/bicaklanangencbufeyesigindivatandaslarsaldirganlarinonunukestikapak16f2ef63c9daef6ajpg-yIjJE-5WhUuOu1YwN55wKA.jpg?w=288&h=162&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/tffdenzorbaykucuke13aysonragorev6aff1441f4678357b8ba5e8epng-QLmwertsHkeTGr4ZHlTx2w.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "درگیری و جنجال در برنامه «کائوس شو» با اجرای خیرالدین",
-   "summaryFa": "در جریان ضبط برنامه «کائوس شو» با اجرای خیرالدین، حرکت ناگهانی یکی از مهمانان فضای استودیو را به تنش کشاند. پرتاب لگد پرنده به سوی یکی دیگر از حاضران و واکنش او، جریان برنامه را تغییر داد.",
-   "bodyFa": [
-    "در برنامه «کائوس شو» که با اجرای کمدین معروف، خیرالدین، روی آنتن می‌رود، رویدادی غیرمنتظره فضای شاد استودیو را به تنش تبدیل کرد. بر اساس گزارش‌های منتشر شده، یکی از چهره‌های فضای مجازی که به عنوان مهمان در این برنامه حضور یافته بود، حرکتی ناگهانی از خود نشان داد.",
-    "در جریان این برنامه، یکی از مهمانان به طور ناگهانی به سوی مهمان دیگر لگد پرنده پرتاب کرد که این اقدام باعث به هم ریختن اوضاع و افزایش تنش در استودیو شد. فردی که هدف این ضربه قرار گرفته بود نیز بلافاصله با خشم به این ماجرا واکنش نشان داد و همین واکنش مسیر اتفاقات داخل استودیو را دگرگون کرد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "0e7228cbc77e",
-   "url": "https://www.sozcu.com.tr/ezgi-mola-dan-yeni-askiyla-ilgili-sorulara-yanit-oglum-yanimda-p382733",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ezgi Mola'dan yeni aşkıyla ilgili sorulara yanıt: \"Oğlum yanımda\"",
-   "snippet": "Sevgilisi Yaşar Çağlak ile ilk kez görüntülenmesinin ardından merak edilen oyuncu Ezgi Mola, bu kez oğlu Can ve eski eşi...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ezgimolaesijpg-idrlppwuKEGmppXU24frpA.jpg",
-   "video": null,
-   "published": "2026-11-19T09:18:17.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/ezgi-mola-dan-yeni-askiyla-ilgili-sorulara-yanit-oglum-yanimda-p382733",
-     "title": "Ezgi Mola'dan yeni aşkıyla ilgili sorulara yanıt: \"Oğlum yanımda\"",
-     "snippet": "Sevgilisi Yaşar Çağlak ile ilk kez görüntülenmesinin ardından merak edilen oyuncu Ezgi Mola, bu kez oğlu Can ve eski eşi...",
-     "published": "2026-11-19T09:18:17.000Z",
-     "titleFa": "پاسخ ازگی مولا به سوالات درباره عشق جدیدش: پسرم کنارم است"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ezgimolaesijpg-idrlppwuKEGmppXU24frpA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ezgimolaesijpg-idrlppwuKEGmppXU24frpA.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/tarcinsupurgecagrijpg-yK8LDUVVWEi6aHoEzOtrCA.jpg?w=288&h=162&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/samsundakamyonetotomobilearkadancarpti1iagir4yaralikapak0baae62a935c4f65jpg-xXTS1gn3z0Oy8Z0sBg_ULQ.jpg?w=288&h=162&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/tffdenzorbaykucuke13aysonragorev6aff1441f4678357b8ba5e8epng-QLmwertsHkeTGr4ZHlTx2w.png?w=320&h=248&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "پاسخ ازگی مولا به سوالات درباره رابطه جدیدش: پسرم کنارم است",
-   "summaryFa": "ازگی مولا پس از دیده‌شدن با معشوق جدیدش، در برابر سوالات درباره زندگی خصوصی‌اش پسرش را نشان داد.",
-   "bodyFa": [
-    "ازگی مولا، بازیگر ترکیه‌ای، پس از اینکه برای نخستین بار با یاشار چاغلاک دیده شده بود، این بار در کنار پسرش جان و همسر سابقش مصطفی ساکالی هدف دوربین‌ها قرار گرفت.",
-    "او در مواجهه با پرسش‌های خبرنگاران پیرامون زندگی خصوصی‌اش، پسرش را نشان داد و از پاسخگویی مستقیم خودداری کرد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "6b182c03647f",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kendini-cok-saglikli-saniyordu-gizli-hastaligini-ogrendi-unlu-ekran-yuzu-simdi-geceleri-uyuyamiyor-bu-kalbimin-son-43382371",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Kendini çok sağlıklı sanıyordu, gizli hastalığını öğrendi... Ünlü ekran yüzü şimdi geceleri uyuyamıyor: Bu kalbimin son vuruşu mu olacak!",
-   "snippet": "Hayat sürprizlerle dolu. Üstelik bunların hepsi öyle güzel sürprizler de değil.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6afd75f63516f14679cca0be.jpg",
-   "video": null,
-   "published": "2026-11-19T09:12:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kendini-cok-saglikli-saniyordu-gizli-hastaligini-ogrendi-unlu-ekran-yuzu-simdi-geceleri-uyuyamiyor-bu-kalbimin-son-43382371",
-     "title": "Kendini çok sağlıklı sanıyordu, gizli hastalığını öğrendi... Ünlü ekran yüzü şimdi geceleri uyuyamıyor: Bu kalbimin son vuruşu mu olacak!",
-     "snippet": "Hayat sürprizlerle dolu. Üstelik bunların hepsi öyle güzel sürprizler de değil.",
-     "published": "2026-11-19T09:12:00.000Z"
-    }
-   ]
-  },
-  {
-   "id": "4153da4fd603",
-   "url": "https://www.haberturk.com/magazin/foto/tarik-papuccuoglu-bir-sirketin-misafirhanesinde-kaliyorum-3928388",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"Misafirhanede kalıyorum\"",
-   "snippet": "Türk tiyatrosunun ve ekranların usta isimlerinden Tarık Papuççuoğlu, \"Bodrum’da sigortalı çalıştığım şirketin misafirhanesinde kalıyorum. Bodrum’daki yaşamım tamamen kendi tercihim\" dedi",
-   "image": "https://im.haberturk.com/l/2026/11/19/ver1795079063/3928388/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-19T09:04:21.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/tarik-papuccuoglu-bir-sirketin-misafirhanesinde-kaliyorum-3928388",
-     "title": "\"Misafirhanede kalıyorum\"",
-     "snippet": "Türk tiyatrosunun ve ekranların usta isimlerinden Tarık Papuççuoğlu, \"Bodrum’da sigortalı çalıştığım şirketin misafirhanesinde kalıyorum. Bodrum’daki yaşamım tamamen kendi tercihim\" dedi",
-     "published": "2026-11-19T09:04:21.000Z",
-     "titleFa": "من در مهمانسرا می‌مانم"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "tarık پاپوچ‌اوغلو در مهمانسرا می‌ماند",
-   "summaryFa": "tarık پاپوچ‌اوغلو، بازیگر پیشکسوت، اعلام کرد که در مهمانسرای شرکتی در بودروم اقامت دارد. او تاکید کرد که زندگی‌اش در بودروم کاملاً بر اساس انتخاب شخصی خودش است.",
-   "bodyFa": [
-    "طارق پاپوچ‌اوغلو، یکی از چهره‌های سرشناس تئاتر و تلویزیون ترکیه، درباره محل سکونت خود توضیحاتی ارائه داد. او بیان کرد که در حال حاضر در مهمانسرای شرکتی که در آن دارای بیمه است، زندگی می‌کند.",
-    "این هنرمند باتجربه همچنین خاطرنشان ساخت که تصمیم به زندگی در بودروم کاملاً توسط خودش اتخاذ شده و این سبک زندگی، انتخاب شخصی اوست."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "85595143c944",
-   "url": "https://www.sabah.com.tr/magazin/47-yil-sonra-ayni-koye-gitti-oyuncu-meral-cetinkayanin-duygu-dolu-aciklamasi-ve-turkan-soray-itirafi-7705068",
-   "source": "sabah-magazin",
-   "sourceName": "Sabah",
-   "lang": "tr",
-   "title": "47 yıl sonra aynı köye gitti! Oyuncu Meral Çetinkaya'nın duygu dolu açıklaması ve Türkan Şoray itirafı...",
-   "snippet": "Bir program kapsamında ödül almak üzere Batman’a gelen usta oyuncu Meral Çetinkaya, duygusal anlar yaşadı. Çetinkaya, 1979 yılında başrolünü Türkan Şoray ile paylaştığı efsane Hazal filminin çekildiği... Devamı için tıklayınız",
-   "image": "https://iasbh.tmgrup.com.tr/bb043b/1200/675/0/0/1600/900?u=https://isbh.tmgrup.com.tr/sbh/2026/11/19/1795077608388.jpeg",
-   "video": null,
-   "published": "2026-11-19T08:52:56.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sabah-magazin",
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/magazin/47-yil-sonra-ayni-koye-gitti-oyuncu-meral-cetinkayanin-duygu-dolu-aciklamasi-ve-turkan-soray-itirafi-7705068",
-     "title": "47 yıl sonra aynı köye gitti! Oyuncu Meral Çetinkaya'nın duygu dolu açıklaması ve Türkan Şoray itirafı...",
-     "snippet": "Bir program kapsamında ödül almak üzere Batman’a gelen usta oyuncu Meral Çetinkaya, duygusal anlar yaşadı. Çetinkaya, 1979 yılında başrolünü Türkan Şoray ile paylaştığı efsane Hazal filminin çekildiği... Devamı için tıklayınız",
-     "published": "2026-11-19T08:52:56.000Z"
-    }
-   ],
-   "images": [
-    "https://iasbh.tmgrup.com.tr/bb043b/1200/675/0/0/1600/900?u=https://isbh.tmgrup.com.tr/sbh/2026/11/19/1795077608388.jpeg",
-    "https://iasbh.tmgrup.com.tr/b0c769/752/395/0/0/1600/839?u=https://isbh.tmgrup.com.tr/sbh/2026/11/19/1795077608388.jpeg",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
-    "https://isbh.tmgrup.com.tr/sbh/site/v2/i/980x136.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
-    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png"
-   ],
-   "mediaDone": true
   },
   {
    "id": "cc0ace3483bf",
