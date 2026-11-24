@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-23T19:02:05.607Z",
+ "updated": "2026-11-24T00:56:35.000Z",
  "items": [
+  {
+   "id": "1a76a72685de",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/uzak-sehirin-74-bolumunde-neler-oldu-bu-dna-testi-kimin-anne-43388611",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Uzak Şehir'in 74. bölümünde neler oldu? 'Bu DNA testi kimin anne?'",
+   "snippet": "Kanal D’nin Ozan Akbaba, Sinem Ünsal, Gonca Cilasun, Müfit Kayacan, Sahra Şaş, Dilin Döğer, Atakan Özkaya, İlkay Kayku, Nazmi Kırık, Sinan Demirer, Zeynep Kankonde, Muttalip Müjdeci, Barış Yalçın, Burak Şafak, Mehmet Polat, Yunus Eski, Yaren Güldiken, Kuzey Gezer'i kadrosunda buluşturan, AyNA Yapım imzalı yeni dizisi Uzak Şehir 74. bölümü ile ekranlardaydı...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b04aec73516f14679ccc3ae.jpg",
+   "video": null,
+   "published": "2026-11-23T21:26:00.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "uzak-sehir"
+    ],
+    "people": [
+     "ozan-akbaba",
+     "sinem-unsal",
+     "mufit-kayacan",
+     "kuzey-gezer",
+     "atakan-ozkaya",
+     "gonca-cilasun",
+     "sahra-sas",
+     "dilin-doger",
+     "nazmi-kirik",
+     "ilkay-kayku"
+    ],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/uzak-sehirin-74-bolumunde-neler-oldu-bu-dna-testi-kimin-anne-43388611",
+     "title": "Uzak Şehir'in 74. bölümünde neler oldu? 'Bu DNA testi kimin anne?'",
+     "snippet": "Kanal D’nin Ozan Akbaba, Sinem Ünsal, Gonca Cilasun, Müfit Kayacan, Sahra Şaş, Dilin Döğer, Atakan Özkaya, İlkay Kayku, Nazmi Kırık, Sinan Demirer, Zeynep Kankonde, Muttalip Müjdeci, Barış Yalçın, Burak Şafak, Mehmet Polat, Yunus Eski, Yaren Güldiken, Kuzey Gezer'i kadrosunda buluşturan, AyNA Yapım ",
+     "published": "2026-11-23T21:26:00.000Z",
+     "titleFa": "در قسمت ۷۴ سریال شهر دور چه گذشت؟ «این آزمایش دی‌ان‌ای مال کیست مادر؟»"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b04aec73516f14679ccc3ae.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b04aec73516f14679ccc3ae.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "در قسمت ۷۴ سریال «شهر دور» چه گذشت؟ «این آزمایش دی‌ان‌ای برای کیست مادر؟»",
+   "summaryFa": "گزارش رسانه‌ای درباره قسمت هفتاد و چهارم سریال «شهر دور» به رویدادهای این قسمت و پرسشی درباره یک آزمایش دی‌ان‌ای اشاره دارد.",
+   "bodyFa": [
+    "گزارش منتشرشده درباره قسمت هفتاد و چهارم سریال «شهر دور» محصول شرکت آی‌ان‌ای یاپیم برای شبکه کانال دی، به تحولات این قسمت با محوریت سؤالی درباره یک نتیجه آزمایش دی‌ان‌ای پرداخته است. در گروه بازیگران این مجموعه، چهره‌هایی از جمله اوزان آکبابا، سینم اونسال، گونجا جیلاسون، مؤفیت کایاجان، صحرا شاش، دیلین دوئر، آتاکان اوزکایا، ایلکای قایکو، نظمی قیریق و کوزی گزر حضور دارند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "b698b31ecf25",
+   "url": "https://www.haberturk.com/magazin/goksel-kendimi-cok-mutlu-hissediyorum-3929568",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Güçlü kalmamı sağlıyor\"",
+   "snippet": "Bostancı Gösteri Merkezi'nde sahne alan Göksel, düzenli sporun önemine dikkat çekerek, \"Spor sadece iyi görünmemi değil, yorulmamamı ve güçlü kalmamı da sağlıyor\" dedi",
+   "image": "https://im.haberturk.com/l/2026/11/23/ver1795465854/3929568/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-23T20:37:08.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/goksel-kendimi-cok-mutlu-hissediyorum-3929568",
+     "title": "\"Güçlü kalmamı sağlıyor\"",
+     "snippet": "Bostancı Gösteri Merkezi'nde sahne alan Göksel, düzenli sporun önemine dikkat çekerek, \"Spor sadece iyi görünmemi değil, yorulmamamı ve güçlü kalmamı da sağlıyor\" dedi",
+     "published": "2026-11-23T20:37:08.000Z",
+     "titleFa": "«باعث می‌شود قوی بمانم»"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "صحبت‌های گوکسل درباره اهمیت ورزش، اجرای زنده و آلبوم جدیدش روی صفحه گرامافون",
+   "summaryFa": "گوکسل در حاشیه کنسرت خود در مرکز نمایش بوستانجی، از تأثیر ورزش منظم بر اجرای صحنه‌ای و انتشار آلبوم جدیدش پس از سال‌ها وقفه سخن گفت.",
+   "bodyFa": [
+    "گوکسل، خواننده پاپ، در کنسرت اخیر خود در مرکز نمایش بوستانجی علاوه بر قطعات خاطره‌انگیز، ترانه‌هایی از آلبوم جدیدش به نام «کار رویاها» (Rüyaların İşi) را پس از ۱۱ سال وقفه اجرا کرد. او همچنین قطعه «یک شنبه‌شب» را برای نخستین بار به‌طور زنده برای حاضران خواند. در خلال این برنامه، یک پیشنهاد ازدواج غیرمنتظره در میان تماشاگران نیز به عنوان شگفتی اجرا رقم خورد.",
+    "این هنرمند در گفتگو با خبرنگاران پیش از اجرا بیان کرد که بوستانجی نخستین سالنی بوده که در کودکی برای تماشای کنسرت به آن رفته است و اجرا روی این صحنه برایش بار عاطفی و نوستالژیک زیادی دارد. او همچنین با اشاره به انتشار آلبوم جدیدش روی صفحه گرامافون به همراه دست‌نوشته‌ها و تصاویری از والدینش، اعلام کرد که تولیدات امروزی بسیار فرمول‌محور و خالی از احساس شده‌اند و او به دنبال حس و حال آثار گذشته است.",
+    "گوکسل در بخش دیگری از صحبت‌هایش به اهمیت آمادگی جسمانی برای اجراهای زنده پرداخت و توضیح داد که ورزش منظم صرفاً برای ظاهر مناسب نیست، بلکه باعث افزایش انرژی، جلوگیری از خستگی و تقویت قدرت صدای او روی صحنه می‌شود. او همچنین اشاره کوتاهی به مشکل روادید گروهش در کنسرت‌های خارج از کشور و اجرای ترانه‌هایش در قالب آکوستیک داشت."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "e71f2fc56ace",
+   "url": "https://www.haberturk.com/magazin/muhtemel-ask-tan-yeni-tanitim-3929560",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Huylarında değişiklikler olabilir!\"",
+   "snippet": "SHOW TV'nin ilgiyle takip edilen dizisi 'Muhtemel Aşk'ın yeni bölümünden bir tanıtım daha izleyiciyle buluştu",
+   "image": "https://im.haberturk.com/l/2026/11/23/ver1795461713/3929560/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-23T19:23:17.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "muhtemel-ask"
+    ],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/muhtemel-ask-tan-yeni-tanitim-3929560",
+     "title": "\"Huylarında değişiklikler olabilir!\"",
+     "snippet": "SHOW TV'nin ilgiyle takip edilen dizisi 'Muhtemel Aşk'ın yeni bölümünden bir tanıtım daha izleyiciyle buluştu",
+     "published": "2026-11-23T19:23:17.000Z",
+     "titleFa": "«شاید در رفتارش تغییراتی رخ دهد!»"
+    }
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "vnQpgQwsDXI"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار تیزر جدید از قسمت بیست و سوم سریال «احتمالاً عشقه»",
+   "summaryFa": "تیزر جدیدی از قسمت بیست و سوم سریال «احتمالاً عشقه» به نمایش درآمد. این قسمت پنجشنبه شب از شبکه شو تی‌وی روی آنتن می‌رود.",
+   "bodyFa": [
+    "شبکه شو تی‌وی تیزر تبلیغاتی جدیدی از قسمت بیست و سوم مجموعه تلویزیونی «احتمالاً عشقه» را منتشر کرده است. این سریال تولید شرکت ام‌اف یاپیم (MF Yapım) بوده و آیچا آیشین توران، اکین کوچ و فیاض شریف‌اوغلو در آن به ایفای نقش می‌پردازند.",
+    "بر اساس اطلاعات منتشرشده، قسمت جدید این اثر پنجشنبه شب ساعت ۲۰:۰۰ از همین شبکه برای مخاطبان پخش خواهد شد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "e9fdd6819a0f",
    "url": "https://www.haberturk.com/magazin/asena-keskinci-kendi-cimen-imi-yaratmaya-calisiyorum-3929527",
@@ -30,7 +180,8 @@
      "url": "https://www.haberturk.com/magazin/asena-keskinci-kendi-cimen-imi-yaratmaya-calisiyorum-3929527",
      "title": "\"Yorumları görünce daha farklı motive oluyorum\"",
      "snippet": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nde 'Çimen' karakterine hayat veren Asena Keskinci, karakteri hakkında değerlendirmelerde bulundu. Keskinci, \"Kendi ruhumu da ortaya koyarak kendi Çimen'imi yaratmaya çalışıyorum\" dedi",
-     "published": "2026-11-23T18:37:07.000Z"
+     "published": "2026-11-23T18:37:07.000Z",
+     "titleFa": "با دیدن نظرات انگیزه متفاوتی می‌گیرم"
     }
    ],
    "videos": [
@@ -39,7 +190,15 @@
      "id": "1LQfMSxQ-Tw"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "آسنا کسکینجی از چالش‌ها و تجربه بازی در نقش چیمن سریال «شربت زغال‌اخته» گفت",
+   "summaryFa": "آسنا کسکینجی، بازیگر نقش چیمن در سریال «شربت زغال‌اخته»، از نحوه خلق این شخصیت و بازخورد مخاطبان سخن گفت. او اشاره کرد که دیدن نظرات مثبت انگیزه مضاعفی به او می‌دهد.",
+   "bodyFa": [
+    "آسنا کسکینجی، بازیگر نقش «چیمن» در سریال «شربت زغال‌اخته» شبکه شو تی‌وی، درباره تجربه خود از ایفای این نقش سخن گفت. او با اشاره به سختی‌های پیوستن به نقشی که از قبل در میان بینندگان شناخته‌شده و محبوب بوده است، توضیح داد که ضمن رعایت چارچوب‌های تعیین‌شده، تلاش می‌کند روح خود را نیز به شخصیت وارد کرده و روایتی ویژه از چیمن بسازد. به گفته او، مشاهده نظرات و بازخوردهای مثبت تماشاگران انگیزه متفاوتی در او ایجاد می‌کند و حس بسیار خوبی به او می‌بخشد.",
+    "این بازیگر به فضای صحنه اشاره کرد و ورود به جمع گروهی هماهنگ و باسابقه را مانند ورود به یک جمع خانوادگی گرم با مزایای بسیار دانست. او همچنین تغییر ترکیب سنی مخاطبان خود را یادآور شد و بیان کرد که برخلاف گذشته که بیشتر قشر جوان او را می‌شناختند، اکنون رده‌های سنی بالاتری نیز با او ارتباط برقرار می‌کنند. کسکینجی درباره ارتباطش با رفتارهای چیمن اظهار داشت که تلاش می‌کند بدون قضاوت به ایفای نقش بپردازد؛ هرچند برخی رفتارهای این شخصیت در راه عشق مورد تایید او نیست، اما در اشتیاق برای مدیریت زندگی خود و خطا کردن در این مسیر، میان خود و چیمن نقاط مشترک می‌بیند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "7cdc6a1eb567",
@@ -68,7 +227,8 @@
      "snippet": "Oyuncu Almila Ada Çilsal, anne olmanın mutluluğunu yaşadı. Kızını kucağına alan Çilsal, bebeğine Yasemin Lia adını verdiğini sosyal medya paylaşımıyla duyurdu",
      "published": "2026-11-23T18:02:02.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "6cdb3736b200",
@@ -82,7 +242,7 @@
    "video": null,
    "published": "2026-11-23T18:01:41.000Z",
    "scope": "linked",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [
      "sevdan-bir-ates"
@@ -99,7 +259,8 @@
      "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-in-yeni-bolum-tanitimi-yayinlandi-3929543",
      "title": "\"Hiçbir keder sonsuza kadar sürmez\"",
      "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'in 12'nci bölümünden 2'nci tanıtım izleyiciyle buluştu",
-     "published": "2026-11-23T18:01:41.000Z"
+     "published": "2026-11-23T18:01:41.000Z",
+     "titleFa": "هیچ اندوهی تا ابد باقی نمی‌ماند"
     }
    ],
    "videos": [
@@ -108,7 +269,15 @@
      "id": "2MYzgUPIggY"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتشار دومین آنونس قسمت ۱۲ سریال عشقت یک آتش است",
+   "summaryFa": "دومین آنونس از قسمت دوازدهم سریال «عشقت یک آتش است» از شبکه شو تی‌وی منتشر شد. این سریال چهارشنبه شب ساعت ۲۰:۰۰ پخش خواهد شد.",
+   "bodyFa": [
+    "شبکه شو تی‌وی دومین آنونس تبلیغاتی مربوط به قسمت دوازدهم سریال محبوب «عشقت یک آتش است» محصول شرکت سی‌ان‌پی فیلم را با مخاطبان به اشتراک گذاشت.",
+    "طرفداران این مجموعه تلویزیونی می‌توانند قسمت جدید آن را روز چهارشنبه ساعت ۲۰:۰۰ از طریق شبکه شو تی‌وی تماشا کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5ef63d7d1e00",
@@ -139,7 +308,8 @@
      "url": "https://www.sozcu.com.tr/sibel-turnagol-yillar-sonra-ortaya-cikti-p383822",
      "title": "Yeşilçam'ın yıldızı Sibel Turnagöl yıllar sonra ortaya çıktı",
      "snippet": "Yeşilçam'ın tanınan oyuncularından Sibel Turnagöl, uzun bir aranın ardından MasterChef Türkiye programına konuk oldu. Ka...",
-     "published": "2026-11-23T17:46:52.000Z"
+     "published": "2026-11-23T17:46:52.000Z",
+     "titleFa": "ستاره یشیلچام، سیبل تورناگول، پس از سال‌ها ظاهر شد"
     }
    ],
    "images": [
@@ -150,7 +320,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sibel-turnagol-2026webp-ZWdGgx4ZCEmLmcdtYyzkjA.webp",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "سیبل تورناگول، ستاره قدیمی سینما، پس از سال‌ها در مسترشف ترکیه دیده شد",
+   "summaryFa": "سیبل تورناگول، بازیگر شناخته‌شده سینمای ترکیه که مدت‌ها از بازیگری فاصله گرفته بود، به‌عنوان مهمان در برنامه مسترشف ترکیه حضور یافت. مشخص شد که او این روزها یک رستوران سنتی (اسناف لوکانتاسی) اداره می‌کند.",
+   "bodyFa": [
+    "سیبل تورناگول، یکی از بازیگران سرشناس دوران یشیلچام، پس از سال‌ها دوری از فعالیت‌های بازیگری و انظار عمومی، بار دیگر در تلویزیون ظاهر شد و در برنامه مسترشف ترکیه حضور پیدا کرد.",
+    "بر اساس اطلاعات منتشرشده، این هنرمند ۵۸ ساله که مدت‌هاست در هیچ پروژه بازیگری حضور نداشته، در حال حاضر به اداره یک رستوران سنتی مشغول است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8f3a1ab4abed",
@@ -164,7 +342,7 @@
    "video": null,
    "published": "2026-11-23T16:31:30.000Z",
    "scope": "linked",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [
      "kizilcik-serbeti"
@@ -181,9 +359,25 @@
      "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nden-yeni-tanitim-3929521",
      "title": "\"Biz evlendik!\"",
      "snippet": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nin 148'inci bölümünden bir tanıtım daha yayınlandı",
-     "published": "2026-11-23T16:31:30.000Z"
+     "published": "2026-11-23T16:31:30.000Z",
+     "titleFa": "ما ازدواج کردیم!"
     }
-   ]
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "UPig0iez9tc"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار دومین آنونس قسمت ۱۴۸ سریال شربت زغال‌اخته",
+   "summaryFa": "دومین آنونس تبلیغاتی از قسمت ۱۴۸ سریال محبوب شربت زغال‌اخته محصول شو تی‌وی منتشر شد. این سریال به تهیه‌کنندگی فاروق تورگوت و ساخت گلد فیلم روی آنتن می‌رود.",
+   "bodyFa": [
+    "شبکه شو تی‌وی دومین آنونس جذاب و پرمخاطب مربوط به قسمت ۱۴۸ سریال محبوب «شربت زغال‌اخته» را با مخاطبان به اشتراک گذاشت.",
+    "این مجموعه پرطرفدار تلویزیونی به تهیه‌کنندگی فاروق تورگوت و توسط شرکت فیلم‌سازی گلد فیلم تولید و آماده پخش می‌شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "fcb104ddbcd1",
@@ -197,7 +391,7 @@
    "video": null,
    "published": "2026-11-23T14:18:14.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -210,9 +404,27 @@
      "url": "https://www.sozcu.com.tr/defne-samyeli-kizlari-derin-ile-deren-le-poz-verdi-sosyal-medyada-gundem-oldu-p383789",
      "title": "Defne Samyeli kızları Derin ile Deren'le poz verdi! Sosyal medyada gündem oldu",
      "snippet": "Sunucu, oyuncu ve şarkıcı Defne Samyeli, kızları Deren Talu ve Derin Talu ile birlikte verdiği pozla sosyal medyanın ilg...",
-     "published": "2026-11-23T14:18:14.000Z"
+     "published": "2026-11-23T14:18:14.000Z",
+     "titleFa": "عکس دفنه سامیلی با دخترانش درن و درین! در فضای مجازی جنجال به پا کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/defnejpg-wxVJKOPg_EawsRC6FTeDdA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/defnejpg-wxVJKOPg_EawsRC6FTeDdA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/blok-4jpg-uDAWvUtnp0K5h74mhmk4LQ.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/depophotos19287327jpg-AOFPqlubokatOb-G8nxaQg.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b0456e9f4678357b8bacc6bpng-rBKHtefHZUWsxhdU2RsMdQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "عکس دفne سامیلی با دخترانش در فضای مجازی مورد توجه قرار گرفت",
+   "summaryFa": "دَفنه سامیلی، مجری، بازیگر و خواننده، تصویر جدیدی به همراه دخترانش درن تالو و درین تالو منتشر کرد که در شبکه‌های اجتماعی بازتاب داشت.",
+   "bodyFa": [
+    "دفنه سامیلی که به خاطر چهره و ظاهر جوان‌تر از سن واقعی‌اش همواره مورد بحث کاربران است، این بار با انتشار تصویری در کنار دخترانش، درن تالو و درین تالو، توجه مخاطبان را در فضای مجازی به خود جلب کرد.",
+    "این تصویر خانوادگی در مدت کوتاهی توانست پسندهای زیادی را به دست آورد و کاربران شبکه‌های اجتماعی نظرات مختلف و جالب توجهی را پیرامون آن به ثبت رساندند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "e8bec4268263",
@@ -245,9 +457,27 @@
      "url": "https://www.sozcu.com.tr/kizilcik-serbeti-nden-ayrilan-oyuncunun-yeni-dizisi-belli-oldu-p383774",
      "title": "Kızılcık Şerbeti'nden ayrılan oyuncunun yeni dizisi belli oldu",
      "snippet": "Kızılcık Şerbeti'nde Mustafa karakteriyle hafızalara kazınan Emrah Altıntoprak, yeni projesiyle ekranlara dönmeye hazırl...",
-     "published": "2026-11-23T13:18:13.000Z"
+     "published": "2026-11-23T13:18:13.000Z",
+     "titleFa": "سریال جدید بازیگری که از شربت زغال‌اخته جدا شد مشخص شد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kizilcikserbetindenayrilanoyuncuyenidizisijpg-rJDBAcekLEiITuPcbnynVg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kizilcikserbetindenayrilanoyuncuyenidizisijpg-rJDBAcekLEiITuPcbnynVg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/narjpg-MZMDH8aAIEuME2u5PARoQQ.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/milyonerjpg-k5HP4tS9iUS510p8mLQF2A.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b0456e9f4678357b8bacc6bpng-rBKHtefHZUWsxhdU2RsMdQ.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "سریال جدید بازیگر جداشده از سریال «شربت زغال‌اخته» مشخص شد",
+   "summaryFa": "امره آلتین‌توپراک، بازیگر نقش مصطفی در سریال «شربت زغال‌اخته»، در آستانه بازگشت به تلویزیون با سریالی جدید قرار دارد. جزئیات نقش تازه او پس از حضور در مجموعه «Aşk ve Taht» مشخص شده است.",
+   "bodyFa": [
+    "امره آلتین‌توپراک، بازیگری که با ایفای نقش مصطفی در سریال «شربت زغال‌اخته» به شهرت و محبوبیت زیادی دست یافت، خود را برای بازگشت دوباره به قاب تلویزیون آماده می‌کند. او اخیراً در سریالی با عنوان «Aşk ve Taht» به ایفای نقش پرداخته بود.",
+    "بر اساس گزارش منتشرشده، نقش این بازیگر در پروژه جدیدش مشخص شده و وی قرار است در سریالی تازه برای شبکه TV8 مقابل دوربین برود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "970ad61282d1",
@@ -318,7 +548,16 @@
      "snippet": "İbrahim Tatlıses, yıllar önce rol aldığı filmlerin dijital platformlarda izni olmadan yayınlandığını öne sürerek yapım ş...",
      "published": "2026-11-23T11:51:36.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/291jpg-k8drGr5b-ka-ndCBqXd7Gw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/291jpg-k8drGr5b-ka-ndCBqXd7Gw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/7yasindakicocugunbisikletiniyerevurarakparcaladikapaka49ea85143fe67f0jpg-d1VZzQ1MgEOYUNXmNX3Efg.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b0456e9f4678357b8bacc6bpng-rBKHtefHZUWsxhdU2RsMdQ.png?w=320&h=248&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b0451b2f4678357b8bacae6png-H6g98HkxoE6CU-I8P-VWyA.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "2aa21c1a818f",
@@ -347,7 +586,8 @@
      "snippet": "Jennifer Lawrence, kamera karşısındaki en kötü öpüşmesini açıklarken, ünlü aktörün adını verdi",
      "published": "2026-11-23T11:43:40.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "331608696e8a",
@@ -378,7 +618,16 @@
      "snippet": "HABER MERKEZİ - Bir mekanda sahneye çıkıp kaslarını sergilediği görüntülerle gündeme gelen deprem bilimci Prof. Dr. Şener Üşümezsoy, Kanal D’de Hakan Ural ve Ferda Yıldırım’ın sunduğu “Neler Oluyor Hayatta”ya telefonla bağlandı. Üşümezsoy, formunu nasıl koruduğunu anlattı. O gece, yıllardır yaptığı ",
      "published": "2026-11-23T11:40:14.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0420c8b61a898b6e314161.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0420c8b61a898b6e314161.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "dd358d46d15d",
@@ -410,9 +659,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/tv-kanal-yayin-akisi-23-kasim-bu-aksam-tvde-hangi-dizi-ve-filmler-ekrana-gelecek-kanal-d-atv-show-tv-tv8-now-tv-trt-1-7705900",
      "title": "23 KASIM TV KANAL YAYIN AKIŞI | Bu akşam TV'de hangi dizi ve filmler ekrana gelecek? Kanal D, ATV, Show TV, TV8, NOW TV, TRT 1, Star TV yayın akışı listesi...",
      "snippet": "TV kanal yayın akışı listesi belli oldu. Haftanın ilk iş gününde Ulusal TV kanallarında yayınlanan dizi, sinema filmi, yarışma programı, Ana Haber Bülteni, Gündüz Kuşağı programlarının ekrana geleceği saat dilimleri belli oldu. İşte 23 Kasım Pazartesi Kanal D, ATV, Show TV, TV8, NOW TV, TRT 1, Star ",
-     "published": "2026-11-23T11:37:10.000Z"
+     "published": "2026-11-23T11:37:10.000Z",
+     "titleFa": "جریان پخش کانال‌های تلویزیونی ۲۳ نوامبر | امشب کدام سریال‌ها و فیلم‌ها روی صفحه تلویزیون می‌آیند؟ فهرست جریان پخش کانال دی، آ تی‌وی، شو تی‌وی، تی‌وی ۸، ناو تی‌وی، تی‌رتی ۱، استار تی‌وی..."
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b03c6e4b61a898b6e313c81.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b03c6e4b61a898b6e313c81.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "برنامه پخش شبکه‌های تلویزیونی ترکیه در تاریخ ۲۳ نوامبر مشخص شد",
+   "summaryFa": "فهرست برنامه‌ها، سریال‌ها و فیلم‌های قابل پخش در شبکه‌های سراسری تلویزیون ترکیه برای روز دوشنبه ۲۳ نوامبر اعلام شد.",
+   "bodyFa": [
+    "فهرست برنامه‌های پخش شبکه‌های تلویزیونی سراسری ترکیه برای روز دوشنبه ۲۳ نوامبر مشخص و منتشر شده است. در این جدول زمانی، ساعت پخش برنامه‌های مختلف شامل سریال‌ها، فیلم‌های سینمایی، مسابقات، اخبار سراسری و برنامه‌های روزانه مشخص شده است.",
+    "بینندگان تلویزیون می‌توانند زمان دقیق پخش برنامه‌های مورد علاقه خود را در شبکه‌های مختلف از جمله کانال دی، آ تی‌وی، شو تی‌وی، تی‌وی ۸، ناو تی‌وی، تی‌رتی ۱ و استار تی‌وی مشاهده کنند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a9ec705597f2",
@@ -504,7 +771,8 @@
      "url": "https://www.milliyet.com.tr/magazin/alya-ve-cihan-times-meydaninda-bulustu-7706094",
      "title": "Alya ve Cihan, Times Meydanı’nda buluştu",
      "snippet": "HABER MERKEZİ- Uluslararası Emmy Ödülleri heyecanı için New York’ta bulunan Uzak Şehir’in başrol oyuncuları Ozan Akbaba ve Sinem Ünsal, hayranlarından gelen dev jestle karşılaştı. \"OzSin\" hayran grubu, ünlü ikiliye destek olmak amacıyla Times Meydanı’ndaki 1560 Broadway panosunda özel bir video yayı",
-     "published": "2026-11-23T11:00:27.000Z"
+     "published": "2026-11-23T11:00:27.000Z",
+     "titleFa": "آلیا و جیهان در میدان تایمز ملاقات کردند"
     },
     {
      "source": "hurriyet-kelebek",
@@ -512,7 +780,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/alya-aseriyor-43388165",
      "title": "Alya, Cihan'a yakalandı!",
      "snippet": "Kanal D'nin Emmy heyecanı yaşayan dizisi Uzak Şehir'in bu akşamki bölümünden ön izleme yayınlandı. Bölüme saatler kala paylaşılan tanıtımda, hamileliğinden dolayı aşeren Alya, gece yarısı buzdolabının önünde Cihan'a yakalandı.",
-     "published": "2026-11-23T12:35:00.000Z"
+     "published": "2026-11-23T12:35:00.000Z",
+     "titleFa": "آلیا مچ‌گیر جیهان شد!"
     }
    ],
    "mergedIds": [
@@ -526,7 +795,36 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "اخبار پیرامون سریال شهر دور",
+   "summaryFa": "بازیگران و اتفاقات سریال شهر دور در رسانه‌ها مورد توجه قرار گرفتند. این خبر به حضور بازیگران در نیویورک و تصاویر جدید سریال اشاره دارد.",
+   "bodyFa": [
+    "اوزان آکبابا و سینم اونسال، بازیگران اصلی سریال شهر دور که از شبکه کانال دی پخش می‌شود و نامزد جایزه امی است، برای شرکت در مراسم جوایز بین‌المللی امی موقتاً فیلمبرداری در ماردین را متوقف کرده و به نیویورک سفر کردند. بر اساس گزارش‌ها، آن‌ها در میدان تایمز با یک ویدیو و اقدام حمایتی از سوی طرفداران گروه «OzSin» روبه‌رو شدند و در کنار نمایشگرهای بزرگ این میدان یکدیگر را ملاقات کردند.",
+    "از سوی دیگر، پیش‌نمایشی از قسمت جدید سریال شهر دور منتشر شده که در آن نشان داده می‌شود کاراکتر آلیا به دلیل بارداری دچار هوس غذایی شده و نیمه شب در کنار یخچال خانه توسط کاراکتر جیهانچ گیر می‌افتد."
+   ],
+   "comparison": {
+    "agree": [
+     "هر دو منبع به سریال شهر دور و شبکه پخش‌کننده آن یعنی کانال دی اشاره کرده‌اند."
+    ],
+    "differ": [
+     {
+      "topic": "موضوع اصلی گزارش",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "به حضور اوزان آکبابا و سینم اونسال در نیویورک برای جوایز امی و حمایت هواداران در میدان تایمز پرداخته است."
+       },
+       {
+        "source": "hurriyet-kelebek",
+        "text": "به انتشار پیش‌نمایش قسمت جدید سریال و ماجرای بارداری و ویار آلیا پرداخته است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "9817b0d4e002",
@@ -791,7 +1089,8 @@
      "url": "https://www.sozcu.com.tr/reyting-sonuclari-aciklandi-omur-usta-ile-daha-17-arasindaki-yarista-kazanan-belli-oldu-p383674",
      "title": "Reyting sonuçları açıklandı: Ömür Usta ile Daha 17 arasındaki yarışta kazanan belli oldu",
      "snippet": "22 Kasım 2026 Pazar reyting sonuçları açıklandı. Ömür Usta, Daha 17 ve Teşkilat'ın karşı karşıya geldiği gecede Total, A...",
-     "published": "2026-11-23T08:08:09.000Z"
+     "published": "2026-11-23T08:08:09.000Z",
+     "titleFa": "نتایج رتبه‌بندی اعلام شد: برنده رقابت میان اومور اوستا و هنوز ۱۷ سالشه مشخص شد"
     }
    ],
    "images": [
@@ -802,7 +1101,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yeni-proje-85jpg-_kP8zRag3EWoqtdU-OHMrg.jpg?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sonnnjpg-TkDmIYknH02JZ2Glvfl-UQ.jpg?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "نتایج رتبه‌بندی برنامه‌ها برای ۲۲ نوامبر ۲۰۲۶ اعلام شد",
+   "summaryFa": "نتایج رتبه‌بندی روز یکشنبه ۲۲ نوامبر ۲۰۲۶ منتشر شد و جایگاه آثار تلویزیونی مشخص گردید.",
+   "bodyFa": [
+    "نتایج رتبه‌بندی مربوط به شب یکشنبه، ۲۲ نوامبر ۲۰۲۶ اعلام شد و در این شب آثار تلویزیونی مختلفی از جمله اومور اوستا، هنوز ۱۷ سالشه و تشکیلات به رقابت با یکدیگر پرداختند.",
+    "در این شب پرمخاطب، رده‌بندی‌های مختلف در شاخص‌های Total، AB و ABC1 مشخص شد تا وضعیت رقابت میان این مجموعه‌ها روشن گردد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3347be506a55",
@@ -1065,9 +1372,27 @@
      "url": "https://www.sozcu.com.tr/masterchef-kim-elendi-22-kasim-pazar-masterchef-te-elenen-isim-belli-oldu-p383617",
      "title": "MasterChef kim elendi? 22 Kasım Pazar MasterChef'te elenen isim belli oldu",
      "snippet": "MasterChef Türkiye'de 22 Kasım Pazar akşamı eleme heyecanı yaşandı. Şadi, Şükran, Armağan ve Tolgahan'ın karşı karşıya g...",
-     "published": "2026-11-23T06:35:00.000Z"
+     "published": "2026-11-23T06:35:00.000Z",
+     "titleFa": "چه کسی از مسترشف حذف شد؟ نام فرد حذف‌شده در مسترشف یکشنبه ۲۲ نوامبر مشخص شد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/masterchefkimelendi22kasimjpg-pOpjkDTHT0KWD81XIZU0-g.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/masterchefkimelendi22kasimjpg-pOpjkDTHT0KWD81XIZU0-g.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/mastechef22kasimjpg-l2LVavltoECI4y9RZ6630g.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-goruntusu-20261123-093020png-c8KLt-FgHkyBbGdJBNsj1A.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-goruntusu-20261123-093316png-4ord9HxJFUi0ZTBn09TQYA.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "رقابت حذفی یکشنبه شب در مسترشف ترکیه برای راه‌یابی به جمع ۱۱ نفر برتر",
+   "summaryFa": "در برنامه مسترشف ترکیه در شامگاه ۲۲ نوامبر، چهار شرکت‌کننده برای باقی ماندن در جمع ۱۱ نفر برتر به رقابت حذفی پرداختند.",
+   "bodyFa": [
+    "در جریان رقابت‌های برنامه «مسترشف ترکیه» در شامگاه یکشنبه ۲۲ نوامبر، مرحله حذفی حساسی میان چهار شرکت‌کننده برگزار شد. در این رقابت، شادی، شوکران، آرماغان و تولگاهان برای حفظ جایگاه خود و حضور در جمع ۱۱ شرکت‌کننده برتر با یکدیگر به رقابت پرداختند.",
+    "طبق گزارش منتشرشده، در نهایت کار به دو نفر پایانی کشید و اختلاف امتیاز میان این دو شرکت‌کننده، تعیین‌کننده سرنوشت شب حذف و جدایی یکی از مسابقه‌دهندگان از این برنامه شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "eefadca4f3ea",
@@ -1098,7 +1423,16 @@
      "snippet": "Haber spikeri Merve Dinçkol Şerifoğlu, kızı Defne Yaz ve bakıcılarıyla TEM Otoyolu'nda seyir halindeyken arkadan gelen k...",
      "published": "2026-11-23T06:12:26.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglujpg-SPUa3_1MG0eCj6br6kfCIg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglujpg-SPUa3_1MG0eCj6br6kfCIg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglu-1jpg-GJco9Q5xe02KdZjuWmdgxQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglu-2jpg-hatqE_aZk0S1RHA_kPFNIA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/balik-cesitleri-fiyatlarijpeg-g8gR2hzSJ02oFcOAyu13kw.jpeg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "16f59929a10a",
@@ -1154,40 +1488,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/muhtesem-kadinlardan-muhtesem-hikayeler-43387529",
      "title": "Muhteşem kadınlardan muhteşem hikayeler",
      "snippet": "‘Muhteşem Yüzyıl’ın oyuncuları Selma Ergeç, Selen Öztürk, Pelin Karahan ve Nur Fettahoğlu, aynı dizide rol aldıkları Dolunay Soysert’in Kafa TV’deki programında bir araya geldi. Aradan geçen 12 yılın ardından diziyi konuşan oyuncular, samimi açıklamalarda bulundu.",
-     "published": "2026-11-23T06:07:00.000Z"
+     "published": "2026-11-23T06:07:00.000Z",
+     "titleFa": "داستان‌های شگفت‌انگیز از زنان شگفت‌انگیز"
     }
-   ]
-  },
-  {
-   "id": "e61b5917a8fe",
-   "url": "https://www.haberturk.com/magazin/yesim-gul-den-duygulandiran-gokhan-suar-paylasimi-ozlemin-tarifsiz-3929306",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"Özlemin tarifsiz\"",
-   "snippet": "Oyuncu Yeşim Gül, iki hafta önce vefat eden hayat arkadaşı Gökhan Suar'a duyduğu hasreti, \"Yokluğun sessiz... Özlemin tarifsiz...\" sözleriyle dile getirdi",
-   "image": "https://im.haberturk.com/l/2026/11/23/ver1795410633/3929306/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-23T05:59:44.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [
-     "yesim-gul"
-    ],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/yesim-gul-den-duygulandiran-gokhan-suar-paylasimi-ozlemin-tarifsiz-3929306",
-     "title": "\"Özlemin tarifsiz\"",
-     "snippet": "Oyuncu Yeşim Gül, iki hafta önce vefat eden hayat arkadaşı Gökhan Suar'a duyduğu hasreti, \"Yokluğun sessiz... Özlemin tarifsiz...\" sözleriyle dile getirdi",
-     "published": "2026-11-23T05:59:44.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b03d7f02356f0a3a15a3d5e.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b03d7f02356f0a3a15a3d5e.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "دورهمی بازیگران سریال حریم سلطان در برنامه کافا تی‌وی",
+   "summaryFa": "بازیگران سریال «حریم سلطان» پس از گذشت ۱۲ سال در برنامه اینترنتی Dolunay Soysert گرد هم آمدند. آن‌ها در این گفتگو درباره سریال و خاطرات آن صحبت کردند.",
+   "bodyFa": [
+    "بازیگران سریال محبوب «حریم سلطان» شامل سلما ارگچ، سلن اوزتورک، پلین کاراهان و نور فتاح‌اوغلو، در برنامه کافا تی‌وی که توسط هم‌بازی سابقشان، تولونای سویسرت، اجرا می‌شود، دور هم جمع شدند.",
+    "این بازیگران پس از گذشت ۱۲ سال از زمان پخش سریال، درباره آن به گفتگو نشستند و توضیحات صمیمانه‌ای را ارائه دادند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "da7355a541ff",
@@ -1245,9 +1566,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/tatil-donusu-43387506",
      "title": "Ara tatili fırsat bildiler... İmirzalıoğlu ailesi İstanbul'a döndü!",
      "snippet": "Ara tatili çocuklarıyla beraber Antalya’da geçiren Sinem Kobal ve Kenan İmirzalıoğlu İstanbul’a döndü.",
-     "published": "2026-11-23T05:16:00.000Z"
+     "published": "2026-11-23T05:16:00.000Z",
+     "titleFa": "تعطیلات میان‌دوره را غنیمت شمردند... خانواده ایمیرزالی‌اوغلو به استانبول بازگشتند!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b03cbe12356f0a3a15a3d1b.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b03cbe12356f0a3a15a3d1b.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "بازگشت کنان ایمیرزالی‌اوغلو و سینم کوبال به استانبول پس از سفر به آنتالیا",
+   "summaryFa": "کنان ایمیرزالی‌اوغلو و همسرش سینم کوبال پس از گذراندن تعطیلات میان‌دوره به همراه فرزندانشان در آنتالیا، به استانبول بازگشتند.",
+   "bodyFa": [
+    "بر اساس گزارش‌های منتشرشده، سینم کوبال و کنان ایمیرزالی‌اوغلو تعطیلات میان‌دوره را فرصتی برای سفر خانوادگی دانستند و این مدت را همراه با فرزندانشان در آنتالیا سپری کردند. این زوج پس از پایان این تعطیلات مجدداً به استانبول بازگشته‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "7f0f0a1fffe1",
@@ -1274,9 +1612,27 @@
      "url": "https://www.milliyet.com.tr/magazin/uc-yillik-ask-bitti-7705858",
      "title": "Üç yıllık aşk bitti",
      "snippet": "Çift, ayrılığın ardından sosyal medyada da birbirlerini takipten çıktı. Dizi setindeki arkadaşlıkları aşka dönüşen ikili, üç yıllık ilişkilerini noktalamış oldu. Koçak, geçtiğimiz haftalarda “İlişkim de işim de iyi gidiyor. Hayatımın şükür dönemindeyim” demişti.",
-     "published": "2026-11-23T04:02:12.000Z"
+     "published": "2026-11-23T04:02:12.000Z",
+     "titleFa": "عشق سه ساله به پایان رسید"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b03688e1c3369444cf1da86.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b03688e1c3369444cf1da86.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "پایان رابطه سه ساله ایلول تومبار و انس کوچاک",
+   "summaryFa": "ایلول تومبار و انس کوچاک پس از سه سال رابطه از یکدیگر جدا شدند و همدیگر را در شبکه‌های اجتماعی آنفالو کردند.",
+   "bodyFa": [
+    "ایلول تومبار و انس کوچاک که پیش‌تر گفتگوهایی درباره احتمال ازدواج آن‌ها مطرح شده بود، به رابطه عاشقانه خود پایان دادند. آشنایی و دوستی این دو بازیگر در صحنه فیلم‌برداری سریال آغاز شده و به عشقی تبدیل گشته بود که سه سال به طول انجامید.",
+    "این دو پس از جدایی، یکدیگر را در شبکه‌های اجتماعی نیز آنفالو کردند. این جدایی در حالی رخ می‌دهد که انس کوچاک در هفته‌های گذشته اعلام کرده بود هم رابطه‌اش و هم شرایط کاری‌اش به خوبی پیش می‌رود و در دوره‌ای از زندگی خود به سر می‌برد که شکرگزار آن است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0e3ab8879cb6",
@@ -1410,7 +1766,16 @@
    ],
    "mergedIds": [
     "7f1698cd2937"
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0367e91c3369444cf1da5b.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0367e91c3369444cf1da5b.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "15520fa71d12",
@@ -1539,7 +1904,16 @@
    ],
    "mergedIds": [
     "fa530e7ea1af"
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0366a81c3369444cf1da16.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0366a81c3369444cf1da16.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "88babcd9d48f",
@@ -11786,44 +12160,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "9cf13b103b91",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/iste-sarp-marconun-son-hali-bestemsu-ozdemir-ve-oglundan-ic-isitan-kare-7703382",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "İşte Sarp Marco'nun son hali! Bestemsu Özdemir ve oğlundan iç ısıtan kare",
-   "snippet": "İlk kez anne olmanın sevincini yaşayan oyuncu Bestemsu Özdemir, ilgi gören paylaşımlarına bir yenisini daha ekledi. Ünlü isim, sevimli oğlu Sarp Marco'nun yeni karelerini sosyal medyadan sevenlerinin beğenisine sundu.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6afdf9891c3369444cf1c4a8.jpg",
-   "video": null,
-   "published": "2026-11-18T19:23:57.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/iste-sarp-marconun-son-hali-bestemsu-ozdemir-ve-oglundan-ic-isitan-kare-7703382",
-     "title": "İşte Sarp Marco'nun son hali! Bestemsu Özdemir ve oğlundan iç ısıtan kare",
-     "snippet": "İlk kez anne olmanın sevincini yaşayan oyuncu Bestemsu Özdemir, ilgi gören paylaşımlarına bir yenisini daha ekledi. Ünlü isim, sevimli oğlu Sarp Marco'nun yeni karelerini sosyal medyadan sevenlerinin beğenisine sundu.",
-     "published": "2026-11-18T19:23:57.000Z"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6afdf9891c3369444cf1c4a8.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6afdf9891c3369444cf1c4a8.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true
   },
   {
    "id": "38642ca76922",
