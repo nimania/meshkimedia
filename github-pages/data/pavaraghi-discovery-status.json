@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T22:22:20.577926+00:00",
+  "generatedAt": "2026-11-25T08:26:18.769686+00:00",
   "mode": "discovery-only-no-auto-publication",
   "firstPriority": "tuzlu-kahve",
   "totalExistingOriginalEpisodes": 81,
   "processedThisRun": [
-    "sevdan-bir-ates:7",
-    "haysiyet:1",
-    "haysiyet:2",
-    "haysiyet:3"
+    "sevdan-bir-ates:8",
+    "haysiyet:4",
+    "haysiyet:5",
+    "kizilcik-serbeti:1"
   ],
   "episodes": [
     {
@@ -1136,7 +1136,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 4,
-      "checkedAt": "2026-11-15T06:23:06.408628+00:00",
+      "checkedAt": "2026-11-25T08:26:18.769686+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1168,7 +1168,7 @@
       "seriesSlug": "haysiyet",
       "seriesTitle": "حیثیت",
       "originalEpisode": 5,
-      "checkedAt": "2026-11-15T06:23:06.408628+00:00",
+      "checkedAt": "2026-11-25T08:26:18.769686+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -1200,7 +1200,7 @@
       "seriesSlug": "kizilcik-serbeti",
       "seriesTitle": "شربت زغال‌اخته",
       "originalEpisode": 1,
-      "checkedAt": "2026-11-15T06:23:06.408628+00:00",
+      "checkedAt": "2026-11-25T08:26:18.769686+00:00",
       "languagesToTry": [
         "tr",
         "fa",
@@ -2352,7 +2352,7 @@
       "seriesSlug": "sevdan-bir-ates",
       "seriesTitle": "عشقت یک آتش است",
       "originalEpisode": 8,
-      "checkedAt": "2026-11-14T22:19:50.224501+00:00",
+      "checkedAt": "2026-11-25T08:26:18.769686+00:00",
       "languagesToTry": [
         "tr",
         "fa",
