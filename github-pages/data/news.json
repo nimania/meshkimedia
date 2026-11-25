@@ -1,6 +1,150 @@
 {
- "updated": "2026-11-25T15:40:21.782Z",
+ "updated": "2026-11-25T17:50:49.980Z",
  "items": [
+  {
+   "id": "913609fdf7c4",
+   "url": "https://www.haberturk.com/magazin/foto/derya-ulug-ve-asil-gok-evlendi-3930110",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Evlendiler",
+   "snippet": "Ünlü şarkıcı Derya Uluğ ve müzisyen sevgilisi Asil Gök, 10 yıldır süren ilişkilerini nikâh masasına taşıdı",
+   "image": "https://im.haberturk.com/l/2026/11/25/ver1795628206/3930110/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-25T17:36:55.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/derya-ulug-ve-asil-gok-evlendi-3930110",
+     "title": "Evlendiler",
+     "snippet": "Ünlü şarkıcı Derya Uluğ ve müzisyen sevgilisi Asil Gök, 10 yıldır süren ilişkilerini nikâh masasına taşıdı",
+     "published": "2026-11-25T17:36:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": "b9f9ebb3841d",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/uzak-sehirin-yildizi-new-yorktan-paylasti-sinem-unsalin-pozlarina-begeni-yagmuru-7707952",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Uzak Şehir'in yıldızı New York'tan paylaştı! Sinem Ünsal'ın pozlarına beğeni yağmuru",
+   "snippet": "Kanal D'nin reyting rekortmeni dizisi Uzak Şehir'de Alya karakterini canlandıran Sinem Ünsal, Amerika'nın New York şehrinden paylaştığı karelerle dikkat çekti. Ünlü ismin pozlarına kısa sürede çok sayıda yorum ve beğeni geldi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b070d33c00aca18cb4b11ad.jpg",
+   "video": null,
+   "published": "2026-11-25T16:35:34.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "uzak-sehir"
+    ],
+    "people": [
+     "sinem-unsal"
+    ],
+    "networks": [
+     "kanal-d"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/uzak-sehirin-yildizi-new-yorktan-paylasti-sinem-unsalin-pozlarina-begeni-yagmuru-7707952",
+     "title": "Uzak Şehir'in yıldızı New York'tan paylaştı! Sinem Ünsal'ın pozlarına beğeni yağmuru",
+     "snippet": "Kanal D'nin reyting rekortmeni dizisi Uzak Şehir'de Alya karakterini canlandıran Sinem Ünsal, Amerika'nın New York şehrinden paylaştığı karelerle dikkat çekti. Ünlü ismin pozlarına kısa sürede çok sayıda yorum ve beğeni geldi.",
+     "published": "2026-11-25T16:35:34.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b070d33c00aca18cb4b11ad.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b070d33c00aca18cb4b11ad.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "c8a1add9d09d",
+   "url": "https://www.haberturk.com/magazin/foto/kubilay-aka-yalnizlik-daha-cekici-geliyor-3930117",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Yalnızlık daha çekici geliyor\"",
+   "snippet": "Hafsanur Sancaktutan ile ilişkisini geçtiğimiz haftalarda sonlandıran Kubilay Aka, yalnızlığın kendisine iyi geldiğini belirterek \"Kendimle baş başa kalmanın tadını çıkarıyorum\" dedi",
+   "image": "https://im.haberturk.com/l/2026/11/25/ver1795623893/3930117/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-25T16:25:37.000Z",
+   "scope": "linked",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [
+     "kubilay-aka",
+     "hafsanur-sancaktutan"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/kubilay-aka-yalnizlik-daha-cekici-geliyor-3930117",
+     "title": "\"Yalnızlık daha çekici geliyor\"",
+     "snippet": "Hafsanur Sancaktutan ile ilişkisini geçtiğimiz haftalarda sonlandıran Kubilay Aka, yalnızlığın kendisine iyi geldiğini belirterek \"Kendimle baş başa kalmanın tadını çıkarıyorum\" dedi",
+     "published": "2026-11-25T16:25:37.000Z",
+     "titleFa": "«تنهایی جذاب‌تر به نظر می‌رسد»"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "کوئیلای آکا درباره دوران پس از جدایی از هفسانور سانجاک‌توتان صحبت کرد",
+   "summaryFa": "کوبیلای آکا که اخیراً رابطه خود با هفسانور سانجاک‌توتان را پایان داده است، اعلام کرد که از تنهایی لذت می‌برد. این زوج پس از جدایی، یکدیگر را در شبکه‌های اجتماعی آنفالو کردند.",
+   "bodyFa": [
+    "کوبیلای آکا و هفسانور سانجاک‌توتان که در سال ۲۰۲۴ رابطه عاشقانه خود را آغاز کرده بودند، به دلیل رابطه پرفراز و نشیب خود در مرکز توجه قرار داشتند. این زوج اخیراً به رابطه خود پایان دادند و پس از جدایی، حساب‌های کاربری یکدیگر را در شبکه‌های اجتماعی دنبال نکردند.",
+    "آکا در برنامه‌ای که به آن مهمان شده بود، درباره شرایط خود پس از این جدایی صحبت کرد. این بازیگر ۳۱ ساله بیان کرد که در حال حاضر از تنها ماندن راضی است و از وقت گذراندن با خودش لذت می‌برد. به گفته وی، اگرچه به اشتراک گذاشتن لحظات با دیگران زیبا است، اما تنهایی نیز جذابیت‌های خاص خود را دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "46db8766b122",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/asli-enver-kizi-elayin-son-halini-paylasti-buyuyunce-gurme-olacakmis-7707941",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Aslı Enver kızı Elay'ın son halini paylaştı! 'Büyüyünce gurme olacakmış'",
+   "snippet": "Anne olduktan sonra ekranlara bir süre ara veren oyuncu Aslı Enver, paylaşımlarıyla adından söz ettirmeye devam ediyor. Ünlü isim, kızı Elay'ın son halini eğlenceli bir notla Instagram'dan sevenlerinin beğenisine sundu.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b070325c00aca18cb4b1186.jpg",
+   "video": null,
+   "published": "2026-11-25T15:54:57.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/asli-enver-kizi-elayin-son-halini-paylasti-buyuyunce-gurme-olacakmis-7707941",
+     "title": "Aslı Enver kızı Elay'ın son halini paylaştı! 'Büyüyünce gurme olacakmış'",
+     "snippet": "Anne olduktan sonra ekranlara bir süre ara veren oyuncu Aslı Enver, paylaşımlarıyla adından söz ettirmeye devam ediyor. Ünlü isim, kızı Elay'ın son halini eğlenceli bir notla Instagram'dan sevenlerinin beğenisine sundu.",
+     "published": "2026-11-25T15:54:57.000Z"
+    }
+   ]
+  },
   {
    "id": "f4dc58d35342",
    "url": "https://www.milliyet.com.tr/magazin/klipteki-ciragi-oglu-cikti-hasan-gozetlik-sana-tutuluyorumu-anlatti-7707935",
@@ -58,6 +202,46 @@
      "published": "2026-11-25T14:45:00.000Z"
     }
    ]
+  },
+  {
+   "id": "284a35e109a4",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/vefali-dostlar-bir-donemin-unlu-mankeni-murat-misirliya-anlamli-ziyaret-7707907",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Vefalı dostlar! Bir dönemin ünlü mankeni Murat Mısırlı'ya anlamlı ziyaret",
+   "snippet": "Bir dönemin ünlü mankenlerinden Murat Mısırlı, 7 yıldır ALS hastalığıyla mücadele ediyor. Kenan İmirzalıoğlu, Atilla Saral ve Burak Hakkı'nın eski dostlarına gerçekleştirdiği anlamlı ziyaret, sosyal medyada duygusal anlar yaşattı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b06ed31c00aca18cb4b1097.jpg",
+   "video": null,
+   "published": "2026-11-25T14:15:02.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "kenan-imirzalioglu"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/vefali-dostlar-bir-donemin-unlu-mankeni-murat-misirliya-anlamli-ziyaret-7707907",
+     "title": "Vefalı dostlar! Bir dönemin ünlü mankeni Murat Mısırlı'ya anlamlı ziyaret",
+     "snippet": "Bir dönemin ünlü mankenlerinden Murat Mısırlı, 7 yıldır ALS hastalığıyla mücadele ediyor. Kenan İmirzalıoğlu, Atilla Saral ve Burak Hakkı'nın eski dostlarına gerçekleştirdiği anlamlı ziyaret, sosyal medyada duygusal anlar yaşattı.",
+     "published": "2026-11-25T14:15:02.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b06ed31c00aca18cb4b1097.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b06ed31c00aca18cb4b1097.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "65d7b25020fe",
@@ -473,7 +657,8 @@
      "url": "https://www.sozcu.com.tr/feyza-civelek-ten-yeralti-dizisi-aciklamasi-kadroya-dahil-mi-oluyor-p384324",
      "title": "Feyza Civelek'ten Yeraltı dizisi açıklaması: Kadroya dahil mi oluyor?",
      "snippet": "Kızılcık Şerbeti'nde Nilay karakteriyle tanınan Feyza Civelek, adı yeni dizi Yeraltı ile anılınca merak konusu oldu. Diz...",
-     "published": "2026-11-25T11:41:10.000Z"
+     "published": "2026-11-25T11:41:10.000Z",
+     "titleFa": "توضیحات فیضا چیولک درباره سریال زیرزمین: آیا او به کادر بازیگران می‌پیوندد؟"
     }
    ],
    "images": [
@@ -484,7 +669,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hasatpng-65MbPmEnyUW8ulX6pch9Pg.png?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b06c573f4678357b8bb3508png-j_EPO84iwk2Btg4wOnS3og.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "توضیحات فیضا چیولک درباره شایعات حضور در سریال «زیرزمین»",
+   "summaryFa": "فیضا چیولک، بازیگر سریال «شربت زغال‌اخته»، به شایعات پیوستنش به سریال جدید «زیرزمین» پاسخ قطعی نداد و تنها به داشتن پروژه‌های جدید اشاره کرد.",
+   "bodyFa": [
+    "فیضا چیولک که با ایفای نقش نیلای در سریال «شربت زغال‌اخته» به شهرت رسیده، پس از مطرح شدن نامش در کنار پروژه جدیدی به نام «زیرزمین»، توجه رسانه‌ها را به خود جلب کرده است. طبق ادعاهای مطرح‌شده، مادر او، ملیس چیولک، در تیم نویسندگان این سریال جدید حضور دارد.",
+    "این بازیگر در پاسخ به سؤالات خبرنگاران درباره احتمال پیوستنش به کادر بازیگران سریال «زیرزمین»، پاسخ روشنی نداد و تنها اعلام کرد که پروژه‌های جدیدی در دست دارد. بدین ترتیب، حضور او در این پروژه همچنان نامشخص و در حد شایعه باقی مانده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "7bcf31cafbd4",
@@ -600,7 +793,14 @@
      "snippet": "Kazım Koyuncu'nun hayatını anlatan 'Kazım: Yarım Kalan' filminin fragmanı paylaşıldı. Film, 1 Ocak'ta vizyona girecek",
      "published": "2026-11-25T10:51:12.000Z"
     }
-   ]
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "SPo5tViMB-Q"
+    }
+   ],
+   "mediaDone": true
   },
   {
    "id": "050ad0126e5d",
@@ -1198,7 +1398,7 @@
    "video": null,
    "published": "2026-11-25T05:53:48.000Z",
    "scope": "linked",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [
@@ -1213,10 +1413,19 @@
      "url": "https://www.haberturk.com/magazin/ilker-aksum-dan-ucret-indirimi-talebine-tepki-oyunculara-ve-set-calisanlarina-fatura-cikarilmaya-calisiliyor-3929909",
      "title": "Rest çekti",
      "snippet": "Dizi sektöründe reklam gelirlerinin azalması ve artan yapım maliyetleri nedeniyle gündeme gelen oyuncu ücretlerinde indirim tartışmasına İlker Aksum da katıldı. Setlerdeki uzun çalışma saatlerine dikkat çeken Aksum, ücretinde hiçbir kesintiye gitmeyeceğini açıkladı",
-     "published": "2026-11-25T05:53:48.000Z"
+     "published": "2026-11-25T05:53:48.000Z",
+     "titleFa": "خط و نشان کشید"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "واکنش ایلکر آکسوم به بحث کاهش دستمزد بازیگران",
+   "summaryFa": "ایلکر آکسوم اعلام کرد که به دلیل ساعات طولانی کار در ست‌های فیلم‌برداری، هیچ‌گونه تخفیفی در دستمزد خود اعمال نخواهد کرد. او مشکلات اصلی صنعت تلویزیون را زمان طولانی تولید دانست.",
+   "bodyFa": [
+    "ایلکر آکسوم در پی بحث‌های اخیر پیرامون کاهش دستمزد بازیگران ناشی از کاهش درآمدهای تبلیغاتی و افزایش هزینه‌های تولید در بخش سریال‌سازی، موضع خود را به روشنی اعلام کرد. این بازیگر که در Üsküdar دیده شده بود، به ساعات طولانی کار در ست‌های فیلم‌برداری اشاره کرد و تلاش برای تحمیل هزینه‌ها به بازیگران و کارکنان ست را نادرست خواند.",
+    "او در پاسخ به پرسشی درباره احتمال کاهش دستمزد خود تأکید کرد که حتی یک درصد هم تخفیف نخواهد داد و این پیشنهاد را قاطعانه رد کرد. آکسوم افزود که او بازیگری است که کار خود را بسیار جدی می‌گیرد و در صورت پافشاری بر این موضوع، مسیر دیگری را انتخاب خواهد کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d4e14794e606",
@@ -2770,7 +2979,8 @@
      "url": "https://www.sozcu.com.tr/dizi-sektorunde-indirim-krizi-ilker-aksum-dan-ucret-indirimi-teklifine-rest-p384037",
      "title": "Dizi sektöründe indirim krizi: İlker Aksum'dan ücret indirimi teklifine rest",
      "snippet": "Dizi sektöründe reklam gelirlerindeki düşüş nedeniyle oyuncuların ücretlerinde indirim gündeme gelirken İlker Aksum'dan ...",
-     "published": "2026-11-24T11:47:59.000Z"
+     "published": "2026-11-24T11:47:59.000Z",
+     "titleFa": "بحران تخفیف در صنعت سریال: پاسخ قاطع ایلکر آکسوم به پیشنهاد کاهش دستمزد"
     }
    ],
    "images": [
@@ -2781,7 +2991,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hizliipng-6YVVEJhbVk2psf5iiHlsyw.png?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b058488f4678357b8baff35png-oNepa9CNqUGsigh9d6vyoQ.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "برانگیخته شدن بحران دستمزد در صنعت سریال‌سازی با واکنش ایلکر آکسوم",
+   "summaryFa": "کاهش درآمدهای تبلیغاتی در صنعت سریال‌سازی موجب طرح موضوع کاهش دستمزد بازیگران شده است. ایلکر آکسوم به این پیشنهاد پاسخ منفی داد و بر ساعات طولانی فیلم‌برداری تأکید کرد.",
+   "bodyFa": [
+    "در پی کاهش درآمدهای تبلیغاتی در صنعت سریال‌سازی، موضوع کاهش دستمزد بازیگران مطرح شده است که واکنش‌های مختلفی را در پی داشته است.",
+    "ایلکر آکسوم در مواجهه با پیشنهاد کاهش دستمزد، پاسخ منفی داد و با اشاره به طولانی بودن ساعات کار و فیلم‌برداری، بحث‌های مربوط به دستمزدها در این صنعت را دوباره داغ کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "bde4db9690d8",
@@ -5790,6 +6008,46 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "eefadca4f3ea",
+   "url": "https://www.sozcu.com.tr/feyyaz-serifoglu-nun-4-aylik-kizinin-bulundugu-otomobile-kamyon-carpti-p383596",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Feyyaz Şerifoğlu'nun 4 aylık kızının ve eşinin bulunduğu otomobile kamyon çarptı",
+   "snippet": "Haber spikeri Merve Dinçkol Şerifoğlu, kızı Defne Yaz ve bakıcılarıyla TEM Otoyolu'nda seyir halindeyken arkadan gelen k...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglujpg-SPUa3_1MG0eCj6br6kfCIg.jpg",
+   "video": null,
+   "published": "2026-11-23T06:12:26.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "feyyaz-serifoglu"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/feyyaz-serifoglu-nun-4-aylik-kizinin-bulundugu-otomobile-kamyon-carpti-p383596",
+     "title": "Feyyaz Şerifoğlu'nun 4 aylık kızının ve eşinin bulunduğu otomobile kamyon çarptı",
+     "snippet": "Haber spikeri Merve Dinçkol Şerifoğlu, kızı Defne Yaz ve bakıcılarıyla TEM Otoyolu'nda seyir halindeyken arkadan gelen k...",
+     "published": "2026-11-23T06:12:26.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglujpg-SPUa3_1MG0eCj6br6kfCIg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglujpg-SPUa3_1MG0eCj6br6kfCIg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglu-1jpg-GJco9Q5xe02KdZjuWmdgxQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglu-2jpg-hatqE_aZk0S1RHA_kPFNIA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/balik-cesitleri-fiyatlarijpeg-g8gR2hzSJ02oFcOAyu13kw.jpeg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "16f59929a10a",
@@ -11393,112 +11651,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "e51293a61217",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/spor-paylasimi-merak-uyandirdi-baris-murat-yagci-survivor-2027ye-katilacak-mi-7704700",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Spor paylaşımı merak uyandırdı! Barış Murat Yağcı Survivor 2027'ye katılacak mı?",
-   "snippet": "Survivor'a 4 kez katılan manken ve oyuncu Barış Murat Yağcı, sosyal medya hesabındaki paylaşımıyla dikkat çekti. Spor salonunda çalıştığı anları yayımlayan Yağcı'nın Survivor 2027'ye hazırlandığı iddia edildi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b0086b41c3369444cf1d002.jpg",
-   "video": null,
-   "published": "2026-11-20T17:46:19.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/spor-paylasimi-merak-uyandirdi-baris-murat-yagci-survivor-2027ye-katilacak-mi-7704700",
-     "title": "Spor paylaşımı merak uyandırdı! Barış Murat Yağcı Survivor 2027'ye katılacak mı?",
-     "snippet": "Survivor'a 4 kez katılan manken ve oyuncu Barış Murat Yağcı, sosyal medya hesabındaki paylaşımıyla dikkat çekti. Spor salonunda çalıştığı anları yayımlayan Yağcı'nın Survivor 2027'ye hazırlandığı iddia edildi.",
-     "published": "2026-11-20T17:46:19.000Z",
-     "titleFa": "انتشار پست ورزشی؛ آیا باریش مورات یاغجی به سورایور ۲۰۲۷ می‌رود؟"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6b0086b41c3369444cf1d002.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6b0086b41c3369444cf1d002.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "پست ورزشی باریش مورات یاغجی و گمانه‌زنی‌ها درباره حضور او در سورایور ۲۰۲۷",
-   "summaryFa": "انتشار تصاویری از تمرینات ورزشی باریش مورات یاغجی در شبکه‌های اجتماعی، این ادعا را مطرح کرده است که او در حال آماده‌سازی برای شرکت در مسابقه سورایور ۲۰۲۷ است.",
-   "bodyFa": [
-    "باریش مورات یاغجی، مدل و بازیگری که پیش‌تر چهار بار در مسابقه سورایور شرکت کرده است، اخیراً با انتشار پستی در حساب کاربری خود در شبکه‌های اجتماعی توجه مخاطبان را به خود جلب کرد.",
-    "در این ویدیو، او در حال تمرین در سالن ورزشی دیده می‌شود و همین موضوع باعث شکل‌گیری این ادعا شده است که وی خود را برای حضور در مسابقه سورایور ۲۰۲۷ آماده می‌کند. البته این موضوع در حد گمانه‌زنی است و اطلاعات رسمی تاییدشده‌ای در این زمینه وجود ندارد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "984343d6c154",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/ask-tam-gaz-devam-dilan-cicek-deniz-ve-sevgilisi-birkan-nasuhoglundan-romantik-kare-7704684",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Aşk tam gaz devam! Dilan Çiçek Deniz ve sevgilisi Birkan Nasuhoğlu'ndan romantik kare",
-   "snippet": "İlişkilerinin 1. yılını kutlayan oyuncu Dilan Çiçek Deniz ve şarkıcı sevgilisi Birkan Nasuhoğlu'nun romantik birlikteliği devam ediyor. Ünlü isim, birlikte oldukları yeni pozu ''Hayat arkadaşımla uzun yol gezisi'' notuyla sosyal medyadan paylaştı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b007b7b1c3369444cf1cf72.jpg",
-   "video": null,
-   "published": "2026-11-20T16:58:35.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/ask-tam-gaz-devam-dilan-cicek-deniz-ve-sevgilisi-birkan-nasuhoglundan-romantik-kare-7704684",
-     "title": "Aşk tam gaz devam! Dilan Çiçek Deniz ve sevgilisi Birkan Nasuhoğlu'ndan romantik kare",
-     "snippet": "İlişkilerinin 1. yılını kutlayan oyuncu Dilan Çiçek Deniz ve şarkıcı sevgilisi Birkan Nasuhoğlu'nun romantik birlikteliği devam ediyor. Ünlü isim, birlikte oldukları yeni pozu ''Hayat arkadaşımla uzun yol gezisi'' notuyla sosyal medyadan paylaştı.",
-     "published": "2026-11-20T16:58:35.000Z",
-     "titleFa": "عشق با تمام قوا ادامه دارد! قاب عاشقانه از دایان چیچک دنیز و نامزدش برکان ناسوه اوغلو"
-    },
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/dilan-cicek-deniz-den-birkan-nasuhoglu-na-romantik-sozler-hayat-arkadasim-p383581",
-     "title": "Dilan Çiçek Deniz'den Birkan Nasuhoğlu'na romantik sözler: \"Hayat arkadaşım\"",
-     "snippet": "Oyuncu Dilan Çiçek Deniz, bir yıldır aşk yaşadığı müzisyen sevgilisi Birkan Nasuhoğlu ile çıktığı yolculuktan romantik k...",
-     "published": "2026-11-23T05:27:11.000Z"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6b007b7b1c3369444cf1cf72.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6b007b7b1c3369444cf1cf72.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "تصویر عاشقانه جدید دیلان چیچک دنیز و برکان ناسوه اوغلو",
-   "summaryFa": "بازیگر دیلان چیچک دنیز و خواننده برکان ناسوه اوغلو یک سالگی رابطه خود را جشن گرفتند. دیلان تصویر جدیدی از خود و شریک زندگی‌اش را در شبکه‌های اجتماعی منتشر کرد.",
-   "bodyFa": [
-    "دیلان چیچک دنیز، بازیگر شناخته شده، و برکان ناسوه اوغلو، خواننده و شریک زندگی‌اش، وارد دومین سال رابطه خود شدند. این زوج هنرمند که این روزها یک سالگی با هم بودنشان را جشن می‌گیرند، همچنان به رابطه عاشقانه خود ادامه می‌دهند.",
-    "این بازیگر معروف اخیراً تصویری جدید و دو نفره از خود و ناسوه اوغلو را در صفحه اجتماعی‌اش به اشتراک گذاشت. او روی این عکس عبارت «سفر طولانی با همدم زندگی‌ام» را یادداشت کرده است که توجه هواداران را به خود جلب کرد."
-   ],
-   "ai": true,
-   "aiTries": 1,
-   "mergedIds": [
-    "be027f170e71"
-   ],
-   "regen": true
   },
   {
    "id": "881d5358b5fc",
