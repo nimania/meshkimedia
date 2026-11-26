@@ -1,6 +1,278 @@
 {
- "updated": "2026-11-25T17:50:49.980Z",
+ "updated": "2026-11-26T00:25:14.146Z",
  "items": [
+  {
+   "id": "8a62f69874ea",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/derya-ulug-ve-asil-gok-evlendi-iste-nikahtan-ilk-kareler-7707973",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Derya Uluğ ve Asil Gök evlendi! İşte nikahtan ilk kareler",
+   "snippet": "Şarkıcı Derya Uluğ ve sevgilisi Asil Gök, mutlu beraberliklerini imzayla taçlandırdı. Ünlü çift, sanat camiasından dostlarının katıldığı düğünle evlendi. Nikahtan paylaşılan karelere beğeni yağdı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b0723c7c00aca18cb4b1234.jpg",
+   "video": null,
+   "published": "2026-11-25T22:52:32.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/derya-ulug-ve-asil-gok-evlendi-iste-nikahtan-ilk-kareler-7707973",
+     "title": "Derya Uluğ ve Asil Gök evlendi! İşte nikahtan ilk kareler",
+     "snippet": "Şarkıcı Derya Uluğ ve sevgilisi Asil Gök, mutlu beraberliklerini imzayla taçlandırdı. Ünlü çift, sanat camiasından dostlarının katıldığı düğünle evlendi. Nikahtan paylaşılan karelere beğeni yağdı.",
+     "published": "2026-11-25T22:52:32.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0723c7c00aca18cb4b1234.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0723c7c00aca18cb4b1234.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "ee8f10f4c5d4",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/25-kasim-masterchef-turkiye-kim-kazandi-eleme-adayi-kim-oldu-7708018",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "25 Kasım MasterChef Türkiye kim kazandı, eleme adayı kim oldu?",
+   "snippet": "25 Kasım tarihli MasterChef Türkiye yemek yarışmasında, yarışmacılar dokunulmazlığı kazanmak için mücadele etti. Gecenin sonunda kazanan takım ve günün eleme adayı belli oldu. İşte, merak edilen detaylar..",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b074a1bc00aca18cb4b1329.jpg",
+   "video": null,
+   "published": "2026-11-25T20:55:06.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "masterchef-turkiye"
+    ],
+    "people": [],
+    "networks": [
+     "tv8"
+    ]
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/25-kasim-masterchef-turkiye-kim-kazandi-eleme-adayi-kim-oldu-7708018",
+     "title": "25 Kasım MasterChef Türkiye kim kazandı, eleme adayı kim oldu?",
+     "snippet": "25 Kasım tarihli MasterChef Türkiye yemek yarışmasında, yarışmacılar dokunulmazlığı kazanmak için mücadele etti. Gecenin sonunda kazanan takım ve günün eleme adayı belli oldu. İşte, merak edilen detaylar..",
+     "published": "2026-11-25T20:55:06.000Z",
+     "titleFa": "برنده ۲۵ نوامبر مسترشف ترکیه چه کسی شد، نامزد حذف چه کسی بود؟"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b074a1bc00aca18cb4b1329.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b074a1bc00aca18cb4b1329.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "برنده مسابقه و نامزد حذف در مسترشف ترکیه ۲۵ نوامبر",
+   "summaryFa": "در رقابت‌های مسترشف ترکیه در تاریخ ۲۵ نوامبر، شرکت‌کنندگان برای کسب مصونیت تلاش کردند. در پایان این شب، تیم برنده و نامزد حذف مشخص شدند.",
+   "bodyFa": [
+    "در قسمت ۲۵ نوامبر مسابقه آشپزی مسترشف ترکیه، رقابت فشرده‌ای میان شرکت‌کنندگان برای به دست آوردن مصونیت شکل گرفت.",
+    "بر اساس اطلاعات منتشرشده، دراستانه پایان این قسمت، تیم برنده و همچنین نامزد مشخص‌شده برای حذف از مسابقه مشخص گشتند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "336b366f4bef",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/ayrildiklari-iddia-edilmisti-ozgu-kaya-ile-sevgilisi-murat-dalkilic-dugunde-ortaya-cikti-7707999",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Ayrıldıkları iddia edilmişti! Özgü Kaya ile sevgilisi Murat Dalkılıç düğünde ortaya çıktı",
+   "snippet": "Şarkıcı Murat Dalkılıç ile oyuncu sevgilisi Özgü Kaya'nın ayrıldığı iddiası magazin gündeminde konuşulmaya devam ediyor. Bir süredir yan yana poz vermeyen ikili, Derya Uluğ'un düğününde görüntülendi.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b0737e9c00aca18cb4b12d7.jpg",
+   "video": null,
+   "published": "2026-11-25T19:33:08.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/ayrildiklari-iddia-edilmisti-ozgu-kaya-ile-sevgilisi-murat-dalkilic-dugunde-ortaya-cikti-7707999",
+     "title": "Ayrıldıkları iddia edilmişti! Özgü Kaya ile sevgilisi Murat Dalkılıç düğünde ortaya çıktı",
+     "snippet": "Şarkıcı Murat Dalkılıç ile oyuncu sevgilisi Özgü Kaya'nın ayrıldığı iddiası magazin gündeminde konuşulmaya devam ediyor. Bir süredir yan yana poz vermeyen ikili, Derya Uluğ'un düğününde görüntülendi.",
+     "published": "2026-11-25T19:33:08.000Z",
+     "titleFa": "ادعا شده بود که جدا شده‌اند! Özgü Kaya و مراد دالقیچ، شریک زندگی‌اش، در یک عروسی آفتابی شدند"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0737e9c00aca18cb4b12d7.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0737e9c00aca18cb4b12d7.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "حضور مراد دالقیچ و Özgü Kaya در یک عروسی پس از شایعات جدایی",
+   "summaryFa": "شایعاتی درباره جدایی مراد دالقیچ و Özgü Kaya مطرح شده بود. این زوج اخیراً در عروسی دریا اولوغ دیده شدند.",
+   "bodyFa": [
+    "مدتی است که شایعاتی درباره جدایی مراد دالقیچ، خواننده، و Özgü Kaya، بازیگر و شریک زندگی‌اش، در رسانه‌های زرد مطرح شده و مورد بحث قرار دارد.",
+    "این زوج که مدتی بود در کنار یکدیگر تصویر یا پوزی ثبت نکرده بودند، اخیراً در مراسم عروسی دریا اولوغ دیده شدند و در آنجا تصویربرداری شدند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "3a136b12ce0f",
+   "url": "https://www.haberturk.com/magazin/menekse-den-yeni-tanitim-geldi-3930137",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Menekşe bu adamla mı evleniyor?\"",
+   "snippet": "SHOW TV'nin yeni günlük dizisi Menekşe'nin ilk bölümünden yeni bir tanıtım daha izleyiciyle buluştu",
+   "image": "https://im.haberturk.com/l/2026/11/25/ver1795631050/3930137/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-25T18:27:02.000Z",
+   "scope": "dizi",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/menekse-den-yeni-tanitim-geldi-3930137",
+     "title": "\"Menekşe bu adamla mı evleniyor?\"",
+     "snippet": "SHOW TV'nin yeni günlük dizisi Menekşe'nin ilk bölümünden yeni bir tanıtım daha izleyiciyle buluştu",
+     "published": "2026-11-25T18:27:02.000Z",
+     "titleFa": "«Menekşe bu adamla mı evleniyor?»"
+    }
+   ],
+   "videos": [
+    {
+     "provider": "youtube",
+     "id": "9odXXaTf84s"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار معرفی‌نامه جدید از سریال روزانه «بنفشه» در شو تی‌وی",
+   "summaryFa": "سریال روزانه «بنفشه» از دوشنبه هر روز هفته روی آنتن شو تی‌وی می‌رود. در معرفی جدید این مجموعه، واکنش مرات به خبر ازدواج بنفشه و تلاش‌های رۆکسان به نمایش درآمده است.",
+   "bodyFa": [
+    "شبکه شو تی‌وی تازه‌ترین معرفی‌نامه از قسمت اول سریال روزانه «بنفشه» به تهیه‌کنندگی لیمون یاپیم را منتشر کرد. این سریال قرار است از روز دوشنبه، هر هفته در روزهای کاری روی آنتن برود.",
+    "در این ویدئوی تبلیغاتی، واکنش مرات به خبر ازدواج بنفشه تمام خانواده را تحت تاثیر قرار می‌دهد و بنفشه در آستانه ازدواج با مردی قرار می‌گیرد که تمایلی به آن ندارد. در همین حال، رۆکسان تلاش می‌کند تا هرطور شده از دو پسر خود محافظت کند.",
+    "این سریال که داستان عشق بزرگ بنفشه و مرات را روایت می‌کند، با بازی گۆز بوزکورت و باتوهان دمیر به عنوان بازیگران اصلی ساخته شده است و ترکیبی از بازیگران جوان و باتجربه را در کنار هم دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "ece5d8306bf7",
+   "url": "https://www.sozcu.com.tr/derya-ulug-ve-asil-gok-dunyaevine-girdi-nikah-sahitleri-dikkat-cekti-p384414",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Derya Uluğ ve Asil Gök dünyaevine girdi: Nikâh şahitleri dikkat çekti",
+   "snippet": "Ünlü şarkıcı Derya Uluğ ile müzisyen Asil Gök, yaklaşık 10 yıldır süren birlikteliklerini evlilikle taçlandırdı. İstanbu...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/deryajpg-YGGf_CiDTEC6ZMGs5RehhQ.jpg",
+   "video": null,
+   "published": "2026-11-25T18:26:52.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/derya-ulug-ve-asil-gok-dunyaevine-girdi-nikah-sahitleri-dikkat-cekti-p384414",
+     "title": "Derya Uluğ ve Asil Gök dünyaevine girdi: Nikâh şahitleri dikkat çekti",
+     "snippet": "Ünlü şarkıcı Derya Uluğ ile müzisyen Asil Gök, yaklaşık 10 yıldır süren birlikteliklerini evlilikle taçlandırdı. İstanbu...",
+     "published": "2026-11-25T18:26:52.000Z",
+     "titleFa": "دریا اولوغ و اصیل گوک ازدواج کردند: شاهدان عقد جلب توجه کردند"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/deryajpg-YGGf_CiDTEC6ZMGs5RehhQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/deryajpg-YGGf_CiDTEC6ZMGs5RehhQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sterlinhjpg-kNxPMzPY5EqxzWKMroWCgA.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/savci-yavuz-engin-vanjpg-B5lLN6dx8E_rBaDuK8xXMw.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yapay-zekayla-avrupadaki-82-belediyeyi-hedef-aldilar-12-milyon-kisinin-bilgileri-calindipng-03RC_NqgiUaV0sfqxWSW4A.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "دریا اولوغ و اصیل گوک ازدواج کردند",
+   "summaryFa": "خواننده مشهور دریا اولوغ و اصیل گوک پس از حدود ده سال رابطه، در استانبول ازدواج کردند. مسعود اوزیل بازیکن سابق فوتبال و چهره‌های سرشناس هنری از جمله شاهدان این مراسم بودند.",
+   "bodyFa": [
+    "دریا اولوغ، خواننده مشهور، و اصیل گوک، موسیقیدان، پس از نزدیک به ۱۰ سال رابطه زندگی مشترک خود را آغاز کردند و ازدواج کردند.",
+    "مراسم ازدواج این زوج در شهر استانبول برگزار شد. در این مراسم، مسعود اوزیل بازیکن سابق فوتبال به همراه برخی از چهره‌های شناخته شده دنیای هنر به عنوان شاهد عقد حضور داشتند.",
+    "در این مراسم، لباس عروس دریا اولوغ جلب توجه کرد و تصاویر نشان‌دهنده شادی این زوج در برابر دوربین‌ها بود."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "76c679be75ae",
+   "url": "https://www.haberturk.com/magazin/hilltown-kucukyali-da-yeni-yil-heyecani-3930105",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Küçükyalı'da yeni yıl heyecanı",
+   "snippet": "'Bir Başkadır Yeni Yıl' etkinliği 27 Kasım–31 Aralık tarihlerinde başlıyor; programda konserler, buz pisti, alışveriş ve yeme-içme alanları yer alıyor",
+   "image": "https://im.haberturk.com/l/2026/11/25/ver1795620130/3930105/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-25T17:55:28.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/hilltown-kucukyali-da-yeni-yil-heyecani-3930105",
+     "title": "Küçükyalı'da yeni yıl heyecanı",
+     "snippet": "'Bir Başkadır Yeni Yıl' etkinliği 27 Kasım–31 Aralık tarihlerinde başlıyor; programda konserler, buz pisti, alışveriş ve yeme-içme alanları yer alıyor",
+     "published": "2026-11-25T17:55:28.000Z",
+     "titleFa": "هیجان سال نو در کوچوک‌یالی"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "هیجان سال نو در کوچوک‌یالی با رویداد «یک سال نو متفاوت»",
+   "summaryFa": "مرکز خرید هیل‌تاون کوچوک‌یالی از ۲۷ نوامبر تا ۳۱ دسامبر میزبان رویداد سال نو با برنامه‌های متنوعی چون کنسرت، یخ‌پست و غرفه‌های خرید خواهد بود. این برنامه‌ها شامل کنسرت‌های رایگان و حضور هنرمندانی مانند دفنه سام‌ییلی و سارپ آپاک است.",
+   "bodyFa": [
+    "مرکز هیل‌تاون کوچوک‌یالی قرار است از ۲۷ نوامبر تا ۳۱ دسامبر با برگزاری رویداد «یک سال نو متفاوت» به استقبال فصل جدید برود. این برنامه شامل بخش‌های مختلفی از جمله غرفه‌های هدیه سال نو، فضاهای خرید و خوراکی، و یک پیست یخ است تا بازدیدکنندگان در طول زمستان از فضای آن بهره‌مند شوند.",
+    "بخش اصلی این رویداد شامل کنسرت‌های رایگانی است که در ساعات مختلف برگزار می‌شوند. در این برنامه‌ها، اوزَر آتیک در دو شب روی صحنه می‌رود و چهره‌هایی مانند سارپ آپاک در ۲۸ نوامبر و دفنه سام‌ییلی در ۱۲ دسامبر به عنوان مهمان در کنار او خواهند بود.",
+    "همچنین گروه‌ها و هنرمندان دیگری مانند وگا در ۵ دسامبر، سافت آنالوگ در ۱۹ دسامبر و گوکسل در ۲۶ دسامبر به اجرای برنامه می‌پردازند. این رویداد به‌گونه‌ای طراحی شده که روزها برای خانواده‌ها و کودکان و شب‌ها برای علاقه‌مندان به موسیقی جذاب باشد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "913609fdf7c4",
    "url": "https://www.haberturk.com/magazin/foto/derya-ulug-ve-asil-gok-evlendi-3930110",
@@ -26,9 +298,20 @@
      "url": "https://www.haberturk.com/magazin/foto/derya-ulug-ve-asil-gok-evlendi-3930110",
      "title": "Evlendiler",
      "snippet": "Ünlü şarkıcı Derya Uluğ ve müzisyen sevgilisi Asil Gök, 10 yıldır süren ilişkilerini nikâh masasına taşıdı",
-     "published": "2026-11-25T17:36:55.000Z"
+     "published": "2026-11-25T17:36:55.000Z",
+     "titleFa": "ازدواج کردند"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "دریا اولو و اصیل گوک پس از ده سال رابطه ازدواج کردند",
+   "summaryFa": "دریا اولو، خواننده معروف، و اصیل گوک، موزیسین، پس از ده سال رابطه با یکدیگر ازدواج کردند. تصاویر و لحظات شاد این مراسم از طریق پست‌های مهمانان در شبکه‌های اجتماعی منتشر شد.",
+   "bodyFa": [
+    "دریا اولو و اصیل گوک پس از ده سال رابطه عاشقانه، سرانجام زندگی مشترک خود را آغاز کردند و پای سفره عقد نشستند.",
+    "در این مراسم چهره‌های سرشناسی همچون مسوت اوزیل، پولات یاجی و سامسون دمیر به عنوان شاهدان عقد حضور داشتند. همچنین جمعی از خوانندگان، بازیگران و چهره‌های شناخته شده دیگر مانند بنگو، جانک توسن، یاسمین و ایدو تاتلی‌سیس، دمت آکالین، مورات دالکیلیچ، هاننده دوغان‌دمیر و بسیاری دیگر در این جشن شرکت کردند.",
+    "خبر این ازدواج و لحظات شاد آن از طریق ویدیوها و عکس‌هایی که دعوت‌شدگان در حساب‌های کاربری خود در شبکه‌های اجتماعی به اشتراک گذاشتند، رسانه‌ای شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b9f9ebb3841d",
@@ -61,7 +344,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/uzak-sehirin-yildizi-new-yorktan-paylasti-sinem-unsalin-pozlarina-begeni-yagmuru-7707952",
      "title": "Uzak Şehir'in yıldızı New York'tan paylaştı! Sinem Ünsal'ın pozlarına beğeni yağmuru",
      "snippet": "Kanal D'nin reyting rekortmeni dizisi Uzak Şehir'de Alya karakterini canlandıran Sinem Ünsal, Amerika'nın New York şehrinden paylaştığı karelerle dikkat çekti. Ünlü ismin pozlarına kısa sürede çok sayıda yorum ve beğeni geldi.",
-     "published": "2026-11-25T16:35:34.000Z"
+     "published": "2026-11-25T16:35:34.000Z",
+     "titleFa": "ستاره سریال شهر دور از نیویورک عکس منتشر کرد! سیل پسندها روی تصاویر سینم اونسال"
     }
    ],
    "images": [
@@ -72,7 +356,15 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تصاویر جدید سینم اونسال، بازیگر سریال شهر دور از نیویورک",
+   "summaryFa": "سینم اونسال، بازیگر نقش آلیا در سریال شهر دور، تصاویری از سفر خود به نیویورک منتشر کرد. این تصاویر در شبکه اجتماعی با استقبال کاربران روبرو شد.",
+   "bodyFa": [
+    "سینم اونسال که در سریال پرمخاطب «شهر دور» از شبکه کانال دی به ایفای نقش آلیا می‌پردازد، اخیراً تصاویری از شهر نیویورک در آمریکا را به اشتراک گذاشته است.",
+    "این عکس‌ها در مدت زمان کوتاهی توجه مخاطبان را به خود جلب کرد و با نظرات و پسندهای فراوانی از سوی کاربران همراه شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c8a1add9d09d",
@@ -128,7 +420,7 @@
    "video": null,
    "published": "2026-11-25T15:54:57.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -141,9 +433,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/asli-enver-kizi-elayin-son-halini-paylasti-buyuyunce-gurme-olacakmis-7707941",
      "title": "Aslı Enver kızı Elay'ın son halini paylaştı! 'Büyüyünce gurme olacakmış'",
      "snippet": "Anne olduktan sonra ekranlara bir süre ara veren oyuncu Aslı Enver, paylaşımlarıyla adından söz ettirmeye devam ediyor. Ünlü isim, kızı Elay'ın son halini eğlenceli bir notla Instagram'dan sevenlerinin beğenisine sundu.",
-     "published": "2026-11-25T15:54:57.000Z"
+     "published": "2026-11-25T15:54:57.000Z",
+     "titleFa": "تصویر جدیدی از الای، دختر اصلی انور منتشر شد! «گویا وقتی بزرگ شود گورمه خواهد شد»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b070325c00aca18cb4b1186.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b070325c00aca18cb4b1186.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اشتراک‌گذاری تصویر جدیدی از الای، دختر اصلی انور",
+   "summaryFa": "اصلی انور، بازیگر ترکیه‌ای که پس از مادری مدتی از تلویزیون فاصله گرفته است، عکس جدیدی از دخترش الای را در اینستاگرام منتشر کرد. او این تصویر را با یادداشتی سرگرم‌کننده به اشتراک گذاشت.",
+   "bodyFa": [
+    "اصلی انور، بازیگر سرشناس که پس از تجربه مادری مدتی است در پروژه‌های تلویزیونی حضور ندارد، همچنان با انتشار تصاویر و مطالب مختلف در شبکه‌های اجتماعی مورد توجه مخاطبان و رسانه‌ها قرار می‌گیرد.",
+    "این بازیگر محبوب تازه‌ترین تصویر دخترش الای را در صفحه اینستاگرام خود با طرفدارانش به اشتراک گذاشت. او برای این عکس یادداشت جالبی نیز نوشت و توجه دنبال‌کنندگان خود را جلب کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f4dc58d35342",
@@ -170,9 +480,27 @@
      "url": "https://www.milliyet.com.tr/magazin/klipteki-ciragi-oglu-cikti-hasan-gozetlik-sana-tutuluyorumu-anlatti-7707935",
      "title": "Klipteki çırağı oğlu çıktı! Hasan Gözetlik ''Sana tutuluyorum''u anlattı",
      "snippet": "Solo kariyerine “Sana tutuluyorum” ile güçlü bir başlangıç yapan Hasan Gözetlik, hem dijital platformlarda hem de sosyal medyada yüksek dinlenme sayılarına ulaştı. Gözetlik, bu başarısını D-Smart ve Dream Türk ekranlarında yayınlanan, Zeynep Bozkaya ve Berke Kosova’nın sunduğu “Smart Sahne”de anlatt",
-     "published": "2026-11-25T15:29:26.000Z"
+     "published": "2026-11-25T15:29:26.000Z",
+     "titleFa": "شاگرد درون موزیک ویدیو پسرش از آب درآمد! حسن گözetlik درباره «سانا توتول‌یوروم» صحبت کرد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b06feccc00aca18cb4b1149.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b06feccc00aca18cb4b1149.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "حسن گözetlik در برنامه «اسمارت ساِنه» از موزیک ویدیو خود گفت",
+   "summaryFa": "حسن گözetlik که با ترانه «سانا توتول‌یوروم» فعالیت انفرادی خود را آغاز کرده، حضور فرزندش در موزیک ویدیو این اثر را تایید کرد. او در این باره توضیحاتی ارائه داد.",
+   "bodyFa": [
+    "حسن گözetlik که با آهنگ «سانا توتول‌یوروم» توانسته به آمار شنوندگان بالایی در پلتفرم‌های دیجیتال و شبکه‌های اجتماعی دست یابد، اخیراً در برنامه «اسمارت ساِنه» حضور یافت. این برنامه از شبکه‌های D-Smart و Dream Türk پخش می‌شود و اجرای آن بر عهده زینب بوزکایا و برکه كوسوا است.",
+    "این هنرمند موفق در برنامه درباره موفقیت اثر خود صحبت کرد و مشخص شد که او در موزیک ویدیوی خود از فرزندش استفاده کرده است. گözetlik اعلام کرد که پسرش هنرجوی کنسرواتوار است و درباره آینده او گفت که به نظر می‌رسد فرزندش در آینده آهنگساز، رهبر ارکستر و همه‌چیز خواهد شد. در سکانس پایانی این موزیک ویدیو، گözetlik که در صنعت خودرو به عنوان استاد کار می‌کند، با صدای شاگردش آلтан از خواب بیدار می‌شود که می‌گوید: «استاد، صبح شد استاد»."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ae789aa7f0a0",
@@ -199,49 +527,27 @@
      "url": "https://www.sozcu.com.tr/dunyaca-unlu-oyuncunun-serveti-ortaya-cikti-36-yasinda-hayatini-kaybetmisti-p384381",
      "title": "Dünyaca ünlü oyuncunun serveti ortaya çıktı: 36 yaşında hayatını kaybetmişti",
      "snippet": "Heroes ve Nashville dizileriyle tanınan dünyaca ünlü oyuncu Hayden Panettiere'nin ölümünün ardından mal varlığına ilişki...",
-     "published": "2026-11-25T14:45:00.000Z"
-    }
-   ]
-  },
-  {
-   "id": "284a35e109a4",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/vefali-dostlar-bir-donemin-unlu-mankeni-murat-misirliya-anlamli-ziyaret-7707907",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Vefalı dostlar! Bir dönemin ünlü mankeni Murat Mısırlı'ya anlamlı ziyaret",
-   "snippet": "Bir dönemin ünlü mankenlerinden Murat Mısırlı, 7 yıldır ALS hastalığıyla mücadele ediyor. Kenan İmirzalıoğlu, Atilla Saral ve Burak Hakkı'nın eski dostlarına gerçekleştirdiği anlamlı ziyaret, sosyal medyada duygusal anlar yaşattı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b06ed31c00aca18cb4b1097.jpg",
-   "video": null,
-   "published": "2026-11-25T14:15:02.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [
-     "kenan-imirzalioglu"
-    ],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/vefali-dostlar-bir-donemin-unlu-mankeni-murat-misirliya-anlamli-ziyaret-7707907",
-     "title": "Vefalı dostlar! Bir dönemin ünlü mankeni Murat Mısırlı'ya anlamlı ziyaret",
-     "snippet": "Bir dönemin ünlü mankenlerinden Murat Mısırlı, 7 yıldır ALS hastalığıyla mücadele ediyor. Kenan İmirzalıoğlu, Atilla Saral ve Burak Hakkı'nın eski dostlarına gerçekleştirdiği anlamlı ziyaret, sosyal medyada duygusal anlar yaşattı.",
-     "published": "2026-11-25T14:15:02.000Z"
+     "published": "2026-11-25T14:45:00.000Z",
+     "titleFa": "ثروت بازیگر مشهور جهان فاش شد: او در ۳۶ سالگی درگذشته بود"
     }
    ],
    "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6b06ed31c00aca18cb4b1097.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6b06ed31c00aca18cb4b1097.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hayden-panettierejpg-nXR0oTVUNkivY9_y9npqgQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hayden-panettierejpg-nXR0oTVUNkivY9_y9npqgQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hx98nwgxaaan02jpg-zi5FtlXilEaxFtj-suP8Nw.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/aa202611244317171543171709galatasarayastonvillajpg-JAkrp4Pmm0CT_Tuu8EsxXw.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yapay-zekayla-avrupadaki-82-belediyeyi-hedef-aldilar-12-milyon-kisinin-bilgileri-calindipng-03RC_NqgiUaV0sfqxWSW4A.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "ثروت هیدن پنِتیِر پس از درگذشت او مشخص شد",
+   "summaryFa": "جزئیات مربوط به دارایی‌های هیدن پنِتیِر پس از مرگ او در ۳۶ سالگی مشخص شد. بر اساس اسناد دادگاه، کل ثروت این بازیگر از ۶.۲ میلیون دلار فراتر رفته است.",
+   "bodyFa": [
+    "پس از درگذشت هیدن پنِتیِر، بازیگر شناخته‌شده سریال‌های «هیروها» و «نشویل» در سن ۳۶ سالگی، جزئیات جالب توجهی درباره دارایی‌ها و وضعیت مالی او روشن شد.",
+    "بر اساس اطلاعات به‌ دست‌آآمده از اسناد دادگاه، ثروت کل این بازیگر معروف بیش از ۶.۲ میلیون دلار برآورد شده است. همچنین اعلام شد که تنها وارث این میراث، دختر ۱۱ ساله او به نام کایا است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "65d7b25020fe",
@@ -255,7 +561,7 @@
    "video": null,
    "published": "2026-11-25T14:11:31.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -268,9 +574,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/gokhan-turkmen-denklemi-cozdu-43390987",
      "title": "Gökhan Türkmen 'Denk'lemi Çözdü!",
      "snippet": "Gökhan Türkmen, sevilen müzik projesi DENK’i, üçüncü sezonuyla tamamlayarak dinleyicileriyle buluşturuyor.27 Kasım’da tüm dijital platformlarda yayımlanacak DENK albümü, üç sezona yayılan dokuz şarkıyı bir araya getiriyor.",
-     "published": "2026-11-25T14:11:31.000Z"
+     "published": "2026-11-25T14:11:31.000Z",
+     "titleFa": "گöخان ترکمن معادله «دنک» را حل کرد!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b06ec751b5a00a3c3351b7f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b06ec751b5a00a3c3351b7f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "گöخان ترکمن پروژه «دنک» را با فصل سوم تکمیل کرد",
+   "summaryFa": "گöخان ترکمن پروژه موسیقی محبوب خود «دنک» را با انتشار فصل سوم به پایان می‌رساند. این آلبوم شامل ۹ آهنگ در سه فصل است که در ۲۷ نوامبر منتشر می‌شود.",
+   "bodyFa": [
+    "گöخان ترکمن، هنرمند شناخته‌شده، پروژه محبوب موسیقی خود به نام «دنک» (DENK) را با فصل سوم به اتمام رسانده و آن را در اختیار مخاطبان قرار می‌دهد.",
+    "این آلبوم که شامل ۹ قطعه موسیقی پخش‌شده در طول سه فصل است، قرار است در تاریخ ۲۷ نوامبر بر روی تمامی پلتفرم‌های دیجیتال منتشر شود و در دسترس علاقه‌مندان قرار گیرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a8ab44bedcf8",
@@ -297,9 +621,20 @@
      "url": "https://www.haberturk.com/magazin/k-pop-un-global-hitleri-k-pop-fever-ile-sahnede-3930086",
      "title": "K-Pop Fever sahnede",
      "snippet": "K-Pop’un bitmek bilmeyen enerjisi İstanbul’a taşınıyor. 12 kişilik şarkıcı ve dansçı kadrosuyla sahneye taşınan K-Pop Fever, K-Pop konserlerinin kendine özgü sahne estetiğini ve performanslarını Zorlu PSM'de sergileyecek",
-     "published": "2026-11-25T14:08:58.000Z"
+     "published": "2026-11-25T14:08:58.000Z",
+     "titleFa": "تب‌وتاب کی‌پاپ روی صحنه"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای نمایش «کی‌پاپ فیور» در استانبول",
+   "summaryFa": "نمایش پرانرژی «کی‌پاپ فیور» با حضور یک گروه ۱۲ نفره در تاریخ ۳۱ ژانویه ۲۰۲۷ در زورلو پی‌اس‌ام روی صحنه می‌رود. این برنامه شامل اجراهایی از آثار محبوب کی‌پاپ خواهد بود.",
+   "bodyFa": [
+    "انرژی موسیقی کی‌پاپ قرار است به استانبول منتقل شود و این شهر میزبان نمایشی به نام «کی‌پاپ فیور» خواهد بود. این برنامه با حضور یک گروه ۱۲ نفره شامل خوانندگان و رقصندگان اجرا می‌شود و زیبایی‌شناسی و اجرای صحنه‌ای این سبک را به نمایش می‌گذارد.",
+    "در این رویداد که در تاریخ ۳۱ ژانویه ۲۰۲۷ در سالن تورک‌سل زورلو پی‌اس‌ام برگزار می‌شود، قطعاتی از آثار محبوب و جهانی گروه‌ها و هنرمندانی مانند بی‌تی‌اس، بلک‌پینک، رزه، توایس، استری کیدز و ایتیز اجرا خواهد شد. این برنامه ترکیبی از آهنگ‌های شناخته‌شده و رقص‌های پرانرژی است.",
+    "این گروه ۱۲ نفره با اجراهای قدرتمند و فضای بصری خود تلاش می‌کند تا مخاطبان را وارد فضای دنیای کی‌پاپ کند و لحظاتی پر از هیجان را رقم بزند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "44aa526d8c3e",
@@ -328,7 +663,8 @@
      "snippet": "Dünyaca ünlü model Alessandra Ambrosio’nun baş model olarak yer aldığı Monaco Chain defilesi İstanbul'da yapıldı",
      "published": "2026-11-25T14:07:59.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "206d53d8a96d",
@@ -355,9 +691,19 @@
      "url": "https://www.haberturk.com/magazin/alternatif-rock-grubu-cake-bu-yaz-turkiye-ye-geliyor-3930080",
      "title": "Cake bu yaz Türkiye'ye geliyor",
      "snippet": "Cake, pek çok müzik geleneğini kendine özgü bir üslupta birleştiren şarkılarıyla 2027 yazında PSM Loves Summer kapsamında Zorlu PSM’de müzikseverlerle buluşmaya hazırlanıyor",
-     "published": "2026-11-25T13:42:12.000Z"
+     "published": "2026-11-25T13:42:12.000Z",
+     "titleFa": "Cake bu yaz Türkiye'ye geliyor"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "گrup کیک در تابستان ۲۰۲۷ به ترکیه می‌آید",
+   "summaryFa": "گrup کیک اعلام کرد که در تابستان ۲۰۲۷ و در قالب رویداد PSM Loves Summer در زورلو پی‌اس‌ام روی صحنه می‌رود. این گروه آمریکایی قرار است در تاریخ ۱۹ ژوئن اجرا داشته باشد.",
+   "bodyFa": [
+    "گروه موسیقی آمریکایی کیک (Cake) که به خاطر ترکیب سبک‌های مختلف و اجراهای پرانرژی‌اش شناخته می‌شود، قرار است در تابستان ۲۰۲۷ به ترکیه بیود و در Zorlu PSM به اجرای برنامه بپردازد. این رویداد در چارچوب برنامه‌های «PSM Loves Summer» برگزار خواهد شد.",
+    "بر اساس اطلاعات منتشر شده، این کنسرت در تاریخ ۱۹ ژوئن سال ۲۰۲۷ برگزار می‌شود. گروه کیک که در دهه ۱۹۹۰ میلادی در ساکرامنتو تشکیل شد، به خاطر استقلال کاری و ضبط آثارش در استودیوی خورشیدی خود معروف است و ژانرهای گوناگونی مانند راک، فانک، کانتری، جز، سول و موسیقی لاتین را با یکدیگر ترکیب می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b81ff62965bc",
@@ -384,9 +730,27 @@
      "url": "https://www.sozcu.com.tr/irem-derici-sevgilisiyle-maskeli-baloya-damga-vurdu-p384363",
      "title": "İrem Derici sevgilisiyle maskeli baloya damga vurdu",
      "snippet": "İrem Derici, sevgilisiyle katıldığı maskeli balo konseptli doğum günü partisinde renkli anlar yaşadı. Ünlü şarkıcı, gece...",
-     "published": "2026-11-25T13:30:46.000Z"
+     "published": "2026-11-25T13:30:46.000Z",
+     "titleFa": "ایرم درجی با نامزدش در بالماسکه درخشید"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/173jpg-5hyxL-ZKME_n_VWhI3ruHg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/173jpg-5hyxL-ZKME_n_VWhI3ruHg.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/irem-derici-sevgilisiyle-maskeli-baloya-damga-vurdu-6jpg-j2_YU7CBMU2UZhMqt0KyMw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/irem-derici-sevgilisiyle-maskeli-baloya-damga-vurdu-7jpg-L1mEVizFMUSOaIgeIkdBug.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/irem-derici-sevgilisiyle-maskeli-baloya-damga-vurdu-2jpg-LHjdeOyGaU_FbESfhLWNGw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/irem-derici-sevgilisiyle-maskeli-baloya-damga-vurdu-3jpg-LPBFTouHXUesGZpuFrROsg.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "حضور ایرم درجی به همراه نامزدش در یک مهمانی با تم بالماسکه",
+   "summaryFa": "ایرم درجی به همراه نامزدش در یک جشن تولد با تم بالماسکه شرکت کرد. او در این مراسم با لباس و اظهارات خود توجه حاضران را جلب کرد.",
+   "bodyFa": [
+    "ایرم درجی، خواننده مشهور، به همراه نامزدش ملیح کونوقجو در جشن تولد دوست نزدیک و آرایشگر خود، آیلا شاهین، که با تم بالماسکه در نیشان‌تاشی برگزار شده بود، شرکت کرد. این زوج در این مراسم رنگارنگ حضور داشتند.",
+    "در این مهمانی که شرکت‌کنندگان ماسک به چهره داشتند، ملیح کونوقجو پشت میز دی‌جی رفت. همچنین ایرم درجی با نامی که روی لباس توری خود گذاشته بود باعث خنده شد و با اظهاراتی درباره یکی از آهنگ‌های قدیمی‌اش که زمانی در عروسی‌ها بسیار محبوب بود، توجه‌ها را به خود جلب کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8b7becc3b69b",
@@ -413,9 +777,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/ne-bosanmasi-mutluluktan-ayaklari-yere-degmiyor-kocasi-onun-yeni-yasi-serefine-havai-fisekler-bile-patlatti-43390871",
      "title": "Ne boşanması! Mutluluktan ayakları yere değmiyor... Kocası, onun yeni yaşı şerefine havai fişekler bile patlattı!",
      "snippet": "Gösteri dünyasının genç ünlü çiftlerinden biri Hailey Baldwin Bieber ile Justin Bieber… Tabii haklarında en çok söylenti çıkanlardan da biri aynı zamanda.",
-     "published": "2026-11-25T13:28:29.000Z"
+     "published": "2026-11-25T13:28:29.000Z",
+     "titleFa": "چه طلاقی! آن‌ها از خوشحالی سر از پا نمی‌شناسند... شوهرش حتی به افتخار تولد جدید او آتش‌بازی به پا کرد!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b06ddac8c01a1364d06bbfb.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b06ddac8c01a1364d06bbfb.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "شایعات جدایی و زندگی مشترک هیلی و جاستین بیبر",
+   "summaryFa": "درباره هیلی بالدوین بیبر و جاستین بیبر همواره شایعات زیادی مطرح است.",
+   "bodyFa": [
+    "هیلی بالدوین بیبر و جاستین بیبر یکی از زوج‌های جوان و مشهور دنیای سرگرمی به شمار می‌روند که همواره هدف شایعات مختلف بوده‌اند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b9bc6e5f2283",
@@ -429,7 +810,7 @@
    "video": null,
    "published": "2026-11-25T13:20:51.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -442,9 +823,19 @@
      "url": "https://www.haberturk.com/magazin/demet-akalin-dan-izmit-te-bisikleti-parcalanan-kiza-jest-3929924",
      "title": "Demet Akalın'dan anlamlı hediye",
      "snippet": "Şarkıcı Demet Akalın, Kocaeli’nin İzmit ilçesinde otomobiline zarar verdiğini iddia eden sürücünün annesi tarafından bisikleti defalarca yere vurularak kırılan 7 yaşındaki kız çocuğuna yeni bisiklet hediye etti",
-     "published": "2026-11-25T13:20:51.000Z"
+     "published": "2026-11-25T13:20:51.000Z",
+     "titleFa": "هدیه معنادار از سوی دمت آکالین"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "هدیه معنی‌dar دمت آکالین به دختربچه‌ای که دوچرخه‌اش تخریب شده بود",
+   "summaryFa": "پس از انتشار ویدیویی از تخریب دوچرخه یک دختربچه ۷ ساله در İzmit، خواننده معروف دمت آکالین به خانواده او دسترسی پیدا کرد و یک دوچرخه جدید به این کودک هدیه داد. این حادثه پس از آن رخ داد که کودک با دوچرخه خود به یک خودروی پارک‌شده آسیب رسانده بود.",
+   "bodyFa": [
+    "در منطقه İzmit واقع در استان Kocaeli، یک دختربچه‌ی ۷ ساله که با دوچرخه در حال بازی بود، به‌طور تصادفی به یک خودروی پارک‌شده برخورد کرد و اثر کوچکی روی بدنه آن ایجاد نمود. به دنبال این اتفاق، نزدیکان مالک خودرو واکنش نشان داده و از کودک خواستند خانواده‌اش را صدا کند. در این میان، زنی که از نزدیکان صاحب خودرو بود، دوچرخه را از کودک گرفت و بارها به زمین کوبید تا کاملاً خرد شود؛ این در حالی بود که کودک از ترس به گریه افتاده بود و مشخص شد این دوچرخه را همان روز از سوی کاسبان محل هدیه گرفته بود.",
+    "این رویداد که بازتاب و واکنش‌های زیادی در میان مردم به همراه داشت، توجه خواننده معروف، دمت آکالین را جلب کرد. آکالین پس از باخبر شدن از ماجرا، توانست با خانواده این کودک ارتباط برقرار کند و به عنوان هدیه، یک دوچرخه جدید برای او بفرستد تا از او دلجویی کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1f4c0d192fb7",
@@ -471,9 +862,27 @@
      "url": "https://www.sozcu.com.tr/10-yildir-bugunu-bekliyorlardi-mustakbel-esi-kapida-karsiladi-p384357",
      "title": "10 yıldır bugünü bekliyorlardı: Müstakbel eşi kapıda karşıladı",
      "snippet": "Derya Uluğ ile Asil Gök, 10 yıllık birlikteliklerini evlilikle taçlandırmaya hazırlanıyor. Düğün günü gelen şarkıcıyı ot...",
-     "published": "2026-11-25T13:10:22.000Z"
+     "published": "2026-11-25T13:10:22.000Z",
+     "titleFa": "ده سال است منتظر امروز بودند: همسر آینده در ورودی به استقبال آمد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/10-yildir-bugunu-bekliyorlardi-mustakbel-esi-kapida-karsiladipng-TnogFK4dkUumGgYqJAueuA.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/10-yildir-bugunu-bekliyorlardi-mustakbel-esi-kapida-karsiladipng-TnogFK4dkUumGgYqJAueuA.png?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/derya-ulug-esipng-NGjKGbwYM0G6TBXBlsMM9A.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yeni-proje-30png-OxDLMd73FUyRvKCkN9JOWA.png?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yeni-proje-97png-4RO-HpQyLEO6CCiT5VjcRQ.png?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "دریا اولوغ و اصل گوک پس از ۱۰ سال رابطه ازدواج می‌کنند",
+   "summaryFa": "دریا اولوغ و اصل گوک پس از ده سال رابطه آماده ازدواج می‌شوند و خواننده در روز عروسی در ورودی هتل مورد استقبال نامزدش قرار گرفت.",
+   "bodyFa": [
+    "دریا اولوغ و اصل گوک پس از ده سال رابطه عاطفی، اکنون آماده می‌شوند تا زندگی مشترک خود را آغاز کنند و این زوج تصمیم به ازدواج گرفته‌اند.",
+    "در روز برگزاری مراسم، دریا اولوغ برای شرکت در عروسی وارد هتل شد و اصل گوک در ورودی هتل به استقبال او رفت. جزئیات این شب مورد توجه مخاطبان قرار گرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "86e193e82dc3",
@@ -557,7 +966,16 @@
      "snippet": "Genç yaşta ünlenip, kazandığı bu ünün getirdiği ağırlığı zorlukta taşıyan, hayatının ilerleyen dönemlerinde yaşadığı büyük acıları ve bunalımları da tüm samimiyetiyle hayranlarıyla paylaşan yıldız oyuncu ağustos ayında hayatını kaybetmiş, ailesini ve hayranlarını yasa boğmuştu.",
      "published": "2026-11-25T12:19:30.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b06af9d3516f14679cccbc5.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b06af9d3516f14679cccbc5.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true
   },
   {
    "id": "ce3ed6653902",
@@ -584,9 +1002,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/hande-ercel-33-yasinda-elbisesi-ayri-pastasi-ayri-begenildi-7707645",
      "title": "Hande Erçel 33 yaşında! Elbisesi ayrı pastası ayrı beğenildi",
      "snippet": "Hande Erçel, 33'üncü yaşını arkadaşlarıyla birlikte kutladı. Doğum günü partisinden kareleri sosyal medya hesabından paylaşan ünlü oyuncu, siyah-beyaz püsküllü elbisesi, doğal makyajı ve çiçeklerle süslenen pastasıyla dikkat çekti.",
-     "published": "2026-11-25T11:51:35.000Z"
+     "published": "2026-11-25T11:51:35.000Z",
+     "titleFa": "هانده ارچل ۳۳ ساله شد! هم لباس و هم کیکش مورد پسند واقع شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b06aa821c3369444cf1e600.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b06aa821c3369444cf1e600.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن تولد ۳۳ سالگی هانده ارچل با حضور دوستان",
+   "summaryFa": "هانده ارچل سی و سومین سالگرد تولد خود را در کنار دوستانش جشن گرفت. او تصاویری از این مهمانی را در صفحه اجتماعی خود منتشر کرد.",
+   "bodyFa": [
+    "هانده ارچل، بازیگر سرشناس، تولد ۳۳ سالگی خود را جشن گرفت. این مراسم با حضور دوستانش برگزار شد و تصاویر آن در حساب کاربری او در شبکه‌های اجتماعی بازنشر یافت.",
+    "در این مهمانی، ظاهر او شامل لباس مشکی و سفید ریش‌دار و آرایش طبیعی و همچنین کیک تزئین‌شده با گل، توجه مخاطبان را به خود جلب کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a72cb62f44d5",
@@ -613,7 +1049,8 @@
      "url": "https://www.sozcu.com.tr/final-karari-alan-dizi-reytinglerde-dusus-yasadi-sali-aksami-siralamasi-belli-oldu-p384327",
      "title": "Final kararı alan dizi reytinglerde düşüş yaşadı: Salı akşamı sıralaması belli oldu",
      "snippet": "24 Kasım Salı akşamı televizyon ekranlarında futbol ve dizi rekabeti yaşanırken, reyting tablosunda bazı yapımların sıra...",
-     "published": "2026-11-25T11:50:33.000Z"
+     "published": "2026-11-25T11:50:33.000Z",
+     "titleFa": "تصمیم نهایی برای سریال گرفته شد و با افت ریتینگ مواجه شد: رتبه‌بندی شامگاه سه‌شنبه مشخص شد"
     }
    ],
    "images": [
@@ -624,7 +1061,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/979jpg-RrqDX5G7v0y4XZtbHfkXPA.jpg?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b06c573f4678357b8bb3508png-j_EPO84iwk2Btg4wOnS3og.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "سریالی که تصمیم به پایان آن گرفته شده با افت رتبه‌ مواجه شد: نتایج ریتینگ سه‌شنبه مشخص شد",
+   "summaryFa": "در رقابت تلویزیونی شامگاه سه‌شنبه ۲۴ نوامبر، برخی آثار از جمله سریال «حیثیت» با افت مخاطب در گروه AB روبرو شدند. این سریال که تصمیم به فینال آن گرفته شده، در جدول ریتینگ از جایگاه سوم به نهم سقوط کرد.",
+   "bodyFa": [
+    "در شامگاه سه‌شنبه ۲۴ نوامبر، رقابت میان برنامه‌های تلویزیونی و مسابقات فوتبال در جدول ریتینگ تاثیر گذاشت و جایگاه برخی از مجموعه‌ها را تغییر داد. سریال «حیثیت» که پیش‌تر خبر تصمیم برای فینال آن اعلام شده بود، در این شب با ریزش مخاطب مواجه شد.",
+    "این مجموعه به‌ویژه در گروه AB دچار افت شدیدی شد و از رتبه سوم جدول به جایگاه نهم سقوط کرد. همچنین اثر دیگری به نام «توزلو قهوه» نیز در این شب کاهش قابل توجهی در تعداد بینندگان خود تجربه کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d7531f584a55",
@@ -704,9 +1149,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/hailey-bieber-30-yasina-girdi-esi-justin-bieber-ile-dudak-dudaga-poz-7707770",
      "title": "Hailey Bieber 30 yaşına girdi! Eşi Justin Bieber ile dudak dudağa poz",
      "snippet": "Hailey Bieber, 30'uncu yaşına özel fotoğraflarını sosyal medya hesabından paylaştı. Ünlü model paylaşımında eşi Justin Bieber ile romantik karelerine de yer verdi.",
-     "published": "2026-11-25T11:40:57.000Z"
+     "published": "2026-11-25T11:40:57.000Z",
+     "titleFa": "هایلی بیبر ۳۰ ساله شد! عکس لب به لب با همسرش جاستین بیبر"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b06c91bc00aca18cb4b0e08.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b06c91bc00aca18cb4b0e08.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن تولد ۳۰ سالگی هایلی بیبر و انتشار عکس‌های عاشقانه با جاستین بیبر",
+   "summaryFa": "هایلی بیبر تصاویر مربوط به تولد سی‌سالگی خود را در شبکه‌های اجتماعی منتشر کرد. این مدل معروف در میان این تصاویر، عکس‌های رمانتیکی نیز از خود و همسرش جاستین بیبر به اشتراک گذاشت.",
+   "bodyFa": [
+    "هایلی بیبر، مدل مشهور، به مناسبت ورود به سن سی‌سالگی مجموعه‌ای از عکس‌های شخصی خود را در حساب کاربری‌اش در شبکه‌های اجتماعی با مخاطبان به اشتراک گذاشت.",
+    "در میان تصاویر منتشر شده، عکس‌های رمانتیک و دو نفره‌ای از او و همسرش جاستین بیبر نیز دیده می‌شود که توجه طرفداران را به خود جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3f85f96d9de0",
@@ -733,9 +1196,27 @@
      "url": "https://www.sozcu.com.tr/oktay-kaynarca-nin-yeni-dizisinin-yayin-tarihi-belli-oldu-hamal-dizisinin-konusu-ve-oyunculari-p384246",
      "title": "Oktay Kaynarca'nın yeni dizisinin yayın tarihi belli oldu: Hamal dizisinin konusu ve oyuncuları",
      "snippet": "Oktay Kaynarca, Fahriye Evcen ve Caner Cindoruk'u aynı projede buluşturan Hamal dizisinden ilk tanıtım yayınlandı. İstan...",
-     "published": "2026-11-25T10:52:12.000Z"
+     "published": "2026-11-25T10:52:12.000Z",
+     "titleFa": "تاریخ پخش سریال جدید اکتای کایnarca مشخص شد: موضوع و بازیگران سریال Hamal"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hamaldizisijpg-FMWzGbycYkOTFV4A4DlZSw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hamaldizisijpg-FMWzGbycYkOTFV4A4DlZSw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/38jpg-kn_HDA6_PESrEmjQqRxP3w.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/tirtilposetdeneyjpg-6WFRyYmLAUCZZfc5EOs1mg.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/yapay-zekayla-avrupadaki-82-belediyeyi-hedef-aldilar-12-milyon-kisinin-bilgileri-calindipng-03RC_NqgiUaV0sfqxWSW4A.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "تاریخ and طرح سریال جدید «hamal» با بازی اکتای کایnarca مشخص شد",
+   "summaryFa": "اولین معرفی‌نامه سریال «Hamal» با حضور بازیگرانی چون اکتای کایnarca، فحریه اوجن و جانر جیندوروک منتشر شد و تاریخ پخش آن تعیین گردید.",
+   "bodyFa": [
+    "سریال جدید «Hamal» که بازیگران سرشناسی همچون اکتای کایnarca، فحریه اوجن و جانر جیندوروک را در کنار یکدیگر جمع کرده است، با انتشار اولین تیزر معرفی شد. این مجموعه قرار است داستانی را روایت کند که از کوچه‌های پشت شهر استانبول آغاز شده و تا ساختمان‌های مدرن و پلازاها امتداد می‌یابد.",
+    "همچنین در کنار انتشار این تیزر، تاریخ پخش این پروژه تلویزیونی جدید نیز مشخص شده است تا مخاطبان در جریان زمان آغاز پخش آن قرار گیرند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "db393a8894fa",
@@ -762,9 +1243,20 @@
      "url": "https://www.haberturk.com/magazin/usta-yonetmen-temel-gursu-evinin-kapilarini-acti-3929998",
      "title": "Usta yönetmen evinin kapılarını açtı",
      "snippet": "Türk sinemasının usta yönetmeni Temel Gürsu, Ferdi Tayfur’dan Türkan Şoray’a, Fatma Girik’ten Cüneyt Arkın’a uzanan yıldızlarla geçen yıllarını ve unutulmaz filmlerinin hikayelerini paylaştı",
-     "published": "2026-11-25T10:52:05.000Z"
+     "published": "2026-11-25T10:52:05.000Z",
+     "titleFa": "کارگردان پیشکسوت درهای خانه‌اش را گشود"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "کارگردان پیشکسوت سینمای ترکیه درهای خانه‌اش را گشود",
+   "summaryFa": "تمتل گورسو، کارگردان نام‌آشنای سینمای ترکیه، در خانه‌اش در سیلوری میزبان شد و از سال‌های فعالیت و همکاری با ستارگان بزرگ سخن گفت. همسرش جانان پرور نیز در این گفتگو همراه او بود.",
+   "bodyFa": [
+    "تمتل گورسو، کارگردان پیشکسوت سینمای ترکیه که در ۲۴ سالگی وارد عرصه کارگردانی شده، با ساخت ۱۱۸ فیلم و ۱۷ مجموعه تلویزیونی به کارنامه پرباری دست یافته است. او در گفتگو در خانه‌اش واقع در سیلوری، از تجربیات خود و همکاری با نام‌های بزرگی همچون لطفی اکاد، ممدوح اون، عاطف ییلماز، ثریا دورو، اولکو اراکالین و ارتم اگیلمز یاد کرد.",
+    "این هنرمند همچنین خاطراتی از همکاری با ستارگانی چون فردی تایفور، تورکان شورای، فاطمه گیریک و جنید آرکین و همچنین ساخت آثار پرمخاطبی مانند «چشمه»، «دربدر»، «باتان گونش»، مجموعه «جانیسی» با بازی ابراهیم ارکال و سری «گرگیریه» را بازگو کرد. در این گفتگو همسرش جانان پرور که در کودکی با فیلم «شیطان» اثر متین ارکسان وارد سینما شده بود، او را همراهی نمود.",
+    "گورسو با اشاره به اینکه سینما تنها شغل اول و آخر او بوده است، توضیح داد که پس از پایان دبیرستان وارد استودیوهای آکار فیلم شده و تمامی مراحل فنی از جمله مونتاژ، سنکرون، آزمایشگاه و واحدهای صدا را تجربه کرده است. او تأکید کرد که آموزش و تجربه عملی او در صحنه‌های فیلمبرداری مسیر رسیدن به جایگاه کارگردانی را برایش هموار ساخته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "6a5e90bc8956",
@@ -791,7 +1283,8 @@
      "url": "https://www.haberturk.com/magazin/kazim-yarim-kalan-filminin-fragmani-yayinlandi-3930029",
      "title": "'Kazım: Yarım Kalan' filminin fragmanı yayınlandı",
      "snippet": "Kazım Koyuncu'nun hayatını anlatan 'Kazım: Yarım Kalan' filminin fragmanı paylaşıldı. Film, 1 Ocak'ta vizyona girecek",
-     "published": "2026-11-25T10:51:12.000Z"
+     "published": "2026-11-25T10:51:12.000Z",
+     "titleFa": "انتشار آنونس فیلم «کاظم: نیمه‌کاره»"
     }
    ],
    "videos": [
@@ -800,7 +1293,16 @@
      "id": "SPo5tViMB-Q"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "انتشار آنونس فیلم «کاظم: نیمه‌کاره»",
+   "summaryFa": "آنونس فیلم «کاظم: نیمه‌کاره» که به زندگی کاظم Koyuncu می‌پردازد، منتشر شد. این فیلم به کارگردانی Özcan Alper در تاریخ ۱ ژانویه اکران خواهد شد.",
+   "bodyFa": [
+    "آنونس فیلم سینمایی «کاظم: نیمه‌کاره» که داستان زندگی کاظم Koyuncu، هنرمند معروف را روایت می‌کند، به تازگی منتشر شد. این اثر به کارگردانی Özcan Alper ساخته شده و قرار است در تاریخ ۱ ژانویه روی پرده سینماها برود. در این فیلم، Cem Yiğit Üzümoğlu در نقش کاظم Koyuncu ظاهر شده و تلاش‌های او برای تلفیق موسیقی محلی با راک، مسیر هنری‌اش و روابط عاطفی‌اش را به تصویر کشیده است.",
+    "در کنار Cem Yiğit Üzümoğlu، بازیگران نام‌آشنای دیگری همچون Şifanur Gül، Serra Arıtürk، Aslıhan Kapanşahin، Ayça Bingöl، Fikret Kuşkan، Taner Birsel، Şevval Sam، İlker Sami Kılıç، Onur Durmaz، Baran Bölükbaşı و تعدادی دیگر در این پروژه حضور دارند. این فیلم محصول مشترک کمپانی‌های Nar Film، ARÇ Productions، Aktan Görsel Sanatlar و Neo Portföy است.",
+    "داستان فیلم به دوران کودکی در سایه فاجعه چرنوبیل، جنبش‌های جوانی دهه ۹۰، شکل‌گیری گروه راک لازی «Zuğaşi Berepe»، حضور در سریال «Gülbeyaz» و وداع زودهنگام این هنرمند می‌پردازد و زندگی پربار او را از نگاه خودش روایت می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "050ad0126e5d",
@@ -814,7 +1316,7 @@
    "video": null,
    "published": "2026-11-25T10:49:00.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -827,9 +1329,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/bisikleti-yere-vurularak-kirilar-kiz-cocuguna-sarkici-demet-akalindan-hediye-43390635",
      "title": "Bisikleti yere vurularak kırılan kız çocuğuna şarkıcı Demet Akalın’dan jest",
      "snippet": "Kocaeli’nin İzmit ilçesinde otomobiline zarar verdiğini iddia eden sürücünün annesi tarafından bisikleti defalarca yere vurularak kırılan 7 yaşındaki kız çocuğuna, şarkıcı Demet Akalın yeni bisiklet hediye etti.",
-     "published": "2026-11-25T10:49:00.000Z"
+     "published": "2026-11-25T10:49:00.000Z",
+     "titleFa": "هدیه خواننده دمت آکالین به دختربچه‌ای که دوچرخه‌اش با کوبیده شدن به زمین شکسته شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b06bcd88c01a1364d06bb94.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b06bcd88c01a1364d06bb94.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "هدیه دادن یک دستگاه دوچرخه جدید توسط دمت آکالین به دختربچه‌ای که دوچرخه‌اش شکسته شده بود",
+   "summaryFa": "خواننده معروف، دمت آکالین، برای یک دختربچه ۷ ساله که دوچرخه‌اش توسط مادر یک راننده شکسته شده بود، دوچرخه جدیدی هدیه فرستاد.",
+   "bodyFa": [
+    "در شهرستان ازمیت از توابع استان کوجاعلی، مادر یک راننده مدعی شد که یک دختربچه ۷ ساله به خودروی آن‌ها آسیب رسانده است. او در پی این ادعا، دوچرخه این کودک را چندین بار به زمین کوبید و آن را شکست.",
+    "پس از انتشار این رویداد، دمت آکالین، خواننده سرشناس، تصمیم گرفت برای دلجویی از این دختربچه، یک دستگاه دوچرخه جدید به او هدیه بدهد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4db23d86e52b",
@@ -856,9 +1376,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kizi-icin-hastaneye-kostu-43390555",
      "title": "Kızı için eczane koştu",
      "snippet": "Oyuncu Özge Özder ve eşi Sinan Güleryüz önceki akşam kızları Eva Luna ile Etiler Akmerkez’de objektiflere yansıdı.",
-     "published": "2026-11-25T09:40:00.000Z"
+     "published": "2026-11-25T09:40:00.000Z",
+     "titleFa": "Kızı için eczane koştu"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b06ad1c8c01a1364d06bb61.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b06ad1c8c01a1364d06bb61.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "Özge Özder و همسرش در مرکز خرید",
+   "summaryFa": "بازیگر Özge Özder به همراه همسر و فرزندشان در یک مرکز خرید دیده شدند.",
+   "bodyFa": [
+    "بازیگر Özge Özder به همراه همسرش Sinan Güleryüz و دخترشان Eva Luna، شب گذشته در مرکز خرید Akmerkez واقع در منطقه Etiler توسط دوربین‌ها ثبت شدند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "850afc259c34",
@@ -984,9 +1521,20 @@
      "url": "https://www.haberturk.com/magazin/foto/oglundan-jennifer-lopez-e-soru-anne-neden-pantolon-giymiyorsun-3929970",
      "title": "\"Anne neden pantolon giymiyorsun?\"",
      "snippet": "Sahneye parıltılı mayo tarzı tulumlarıyla çıkan Jennifer Lopez, yıllar önce oğlunun, bu kostüm tercihini sorguladığını anlattı",
-     "published": "2026-11-25T09:15:20.000Z"
+     "published": "2026-11-25T09:15:20.000Z",
+     "titleFa": "«Anne neden pantolon giymiyorsun?»"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "خاطره جنیفر لوپز از سوال عجیب پسرش درباره لباس‌های صحنه",
+   "summaryFa": "جنیفر لوپز در یک برنامه تلویزیونی فاش کرد که پسرش در کودکی از او پرسیده چرا روی صحنه پانتولون نمی‌پوشد. او همچنین درباره زندگی جدید خود پس از رفتن فرزندانش به دانشگاه صحبت کرد.",
+   "bodyFa": [
+    "جنیفر لوپز، خواننده و هنرمند، در گفتگو با برنامه تلویزیونی درو باریمور به مرور خاطرات گذشته و معرفی مستند جدید خود با عنوان «The JLo Show» پرداخت. او در این برنامه ماجرایی را از حدود ده سال پیش و زمان اجرای خود در لاس وگاس روایت کرد.",
+    "به گفته لوپز، پسرش مکس که در آن زمان حدود هفت یا هشت ساله بوده، پس از پایان اجرا به سراغ او رفته و با تعجب پرسیده است که چرا مادرش روی صحنه هیچ‌گاه پانتولون نمی‌‌پوشد. این هنرمند ۵۷ ساله توضیح داد که در پاسخ به پسرش گفته است او یک زن شو و رقاص است و این نوع لباس پوشیدن بخشی از شغل او محسوب می‌شود.",
+    "لوپز همچنین در بخش دیگری از صحبت‌های خود به تغییرات زندگی شخصی‌اش اشاره کرد و گفت که فرزندان دوقلوی ۱۸ ساله‌اش اکنون برای رفتن به دانشگاه از خانه رفته‌اند و او پس از سال‌ها برای نخستین بار زندگی بدون فرزند را تجربه می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "da196b0085ab",
@@ -1000,7 +1548,7 @@
    "video": null,
    "published": "2026-11-25T07:56:29.000Z",
    "scope": "dizi",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1013,9 +1561,27 @@
      "url": "https://www.sabah.com.tr/magazin/prof-dr-nihat-hatipoglu-ile-dosta-dogru-26-kasimda-atvde-7708999",
      "title": "Prof. Dr. Nihat Hatipoğlu ile Dosta Doğru 26 Kasım'da atv'de!",
      "snippet": "Prof. Dr. Nihat Hatipoğlu ile Dosta Doğru, 26 Kasım Perşembe günü yeni bölümüyle izleyici karşısına çıkıyor. Peygamber Efendimiz, Ehli Beyt ve sahabenin hayatından çarpıcı kesitlerin aktarıldığı programda... Devamı için tıklayınız",
-     "published": "2026-11-25T07:56:29.000Z"
+     "published": "2026-11-25T07:56:29.000Z",
+     "titleFa": "برنامه «به سوی دوست با پروفسور دکتر نهاد هاتیموغلو» ۲۶ آبان در شبکه آ تی وی!"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/6c281a/1200/675/0/450/1365/1216?u=https://isbh.tmgrup.com.tr/sbh/2026/11/25/1795593191816.jpg",
+    "https://iasbh.tmgrup.com.tr/0edb69/752/395/0/475/1365/1191?u=https://isbh.tmgrup.com.tr/sbh/2026/11/25/1795593191816.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "پخش برنامه «به سوی دوست با پروفسور دکتر نهاد هاتیموغلو» در ۲۶ آبان از شبکه آ تی وی",
+   "summaryFa": "برنامه «به سوی دوست» با اجرای پروفسور دکتر نهاد هاتیموغلو روز پنجشنبه ۲۶ آبان با بخش‌های جدید از تلویزیون پخش می‌شود. در این قسمت قرار است موضوع «کبر» به عنوان یکی از گناهان بزرگ مورد بحث و بررسی قرار گیرد.",
+   "bodyFa": [
+    "برنامه تلویزیونی «به سوی دوست با پروفسور دکتر نهاد هاتیموغلو» قرار است در روز پنجشنبه ۲۶ آبان ماه با قسمتی جدید روی آنتن شبکه آ تی وی برود. این برنامه مذهبی به روایت بخش‌های جذاب و تاثیرگذار از زندگی پیامبر اسلام، اهل بیت و اصحاب می‌پردازد.",
+    "در قسمت جدید این برنامه، موضوع «کبر» که به عنوان یکی از گناهان بزرگ شناخته می‌شود، زیر ذره‌بین قرار گرفته و درباره آن گفتگو خواهد شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "dc8d43b9e44f",
@@ -1044,7 +1610,8 @@
      "url": "https://www.milliyet.com.tr/magazin/susuz-yazin-yayin-tarihi-belli-oldu-7707545",
      "title": "Susuz Yaz'ın yayın tarihi belli oldu",
      "snippet": "HABER MERKEZİ - Necati Cumalı'nın toplumsal gerçekçi eserinden uyarlanan ve Metin Erksan'ın aynı adla sinemaya taşıdığı Susuz Yaz'ın televizyon uyarlamasının yayın tarihi açıklandı. Yayınlanan yeni tanıtımda, Kanal D'nin büyük merak uyandıran projesinin 1 Aralık Salı akşamı ilk bölümüyle izleyiciyle",
-     "published": "2026-11-25T07:43:15.000Z"
+     "published": "2026-11-25T07:43:15.000Z",
+     "titleFa": "تاریخ پخش «تابستان بی‌آب» مشخص شد"
     },
     {
      "source": "hurriyet-kelebek",
@@ -1052,41 +1619,51 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/susuz-yazin-yayin-tarihi-belli-oldu-1-aralikta-kanal-dde-basliyor-43390299",
      "title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor!",
      "snippet": "Kanal D'nin çekimleri Adana'da devam eden yeni dizisi Susuz Yaz'ın yayın tarihi belli oldu. Güçlü oyuncu kadrosu ve sürükleyici hikâyesiyle izleyenleri 70'li yıllara götürmeye hazırlanan yapım, 1 Aralık Salı akşamı saat 20.00'de ekran yolculuğuna başlayacak.",
-     "published": "2026-11-25T07:54:00.000Z"
+     "published": "2026-11-25T07:54:00.000Z",
+     "titleFa": "تاریخ پخش «تابستان بی‌آب» مشخص شد: ۱ دسامبر در کانال د آغاز می‌شود!"
     }
    ],
    "mergedIds": [
     "8fb08bdc5a9f"
-   ]
-  },
-  {
-   "id": "43a49921564a",
-   "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-kizi-25-haftalik-dogdu-adini-acikladi-p384187",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ufuk Beydemir'in kızı 25 haftalık doğdu: Adını açıkladı",
-   "snippet": "'Ay Tenli Kadın' şarkısıyla tanınan Ufuk Beydemir, Hollandalı şarkıcı Sharon Kovacs ile kızlarını kucaklarına aldı. 25 h...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ufukbeydemirjpg-dSvRmozQXkm8Set9F5zLWg.jpg",
-   "video": null,
-   "published": "2026-11-25T07:28:19.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b068d411c3369444cf1e57d.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b068d411c3369444cf1e57d.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "تاریخ پخش سریال «تابستان بی‌آب» مشخص شد",
+   "summaryFa": "تاریخ پخش سریال تلویزیونی «تابستان بی‌آب» محصول کانال د اعلام شد. این مجموعه قرار است از اول آذر ماه روی آنتن برود.",
+   "bodyFa": [
+    "تاریخ پخش سریال تلویزیونی «تابستان بی‌آب» که بر اساس اثر واقع‌گرای اجتماعی نجاتی جومالی و اقتباس سینمایی متین ارکسان ساخته شده، مشخص شد.",
+    "این پروژه جدید شبکه کانال د قرار است در تاریخ ۱ دسامبر (اول آذر) پخش خود را آغاز کند و مخاطبان را به دهه ۷۰ میلادی ببرد."
+   ],
+   "comparison": {
+    "agree": [
+     "هر دو منبع اعلام کرده‌اند که تاریخ پخش سریال «تابستان بی‌آب» در شبکه کانال د مشخص شده و این سریال در تاریخ ۱ دسامبر (اول آذر) پخش خواهد شد."
+    ],
+    "differ": [
+     {
+      "topic": "جزئیات زمان دقیق پخش و فضای داستان",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "به پخش قسمت اول در شب سه‌شنبه اول دسامبر اشاره کرده است."
+       },
+       {
+        "source": "hurriyet-kelebek",
+        "text": "علاوه بر روز سه‌شنبه اول دسامبر، ساعت ۲۰:۰۰ را ذکر کرده و افزوده است که داستان سریال در دهه ۷۰ میلادی می‌گذرد و فیلمبرداری آن در آدانا ادامه دارد."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
    },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-kizi-25-haftalik-dogdu-adini-acikladi-p384187",
-     "title": "Ufuk Beydemir'in kızı 25 haftalık doğdu: Adını açıkladı",
-     "snippet": "'Ay Tenli Kadın' şarkısıyla tanınan Ufuk Beydemir, Hollandalı şarkıcı Sharon Kovacs ile kızlarını kucaklarına aldı. 25 h...",
-     "published": "2026-11-25T07:28:19.000Z"
-    }
-   ]
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "2390f2fe5cdc",
@@ -1113,9 +1690,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/film-davasi-reddedildi-43390272",
      "title": "Film davası reddedildi",
      "snippet": "PARİS’te 26 yıl önce hayatını kaybeden Ahmet Kaya’nın hayatını konu alan “İki Gözüm Ahmet” adlı filmle ilgili davada, mahkeme kararını açıkladı.",
-     "published": "2026-11-25T07:23:16.000Z"
+     "published": "2026-11-25T07:23:16.000Z",
+     "titleFa": "دعوای فیلم رد شد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b068cbc9a30875a04579efc.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b068cbc9a30875a04579efc.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "رد دعوای مربوط به فیلم زندگی احمد کایا",
+   "summaryFa": "دادگاهی در خصوص فیلم سینمایی «دو چشم من احمد» که به زندگی احمد کایا می‌پردازد، رأی خود را صادر کرد.",
+   "bodyFa": [
+    "دادگاهی در فرانسه تصمیم خود را درباره پرونده قضایی مربوط به فیلم «دو چشم من احمد» که داستان زندگی احمد کایا، هنرمند درگذشته در پاریس را روایت می‌کند، اعلام کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "3c9a27412e42",
@@ -1129,7 +1723,7 @@
    "video": null,
    "published": "2026-11-25T07:14:22.000Z",
    "scope": "linked",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [
      "sevdan-bir-ates"
@@ -1146,7 +1740,8 @@
      "url": "https://www.haberturk.com/magazin/mirza-ve-leyla-nin-askini-gecmisin-yaralari-siniyor-3929932",
      "title": "Mirza ve Leyla'nın aşkını geçmişin yaraları sınıyor!",
      "snippet": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş', heyecan dolu yeni bölümüyle bu akşam saat 20.00'de izleyiciyle buluşuyor",
-     "published": "2026-11-25T07:14:22.000Z"
+     "published": "2026-11-25T07:14:22.000Z",
+     "titleFa": "عشق میرزا و لیلا توسط زخم های گذشته آزموده می شود!"
     }
    ],
    "videos": [
@@ -1159,7 +1754,15 @@
      "id": "CDoZehvBCCw"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "قسمت جدید سریال «عشقت یک آتش است» امشب پخش می شود",
+   "summaryFa": "قسمت جدید سریال «عشقت یک آتش است» امشب ساعت ۲۰ از شبکه شو تی‌وی پخش می شود. در این قسمت، داستان عشق میرزا و لیلا با زخم های گذشته و حوادث جدید روبرو است.",
+   "bodyFa": [
+    "شبکه شو تی‌وی اعلام کرد که قسمت جدید سریال محبوب «عشقت یک آتش است» امشب ساعت ۲۰:۰۰ به روی آنتن می‌رود. تهیه‌کنندگی این سریال را شرکت سی‌ان‌پی فیلم بر عهده دارد و مورات اونالمیش و اوزگه اوزاجار نقش‌های اصلی یعنی میرزا and لیلا را ایفا می‌کنند. بازیگران دیگری همچون گوکچه ایوب‌اوغلو، ستاره آکباش، تانر روملی و دیگر هنرمندان نیز در این مجموعه حضور دارند.",
+    "در قسمت دوازدهم این سریال، پس از هفت سال دوری و درد، درهای خوشبختی برای لیلا، میرزا and هوما باز می شود تا زندگی جدیدی را آغاز کنند. با این حال، حوادث دیگری در خاندان کوزاکلی در جریان است؛ از جمله وضعیت وخیم وسلات که برای نجات لیلا تا مرز مرگ رفته است، نقشه پنهانی یمان برای فیصل، and تلاش دستستان برای یافتن یک ویدیوی مرموز که می تواند همه معادلات را بر هم بزند. گذشته تاریک و زخم های کهنه همچنان عشق میرزا and لیلا را به چالش می کشند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f9878ffd60ae",
@@ -1186,9 +1789,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/sezen-aksudan-yeni-klip-43390252",
      "title": "Sezen Aksu’dan yeni klip",
      "snippet": "SEZEN Aksu’nun nisan ayında yayınlanan ‘Biz Yeniden Başlarız’ albümünde yer alan ‘Kiraz Mevsimi’ şarkısı, video klibiyle dinleyiciyle buluştu.",
-     "published": "2026-11-25T07:10:14.000Z"
+     "published": "2026-11-25T07:10:14.000Z",
+     "titleFa": "موزیک ویدیو جدید از سزن آکسو"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b0689cb9a30875a04579ed0.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b0689cb9a30875a04579ed0.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "انتشار موشن‌گرافی یا ویدیوی جدید برای آهنگ سزن آکسو",
+   "summaryFa": "آهنگ «کراز مِوِسمی» از آلبوم جدید سزن آکسو همراه با ویدیو منتشر شد.",
+   "bodyFa": [
+    "آهنگ «کراز مِوِسمی» (فصل گیلاس) که متعلق به آلبوم «بیزی ینیدَن باشلارِز» (ما دوباره شروع می‌کنیم) اثر سزن آکسو است، با ویدیوی جدید خود در دسترس مخاطبان قرار گرفت.",
+    "این آلبوم در ماه آوریل منتشر شده بود و اکنون ترانه مذکور دارای ویدیو شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ed293aa7754e",
@@ -1332,7 +1953,8 @@
      "url": "https://www.sozcu.com.tr/ozge-ozacar-in-sevgilisi-hasrete-dayanamadi-bir-gunluk-izin-icin-kapadokya-ya-gitti-p384210",
      "title": "Özge Özacar'ın sevgilisi hasrete dayanamadı: Bir günlük izin için Kapadokya'ya gitti",
      "snippet": "Sevdan Bir Ateş dizisinin güzel oyuncusu Özge Özacar, yoğun çekim temposu nedeniyle bir süredir sevgilisi Oğuz Özmen'den...",
-     "published": "2026-11-25T06:18:58.000Z"
+     "published": "2026-11-25T06:18:58.000Z",
+     "titleFa": "معشوق اوزگه اوزآجار نتوانست دوری را تحمل کند: برای یک روز مرخصی به کاپادوکیه رفت"
     }
    ],
    "images": [
@@ -1343,7 +1965,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hulyaavsarkizidamadijpg-sTcP3dJHGE6Kw-jRuiGyQQ.jpg?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ufukbeydemirjpg-dSvRmozQXkm8Set9F5zLWg.jpg?w=288&h=162&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "سفر Oğuz Özmen برای دیدن اوزگه اوزآجار به کاپادوکیه",
+   "summaryFa": "اوزگه اوزآجار، بازیگر سریال «عشقت یک آتش است»، به دلیل فشرده بودن برنامه‌های فیلمبرداری مدتی از نامزدش دور بود. Oğuz Özmen از یک روز مرخصی این بازیگر استفاده کرد و به کاپادوکیه رفت.",
+   "bodyFa": [
+    "اوزگه اوزآجار، بازیگر سریال «عشقت یک آتش است»، به دلیل شرایط کاری و حجم بالای فیلمبرداری در کاپادوکیه، مدتی بود که نمی‌تواند زمان زیادی را با نامزد خود، Oğuz Özmen، سپری کند و این زوج از یکدیگر دور بودند.",
+    "بر اساس اطلاعات منتشرشده، Oğuz Özmen تصمیم گرفت از فرصت یک روز مرخصی این بازیگر استفاده کند و برای دیدن او راهی کاپادوکیه شود تا فاصله و دوری موقت آن‌ها کاهش یابد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a3e1e2268f71",
@@ -1452,9 +2082,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-oyuncu-kredi-karti-borcunu-bile-odeyemiyordu-telefonla-gelen-teklif-hayatini-kurtardi-bu-dizide-oynamasiydim-kesin-43389653",
      "title": "Ünlü oyuncu kredi kartı borcunu bile ödeyemez olmuştu... Telefonla gelen teklif hayatını kurtardı... Bu dizide oynamasıydım, kesin batmıştım!",
      "snippet": "Televizyon ekranından ya da sinemadan tanıdığınız oyuncuların hiç maddi sıkıntı yaşamadığını sanıyorsanız büyük bir yanılgı içindesiniz demektir...",
-     "published": "2026-11-25T05:48:00.000Z"
+     "published": "2026-11-25T05:48:00.000Z",
+     "titleFa": "بازیگر مشهور حتی نمی‌توانست بدهی کارت اعتباری‌اش را بدهد... پیشنهادی که با تلفن آمد زندگی‌اش را نجات داد... اگر در این سریال بازی نمی‌کردم، حتماً ورشکسته شده بودم!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b05a24a8c01a1364d06b97b.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b05a24a8c01a1364d06b97b.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "بازیگر مشهور از مشکلات مالی و نجات یافتن با یک پیشنهاد تلفنی گفت",
+   "summaryFa": "یک بازیگر شناخته‌شده تلویزیون و سینما اعلام کرد که با مشکلات شدید مالی روبه‌رو بوده و حتی توان پرداخت بدهی کارت اعتباری خود را نداشته است. دریافت یک پیشنهاد کاری از طریق تلفن توانست زندگی او را نجات دهد.",
+   "bodyFa": [
+    "بسیاری از مخاطبان تصور می‌کنند که بازیگران سینما و تلویزیون هرگز با مشکلات مالی مواجهچ نمی‌شوند، اما این گزارش نشان می‌دهد که این تصور کاملاً اشتباه است.",
+    "این بازیگر مشهور که حتی از پس پرداخت بدهی کارت اعتباری خود برنمی‌آمد، اعتراف کرد که دریافت یک پیشنهاد تلفنی برای بازی در یک سریال، او را از ورشکستگی قطعی نجات داده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "c0d686733ebe",
@@ -6151,6 +6799,35 @@
      "title": "Miss Turkey birincisi Hande Subaşı ikinci kez gelin oluyor: Nikah yeri bile belli oldu",
      "snippet": "2005 Miss Turkey birincisi ve oyuncu Hande Subaşı yeni bir aşka yelken açmıştı. Geçen hafta Nişantaşı'nda el ele görüntü...",
      "published": "2026-11-23T05:50:27.000Z"
+    }
+   ]
+  },
+  {
+   "id": "be027f170e71",
+   "url": "https://www.sozcu.com.tr/dilan-cicek-deniz-den-birkan-nasuhoglu-na-romantik-sozler-hayat-arkadasim-p383581",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Dilan Çiçek Deniz'den Birkan Nasuhoğlu'na romantik sözler: \"Hayat arkadaşım\"",
+   "snippet": "Oyuncu Dilan Çiçek Deniz, bir yıldır aşk yaşadığı müzisyen sevgilisi Birkan Nasuhoğlu ile çıktığı yolculuktan romantik k...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/789jpg--cuMzk3zoEqbnEHAte2-PQ.jpg",
+   "video": null,
+   "published": "2026-11-23T05:27:11.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/dilan-cicek-deniz-den-birkan-nasuhoglu-na-romantik-sozler-hayat-arkadasim-p383581",
+     "title": "Dilan Çiçek Deniz'den Birkan Nasuhoğlu'na romantik sözler: \"Hayat arkadaşım\"",
+     "snippet": "Oyuncu Dilan Çiçek Deniz, bir yıldır aşk yaşadığı müzisyen sevgilisi Birkan Nasuhoğlu ile çıktığı yolculuktan romantik k...",
+     "published": "2026-11-23T05:27:11.000Z"
     }
    ]
   },
@@ -11340,53 +12017,6 @@
    "aiTries": 1
   },
   {
-   "id": "eb1e01f5e2de",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/seda-sayan-ucaktan-paylasti-cok-yorulduk-gidiyoruz-yarimle-7704802",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Seda Sayan uçaktan paylaştı! 'Çok yorulduk gidiyoruz yârimle'",
-   "snippet": "Şarkıcı Seda Sayan ve Çağlar Ökten'in mutlu evliliği devam ediyor. Her fırsatta eşine aşkını ilan eden Sayan, yolculuk öncesi uçak içinden paylaştığı fotoğrafa 'Çok yorulduk gidiyoruz yârimle' notunu düştü.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b00aed31c3369444cf1d10a.jpg",
-   "video": null,
-   "published": "2026-11-20T20:36:19.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/seda-sayan-ucaktan-paylasti-cok-yorulduk-gidiyoruz-yarimle-7704802",
-     "title": "Seda Sayan uçaktan paylaştı! 'Çok yorulduk gidiyoruz yârimle'",
-     "snippet": "Şarkıcı Seda Sayan ve Çağlar Ökten'in mutlu evliliği devam ediyor. Her fırsatta eşine aşkını ilan eden Sayan, yolculuk öncesi uçak içinden paylaştığı fotoğrafa 'Çok yorulduk gidiyoruz yârimle' notunu düştü.",
-     "published": "2026-11-20T20:36:19.000Z",
-     "titleFa": "سدا سایان از هواپیما عکس منتشر کرد! «خیلی خسته شدیم با عشقم می‌رویم»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6b00aed31c3369444cf1d10a.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6b00aed31c3369444cf1d10a.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "سدا سایان از داخل هواپیما عکس و خبر سفر خود را منتشر کرد",
-   "summaryFa": "سدا سایان و چاغلار اوکتن عازم سفر شدند و این خواننده تصویری از داخل هواپیما به همراه یادداشتی عاشقانه منتشر کرد.",
-   "bodyFa": [
-    "زندگی مشترک سدا سایان، خواننده، و چاغلار اوکتن همچنان به خوبی ادامه دارد. این زوج که بارها علاقه خود را به یکدیگر ابراز کرده‌اند، بار دیگر توجه مخاطبان را به خود جلب نمودند.",
-    "سدا سایان پیش از آغاز سفر خود، عکسی از داخل هواپیما در صفحه شخصی‌اش به اشتراک گذاشت. او روی این عکس یادداشتی با مضمون خستگی زیاد و سفر با همسرش نوشت."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
    "id": "7bddf1ae303d",
    "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-in-12-nci-bolumunden-ilk-tanitim-3928913",
    "source": "haberturk-magazin",
@@ -11431,45 +12061,6 @@
    "bodyFa": [
     "نخستین تیزر از قسمت دوازدهم سریال پرطرفدار «عشقت یک آتش است» ساخته شرکت سی‌ان‌پی فیلم منتشر شد و در دسترس مخاطبان قرار گرفت.",
     "قسمت جدید این سریال قرار است چهارشنبه‌شب ساعت ۲۰:۰۰ از شبکه شو تی‌وی پخش شود."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "42fb978f9b84",
-   "url": "https://www.haberturk.com/magazin/ajda-pekkan-uc-yavruya-yuva-oldu-3928912",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Üç yavruya yuva oldu",
-   "snippet": "Ajda Pekkan, oyuncu Nilsu Berfin Aktaş'ın köpeğinin dünyaya getirdiği üç yavruyu sahiplendi. Yavrulara Chanel, Coco ve Jordan isimleri verildi",
-   "image": "https://im.haberturk.com/l/2026/11/20/ver1795204620/3928912/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-20T20:00:18.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/ajda-pekkan-uc-yavruya-yuva-oldu-3928912",
-     "title": "Üç yavruya yuva oldu",
-     "snippet": "Ajda Pekkan, oyuncu Nilsu Berfin Aktaş'ın köpeğinin dünyaya getirdiği üç yavruyu sahiplendi. Yavrulara Chanel, Coco ve Jordan isimleri verildi",
-     "published": "2026-11-20T20:00:18.000Z",
-     "titleFa": "خانه برای سه توله"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "اجدا پکان توله‌های سگ نیلسو برفین اکتاش را به سرپرستی گرفت",
-   "summaryFa": "اجدا پکان سه توله سگی را که متعلق به سگ بازیگر، نیلسو برفین اکتاش بودند، به سرپرستی پذیرفت. سینان آکچیل در این امر واسطه شده و از پکان درخواست حمایت کرده بود.",
-   "bodyFa": [
-    "سینان آکچیل با انتشار مطلبی در حساب کاربری خود در شبکه‌های اجتماعی توجه‌ها را به خود جلب کرد. او برای سه توله سگی که متعلق به سگ بازیگر مشهور، نیلسو برفین اکتاش بودند، به دنبال سرپرست می‌گشت و در این زمینه از اجدا پکان درخواست کمک کرد.",
-    "اجدا پکان پس از این درخواست، هر سه توله را به سرپرستی پذیرفت و به آن‌ها خانه داد. برای این سه توله نام‌های شانل، کوکو و جردن انتخاب شده است."
    ],
    "ai": true,
    "aiTries": 1
@@ -11560,94 +12151,6 @@
    "bodyFa": [
     "ادا اجه، بازیگر مطرح ترکیه‌ای، عکس‌های جدیدی از خود به همراه دخترش مینا ایپک در شبکه‌های اجتماعی به اشتراک گذاشت و یادداشت «کوچک بود، بزرگ شد» را در کنار آن‌ها قرار داد. این بازیگر ۳۶ ساله در سال ۲۰۲۳ با بوراخان تونجر، بسکتبالیست تیم گالاتاسرای ازدواج کرد و این زوج در سال ۲۰۲۴ صاحب نخستین فرزند خود شدند.",
     "ادا اجه همچنین درباره تغییر ترجیحات شغلی خود پس از ازدواج و تجربه مادری صحبت کرده است. به گفته او، وی پس از تشکیل خانواده در انتخاب نقش‌هایش دقت بیشتری می‌کند و ترجیح می‌دهد در صحنه‌های بوسه یا صحنه‌های باز بازی نکند و پوشش خود را نیز با حساسیت بیشتری انتخاب کند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "822373bddd3b",
-   "url": "https://www.haberturk.com/magazin/foto/sila-hayatimda-bircok-donum-noktasi-var-3928901",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"11 yaşında ailemden ayrıldım\"",
-   "snippet": "Sıla, hayatındaki dönüm noktalarını anlattı. Çocukluk yıllarından müzik kariyerine ve babasının vefatına kadar kendisini etkileyen süreçlerden bahseden şarkıcı, \"Hayatımda birden çok dönüm noktası var\" dedi",
-   "image": "https://im.haberturk.com/l/2026/11/20/ver1795199946/3928901/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-20T18:45:31.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/sila-hayatimda-bircok-donum-noktasi-var-3928901",
-     "title": "\"11 yaşında ailemden ayrıldım\"",
-     "snippet": "Sıla, hayatındaki dönüm noktalarını anlattı. Çocukluk yıllarından müzik kariyerine ve babasının vefatına kadar kendisini etkileyen süreçlerden bahseden şarkıcı, \"Hayatımda birden çok dönüm noktası var\" dedi",
-     "published": "2026-11-20T18:45:31.000Z",
-     "titleFa": "در ۱۱ سالگی از خانواده‌ام جدا شدم"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "اظهارات سیلا درباره نقاط عطف زندگی، نحوه ترانه‌سرایی و چالش‌های موفقیت",
-   "summaryFa": "سیلا گنج‌اوغلو، خواننده سرشناس ترکیه‌ای، در یک برنامه تصویری از نقاط عطف زندگی و چالش‌های مسیر هنری خود سخن گفت. او همچنین به سخت‌گیری‌های خود در زمان نوشتن ترانه‌ها اشاره کرد.",
-   "bodyFa": [
-    "سیلا گنج‌اوغلو، خواننده و ترانه‌سرای مطرح، با حضور در برنامه «Zaten Şov» با اجرای ملیس ایشیتن، درباره جنبه‌های مختلف زندگی شخصی و حرفه‌ای خود به گفتگو پرداخت. او با اشاره به اینکه زندگی‌اش نقاط عطف متعددی داشته است، به دورانی از جمله جدا شدن از خانواده در ۱۱ سالگی برای تحصیل زبان فرانسوی، ورود به دنیای موسیقی و درگذشت پدرش اشاره نمود.",
-    "این هنرمند درباره تمرکز شدید خود هنگام نوشتن قطعات موسیقی توضیح داد که برای نگارش ترانه «Yan Benimle»، خود را به مدت هشت ساعت در اتاق خواب حبس کرده و حتی در این مدت آب هم ننوشیده است. او این حالت را نه یک دوره افسردگی، بلکه روندی پرفشار و تنش‌زا توصیف کرد.",
-    "سیلا همچنین با اذعان به داشتن شخصیتی بسیار کنترل‌گر، حفظ موفقیت را یکی از دشوارترین کارهای جهان دانست. به گفته او، مسیر رسیدن به موفقیت همواره آسان نیست و ماندن در سطح اول نیازمند صبر، اعصابی فولادین، به‌روز ماندن و پذیرش تمامی مخاطرات این مسیر است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "26bae6933e37",
-   "url": "https://www.milliyet.com.tr/magazin/sette-talihsiz-kaza-boran-kuzum-ayagindan-sakatlandi-iste-son-durumu-7704722",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Sette talihsiz kaza! Boran Kuzum ayağından sakatlandı: İşte son durumu",
-   "snippet": "HABER MERKEZİ - 'Vatanım Sensin', 'Saygı ve Aşk-ı Memnu (Bihter)' gibi projelerdeki performansıyla adından söz ettiren oyuncu Boran Kuzum, kariyeri ve sosyal medya paylaşımlarıyla magazin gündeminde yer almaya devam ediyor.Geçtiğimiz günlerde Amerika'ya yerleşti iddialarını yalanlayan Kuzum, dijital bir platformda yayımlanan dizisinin ardından yurt dışında verdiği röportajlarla yabancı basın tarafından yoğun ilgi görmüştü. SETTE AYAĞINDAN SAKATLANDI Özel hayatıyla adından sıkça söz ettiren 34 ya",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b00912d1c3369444cf1d03a.jpg",
-   "video": null,
-   "published": "2026-11-20T18:39:53.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/sette-talihsiz-kaza-boran-kuzum-ayagindan-sakatlandi-iste-son-durumu-7704722",
-     "title": "Sette talihsiz kaza! Boran Kuzum ayağından sakatlandı: İşte son durumu",
-     "snippet": "HABER MERKEZİ - 'Vatanım Sensin', 'Saygı ve Aşk-ı Memnu (Bihter)' gibi projelerdeki performansıyla adından söz ettiren oyuncu Boran Kuzum, kariyeri ve sosyal medya paylaşımlarıyla magazin gündeminde yer almaya devam ediyor.Geçtiğimiz günlerde Amerika'ya yerleşti iddialarını yalanlayan Kuzum, dijital",
-     "published": "2026-11-20T18:39:53.000Z",
-     "titleFa": "حادثه ناگوار در صحنه! بوران کوزوم از ناحیه پا آسیب دید: وضعیت اخیر او چگونه است"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6b00912d1c3369444cf1d03a.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6b00912d1c3369444cf1d03a.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "برan کوزوم در صحنه فیلمبرداری دچار حادثه شد",
-   "summaryFa": "بوران کوزوم، بازیگر شناخته‌شده، در حین کار در صحنه فیلمبرداری از ناحیه پا آسیب دید. او پس از این اتفاق، درباره وضعیت سلامتی خود توضیحاتی ارائه داد.",
-   "bodyFa": [
-    "بوران کوزوم، بازیگر مطرحی که با نقش‌آفرینی در پروژه‌هایی مانند «وطنم تویی»، «سایگی» و «بیهتر» شناخته می‌شود و اخیراً شایعات اقامتش در آمریکا را رد کرده بود، دچار حادثه شد.",
-    "او در حین حضور در صحنه فیلمبرداری با یک اتفاق ناگوار مواجه شد و از ناحیه پا آسیب دید که این موضوع مایه نگرانی طرفدارانش شد.",
-    "این بازیگر پس از بروز حادثه در صحنه، درباره آخرین وضعیت سلامتی خود صحبت کرده و اطلاعاتی به هوادارانش داده است."
    ],
    "ai": true,
    "aiTries": 1
