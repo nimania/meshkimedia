@@ -1,6 +1,755 @@
 {
- "updated": "2026-11-26T09:35:12.018Z",
+ "updated": "2026-11-26T17:35:13.026Z",
  "items": [
+  {
+   "id": "9e892d28dc33",
+   "url": "https://www.milliyet.com.tr/magazin/var-misin-yok-musun-tarihinde-bir-ilk-esranin-performansi-saskina-cevirdi-7708724",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Var Mısın Yok Musun tarihinde bir ilk! Esra'nın performansı şaşkına çevirdi",
+   "snippet": "HABER MERKEZİ - Esra Erol'un sunduğu Var Mısın Yok Musun, son bölümüyle gündem oldu. Yarışmanın 51'inci bölümünde mücadele eden 31 yaşındaki görme engelli Esra Durmuş, açtırdığı kutular ve verdiği kararlarla geceye damga vurdu. Yarışmaya katılma amacının yalnızca ödül kazanmak olmadığını belirten Esra, kazanacağı parayla seyahat etmek, farklı kültürleri tanımak ve kendisi gibi dezavantajlı bireyler için farkındalık oluşturmak istediğini söyledi. VAR MISIN YOK MUSUN TARİHİNDE BİR İLK Yarışmanın i",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b0847a8c00aca18cb4b1b08.jpg",
+   "video": null,
+   "published": "2026-11-26T14:52:24.000Z",
+   "scope": "dizi",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/var-misin-yok-musun-tarihinde-bir-ilk-esranin-performansi-saskina-cevirdi-7708724",
+     "title": "Var Mısın Yok Musun tarihinde bir ilk! Esra'nın performansı şaşkına çevirdi",
+     "snippet": "HABER MERKEZİ - Esra Erol'un sunduğu Var Mısın Yok Musun, son bölümüyle gündem oldu. Yarışmanın 51'inci bölümünde mücadele eden 31 yaşındaki görme engelli Esra Durmuş, açtırdığı kutular ve verdiği kararlarla geceye damga vurdu. Yarışmaya katılma amacının yalnızca ödül kazanmak olmadığını belirten Es",
+     "published": "2026-11-26T14:52:24.000Z"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0847a8c00aca18cb4b1b08.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0847a8c00aca18cb4b1b08.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "f95f3df6f6e1",
+   "url": "https://www.haberturk.com/magazin/foto/halsey-in-meksika-tatili-3930386",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Meksika tatili",
+   "snippet": "Dünyaca ünlü şarkıcı Halsey, Meksika tatilinde cesur bikinisiyle fit görünümünü sergiledi",
+   "image": "https://im.haberturk.com/l/2026/11/26/ver1795703032/3930386/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-26T14:39:10.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/halsey-in-meksika-tatili-3930386",
+     "title": "Meksika tatili",
+     "snippet": "Dünyaca ünlü şarkıcı Halsey, Meksika tatilinde cesur bikinisiyle fit görünümünü sergiledi",
+     "published": "2026-11-26T14:39:10.000Z",
+     "titleFa": "تعطیلات مکزیک"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "تعطیلات هالسی در مکزیک",
+   "summaryFa": "خواننده مشهور آمریکایی، هالسی، تصاویری از تعطیلات خود در مکزیک و استراحت در ساحل منتشر کرد. این سفر پس از دوره‌ای از مشکلات جدی سلامتی و انجام شیمی‌درمانی برای این هنرمند رقم خورده است.",
+   "bodyFa": [
+    "هالسی، خواننده ۳۲ ساله و مشهور آمریکایی که نام اصلی او اشلی نیکولت فرانگیپانه است، تعطیلات خود را در مکزیک سپری کرد. او در این سفر ساحلی با پوشیدن بیکینی، تناسب اندام خود را به نمایش گذاشت و تصاویری از استراحت، آفتاب‌گرفتن و شنای خود در اkyانوس را در حساب کاربری‌اش در شبکه‌های اجتماعی با مخاطبان به اشتراک گذاشت.",
+    "این سفر تفریحی در حالی انجام شد که این خواننده در سال گذشته به دلیل ابتلا به بیماری لوپوس و اختلال لنفوپرولیفراتیو سلول T تحت شیمی‌درمانی قرار گرفته بود و با مشکلات سلامتی دست و پنجه نرم می‌کرد. او پیش‌تر در سال ۲۰۲۴ اعلام کرده بود که با وجود این بیماری‌های نادر، شرایطش تحت کنترل یا در مرحله بهبود است.",
+    "هالسی همچنین سابقه بستری شدن در بیمارستان به دلیل واکنش‌های شدید آلرژیک را دارد و پیش‌تر گفته بود که وضعیت سلامتی‌اش پس از بارداری و زایمان تغییرات زیادی کرده است. بررسی‌ها درباره علت اصلی برخی از مشکلات سلامتی این هنرمند همچنان ادامه دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "818cec7a1461",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/hazar-erguclu-hakkinda-yayilan-iddialara-ates-puskurdu-yargiya-basvuracak-7708709",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Hazar Ergüçlü hakkında yayılan iddialara ateş püskürdü! Yargıya başvuracak",
+   "snippet": "Oyuncu Hazar Ergüçlü'nün Yılmaz Erdoğan ve İnci Taneleri dizisi hakkında söylemediği sözler sosyal medyada yayılınca ünlü oyuncudan açıklama geldi. Paylaşımlara tepki gösteren Ergüçlü, iddiaların yalan ve iftiradan ibaret olduğunu belirterek hukuki yollara başvuracağını açıkladı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b084271c00aca18cb4b1ae6.jpg",
+   "video": null,
+   "published": "2026-11-26T14:34:16.000Z",
+   "scope": "dizi",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/hazar-erguclu-hakkinda-yayilan-iddialara-ates-puskurdu-yargiya-basvuracak-7708709",
+     "title": "Hazar Ergüçlü hakkında yayılan iddialara ateş püskürdü! Yargıya başvuracak",
+     "snippet": "Oyuncu Hazar Ergüçlü'nün Yılmaz Erdoğan ve İnci Taneleri dizisi hakkında söylemediği sözler sosyal medyada yayılınca ünlü oyuncudan açıklama geldi. Paylaşımlara tepki gösteren Ergüçlü, iddiaların yalan ve iftiradan ibaret olduğunu belirterek hukuki yollara başvuracağını açıkladı.",
+     "published": "2026-11-26T14:34:16.000Z",
+     "titleFa": "واکنش خشمگینانه هزار ارگوچلو به ادعاهای منتشرشده! او به مراجع قضایی مراجعه خواهد کرد"
+    }
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b084271c00aca18cb4b1ae6.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b084271c00aca18cb4b1ae6.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "واکنش تند هزار ارگوچلو به شایعات مطرح‌شده و اقدام قانونی او",
+   "summaryFa": "هزار ارگوچلو به انتشار سخنانی نادرست در فضای مجازی درباره خودش و سریال «دانه های مروارید» واکنش نشان داد. او این ادعاها را دروغ خواند و اعلام کرد که از طریق مراجع قانونی پیگیر این موضوع خواهد بود.",
+   "bodyFa": [
+    "به دنبال انتشار گسترده ادعاها و سخنانی در فضای مجازی که به بازیگر معروف، هزار ارگوچلو، نسبت داده شده بود و گفته می شد او درباره یلماز اردوغان و سریال «دانه های مروارید» بیان کرده است، این بازیگر سکوت خود را شکست.",
+    "هزار ارگوچلو با ابراز نارضایتی شدید از این مطالب منتشرشده، تأکید کرد که تمامی این ادعاها کذب و تهمت است. او همچنین از تصمیم خود برای اقدام قانونی و پیگیری این موضوع از طریق مراجع قضایی خبر داد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "2e6f704548b9",
+   "url": "https://www.haberturk.com/magazin/husnu-ustun-hayatini-kaybetti-3930388",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Hayatını kaybetti",
+   "snippet": "Türk sanat müziği bestecisi ve yorumcusu Hüsnü Üstün, 70 yaşında vefat etti",
+   "image": "https://im.haberturk.com/l/2026/11/26/ver1795702995/3930388/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-26T14:23:38.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/husnu-ustun-hayatini-kaybetti-3930388",
+     "title": "Hayatını kaybetti",
+     "snippet": "Türk sanat müziği bestecisi ve yorumcusu Hüsnü Üstün, 70 yaşında vefat etti",
+     "published": "2026-11-26T14:23:38.000Z"
+    }
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "f7d4b8139e98",
+   "url": "https://www.hurriyet.com.tr/kelebek/cocukla-hayat/hadi-gidelim-okuyalim-43392246",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Hadi Gidelim-Okuyalım",
+   "snippet": "Bu hafta çocuklar ‘Harry Potter’ dünyasında sihirli maceralar yaşayabilir, Alice’le birlikte Çılgın Şapkacı ve Sırıtan Kedi’nin peşine düşebilirler. İllüzyon gösterileri ve eğlenceli atölyeler de minikleri bekliyor.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b083e68da5bec378887f457.jpg",
+   "video": null,
+   "published": "2026-11-26T14:12:59.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/cocukla-hayat/hadi-gidelim-okuyalim-43392246",
+     "title": "Hadi Gidelim-Okuyalım",
+     "snippet": "Bu hafta çocuklar ‘Harry Potter’ dünyasında sihirli maceralar yaşayabilir, Alice’le birlikte Çılgın Şapkacı ve Sırıtan Kedi’nin peşine düşebilirler. İllüzyon gösterileri ve eğlenceli atölyeler de minikleri bekliyor.",
+     "published": "2026-11-26T14:12:59.000Z",
+     "titleFa": "بیا برویم-بخوانیم"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b083e68da5bec378887f457.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b083e68da5bec378887f457.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "برنامه‌های ویژه کودکان در دنیای هری پاتر و آلیس در این هفته",
+   "summaryFa": "کودکان می‌توانند در این هفته در دنیای هری پاتر و آلیس ماجراجویی کنند. نمایش‌های شعبده‌بازی و کارگاه‌های سرگرم‌کننده نیز برای کودکان در نظر گرفته شده است.",
+   "bodyFa": [
+    "در این هفته برنامه‌های متنوعی برای کودکان تدارک دیده شده است تا بتوانند تجربه‌های جذابی داشته باشند. بر اساس اطلاعات منتشر شده، بچه‌ها این فرصت را دارند که در دنیای جادویی هری پاتر به ماجراجویی بپردازند.",
+    "علاوه بر این، همراه با شخصیت آلیس به دنبال چای‌نوش دیوانه و گربه‌ی چشمانداز بروند. همچنین اعلام شده است که نمایش‌های شعبده‌بازی و کارگاه‌های سرگرم‌کننده‌ی دیگری نیز در انتظار کودکان خواهد بود."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "3e65664680f6",
+   "url": "https://www.haberturk.com/magazin/hazar-erguclu-yalan-ve-iftiradan-ibarettir-3930380",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"İddialar yalan ve iftiradan ibarettir\"",
+   "snippet": "Hazar Ergüçlü, sosyal medyada kendisine ait olmayan ifadelerin gerçekmiş gibi paylaşılması üzerine açıklama yaptı. Oyuncu, söz konusu yayınlarla ilgili hukuki ve cezai yollara başvuracağını bildirdi",
+   "image": "https://im.haberturk.com/l/2026/11/26/ver1795701722/3930380/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-26T14:10:13.000Z",
+   "scope": "general",
+   "kind": "rumor",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/hazar-erguclu-yalan-ve-iftiradan-ibarettir-3930380",
+     "title": "\"İddialar yalan ve iftiradan ibarettir\"",
+     "snippet": "Hazar Ergüçlü, sosyal medyada kendisine ait olmayan ifadelerin gerçekmiş gibi paylaşılması üzerine açıklama yaptı. Oyuncu, söz konusu yayınlarla ilgili hukuki ve cezai yollara başvuracağını bildirdi",
+     "published": "2026-11-26T14:10:13.000Z"
+    }
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "a8ba83761542",
+   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/bir-evrenden-digerine-43392226",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Bir evrenden diğerine…",
+   "snippet": "Yeni nesil erkek müzik grupları hız kesmeden üretmeye devam ediyor. Perma’nın albümü, Radikal’in yeni teklisi çıktı. aisu aşk şarkısıyla karşımızda. T. Volkan Aslan’sa dinleyicileri minimal dünyasına davet ediyor.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b083c78da5bec378887f41d.jpg",
+   "video": null,
+   "published": "2026-11-26T14:05:02.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/bir-evrenden-digerine-43392226",
+     "title": "Bir evrenden diğerine…",
+     "snippet": "Yeni nesil erkek müzik grupları hız kesmeden üretmeye devam ediyor. Perma’nın albümü, Radikal’in yeni teklisi çıktı. aisu aşk şarkısıyla karşımızda. T. Volkan Aslan’sa dinleyicileri minimal dünyasına davet ediyor.",
+     "published": "2026-11-26T14:05:02.000Z",
+     "titleFa": "از یک جهان به جهانی دیگر..."
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b083c78da5bec378887f41d.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b083c78da5bec378887f41d.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "فعالیت‌های جدید گروه‌ها و هنرمندان نسل جدید موسیقی مردانه",
+   "summaryFa": "گروه‌ها و هنرمندان نسل جدید موسیقی مردانه آثار جدید خود شامل آلبوم، تک‌آهنگ و قطعات عاشقانه را منتشر کردند.",
+   "bodyFa": [
+    "گروه‌ها و هنرمندان نسل جدید موسیقی مردانه به فعالیت‌های تولیدی خود ادامه می‌دهند و آثار جدیدی را به بازار عرضه کرده‌اند. در همین راستا، گروه پرما آلبوم جدید خود را منتشر کرده و رادیکال نیز با تک‌آهنگ جدیدش حضور دارد.",
+    "علاوه بر این، آیسو با یک ترانه عاشقانه جدید در میان مخاطبان حاضر شده و تی. ولکان اصلان نیز شنوندگان را به دنیای مینیمال خود دعوت کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "97835897a524",
+   "url": "https://www.hurriyet.com.tr/kelebek/magazin/usta-sanatci-butun-parasini-dolandiriciya-kaptirmis-sonra-dedim-ki-bu-parayi-hayat-boyu-goremeyenler-var-yoluna-devam-et-43391607",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Tüm parasını dolandırıcıya kaptıran usta sanatçı bir de kendine teselli vermiş: Bu parayı ömür boyu kazanamayanlar var... Sus ve yoluna devam et",
+   "snippet": "Meğer yılların ünlü oyuncusu da bir dönem, hayatı boyunca kazanıp biriktirdiği her şeyini dolandırıcıya kaptırmış! Hem de daha fazla para kazanma umuduyla...",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b07eb2af90143abc113fe08.jpg",
+   "video": null,
+   "published": "2026-11-26T14:04:11.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/magazin/usta-sanatci-butun-parasini-dolandiriciya-kaptirmis-sonra-dedim-ki-bu-parayi-hayat-boyu-goremeyenler-var-yoluna-devam-et-43391607",
+     "title": "Tüm parasını dolandırıcıya kaptıran usta sanatçı bir de kendine teselli vermiş: Bu parayı ömür boyu kazanamayanlar var... Sus ve yoluna devam et",
+     "snippet": "Meğer yılların ünlü oyuncusu da bir dönem, hayatı boyunca kazanıp biriktirdiği her şeyini dolandırıcıya kaptırmış! Hem de daha fazla para kazanma umuduyla...",
+     "published": "2026-11-26T14:04:11.000Z",
+     "titleFa": "تمامی پول خود را به کلاهبردار باخته و خودش را این‌گونه تسکین داده است: کسانی هستند که این پول را در تمام عمر به دست نمی‌آورند... سکوت کن و به راهت ادامه بده"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b07eb2af90143abc113fe08.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b07eb2af90143abc113fe08.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "از دست رفتن تمام دارایی‌های یک هنرمند پیشکسوت به دلیل کلاهبرداری",
+   "summaryFa": "یک بازیگر نام‌آشنای قدیمی تمام پس‌انداز زندگی خود را با امید به کسب درآمد بیشتر به یک کلاهبردار باخته است. او با این جمله که «کسانی هستند که در طول عمرشان این پول را به دست نمی‌آورند» به تسکین خود پرداخته است.",
+   "bodyFa": [
+    "بر اساس گزارش‌های منتشر شده، یکی از بازیگران قدیمی و سرشناس در مقطعی تمامی سرمایه و پس‌انداز تمام عمر خود را به دلیل فریب خوردن از دست داده است. این اتفاق تلخ زمانی رخ داد که این هنرمند با انگیزه کسب درآمد بیشتر، طعمه یک کلاهبردار شد.",
+    "این چهره شناخته‌شده پس از این حادثه تلخ، با این تصور که افرادی در جامعه هستند که هرگز نمی‌توانند چنین مبلغی را در طول زندگی خود به دست آورند، به آرام کردن خود پرداخته و با گفتن اینکه «سکوت کن و به راهت ادامه بده» با این مسئله کنار آمده است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "01fcc1c6d08d",
+   "url": "https://www.sozcu.com.tr/sevda-bir-ates-huma-konusacak-mi-ozge-ozacar-dan-merak-uyandiran-yanit-p384662",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Sevdan Bir Ateş Hüma konuşacak mı? Özge Özacar'dan merak uyandıran yanıt",
+   "snippet": "Sevdan Bir Ateş dizisinde Leyla karakterini canlandıran Özge Özacar, partneri Murat Ünalmış ve dizide kızı Hüma'yı oynay...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sevda-bir-ates-huma-konusacak-mi-ozge-ozacardan-merak-uyandiran-yanitpng-X-BI-sjxBkeorhisB-mUaw.png",
+   "video": null,
+   "published": "2026-11-26T13:23:53.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [
+     "sevdan-bir-ates"
+    ],
+    "people": [
+     "murat-unalmis",
+     "ozge-ozacar"
+    ],
+    "networks": [
+     "show-tv"
+    ]
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sevda-bir-ates-huma-konusacak-mi-ozge-ozacar-dan-merak-uyandiran-yanit-p384662",
+     "title": "Sevdan Bir Ateş Hüma konuşacak mı? Özge Özacar'dan merak uyandıran yanıt",
+     "snippet": "Sevdan Bir Ateş dizisinde Leyla karakterini canlandıran Özge Özacar, partneri Murat Ünalmış ve dizide kızı Hüma'yı oynay...",
+     "published": "2026-11-26T13:23:53.000Z"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sevda-bir-ates-huma-konusacak-mi-ozge-ozacardan-merak-uyandiran-yanitpng-X-BI-sjxBkeorhisB-mUaw.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sevda-bir-ates-huma-konusacak-mi-ozge-ozacardan-merak-uyandiran-yanitpng-X-BI-sjxBkeorhisB-mUaw.png?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ozcandenizaciklamajpg-RpjWnCQkV0iyARxn86MIyA.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/stokpng-vcvYXA35gk6LWLjMF1BukQ.png?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b0834fff4678357b8bb67b1png-HCR-i926VEOyCPgXOt6I1g.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "4b3d84fa0b8e",
+   "url": "https://www.haberturk.com/magazin/foto/john-travolta-yeni-kirmizi-hali-aksesuarini-buldu-deri-eldiven-3930335",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Yeni kırmızı halı aksesuarını buldu",
+   "snippet": "Daha önce kırmızı halıya bereyle çıkıp poz vermesiyle adından söz ettiren ve \"Eski tarz bir yönetmen gibi görünmek istedim\" diyen John Travolta, bu defa deri eldiveni tercih etti",
+   "image": "https://im.haberturk.com/l/2026/11/26/ver1795695773/3930335/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-26T13:11:28.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/john-travolta-yeni-kirmizi-hali-aksesuarini-buldu-deri-eldiven-3930335",
+     "title": "Yeni kırmızı halı aksesuarını buldu",
+     "snippet": "Daha önce kırmızı halıya bereyle çıkıp poz vermesiyle adından söz ettiren ve \"Eski tarz bir yönetmen gibi görünmek istedim\" diyen John Travolta, bu defa deri eldiveni tercih etti",
+     "published": "2026-11-26T13:11:28.000Z",
+     "titleFa": "او اکسسوری جدید فرش قرمز خود را پیدا کرد"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "جان تراولتا با دستکش‌های چرمی در جشنواره فیلم تورین ۲۰۲۶",
+   "summaryFa": "جان تراولتا، بازیگر آمریکایی، در جشنواره فیلم تورین با استایلی متفاوت و دستکش‌های چرمی سیاه روی فرش قرمز ظاهر شد. او پیش‌تر در رویدادهای مختلف از کلاه پشمی به عنوان اکسسوری اصلی خود استفاده کرده بود.",
+   "bodyFa": [
+    "جان تراولتا، بازیگر ۷۲ ساله آمریکایی، که پیش‌تر با پوشیدن کلاه پشمی روی فرش قرمز توجه‌ها را به خود جلب کرده بود و گفته بود می‌خواسته شبیه به کارگردان‌های قدیمی به نظر برسد، این بار در رویدادهای فرش قرمز جشنواره فیلم تورین ۲۰۲۶ در ایتالیا، دستکش‌های چرمی سیاه را جایگزین اکسسوری قبلی خود کرد.",
+    "این بازیگر در مراسم افتتاحیه، در کنار دختر ۲۶ ساله‌اش الا بلو و در حالی که سراپا مشکی پوشmiş بود، با یک بروش پرِ الماس و عینک گرد دیده شد. او پیش‌نمایش این دستکش‌ها را هفته گذشته در مراسم اهدای جوایز مرد سال جی‌کیو در برلین آلمان نیز انجام داده بود.",
+    "در بهار گذشته، تراولتا در جشنواره فیلم کن برای معرفی فیلم خود با عنوان «Propeller One-Way Night Coach» از کلاه‌های مختلفی استفاده کرده بود. او در آن زمان توضیح داده بود که استفاده از کلاه، نمادی از تغییر نقش او به عنوان کارگردان این اثر است که دخترش نیز در آن به ایفای نقش پرداخته است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "38ee75f9887d",
+   "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/hava-soguk-sahneler-sicak-43392045",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Hava soğuk, sahneler sıcak",
+   "snippet": "Bu hafta Şebnem Ferah’ın İstanbul’da, Göksel’in İzmir’de konseri var. Dünyaca ünlü Çinli piyanist Lang Lang ‘İpek Yolu Konseri’nde üç genç müzisyenimizle aynı sahneyi paylaşacak. Nil Yalter’in 60 yıllık sanat yaşamına odaklanan sergi Galerist’te görülebilir.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0829e6e4260a756c077d67.jpg",
+   "video": null,
+   "published": "2026-11-26T12:45:00.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/hava-soguk-sahneler-sicak-43392045",
+     "title": "Hava soğuk, sahneler sıcak",
+     "snippet": "Bu hafta Şebnem Ferah’ın İstanbul’da, Göksel’in İzmir’de konseri var. Dünyaca ünlü Çinli piyanist Lang Lang ‘İpek Yolu Konseri’nde üç genç müzisyenimizle aynı sahneyi paylaşacak. Nil Yalter’in 60 yıllık sanat yaşamına odaklanan sergi Galerist’te görülebilir.",
+     "published": "2026-11-26T12:45:00.000Z"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b0829e6e4260a756c077d67.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b0829e6e4260a756c077d67.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "f1038bde9168",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/genclik-aski-en-buyuk-dayanagi-oldu-unlu-sarkici-yeniden-evlenmeye-hazir-43391710",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "Gençlik aşkı en büyük dayanağı oldu… Ünlü şarkıcı yeniden evlenmeye hazır",
+   "snippet": "Son birkaç yılı özel hayatındaki karışıklıklar yüzünden zor geçiren, adı magazin gündeminden düşmeyen ünlü şarkıcı aradığı huzuru en sonunda tanıdık kollarda bulmuştu…",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b07f4bcda5bec378887f199.jpg",
+   "video": null,
+   "published": "2026-11-26T12:29:30.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/genclik-aski-en-buyuk-dayanagi-oldu-unlu-sarkici-yeniden-evlenmeye-hazir-43391710",
+     "title": "Gençlik aşkı en büyük dayanağı oldu… Ünlü şarkıcı yeniden evlenmeye hazır",
+     "snippet": "Son birkaç yılı özel hayatındaki karışıklıklar yüzünden zor geçiren, adı magazin gündeminden düşmeyen ünlü şarkıcı aradığı huzuru en sonunda tanıdık kollarda bulmuştu…",
+     "published": "2026-11-26T12:29:30.000Z"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b07f4bcda5bec378887f199.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b07f4bcda5bec378887f199.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true
+  },
+  {
+   "id": "4dd392c8a111",
+   "url": "https://www.sozcu.com.tr/serdar-ortac-in-dugunde-sordugu-soruya-herkes-dondu-kaldi-p384606",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Serdar Ortaç'ın düğünde sorduğu soruya herkes dondu kaldı",
+   "snippet": "Derya Uluğ ve Asil Gök'ün düğününde sahne alan Serdar Ortaç, geline yönelttiği ilginç soruyla davetlileri güldürürken Ul...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/serdarortacjpg-3a4rrpG7Ak62ugjTLdaFSw.jpg",
+   "video": null,
+   "published": "2026-11-26T11:26:23.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/serdar-ortac-in-dugunde-sordugu-soruya-herkes-dondu-kaldi-p384606",
+     "title": "Serdar Ortaç'ın düğünde sorduğu soruya herkes dondu kaldı",
+     "snippet": "Derya Uluğ ve Asil Gök'ün düğününde sahne alan Serdar Ortaç, geline yönelttiği ilginç soruyla davetlileri güldürürken Ul...",
+     "published": "2026-11-26T11:26:23.000Z",
+     "titleFa": "سوال سردار ortaç در عروسی همه را شگفت‌زده کرد"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/serdarortacjpg-3a4rrpG7Ak62ugjTLdaFSw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/serdarortacjpg-3a4rrpG7Ak62ugjTLdaFSw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-goruntusu-20261126-131209png-zbCDvXNjGECdvWmjh393cw.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/j453hjreghepng-ljO2VL5kaku23Dyt31kNLg.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/bakiyatpng-VHEJxHwxIE_66IL7xg_4NA.png?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/otomobilpng-DN9Gl4vf_kWCogFmubxnSA.png?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "سوال عجیب سردار ortaç در عروسی دریا اولو و اصیل گوک",
+   "summaryFa": "سردار ortaç در مراسم عروسی دریا اولو و اصیل گوک سوال عجیبی از عروس پرسید که موجب خنده مهمانان شد.",
+   "bodyFa": [
+    "در جریان مراسم عروسی دریا اولو و اصیل گوک که سردار ortaç نیز در آن به اجرای برنامه پرداخته بود، مطرح شدن یک سوال جالب توجه از سوی این خواننده توجه حاضران را به خود جلب کرد.",
+    "این پرسش که با واکنش و پاسخ دریا اولو همراه شد، توانست فضایی شاد و سرگرم‌کننده برای دعوت‌شدگان به این جشن ایجاد کند."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "72480d61a748",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/20-yillik-sarisinligina-veda-etti-yeni-sac-rengi-milyarder-kahvesi-43391907",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "20 yıllık sarışınlığına veda etti: Yeni saç rengi ‘milyarder kahvesi’",
+   "snippet": "Ünlü şarkıcının özel hayatı son iki yıldır yaşananlarla sık sık magazin basınının manşetlerinde yer alıyor. İkinci evliliğini de bitirdikten sonra sadece hayatında değil görüntüsünde de değişiklikler yapan yıldız isim şimdi de yaptığı imaj değişikliğiyle gündemde.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b081511da5bec378887f296.jpg",
+   "video": null,
+   "published": "2026-11-26T11:17:19.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/20-yillik-sarisinligina-veda-etti-yeni-sac-rengi-milyarder-kahvesi-43391907",
+     "title": "20 yıllık sarışınlığına veda etti: Yeni saç rengi ‘milyarder kahvesi’",
+     "snippet": "Ünlü şarkıcının özel hayatı son iki yıldır yaşananlarla sık sık magazin basınının manşetlerinde yer alıyor. İkinci evliliğini de bitirdikten sonra sadece hayatında değil görüntüsünde de değişiklikler yapan yıldız isim şimdi de yaptığı imaj değişikliğiyle gündemde.",
+     "published": "2026-11-26T11:17:19.000Z",
+     "titleFa": "خداحافظی با بلوندی ۲۰ ساله: رنگ موی جدید «قهوه‌ای میلیاردر»"
+    }
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b081511da5bec378887f296.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b081511da5bec378887f296.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "خداحافظی خواننده معروف با موهای بلوند پس از ۲۰ سال",
+   "summaryFa": "این خواننده مشهور پس از پایان دومین ازدواج خود، تغییراتی در ظاهر و زندگی‌اش ایجاد کرده است.",
+   "bodyFa": [
+    "زندگی خصوصی یک خواننده معروف طی دو سال گذشته بارها در تیتر اخبار رسانه‌های زرد قرار داشته است.",
+    "او پس از پایان دادن به دومین ازدواج خود، تصمیم گرفته است علاوه بر زندگی شخصی، در ظاهر خود نیز تغییراتی ایجاد کند و این بار با تغییر رنگ موی خود پس از ۲۰ سال توجه‌ها را به خود جلب کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "cadb51df05a7",
+   "url": "https://www.sozcu.com.tr/hande-ercel-33-yasina-girdi-6-pasta-ufledi-parmagindaki-yuzugun-fiyati-dudak-ucuklatti-p384618",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Hande Erçel 33. yaşına girdi: 6 pasta üfledi, parmağındaki yüzüğün fiyatı dudak uçuklattı",
+   "snippet": "33 yaşına giren Hande Erçel, doğum günü kutlamasından paylaştığı karelerle gündeme geldi. Oyuncunun kutlamada üflediği 6...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/handeerceljpg-1Pe49cJ_SU6OzmBduazl7g.jpg",
+   "video": null,
+   "published": "2026-11-26T11:16:03.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/hande-ercel-33-yasina-girdi-6-pasta-ufledi-parmagindaki-yuzugun-fiyati-dudak-ucuklatti-p384618",
+     "title": "Hande Erçel 33. yaşına girdi: 6 pasta üfledi, parmağındaki yüzüğün fiyatı dudak uçuklattı",
+     "snippet": "33 yaşına giren Hande Erçel, doğum günü kutlamasından paylaştığı karelerle gündeme geldi. Oyuncunun kutlamada üflediği 6...",
+     "published": "2026-11-26T11:16:03.000Z",
+     "titleFa": "هانده ارچل ۳۳ ساله شد: ۶ کیک فوت کرد و قیمت انگشتر در دستش سرسام‌آور بود"
+    }
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/handeerceljpg-1Pe49cJ_SU6OzmBduazl7g.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/handeerceljpg-1Pe49cJ_SU6OzmBduazl7g.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/6-pasta-ufledi-parmagindaki-yuzugun-fiyati-dudak-ucuklatti-3jpg-Hdd8Upr0q0ir95eJzoVzRw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/6-pasta-ufledi-parmagindaki-yuzugun-fiyati-dudak-ucuklatti-7jpg-MxqkCfzexEazkm491Grq0g.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/6-pasta-ufledi-parmagindaki-yuzugun-fiyati-dudak-ucuklatti-9jpg-0dgVGH4UFkySG18mjfV8lg.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن تولد ۳۳ سالگی هانده ارچل با شش کیک و یک انگشتر گران‌قیمت",
+   "summaryFa": "هانده ارچل تولد ۳۳ سالگی خود را با دوستان نزدیکش جشن گرفت. تصاویر این مراسم، به ویژه تعداد کیک‌ها و انگشتر او، در شبکه‌های اجتماعی مورد توجه قرار گرفت.",
+   "bodyFa": [
+    "هانده ارچل، بازیگر مشهور، وارد ۳۳ سالگی شد و تصاویر مربوط به جشن تولد خود را با طرفدارانش به اشتراک گذاشت. این مراسم که با حضور دوستان نزدیک این هنرمند برگزار شد، بازتاب زیادی در شبکه‌های اجتماعی داشت.",
+    "آنچه بیش از همه در تصاویر منتشر شده توجه کاربران را به خود جلب کرد، وجود ۶ کیک تولد مختلف و همچنین انگشتر میلیونی در دست این بازیگر بود که بحث‌هایی را درباره قیمت آن در میان کاربران ایجاد کرد. پیش از برگزاری این جشن، ارچل در یک مرکز زیبایی در اتیلر دیده شده بود."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "de611646a35f",
+   "url": "https://www.haberturk.com/magazin/serdar-ortac-tan-derya-uluga-ne-buldun-bu-herifte-3930301",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "\"Ne buldun bu herifte?\"",
+   "snippet": "Müzisyen çift Derya Uluğ ile Asil Gök, dün akşam evlendi. Derya Uluğ, düğünde sahneye çıkan Serdar Ortaç'ın \"Ne buldun bu herifte?\" sorusuna yanıt verdi",
+   "image": "https://im.haberturk.com/l/2026/11/26/ver1795686501/3930301/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-26T10:54:23.000Z",
+   "scope": "general",
+   "kind": "official",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/serdar-ortac-tan-derya-uluga-ne-buldun-bu-herifte-3930301",
+     "title": "\"Ne buldun bu herifte?\"",
+     "snippet": "Müzisyen çift Derya Uluğ ile Asil Gök, dün akşam evlendi. Derya Uluğ, düğünde sahneye çıkan Serdar Ortaç'ın \"Ne buldun bu herifte?\" sorusuna yanıt verdi",
+     "published": "2026-11-26T10:54:23.000Z",
+     "titleFa": "\"Ne buldun bu herifte?\""
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "ازp ازدواج دریا اولوغ و اصیل گوک تا شوخی جالب سردار اورتاچ در مراسم",
+   "summaryFa": "دریا اولوغ و اصیل گوک پس از ده سال رابطه، شب گذشته در استانبول با یکدیگر ازدواج کردند. در این مراسم که با حضور چهره‌های سرشناس برگزار شد، سردار اورتاچ روی صحنه رفت.",
+   "bodyFa": [
+    "دریا اولوغ و اصیل گوک، زوج موسیقی‌دان که ده سال با یکدیگر در ارتباط بودند، شب گذشته طی مراسمی در استانبول زندگی مشترک خود را آغاز کردند. این مراسم عروسی با حضور چهره‌های سرشناس برگزار شد و فضای شاد و پرخطری را به همراه داشت.",
+    "در جریان این مراسم، سردار اورتاچ که برای اجرای برنامه روی صحنه رفته بود، با پرسیدن سوال «در این مرد چه چیزی پیدا کردی؟» از دریا اولوغ، لحظات سرگرم‌کننده‌ای را رقم زد. اولوغ نیز در پاسخ به این پرسش گفت که همسرش «خوش‌تیپ، بااصالت و بسیار مستعد» است."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "a4719abeb64c",
+   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/25-kurusluk-zehirlenme-beyazperdede-bir-koylu-yonetmen-ahmet-ulucay-43391784",
+   "source": "hurriyet-kelebek",
+   "sourceName": "Hürriyet",
+   "lang": "tr",
+   "title": "25 kuruşluk zehirlenme... Beyazperdede bir köylü yönetmen: Ahmet Uluçay",
+   "snippet": "Uzun paltolu ve fötr şapkalı adam, sınıfa girdiğinde küçük Ahmet’i 25 kuruşluk bir film ile zehirleyeceğini bilemezdi. 1963 yılında 9 yaşında sinema ile tanışan Ahmet, o gün aldığı zehri tüm hayatı boyunca vücudunun her zerresinde taşıdı. 40 yaşında katıldığı ‘Siyaset Meydanı’nda müstehzi bakışlar ve küçümseyen gülümsemelere bir köylü yönetmen olarak cevap verdi: Sinema insanın aklına gelmez ki; sinemayla birlikte doğar insan.",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b07fdb8f90143abc113ff54.jpg",
+   "video": null,
+   "published": "2026-11-26T09:38:00.000Z",
+   "scope": "dizi",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "hurriyet-kelebek",
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/25-kurusluk-zehirlenme-beyazperdede-bir-koylu-yonetmen-ahmet-ulucay-43391784",
+     "title": "25 kuruşluk zehirlenme... Beyazperdede bir köylü yönetmen: Ahmet Uluçay",
+     "snippet": "Uzun paltolu ve fötr şapkalı adam, sınıfa girdiğinde küçük Ahmet’i 25 kuruşluk bir film ile zehirleyeceğini bilemezdi. 1963 yılında 9 yaşında sinema ile tanışan Ahmet, o gün aldığı zehri tüm hayatı boyunca vücudunun her zerresinde taşıdı. 40 yaşında katıldığı ‘Siyaset Meydanı’nda müstehzi bakışlar v",
+     "published": "2026-11-26T09:38:00.000Z",
+     "titleFa": "مسمومیت ۲۵ قوروشی... یک کارگردان روستایی بر پرده نقره‌ای: احمد اولوچای"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/beyaz-perdede-bir-koylu-yonetmen-ahmet-ulucay-7708459",
+     "title": "Beyaz perdede bir köylü yönetmen: Ahmet Uluçay",
+     "snippet": "HABER MERKEZİ -1990’lar, Türk televizyonculuğunun zirve yıllarıydı. Yaklaşık 20 sene boyunca Türkiye’nin gündemini tutan tartışma programı Siyaset Meydanı, Ali Kırca yönetiminde gece geç saatlerde başlar güneşin doğuşuna kadar devam ederdi. Kapsayıcı konuk profili ve kendine özgü formatı olan progra",
+     "published": "2026-11-26T10:02:52.000Z",
+     "titleFa": "یک کارگردان روستایی بر پرده نقره‌ای: احمد اولوچای"
+    }
+   ],
+   "mergedIds": [
+    "61a33d25cbc2"
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b07fdb8f90143abc113ff54.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b07fdb8f90143abc113ff54.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "احمد اولوچای، کارگردان روستایی روی پرده نقره‌ای",
+   "summaryFa": "نگاهی به زندگی و مسیر هنری احمد اولوچای، کارگردانی که در کودکی با سینما آشنا شد. این گزارش به حضور او در برنامه‌های تلویزیونی و دیدگاهش درباره سینما می‌پردازد.",
+   "bodyFa": [
+    "احمد اولوچای در سال ۱۹۶۳ و در سن ۹ سالگی با دنیای سینما آشنا شد؛ زمانی که مردی با پالتوی بلند و کلاه شاپو وارد کلاس درس شد و او را با فیلمی ۲۵ قوروشی تحت تأثیر قرار داد. او این اشتیاق را تا پایان عمر در وجود خود حفظ کرد.",
+    "او در سن ۴۰ سالگی در برنامه «سیاست میدان» حضور یافت و در پاسخ به نگاه‌های تحقیرآمیز، خود را به عنوان یک کارگردان روستایی معرفی کرد و بیان داشت که سینما به ذهن خطور نمی‌کند، بلکه انسان با سینما متولد می‌شود.",
+    "این گزارش‌ها به برنامه‌های تلویزیونی دهه ۱۹۹۰ و برنامه مشهور «سیاست میدان» با اجرای علی کیرجا نیز اشاره می‌کنند که تا طلوع آفتاب ادامه داشت و میزبان طیف گسترده‌ای از مهمانان بود."
+   ],
+   "comparison": {
+    "agree": [
+     "آشنایی احمد اولوچای با سینما در سال ۱۹۶۳ در سن ۹ سالگی با یک فیلم ۲۵ قوروشی رخ داد.",
+     "او در سن ۴۰ سالگی در برنامه «سیاست میدان» حضور یافت."
+    ],
+    "differ": [
+     {
+      "topic": "اشاره به جزئیات برنامه سیاست میدان و تلویزیون دهه ۹۰",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "تنها به حضور ۴۰ سالگی او در برنامه «سیاست میدان» و نگاه‌های مسخره‌آمیز اشاره کرده است."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "توضیحات مفصلی درباره سال‌های اوج تلویزیون ترکیه در دهه ۱۹۹۰، برنامه «سیاست میدان» با اجرای علی کیرجا و ویژگی‌های آن ارائه داده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
+  },
   {
    "id": "40b57972c4f2",
    "url": "https://www.sozcu.com.tr/fenerbahce-maci-reytingleri-altust-etti-sevdan-bir-ates-te-sert-dusus-p384590",
@@ -30,7 +779,8 @@
      "url": "https://www.sozcu.com.tr/fenerbahce-maci-reytingleri-altust-etti-sevdan-bir-ates-te-sert-dusus-p384590",
      "title": "Fenerbahçe maçı reytingleri altüst etti: Sevdan Bir Ateş'te sert düşüş",
      "snippet": "Fenerbahçe maçı üç kategoride birden zirveye yerleşirken çarşamba akşamının reyting tablosunda şaşırtan sonuçlar ortaya ...",
-     "published": "2026-11-26T09:16:13.000Z"
+     "published": "2026-11-26T09:16:13.000Z",
+     "titleFa": "Fenerbahçe maçı reytingleri altüst etti: Sevdan Bir Ateş'te sert düşüş"
     }
    ],
    "images": [
@@ -41,7 +791,15 @@
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/sandik-icjpg-1pgXOvNq_UWSKs04Hzvz_Q.jpg?w=288&h=162&mode=crop&scale=both",
     "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/habergorseli6b07c7d2f4678357b8bb54c4png-xfwLjIVS_0qgTR2_FwIKrw.png?w=320&h=248&mode=crop&scale=both"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "تاثیر مسابقه فوتبال بر رتبه‌بندی برنامه‌ها و کاهش بینندگان عشقت یک آتش است",
+   "summaryFa": "مسابقه فوتبال فنرباغچه در سه رده به صدر جدول رسید و نتایج عجیبی در جدول رتبه‌بندی شامگاه چهارشنبه رقم زد. در این میان، سریال عشقت یک آتش است با افت شدید بینندگان روبه‌رو شد.",
+   "bodyFa": [
+    "بر اساس اطلاعات منتشر شده درباره نتایج رتبه‌بندی تلویزیونی در روز چهارشنبه ۲۵ نوامبر ۲۰۲۶، رقابت میان برنامه‌ها، سریال‌ها و مسابقات ورزشی تغییرات قابل توجهی را در آمار بینندگان ایجاد کرد. مسابقه فوتبال تیم‌های شاختار دونتسک و فنرباغچه که از شبکه تی‌تی‌تی ۱ پخش شد، توانست در هر سه رده اصلی یعنی توتال، AB و ABC1 جایگاه نخست را به خود اختصاص دهد.",
+    "همزمان با صدرنشینی مسابقه فوتبال، جدول رتبه‌بندی شامگاه چهارشنبه نتایج شگفت‌انvיزی را به همراه داشت. در این رقابت‌ها، سریال «عشقت یک آتش است» با کاهش چشمگیر مخاطبان و ریزش در آمار تماشاچیان مواجه شد، در حالی که در سمت مقابل، وضعیت برای مجموعه «یرالتی» متفاوت بود و این اثر توانեց روند صعودی را تجربه کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "077ab2236e69",
@@ -70,7 +828,16 @@
      "snippet": "Bir dönem eğlence dünyasının en çok konuşulan aşklarından birini yaşamış, bu aşk bitip yollarını ayırmalarının ardından da yıllar süren hukuk savaşlarıy gündemden hiç düşmemişlerdi.",
      "published": "2026-11-26T09:11:59.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b07e605da5bec378887f0ee.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b07e605da5bec378887f0ee.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true
   },
   {
    "id": "e2b97fc13bd6",
@@ -99,7 +866,8 @@
      "url": "https://www.milliyet.com.tr/magazin/demiroren-medyaya-odul-yagdi-7708370",
      "title": "Demirören Medya'ya ödül yağdı!",
      "snippet": "HABER MERKEZİ - Gazetecilerin sahada gösterdiği emek, ödülle taçlandı. Muhabirler Derneği'nin 2026 yılı ödül töreni, Ankara'daki tarihi Türk Ocağı Sahnesi'nde düzenlendi. CNN TÜRK'E İKİ ÖDÜL BİRDEN İçişleri Bakanı Mustafa Çiftçi'nin de katıldığı geceye Demirören Medya bünyesindeki yayın organlarının",
-     "published": "2026-11-26T08:54:15.000Z"
+     "published": "2026-11-26T08:54:15.000Z",
+     "titleFa": "بارش جوایز بر روی دمیروَرَن مدیا!"
     },
     {
      "source": "hurriyet-kelebek",
@@ -107,12 +875,52 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/demiroren-medyaya-odul-yagdi-43391719",
      "title": "Demirören Medya'ya ödül yağdı",
      "snippet": "Muhabirler Derneği’nin 2026 ödülleri, İçişleri Bakanı Mustafa Çiftçi'nin katılımıyla Ankara'da düzenlenen törenle sahiplerini buldu. Demirören Medya Grubu bünyesindeki CNN TÜRK, Kanal D Haber, Hürriyet, DHA ve Milliyet, farklı kategorilerde kazandıkları ödüllerle geceye damga vurdu.",
-     "published": "2026-11-26T08:59:00.000Z"
+     "published": "2026-11-26T08:59:00.000Z",
+     "titleFa": "بارش جوایز بر روی دمیروَرَن مدیا"
     }
    ],
    "mergedIds": [
     "9661c3164916"
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b07efcdc00aca18cb4b176f.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b07efcdc00aca18cb4b176f.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اهدای جوایز سال ۲۰۲۶ به دمیرورَن مدیا",
+   "summaryFa": "مراسم اهدای جوایز انجمن خبرنگاران در سال ۲۰۲۶ با حضور وزیر کشور در آنکارا برگزار شد و رسانه‌های گروه دمیروَرَن مدیا جوایزی را دریافت کردند.",
+   "bodyFa": [
+    "مراسم اهدای جوایز سال ۲۰۲۶ انجمن خبرنگاران در سالن تاریخی «Türk Ocağı» در شهر آنکارا برگزار شد. این مراسم با حضور مصطفی چیفتچی، وزیر کشور، صورت گرفت و طی آن از تلاش‌های خبرنگاران در عرصه میدانی تقدیر به عمل آمد.",
+    "در این رویداد، رسانه‌های وابسته به گروه دمیروَرَن مدیا موفق به کسب جوایزی در دسته‌های مختلف شدند و شب موفقیت‌آمیزی را پشت سر گذاشتند."
+   ],
+   "comparison": {
+    "agree": [
+     "مراسم جوایز سال ۲۰۲۶ انجمن خبرنگاران در آنکارا با حضور مصطفی چیفتچی وزیر کشور برگزار شد.",
+     "گروه دمیروَرَن مدیا جوایزی را در این مراسم دریافت کرد."
+    ],
+    "differ": [
+     {
+      "topic": "نام رسانه‌های دقیق دریافت‌کننده جایزه",
+      "views": [
+       {
+        "source": "milliyet-magazin",
+        "text": "تنها به دریافت دو جایزه توسط سی‌ان‌ان ترک و حضور رسانه‌های دمیرورن مدیا اشاره کرده است."
+       },
+       {
+        "source": "hurriyet-kelebek",
+        "text": "نام رسانه‌های سی‌ان‌ان ترک، کانال دی خبر، حریت، دی‌اچ‌ای و میلیت را به عنوان دریافت‌کنندگان جوایز در دسته‌های مختلف نام برده است."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "26a26e239fd4",
@@ -201,9 +1009,27 @@
      "url": "https://www.sabah.com.tr/magazin/neslihan-atagul-drda-hayranlariyla-bulusacak-bu-evde-bir-afet-var-7709742",
      "title": "Neslihan Atagül ilk kitabı \"Bu Evde Bir Afet Var” ile D&R’da hayranlarıyla buluşacak!",
      "snippet": "Oyuncu Neslihan Atagül Doğulu, çocuklar için kaleme aldığı “Bu Evde Bir Afet Var”ın tanıtımı kapsamında, Damp;R Bağdat Caddesi mağazasında düzenlenecek imza gününde hayranlarıyla buluşacak. Devamı için tıklayınız",
-     "published": "2026-11-26T08:47:55.000Z"
+     "published": "2026-11-26T08:47:55.000Z",
+     "titleFa": "نسلیهان آتاگل با نخستین کتاب خود «در این خانه یک فاجعه وجود دارد» در دی‌اندآر با طرفدارانش دیدار خواهد کرد!"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/ed07b2/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2026/11/26/1795682601886.jpg",
+    "https://iasbh.tmgrup.com.tr/b0332c/752/395/0/0/1200/629?u=https://isbh.tmgrup.com.tr/sbh/2026/11/26/1795682601886.jpg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "نسلیهان آتاگل با کتاب جدیدش به دیدار هواداران می‌رود",
+   "summaryFa": "نسلیهان آتاگل دوغولو کتاب جدید خود را برای کودکان معرفی می‌کند. او در فروشگاه دی‌اندآر خیابان بغداد جلسه امضا کتاب برگزار خواهد کرد.",
+   "bodyFa": [
+    "نسلیهان آتاگل دوغولو، بازیگر شناخته شده، نخستین کتاب خود با نام «Bu Evde Bir Afet Var» را که برای کودکان نوشته است، معرفی می‌کند.",
+    "او قرار است در همین راستا طی یک مراسم ویژه در فروشگاه دی‌اندآر (D&R) واقع در خیابان بغداد با طرفداران خود دیدار کرده و کتابش را امضا کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f6133ac73245",
@@ -315,38 +1141,20 @@
      "url": "https://www.haberturk.com/magazin/foto/hande-ercel-33-oldu-3930232",
      "title": "Kutlama öncesi bakıma girdi",
      "snippet": "Ünlü oyuncu Hande Erçel, 33'üncü yaş günü öncesi güzellik merkezinden çıkarkan görüntülendi",
-     "published": "2026-11-26T07:16:13.000Z"
+     "published": "2026-11-26T07:16:13.000Z",
+     "titleFa": "ورود به بخش مراقبت پیش از جشن"
     }
-   ]
-  },
-  {
-   "id": "0ddaa1978769",
-   "url": "https://www.sozcu.com.tr/unlu-muzisyen-andy-taylor-hayatini-kaybetti-p384527",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ünlü müzisyen Andy Taylor hayatını kaybetti",
-   "snippet": "Dünyaca ünlü Duran Duran grubunun kurucu üyelerinden Andy Taylor, 65 yaşında hayatını kaybetti. Uzun süredir prostat kan...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/andytaloyjpg-AIjRhFcGCUGW2nHY8FA9rQ.jpg",
-   "video": null,
-   "published": "2026-11-26T06:48:52.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/unlu-muzisyen-andy-taylor-hayatini-kaybetti-p384527",
-     "title": "Ünlü müzisyen Andy Taylor hayatını kaybetti",
-     "snippet": "Dünyaca ünlü Duran Duran grubunun kurucu üyelerinden Andy Taylor, 65 yaşında hayatını kaybetti. Uzun süredir prostat kan...",
-     "published": "2026-11-26T06:48:52.000Z"
-    }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "آماده شدن هande ارچل پیش از جشن تولد",
+   "summaryFa": "هande ارچل پیش از برگزاری جشن تولد خود در یک مرکز زیبایی در اتیلر دیده شد. او اعلام کرد که جشن خود را با خانواده و دوستانش برگزار خواهد کرد.",
+   "bodyFa": [
+    "بر اساس گزارش هابرترک، هande ارچل، بازیگر سرشناس، پیش از جشن تولد خود به یک مرکز زیبایی در منطقه اتیلر مراجعه کرد تا برای این مناسبت آماده شود.",
+    "این بازیگر پس از انجام مراقبت‌های معمول، هنگام خروج از مرکز مورد توجه خبرنگاران قرار گرفت و سپس با سوار شدن بر خودروی خود محل را ترک کرد.",
+    "ارچل همچنین بیان کرد که قصد دارد جشن تولد خود را در کنار خانواده و دوستانش برگزار کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f6e4e598fd6a",
@@ -373,38 +1181,19 @@
      "url": "https://www.haberturk.com/magazin/foto/rafet-el-roman-dogru-kisiyi-buldum-3930199",
      "title": "Düğüne yanlışlıkla gitti",
      "snippet": "Meslektaşları Derya Uluğ ve Asil Gök'ün düğününe yanlışlıkla giden şarkıcı Rafet El Roman, durumu muhabirlerden öğrenince \"Sizden öğrendim ki buradaymışım\" ifadelerini kullandı",
-     "published": "2026-11-26T06:12:38.000Z"
+     "published": "2026-11-26T06:12:38.000Z",
+     "titleFa": "حضور اشتباهی در مراسم عروسی"
     }
-   ]
-  },
-  {
-   "id": "96a4e96f0e72",
-   "url": "https://www.haberturk.com/magazin/foto/duran-duran-in-gitaristi-andy-taylor-yasamini-yitirdi-3930204",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Ünlü müzisyenden acı haber",
-   "snippet": "Efsanevi müzik grubu Duran Duran’ın kurucu üyesi ve gitaristi Andy Taylor, 65 yaşında hayatını kaybetti",
-   "image": "https://im.haberturk.com/l/2026/11/26/ver1795672376/3930204/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-26T06:00:56.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/duran-duran-in-gitaristi-andy-taylor-yasamini-yitirdi-3930204",
-     "title": "Ünlü müzisyenden acı haber",
-     "snippet": "Efsanevi müzik grubu Duran Duran’ın kurucu üyesi ve gitaristi Andy Taylor, 65 yaşında hayatını kaybetti",
-     "published": "2026-11-26T06:00:56.000Z"
-    }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "حضور اشتباهی رافت ال رومان در مراسم عروسی همکارانش و صحبت درباره نامزدی‌اش",
+   "summaryFa": "رافت ال رومان به طور اتفاقی وارد محل برگزاری مراسم عروسی دریا اولوغ و اصیل گوک شد. او در گفتگو با خبرنگاران علاوه بر شوخی با این اتفاق، از نامزدی خود با رحیمه حاجیوا سخن گفت.",
+   "bodyFa": [
+    "رافت ال رومان، خواننده شناخته‌شده، برای انجام یک دیدار کاری مهم به محلی رفت که مصادف با برگزاری مراسم عروسی همکارانش، دریا اولوغ و اصیل گوک بود. او پس از روبروشدن با خبرنگاران متوجه این موضوع شد و با لحنی طنز اعلام کرد که تازه از طریق خبرنگاران فهمیده در چه مراسمی قرار دارد و به همین دلیل تصمیم گرفت مصاحبه‌ای کوتاه انجام دهد.",
+    "این خواننده در ادامه گفتگو به روابط شخصی خود اشاره کرد و نامزدی‌اش با رحیمه حاجیوا، از اتباع آذربایجان، را تأیید نمود. او با بیان اینکه فرد مناسب زندگی خود را یافته، افزود که پیش‌تر در ماه ژانویه خبر نامزدی‌اش را اعلام کرده بود اما هویت نامزد خود را فاش نکرده بود. ال رومان که دارای سه فرزند است، پیش از این دو بار ازدواج کرده بود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "fc11eeb2b456",
@@ -433,7 +1222,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/insanlarin-agzi-torba-degil-43391356",
      "title": "'İnsanların ağzı torba değil, büzemiyorsun'",
      "snippet": "Feyza Civelek, Sibel Taşçıoğlu ile arasında bir kavga yaşanmadığını belirtti ve ekledi: “İnsanların ağzı torba değil, büzemiyorsun. Öyle bir durum söz konusu değil.”",
-     "published": "2026-11-26T04:59:00.000Z"
+     "published": "2026-11-26T04:59:00.000Z",
+     "titleFa": "دهان مردم تور نیست که بتوانی آن را ببندی"
     }
    ],
    "images": [
@@ -444,7 +1234,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "پاسخ فیضه جیولک به شایعه درگیری با سیبل تاشچی‌اوغلو",
+   "summaryFa": "فیضه جیولک شایعات مطرح‌شده درباره وقوع درگیری میان خود و سیبل تاشچی‌اوغلو را رد کرد. او تأکید کرد که چنین مسئله‌ای صحت ندارد.",
+   "bodyFa": [
+    "فیضه جیولک در واکنش به اخبار منتشرشده، بروز هرگونه درگیری میان خود و سیبل تاشچی‌اوغلو را به طور کامل تکذیب کرد.",
+    "او با اشاره به این موضوع که دهان مردم را نمی‌توان بست، شایعات مطرح‌شده در این خصوص را بی‌اساس دانست و تأکید کرد که هیچ‌وقت چنین وضعیتی وجود نداشته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d859c8de57b4",
@@ -472,8 +1270,28 @@
      "title": "Derya Uluğ ve Asil Gök 10 yıllık aşklarını evlilikle taçlandırdı",
      "snippet": "Yaklaşık 10 yıldır birlikte olan şarkıcı Derya Uluğ ve müzisyen Asil Gök, dün akşam İstanbul'da düzenlenen düğün töreniyle dünyaevine girdi. Ünlü isimlerin katıldığı gecede çiftin mutluluğu davetlilerin sosyal medya paylaşımlarına yansıdı.",
      "published": "2026-11-26T04:38:00.000Z"
+    },
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/10-yillik-ask-evlilikle-taclandi-derya-ulugun-gelinligi-gundem-oldu-7708475",
+     "title": "10 yıllık aşk evlilikle taçlandı! Derya Uluğ'un gelinliği gündem oldu",
+     "snippet": "Yaklaşık 10 yıldır aşk yaşayan Derya Uluğ ve Asil Gök, görkemli bir düğünle evlendi. Çok sayıda ünlü ismin katıldığı gecede Derya Uluğ'un özel tasarım gelinliği ise sosyal medyada gündem oldu.",
+     "published": "2026-11-26T13:59:17.000Z"
     }
-   ]
+   ],
+   "mergedIds": [
+    "bbfe9ca8f1ef"
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b07b7df8c01a1364d06bdb7.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b07b7df8c01a1364d06bdb7.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true
   },
   {
    "id": "635269b0b3c2",
@@ -500,9 +1318,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sahne-kiyafetleri-unlu-sarkicinin-ogluna-da-fazla-gelmis-anne-sen-neden-hic-pantolon-giymiyorsun-43390839",
      "title": "Sahne kıyafetleri ünlü şarkıcının oğluna da 'fazla' gelmiş... 'Anne sen neden hiç pantolon giymiyorsun?'",
      "snippet": "Sinemanın, ekranın, müzik ve moda sahnelerinin ünlü isimlerini işlerini yaparken, katıldıkları önemli davetlerde, kırmızı halılarda ya da sahnede abartılı giysilerle görmeye, onları hep ışıltılı halleriyle izlemeye alışkınız.",
-     "published": "2026-11-26T04:23:06.000Z"
+     "published": "2026-11-26T04:23:06.000Z",
+     "titleFa": "لباس‌های صحنه برای پسر خواننده معروف هم «زیاد» بوده است... «مامان چرا هیچ‌وقت شلوار نمی‌پوشی؟»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b06d68e3516f14679ccccf5.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b06d68e3516f14679ccccf5.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "واکنش پسر یک خواننده معروف به لباس‌های صحنه او",
+   "summaryFa": "پسر یک خواننده مشهور از او پرسیده است که چرا هیچ‌وقت شلوار نمی‌پوشد.",
+   "bodyFa": [
+    "معمولاً چهره‌های سرشناس سینما، تلویزیون، موسیقی و مد در رویدادهای مهم، فرش قرمزها و روی صحنه با لباس‌های اغراق‌آمیز و درخشان ظاهر می‌شوند و مخاطبان به دیدن آن‌ها با چنین استایل‌هایی عادت دارند.",
+    "با این حال، به نظر می‌رسد لباس‌های صحنه یکی از خوانندگان معروف برای پسرش نیز عجیب بوده است؛ به طوری که او با تعجب از مادرش پرسیده است چرا هیچ‌وقت شلوار به پا نمی‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "fd6bce5beeb9",
@@ -529,9 +1365,27 @@
      "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
      "title": "‘Aile kursam fena olmaz!’",
      "snippet": "Melisa Döngel, annesi Natalia Orlova ile İstanbul Arnavutköy’de bir mekân çıkışında görüntülendi. Annesinin kendisine sık sık evlilik telkininde bulunduğunu söyleyen 27 yaşındaki oyuncu, artık aile kurma fikrine daha sıcak baktığını belirterek, “Geç kaldığımı düşünmüyorum ama aile kursam fena olmaz ",
-     "published": "2026-11-26T04:01:22.000Z"
+     "published": "2026-11-26T04:01:22.000Z",
+     "titleFa": "«خانواده تشکیل دهم بد نمی‌شود!»"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0764b2c00aca18cb4b143e.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0764b2c00aca18cb4b143e.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "دیدگاه ملیسا دونگل درباره تشکیل خانواده",
+   "summaryFa": "ملیسا دونگل، بازیگر ترک، در حومه استانبول در کنار مادرش دیده شد. او اعلام کرد که ایده تشکیل خانواده را مثبت می‌داند.",
+   "bodyFa": [
+    "ملیسا دونگل، بازیگر ۲۷ ساله، اخیراً به همراه مادرش ناتالیا اورلووا در منطقه آرناووتکوی استانبول در حال خروج از یک مکان دیده شد و توجه خبرنگاران را به خود جلب کرد.",
+    "این بازیگر طی صحبت‌های خود اشاره کرد که مادرش مرتباً او را به ازدواج تشویق می‌کند. دونگل در این باره توضیح داد که فکر نمی‌کند برای این کار دیر کرده باشد، اما تشکیل خانواده ایده بدی هم نیست و اکنون نگاه مثبت‌تری به این موضوع دارد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "2fd8ecd7eac8",
@@ -560,7 +1414,16 @@
      "snippet": "Cem Yiğit Üzümoğlu’nun, filmin afişiyle birlikte Kazım Koyuncu’ya dönüşümü ilk kez gözler önüne serildi. Çernobil’in gölgesindeki çocukluktan ‘İşte Gidiyorum’a uzanan hikâye 1 Ocak’ta sinemalarda olacak.",
      "published": "2026-11-26T04:01:21.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0763c5c00aca18cb4b1431.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0763c5c00aca18cb4b1431.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "86b046f9c8b8",
@@ -574,7 +1437,7 @@
    "video": null,
    "published": "2026-11-26T04:01:21.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -587,9 +1450,27 @@
      "url": "https://www.milliyet.com.tr/magazin/tabloyla-kesif-yapiyor-7708076",
      "title": "Tabloyla keşif yapıyor",
      "snippet": "Oyuncu, “Evimde bir tane eser var. Herkesin sanat eserlerlerine bakışı farklıdır. Ben her tabloya baktığımda başka bir şey keşfediyorum. Oturup tabloyu izlemek hoşuma gidiyor. Bir tane daha almayı düşünüyorum. Evimin duvarlarını tablolarla donatmayı düşünüyorum” diye konuştu. Geyik, İstanbul Nişanta",
-     "published": "2026-11-26T04:01:21.000Z"
+     "published": "2026-11-26T04:01:21.000Z",
+     "titleFa": "کشف با تابلو نقاشی"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b076311c00aca18cb4b142b.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b076311c00aca18cb4b142b.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "علاقه‌مندی یüsra Geyik به تابلوهای نقاشی",
+   "summaryFa": "یوسرا گئیک اعلام کرد که به آثار هنری و تابلوها علاقه دارد و می‌خواهد دیوارهای خانه‌اش را با آن‌ها پر کند.",
+   "bodyFa": [
+    "یوسرا گئیک، بازیگر شناخته‌شده، در اظهارات خود از علاقه شخصی‌اش به نقاشی و آثار هنری سخن گفت. او اشاره کرد که در حال حاضر یک اثر هنری در خانه‌اش نگهداری می‌کند و از تماشای آن لذت می‌برد.",
+    "این بازیگر توضیح داد که نگاه هر فرد به آثار هنری متفاوت است و او با هر بار نگاه کردن به تابلو، جزئیات جدیدی را کشف می‌کند. همچنین او قصد دارد در آینده تابلوهای بیشتری خریداری کند تا دیوارهای خانه‌اش را با آن‌ها تزئین نماید."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "7f10d1dc148b",
@@ -616,9 +1497,27 @@
      "url": "https://www.milliyet.com.tr/magazin/genc-tasarimciya-destek-7708073",
      "title": "Genç tasarımcıya destek",
      "snippet": "Oyuncu, yarışmada ikinci olan Lamia Duran’ın tasarladığı Coiffe Normande koleksiyonundan seçilen bir kombin tercih etti.",
-     "published": "2026-11-26T04:01:20.000Z"
+     "published": "2026-11-26T04:01:20.000Z",
+     "titleFa": "حمایت از طراح جوان"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b07620fc00aca18cb4b141b.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b07620fc00aca18cb4b141b.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "حمایت سرای سور از طراح جوان با پوشیدن لباس او",
+   "summaryFa": "سرای سور با پوشیدن ترکیبی از کلکسیون لاما دوران، طراح جوانی که در مسابقه جایزه دوم را کسب کرده بود، در تلویزیون ظاهر شد.",
+   "bodyFa": [
+    "سرای سور در حضور اخیر تلویزیونی خود از طراحی‌های جوانان حمایت کرد و ترکیبی از کلکسیون «کواف نرماند» را به تن کرد.",
+    "این لباس متعلق به لاما دوران است؛ طراحی که موفق شده بود در سی و چهارمین دوره مسابقه طراحان جوان مد کوزا، که توسط اتحادیه صادرکنندگان پوشاک و چرم استانبول برگزار شد، مقام دوم را کسب کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "13660adf5e3a",
@@ -645,9 +1544,27 @@
      "url": "https://www.milliyet.com.tr/magazin/istanbulda-sahne-alacak-7708072",
      "title": "İstanbul’da sahne alacak",
      "snippet": "Konsere gösterilen yoğun ilgiyle dört bilet kategorisi tükendi. Taemin, Focus İstanbul ve White Entertainment iş birliğiyle yarın akşam Ülker Spor ve Etkinlik Salonu’nda izleyici karşısında olacak.",
-     "published": "2026-11-26T04:01:20.000Z"
+     "published": "2026-11-26T04:01:20.000Z",
+     "titleFa": "طمین در استانبول روی صحنه خواهد رفت"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0761cdc00aca18cb4b1412.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0761cdc00aca18cb4b1412.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای طمین در استانبول",
+   "summaryFa": "طمین به عنوان نخستین هنرمند کی‌پپ در تور جهانی خود به ترکیه می‌آید و فردا شب در استانبول روی صحنه می‌رود. بلیت‌های این کنسرت با استقبال زیادی روبه‌رو شده است.",
+   "bodyFa": [
+    "طمین، هنرمند سرشناس کی‌پپ، در چارچوب تور جهانی خود با عنوان «لیمینال» نام ترکیه را نیز در برنامه کنسرت‌هایش جای داده و قرار است فردا شب در سالن ورزشی و رویدادهای اولکر برای طرفداران خود به اجرای برنامه بپردازد.",
+    "این رویداد با همکاری فوکوس استانبول و وایت اینترتینمنت برگزار می‌شود و به دلیل استقبال گسترده مخاطبان، چهار رده از بلیت‌های این کنسرت تاکنون به فروش رفته و تمام شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "dbca9ea04a07",
@@ -674,9 +1591,27 @@
      "url": "https://www.milliyet.com.tr/magazin/10-yil-sonra-solo-7708070",
      "title": "10 yıl sonra solo",
      "snippet": "Şarkıcının sahnede birlikte çalıştığı müzisyenlerden oluşan ekibiyle akustik bir düzenlemede yeniden hayat bulan eser, single olarak dinleyicilerin beğenisine sunuldu. ‘Kalbimi Koydum’, aynı zamanda Duran’ın YouTube kanalı için hazırladığı akustik projenin ikinci şarkısı oldu.",
-     "published": "2026-11-26T04:01:19.000Z"
+     "published": "2026-11-26T04:01:19.000Z",
+     "titleFa": "تک‌آهنگی پس از ۱۰ سال"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b076184c00aca18cb4b140b.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b076184c00aca18cb4b140b.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای انفرادی قطعه «Kalbimi Koydum» توسط بورا دوران پس از ۱۰ سال",
+   "summaryFa": "بورا دوران پس از گذشت ۱۰ سال، آهنگ «Kalbimi Koydum» را به صورت انفرادی و با تنظیم آکوستیک اجرا کرد. این اثر به عنوان دومین قطعه از پروژه آکوستیک این خواننده در یوتیوب منتشر شد.",
+   "bodyFa": [
+    "بورا دوران قطعه «Kalbimi Koydum» را پس از ده سال برای نخستین بار به شکل انفرادی اجرا کرد. این اثر با همکاری گروه نوازندگانی که این خواننده در اجراهای صحنه‌ای همراهی می‌کنند، با تنظیم جدیدی به صورت آکوستیک ضبط شده است.",
+    "این آهنگ به عنوان دومین تک‌آهنگ از پروژه آکوستیک اختصاصی بورا دوران برای کانال یوتیوب او تهیه شده و در دسترس علاقه‌مندان قرار گرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d62fc2ac70d2",
@@ -1197,9 +2132,27 @@
      "url": "https://www.sabah.com.tr/magazin/mutlu-son-7709241",
      "title": "Mutlu son",
      "snippet": "Televizyonların en çok izlenen yarışma programı 'Var Mısın Yok Musun' 50.bölümü ekrana geldi. Esra Erol'un sunumuyla gerçekleşen programda, Karabük doğumlu Hilal Demirel oldu. 32 yaşında, iki çocuk annesi... Devamı için tıklayınız",
-     "published": "2026-11-25T15:55:34.000Z"
+     "published": "2026-11-25T15:55:34.000Z",
+     "titleFa": "پایان خوش"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/d640f7/1200/675/0/0/975/549?u=https://isbh.tmgrup.com.tr/sbh/2026/11/25/mutlu-son-1795622120368.jpeg",
+    "https://iasbh.tmgrup.com.tr/d14950/752/395/0/0/975/513?u=https://isbh.tmgrup.com.tr/sbh/2026/11/25/mutlu-son-1795622120368.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "پخش پنجاهمین قسمت مسابقه «Var Mısın Yok Musun» با اجرای اسرا ارول",
+   "summaryFa": "پنجاهمین قسمت مسابقه تلویزیونی پرمخاطب «Var Mısın Yok Musun» با اجرای اسرا ارول روی آنتن رفت. در این قسمت هلال دمیرل، ۳۲ ساله و مادر دو فرزند، شرکت کرد.",
+   "bodyFa": [
+    "پنجاهمین قسمت از مسابقه تلویزیونی پرطرفدار «Var Mısın Yok Musun» پخش شد. این برنامه با اجرای اسرا ارول روی آنتن رفت و شرکت‌کننده این قسمت هلال دمیرل بود.",
+    "هلال دمیرل متولد کارابوک، ۳۲ ساله و مادر دو فرزند است. او قصد داشت با مبلغی که در این مسابقه برنده می‌شود، رستوران شخصی خود را برای ارائه غذاهای خانگی و محلی افتتاح کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "46db8766b122",
@@ -1370,37 +2323,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "284a35e109a4",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/vefali-dostlar-bir-donemin-unlu-mankeni-murat-misirliya-anlamli-ziyaret-7707907",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Vefalı dostlar! Bir dönemin ünlü mankeni Murat Mısırlı'ya anlamlı ziyaret",
-   "snippet": "Bir dönemin ünlü mankenlerinden Murat Mısırlı, 7 yıldır ALS hastalığıyla mücadele ediyor. Kenan İmirzalıoğlu, Atilla Saral ve Burak Hakkı'nın eski dostlarına gerçekleştirdiği anlamlı ziyaret, sosyal medyada duygusal anlar yaşattı.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b06ed31c00aca18cb4b1097.jpg",
-   "video": null,
-   "published": "2026-11-25T14:15:02.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [
-     "kenan-imirzalioglu"
-    ],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/vefali-dostlar-bir-donemin-unlu-mankeni-murat-misirliya-anlamli-ziyaret-7707907",
-     "title": "Vefalı dostlar! Bir dönemin ünlü mankeni Murat Mısırlı'ya anlamlı ziyaret",
-     "snippet": "Bir dönemin ünlü mankenlerinden Murat Mısırlı, 7 yıldır ALS hastalığıyla mücadele ediyor. Kenan İmirzalıoğlu, Atilla Saral ve Burak Hakkı'nın eski dostlarına gerçekleştirdiği anlamlı ziyaret, sosyal medyada duygusal anlar yaşattı.",
-     "published": "2026-11-25T14:15:02.000Z"
-    }
-   ]
   },
   {
    "id": "65d7b25020fe",
@@ -2233,7 +3155,8 @@
      "snippet": "1990'lı ve 2000'li yılların tanınan modellerinden Murat Mısırlı, 7 yıldır ALS hastalığıyla mücadele ediyor. Kenan İmirzalıoğlu, Atilla Saral ve Burak Hakkı, eski dostlarını sık sık ziyaret ederek yalnız bırakmıyor",
      "published": "2026-11-25T09:57:05.000Z"
     }
-   ]
+   ],
+   "mediaDone": true
   },
   {
    "id": "4db23d86e52b",
@@ -7571,46 +8494,6 @@
    "aiTries": 1
   },
   {
-   "id": "eefadca4f3ea",
-   "url": "https://www.sozcu.com.tr/feyyaz-serifoglu-nun-4-aylik-kizinin-bulundugu-otomobile-kamyon-carpti-p383596",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Feyyaz Şerifoğlu'nun 4 aylık kızının ve eşinin bulunduğu otomobile kamyon çarptı",
-   "snippet": "Haber spikeri Merve Dinçkol Şerifoğlu, kızı Defne Yaz ve bakıcılarıyla TEM Otoyolu'nda seyir halindeyken arkadan gelen k...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglujpg-SPUa3_1MG0eCj6br6kfCIg.jpg",
-   "video": null,
-   "published": "2026-11-23T06:12:26.000Z",
-   "scope": "linked",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [
-     "feyyaz-serifoglu"
-    ],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/feyyaz-serifoglu-nun-4-aylik-kizinin-bulundugu-otomobile-kamyon-carpti-p383596",
-     "title": "Feyyaz Şerifoğlu'nun 4 aylık kızının ve eşinin bulunduğu otomobile kamyon çarptı",
-     "snippet": "Haber spikeri Merve Dinçkol Şerifoğlu, kızı Defne Yaz ve bakıcılarıyla TEM Otoyolu'nda seyir halindeyken arkadan gelen k...",
-     "published": "2026-11-23T06:12:26.000Z"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglujpg-SPUa3_1MG0eCj6br6kfCIg.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglujpg-SPUa3_1MG0eCj6br6kfCIg.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglu-1jpg-GJco9Q5xe02KdZjuWmdgxQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/feyyaz-serifoglu-2jpg-hatqE_aZk0S1RHA_kPFNIA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/balik-cesitleri-fiyatlarijpeg-g8gR2hzSJ02oFcOAyu13kw.jpeg?w=288&h=162&mode=crop&scale=both"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "16f59929a10a",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncu-gec-yasta-cocuk-sahibi-olmustu-kizi-aci-konustu-keske-babam-bu-kadar-yasli-olmasaydi-43384633",
    "source": "hurriyet-kelebek",
@@ -11026,93 +11909,6 @@
    "aiTries": 1
   },
   {
-   "id": "6807297e7153",
-   "url": "https://www.milliyet.com.tr/magazin/irem-dericiden-kardesine-dogum-gunu-mesaji-iyi-ki-gozunu-morarttim-7705090",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "İrem Derici'den kardeşine doğum günü mesajı! “İyi ki gözünü morarttım”",
-   "snippet": "HABER MERKEZİ - Ünlü şarkıcı İrem Derici, erkek kardeşi Cemre Derici'nin doğum gününü sosyal medya hesabından yaptığı eğlenceli paylaşımla kutladı. Çocukluk yıllarındaki unutulmaz anılarını anlatan Derici'nin “İyi ki ben senin gözünü morarttım, sen de yeni spor ayakkabının kudretini denerken burnumu kırdın” sözleri dikkat çekti. KARDEŞİNE EĞLENCELİ DOĞUM GÜNÜ MESAJI Şarkıları, açıklamaları ve özel hayatıyla sık sık magazin gündemine gelen İrem Derici, bu kez erkek kardeşi Cemre Derici için yaptı",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b017532545758672f578d85.jpg",
-   "video": null,
-   "published": "2026-11-21T10:40:51.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/irem-dericiden-kardesine-dogum-gunu-mesaji-iyi-ki-gozunu-morarttim-7705090",
-     "title": "İrem Derici'den kardeşine doğum günü mesajı! “İyi ki gözünü morarttım”",
-     "snippet": "HABER MERKEZİ - Ünlü şarkıcı İrem Derici, erkek kardeşi Cemre Derici'nin doğum gününü sosyal medya hesabından yaptığı eğlenceli paylaşımla kutladı. Çocukluk yıllarındaki unutulmaz anılarını anlatan Derici'nin “İyi ki ben senin gözünü morarttım, sen de yeni spor ayakkabının kudretini denerken burnumu",
-     "published": "2026-11-21T10:40:51.000Z",
-     "titleFa": "پیام تولد ایرم دریجی به برادرش! «خوش به حال که چشمت را کبود کردم»"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6b017532545758672f578d85.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6b017532545758672f578d85.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "تبریک تولد ایرم دریجی به برادرش با روایتی از خاطرات کودکی",
-   "summaryFa": "ایرم دریجی، خواننده معروف، با انتشار پیامی در صفحه اجتماعی خود تولد برادرش جمری دریجی را تبریک گفت. او در این پیام به شوخی به خاطرات کودکی‌شان اشاره کرد.",
-   "bodyFa": [
-    "ایرم دریجی، خواننده سرشناس، به مناسبت تولد برادرش جمری دریجی پیامی طنزآمیز و صمیمی در فضای مجازی منتشر کرد.",
-    "او در این پست با یادآوری خاطرات دوران کودکی خود و برادرش، به شوخی خاطره‌ای از کبود کردن چشم او و ضربه خوردن بینی‌اش هنگام امتحان کردن کفش ورزشی جدید تعریف کرد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "1aeb7aaa3258",
-   "url": "https://www.haberturk.com/magazin/aslihan-malbora-evlenmiyorum-3928991",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"Evlenmiyorum\"",
-   "snippet": "Kendisi gibi oyuncu olan sevgilisi Çağatay Ulusoy ile önümüzdeki ay yurt dışında evleneceği yönündeki iddialara yanıt veren Aslıhan Malbora, \"Hayır, öyle bir şey yok. Evlenmiyorum\" dedi",
-   "image": "https://im.haberturk.com/l/2026/11/21/ver1795257557/3928991/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-21T10:40:30.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/aslihan-malbora-evlenmiyorum-3928991",
-     "title": "\"Evlenmiyorum\"",
-     "snippet": "Kendisi gibi oyuncu olan sevgilisi Çağatay Ulusoy ile önümüzdeki ay yurt dışında evleneceği yönündeki iddialara yanıt veren Aslıhan Malbora, \"Hayır, öyle bir şey yok. Evlenmiyorum\" dedi",
-     "published": "2026-11-21T10:40:30.000Z",
-     "titleFa": "«ازدواج نمی‌کنم»"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "پاسخ اصلهان مالبورا به شایعات ازدواج با چاتای اولوسوی",
-   "summaryFa": "اصلهان مالبورا شایعات مربوط به ازدواج خود با چاتای اولوسوی در خارج از کشور را رد کرد. او همچنین ادعای استفاده نامزدش از آمپول لاغری را تکذیب نمود.",
-   "bodyFa": [
-    "اصلهان مالبورا بازیگر ترکیه‌ای در حاشیه خروج از سالن تئاتر به سوالات خبرنگاران پاسخ داد و درباره روابط و وضعیت سلامت نامزدش چاتای اولوسوی توضیحاتی ارائه کرد.",
-    "او شایعات مطرح شده مبنی بر ازدواج قریب‌الوقوع خود با چاتای اولوسوی در خارج از کشور در ماه آینده را به طور کامل رد کرد و تاکید نمود که چنین چیزی صحت ندارد. همچنین، وی گزارش‌های مربوط به استفاده اولوسوی از آمپول‌های لاغری را تکذیب کرده و کاهش وزن او را نتیجه یک رژیم غذایی بسیار منظم و انضباط شخصی دانست.",
-    "مالبورا در ادامه وضعیت رابطه خود با اولوسوی را بسیار خوب و رضایت‌بخش توصیف کرد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
    "id": "30f8b285e36d",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/guller-ve-gunahlarda-nefesler-tutulacak-43386041",
    "source": "hurriyet-kelebek",
@@ -11281,413 +12077,6 @@
     "ادا اجه، بازیگر شناخته‌شده، عکس‌های جدیدی از خود و دخترش مینا ایپک را در صفحه شخصی‌اش به اشتراک گذاشته است. این بازیگر با انتشار این تصاویر مادر و دختری، یادداشت «کوچک بود، بزرگ شد» را قرار داد که سریعاً توجه رسانه‌ها و کاربران شبکه اجتماعی را به خود جلب نمود.",
     "ادا اجه در سال ۲۰۲۳ با بوراخان تونجر، بازیکن بسکتبال تیم گالاتاسرای ازدواج کرد و در سال ۲۰۲۴ با به دنیا آمدن نخستین فرزندشان مینا ایپک، برای اولین بار حس مادری را تجربه نمود. او معمولاً لحظات گوناگونی از زندگی خانوادگی و وقت گذراندن با فرزندش را با دنبال‌کنندگان خود به اشتراک می‌گذارد.",
     "این پست جدید در مدت زمانی کوتاه با استقبال زیادی روبه‌رو شد. بسیاری از دنبال‌کنندگان در بخش دیدگاه‌ها به شباهت زیاد مینا ایپک به مادرش اشاره کرده و او را کپی برابر اصل مادرش خواندند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "293cc6fbdca3",
-   "url": "https://www.haberturk.com/magazin/boran-kuzum-degnekle-goruntulendi-3928964",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Değnekle görüntülendi",
-   "snippet": "İtalya'da geçirdiği set kazasında ayağı kırılan oyuncu Boran Kuzum, Etiler'de değnekle objektiflere yansıdı",
-   "image": "https://im.haberturk.com/l/2026/11/21/ver1795247843/3928964/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-21T07:58:03.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/boran-kuzum-degnekle-goruntulendi-3928964",
-     "title": "Değnekle görüntülendi",
-     "snippet": "İtalya'da geçirdiği set kazasında ayağı kırılan oyuncu Boran Kuzum, Etiler'de değnekle objektiflere yansıdı",
-     "published": "2026-11-21T07:58:03.000Z",
-     "titleFa": "با چوب‌دستی دیده شد"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "دیدار بوران کوزوم با چوب دستی در اتیلر پس از حادثه فیلمبرداری در ایتالیا",
-   "summaryFa": "بوران کوزوم که در جریان فیلمبرداری در ایتالیا دچار شکستگی پا شده بود، برای اولین بار پس از حادثه در اتیلر دیده شد. او اعلام کرد که حدود یک هفته در خانه استراحت کرده و دلتنگ دستپخت مادرش شده است.",
-   "bodyFa": [
-    "بوران کوزوم، بازیگر سرشناس، پس از اینکه در یک حادثه در پشت صحنه پروژه خود در ایتالیا از ناحیه پا دچار شکستگی شد، اخیراً در منطقه اتیلر توسط عکاسان شکار شد. او هنگام تردد در خیابان مجبور بود از چوب‌دستی کمکی استفاده کند.",
-    "این بازیگر در توضیحات خود عنوان کرد که حدود یک هفته است در منزل به استراحت می‌پردازد و این اولین باری است که از خانه خارج می‌شود. وی همچنین اشاره کرد که به دلیل طولانی شدن روند فیلمبرداری در ایتالیا، دلتنگ غذاهای ترکیه‌ای شده و در پاسخ به این سوال که بیشتر دلتنگ چه چیزی است، از دستپخت مادرش یاد کرد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "4d2c74db352d",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/oglu-coktan-boyunu-gecmis-mehmet-gunsurden-gala-surprizi-43385860",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Oğlu, çoktan boyunu geçmiş: Mehmet Günsür'den gala sürprizi",
-   "snippet": "Ünlü oyuncu Mehmet Günsür, başrollerinden birini üstlendiği Aşk Tesadüfleri Sever 3 filminin galasında bir sürpriz yaptı.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b014ea0c757abf656938ab6.jpg",
-   "video": null,
-   "published": "2026-11-21T07:57:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/oglu-coktan-boyunu-gecmis-mehmet-gunsurden-gala-surprizi-43385860",
-     "title": "Oğlu, çoktan boyunu geçmiş: Mehmet Günsür'den gala sürprizi",
-     "snippet": "Ünlü oyuncu Mehmet Günsür, başrollerinden birini üstlendiği Aşk Tesadüfleri Sever 3 filminin galasında bir sürpriz yaptı.",
-     "published": "2026-11-21T07:57:00.000Z",
-     "titleFa": "پسرش خیلی وقت است از قد او بلندتر شده است: سورپرایز گالا از طرف محمد گونسور"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6b014ea0c757abf656938ab6.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6b014ea0c757abf656938ab6.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
-   ],
-   "mediaDone": true,
-   "titleFa": "حضور غافلگیرکننده محمد گونسور در اکران فیلم «عشق تصادف‌ها را دوست دارد ۳»",
-   "summaryFa": "بازیگر مشهور، محمد گونسور، در مراسم اکران فیلم «عشق تصادف‌ها را دوست دارد ۳» حضور یافت.",
-   "bodyFa": [
-    "محمد گونسور، بازیگر سرشناس که یکی از نقش‌های اصلی فیلم «عشق تصادف‌ها را دوست دارد ۳» را بر عهده دارد، در مراسم افتتاحیه و اکران این اثر حاضر شد و با حضور خود دست به یک غافلگیری زد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "78c45e7eddf3",
-   "url": "https://www.milliyet.com.tr/magazin/galeri/ajda-pekkandan-yurek-isitan-hareket-uc-yavruya-birden-yuva-oldu-7704950",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Ajda Pekkan'dan yürek ısıtan hareket! Üç yavruya birden yuva oldu",
-   "snippet": "Sinan Akçıl, Nilsu Berfin Aktaş'ın köpeğinin dünyaya getirdiği üç yavruya yuva ararken Ajda Pekkan'dan yardım istedi. Ünlü sanatçı, Chanel, Coco ve Jordan adı verilen yavruların üçünü de sahiplendi.",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b01410c545758672f578cf0.jpg",
-   "video": null,
-   "published": "2026-11-21T07:37:11.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/galeri/ajda-pekkandan-yurek-isitan-hareket-uc-yavruya-birden-yuva-oldu-7704950",
-     "title": "Ajda Pekkan'dan yürek ısıtan hareket! Üç yavruya birden yuva oldu",
-     "snippet": "Sinan Akçıl, Nilsu Berfin Aktaş'ın köpeğinin dünyaya getirdiği üç yavruya yuva ararken Ajda Pekkan'dan yardım istedi. Ünlü sanatçı, Chanel, Coco ve Jordan adı verilen yavruların üçünü de sahiplendi.",
-     "published": "2026-11-21T07:37:11.000Z",
-     "titleFa": "حرکت دلگرم‌کننده از آجدا پکان! او همزمان به سه توله پناه داد"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6b01410c545758672f578cf0.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6b01410c545758672f578cf0.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "اقدام پسندیده آجدا پکان در قبال توله‌سگ‌های نیلسو برفین آکتاش",
-   "summaryFa": "سینان آکچیل برای توله‌سگ‌های سگ نیلسو برفین آکتاش به دنبال سرپرست بود که آجدا پکان هر سه را به سرپرستی گرفت.",
-   "bodyFa": [
-    "سینان آکچیل برای سه توله‌سگی که سگ نیلسو برفین آکتاش به دنیا آورده بود، به دنبال یک خانه و سرپرست می‌گشت و در این زمینه از آجدا پکان کمک خواست.",
-    "این هنرمند سرشنا هر سه توله را که نام‌هایشان شانل، کوکو و جردن تعیین شده است، به سرپرستی پذیرید."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "cadd3c5ae655",
-   "url": "https://www.haberturk.com/magazin/foto/sila-11-yasinda-ailemden-ayrildim-3928901",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "\"11 yaşında ailemden ayrıldım\"",
-   "snippet": "Hayatıyla ilgili samimi açıklamalarda bulunan şarkıcı Sıla, \"Hayatımda birden çok dönüm noktası var\" diyerek çocukluk yıllarından müzik kariyerine ve babasının vefatına kadar kendisini etkileyen süreci anlattı",
-   "image": "https://im.haberturk.com/l/2026/11/20/ver1795199946/3928901/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-21T07:34:35.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/sila-11-yasinda-ailemden-ayrildim-3928901",
-     "title": "\"11 yaşında ailemden ayrıldım\"",
-     "snippet": "Hayatıyla ilgili samimi açıklamalarda bulunan şarkıcı Sıla, \"Hayatımda birden çok dönüm noktası var\" diyerek çocukluk yıllarından müzik kariyerine ve babasının vefatına kadar kendisini etkileyen süreci anlattı",
-     "published": "2026-11-21T07:34:35.000Z",
-     "titleFa": "۱۱ سالگی از خانواده‌ام جدا شدم"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "خواننده Sıla از دوران کودکی و مسیر کاری‌اش گفت",
-   "summaryFa": "خواننده و ترانه‌سرا Sıla در یک برنامه تلویزیونی درباره نقاط عطف زندگی، دوران کودکی و چالش‌های مسیر موفقیت خود صحبت کرد. او به مواردی همچون جدایی از خانواده در ۱۱ سالگی و فرآیند خلق آثارش اشاره کرد.",
-   "bodyFa": [
-    "خواننده و ترانه‌سرا، Sıla Gençoğlu، اخیراً در برنامه‌ای با «Melis İşiten ile Zaten Şov» حضور یافت و درباره زوایای مختلف زندگی شخصی و حرفه‌ای خود، از جمله درک خود از موفقیت، روابط دوستانه و مسیر موسیقی‌اش توضیحاتی ارائه داد. او در این گفتگو تأکید کرد که زندگی‌اش دارای نقاط عطف متعددی بوده است.",
-    "این هنرمند با اشاره به دوران کودکی‌اش گفت که در سن ۱۱ سالگی برای تحصیل زبان فرانسوی از خانواده‌اش جدا شده است. Sıla همچنین درباره شیوه کار خود هنگام نوشتن ترانه‌ها توضیح داد که گاهی ساعت‌ها خود را در اتاق حبس می‌کند تا کار به اتمام برسد و این وضعیت را نه یک دوره افسردگی، بلکه یک فرآیند پرجوش و خروش و متمرکز توصیف کرد.",
-    "وی با اعتراف به اینکه فردی کنترل‌گر است، موفقیت را نیازمند تلاش سخت، شانس، صبر، اعصاب فولادین و پذیرش سختی‌ها دانست و بیان کرد که حفظ موفقیت یکی از بحرانی‌ترین کارهای دنیاست."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "89cfdb16958f",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/inanmayin-ben-hala-mahallenizin-kiziyim-dedigine-boynundaki-elmaslari-dort-polis-korudu-43385763",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "İnanmayın 'Ben hâlâ mahallenizin kızıyım' dediğine... Boynundaki elmasları dört polis korudu!",
-   "snippet": "Sinema ve müzik dünyasının yıllardır parıltısını yitirmeyen yıldızı Jennifer Lopez... 57 yaşına gelmesine, özel hayatında nice fırtınalar atlatmasına rağmen kariyerine dört elle sarılıp çıktığı zirvede tutunuyor. Hem de arkasından gelen yeni nesillere rağmen!",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b014348c757abf656938a69.jpg",
-   "video": null,
-   "published": "2026-11-21T07:13:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/inanmayin-ben-hala-mahallenizin-kiziyim-dedigine-boynundaki-elmaslari-dort-polis-korudu-43385763",
-     "title": "İnanmayın 'Ben hâlâ mahallenizin kızıyım' dediğine... Boynundaki elmasları dört polis korudu!",
-     "snippet": "Sinema ve müzik dünyasının yıllardır parıltısını yitirmeyen yıldızı Jennifer Lopez... 57 yaşına gelmesine, özel hayatında nice fırtınalar atlatmasına rağmen kariyerine dört elle sarılıp çıktığı zirvede tutunuyor. Hem de arkasından gelen yeni nesillere rağmen!",
-     "published": "2026-11-21T07:13:00.000Z",
-     "titleFa": "باور نکنید وقتی می‌گوید «من هنوز دختر محله شما هستم»... الماس‌های دور گردنش توسط چهار پلیس محافظت می‌شد!"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6b014348c757abf656938a69.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6b014348c757abf656938a69.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
-   ],
-   "mediaDone": true,
-   "titleFa": "محافظت از جواهرات جنیفر لوپز توسط چهار پلیس",
-   "summaryFa": "جنیفر لوپز، ستاره ۵۷ ساله سینما و موسیقی، همچنان در اوج فعالیت دارد.",
-   "bodyFa": [
-    "جنیفر لوپز به عنوان یکی از چهره‌های ماندگار دنیای سینما و موسیقی شناخته می‌شود که با وجود رسیدن به سن ۵۷ سالگی و گذر از فراز و نشیب‌های فراوان در زندگی شخصی، همچنان جایگاه خود را در بالاترین سطح حرفه‌ای حفظ کرده است.",
-    "در این گزارش به محافظت از الماس‌های دور گردن او توسط چهار پلیس اشاره شده است، در حالی که او همچنان به فعالیت‌های هنری خود ادامه می‌دهد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "02fb452f8f72",
-   "url": "https://www.milliyet.com.tr/magazin/dugun-de-yok-bebek-de-7704851",
-   "source": "milliyet-magazin",
-   "sourceName": "Milliyet",
-   "lang": "tr",
-   "title": "Düğün de yok bebek de!",
-   "snippet": "MESUT YILMAZ -Oyuncu, önümüzdeki ay Ulusoy’la yurt dışında nikâh yapacakları söylentilerine, “Hayır, öyle bir şey yok. Evlenmiyorum” yanıtıyla son noktayı koydu. Malbora, “Hakkınızda ortaya atılan hamilelik iddiaları nedeniyle dava açmayı düşünüyor musunuz?” sorusuna ise, “Hamile değilim, dava açmayı da düşünmüyorum” cevabını verdi. Son dönemde verdiği kilolarla dikkat çeken Çağatay Ulusoy’un zayıflama iğnesi kullandığı haberlerine ise oyuncu, “Hayır, olmadı. Çok disiplinli bir diyet yapıyor” sö",
-   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b00c6dd1c3369444cf1d1e5.jpg",
-   "video": null,
-   "published": "2026-11-21T04:57:59.000Z",
-   "scope": "general",
-   "kind": "official",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/dugun-de-yok-bebek-de-7704851",
-     "title": "Düğün de yok bebek de!",
-     "snippet": "MESUT YILMAZ -Oyuncu, önümüzdeki ay Ulusoy’la yurt dışında nikâh yapacakları söylentilerine, “Hayır, öyle bir şey yok. Evlenmiyorum” yanıtıyla son noktayı koydu. Malbora, “Hakkınızda ortaya atılan hamilelik iddiaları nedeniyle dava açmayı düşünüyor musunuz?” sorusuna ise, “Hamile değilim, dava açmay",
-     "published": "2026-11-21T04:57:59.000Z",
-     "titleFa": "عروسی هم در کار نیست، بچه هم!"
-    }
-   ],
-   "images": [
-    "https://image.milimaj.com/i/milliyet/75/460x340/6b00c6dd1c3369444cf1d1e5.jpg",
-    "https://image.milimaj.com/i/milliyet/75/0x0/6b00c6dd1c3369444cf1d1e5.jpg",
-    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
-    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
-    "https://static.milliyet.com.tr/images/common/_youtube.svg",
-    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
-   ],
-   "mediaDone": true,
-   "titleFa": "ت تکذیب ازدواج و بارداری توسط اصلیهان مالبورا",
-   "summaryFa": "اصلیهان مالبورا شایعات مربوط به ازدواج خود با چاعاتای اولوسوی در خارج از کشور و همچنین ادعاهای مطرح شده درباره بارداری‌اش را رد کرد.",
-   "bodyFa": [
-    "اصلیهان مالبورا به تازگی شایعات منتشر شده درباره اینکه قرار است ماه آینده با شریک زندگی خود، چاعاتای اولوسوی، در خارج از کشور ازدواج کند را به طور کامل تکذیب کرد و به این ادعاها پایان داد.",
-    "این بازیگر همچنین در پاسخ به سوالی درباره اینکه آیا قصد دارد به دلیل ادعاهای مطرح شده درباره بارداری‌اش شکایتی ثبت کند، تأکید کرد که باردار نیست."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "520eee0b2a73",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/turk-lokumu-diyorsam-turk-sinemasi-derim-43385280",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Türk lokumu diyorsam Türk sineması derim",
-   "snippet": "Sumru Yavrucuk’a Haluk Bilginer’in tartışma yaratan “Türk sineması değil, Türkiye sineması diyelim” sözleri soruldu. Sanatçı, görüşünü “Türk lokumu diyorsam, Türk sineması da derim” sözleriyle dile getirdi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b00612a8c01a1364d06abf1.jpg",
-   "video": null,
-   "published": "2026-11-21T04:42:37.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/turk-lokumu-diyorsam-turk-sinemasi-derim-43385280",
-     "title": "Türk lokumu diyorsam Türk sineması derim",
-     "snippet": "Sumru Yavrucuk’a Haluk Bilginer’in tartışma yaratan “Türk sineması değil, Türkiye sineması diyelim” sözleri soruldu. Sanatçı, görüşünü “Türk lokumu diyorsam, Türk sineması da derim” sözleriyle dile getirdi.",
-     "published": "2026-11-21T04:42:37.000Z",
-     "titleFa": "اگر می‌گویم لوکوم ترکی، می‌گویم سینمای ترک"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6b00612a8c01a1364d06abf1.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6b00612a8c01a1364d06abf1.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
-   ],
-   "mediaDone": true,
-   "ai": true,
-   "aiTries": 2,
-   "titleFa": "واکنش سومرو یاوروجک به اظهارات هالوک بیلگینر درباره سینمای ترکیه",
-   "summaryFa": "سومرو یاوروجک در پاسخ به سخنان جنجالی هالوک بیلگینر درباره نام‌گذاری سینمای ترکیه، نظر خود را با مثالی از «لوکوم ترکی» بیان کرد.",
-   "bodyFa": [
-    "از سومرو یاوروجک درباره اظهارات جنجالی اخیر هالوک بیلگینر پرسیده شد که پیشنهاد کرده بود به جای اصطلاح «سینمای ترک»، از عبارت «سینمای ترکیه» استفاده شود.",
-    "این هنرمند در پاسخ به این پرسش، دیدگاه خود را مطرح کرد و گفت که اگر از عبارت «لوکوم ترکی» استفاده می‌کند، به همان نسبت از اصطلاح «سینمای ترک» نیز استفاده خواهد کرد."
-   ]
-  },
-  {
-   "id": "db91252cb364",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/pasa-kizi-serap-43385259",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Paşa kızı Serap",
-   "snippet": "Türk sinemasının efsane oyuncusu Kemal Sunal’ın başrolünde yer aldığı 1977 yapımı “Şabanoğlu Şaban”ın devam filmi “Şabanoğlu Şabanoğlu Şaban”ın kadrosuna katıldı.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0061ee8c01a1364d06abf6.jpg",
-   "video": null,
-   "published": "2026-11-21T04:42:16.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/pasa-kizi-serap-43385259",
-     "title": "Paşa kızı Serap",
-     "snippet": "Türk sinemasının efsane oyuncusu Kemal Sunal’ın başrolünde yer aldığı 1977 yapımı “Şabanoğlu Şaban”ın devam filmi “Şabanoğlu Şabanoğlu Şaban”ın kadrosuna katıldı.",
-     "published": "2026-11-21T04:42:16.000Z",
-     "titleFa": "پاشا کızı سراب"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6b0061ee8c01a1364d06abf6.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6b0061ee8c01a1364d06abf6.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
-   ],
-   "mediaDone": true,
-   "titleFa": "پیوستن «سراب» دختر پاشا به فیلم «Şabanoğlu Şabanoğlu Şaban»",
-   "summaryFa": "سراب دختر پاشا به بازیگران فیلم «Şabanoğlu Şabanoğlu Şaban» که ادامه فیلم «Şabanoğlu Şaban» محصول ۱۹۷۷ با بازی کمال سونال است، پیوست.",
-   "bodyFa": [
-    "گزارش‌ها حاکی از آن است که فیلم «Şabanoğlu Şabanoğlu Şaban» به عنوان دنباله فیلم کلاسیک «Şabanoğlu Şaban» محصول سال ۱۹۷۷ که کمال سونال بازیگر افسانه‌ای سینمای ترکیه در آن نقش‌آفرینی کرده بود، ساخته می‌شود.",
-    "در همین راستا، اعلام شده است که «سراب دختر پاشا» به جمع بازیگران این پروژه سینمایی پیوسته است تا در این فیلم حضور داشته باشد."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "e62045814b3d",
-   "url": "https://www.hurriyet.com.tr/kelebek/hayat/dunya-turnesine-cikiyor-43385257",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Dünya turnesine çıkıyor",
-   "snippet": "Ebru Gündeş dünya turnesine hazırlanıyor. Sanatçı “Beraber Söylüyoruz” konseptiyle Avrupa ve Orta Doğu’da konserler verecek.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b005b548c01a1364d06ab9f.jpg",
-   "video": null,
-   "published": "2026-11-21T04:34:41.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/hayat/dunya-turnesine-cikiyor-43385257",
-     "title": "Dünya turnesine çıkıyor",
-     "snippet": "Ebru Gündeş dünya turnesine hazırlanıyor. Sanatçı “Beraber Söylüyoruz” konseptiyle Avrupa ve Orta Doğu’da konserler verecek.",
-     "published": "2026-11-21T04:34:41.000Z",
-     "titleFa": "به تور جهانی می‌رود"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6b005b548c01a1364d06ab9f.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6b005b548c01a1364d06ab9f.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
-   ],
-   "mediaDone": true,
-   "titleFa": "ابرو گوندش به تور جهانی می‌رود",
-   "summaryFa": "این هنرمند قرار است با مفهوم «با هم می‌خوانیم» در اروپا و خاورمیانه کنسرت برگزار کند.",
-   "bodyFa": [
-    "ابرو گوندش خود را برای یک تور جهانی آماده می‌کند. بر اساس اطلاعات منتشر شده، این هنرمند سرشناس قرار است اجراهای زنده خود را با طرح و مفهوم جدیدی به روی صحنه ببرد.",
-    "این مجموعه کنسرت‌ها با عنوان «با هم می‌خوانیم» برنامه‌ریزی شده است و مناطق مختلفی از جمله اروپا و خاورمیانه را پوشش خواهد داد."
    ],
    "ai": true,
    "aiTries": 1
