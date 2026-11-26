@@ -275,7 +275,10 @@
     "slot:2026-11-25:0",
     "pavaraghi:dubbed-35",
     "editorial:dubbed-29:0",
-    "slot:2026-11-26:0"
+    "slot:2026-11-26:0",
+    "engagement:poll:partnership",
+    "engagement-day:2026-11-26",
+    "slot:2026-11-26:3"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -432,9 +435,10 @@
     "episode:13": "2026-11-25",
     "episode:14": "2026-11-26",
     "episode:15": "2026-11-22",
-    "poll:speculation": "2026-11-23"
+    "poll:speculation": "2026-11-23",
+    "poll:partnership": "2026-11-26"
   },
-  "updated": "2026-11-26T09:39:32.300Z",
+  "updated": "2026-11-26T17:51:59.620Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
@@ -569,6 +573,13 @@
       "url": "https://t.me/ehtemalaneshgheh/145",
       "poll_id": "5780692407485990127",
       "date": "2026-11-25"
+    },
+    "engagement:poll:partnership": {
+      "channel": "@ehtemalaneshgheh",
+      "message_id": 149,
+      "url": "https://t.me/ehtemalaneshgheh/149",
+      "poll_id": "5782944207299675311",
+      "date": "2026-11-26"
     }
   }
 }
