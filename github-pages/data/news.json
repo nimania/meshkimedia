@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-26T17:35:13.026Z",
+ "updated": "2026-11-26T19:39:20.176Z",
  "items": [
+  {
+   "id": "a1fc36d3752d",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/doguma-gunler-kaldi-gamze-ercelden-karni-burnunda-hamilelik-pozlari-7708788",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Doğuma günler kaldı! Gamze Erçel'den karnı burnunda hamilelik pozları",
+   "snippet": "Oyuncu Hande Erçel’in ablası Gamze Erçel Yıldırım, ikinci çocuğunu kucağına almak için gün sayıyor. Hamilelik pozlarını paylaşan Yıldırım'ın karnının iyice belirginleştiği görüldü.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b08757ec00aca18cb4b1c1a.jpg",
+   "video": null,
+   "published": "2026-11-26T18:10:54.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/doguma-gunler-kaldi-gamze-ercelden-karni-burnunda-hamilelik-pozlari-7708788",
+     "title": "Doğuma günler kaldı! Gamze Erçel'den karnı burnunda hamilelik pozları",
+     "snippet": "Oyuncu Hande Erçel’in ablası Gamze Erçel Yıldırım, ikinci çocuğunu kucağına almak için gün sayıyor. Hamilelik pozlarını paylaşan Yıldırım'ın karnının iyice belirginleştiği görüldü.",
+     "published": "2026-11-26T18:10:54.000Z"
+    }
+   ]
+  },
   {
    "id": "9e892d28dc33",
    "url": "https://www.milliyet.com.tr/magazin/var-misin-yok-musun-tarihinde-bir-ilk-esranin-performansi-saskina-cevirdi-7708724",
@@ -679,7 +708,7 @@
    "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b07fdb8f90143abc113ff54.jpg",
    "video": null,
    "published": "2026-11-26T09:38:00.000Z",
-   "scope": "dizi",
+   "scope": "general",
    "kind": "media",
    "entities": {
     "series": [],
@@ -1157,6 +1186,35 @@
    "aiTries": 1
   },
   {
+   "id": "0ddaa1978769",
+   "url": "https://www.sozcu.com.tr/unlu-muzisyen-andy-taylor-hayatini-kaybetti-p384527",
+   "source": "sozcu-magazin",
+   "sourceName": "Sözcü",
+   "lang": "tr",
+   "title": "Ünlü müzisyen Andy Taylor hayatını kaybetti",
+   "snippet": "Dünyaca ünlü Duran Duran grubunun kurucu üyelerinden Andy Taylor, 65 yaşında hayatını kaybetti. Uzun süredir prostat kan...",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/andytaloyjpg-AIjRhFcGCUGW2nHY8FA9rQ.jpg",
+   "video": null,
+   "published": "2026-11-26T06:48:52.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "sozcu-magazin",
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/unlu-muzisyen-andy-taylor-hayatini-kaybetti-p384527",
+     "title": "Ünlü müzisyen Andy Taylor hayatını kaybetti",
+     "snippet": "Dünyaca ünlü Duran Duran grubunun kurucu üyelerinden Andy Taylor, 65 yaşında hayatını kaybetti. Uzun süredir prostat kan...",
+     "published": "2026-11-26T06:48:52.000Z"
+    }
+   ]
+  },
+  {
    "id": "f6e4e598fd6a",
    "url": "https://www.haberturk.com/magazin/foto/rafet-el-roman-dogru-kisiyi-buldum-3930199",
    "source": "haberturk-magazin",
@@ -1194,6 +1252,35 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "96a4e96f0e72",
+   "url": "https://www.haberturk.com/magazin/foto/duran-duran-in-gitaristi-andy-taylor-yasamini-yitirdi-3930204",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "Ünlü müzisyenden acı haber",
+   "snippet": "Efsanevi müzik grubu Duran Duran’ın kurucu üyesi ve gitaristi Andy Taylor, 65 yaşında hayatını kaybetti",
+   "image": "https://im.haberturk.com/l/2026/11/26/ver1795672376/3930204/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-26T06:00:56.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/foto/duran-duran-in-gitaristi-andy-taylor-yasamini-yitirdi-3930204",
+     "title": "Ünlü müzisyenden acı haber",
+     "snippet": "Efsanevi müzik grubu Duran Duran’ın kurucu üyesi ve gitaristi Andy Taylor, 65 yaşında hayatını kaybetti",
+     "published": "2026-11-26T06:00:56.000Z"
+    }
+   ]
   },
   {
    "id": "fc11eeb2b456",
@@ -2323,6 +2410,37 @@
    ],
    "ai": true,
    "aiTries": 1
+  },
+  {
+   "id": "284a35e109a4",
+   "url": "https://www.milliyet.com.tr/magazin/galeri/vefali-dostlar-bir-donemin-unlu-mankeni-murat-misirliya-anlamli-ziyaret-7707907",
+   "source": "milliyet-magazin",
+   "sourceName": "Milliyet",
+   "lang": "tr",
+   "title": "Vefalı dostlar! Bir dönemin ünlü mankeni Murat Mısırlı'ya anlamlı ziyaret",
+   "snippet": "Bir dönemin ünlü mankenlerinden Murat Mısırlı, 7 yıldır ALS hastalığıyla mücadele ediyor. Kenan İmirzalıoğlu, Atilla Saral ve Burak Hakkı'nın eski dostlarına gerçekleştirdiği anlamlı ziyaret, sosyal medyada duygusal anlar yaşattı.",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6b06ed31c00aca18cb4b1097.jpg",
+   "video": null,
+   "published": "2026-11-25T14:15:02.000Z",
+   "scope": "linked",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [
+     "kenan-imirzalioglu"
+    ],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "milliyet-magazin",
+     "name": "Milliyet",
+     "url": "https://www.milliyet.com.tr/magazin/galeri/vefali-dostlar-bir-donemin-unlu-mankeni-murat-misirliya-anlamli-ziyaret-7707907",
+     "title": "Vefalı dostlar! Bir dönemin ünlü mankeni Murat Mısırlı'ya anlamlı ziyaret",
+     "snippet": "Bir dönemin ünlü mankenlerinden Murat Mısırlı, 7 yıldır ALS hastalığıyla mücadele ediyor. Kenan İmirzalıoğlu, Atilla Saral ve Burak Hakkı'nın eski dostlarına gerçekleştirdiği anlamlı ziyaret, sosyal medyada duygusal anlar yaşattı.",
+     "published": "2026-11-25T14:15:02.000Z"
+    }
+   ]
   },
   {
    "id": "65d7b25020fe",
@@ -11671,180 +11789,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "6e0ccf3db74a",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/efsane-oyuncu-genc-meslektasinin-dugun-yemeginden-kovulmus-hic-eglenmiyorsun-evine-git-43385964",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Efsane oyuncu genç meslektaşının düğün yemeğinden kovulmuş: Hiç eğlenmiyorsun, evine git!",
-   "snippet": "Herhangi bir zamanda herhangi bir yerde çok ünlü hatta artık bir tür efsaneye dönüşmüş birini görseniz büyük olasılıkla onunla aynı ortamda olabildiğince uzun süre kalmak için çaba harcarsınız. Ya da o sizinle aynı ortamda kalsın diye...",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b016666c757abf656938b5c.jpg",
-   "video": null,
-   "published": "2026-11-21T15:06:13.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/efsane-oyuncu-genc-meslektasinin-dugun-yemeginden-kovulmus-hic-eglenmiyorsun-evine-git-43385964",
-     "title": "Efsane oyuncu genç meslektaşının düğün yemeğinden kovulmuş: Hiç eğlenmiyorsun, evine git!",
-     "snippet": "Herhangi bir zamanda herhangi bir yerde çok ünlü hatta artık bir tür efsaneye dönüşmüş birini görseniz büyük olasılıkla onunla aynı ortamda olabildiğince uzun süre kalmak için çaba harcarsınız. Ya da o sizinle aynı ortamda kalsın diye...",
-     "published": "2026-11-21T15:06:13.000Z",
-     "titleFa": "بازیگر افسانه‌ای از شام عروسی همکار جوانش اخراج شد: اصلاً خوش نمی‌گذرانی، برو خانه‌ات!"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6b016666c757abf656938b5c.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6b016666c757abf656938b5c.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
-   ],
-   "mediaDone": true,
-   "titleFa": "اخراج بازیگر مطرح از مراسم شام عروسی همکار جوانش",
-   "summaryFa": "رسانه‌های ترکیه‌ای گزارشی درباره اخراج یک بازیگر سرشناس از شام عروسی همکار جوانش منتشر کرده‌اند. علت این برخورد، نداشتن روحیه شاد و بی‌حوصلگی او در مراسم عنوان شده است.",
-   "bodyFa": [
-    "بر اساس گزارش‌های منتشرشده در رسانه‌ها، ادعایی درباره حضور یک بازیگر پیشکسوت و مطرح در مراسم شام عروسی یکی از همکاران جوان‌ترش بازتاب یافته است. طبق این گزارش‌ها، حضور این بازیگر سرشناس در جشن یادشده دوام چندانی نداشته و با حاشیه همراه بوده است.",
-    "گفته می‌شود در جریان این مهمانی، به این بازیگر باسابقه اعلام شده است که چون ظاهراً از حضور در جمع لذت نمی‌برد و خوش نمی‌گذراند، بهتر است مراسم را ترک کرده و به خانه‌اش برود. این ادعا در قالب یک روایت رسانه‌ای مطرح شده است."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "bc8f8041918e",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/once-oglunu-sonra-karisini-topraga-verdi-alti-yil-iki-cocuguna-hem-anne-hem-baba-oldu-artik-yeniden-sevmeye-hazirim-43386317",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Önce oğlunu sonra karısını toprağa verdi... Altı yıl iki çocuğuna hem anne hem baba oldu... \"Artık yeniden sevmeye hazırım\"",
-   "snippet": "Sinemanın eskimeyen yıldızlarından John Travolta bundan altı yıl önce hayatının en büyük acılarından birini yaşadı...",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b01a62cc757abf656938ceb.jpg",
-   "video": null,
-   "published": "2026-11-21T14:15:00.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/once-oglunu-sonra-karisini-topraga-verdi-alti-yil-iki-cocuguna-hem-anne-hem-baba-oldu-artik-yeniden-sevmeye-hazirim-43386317",
-     "title": "Önce oğlunu sonra karısını toprağa verdi... Altı yıl iki çocuğuna hem anne hem baba oldu... \"Artık yeniden sevmeye hazırım\"",
-     "snippet": "Sinemanın eskimeyen yıldızlarından John Travolta bundan altı yıl önce hayatının en büyük acılarından birini yaşadı...",
-     "published": "2026-11-21T14:15:00.000Z"
-    }
-   ]
-  },
-  {
-   "id": "831ee34b2f32",
-   "url": "https://www.sozcu.com.tr/podyumu-birakti-ciftci-oldu-unlu-manken-tugba-ozay-tonlarca-hasat-yapiyor-p383273",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Podyumu bıraktı çiftçi oldu: Ünlü manken Tuğba Özay tonlarca hasat yapıyor",
-   "snippet": "Bir dönemin podyumlarda fırtınalar estiren ünlü ismi Tuğba Özay, şöhreti geride bırakıp yerleştiği Antalya Manavgat'ta b...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/podyumu-birakti-ciftci-oldu-unlu-manken-tugba-ozay-tonlarca-hasat-yapiyor-3jpg-ic98kh1o-0C2QwgHU_GpWA.jpg",
-   "video": null,
-   "published": "2026-11-21T13:22:53.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/podyumu-birakti-ciftci-oldu-unlu-manken-tugba-ozay-tonlarca-hasat-yapiyor-p383273",
-     "title": "Podyumu bıraktı çiftçi oldu: Ünlü manken Tuğba Özay tonlarca hasat yapıyor",
-     "snippet": "Bir dönemin podyumlarda fırtınalar estiren ünlü ismi Tuğba Özay, şöhreti geride bırakıp yerleştiği Antalya Manavgat'ta b...",
-     "published": "2026-11-21T13:22:53.000Z",
-     "titleFa": "مدلینگ را رها کرد و کشاورز شد: توغبا اوزای مدل معروف تن‌ها محصول برداشت می‌کند"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/podyumu-birakti-ciftci-oldu-unlu-manken-tugba-ozay-tonlarca-hasat-yapiyor-3jpg-ic98kh1o-0C2QwgHU_GpWA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/podyumu-birakti-ciftci-oldu-unlu-manken-tugba-ozay-tonlarca-hasat-yapiyor-3jpg-ic98kh1o-0C2QwgHU_GpWA.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/podyumu-birakti-ciftci-oldu-unlu-manken-tugba-ozay-tonlarca-hasat-yapiyor-1jpg-lYSu115qXEC10BCipyUWjQ.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/podyumu-birakti-ciftci-oldu-unlu-manken-tugba-ozay-tonlarca-hasat-yapiyor-2jpg-WbC3xcm-J0KUIvZJyeS52Q.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/suriye-urdun-notajpg-FLD3M9m6hEW7I385xitiJA.jpg?w=288&h=162&mode=crop&scale=both"
-   ],
-   "mediaDone": true,
-   "titleFa": "توغبا اوزای از مدلینگ فاصله گرفت و در ماناوگات به کشاورزی مشغول شد",
-   "summaryFa": "توغبا اوزای، مدل مشهور سابق، پس از ترک شهرت به منطقه ماناوگات در آنتالیا نقل مکان کرد و زندگی جدیدی به عنوان کشاورز آغاز نمود.",
-   "bodyFa": [
-    "توغبا اوزای که زمانی در دنیای مدلینگ فعالیت داشت، با ترک کردن فضای شهرت، تصمیم گرفت در شهر ماناوگات واقع در آنتالیا زندگی کاملاً متفاوتی برای خود بسازد.",
-    "او پس از سال‌ها فعالیت در عرصه‌های مختلف، اکنون به حرفه کشاورزی روی آورده و با داشتن ۵۵۰ درخت، محصولات متنوعی را برداشت می‌کند و تولیدات خود را تحت برند ثبت‌شده‌اش به بازار عرضه می‌کند."
-   ],
-   "ai": true,
-   "aiTries": 1
-  },
-  {
-   "id": "2a0f7426e253",
-   "url": "https://www.haberturk.com/magazin/nil-karaibrahimgil-den-senfonil-soleni-3929012",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Nil Karaibrahimgil'den Senfonil şöleni",
-   "snippet": "Nil Karaibrahimgil, Zorlu PSM'de, Sinema Senfoni Orkestrası ve şef Hakan Şensoy eşliğinde sevenleriyle bir araya geldi",
-   "image": "https://im.haberturk.com/l/2026/11/21/ver1795259087/3929012/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-21T11:05:32.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/nil-karaibrahimgil-den-senfonil-soleni-3929012",
-     "title": "Nil Karaibrahimgil'den Senfonil şöleni",
-     "snippet": "Nil Karaibrahimgil, Zorlu PSM'de, Sinema Senfoni Orkestrası ve şef Hakan Şensoy eşliğinde sevenleriyle bir araya geldi",
-     "published": "2026-11-21T11:05:32.000Z",
-     "titleFa": "جشن سمفونیک از نیل کارابراهیم‌گیل"
-    },
-    {
-     "source": "milliyet-magazin",
-     "name": "Milliyet",
-     "url": "https://www.milliyet.com.tr/magazin/nil-karaibrahimgilden-senfonil-7705860",
-     "title": "Nil Karaibrahimgil’den ‘Senfonil’",
-     "snippet": "İstanbul Zorlu PSM’de konser veren şarkıcı, ters smokin kostümüyle de dikkat çekti. Proje, İzmir’deki ilk konserinin ardından İstanbul buluşması da günler öncesinden ‘sold out’ oldu.",
-     "published": "2026-11-23T04:02:12.000Z"
-    }
-   ],
-   "mediaDone": true,
-   "titleFa": "اجرای کنسرت سمفونیک نیل کارابراهیم‌گیل در زورلو پی‌اس‌ام استانبول",
-   "summaryFa": "نیل کارابراهیم‌گیل پس از اجرای موفق در ازمیر، در سالن زورلو پی‌اس‌ام استانبول با همراهی ارکستر سمفونیک سینما و به رهبری هاکان شن‌سوی روی صحنه رفت.",
-   "bodyFa": [
-    "پروژه «سفونی» (Senfonil) که دنیای موسیقی نیل کارابراهیم‌گیل را با روایتی سمفونیک ترکیب می‌کند، شب گذشته در مرکز هنرهای نمایشی زورلو پی‌اس‌ام اجرا شد. در این برنامه، این هنرمند با همراهی ارکستر سمفونیک سینما و به رهبری هاکان شن‌سوی برای هواداران خود به اجرای برنامه پرداخت.",
-    "این اجرا پس از نخستین کنسرت این هنرمند در شهر ازمیر برگزار شد و توانست مخاطبان زیادی را در استانبول گردهم آورد."
-   ],
-   "ai": true,
-   "aiTries": 1,
-   "mergedIds": [
-    "6ae0547a54fc"
-   ],
-   "regen": true
   },
   {
    "id": "cd394c64f4f6",
