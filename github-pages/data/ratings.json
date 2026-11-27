@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T09:35:10.404Z",
+  "updatedAt": "2026-11-27T12:30:43.454Z",
   "metric": "Rating %",
   "windowDays": 120,
   "source": {
@@ -27,6 +27,233 @@
     }
   },
   "days": [
+    {
+      "date": "26.11.2026",
+      "weekday": "",
+      "hasNumbers": {
+        "total": true,
+        "ab": true,
+        "abc1": true
+      },
+      "categories": {
+        "total": [
+          {
+            "rank": 1,
+            "program": "BESIKTAS-HAPOEL BEER SHEVA UEFA AVRUPA LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 13.2,
+            "share": 32.82
+          },
+          {
+            "rank": 2,
+            "program": "CSKA SOFYA-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 8.32,
+            "share": 34.53
+          },
+          {
+            "rank": 3,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 5.32,
+            "share": 13.62
+          },
+          {
+            "rank": 4,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 5.11,
+            "share": 21.64
+          },
+          {
+            "rank": 5,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.74,
+            "share": 33.26
+          },
+          {
+            "rank": 6,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 4.41,
+            "share": 13.25
+          },
+          {
+            "rank": 7,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 4.33,
+            "share": 11.08
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 4.27,
+            "share": 12.83
+          },
+          {
+            "rank": 9,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 3.76,
+            "share": 9.98
+          },
+          {
+            "rank": 10,
+            "program": "GUNESIN DOGDUGU YER (OZET)",
+            "network": "ATV",
+            "rating": 3.53,
+            "share": 9.41
+          }
+        ],
+        "ab": [
+          {
+            "rank": 1,
+            "program": "BESIKTAS-HAPOEL BEER SHEVA UEFA AVRUPA LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 15.78,
+            "share": 42.2
+          },
+          {
+            "rank": 2,
+            "program": "CSKA SOFYA-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 8.9,
+            "share": 39.66
+          },
+          {
+            "rank": 3,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 5,
+            "share": 17.5
+          },
+          {
+            "rank": 4,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 3.44,
+            "share": 18.05
+          },
+          {
+            "rank": 5,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 3.21,
+            "share": 8.79
+          },
+          {
+            "rank": 6,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 3.06,
+            "share": 28.6
+          },
+          {
+            "rank": 7,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 2.61,
+            "share": 9.13
+          },
+          {
+            "rank": 8,
+            "program": "MASTERCHEF TURKIYE",
+            "network": "TV8",
+            "rating": 2.6,
+            "share": 7.51
+          },
+          {
+            "rank": 9,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 2.53,
+            "share": 6.92
+          },
+          {
+            "rank": 10,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 2.5,
+            "share": 7.36
+          }
+        ],
+        "abc1": [
+          {
+            "rank": 1,
+            "program": "BESIKTAS-HAPOEL BEER SHEVA UEFA AVRUPA LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 16.22,
+            "share": 38.95
+          },
+          {
+            "rank": 2,
+            "program": "CSKA SOFYA-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+            "network": "TRT 1",
+            "rating": 9.67,
+            "share": 37.41
+          },
+          {
+            "rank": 3,
+            "program": "OZAN GUNDOGDU ILE NOW ANA HABER",
+            "network": "NOW",
+            "rating": 5.49,
+            "share": 17.15
+          },
+          {
+            "rank": 4,
+            "program": "MUGE ANLI ILE TATLI SERT",
+            "network": "ATV",
+            "rating": 4.66,
+            "share": 34.32
+          },
+          {
+            "rank": 5,
+            "program": "ESRA EROL'DA",
+            "network": "ATV",
+            "rating": 4.33,
+            "share": 20.7
+          },
+          {
+            "rank": 6,
+            "program": "SEVDIGIM SENSIN",
+            "network": "STAR TV",
+            "rating": 4.24,
+            "share": 10.34
+          },
+          {
+            "rank": 7,
+            "program": "GUNESIN DOGDUGU YER",
+            "network": "ATV",
+            "rating": 3.71,
+            "share": 9.03
+          },
+          {
+            "rank": 8,
+            "program": "ATV ANA HABER",
+            "network": "ATV",
+            "rating": 3.59,
+            "share": 11.24
+          },
+          {
+            "rank": 9,
+            "program": "GUNESIN DOGDUGU YER (OZET)",
+            "network": "ATV",
+            "rating": 3.2,
+            "share": 8.66
+          },
+          {
+            "rank": 10,
+            "program": "SEVDIGIM SENSIN (OZET)",
+            "network": "STAR TV",
+            "rating": 3.17,
+            "share": 8.55
+          }
+        ]
+      }
+    },
     {
       "date": "25.11.2026",
       "weekday": "",
