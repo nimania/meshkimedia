@@ -289,7 +289,10 @@
     "news:1020cee669c0",
     "pavaraghi:dubbed-36",
     "editorial:dubbed-28:0",
-    "slot:2026-11-28:0"
+    "slot:2026-11-28:0",
+    "engagement:quiz:actor:selen-domac",
+    "engagement-day:2026-11-28",
+    "slot:2026-11-28:3"
   ],
   "contentHashes": [
     "7452641fdade7a791eef4f0d",
@@ -429,7 +432,7 @@
     "actor:bahtiyar-memili": "2026-11-21",
     "poll:future": "2026-10-29",
     "actor:melis-minkari": "2026-11-25",
-    "actor:selen-domac": "2026-10-30",
+    "actor:selen-domac": "2026-11-28",
     "actor:melisa-berberoglu": "2026-10-30",
     "actor:tugay-erdogan": "2026-10-30",
     "actor:ozgur-berber": "2026-10-31",
@@ -456,7 +459,7 @@
     "poll:speculation": "2026-11-23",
     "poll:partnership": "2026-11-26"
   },
-  "updated": "2026-11-28T13:08:30.758Z",
+  "updated": "2026-11-28T16:03:00.631Z",
   "youtubeSources": {},
   "engagementReceipts": {
     "engagement:quiz:actor:ayca-aysin-turan": {
@@ -598,6 +601,13 @@
       "url": "https://t.me/ehtemalaneshgheh/149",
       "poll_id": "5782944207299675311",
       "date": "2026-11-26"
+    },
+    "engagement:quiz:actor:selen-domac": {
+      "channel": "@ehtemalaneshgheh",
+      "message_id": 159,
+      "url": "https://t.me/ehtemalaneshgheh/159",
+      "poll_id": "5789531067929068517",
+      "date": "2026-11-28"
     }
   }
 }
