@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:00:22.150Z",
+ "updated": "2026-11-28T03:56:03.708Z",
  "items": [
   {
    "id": "45bde3dd9ab8",
@@ -372,6 +372,45 @@
    "bodyFa": [
     "شیفانور گول، بازیگری که به‌تازگی پس از هفت سال رابطه با برک باقی‌اوغلو نامزد کرده بود، ورود به ۲۹ سالگی خود را در کنار عزیزانش جشن گرفت.",
     "این بازیگر تصاویری از مراسم جشن تولدش را با دنبال‌کنندگان خود به اشتراک گذاشت که با استقبال کاربران روبه‌رو شد و پیام او به مناسبت آغاز سن جدید نیز جلب توجه کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
+  },
+  {
+   "id": "ab1f759f6a80",
+   "url": "https://www.haberturk.com/magazin/pop-yildizi-mika-istanbul-a-geliyor-3930659",
+   "source": "haberturk-magazin",
+   "sourceName": "Habertürk",
+   "lang": "tr",
+   "title": "MIKA İstanbul'a geliyor",
+   "snippet": "Pop müzik yıldızı MIKA, 4 Aralık 2027'de Volkswagen Arena'da sahne alacak",
+   "image": "https://im.haberturk.com/l/2026/11/27/ver1795787078/3930659/jpg/1920x1080",
+   "video": null,
+   "published": "2026-11-27T13:52:41.000Z",
+   "scope": "general",
+   "kind": "media",
+   "entities": {
+    "series": [],
+    "people": [],
+    "networks": []
+   },
+   "sources": [
+    {
+     "source": "haberturk-magazin",
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/magazin/pop-yildizi-mika-istanbul-a-geliyor-3930659",
+     "title": "MIKA İstanbul'a geliyor",
+     "snippet": "Pop müzik yıldızı MIKA, 4 Aralık 2027'de Volkswagen Arena'da sahne alacak",
+     "published": "2026-11-27T13:52:41.000Z",
+     "titleFa": "میکا به استانبول می‌آید"
+    }
+   ],
+   "mediaDone": true,
+   "titleFa": "میکا، خواننده معروف پاپ، در استانبول کنسرت برگزار می‌کند",
+   "summaryFa": "میکا، ستاره موسیقی پاپ، قرار است در ۴ دسامبر ۲۰۲۷ در سالن فولکس‌واگن آرنای استانبول به اجرای برنامه بپردازد. این خواننده پس از چند سال دوباره برای کنسرت به استانبول بازمی‌گردد.",
+   "bodyFa": [
+    "میکا، خواننده و ستاره مطرح موسیقی پاپ که در سال ۲۰۰۷ با ترانه معروف «گریس کلی» به شهرت جهانی رسید، بار دیگر برای برگزاری کنسرت به استانبول خواهد آمد. طبق اخبار منتشرشده، این هنرمند در تاریخ ۴ دسامبر ۲۰۲۷ در سالن فولکس‌واگن آرنا به روی صحنه می‌رود تا با طرفداران خود در ترکیه دیدار کند.",
+    "این خواننده بین‌المللی فعالیت حرفه‌ای خود را با آلبوم موفق «زندگی در حرکت کارتونی» آغاز کرد که با فروش بیش از ۸ میلیون نسخه و میلیاردها بار شنیده شدن در پلتفرم‌های آنلاین، موفقیت چشمگیری به همراه داشت. ترانه‌هایی نظیر «Relax, Take It Easy»، «Love Today» و «Happy Ending» از جمله آثار شاخص او هستند. او در طول مسیر هنری‌اش آلبوم‌های متعددی منتشر کرده و با هنرمندان سرشناسی همچون فارل ویلیامز و آریانا گرانده نیز همکاری داشته است."
    ],
    "ai": true,
    "aiTries": 1
@@ -912,44 +951,6 @@
    "mediaDone": true
   },
   {
-   "id": "9e2ee4f9c279",
-   "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncunun-eski-gelini-isyan-etti-3-cocugumla-birlikte-evsiz-kaldik-bize-yardim-etmedi-43393206",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "Ünlü oyuncunun eski gelini isyan etti: 3 çocuğumla birlikte evsiz kaldık, bize yardım etmedi",
-   "snippet": "Sinema dünyasının yaşayan efsanelerinden biri ailesiyle ilgili iddialardan dolayı birkaç gündür hedef tahtasında. Upuzun kariyeri boyunca deyim yerindeyse oynamadığı rol kalmayan usta aktör haliyle hatırı sayılır bir servetin de sahibi.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b096014bb1c24f618127254.jpg",
-   "video": null,
-   "published": "2026-11-27T11:25:26.000Z",
-   "scope": "general",
-   "kind": "rumor",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncunun-eski-gelini-isyan-etti-3-cocugumla-birlikte-evsiz-kaldik-bize-yardim-etmedi-43393206",
-     "title": "Ünlü oyuncunun eski gelini isyan etti: 3 çocuğumla birlikte evsiz kaldık, bize yardım etmedi",
-     "snippet": "Sinema dünyasının yaşayan efsanelerinden biri ailesiyle ilgili iddialardan dolayı birkaç gündür hedef tahtasında. Upuzun kariyeri boyunca deyim yerindeyse oynamadığı rol kalmayan usta aktör haliyle hatırı sayılır bir servetin de sahibi.",
-     "published": "2026-11-27T11:25:26.000Z"
-    }
-   ],
-   "images": [
-    "https://image.hurimg.com/i/hurriyet/90/620x350/6b096014bb1c24f618127254.jpg",
-    "https://image.hurimg.com/i/hurriyet/90/0x0/6b096014bb1c24f618127254.jpg",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
-    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "c9dedc1afc09",
    "url": "https://www.sozcu.com.tr/dizilerin-aranan-oyuncusu-yuzunu-kiraladi-p384901",
    "source": "sozcu-magazin",
@@ -1010,7 +1011,7 @@
    "video": null,
    "published": "2026-11-27T10:54:57.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -1023,7 +1024,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/sahte-blok3-canli-yayina-baglandi-gercek-blok3ten-uyari-geldi-7708991",
      "title": "Sahte Blok3 canlı yayına bağlandı! Gerçek Blok3'ten uyarı geldi",
      "snippet": "Rusya'nın başkenti Moskova'da verdiği konserle adından söz ettiren rapçi Blok3, bu kez taklitçisiyle gündem oldu. Ünlü rapçinin sesini taklit ederek bir magazin programına bağlanan kişi, sunucuları kandırdı. Yaşanan olayın ardından Blok3'ten açıklama geldi.",
-     "published": "2026-11-27T10:54:57.000Z"
+     "published": "2026-11-27T10:54:57.000Z",
+     "titleFa": "Blok3 تقلیدی به برنامه زنده وصل شد! هشدار از سوی Blok3 واقعی صدور یافت"
     }
    ],
    "images": [
@@ -1040,7 +1042,16 @@
      "url": "https://x.com/caddemilliyet/status/2126220148700844518"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "فریب مجریان برنامه زنده توسط بدل Blok3 و واکنش این رپر",
+   "summaryFa": "فردی با تقلید صدای Blok3 توانست روی آنتن زنده با مجریان یک برنامه گفتگو کرده و آن‌ها را فریب دهد. پس از این ماجرا، این خواننده واقعی نسبت به موضوع هشدار داد.",
+   "bodyFa": [
+    "بلوک۳ (Blok3)، خواننده رپ که پیش‌تر با برگزاری کنسرتی در مسکو پایتخت روسیه توجه‌ها را به خود جلب کرده بود، این بار به دلیل ماجرای یک فرد تقلیدکننده خبرساز شد.",
+    "در این حادثه، فردی با تقلید صدای این رپر سرشناس با یک برنامه زنده تلویزیونی تماس گرفت و موفق شد مجریان برنامه را فریب دهد تا تصور کنند با خود او در حال گفتگو هستند.",
+    "در پی پخش این تماس و فریب مجریان، Blok3 واقعی واکنش نشان داد و با صدور بیانیه‌ای هشدار داد تا ابهامات به‌وجودآمده درباره این تماس تلفنی برطرف شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "fc3013ab1d9a",
@@ -1067,38 +1078,27 @@
      "url": "https://www.milliyet.com.tr/magazin/cagla-sikel-gazzedeki-aciya-sessiz-kalmadi-gordukce-icim-aciyor-7709225",
      "title": "Çağla Şıkel Gazze'deki acıya sessiz kalmadı! 'Gördükçe içim acıyor'",
      "snippet": "HABER MERKEZİ - Gazze'de yaşanan insani dram karşısında ünlü isimler tepkilerini dile getirmeye devam ediyor. Son olarak Çağla Şıkel, sosyal medya hesabından yaptığı Filistin paylaşımıyla dikkat çekti. GAZZE'DEKİ ACILARA SESSİZ KALMADI İsrail'in Gazze'de ateşkese rağmen saldırılara devam ediyor. Her",
-     "published": "2026-11-27T10:51:20.000Z"
+     "published": "2026-11-27T10:51:20.000Z",
+     "titleFa": "چاغلا شیکل در برابر رنج غزه سکوت نکرد! 'با دیدنش دلم می‌سوزد'"
     }
-   ]
-  },
-  {
-   "id": "2340bbfb6309",
-   "url": "https://www.hurriyet.com.tr/kelebek/magazin/hangi-unlunun-gecmisinde-boyle-bir-kara-leke-yok-ki-kendi-cektigi-ifsa-kaseti-hayatini-karartti-santaja-boyun-egmedim-43390713",
-   "source": "hurriyet-kelebek",
-   "sourceName": "Hürriyet",
-   "lang": "tr",
-   "title": "İki kadınla kaçamağını kaydettiği kaset ortaya çıkmıştı... Bilmeden kendini ifşa etti, evinden çıkamaz hale geldi: 'Yine de şantaja boyun eğmedim'",
-   "snippet": "Şöyle bir geriye dönüp bakarsak, bugün gösteri dünyasında bilinen birçok ünlünün geçmişinde unutmak daha da ötesinde unutturmak istediği bir karanlık sır olduğunu görürüz.",
-   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6b06cfc78c01a1364d06bbc0.jpg",
-   "video": null,
-   "published": "2026-11-27T10:32:07.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "hurriyet-kelebek",
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/kelebek/magazin/hangi-unlunun-gecmisinde-boyle-bir-kara-leke-yok-ki-kendi-cektigi-ifsa-kaseti-hayatini-karartti-santaja-boyun-egmedim-43390713",
-     "title": "İki kadınla kaçamağını kaydettiği kaset ortaya çıkmıştı... Bilmeden kendini ifşa etti, evinden çıkamaz hale geldi: 'Yine de şantaja boyun eğmedim'",
-     "snippet": "Şöyle bir geriye dönüp bakarsak, bugün gösteri dünyasında bilinen birçok ünlünün geçmişinde unutmak daha da ötesinde unutturmak istediği bir karanlık sır olduğunu görürüz.",
-     "published": "2026-11-27T10:32:07.000Z"
-    }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b096049c00aca18cb4b2146.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b096049c00aca18cb4b2146.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "واکنش چاغلا شیکل به وضعیت انسانی در غزه",
+   "summaryFa": "چاغلا شیکل با انتشار مطلبی در شبکه اجتماعی خود به حوادث و بحران انسانی در غزه واکنش نشان داد. او اعلام کرد که دیدن این شرایط باعث رنج و درد درونی وی می‌شود.",
+   "bodyFa": [
+    "در ادامه واکنش چهره‌های سرشناس به بحران انسانی و درگیری‌ها در غزه، چاغلا شیکل نیز با انتشار پستی در حساب شبکه اجتماعی خود توجه‌ها را جلب کرده است.",
+    "او با اشاره به تداوم حملات و شرایط سخت مردم غزه اظهار داشت که مشاهده این اوضاع باعث درد و ناراحتی وی می‌شود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "5019eccfeaa7",
@@ -1125,9 +1125,27 @@
      "url": "https://www.sozcu.com.tr/goksel-56-yasina-adim-atti-ucan-balonlarla-renkli-kutlama-p384890",
      "title": "Göksel 56 yaşına adım attı: Uçan balonlarla renkli kutlama",
      "snippet": "Şarkıcı Göksel, yeni yaşını parıltılı elbisesi ve uçan balonlarla verdiği pozlarla kutladı. Doğum gününden renkli karele...",
-     "published": "2026-11-27T10:16:58.000Z"
+     "published": "2026-11-27T10:16:58.000Z",
+     "titleFa": "گوکسل ۵۶ ساله شد: جشنی رنگارنگ با بادکنک‌های پرنده"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/gokseljpg-ri0MB4VeXkurDQhQbJtB-g.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/gokseljpg-ri0MB4VeXkurDQhQbJtB-g.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/goksel-56-yasina-adim-atti-ucan-balonlarla-renkli-kutlama-7jpg-mzF3bl_HMkOCcveBPIDr9A.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/goksel-56-yasina-adim-atti-ucan-balonlarla-renkli-kutlama-8jpg-_aPiikLqTECNUtdxbhwFpg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/goksel-56-yasina-adim-atti-ucan-balonlarla-renkli-kutlama-9jpg-PuVYH7UN8k6Um_Wd8ZMlAA.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/goksel-56-yasina-adim-atti-ucan-balonlarla-renkli-kutlama-6jpg-JSzA0z8UeUq6fXmDHC54VQ.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن تولد ۵۶ سالگی گوکسل با بادکنک‌های رنگارنگ",
+   "summaryFa": "گوکسل، خواننده پاپ ترکیه، ۵۶ سالگی خود را با انتشار تصاویری همراه با بادکنک‌های پرنده در شبکه‌های اجتماعی جشن گرفت.",
+   "bodyFa": [
+    "گوکسل، از چهره‌های شناخته‌شده موسیقی پاپ ترکیه، ورود خود به ۵۶ سالگی را جشن گرفت. او به همین مناسبت تصاویری رنگارنگ از جشن تولدش را در شبکه‌های اجتماعی با دنبال‌کنندگان خود به اشتراک گذاشت.",
+    "این هنرمند که با لباسی درخشان و همراه با بادکنک‌های پرنده در برابر دوربین قرار گرفته بود، در یادداشتی نوشت که با وجود گذشت سال‌ها، هنوز هم به دنبال بادکنک‌های پرنده می‌دود."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1020cee669c0",
@@ -1208,9 +1226,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/cesmede-evlendi-43393080",
      "title": "Çeşme’de ‘ev’lendi",
      "snippet": "Cumhuriyet’in 100’üncü yılı için hazırladığı “Parla” marşıyla dikkat çeken Norm Ender, elde ettiği başarının ardından kendini ödüllendirdi. Ünlü rap’çi, İzmir-Çeşme’den 25 milyon TL’ye ev aldı.",
-     "published": "2026-11-27T09:29:43.000Z"
+     "published": "2026-11-27T09:29:43.000Z",
+     "titleFa": "خرید خانه در چشمه"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b094d84bb1c24f6181271ea.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b094d84bb1c24f6181271ea.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "خرید خانه جدید توسط نورم انیدر در چشمه",
+   "summaryFa": "نورم انیدر، خواننده رپ، پس از موفقیت مارش «پارلا» خود را با خرید خانه‌ای در چشمه تشویق کرد. این خانه ۲۵ میلیون لیر قیمت داشته است.",
+   "bodyFa": [
+    "نورم انیدر که با ساخت مارش «پارلا» به مناسبت صدمین سالگرد جمهوری توجه زیادی به خود جلب کرده بود، تصمیم گرفت پس از این موفقیت برای خود پاداشی در نظر بگیرد.",
+    "این خواننده مشهور رپ یک خانه جدید در منطقه ازمیر-چشمه به ارزش ۲۵ میلیون لیر خریداری کرده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "f0a0faa81c62",
@@ -1290,9 +1326,26 @@
      "url": "https://www.milliyet.com.tr/magazin/maarif-korosundan-ogretmenler-gunune-ozel-konser-7709143",
      "title": "Maarif Korosundan öğretmenler gününe özel konser",
      "snippet": "Osmaniye'de öğretmen ve öğrencilerden oluşan Maarif Korusu, 24 Kasım Öğretmenler Günü etkinlikleri kapsamında düzenlenen özel konserde sahne aldı.",
-     "published": "2026-11-27T09:08:37.000Z"
+     "published": "2026-11-27T09:08:37.000Z",
+     "titleFa": "کنسرت ویژه گروه کر معارف به مناسبت روز معلم"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b09486fc00aca18cb4b20c7.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b09486fc00aca18cb4b20c7.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "کنسرت ویژه گروه کر معارف به مناسبت روز معلم در عثمانیه",
+   "summaryFa": "گروه کر معارف متشکل از معلمان و دانش‌آموزان در عثمانیه به مناسبت ۲۴ نوامبر، روز معلم، کنسرتی ویژه برگزار کرد.",
+   "bodyFa": [
+    "به مناسبت ۲۴ نوامبر و گرامی‌داشت روز معلم، برنامه‌های مختلفی در شهر عثمانیه تدارک دیده شد. در جریان این رویدادها، گروه کر معارف که اعضای آن را جمعی از معلمان و دانش‌آموزان تشکیل می‌دهند، روی صحنه رفتند و به اجرای کنسرت پرداختند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a712871aed68",
@@ -1366,9 +1419,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/mesamdan-40inci-yila-ozel-gece-fazil-saydan-sagopa-kajmere-35-odul-sahiplerini-buldu-7709115",
      "title": "MESAM'dan 40'ıncı yıla özel gece! Fazıl Say'dan Sagopa Kajmer'e 35 ödül sahiplerini buldu",
      "snippet": "Türkiye Musiki Eseri Sahipleri Meslek Birliği (MESAM), 40'ıncı kuruluş yıl dönümünü İstanbul'da düzenlenen özel bir gala gecesiyle kutladı. Sanat dünyasının ünlü isimlerini bir araya getiren gecede 35 ödül sahiplerini buldu.",
-     "published": "2026-11-27T08:46:57.000Z"
+     "published": "2026-11-27T08:46:57.000Z",
+     "titleFa": "مراسم ویژه برای چهامین سالگرد از سوی مسام! ۳۵ جایزه به صاحبان آن‌ها رسید، از فاضل سای تا ساگوپا کایمر"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b0942f3c00aca18cb4b208a.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b0942f3c00aca18cb4b208a.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "جشن چهامین سالگرد تاسیس مسام و اهدای جوایز در استانبول",
+   "summaryFa": "اتحادیه صاحبان آثار موسیقایی ترکیه (MESAM) چهامین سالگرد تاسیس خود را طی یک شب گالا در استانبول جشن گرفت و در این مراسم ۳۵ جایزه به چهره‌های هنری از جمله فاضل سای و ساگوپا کایمر اهدا شد.",
+   "bodyFa": [
+    "اتحادیه صاحبان آثار موسیقایی ترکیه (MESAM) چهامین سالگرد تاسیس خود را با برگزاری یک مراسم گالای ویژه در شهر استانبول جشن گرفت.",
+    "این رویداد میزبان چهره‌های سرشناس دنیای هنر بود و در جریان آن، ۳۵ جایزه مختلف به برندگان اهدا شد که از جمله دریافت‌کنندگان آن می‌توان به فاضل سای و ساگوپا کایمر اشاره کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d30cced1c46c",
@@ -1382,7 +1453,7 @@
    "video": null,
    "published": "2026-11-27T08:25:58.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1395,9 +1466,19 @@
      "url": "https://www.haberturk.com/magazin/foto/yagmur-atacan-sakalar-yaparak-gonlunu-celdim-3930427",
      "title": "\"Şakalar yaparak gönlünü çeldim\"",
      "snippet": "Oyuncu Yağmur Atacan, \"Pınar'a türlü şakalar yaparak gönlünü çeldim. Pınar Altuğ gibi bir kadının gönlünü kazanmak için onun da sana sinyal vermesi gerekiyor\" dedi",
-     "published": "2026-11-27T08:25:58.000Z"
+     "published": "2026-11-27T08:25:58.000Z",
+     "titleFa": "«Şakalar yaparak gönlünü çeldim»"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "پinar آلتوغ و یاغمو آتاجان از ماجرای آشنایی و ازدواج خود گفتند",
+   "summaryFa": "این زوج هنری در یک برنامه تلویزیونی درباره نحوه آشنایی، آغاز رابطه و تصمیم خود برای ازدواج صحبت کردند. آن‌ها همچنین به جزئیاتی از روز عروسی و زندگی خانوادگی‌شان اشاره نمودند.",
+   "bodyFa": [
+    "یاغمو آتاجان و پinar آلتوغ که در سال ۲۰۰۸ با یکدیگر ازدواج کرده و در سال ۲۰۰۹ صاحب دختری به نام سو شدند، اخیراً مهمان یک برنامه تلویزیونی بودند. در این برنامه، یاغمو آتاجان داستان آشنایی خود با همسرش را روایت کرد و توضیح داد که در ابتدا نمی‌دانسته او همان پinar آلتوغ معروف است، زیرا ظاهرش با تصویر تلویزیونی‌اش تفاوت داشته است. او اشاره کرد که با شوخی‌های گوناگون در میان صحنه‌ها توانسته دل پinar را به دست آورد و تأکید نمود که برای جلب توجه زنی چون او، فرستادن سیگنال از سوی مقابل نیز ضروری بوده است.",
+    "در ادامه، پinar آلتوغ درباره تصمیم به ازدواج گفت که در آن مقطع تمایل زیادی به مادر شدن داشته و یاغمو به او یادآور شده که سن مناسب برای بچه‌دار شدن فرا رسیده است. همین موضوع به پیشنهاد ازدواج و آغاز زندگی مشترک آن‌ها منجر شد. این زوج همچنین خاطراتی از روز عروسی، بی‌خوابی‌های آن روز و سفر کوتاه ماه عسل خود به پاریس را به اشتراک گذاشتند. در بخش دیگری از صحبت‌ها، یاغمو آتاجان دلیل دوری خود از بازیگری پس از سریال «پزشکان» را تمرکز بر مشاغل دیگر و اهمیت وقت گذاشتن برای فرزندشان در شرایط کاری فشرده بیان کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0480b14d48e4",
@@ -1483,7 +1564,7 @@
    "video": null,
    "published": "2026-11-27T08:02:55.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1496,9 +1577,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/gedik-filarmoni-orkestrasi-16-aralikta-sahne-aliyor-43392880",
      "title": "Gedik Filarmoni Orkestrası 16 Aralık’ta sahne alıyor",
      "snippet": "Gedik Filarmoni Orkestrası, 16 Aralık 2026 Çarşamba akşamı şef Cem Mansur yönetiminde dinleyiciyle buluşacak. Flüt sanatçısı Cem Önertürk’ün solist olarak yer alacağı konserin programında Mozart, Ravel ve Debussy’nin eserlerinin yanı sıra genç besteci Cem Güven’in “Mavi” adlı eserinin dünya prömiyer",
-     "published": "2026-11-27T08:02:55.000Z"
+     "published": "2026-11-27T08:02:55.000Z",
+     "titleFa": "ارکستر فیلارمونیک گدیک در ۱۶ دسامبر روی صحنه می‌رود"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b093928716333c09cfebe95.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b093928716333c09cfebe95.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "اجرای ارکستر فیلارمونیک گدیک در ۱۶ دسامبر با رهبری جم منصور",
+   "summaryFa": "ارکستر فیلارمونیک گدیک در تاریخ ۱۶ دسامبر ۲۰۲۶ با رهبری جم منصور و تک‌نوازی فلوت جم اونرتورک روی صحنه می‌رود. در این کنسرت، اثر «موی» از آهنگساز جوان، جم گوون، برای نخستین بار در جهان اجرا خواهد شد.",
+   "bodyFa": [
+    "ارکستر فیلارمونیک گدیک قرار است در شامگاه چهارشنبه ۱۶ دسامبر ۲۰۲۶ با هنرمندی و رهبری جم منصور به اجرای برنامه بپردازد. در این رویداد موسیقایی، جم اونرتورک به عنوان نوازنده تک‌ساز فلوت حضور خواهد داشت.",
+    "برنامه این کنسرت شامل قطعاتی از آهنگسازان برجسته‌ای چون موتزارت، راول و دبوسی است. همچنین در این رویداد، اثر «موی» که متعلق به آهنگساز جوان جم گوون است، برای نخستین بار در جهان اجرا و رونمایی خواهد شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "b7460cb243be",
@@ -1525,9 +1624,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/lang-lang-genc-turk-muzisyenlerle-ayni-sahneyi-paylasacak-43392856",
      "title": "Lang Lang, genç türk müzisyenlerle aynı sahneyi paylaşacak",
      "snippet": "Çağdaş Eğitim Vakfı (ÇEV) Yönetim Kurulu Üyesi ve ÇEV Sanat Kurucu Başkanı Berrin Yoleri, dünyaca ünlü piyanist Lang Lang ile genç Türk müzisyenleri aynı sahnede buluşturacak 'İpek Yolu' konserine ilişkin açıklamalarda bulundu. Genç yetenekleri küçük yaşlarda keşfederek eğitimlerine destek verdikler",
-     "published": "2026-11-27T07:57:19.000Z"
+     "published": "2026-11-27T07:57:19.000Z",
+     "titleFa": "لانگ لانگ صحنه را با نوازندگان جوان ترک به اشتراک خواهد گذاشت"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b093799716333c09cfebe8a.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b093799716333c09cfebe8a.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "برین یولری درباره کنسرت «جاده ابریشم» با حضور لانگ لانگ و نوازندگان جوان ترکی توضیحات داد",
+   "summaryFa": "برین یولری، عضو هیئت مدیره بنیاد آموزش معاصر و رئیس بنیان‌گذار هنری ÇEV، درباره همکاری پیانیست مشهور جهان با نوازندگان جوان ترک در کنسرت «جاده ابریشم» صحبت کرد.",
+   "bodyFa": [
+    "برین یولری، عضو هیئت مدیره بنیاد آموزش معاصر (ÇEV) و رئیس بنیان‌گذار هنر ÇEV، اطلاعاتی درباره کنسرت پیش روی «جاده ابریشم» ارائه داد. بر اساس اظهارات وی، در این رویداد قرار است پیانیست برجسته و مشهور جهانی، لانگ لانگ، با نوازندگان جوان اهل ترکیه روی یک صحنه به اجرا بپردازند.",
+    "این بنیاد با کشف استعدادهای جوان در سنین پایین، از روند آموزشی و هنری آن‌ها حمایت می‌کند و این کنسرت نیز در راستای فعالیت‌ها و برنامه‌های حمایتی این مجموعه شکل گرفته است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "75edf13cf0d3",
@@ -1600,9 +1717,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/beni-en-kucuk-oglumun-dedesi-sanacaklar-demisti-alti-cocuklu-unlu-sefe-ilk-torun-geldi-43392795",
      "title": "Düğünden altı ay sonra hamilelik haberi vermişti... Ünlü çiftin kızı oldu",
      "snippet": "Ünlüler dünyasının çocuk sahibi olmaya doyamayan isimlerinden birine şimdi de torun geldi. Altı çocuklu ünlü şef, 60 yaşında dede unvanını aldı..",
-     "published": "2026-11-27T07:42:00.000Z"
+     "published": "2026-11-27T07:42:00.000Z",
+     "titleFa": "شش ماه پس از عروسی خبر بارداری داده بود... زوج معروف صاحب دختر شدند"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b0931ccf90143abc11404a1.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b0931ccf90143abc11404a1.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "پدربزرگ شدن سرآشپز معروف در سن ۶۰ سالگی",
+   "summaryFa": "یک سرآشپز مشهور شش‌فرزنده در سن ۶۰ سالگی پدربزرگ شد.",
+   "bodyFa": [
+    "بر اساس گزارش‌های دنیای افراد مشهور، یکی از چهره‌های شناخته‌شده که خودش پدر شش فرزند است، اکنون در سن ۶۰ سالگی عنوان پدربزرگ را به دست آورده است.",
+    "این خبر در حالی منتشر شده که این زوج پیش‌تر و شش ماه پس از مراسم عروسی خود، خبر بارداری‌شان را به اطلاع عموم رسانده بودند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "4c70db2fb8cf",
@@ -1629,9 +1764,27 @@
      "url": "https://www.sozcu.com.tr/bir-donem-genc-kizlarin-sevgilisiydi-oyuncu-kemal-pekser-in-son-hali-ortaya-cikti-p384834",
      "title": "Bir dönem genç kızların sevgilisiydi: Oyuncu Kemal Pekser'in son hali ortaya çıktı",
      "snippet": "'Küçük Kadınlar' dizisindeki Timuçin karakteriyle hafızalara kazınan oyuncu Kemal Pekser, yıllar sonra ortaya çıkan görü...",
-     "published": "2026-11-27T07:29:05.000Z"
+     "published": "2026-11-27T07:29:05.000Z",
+     "titleFa": "یک دوره محبوب دختران جوان بود: آخرین وضعیت کمال پک‌سر بازیگر مشخص شد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/bir-donem-genc-kizlarin-sevgilisiydi-oyuncu-kemal-pekserin-son-hali-ortaya-ciktipng-l4lfYLWOc02yyjPBZ057CA.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/bir-donem-genc-kizlarin-sevgilisiydi-oyuncu-kemal-pekserin-son-hali-ortaya-ciktipng-l4lfYLWOc02yyjPBZ057CA.png?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/kemalpekserjpg-qcibuCfucEmo9oyawF6-Tg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/bir-donem-genc-kizlarin-sevgilisiydi-oyuncu-kemal-pekserin-son-hali-ortaya-cikti-2jpg-fFl9EhtVck2q8buiPXUo1w.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/bir-donem-genc-kizlarin-sevgilisiydi-oyuncu-kemal-pekserin-son-hali-ortaya-cikti-1jpg-ABkksJ9ZPUSS2MIg7TTgxg.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/bir-donem-genc-kizlarin-sevgilisiydi-oyuncu-kemal-pekserin-son-hali-ortaya-cikti-3jpg-q9StKfoKjkOcmc9ILPLLVg.jpg"
+   ],
+   "mediaDone": true,
+   "titleFa": "آخرین وضعیت کمال پک‌سر، بازیگر سریال «کوچک زنان»",
+   "summaryFa": "تصاویر جدیدی از کمال پک‌سر، بازیگر نقش تیموچین در سریال «کوچک زنان»، پس از سال‌ها دوری از بازیگری منتشر شد. این تصاویر و سبک زندگی دور از تلویزیون او با استقبال کاربران در شبکه‌های اجتماعی روبه‌رو شد.",
+   "bodyFa": [
+    "کمال پک‌سر که با ایفای نقش تیموچین در مجموعه تلویزیونی محبوب «کوچک زنان» شناخته می‌شد و در گذشته طرفداران زیادی داشت، مدت‌هاست که از دنیای تلویزیون و بازیگری فاصله گرفته است.",
+    "اخیراً تصاویر جدیدی از این بازیگر منتشر شده که بازتاب زیادی در شبکه‌های اجتماعی داشته و مورد توجه کاربران قرار گرفته است. در کامنت‌های منتشر شده، علاقه‌مندان علاوه بر اشاره به علاقه او به ورزش و سبک زندگی دور از رسانه‌اش، ابراز امیدواری کرده‌اند که او دوباره در پروژه‌های هنری و بازیگری حضور پیدا کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d30c67b27bce",
@@ -1658,9 +1811,27 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/sebnem-ferahtan-iki-konser-birden-yilin-finalini-istanbulda-yapacak-7709004",
      "title": "Şebnem Ferah'tan iki konser birden! Yılın finalini İstanbul'da yapacak",
      "snippet": "Türk rock müziğinin sevilen ismi Şebnem Ferah, haziran ayında başladığı konser maratonunu aralık ayında tamamlayacak. 12 konserde 250 bin dinleyiciye ulaşan sanatçı, yılın son iki konserini Volkswagen Arena'da verecek.",
-     "published": "2026-11-27T07:28:06.000Z"
+     "published": "2026-11-27T07:28:06.000Z",
+     "titleFa": "دو کنسرت همزمان از شبنم فرح! او فینال سال را در استانبول رقم خواهد زد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b093037c00aca18cb4b1fe0.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b093037c00aca18cb4b1fe0.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "دو کنسرت متوالی از شبنم فرح در استانبول",
+   "summaryFa": "شبنم فرح، هنرمند محبوب موسیقی راک ترکیه، تور کنسرت‌های خود را که از ماه ژوئن آغاز کرده بود، در ماه دسامبر به پایان می‌رساند. او آخرین کنسرت‌های سال خود را در وولوکس‌واگن آرنا برگزار خواهد کرد.",
+   "bodyFa": [
+    "شبنم فرح، چهره شناخته‌شده و محبوب موسیقی راک ترکیه، قرار است مارائون کنسرت‌های خود را که از ماه ژوئن کلید زده بود، در دسامبر به سرانجام برساند.",
+    "این هنرمند توانسته است در جریان ۱۲ کنسرت خود، با ۲۵۰ هزار مخاطب دیدار کند. او اکنون آماده می‌شود تا دو اجرای پایانی سال جاری میلادی را در سالن وولوکس‌واگن آرنا روی صحنه ببرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d79c06bfa17a",
@@ -1674,7 +1845,7 @@
    "video": null,
    "published": "2026-11-27T07:08:44.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -1687,9 +1858,27 @@
      "url": "https://www.sozcu.com.tr/ajda-pekkan-sarkici-hayraniyla-havalimaninda-poz-verdi-tarzi-gundem-oldu-p384824",
      "title": "Ajda Pekkan şarkıcı hayranıyla havalimanında poz verdi: Tarzı gündem oldu",
      "snippet": "Londra'dan İstanbul'a dönen Ajda Pekkan, havalimanında kendisine hayran olan sanatçı Zeynep İlkgün'le karşılaştı. 2005 y...",
-     "published": "2026-11-27T07:08:44.000Z"
+     "published": "2026-11-27T07:08:44.000Z",
+     "titleFa": "آجدا پکان با یک خواننده هوادارش در فرودگاه عکس یادگاری گرفت: استایل او جنجال‌برانگیز شد"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/986jpg-srdDWJsReEGG6xveSgUrPw.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/986jpg-srdDWJsReEGG6xveSgUrPw.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/zeynepilkginjpg-OSJv-_3t1ESUXruDtVhNVQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/avm-otoparkina-lpgli-araclar-girebilecek-iste-sartlarjpg-o3SXWeWM702Tq8WPQS0yOQ.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ndardasb47470jpeg-8GtmwUFkG0q1u16V3gWv_A.jpeg?w=288&h=162&mode=crop&scale=both"
+   ],
+   "mediaDone": true,
+   "titleFa": "آجدا پکان در فرودگاه با یک خواننده هوادارش عکس یادگاری گرفت",
+   "summaryFa": "آجدا پکان پس از بازگشت از لندن به استانبول، در فرودگاه با زینب ایلگون روبرو شد و با او عکس گرفت. استایل و مهارت این خواننده در عکاسی توجه‌ها را به خود جلب کرد.",
+   "bodyFa": [
+    "آجدا پکان، خواننده معروف، پس از بازگشت از سفر لندن به استانبول در فرودگاه با زینب ایلگون، هنرمند و از طرفدارانش، دیدار کرد. این دو چهره که در سال ۲۰۰۵ میلادی نیز یک‌بار با یکدیگر دیدار کرده بودند، پس از سال‌ها در فرودگاه کنار هم قرار گرفتند و عکس یادگاری ثبت کردند.",
+    "در جریان این دیدار تصادفی، تسلط و مهارت آجدا پکان در نحوه پز دادن و ایستادن مقابل دوربین مورد توجه قرار گرفت و استایل او به یکی از موضوعات مطرح تبدیل شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d2ba1dd5099b",
@@ -1703,7 +1892,7 @@
    "video": null,
    "published": "2026-11-27T06:35:16.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -1716,9 +1905,20 @@
      "url": "https://www.haberturk.com/magazin/foto/hazar-erguclu-sosyal-medya-gercekten-cigrindan-cikti-3930491",
      "title": "\"Sosyal medya çığrından çıktı\"",
      "snippet": "Ünlü oyuncu Hazar Ergüçlü, kendisiyle ilgili sosyal medyada çıkan iddialara tepki gösterdi. Ergüçlü, \"Sosyal medya gerçekten çığrından çıktı. İnsanların bunu tamamen tıklanmak için yaptığını düşünüyorum. Aklıma başka bir açıklama gelmiyor. Çok rezil ve utanç verici\" ifadelerini kullandı",
-     "published": "2026-11-27T06:35:16.000Z"
+     "published": "2026-11-27T06:35:16.000Z",
+     "titleFa": "«شبکه‌های اجتماعی از کنترل خارج شده‌اند»"
     }
-   ]
+   ],
+   "mediaDone": true,
+   "titleFa": "واکنش هزار ارگوچلو به ادعاهای مطرح شده در شبکه‌های اجتماعی",
+   "summaryFa": "هزار ارگوچلو در مراسمی نسبت به شایعات مطرح‌شده درباره خود در شبکه‌های اجتماعی واکنش نشان داد و آن‌ها را شرم‌آور توصیف کرد. او همچنین درباره فیلم جدید خود به نام «ماتر» و چالش‌های نقش‌آفرینی در آن صحبت کرد.",
+   "bodyFa": [
+    "هزار ارگوچلو، بازیگر مشهور، در رویداد مربوط به فیلم جدیدش «ماتر» و تصاویر پشت صحنه و عکاسی مد خود در ایالات متحده، با خبرنگاران گفتگو کرد و به ادعاهای منتشرشده درباره خود در شبکه‌های اجتماعی واکنش تندی نشان داد.",
+    "این بازیگر اظهار داشت که شبکه‌های اجتماعی از کنترل خارج شده‌اند و معتقد است افراد این ادعاها را صرفاً برای دریافت کلیک و بازدید مطرح می‌کنند که به گفته او بسیار شرم‌آور و تاسف‌بار است.",
+    "ارگوچلو در ادامه پیرامون فیلم «ماتر» توضیح داد که این اثر دارای المان‌های ترسناک است، اما روند فیلمبرداری در دشت‌ها و در کنار حیوانات بسیار خوب و لذت‌بخش بوده است. او همچنین به سختی‌های شخصیت خود در این فیلم و واکنش‌های مثبت مخاطبان پیش از اکران اشاره کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "1bfd7436b01c",
@@ -1745,9 +1945,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/ediz-hun-firsattan-istifade-turkana-sarildim-43392697",
      "title": "Ediz Hun: Fırsattan istifade Türkan'a sarıldım",
      "snippet": "TÜRK sinemasının iki efsane ismi Türkan Şoray ve Ediz Hun, Öğretmenler Günü dolayısıyla Özel Eral Okulları’nın Sheraton Grand Adana’da düzenlediği ‘Eral Yeşilçam Gecesi’nin onur konukları oldu.",
-     "published": "2026-11-27T06:28:39.000Z"
+     "published": "2026-11-27T06:28:39.000Z",
+     "titleFa": "اگیز هون: از فرصت استفاده کردم و تورکن را در آغوش گرفتم"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b092314bb1c24f61812708f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b092314bb1c24f61812708f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "حضور تورکن شورای و اگیز هون در «شب یشیلچام» در آدانا",
+   "summaryFa": "تورکن شورای و اگیز هون، دو چهره افسانه‌ای سینمای ترک، مهمانان افتخاری مراسم بزرگداشت روز معلمان در آدانا بودند.",
+   "bodyFa": [
+    "دو تن از چهره‌های اسطوره‌ای سینمای ترکیه، تورکن شورای و اگیز هون، به عنوان مهمانان افتخاری در «شب یشیلچام» حضور یافتند.",
+    "این مراسم به مناسبت روز معلمان توسط مدارس خصوصی «ارال» در هتل شراتون گراند آدانا برگزار شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "8e5af2eaabb6",
@@ -1808,7 +2026,7 @@
    "video": null,
    "published": "2026-11-27T05:59:32.000Z",
    "scope": "general",
-   "kind": "media",
+   "kind": "official",
    "entities": {
     "series": [],
     "people": [],
@@ -1821,9 +2039,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/magazin/aldatip-bosandigi-27-yillik-karisiyla-kalan-son-bagini-da-kopardi-o-guzelim-ev-cok-ucuza-gitti-43390527",
      "title": "Her köşesinde, ihanetle biten 27 yıllık evliliğin hatırası var: O 'kuğu gibi bembeyaz' güzelim ev çok ucuza gitti!",
      "snippet": "Ünlüler dünyasının örnek çifti olarak gösterilen Hugh Jackman ile Deborra Lee Furness boşanacaklarını açıkladıklarında herkes şaşkınlıktan donup kaldı.",
-     "published": "2026-11-27T05:59:32.000Z"
+     "published": "2026-11-27T05:59:32.000Z",
+     "titleFa": "هر köşesinde، ihanetle biten 27 yıllık evliliğin hatırası var: O 'kuğu gibi bembeyaz' güzelim ev çok ucuza gitti!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b06b28a8c01a1364d06bb6f.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b06b28a8c01a1364d06bb6f.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "جدایی هیو جکمن و دبورا لی فرنس",
+   "summaryFa": "اعلام خبر طلاق هیو جکمن و دبورا لی فرنس باعث شگفتی همگان شد.",
+   "bodyFa": [
+    "اعلام خبر جدایی هیو جکمن و دبورا لی فرنس که همواره به عنوان زوجی نمونه در دنیای شهرت شناخته می‌شدند، همگان را در شوک فرو برد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "599542c21c7a",
@@ -1928,35 +2163,6 @@
    "aiTries": 1
   },
   {
-   "id": "60846be0b3cc",
-   "url": "https://www.sozcu.com.tr/turk-sanat-muziginin-usta-ismi-husnu-ustun-hayatini-kaybetti-p384781",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Türk sanat müziğinin usta ismi Hüsnü Üstün hayatını kaybetti",
-   "snippet": "'Gittiğinde Anladım', 'Böyle Kutlanırmış Hep Ayrılıklar' ve 'Sen Sevgini Bana Sakla' gibi eserlere imza atan besteci ve ...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/husnuustunjpg-uKvJN4BIRE26xijcMRDBLA.jpg",
-   "video": null,
-   "published": "2026-11-27T05:16:34.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/turk-sanat-muziginin-usta-ismi-husnu-ustun-hayatini-kaybetti-p384781",
-     "title": "Türk sanat müziğinin usta ismi Hüsnü Üstün hayatını kaybetti",
-     "snippet": "'Gittiğinde Anladım', 'Böyle Kutlanırmış Hep Ayrılıklar' ve 'Sen Sevgini Bana Sakla' gibi eserlere imza atan besteci ve ...",
-     "published": "2026-11-27T05:16:34.000Z"
-    }
-   ]
-  },
-  {
    "id": "274ee1935e73",
    "url": "https://www.hurriyet.com.tr/kelebek/stil/melike-sahin-marka-davasini-kazandi-43392642",
    "source": "hurriyet-kelebek",
@@ -1968,7 +2174,7 @@
    "video": null,
    "published": "2026-11-27T05:03:20.000Z",
    "scope": "general",
-   "kind": "rumor",
+   "kind": "media",
    "entities": {
     "series": [],
     "people": [],
@@ -1981,9 +2187,26 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/melike-sahin-marka-davasini-kazandi-43392642",
      "title": "Melike Şahin marka davasını kazandı!",
      "snippet": "MELİKE Şahin, kendisine ait ‘Melike Şahin’ markasını izinsiz şekilde tescil ettirerek tanınırlığından faydalanmaya çalıştığı iddiasıyla müzik öğretmeni Melike Şahin’e ‘marka’ davası açtı.",
-     "published": "2026-11-27T05:03:20.000Z"
+     "published": "2026-11-27T05:03:20.000Z",
+     "titleFa": "ملیکه شاهین پرونده دعوای برند را برد!"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b090f14bb1c24f618127044.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b090f14bb1c24f618127044.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "ملیکه شاهین پرونده دعوای برند را برد",
+   "summaryFa": "ملیکه شاهین علیه یک معلم موسیقی به نام ملیکه شاهین به دلیل ثبت غیرقانونی نام تجاری اش دعوای حقوقی اقامه کرد.",
+   "bodyFa": [
+    "ملیکه شاهین دعوای حقوقی مربوط به برند شخصی خود را برد. او علیه یک معلم موسیقی که نام «ملیکه شاهین» را بدون اجازه ثبت کرده و تلاش نموده بود از شهرت او سوءاستفاده کند، شکایت کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "021bb132b7b1",
@@ -2059,9 +2282,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/mahsun-karaca-durduk-yere-ali-koc-aradi-43392637",
      "title": "Mahsun Karaca: Durduk yere Ali Koç aradı",
      "snippet": "“Mahsun J” dizisinin başrol oyuncusu Mahsun Karaca, Fenerbahçe’nin eski başkanı Ali Koç’la yaptığı sürpriz telefon görüşmesini anlattı:",
-     "published": "2026-11-27T04:47:03.000Z"
+     "published": "2026-11-27T04:47:03.000Z",
+     "titleFa": "ماه‌سون کاراجا: علی کوç بی‌دلیل تماس گرفت"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b090b16716333c09cfebd74.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b090b16716333c09cfebd74.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true,
+   "titleFa": "تماس تلفنی غیرمنتظره علی کوç با ماهسون کاراجا",
+   "summaryFa": "ماهسون کاراجا، بازیگر نقش اصلی سریال «ماهسون جی»، درباره مکالمه تلفنی غافلگیرکننده خود با علی کوç صحبت کرد.",
+   "bodyFa": [
+    "ماهسون کاراجا، بازیگر اصلی سریال «ماهسون جی»، اخیراً درباره یک تماس تلفنی غیرمنتظره و عجیب صحبت کرده است. او توضیح داد که چگونه علی کوç، رئیس سابق باشگاه فنرباهچه، بدون هیچ دلیل قبلی با او تماس گرفته است.",
+    "این روایت مربوط به جزئیات گفتگوی غافلگیرکننده میان این دو چهره است که در میان طرفداران سریال و فوتبال بازتاب داشته و ماجرای این تماس سورپرایزکننده را بازگو می‌کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "cefa2e76821c",
@@ -2142,9 +2383,27 @@
      "url": "https://www.milliyet.com.tr/magazin/10-yillik-aska-evet-7708889",
      "title": "10 yıllık aska ‘Evet’",
      "snippet": "MESUT YILMAZ -Yaklaşık 10 yıldır birlikte olan şarkıcı Derya Uluğ ve prodüktör Asil Gök, mutluluğa “Evet” dedi. Çifti düğünde sanat ve spor camiasından çok sayıda ünlü isim yalnız bırakmadı. İstanbul Raffles Otel’deki törende ikilinin şahitliğini Mesut Özil, Polat Yağcı ve Samsun Demir gibi isimler ",
-     "published": "2026-11-27T04:01:24.000Z"
+     "published": "2026-11-27T04:01:24.000Z",
+     "titleFa": "پاسخ «بله» به عشق ۱۰ ساله"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b08c0b4c00aca18cb4b1e2a.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b08c0b4c00aca18cb4b1e2a.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "ازواج درya اولوغ و اصیل گوک پس از ده سال رابطه ازدواج کردند",
+   "summaryFa": "دریا اولوغ و اصیل گوک پس از نزدیک به ده سال رابطه، طی مراسمی در استانبول با یکدیگر ازدواج کردند. چهره‌های سرشناسی از دنیای هنر و ورزش در این مراسم حضور داشتند.",
+   "bodyFa": [
+    "دریا اولوغ، خواننده، و اصیل گوک، تهیه‌کننده، پس از حدود ده سال رابطه عاشقانه تصمیم به ازدواج گرفتند. این زوج در مراسمی باشکوه که با حضور خانواده‌ها، دوستان و چهره‌های سرشناس دنیای هنر و ورزش برگزار شد، به یکدیگر پاسخ مثبت دادند.",
+    "مراسم ازدواج این زوج در هتل رافلز استانبول برگزار شد. در این مراسم، مسوت اوزیل، پولات یاغجی و سامسون دمیر به عنوان شاهدان عقد این زوج حضور داشتند و آن‌ها را در این روز مهم همراهی کردند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a4a052eed3c8",
@@ -2328,7 +2587,16 @@
      "snippet": "Şarkıcı, “Belki insanlar eski eşlerin birlikte olmasına şaşıracak. Ben hayatımda böyle özel bir beraberlik yaşamadım. Çok açık ve net söylüyorum; sevdim ve seviliyorum” dedi.",
      "published": "2026-11-27T04:01:21.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b08bf00c00aca18cb4b1df7.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b08bf00c00aca18cb4b1df7.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true
   },
   {
    "id": "fce3273e1b6d",
@@ -2355,9 +2623,27 @@
      "url": "https://www.milliyet.com.tr/magazin/2026yi-arenada-kapatacak-7708880",
      "title": "2026’yı Arena’da kapatacak",
      "snippet": "Yazdan sonbahara İstanbul, İzmir, Ankara, Antalya, Bursa ve Adana’da açık havada şarkılarını seslendiren sanatçı, verdiği 12 konserle 250 bin hayranıyla hasret giderdi. Ferah, 2 ve 24 Aralık akşamı Volkswagen Arena’da yılın son konserlerine imza atacak.",
-     "published": "2026-11-27T04:01:21.000Z"
+     "published": "2026-11-27T04:01:21.000Z",
+     "titleFa": "سال ۲۰۲۶ در آرنا به پایان می‌رسد"
     }
-   ]
+   ],
+   "images": [
+    "https://image.milimaj.com/i/milliyet/75/460x340/6b08be98c00aca18cb4b1ded.jpg",
+    "https://image.milimaj.com/i/milliyet/75/0x0/6b08be98c00aca18cb4b1ded.jpg",
+    "https://static.milliyet.com.tr/images/common/milliyet75-torch.svg?v=5",
+    "https://static.milliyet.com.tr/images/common/_next-white-1.svg",
+    "https://static.milliyet.com.tr/images/common/_youtube.svg",
+    "https://static.milliyet.com.tr/images/common/_tiktok.svg"
+   ],
+   "mediaDone": true,
+   "titleFa": "پایان‌بندی برنامه‌های سالانه Şebnem Ferah در Volkswagen Arena",
+   "summaryFa": "Şebnem Ferah پس از اجرای ۱۲ کنسرت در شهرهای مختلف، سال را با دو اجرا در Volkswagen Arena به پایان می‌برد.",
+   "bodyFa": [
+    "خواننده مشهور Şebnem Ferah پس از یک دوره وقفه طولانی، مجموعه کنسرت‌های خود را در فضای باز شهرهایی چون استانبول، ازمیر، آنکارا، آنتالیا، بورسا و آدانا برگزار کرد و طی ۱۲ کنسرت با ۲50 هزار نفر از طرفداران خود دیدار کرد.",
+    "بر اساس اطلاعات منتشر شده، این هنرمند قرار است در تاریخ‌های ۲ و ۲۴ دسامبر در سالن Volkswagen Arena استانبول روی صحنه برود و به این ترتیب، برنامه‌ها و اجراهای خود را در سال ۲۰۲۶ در این محل به اتمام برساند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "207388ed209f",
@@ -2435,7 +2721,16 @@
      "snippet": "Efsanevi İngiliz müzik grubu Duran Duran’ın kurucu üyelerinden gitarist Andy Taylor, 65 yaşında hayatını kaybetti.",
      "published": "2026-11-27T04:00:00.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b08aa8e716333c09cfebcf0.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b08aa8e716333c09cfebcf0.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3801",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3801"
+   ],
+   "mediaDone": true
   },
   {
    "id": "c7f21b88c16a",
@@ -2608,9 +2903,27 @@
      "url": "https://www.sabah.com.tr/magazin/bul-beniye-begeni-rekoru-7709948",
      "title": "Bul Beni’ye beğeni rekoru",
      "snippet": "EMRE Aydın, sözü ve müziği kendisine ait yeni şarkısı Bul Beni'yi yayınladı. Yayınlandığı ilk andan itibaren tüm dijital platformda beğeni rekoru kıran şarkı sosyal medyada da dikkat çekti. Aydın, Zeynep... Devamı için tıklayınız",
-     "published": "2026-11-26T15:24:03.000Z"
+     "published": "2026-11-26T15:24:03.000Z",
+     "titleFa": "رکورد لایک برای «بول بنی»"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/8eafa4/1200/675/0/36/348/232?u=https://isbh.tmgrup.com.tr/sbh/2026/11/26/bul-beniye-begeni-rekoru-1795706642737.jpeg",
+    "https://iasbh.tmgrup.com.tr/d900e6/752/395/0/41/348/223?u=https://isbh.tmgrup.com.tr/sbh/2026/11/26/bul-beniye-begeni-rekoru-1795706642737.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "رکوردشکنی آهنگ جدید امره آیدین با نام «بول بنی»",
+   "summaryFa": "امره آیدین ترانه جدید خود به نام «بول بنی» را منتشر کرد که با استقبال زیادی در پلتفرم‌های دیجیتال روبه‌رو شد. همچنین دوئت او با زینب باشتیک نیز وارد فهرست ترندها شد.",
+   "bodyFa": [
+    "امره آیدین آهنگ جدید خود به نام «بول بنی» را که ترانه و آهنگسازی آن متعلق به خودش است، منتشر کرد. این اثر از همان لحظه انتشار در تمام پلتفرم‌های دیجیتال رکوردشکنی کرد و توجه کاربران در شبکه‌های اجتماعی را به خود جلب نمود.",
+    "علاوه بر این، همکاری امره آیدین با زینب باشتیک در قالب دوئت «بلکی بیر گون اوزلرسین» نیز توانست به فهرست ترندها راه پیدا کند."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "d2ec504bdca7",
@@ -2637,9 +2950,27 @@
      "url": "https://www.sabah.com.tr/magazin/annesiyle-kamera-karsisina-gecti-7709947",
      "title": "Annesiyle kamera karşısına geçti",
      "snippet": "ARALIK 2023'te Umut Evirgen ile nikâh masasına oturan oyuncu Alina Boz, bebeğini kucağına almak için gün sayıyor. Yaklaşık 7 aylık hamile olan ve kız bebek bekleyen oyuncu, bir bebek bezi firmasının yüzü... Devamı için tıklayınız",
-     "published": "2026-11-26T15:23:43.000Z"
+     "published": "2026-11-26T15:23:43.000Z",
+     "titleFa": "او مقابل دوربین با مادرش رفت"
     }
-   ]
+   ],
+   "images": [
+    "https://iasbh.tmgrup.com.tr/868d99/1200/675/0/57/314/233?u=https://isbh.tmgrup.com.tr/sbh/2026/11/26/annesiyle-kamera-karsisina-gecti-1795706619764.jpeg",
+    "https://iasbh.tmgrup.com.tr/ee29c2/752/395/0/62/314/227?u=https://isbh.tmgrup.com.tr/sbh/2026/11/26/annesiyle-kamera-karsisina-gecti-1795706619764.jpeg",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/770x250-googlenews.webp",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/sabah-app-download.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/app-store-app.png",
+    "https://isbh.tmgrup.com.tr/sbh/site/v5/i/appstrore-Qr.png"
+   ],
+   "mediaDone": true,
+   "titleFa": "همکاری آلینا بوز و مادرش مقابل دوربین در دوران بارداری",
+   "summaryFa": "آلینا بوز که در انتظار تولد فرزند دختر خود است، چهره تبلیغاتی یک شرکت تولیدکننده پوشک بچه شد. او در این پروژه با مادرش، اولگا بوز، همبازی شد.",
+   "bodyFa": [
+    "آلینا بوز، بازیگر ترکیه‌ای که در دسامبر ۲۰۲۳ با موت اوویرگن ازدواج کرده بود، این روزها در انتظار به دنیا آوردن فرزند خود است. بر اساس اطلاعات منتشر شده، او در حدود ماه هفتم بارداری قرار دارد و انتظار یک نوزاد دختر را می‌کشد.",
+    "این بازیگر به تازگی به عنوان چهره تبلیغاتی یک شرکت تولیدکننده پوشک بچه انتخاب شده است. وی در همین راستا و برای حضور در این پروژه تبلیغاتی، در مقابل دوربین همراه با مادرش، اولگا بوز، ظاهر شد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "9e892d28dc33",
@@ -3905,7 +4236,16 @@
      "snippet": "Dünyaca ünlü Duran Duran grubunun kurucu üyelerinden Andy Taylor, 65 yaşında hayatını kaybetti. Uzun süredir prostat kan...",
      "published": "2026-11-26T06:48:52.000Z"
     }
-   ]
+   ],
+   "images": [
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/andytaloyjpg-AIjRhFcGCUGW2nHY8FA9rQ.jpg",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/andytaloyjpg-AIjRhFcGCUGW2nHY8FA9rQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/dogal-gazpng-EQBZm6GF70eIciKi0DKa2g.png?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/saglik-bakanligijpg-ksNWKb9xSE6ZF8am_KPx2g.jpg?w=288&h=162&mode=crop&scale=both",
+    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/neredeyse1milyonkisikaranliktakaldi6b0987b4f4678357b8bba00epng-JJiLrl7SckedZnOhvwBeUA.png?w=320&h=248&mode=crop&scale=both"
+   ],
+   "mediaDone": true
   },
   {
    "id": "f6e4e598fd6a",
@@ -3945,35 +4285,6 @@
    ],
    "ai": true,
    "aiTries": 1
-  },
-  {
-   "id": "96a4e96f0e72",
-   "url": "https://www.haberturk.com/magazin/foto/duran-duran-in-gitaristi-andy-taylor-yasamini-yitirdi-3930204",
-   "source": "haberturk-magazin",
-   "sourceName": "Habertürk",
-   "lang": "tr",
-   "title": "Ünlü müzisyenden acı haber",
-   "snippet": "Efsanevi müzik grubu Duran Duran’ın kurucu üyesi ve gitaristi Andy Taylor, 65 yaşında hayatını kaybetti",
-   "image": "https://im.haberturk.com/l/2026/11/26/ver1795672376/3930204/jpg/1920x1080",
-   "video": null,
-   "published": "2026-11-26T06:00:56.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "haberturk-magazin",
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/magazin/foto/duran-duran-in-gitaristi-andy-taylor-yasamini-yitirdi-3930204",
-     "title": "Ünlü müzisyenden acı haber",
-     "snippet": "Efsanevi müzik grubu Duran Duran’ın kurucu üyesi ve gitaristi Andy Taylor, 65 yaşında hayatını kaybetti",
-     "published": "2026-11-26T06:00:56.000Z"
-    }
-   ]
   },
   {
    "id": "fc11eeb2b456",
@@ -4049,7 +4360,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/hayat/derya-ulug-ve-asil-gok-10-yillik-asklarini-evlilikle-taclandirdi-43391346",
      "title": "Derya Uluğ ve Asil Gök 10 yıllık aşklarını evlilikle taçlandırdı",
      "snippet": "Yaklaşık 10 yıldır birlikte olan şarkıcı Derya Uluğ ve müzisyen Asil Gök, dün akşam İstanbul'da düzenlenen düğün töreniyle dünyaevine girdi. Ünlü isimlerin katıldığı gecede çiftin mutluluğu davetlilerin sosyal medya paylaşımlarına yansıdı.",
-     "published": "2026-11-26T04:38:00.000Z"
+     "published": "2026-11-26T04:38:00.000Z",
+     "titleFa": "دریا اولوگ و آصیل گوک عشق ۱۰ ساله خود را با ازدواج به سرانجام رساندند"
     },
     {
      "source": "milliyet-magazin",
@@ -4057,7 +4369,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/10-yillik-ask-evlilikle-taclandi-derya-ulugun-gelinligi-gundem-oldu-7708475",
      "title": "10 yıllık aşk evlilikle taçlandı! Derya Uluğ'un gelinliği gündem oldu",
      "snippet": "Yaklaşık 10 yıldır aşk yaşayan Derya Uluğ ve Asil Gök, görkemli bir düğünle evlendi. Çok sayıda ünlü ismin katıldığı gecede Derya Uluğ'un özel tasarım gelinliği ise sosyal medyada gündem oldu.",
-     "published": "2026-11-26T13:59:17.000Z"
+     "published": "2026-11-26T13:59:17.000Z",
+     "titleFa": "عشق ۱۰ ساله با ازدواج به سرانجام رسید! لباس عروس دریا اولوگ مورد توجه قرار گرفت"
     }
    ],
    "mergedIds": [
@@ -4071,7 +4384,50 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "دریا اولوگ و آصیل گوک پس از ده سال رابطه ازدواج کردند",
+   "summaryFa": "دریا اولوگ خواننده و آصیل گوک نوازنده پس از حدود ده سال رابطه در مراسمی با حضور افراد مشهور ازدواج کردند.",
+   "bodyFa": [
+    "دریا اولوگ خواننده و آصیل گوک نوازنده که حدود ده سال با یکدیگر رابطه داشتند، طی مراسمی ازدواج کردند. این مراسم عروسی با حضور چهره‌های سرشناس زیادی برگزار شد و شادی زوج در شبکه‌های اجتماعی بازتاب یافت.",
+    "بر اساس گزارش‌ها، لباس عروس خاص دریا اولوگ در این مراسم توجه کاربران شبکه‌های اجتماعی را به خود جلب کرد و به موضوعی داغ تبدیل شد."
+   ],
+   "comparison": {
+    "agree": [
+     "هر دو منبع اعلام کردند که دریا اولوگ و آصیل گوک پس از حدود ده سال رابطه ازدواج کرده‌اند.",
+     "هر دو منبع اشاره کردند که افراد مشهور زیادی در این مراسم حضور داشتند."
+    ],
+    "differ": [
+     {
+      "topic": "مکان و جزئیات برگزاری مراسم",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "ذکر کرد که این مراسم دیشب در استانبول برگزار شده است."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "به این جزئیات اشاره نکرد و تنها آن را یک مراسم باشکوه توصیف نمود."
+       }
+      ]
+     },
+     {
+      "topic": "بازتاب‌های مراسم",
+      "views": [
+       {
+        "source": "hurriyet-kelebek",
+        "text": "اعلام کرد که شادی زوج در اشتراک‌گذاری‌های مهمانان در شبکه‌های اجتماعی بازتاب داشته است."
+       },
+       {
+        "source": "milliyet-magazin",
+        "text": "به طور خاص به ترند شدن لباس عروس طراحی‌شده دریا اولوگ در شبکه‌های اجتماعی اشاره کرد."
+       }
+      ]
+     }
+    ],
+    "unconfirmed": []
+   },
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "635269b0b3c2",
@@ -4512,7 +4868,8 @@
      "url": "https://www.milliyet.com.tr/magazin/galeri/derya-ulug-ve-asil-gok-evlendi-iste-nikahtan-ilk-kareler-7707973",
      "title": "Derya Uluğ ve Asil Gök evlendi! İşte nikahtan ilk kareler",
      "snippet": "Şarkıcı Derya Uluğ ve sevgilisi Asil Gök, mutlu beraberliklerini imzayla taçlandırdı. Ünlü çift, sanat camiasından dostlarının katıldığı düğünle evlendi. Nikahtan paylaşılan karelere beğeni yağdı.",
-     "published": "2026-11-25T22:52:32.000Z"
+     "published": "2026-11-25T22:52:32.000Z",
+     "titleFa": "دریا اولوغ و اصیل گوک ازدواج کردند! این هم اولین تصاویر از مراسم عقد"
     }
    ],
    "images": [
@@ -4523,7 +4880,16 @@
     "https://static.milliyet.com.tr/images/common/_youtube.svg",
     "https://static.milliyet.com.tr/images/common/_tiktok.svg"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "دریا اولوغ و اصیل گوک ازدواج کردند",
+   "summaryFa": "خواننده معروف دریا اولوغ و نامزدش اصیل گوک در مراسمی با حضور دوستان هنرمند خود ازدواج کردند. تصاویر منتشر شده از این مراسم مورد توجه و استقبال زیادی قرار گرفته است.",
+   "bodyFa": [
+    "دریا اولوغ، خواننده شناخته‌شده، و شریک زندگی‌اش اصیل گوک رابطه طولانی خود را رسماً ثبت کرده و با یکدیگر ازدواج نمودند.",
+    "این زوج معروف مراسم عروسی خود را با حضور جمعی از دوستانشان از جامعه هنری برگزار کردند.",
+    "نخستین تصاویر و فریم‌های ثبت‌شده از مراسم عقد و عروسی آن‌ها در فضای مجازی منتشر شده و با واکنش مثبت و پسندهای فراوانی از سوی مخاطبان روبه‌رو شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ee8f10f4c5d4",
@@ -4919,7 +5285,8 @@
      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/ilkergezici/2026/11/26/lukus-hayatta-rizayi-kim-oynayacak",
      "title": "‘Lüküs Hayat’ta Rıza’yı kim oynayacak?",
      "snippet": "Türk tiyatrosunun 94 yıllık klasiği Lüküs Hayat yeniden sahneye çıkmaya hazırlanıyor. Çolpan İlhanamp;Sadri Alışık Tiyatrosu ile Piu Entertainment'ın 2027- 2028 sezonunda sahneleyeceği müzikal, şimdiden merak... Devamı için tıklayınız",
-     "published": "2026-11-25T15:58:27.000Z"
+     "published": "2026-11-25T15:58:27.000Z",
+     "titleFa": "چه کسی نقش رضا را در «لوکوس حیات» بازی خواهد کرد؟"
     }
    ],
    "images": [
@@ -4930,7 +5297,15 @@
     "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-1.png",
     "https://isbh.tmgrup.com.tr/sbh/site/v3/i/ztk-2.png"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "نمایش «لوکوس حیات» روی صحنه می‌رود",
+   "summaryFa": "نمایش کلاسیک «لوکوس حیات» برای فصل ۲۰۲۷-۲۰۲۸ آماده اجرا می‌شود. این اثر با همکاری تئاتر چولپان ایلحان و صدری آلیشیک و پیو اینترتینمنت روی صحنه خواهد رفت.",
+   "bodyFa": [
+    "اثر کلاسیک ۹۴ ساله تئاتر ترکیه به نام «لوکوس حیات» بار دیگر برای بازگشت به صحنه آماده می‌شود. این خبر توجه زیادی را به خود جلب کرده است.",
+    "این نمایش موزیکال قرار است در فصل ۲۰۲۷-۲۰۲۸ با همکاری مشترک تئاتر چولپان ایلحان و صدری آلیشیک همراه با پیو اینترتینمنت اجرا شود. متن این اثر توسط اکرام رشیت ری نوشته شده و موسیقی ماندگار آن متعلق به جمال رشیت ری است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "a025234524c3",
@@ -5279,10 +5654,20 @@
      "url": "https://www.haberturk.com/magazin/alessandra-ambrosio-istanbul-da-podyuma-cikti-3930084",
      "title": "İstanbul'da podyuma çıktı",
      "snippet": "Dünyaca ünlü model Alessandra Ambrosio’nun baş model olarak yer aldığı Monaco Chain defilesi İstanbul'da yapıldı",
-     "published": "2026-11-25T14:07:59.000Z"
+     "published": "2026-11-25T14:07:59.000Z",
+     "titleFa": "آلساندرا آمبروزیو روی پدیوم در استانبول"
     }
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "حضور آلسانτρα Ambrosio در استانبول برای فشن‌شو",
+   "summaryFa": "مدل سرشناس آلساندرا آمبروزیو به عنوان مدل اصلی در فشن‌شوی برند موناکو چین در استانبول حضور یافت. این مراسم میزبان چهره‌های سرشناس بین‌المللی از کشورهای مختلف بود.",
+   "bodyFa": [
+    "شهر استانبول میزبان مراسم رونمایی از کلکسیون‌های جدید برند «موناکو چین» بود که در آن آلساندرا آمبروزیو، مدل مشهور جهانی و چهره شناخته‌شده ویکتوریا سیکرت، به عنوان مدل اصلی روی پدیوم رفت. در این رویداد، ۴۰ مدل داخلی و خارجی آمبروزیو را همراهی کردند تا مجموعه‌های جدید را با نگاهی نو به نمایش بگذارند.",
+    "این شب پر از مهمانان سرشناس بین‌المللی از حوزه‌های سینما، تلویزیون و رسانه بود. از جمله حاضران در این مراسم می‌توان به سیرین عبدالنور، مهیره عبدالمنیر، باسما بوسل و شماری دیگر از چهره‌های شناخته‌شده از کشورهای عربی، مکزیک، ایالات متحده، خاورمیانه و اروپا اشاره کرد که جنبه بین‌المللی این رویداد را تقویت کردند.",
+    "آلساندرا آمبروزیو با پیشینه درخشان خود در دنیای مد، ستاره اصلی این شب بود و لباس‌های طراحی‌شده برای خود را به نمایش گذاشت. او همچنین از حضور در استانبول و معرفی این آثار ابراز خرسندی کرد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "206d53d8a96d",
@@ -5582,7 +5967,8 @@
      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/36-yasinda-olen-unlu-oyuncunun-her-seyi-tek-evladina-kaldi-43390546",
      "title": "36 yaşında ölen ünlü oyuncunun her şeyi tek evladına kaldı",
      "snippet": "Genç yaşta ünlenip, kazandığı bu ünün getirdiği ağırlığı zorlukta taşıyan, hayatının ilerleyen dönemlerinde yaşadığı büyük acıları ve bunalımları da tüm samimiyetiyle hayranlarıyla paylaşan yıldız oyuncu ağustos ayında hayatını kaybetmiş, ailesini ve hayranlarını yasa boğmuştu.",
-     "published": "2026-11-25T12:19:30.000Z"
+     "published": "2026-11-25T12:19:30.000Z",
+     "titleFa": "تمام دارایی بازیگر مشهور که در ۳۶ سالگی درگذشت برای تنها فرزندش باقی ماند"
     }
    ],
    "images": [
@@ -5593,7 +5979,15 @@
     "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
     "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
    ],
-   "mediaDone": true
+   "mediaDone": true,
+   "titleFa": "ارثیه بازیگر ۳۶ ساله متوفی به تنها فرزندش رسید",
+   "summaryFa": "یک بازیگر مشهور که در سن ۳۶ سالگی در ماه اوت درگذشته بود، تمام دارایی خود را برای تنها فرزندش به ارث گذاشت.",
+   "bodyFa": [
+    "یک بازیگر مشهور که در سنین جوانی به شهرت رسیده بود و در دوران زندگی‌اش با دشواری‌های شهرت، دردهای بزرگ و افسردگی دست‌وپنجه نرم کرده و آن‌ها را با طرفدارانش به اشتراک گذاشته بود، در ماه اوت دار فانی را وداع گفت و خانواده و هوادارانش را در اندوه فرو برد.",
+    "بر اساس اطلاعات منتشرشده، تمام دارایی و اموال این هنرمند ۳۶ ساله پس از درگذشت به تنها فرزندش واگذار شده است."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "ce3ed6653902",
@@ -6284,44 +6678,6 @@
    "aiTries": 1
   },
   {
-   "id": "43a49921564a",
-   "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-kizi-25-haftalik-dogdu-adini-acikladi-p384187",
-   "source": "sozcu-magazin",
-   "sourceName": "Sözcü",
-   "lang": "tr",
-   "title": "Ufuk Beydemir'in kızı 25 haftalık doğdu: Adını açıkladı",
-   "snippet": "'Ay Tenli Kadın' şarkısıyla tanınan Ufuk Beydemir, Hollandalı şarkıcı Sharon Kovacs ile kızlarını kucaklarına aldı. 25 h...",
-   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ufukbeydemirjpg-dSvRmozQXkm8Set9F5zLWg.jpg",
-   "video": null,
-   "published": "2026-11-25T07:28:19.000Z",
-   "scope": "general",
-   "kind": "media",
-   "entities": {
-    "series": [],
-    "people": [],
-    "networks": []
-   },
-   "sources": [
-    {
-     "source": "sozcu-magazin",
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-kizi-25-haftalik-dogdu-adini-acikladi-p384187",
-     "title": "Ufuk Beydemir'in kızı 25 haftalık doğdu: Adını açıkladı",
-     "snippet": "'Ay Tenli Kadın' şarkısıyla tanınan Ufuk Beydemir, Hollandalı şarkıcı Sharon Kovacs ile kızlarını kucaklarına aldı. 25 h...",
-     "published": "2026-11-25T07:28:19.000Z"
-    }
-   ],
-   "images": [
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ufukbeydemirjpg-dSvRmozQXkm8Set9F5zLWg.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ufukbeydemirjpg-dSvRmozQXkm8Set9F5zLWg.jpg?w=1270&h=675&mode=crop&scale=both",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/6/haberarasi-1png-nvs6CnK090eVi_Ty3JOH-g.png",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ufuk-beydemirin-kizi-25-haftalik-dogdu-adini-acikladi-2jpg-LLd6IKGjsEqeieYfYogQAA.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ufuk-beydemirin-kizi-25-haftalik-dogdu-adini-acikladi-1jpg-hMZLMrZvtU_tzTKRLNoXFg.jpg",
-    "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/hurmuz-iran-jpg-5XcApsjnS0eVOhtpEx_AdQ.jpg?w=288&h=162&mode=crop&scale=both"
-   ],
-   "mediaDone": true
-  },
-  {
    "id": "2390f2fe5cdc",
    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/film-davasi-reddedildi-43390272",
    "source": "hurriyet-kelebek",
@@ -6492,9 +6848,27 @@
      "url": "https://www.hurriyet.com.tr/kelebek/stil/kapali-gise-final-yapti-43390245",
      "title": "Kapalı gişe final yaptı",
      "snippet": "2026 konser turnesine Zorlu PSM’de başlayan Sibel Can, turnesinin finalini de aynı sahnede kapalı gişe gerçekleştirdi.",
-     "published": "2026-11-25T07:05:05.000Z"
+     "published": "2026-11-25T07:05:05.000Z",
+     "titleFa": "اجرای فینال با بلیت‌های تمام‌شده"
     }
-   ]
+   ],
+   "images": [
+    "https://image.hurimg.com/i/hurriyet/90/620x350/6b0688989a30875a04579ec3.jpg",
+    "https://image.hurimg.com/i/hurriyet/90/0x0/6b0688989a30875a04579ec3.jpg",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-next-social-v1.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-linkedin.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-youtube.svg?v=azure-3761",
+    "https://static.hurriyet.com.tr/static/images/redesign/ic-app-store.png?v=azure-3761"
+   ],
+   "mediaDone": true,
+   "titleFa": "پایان تور کنسرت ۲۰۲۶ سیبل جان با اجرای پرجذب در زورلو PSM",
+   "summaryFa": "سیبل جان تور کنسرت‌های سال ۲۰۲۶ خود را که در مرکز زورلو PSM آغاز کرده بود، با اجرایی پرمخاطب و بلیت‌های تمام‌شده در همین سالن به پایان رساند.",
+   "bodyFa": [
+    "سیبل جان تور کنسرت‌های سال ۲۰۲۶ میلادی خود را که در سالن زورلو PSM کلید زده بود، در همان مکان به اتمام رساند.",
+    "اجرای پایانی این تور نیز با استقبال مخاطبان روبه‌رو شد و تمامی بلیت‌های آن به فروش رفت تا این مجموعه برنامه‌ها با اجرا در همان صحنه آغازین به فرجام برسد."
+   ],
+   "ai": true,
+   "aiTries": 1
   },
   {
    "id": "0fff7ceac8ba",
